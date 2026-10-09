@@ -6437,5 +6437,1401 @@
  "abc7e1b1": {
   "text": "ໝົດ",
   "f": "audio/f/abc7e1b1.mp3"
+ },
+ "abc657c1": {
+  "text": "ກວດ",
+  "f": "audio/f/abc657c1.mp3"
+ },
+ "a16be20ef": {
+  "text": "ກວ້າງ",
+  "f": "audio/f/a16be20ef.mp3"
+ },
+ "a16c23ce2": {
+  "text": "ກະທົບ",
+  "f": "audio/f/a16c23ce2.mp3"
+ },
+ "af38da966": {
+  "text": "ການພັດທະນາ",
+  "f": "audio/f/af38da966.mp3"
+ },
+ "a769ed3ce": {
+  "text": "ການສຶກສາ",
+  "f": "audio/f/a769ed3ce.mp3"
+ },
+ "a849197c2": {
+  "text": "ກຳໄລ",
+  "f": "audio/f/a849197c2.mp3"
+ },
+ "a84919699": {
+  "text": "ກິນໆ",
+  "f": "audio/f/a84919699.mp3"
+ },
+ "aef5396b8": {
+  "text": "ກິນໆໄປ",
+  "f": "audio/f/aef5396b8.mp3"
+ },
+ "a307ed615": {
+  "text": "ກິນໆໄປກ່ອນ ເຢັນໝົດແລ້ວ",
+  "f": "audio/f/a307ed615.mp3"
+ },
+ "aefcf7807": {
+  "text": "ກົດໄລ້",
+  "f": "audio/f/aefcf7807.mp3"
+ },
+ "aa59c9598": {
+  "text": "ຂອບໃຈ ຊ່ວຍກວດໃຫ້ແດ່ເດີ",
+  "f": "audio/f/aa59c9598.mp3"
+ },
+ "ae94b623d": {
+  "text": "ຂອບໃຈທີ່ຮັບຟັງ",
+  "f": "audio/f/ae94b623d.mp3"
+ },
+ "a77d6bdfa": {
+  "text": "ຂອບໃຈທີ່ຮັບຟັງ ມີຄຳຖາມບໍ",
+  "f": "audio/f/a77d6bdfa.mp3"
+ },
+ "a849211e0": {
+  "text": "ຂະນະ",
+  "f": "audio/f/a849211e0.mp3"
+ },
+ "a925f4c05": {
+  "text": "ຂາ / ຂ້າ",
+  "f": "audio/f/a925f4c05.mp3"
+ },
+ "abc65d66": {
+  "text": "ຂາຍ",
+  "f": "audio/f/abc65d66.mp3"
+ },
+ "aba56dcd2": {
+  "text": "ຂ່າວດີ ແຕ່ຈະສຳເລັດເມື່ອໃດ",
+  "f": "audio/f/aba56dcd2.mp3"
+ },
+ "a25489133": {
+  "text": "ຂ້ອຍຄິດວ່າຄວນຮຽນພາສາອັງກິດແຕ່ນ້ອຍ",
+  "f": "audio/f/a25489133.mp3"
+ },
+ "a484637ef": {
+  "text": "ຂ້ອຍຈະຂຽນກ່ຽວກັບການຮຽນພາສາ",
+  "f": "audio/f/a484637ef.mp3"
+ },
+ "a3bee0cd8": {
+  "text": "ຂ້ອຍຈະລອງເບິ່ງ",
+  "f": "audio/f/a3bee0cd8.mp3"
+ },
+ "a4b7d0761": {
+  "text": "ຂ້ອຍຈະເວົ້າສາມຫົວຂໍ້",
+  "f": "audio/f/a4b7d0761.mp3"
+ },
+ "a10c56876": {
+  "text": "ຂ້ອຍຍອມ ຖ້າ",
+  "f": "audio/f/a10c56876.mp3"
+ },
+ "af1156ae6": {
+  "text": "ຂ້ອຍບໍ່ເຂົ້າໃຈບາງຄຳ",
+  "f": "audio/f/af1156ae6.mp3"
+ },
+ "ad6477394": {
+  "text": "ຂ້ອຍບໍ່ເຂົ້າໃຈມຸກ ອະທິບາຍແດ່",
+  "f": "audio/f/ad6477394.mp3"
+ },
+ "ac002d1d2": {
+  "text": "ຂ້ອຍມາແຕ່ອີສານ",
+  "f": "audio/f/ac002d1d2.mp3"
+ },
+ "a2c00d3e2": {
+  "text": "ຂ້ອຍອະທິບາຍໃຫ້",
+  "f": "audio/f/a2c00d3e2.mp3"
+ },
+ "ad6c3f8e2": {
+  "text": "ຂ້ອຍເຂົ້າໃຈ ເຖິງຢ່າງໃດກໍ່ຕາມຊາວບ້ານມີວຽກຫຼາຍຂຶ້ນ",
+  "f": "audio/f/ad6c3f8e2.mp3"
+ },
+ "af1f59a6": {
+  "text": "ຂ້ອຍແນ່ໃຈວ່າເຈົ້າຜ່ານແນ່ນອນ",
+  "f": "audio/f/af1f59a6.mp3"
+ },
+ "a379a7927": {
+  "text": "ຂ້ອຍໂພສວິດີໂອ",
+  "f": "audio/f/a379a7927.mp3"
+ },
+ "ad16b236a": {
+  "text": "ຂ້ອຍໂພສວິດີໂອລົງເຟສບຸກ",
+  "f": "audio/f/ad16b236a.mp3"
+ },
+ "af086f2a1": {
+  "text": "ຂ້ອຍໃຈເຢັນ",
+  "f": "audio/f/af086f2a1.mp3"
+ },
+ "a16e50c26": {
+  "text": "ຂໍ້ດີ",
+  "f": "audio/f/a16e50c26.mp3"
+ },
+ "af3875934": {
+  "text": "ຂໍ້ເສຍ",
+  "f": "audio/f/af3875934.mp3"
+ },
+ "aea23a9ce": {
+  "text": "ຄວາມສົມດຸນ",
+  "f": "audio/f/aea23a9ce.mp3"
+ },
+ "a16fa2625": {
+  "text": "ຄຳຖາມ",
+  "f": "audio/f/a16fa2625.mp3"
+ },
+ "abf8831e7": {
+  "text": "ຄຳສຳຄັນ",
+  "f": "audio/f/abf8831e7.mp3"
+ },
+ "ae1166a53": {
+  "text": "ຄຳເຊື່ອມ",
+  "f": "audio/f/ae1166a53.mp3"
+ },
+ "af69a5a78": {
+  "text": "ຄຸນຄ່າ",
+  "f": "audio/f/af69a5a78.mp3"
+ },
+ "a13f40b40": {
+  "text": "ຄຸນຄ່າຍັງຢູ່",
+  "f": "audio/f/a13f40b40.mp3"
+ },
+ "a75ef5e1a": {
+  "text": "ຄົງຈະຍາກຢູ່ເດ",
+  "f": "audio/f/a75ef5e1a.mp3"
+ },
+ "a65d2d7a5": {
+  "text": "ຄົງຈະຝົນຕົກ",
+  "f": "audio/f/a65d2d7a5.mp3"
+ },
+ "ade62185": {
+  "text": "ຄົນຫຼວງພະບາງເວົ້າຕ່າງຈາກວຽງຈັນບໍ",
+  "f": "audio/f/ade62185.mp3"
+ },
+ "a8493932b": {
+  "text": "ຄ່ອຍ",
+  "f": "audio/f/a8493932b.mp3"
+ },
+ "ae11b4d97": {
+  "text": "ຄ້າຍກັນ ແຕ່ຫຼາຍຄົນຮຽນພິເສດຕອນແລງອີກ",
+  "f": "audio/f/ae11b4d97.mp3"
+ },
+ "a84957b92": {
+  "text": "ຈຶ່ງ",
+  "f": "audio/f/a84957b92.mp3"
+ },
+ "affecbc6b": {
+  "text": "ຈຸດຢືນ",
+  "f": "audio/f/affecbc6b.mp3"
+ },
+ "a8acd9c76": {
+  "text": "ຊາວບ້ານ",
+  "f": "audio/f/a8acd9c76.mp3"
+ },
+ "a7b3c4654": {
+  "text": "ຊົນເຜົ່າ",
+  "f": "audio/f/a7b3c4654.mp3"
+ },
+ "ae1d1d623": {
+  "text": "ຊ່ວຍກວດໃຫ້ແດ່ໄດ້ບໍ",
+  "f": "audio/f/ae1d1d623.mp3"
+ },
+ "abc68b93": {
+  "text": "ຍອດ",
+  "f": "audio/f/abc68b93.mp3"
+ },
+ "aacef134": {
+  "text": "ຍອດຂາຍ",
+  "f": "audio/f/aacef134.mp3"
+ },
+ "afb01e7c6": {
+  "text": "ຍອດຂາຍເພີ່ມຂຶ້ນສິບເປີເຊັນ",
+  "f": "audio/f/afb01e7c6.mp3"
+ },
+ "abc68ba0": {
+  "text": "ຍອມ",
+  "f": "audio/f/abc68ba0.mp3"
+ },
+ "abc68c7f": {
+  "text": "ຍິນ",
+  "f": "audio/f/abc68c7f.mp3"
+ },
+ "ab8ed977": {
+  "text": "ຍຸງກັດ",
+  "f": "audio/f/ab8ed977.mp3"
+ },
+ "ac7a483ae": {
+  "text": "ຍ້ອນ ດັ່ງນັ້ນ ຈຶ່ງ",
+  "f": "audio/f/ac7a483ae.mp3"
+ },
+ "afc1d4f36": {
+  "text": "ຍ້ອນບໍ່ມີວຽກ ດັ່ງນັ້ນພວກເຂົາຈຶ່ງໄປຫາວຽກໃນເມືອງ",
+  "f": "audio/f/afc1d4f36.mp3"
+ },
+ "aa19dfb51": {
+  "text": "ຍ້ອນຫຍັງ",
+  "f": "audio/f/aa19dfb51.mp3"
+ },
+ "a1da168c5": {
+  "text": "ດັ່ງນັ້ນ",
+  "f": "audio/f/a1da168c5.mp3"
+ },
+ "a38c62812": {
+  "text": "ດັ່ງນັ້ນ ຈຶ່ງ",
+  "f": "audio/f/a38c62812.mp3"
+ },
+ "aca0f1386": {
+  "text": "ດັ່ງນັ້ນພວກເຂົາຈຶ່ງໄປ",
+  "f": "audio/f/aca0f1386.mp3"
+ },
+ "a1dbc144d": {
+  "text": "ຕະຫຼົກ",
+  "f": "audio/f/a1dbc144d.mp3"
+ },
+ "a7d144c34": {
+  "text": "ຕະຫຼົກບໍ",
+  "f": "audio/f/a7d144c34.mp3"
+ },
+ "ad9147870": {
+  "text": "ຕາມຂ່າວ",
+  "f": "audio/f/ad9147870.mp3"
+ },
+ "abff59efa": {
+  "text": "ຕາມຂ່າວແມ່ນພາຍໃນສອງປີ",
+  "f": "audio/f/abff59efa.mp3"
+ },
+ "aa8785dbd": {
+  "text": "ຕາມບໍ່ທັນ",
+  "f": "audio/f/aa8785dbd.mp3"
+ },
+ "a849c8b17": {
+  "text": "ຕາໄວ",
+  "f": "audio/f/a849c8b17.mp3"
+ },
+ "a1df732aa": {
+  "text": "ຕິດຕາມ",
+  "f": "audio/f/a1df732aa.mp3"
+ },
+ "ac0da193b": {
+  "text": "ຕົວລະຄອນ",
+  "f": "audio/f/ac0da193b.mp3"
+ },
+ "afac94245": {
+  "text": "ຕົວລະຄອນນີ້ເວົ້າພາສາໄວລຸ້ນ",
+  "f": "audio/f/afac94245.mp3"
+ },
+ "afad5e36c": {
+  "text": "ຕົວລະຄອນຮູ້ສຶກ",
+  "f": "audio/f/afad5e36c.mp3"
+ },
+ "af0f286fd": {
+  "text": "ຕົ້ນທຶນ",
+  "f": "audio/f/af0f286fd.mp3"
+ },
+ "a538854e1": {
+  "text": "ຕົ້ນທຶນສູງຂຶ້ນ",
+  "f": "audio/f/a538854e1.mp3"
+ },
+ "a2482ad8c": {
+  "text": "ຕ່າງກັນຫຼາຍ",
+  "f": "audio/f/a2482ad8c.mp3"
+ },
+ "ad9b4456": {
+  "text": "ຕ່າງຈາກ",
+  "f": "audio/f/ad9b4456.mp3"
+ },
+ "a800ff691": {
+  "text": "ຕ່າງໜ້ອຍໜຶ່ງ ສຽງວັນນະຍຸດບໍ່ຄືກັນ",
+  "f": "audio/f/a800ff691.mp3"
+ },
+ "a576f645f": {
+  "text": "ຕ້ອງຊອກຫາຄວາມສົມດຸນລະຫວ່າງການພັດທະນາແລະທຳມະຊາດ",
+  "f": "audio/f/a576f645f.mp3"
+ },
+ "aa027ebd6": {
+  "text": "ຕ້ອງມີຄວາມສົມດຸນ",
+  "f": "audio/f/aa027ebd6.mp3"
+ },
+ "a6d05a8f9": {
+  "text": "ຕ້ອງຮັກສາວັດທະນະທຳ",
+  "f": "audio/f/a6d05a8f9.mp3"
+ },
+ "a1fd84ed0": {
+  "text": "ຕໍ່ມື້",
+  "f": "audio/f/a1fd84ed0.mp3"
+ },
+ "aadf03ebe": {
+  "text": "ຖ້າ ໄດ້ບໍ",
+  "f": "audio/f/aadf03ebe.mp3"
+ },
+ "aa52bdee5": {
+  "text": "ຖ້າຂ້ອຍສັ່ງຫຼາຍຂຶ້ນ",
+  "f": "audio/f/aa52bdee5.mp3"
+ },
+ "a8f7d40d": {
+  "text": "ຖ້າຂ້ອຍສັ່ງຫຼາຍຂຶ້ນ ຫຼຸດລາຄາໄດ້ບໍ",
+  "f": "audio/f/a8f7d40d.mp3"
+ },
+ "a6792f0e8": {
+  "text": "ທັງສອງປະເທດ",
+  "f": "audio/f/a6792f0e8.mp3"
+ },
+ "a703890e1": {
+  "text": "ທັນສະໄໝ",
+  "f": "audio/f/a703890e1.mp3"
+ },
+ "a714a0cb9": {
+  "text": "ທາງອ້ອມ",
+  "f": "audio/f/a714a0cb9.mp3"
+ },
+ "a75764c30": {
+  "text": "ທຳມະຊາດ",
+  "f": "audio/f/a75764c30.mp3"
+ },
+ "a72fbc3dc": {
+  "text": "ທຳອິດ ມັນຊ່ວຍໃຫ້ຫາວຽກງ່າຍ",
+  "f": "audio/f/a72fbc3dc.mp3"
+ },
+ "a13d8901a": {
+  "text": "ທຳອິດ ອັນທີສອງ ສຸດທ້າຍ",
+  "f": "audio/f/a13d8901a.mp3"
+ },
+ "abc6b775": {
+  "text": "ທຸກ",
+  "f": "audio/f/abc6b775.mp3"
+ },
+ "a7ed0597f": {
+  "text": "ທຸກທ່ານ",
+  "f": "audio/f/a7ed0597f.mp3"
+ },
+ "a849dff0f": {
+  "text": "ທ່ານ",
+  "f": "audio/f/a849dff0f.mp3"
+ },
+ "ab26e7593": {
+  "text": "ທ່ານຜູ້ຊົມ",
+  "f": "audio/f/ab26e7593.mp3"
+ },
+ "a4b6e5bf3": {
+  "text": "ນອກຈາກນັ້ນ",
+  "f": "audio/f/a4b6e5bf3.mp3"
+ },
+ "a385804e": {
+  "text": "ນັກທ່ອງທ່ຽວຫຼາຍຂຶ້ນ ແຕ່ຕົ້ນທຶນກໍສູງຂຶ້ນ",
+  "f": "audio/f/a385804e.mp3"
+ },
+ "a17d28006": {
+  "text": "ນັກສະແດງ",
+  "f": "audio/f/a17d28006.mp3"
+ },
+ "a100e8d7c": {
+  "text": "ນຳສະເໜີ",
+  "f": "audio/f/a100e8d7c.mp3"
+ },
+ "ad7840af": {
+  "text": "ບາງ ປ່ຽນ ແຕ່",
+  "f": "audio/f/ad7840af.mp3"
+ },
+ "a188771a4": {
+  "text": "ບາງທີ",
+  "f": "audio/f/a188771a4.mp3"
+ },
+ "aa47e75c1": {
+  "text": "ບາງປະເພນີປ່ຽນ ແຕ່ຄຸນຄ່າຍັງຢູ່",
+  "f": "audio/f/aa47e75c1.mp3"
+ },
+ "a6e0b63ac": {
+  "text": "ບົດຄວາມ",
+  "f": "audio/f/a6e0b63ac.mp3"
+ },
+ "adbf1ac2f": {
+  "text": "ບົດຄວາມນີ້ຍາວຫຼາຍ",
+  "f": "audio/f/adbf1ac2f.mp3"
+ },
+ "a188c989a": {
+  "text": "ບົດນຳ",
+  "f": "audio/f/a188c989a.mp3"
+ },
+ "aefa57ff4": {
+  "text": "ບົດນຳ ເນື້ອເລື່ອງ ບົດສະຫຼຸບ",
+  "f": "audio/f/aefa57ff4.mp3"
+ },
+ "a77b873a1": {
+  "text": "ບົດສະຫຼຸບ",
+  "f": "audio/f/a77b873a1.mp3"
+ },
+ "a761df710": {
+  "text": "ບໍ່ຄ່ອຍສະດວກ",
+  "f": "audio/f/a761df710.mp3"
+ },
+ "a12187ad9": {
+  "text": "ບໍ່ຕ້ອງເກງໃຈ",
+  "f": "audio/f/a12187ad9.mp3"
+ },
+ "a151081aa": {
+  "text": "ບໍ່ສະດວກ",
+  "f": "audio/f/a151081aa.mp3"
+ },
+ "aa6143819": {
+  "text": "ບໍ່ຮູ້ ເປັນຫຍັງ",
+  "f": "audio/f/aa6143819.mp3"
+ },
+ "a5c8a5631": {
+  "text": "ບໍ່ເຂົ້າໃຈມຸກ",
+  "f": "audio/f/a5c8a5631.mp3"
+ },
+ "a2f1794a0": {
+  "text": "ບໍ່ເຫັນໜ້າ",
+  "f": "audio/f/a2f1794a0.mp3"
+ },
+ "a6c67bb27": {
+  "text": "ບໍ່ເຫັນໜ້າເລີຍ",
+  "f": "audio/f/a6c67bb27.mp3"
+ },
+ "ae48c980c": {
+  "text": "ປະມານຫົກຊົ່ວໂມງ ແລ້ວຢູ່ລາວເດ",
+  "f": "audio/f/ae48c980c.mp3"
+ },
+ "a2bc6083c": {
+  "text": "ປະເພນີ",
+  "f": "audio/f/a2bc6083c.mp3"
+ },
+ "abc6c7b3": {
+  "text": "ປາກ",
+  "f": "audio/f/abc6c7b3.mp3"
+ },
+ "aa4c4c3f0": {
+  "text": "ປາກຫວານ",
+  "f": "audio/f/aa4c4c3f0.mp3"
+ },
+ "aae69d052": {
+  "text": "ປິ່ນປົວ",
+  "f": "audio/f/aae69d052.mp3"
+ },
+ "a8a21d06d": {
+  "text": "ປີນີ້ຍອດຂາຍເພີ່ມຂຶ້ນສິບເປີເຊັນ",
+  "f": "audio/f/a8a21d06d.mp3"
+ },
+ "add734128": {
+  "text": "ປ້ອງກັນ",
+  "f": "audio/f/add734128.mp3"
+ },
+ "ae977fe03": {
+  "text": "ຜູ້ກຳກັບ",
+  "f": "audio/f/ae977fe03.mp3"
+ },
+ "a2ec2ac09": {
+  "text": "ຜູ້ຊົມ",
+  "f": "audio/f/a2ec2ac09.mp3"
+ },
+ "a2ec303fa": {
+  "text": "ຜູ້ຟັງ",
+  "f": "audio/f/a2ec303fa.mp3"
+ },
+ "abc6cd35": {
+  "text": "ຜົນ",
+  "f": "audio/f/abc6cd35.mp3"
+ },
+ "a13739312": {
+  "text": "ຜົນກະທົບ",
+  "f": "audio/f/a13739312.mp3"
+ },
+ "a937890dc": {
+  "text": "ຜົນກະທົບຕໍ່",
+  "f": "audio/f/a937890dc.mp3"
+ },
+ "ad1ae8604": {
+  "text": "ຜົນທີ່ຕາມມາ",
+  "f": "audio/f/ad1ae8604.mp3"
+ },
+ "a46ee1f74": {
+  "text": "ຜົນທີ່ຕາມມາແມ່ນບ້ານນອກມີແຕ່ຄົນເຖົ້າ",
+  "f": "audio/f/a46ee1f74.mp3"
+ },
+ "a84a0bcf4": {
+  "text": "ຜ່ານ",
+  "f": "audio/f/a84a0bcf4.mp3"
+ },
+ "ae491cb68": {
+  "text": "ຝົນຕົກແນ່ນອນ",
+  "f": "audio/f/ae491cb68.mp3"
+ },
+ "acbf1667c": {
+  "text": "ຝົນເຮັດໃຫ້ນ້ຳຖ້ວມ",
+  "f": "audio/f/acbf1667c.mp3"
+ },
+ "a7215a31a": {
+  "text": "ພວກເຂົາ",
+  "f": "audio/f/a7215a31a.mp3"
+ },
+ "a9410b034": {
+  "text": "ພວກເຈົ້າເວົ້າໄວຫຼາຍ ຂ້ອຍຕາມບໍ່ທັນ",
+  "f": "audio/f/a9410b034.mp3"
+ },
+ "a8aab4eba": {
+  "text": "ພັດທະນາ",
+  "f": "audio/f/a8aab4eba.mp3"
+ },
+ "abc6d476": {
+  "text": "ພາກ",
+  "f": "audio/f/abc6d476.mp3"
+ },
+ "a643fb4e": {
+  "text": "ພາກໃຕ້ກໍມີສຳນຽງຂອງເຂົາເອງ",
+  "f": "audio/f/a643fb4e.mp3"
+ },
+ "a18cff2be": {
+  "text": "ພາຍໃນ",
+  "f": "audio/f/a18cff2be.mp3"
+ },
+ "a19268630": {
+  "text": "ພາສາທ້ອງຖິ່ນ",
+  "f": "audio/f/a19268630.mp3"
+ },
+ "a2ff7805e": {
+  "text": "ພາສາມາດຕະຖານ",
+  "f": "audio/f/a2ff7805e.mp3"
+ },
+ "a60af4c34": {
+  "text": "ພາສາອີສານຄືພາສາລາວບໍ",
+  "f": "audio/f/a60af4c34.mp3"
+ },
+ "a18d1e135": {
+  "text": "ພິເສດ",
+  "f": "audio/f/a18d1e135.mp3"
+ },
+ "aac38371a": {
+  "text": "ພົບກັນເຄິ່ງທາງ",
+  "f": "audio/f/aac38371a.mp3"
+ },
+ "a41809aeb": {
+  "text": "ພົບກັນເຄິ່ງທາງ ເຈັດເປີເຊັນ",
+  "f": "audio/f/a41809aeb.mp3"
+ },
+ "abc6d89c": {
+  "text": "ຟັງ",
+  "f": "audio/f/abc6d89c.mp3"
+ },
+ "a9c11895c": {
+  "text": "ຟັງແຕ່ຄຳສຳຄັນ",
+  "f": "audio/f/a9c11895c.mp3"
+ },
+ "afa63c975": {
+  "text": "ຟັງແຕ່ຄຳສຳຄັນກໍພໍ",
+  "f": "audio/f/afa63c975.mp3"
+ },
+ "ae8778d9d": {
+  "text": "ມະຫາວິທະຍາໄລ",
+  "f": "audio/f/ae8778d9d.mp3"
+ },
+ "aa4da815b": {
+  "text": "ມັດທະຍົມ",
+  "f": "audio/f/aa4da815b.mp3"
+ },
+ "af782fd72": {
+  "text": "ມັນສະດວກກວ່າແມ່",
+  "f": "audio/f/af782fd72.mp3"
+ },
+ "ad6e81827": {
+  "text": "ມັນຫຼິ້ນສຽງ ສອງຄຳນີ້ຕ່າງກັນແຕ່ສຽງວັນນະຍຸດ",
+  "f": "audio/f/ad6e81827.mp3"
+ },
+ "ad4b9cb31": {
+  "text": "ມັນເຮັດໃຫ້ມີບັນຫາ",
+  "f": "audio/f/ad4b9cb31.mp3"
+ },
+ "ad65acaf": {
+  "text": "ມີ ແຕ່ການປ້ອງກັນຍຸງກັດສຳຄັນທີ່ສຸດ",
+  "f": "audio/f/ad65acaf.mp3"
+ },
+ "a611c1202": {
+  "text": "ມີຄຳຖາມບໍ",
+  "f": "audio/f/a611c1202.mp3"
+ },
+ "a37257265": {
+  "text": "ມີຄົນຕິດຕາມຫຼາຍບໍ",
+  "f": "audio/f/a37257265.mp3"
+ },
+ "a89f97a10": {
+  "text": "ມີທັງຂໍ້ດີແລະຂໍ້ເສຍ",
+  "f": "audio/f/a89f97a10.mp3"
+ },
+ "a82875220": {
+  "text": "ມີຜົນກະທົບແນວໃດ",
+  "f": "audio/f/a82875220.mp3"
+ },
+ "a184bc9f2": {
+  "text": "ມີລາຍງານວ່າ",
+  "f": "audio/f/a184bc9f2.mp3"
+ },
+ "a3e4c5b3": {
+  "text": "ມີວັກຊີນບໍ",
+  "f": "audio/f/a3e4c5b3.mp3"
+ },
+ "ae5867e9e": {
+  "text": "ມີອາການແນວໃດ",
+  "f": "audio/f/ae5867e9e.mp3"
+ },
+ "a1908b8d9": {
+  "text": "ມີແຕ່",
+  "f": "audio/f/a1908b8d9.mp3"
+ },
+ "a95568c91": {
+  "text": "ມື້ນີ້ຂ້ອຍຈະນຳສະເໜີ",
+  "f": "audio/f/a95568c91.mp3"
+ },
+ "abc6e1ff": {
+  "text": "ມຸກ",
+  "f": "audio/f/abc6e1ff.mp3"
+ },
+ "ab3484a75": {
+  "text": "ມົນລະພິດ",
+  "f": "audio/f/ab3484a75.mp3"
+ },
+ "a8c6050b": {
+  "text": "ມົນລະພິດເພີ່ມຂຶ້ນ",
+  "f": "audio/f/a8c6050b.mp3"
+ },
+ "a34db5a01": {
+  "text": "ຢູ່ຝຣັ່ງເດັກຮຽນຈັກໂມງຕໍ່ມື້",
+  "f": "audio/f/a34db5a01.mp3"
+ },
+ "a57c5e849": {
+  "text": "ຢ່າໃຈຮ້ອນ",
+  "f": "audio/f/a57c5e849.mp3"
+ },
+ "a680557b": {
+  "text": "ລອງເບິ່ງ",
+  "f": "audio/f/a680557b.mp3"
+ },
+ "a4555acc5": {
+  "text": "ລອງເບິ່ງ ສ່ວນຫຼາຍແມ່ນບໍ່",
+  "f": "audio/f/a4555acc5.mp3"
+ },
+ "a55cff27a": {
+  "text": "ລັດຖະບານ",
+  "f": "audio/f/a55cff27a.mp3"
+ },
+ "a4321797b": {
+  "text": "ລາຍງານ",
+  "f": "audio/f/a4321797b.mp3"
+ },
+ "a4322794a": {
+  "text": "ລາຍໄດ້",
+  "f": "audio/f/a4322794a.mp3"
+ },
+ "ab9741a07": {
+  "text": "ລາວບໍ່ມາດອກ",
+  "f": "audio/f/ab9741a07.mp3"
+ },
+ "ae46d67fa": {
+  "text": "ລາວຫົວແຂງ",
+  "f": "audio/f/ae46d67fa.mp3"
+ },
+ "a715f7e5e": {
+  "text": "ລາວໃຈກວ້າງຫຼາຍ",
+  "f": "audio/f/a715f7e5e.mp3"
+ },
+ "a47b32ad6": {
+  "text": "ວັກຊີນ",
+  "f": "audio/f/a47b32ad6.mp3"
+ },
+ "afb1bc5eb": {
+  "text": "ວັດທະນະທຳ",
+  "f": "audio/f/afb1bc5eb.mp3"
+ },
+ "ab0499744": {
+  "text": "ວັນເສົາມາກິນເຂົ້ານຳກັນບໍ",
+  "f": "audio/f/ab0499744.mp3"
+ },
+ "abc6fac5": {
+  "text": "ວາງ",
+  "f": "audio/f/abc6fac5.mp3"
+ },
+ "a47c97572": {
+  "text": "ວາງໂຄງ",
+  "f": "audio/f/a47c97572.mp3"
+ },
+ "a59bfbd01": {
+  "text": "ວາງໂຄງກ່ອນ",
+  "f": "audio/f/a59bfbd01.mp3"
+ },
+ "a94d80e0a": {
+  "text": "ວາງໂຄງກ່ອນ: ບົດນຳ ເນື້ອເລື່ອງ ບົດສະຫຼຸບ",
+  "f": "audio/f/a94d80e0a.mp3"
+ },
+ "aac15f005": {
+  "text": "ວຽກຫຼາຍແທ້ເດ",
+  "f": "audio/f/aac15f005.mp3"
+ },
+ "a22ebccf9": {
+  "text": "ສອງພັນຄົນແລ້ວ",
+  "f": "audio/f/a22ebccf9.mp3"
+ },
+ "a1d947d38": {
+  "text": "ສອບເສັງ",
+  "f": "audio/f/a1d947d38.mp3"
+ },
+ "a4eacbed2": {
+  "text": "ສະຖິຕິ",
+  "f": "audio/f/a4eacbed2.mp3"
+ },
+ "a4d115fdb": {
+  "text": "ສະບາຍດີທຸກທ່ານ",
+  "f": "audio/f/a4d115fdb.mp3"
+ },
+ "afeb0d45b": {
+  "text": "ສະບາຍດີທຸກທ່ານ ມື້ນີ້ຂ້ອຍຈະນຳສະເໜີໂຄງການຂອງຂ້ອຍ",
+  "f": "audio/f/afeb0d45b.mp3"
+ },
+ "a82076daa": {
+  "text": "ສະບາຍດີທ່ານຜູ້ຊົມ ຂ່າວມື້ນີ້",
+  "f": "audio/f/a82076daa.mp3"
+ },
+ "a19a8d94c": {
+  "text": "ສະແລງ",
+  "f": "audio/f/a19a8d94c.mp3"
+ },
+ "a4eb5d647": {
+  "text": "ສັງຄົມ",
+  "f": "audio/f/a4eb5d647.mp3"
+ },
+ "a84a80b2f": {
+  "text": "ສັ່ງ",
+  "f": "audio/f/a84a80b2f.mp3"
+ },
+ "abc70782": {
+  "text": "ສາກ",
+  "f": "audio/f/abc70782.mp3"
+ },
+ "a664c2dd5": {
+  "text": "ສາມສິບແປດອົງສາ",
+  "f": "audio/f/a664c2dd5.mp3"
+ },
+ "a19a9eea0": {
+  "text": "ສາເຫດ",
+  "f": "audio/f/a19a9eea0.mp3"
+ },
+ "aac8bf279": {
+  "text": "ສາເຫດຫຼັກ",
+  "f": "audio/f/aac8bf279.mp3"
+ },
+ "a19a9d75f": {
+  "text": "ສຳນຽງ",
+  "f": "audio/f/a19a9d75f.mp3"
+ },
+ "a4ef9d3ec": {
+  "text": "ສຳເລັດ",
+  "f": "audio/f/a4ef9d3ec.mp3"
+ },
+ "a9a8a8238": {
+  "text": "ສິບເປີເຊັນແລ້ວຂ້ອຍຈ່າຍເງິນສົດ",
+  "f": "audio/f/a9a8a8238.mp3"
+ },
+ "aedd9f74a": {
+  "text": "ສິ່ງແວດລ້ອມ",
+  "f": "audio/f/aedd9f74a.mp3"
+ },
+ "abc7086e": {
+  "text": "ສື່",
+  "f": "audio/f/abc7086e.mp3"
+ },
+ "ab149f470": {
+  "text": "ສື່ສັງຄົມ",
+  "f": "audio/f/ab149f470.mp3"
+ },
+ "af082e94e": {
+  "text": "ສຸດທ້າຍ ໂລກເຊື່ອມຕໍ່ກັນຫຼາຍຂຶ້ນ",
+  "f": "audio/f/af082e94e.mp3"
+ },
+ "a6bbcd352": {
+  "text": "ສູງຫຼາຍ ເງິນກີບອ່ອນຄ່າ",
+  "f": "audio/f/a6bbcd352.mp3"
+ },
+ "a383a3e80": {
+  "text": "ສູງເຖິງ",
+  "f": "audio/f/a383a3e80.mp3"
+ },
+ "a4f517618": {
+  "text": "ສູນເສຍ",
+  "f": "audio/f/a4f517618.mp3"
+ },
+ "a19ae3b2e": {
+  "text": "ສົນໃຈ",
+  "f": "audio/f/a19ae3b2e.mp3"
+ },
+ "a4f7950d0": {
+  "text": "ສົມດຸນ",
+  "f": "audio/f/a4f7950d0.mp3"
+ },
+ "a16ee7c46": {
+  "text": "ສຽງວັນນະຍຸດ",
+  "f": "audio/f/a16ee7c46.mp3"
+ },
+ "a2a4166a8": {
+  "text": "ສ້າງໄຟຟ້າໄດ້ຫຼາຍ ແຕ່ປາກໍຫຼຸດລົງ",
+  "f": "audio/f/a2a4166a8.mp3"
+ },
+ "a238a4eea": {
+  "text": "ຫຍໍ້ໜ້າ",
+  "f": "audio/f/a238a4eea.mp3"
+ },
+ "a84a86a0f": {
+  "text": "ຫວັງ",
+  "f": "audio/f/a84a86a0f.mp3"
+ },
+ "a5e10ae90": {
+  "text": "ຫວັງວ່າ",
+  "f": "audio/f/a5e10ae90.mp3"
+ },
+ "ac85ba927": {
+  "text": "ຫວັງວ່າຈະທັນເວລາ",
+  "f": "audio/f/ac85ba927.mp3"
+ },
+ "a8c18454d": {
+  "text": "ຫົວອ່ອນ",
+  "f": "audio/f/a8c18454d.mp3"
+ },
+ "a51d27c1c": {
+  "text": "ຫົວແຂງ",
+  "f": "audio/f/a51d27c1c.mp3"
+ },
+ "a42210309": {
+  "text": "ຫົວໜ້າຂ້ອຍໃຈກວ້າງຫຼາຍ",
+  "f": "audio/f/a42210309.mp3"
+ },
+ "a84a8c35e": {
+  "text": "ຫຼັກ",
+  "f": "audio/f/a84a8c35e.mp3"
+ },
+ "a8f096e3f": {
+  "text": "ຫຼັກຖານ",
+  "f": "audio/f/a8f096e3f.mp3"
+ },
+ "a8f09c435": {
+  "text": "ຫຼັກສູດ",
+  "f": "audio/f/a8f09c435.mp3"
+ },
+ "a8f6739f9": {
+  "text": "ຫຼິ້ນຄຳ",
+  "f": "audio/f/a8f6739f9.mp3"
+ },
+ "acb1bf8e7": {
+  "text": "ຫຼຸດລົງເຄິ່ງໜຶ່ງ",
+  "f": "audio/f/acb1bf8e7.mp3"
+ },
+ "ab458b66": {
+  "text": "ອະທິບາຍ",
+  "f": "audio/f/ab458b66.mp3"
+ },
+ "a4dd64c83": {
+  "text": "ອະທິບາຍແດ່",
+  "f": "audio/f/a4dd64c83.mp3"
+ },
+ "ac39d7e66": {
+  "text": "ອັນທີສອງ",
+  "f": "audio/f/ac39d7e66.mp3"
+ },
+ "a5d275983": {
+  "text": "ອັນທີສອງ ເດັກນ້ອຍຮຽນພາສາໄວ",
+  "f": "audio/f/a5d275983.mp3"
+ },
+ "a19df2d10": {
+  "text": "ອາການ",
+  "f": "audio/f/a19df2d10.mp3"
+ },
+ "a19df7890": {
+  "text": "ອາດຈະ",
+  "f": "audio/f/a19df7890.mp3"
+ },
+ "aeefd0a4d": {
+  "text": "ອາດຈະ / ຄົງຈະ / ແນ່ນອນ",
+  "f": "audio/f/aeefd0a4d.mp3"
+ },
+ "a25f0fd0a": {
+  "text": "ອາດຈະ ແຕ່ບໍ່ແນ່ໃຈ",
+  "f": "audio/f/a25f0fd0a.mp3"
+ },
+ "af06b10f9": {
+  "text": "ອາດຈະຜ່ານ ແຕ່ບໍ່ແນ່ໃຈ",
+  "f": "audio/f/af06b10f9.mp3"
+ },
+ "a879e81f2": {
+  "text": "ອາດຈະຝົນຕົກ",
+  "f": "audio/f/a879e81f2.mp3"
+ },
+ "a62657eea": {
+  "text": "ອາດຈະແຕ່ບໍ່ແນ່ໃຈ",
+  "f": "audio/f/a62657eea.mp3"
+ },
+ "a88ae6267": {
+  "text": "ອິນເຕີເນັດ",
+  "f": "audio/f/a88ae6267.mp3"
+ },
+ "a19e1809c": {
+  "text": "ອີສານ",
+  "f": "audio/f/a19e1809c.mp3"
+ },
+ "adfdc2276": {
+  "text": "ອຸນຫະພູມ",
+  "f": "audio/f/adfdc2276.mp3"
+ },
+ "af85395ff": {
+  "text": "ອຸນຫະພູມມື້ອື່ນຈະສູງເຖິງສາມສິບແປດອົງສາ",
+  "f": "audio/f/af85395ff.mp3"
+ },
+ "a19e43510": {
+  "text": "ອົງສາ",
+  "f": "audio/f/a19e43510.mp3"
+ },
+ "a25213fad": {
+  "text": "ອົບອຸ່ນ",
+  "f": "audio/f/a25213fad.mp3"
+ },
+ "a44c04cbe": {
+  "text": "ອ່ອນຄ່າ",
+  "f": "audio/f/a44c04cbe.mp3"
+ },
+ "a77751529": {
+  "text": "ອ່ານຫົວຂໍ້ກັບຫຍໍ້ໜ້າທຳອິດກ່ອນ",
+  "f": "audio/f/a77751529.mp3"
+ },
+ "a19f0b841": {
+  "text": "ຮັກສາ",
+  "f": "audio/f/a19f0b841.mp3"
+ },
+ "a793a8918": {
+  "text": "ຮັກສາໜ້າ",
+  "f": "audio/f/a793a8918.mp3"
+ },
+ "a58155575": {
+  "text": "ຮັບຟັງ",
+  "f": "audio/f/a58155575.mp3"
+ },
+ "a5a8dbff2": {
+  "text": "ຮູ້ບໍວ່າເປັນຫຍັງ",
+  "f": "audio/f/a5a8dbff2.mp3"
+ },
+ "a4c18a8b9": {
+  "text": "ຮຽນພິເສດ",
+  "f": "audio/f/a4c18a8b9.mp3"
+ },
+ "a1b1c3bb8": {
+  "text": "ເກງໃຈ",
+  "f": "audio/f/a1b1c3bb8.mp3"
+ },
+ "aa1fed9aa": {
+  "text": "ເກືອບຄືກັນ",
+  "f": "audio/f/aa1fed9aa.mp3"
+ },
+ "a8a8eb5d9": {
+  "text": "ເກືອບຄືກັນ ແຕ່ພວກເຮົາຂຽນດ້ວຍຕົວໜັງສືໄທ",
+  "f": "audio/f/a8a8eb5d9.mp3"
+ },
+ "a7ed0460c": {
+  "text": "ເຂື່ອນ",
+  "f": "audio/f/a7ed0460c.mp3"
+ },
+ "a38ff1318": {
+  "text": "ເຂື່ອນໃນແມ່ນ້ຳຂອງມີຜົນກະທົບແນວໃດ",
+  "f": "audio/f/a38ff1318.mp3"
+ },
+ "a66551714": {
+  "text": "ເຂົ້າໃຈກັນໄດ້",
+  "f": "audio/f/a66551714.mp3"
+ },
+ "a4ff91cbb": {
+  "text": "ເຂົ້າໃຈກັນໄດ້ບໍ",
+  "f": "audio/f/a4ff91cbb.mp3"
+ },
+ "a6432c992": {
+  "text": "ເງິນສົດ",
+  "f": "audio/f/a6432c992.mp3"
+ },
+ "aea97a816": {
+  "text": "ເງິນເຟີ້",
+  "f": "audio/f/aea97a816.mp3"
+ },
+ "ad3a30de0": {
+  "text": "ເງິນເຟີ້ສູງ",
+  "f": "audio/f/ad3a30de0.mp3"
+ },
+ "a489ff687": {
+  "text": "ເງິນເຟີ້ສູງບໍ",
+  "f": "audio/f/a489ff687.mp3"
+ },
+ "af4df1e97": {
+  "text": "ເງື່ອນໄຂ",
+  "f": "audio/f/af4df1e97.mp3"
+ },
+ "a1c6dec9f": {
+  "text": "ເຈົ້າຄິດວ່າລາວຄວນພັດທະນາແນວໃດ",
+  "f": "audio/f/a1c6dec9f.mp3"
+ },
+ "a2cfd8344": {
+  "text": "ເຈົ້າຈະສອບເສັງຜ່ານບໍ",
+  "f": "audio/f/a2cfd8344.mp3"
+ },
+ "a730393e4": {
+  "text": "ເຈົ້າໄປໃສມາ ບໍ່ເຫັນໜ້າເລີຍ",
+  "f": "audio/f/a730393e4.mp3"
+ },
+ "a558c23a6": {
+  "text": "ເຊື່ອມຕໍ່",
+  "f": "audio/f/a558c23a6.mp3"
+ },
+ "a6f2a6e4e": {
+  "text": "ເຖິງຢ່າງໃດກໍ່ຕາມ",
+  "f": "audio/f/a6f2a6e4e.mp3"
+ },
+ "ac68299ba": {
+  "text": "ເຖິງແມ່ນວ່າ",
+  "f": "audio/f/ac68299ba.mp3"
+ },
+ "a159f25d8": {
+  "text": "ເຖິງແມ່ນວ່າ ແຕ່",
+  "f": "audio/f/a159f25d8.mp3"
+ },
+ "a5625d7db": {
+  "text": "ເຖິງແມ່ນວ່າການທ່ອງທ່ຽວສຳຄັນ ແຕ່ການສຶກສາສຳຄັນກວ່າ",
+  "f": "audio/f/a5625d7db.mp3"
+ },
+ "a867679db": {
+  "text": "ເຖິງແມ່ນວ່ານັກທ່ອງທ່ຽວເອົາເງິນມາ ແຕ່ກໍສ້າງບັນຫາຄືກັນ",
+  "f": "audio/f/a867679db.mp3"
+ },
+ "aa3ceab60": {
+  "text": "ເຖິງແມ່ນວ່າແພງ",
+  "f": "audio/f/aa3ceab60.mp3"
+ },
+ "a5b6b5103": {
+  "text": "ເນື້ອເລື່ອງ",
+  "f": "audio/f/a5b6b5103.mp3"
+ },
+ "a2f736d3e": {
+  "text": "ເບິ່ງຄືວ່າ",
+  "f": "audio/f/a2f736d3e.mp3"
+ },
+ "a7cdd4067": {
+  "text": "ເປັນຫຍັງຄົນໜຸ່ມຈຶ່ງອອກຈາກບ້ານນອກ",
+  "f": "audio/f/a7cdd4067.mp3"
+ },
+ "a9300e809": {
+  "text": "ເປີເຊັນ",
+  "f": "audio/f/a9300e809.mp3"
+ },
+ "ab7e707f7": {
+  "text": "ເພີ່ມຂຶ້ນສິບເປີເຊັນ",
+  "f": "audio/f/ab7e707f7.mp3"
+ },
+ "ab04c7d18": {
+  "text": "ເພື່ອນຮ່ວມງານ",
+  "f": "audio/f/ab04c7d18.mp3"
+ },
+ "a24d54e44": {
+  "text": "ເພື່ອປ້ອງກັນ ຕ້ອງ",
+  "f": "audio/f/a24d54e44.mp3"
+ },
+ "a32999879": {
+  "text": "ເພື່ອປ້ອງກັນ ຕ້ອງເທນ້ຳທີ່ຂັງອອກ",
+  "f": "audio/f/a32999879.mp3"
+ },
+ "a90c0be4": {
+  "text": "ເພື່ອປ້ອງກັນຕ້ອງ",
+  "f": "audio/f/a90c0be4.mp3"
+ },
+ "a80d52961": {
+  "text": "ເຟສບຸກ",
+  "f": "audio/f/a80d52961.mp3"
+ },
+ "aa1290709": {
+  "text": "ເມື່ອໃດ",
+  "f": "audio/f/aa1290709.mp3"
+ },
+ "a9ae64a3f": {
+  "text": "ເລົ່າເລື່ອງຕະຫຼົກ",
+  "f": "audio/f/a9ae64a3f.mp3"
+ },
+ "a23fda08a": {
+  "text": "ເວົ້າຕ່າງກັນບໍ",
+  "f": "audio/f/a23fda08a.mp3"
+ },
+ "a593d7ad2": {
+  "text": "ເວົ້າສຳນຽງຫຼວງພະບາງ",
+  "f": "audio/f/a593d7ad2.mp3"
+ },
+ "a524211e2": {
+  "text": "ເວົ້າເກັ່ງ ເວົ້າໃຫ້ຄົນມັກ",
+  "f": "audio/f/a524211e2.mp3"
+ },
+ "aaf70fead": {
+  "text": "ເວົ້າໄວ",
+  "f": "audio/f/aaf70fead.mp3"
+ },
+ "a4557cece": {
+  "text": "ເວົ້າໄວແທ້",
+  "f": "audio/f/a4557cece.mp3"
+ },
+ "ab32c0ef3": {
+  "text": "ເສຍໃຈນຳ",
+  "f": "audio/f/ab32c0ef3.mp3"
+ },
+ "a81a24814": {
+  "text": "ເຫດຜົນ",
+  "f": "audio/f/a81a24814.mp3"
+ },
+ "a73add2b5": {
+  "text": "ເຫດຜົນຂອງເຈົ້າໜັກແໜ້ນ",
+  "f": "audio/f/a73add2b5.mp3"
+ },
+ "a73568cdd": {
+  "text": "ເຫດຜົນດີ",
+  "f": "audio/f/a73568cdd.mp3"
+ },
+ "a46c51e87": {
+  "text": "ເຫດຜົນດີ ແຕ່ພາສາລາວກໍສຳຄັນເດີ",
+  "f": "audio/f/a46c51e87.mp3"
+ },
+ "a84b3ff1a": {
+  "text": "ເຫັນ",
+  "f": "audio/f/a84b3ff1a.mp3"
+ },
+ "a25f3a943": {
+  "text": "ເອີ ຂ້ອຍຈະລອງເບິ່ງເດີ",
+  "f": "audio/f/a25f3a943.mp3"
+ },
+ "abef35b2f": {
+  "text": "ເຮັດໃຫ້",
+  "f": "audio/f/abef35b2f.mp3"
+ },
+ "a1f2360e7": {
+  "text": "ແກ້ວຫຼິ້ນໂທລະສັບທັງມື້",
+  "f": "audio/f/a1f2360e7.mp3"
+ },
+ "abc76415": {
+  "text": "ແງ່",
+  "f": "audio/f/abc76415.mp3"
+ },
+ "a84b3fd7f": {
+  "text": "ແຊຣ໌",
+  "f": "audio/f/a84b3fd7f.mp3"
+ },
+ "aa2d6028": {
+  "text": "ແຕ່ກ່ອນງານແຕ່ງງານເຮັດຢູ່ເຮືອນ ດຽວນີ້ເຮັດຢູ່ໂຮງແຮມ",
+  "f": "audio/f/aa2d6028.mp3"
+ },
+ "a1b3a5c98": {
+  "text": "ແຕ່ລະ",
+  "f": "audio/f/a1b3a5c98.mp3"
+ },
+ "a6aafb179": {
+  "text": "ແຕ່ລະພາກມີສຳນຽງ",
+  "f": "audio/f/a6aafb179.mp3"
+ },
+ "a8715091c": {
+  "text": "ແຕ່ລາວບໍ່ໄດ້ບອກວ່າບໍ່ມາ",
+  "f": "audio/f/a8715091c.mp3"
+ },
+ "ad83b63cc": {
+  "text": "ແຕ່ລາວຫົວແຂງໂພດ",
+  "f": "audio/f/ad83b63cc.mp3"
+ },
+ "abcbc503c": {
+  "text": "ແຕ່ສູນເສຍຄວາມອົບອຸ່ນ",
+  "f": "audio/f/abcbc503c.mp3"
+ },
+ "a6e7d5d9": {
+  "text": "ແຕ່ເພື່ອນຮ່ວມງານຄົນໜຶ່ງໃຈແຄບ",
+  "f": "audio/f/a6e7d5d9.mp3"
+ },
+ "a82ce2cc6": {
+  "text": "ແນ່ນອນ",
+  "f": "audio/f/a82ce2cc6.mp3"
+ },
+ "a1b3c91d2": {
+  "text": "ແນ່ໃຈ",
+  "f": "audio/f/a1b3c91d2.mp3"
+ },
+ "a56d7ef7f": {
+  "text": "ແຜ່ລະບາດ",
+  "f": "audio/f/a56d7ef7f.mp3"
+ },
+ "ad98f1683": {
+  "text": "ແມ່ນ ແຕ່ປະເພນີກໍປ່ຽນໄປ",
+  "f": "audio/f/ad98f1683.mp3"
+ },
+ "afef7e026": {
+  "text": "ແມ່ນຄຳສະແລງ",
+  "f": "audio/f/afef7e026.mp3"
+ },
+ "aa3a811a3": {
+  "text": "ແມ່ນຄຳສະແລງ ຂ້ອຍອະທິບາຍໃຫ້",
+  "f": "audio/f/aa3a811a3.mp3"
+ },
+ "a87d9d66a": {
+  "text": "ແລ້ວຊອກຫາຄຳເຊື່ອມ: ສະນັ້ນ ແຕ່ ນອກຈາກນັ້ນ",
+  "f": "audio/f/a87d9d66a.mp3"
+ },
+ "a16d1bded": {
+  "text": "ແລ້ວເຈົ້າເດ",
+  "f": "audio/f/a16d1bded.mp3"
+ },
+ "a84b493fe": {
+  "text": "ແອັບ",
+  "f": "audio/f/a84b493fe.mp3"
+ },
+ "abc767b2": {
+  "text": "ໂຄງ",
+  "f": "audio/f/abc767b2.mp3"
+ },
+ "a838348be": {
+  "text": "ໂຄງການ",
+  "f": "audio/f/a838348be.mp3"
+ },
+ "abc769c8": {
+  "text": "ໂດຍ",
+  "f": "audio/f/abc769c8.mp3"
+ },
+ "a84a81b14": {
+  "text": "ໂດຍການ",
+  "f": "audio/f/a84a81b14.mp3"
+ },
+ "a84a8b2d5": {
+  "text": "ໂດຍລວມ",
+  "f": "audio/f/a84a8b2d5.mp3"
+ },
+ "abc76b2f": {
+  "text": "ໂພສ",
+  "f": "audio/f/abc76b2f.mp3"
+ },
+ "a6cacfc5d": {
+  "text": "ໂຮງຮຽນປະຖົມ",
+  "f": "audio/f/a6cacfc5d.mp3"
+ },
+ "a5b5ff0": {
+  "text": "ໃຈ",
+  "f": "audio/f/a5b5ff0.mp3"
+ },
+ "a49e3f6ba": {
+  "text": "ໃຈກວ້າງ",
+  "f": "audio/f/a49e3f6ba.mp3"
+ },
+ "a861fcfee": {
+  "text": "ໃຈຄວາມ",
+  "f": "audio/f/a861fcfee.mp3"
+ },
+ "a4a2f7119": {
+  "text": "ໃຈຄວາມສຳຄັນ",
+  "f": "audio/f/a4a2f7119.mp3"
+ },
+ "ad09ba9fc": {
+  "text": "ໃຈຄວາມສຳຄັນແມ່ນ",
+  "f": "audio/f/ad09ba9fc.mp3"
+ },
+ "a8636d72b": {
+  "text": "ໃຈອ່ອນ",
+  "f": "audio/f/a8636d72b.mp3"
+ },
+ "a863767cd": {
+  "text": "ໃຈຮ້ອນ",
+  "f": "audio/f/a863767cd.mp3"
+ },
+ "a8640a13c": {
+  "text": "ໃຈເຢັນ",
+  "f": "audio/f/a8640a13c.mp3"
+ },
+ "a4e54d782": {
+  "text": "ໃຈເຢັນໆ",
+  "f": "audio/f/a4e54d782.mp3"
+ },
+ "a1b574a3a": {
+  "text": "ໃຈແຂງ",
+  "f": "audio/f/a1b574a3a.mp3"
+ },
+ "a1b574a8f": {
+  "text": "ໃຈແຄບ",
+  "f": "audio/f/a1b574a8f.mp3"
+ },
+ "a61b0e1d0": {
+  "text": "ໃນຂະນະທີ່",
+  "f": "audio/f/a61b0e1d0.mp3"
+ },
+ "a95497e31": {
+  "text": "ໃນຂະນະທີ່ຢູ່ລາວ",
+  "f": "audio/f/a95497e31.mp3"
+ },
+ "a105feefd": {
+  "text": "ໃນທາງກົງກັນຂ້າມ",
+  "f": "audio/f/a105feefd.mp3"
+ },
+ "a3439535": {
+  "text": "ໃນສາກນີ້",
+  "f": "audio/f/a3439535.mp3"
+ },
+ "af70d79f2": {
+  "text": "ໃນແງ່ໜຶ່ງ",
+  "f": "audio/f/af70d79f2.mp3"
+ },
+ "aa6203524": {
+  "text": "ໄຂ້ຍຸງລາຍ",
+  "f": "audio/f/aa6203524.mp3"
+ },
+ "affa44ed": {
+  "text": "ໄຂ້ຍຸງລາຍແຜ່ລະບາດໃນລະດູຝົນ",
+  "f": "audio/f/affa44ed.mp3"
+ },
+ "a58979f6a": {
+  "text": "ໄດ້ຍິນຂ່າວບໍ",
+  "f": "audio/f/a58979f6a.mp3"
+ },
+ "a5f3c207b": {
+  "text": "ໄດ້ຍິນຂ່າວບໍ ລັດຖະບານຈະສ້າງທາງໃໝ່",
+  "f": "audio/f/a5f3c207b.mp3"
+ },
+ "ac151f5f0": {
+  "text": "ໄດ້ຫ້າເປີເຊັນ",
+  "f": "audio/f/ac151f5f0.mp3"
+ },
+ "a89ef60a4": {
+  "text": "ໄປໃສມາ",
+  "f": "audio/f/a89ef60a4.mp3"
+ },
+ "a1b757822": {
+  "text": "ໄຟຟ້າ",
+  "f": "audio/f/a1b757822.mp3"
+ },
+ "a8ab853ef": {
+  "text": "ໄວລຸ້ນ",
+  "f": "audio/f/a8ab853ef.mp3"
+ },
+ "a2e05fd12": {
+  "text": "ໜັກແໜ້ນ",
+  "f": "audio/f/a2e05fd12.mp3"
+ },
+ "a69a2326b": {
+  "text": "ໜ້າສົນໃຈຫຼາຍ",
+  "f": "audio/f/a69a2326b.mp3"
+ },
+ "a1d3f1f6a": {
+  "text": "ໜ້າໜາ",
+  "f": "audio/f/a1d3f1f6a.mp3"
+ },
+ "a70e6fb76": {
+  "text": "ໝາ / ມາ",
+  "f": "audio/f/a70e6fb76.mp3"
+ },
+ "abc7e081": {
+  "text": "ໝາຍ",
+  "f": "audio/f/abc7e081.mp3"
+ },
+ "a6daa4f80": {
+  "text": "ໝາຍຄວາມວ່າ",
+  "f": "audio/f/a6daa4f80.mp3"
+ },
+ "ad4504d8": {
+  "text": "ໝາຍຄວາມວ່າແນວໃດ",
+  "f": "audio/f/ad4504d8.mp3"
+ },
+ "aec0e9559": {
+  "text": "ໝູ່ຂ້ອຍປາກຫວານຫຼາຍ",
+  "f": "audio/f/aec0e9559.mp3"
  }
 }
