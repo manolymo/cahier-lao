@@ -705,5 +705,489 @@
   "text": "ໂຕະ",
   "f": "audio/f/abc76a0c.mp3",
   "m": "audio/m/abc76a0c.mp3"
+ },
+ "a1205df6b": {
+  "text": "ກິນເຂົ້າ",
+  "f": "audio/f/a1205df6b.mp3"
+ },
+ "a5b1acc17": {
+  "text": "ກິນເຂົ້າໜຽວເປັນບໍ",
+  "f": "audio/f/a5b1acc17.mp3"
+ },
+ "abc65cbb": {
+  "text": "ຂອງ",
+  "f": "audio/f/abc65cbb.mp3"
+ },
+ "a8de6373c": {
+  "text": "ຂອບໃຈຫຼາຍໆ ໄປກ່ອນເດີ",
+  "f": "audio/f/a8de6373c.mp3"
+ },
+ "a84927eaa": {
+  "text": "ຂ້ອຍ",
+  "f": "audio/f/a84927eaa.mp3"
+ },
+ "a5906c3d3": {
+  "text": "ຂ້ອຍຊື່",
+  "f": "audio/f/a5906c3d3.mp3"
+ },
+ "ac5dd0da3": {
+  "text": "ຂ້ອຍຊື່ຄລາຣາ",
+  "f": "audio/f/ac5dd0da3.mp3"
+ },
+ "a9cb1d4cf": {
+  "text": "ຂ້ອຍຊື່ແກ້ວ ເອື້ອຍເວົ້າລາວໄດ້ບໍ",
+  "f": "audio/f/a9cb1d4cf.mp3"
+ },
+ "a6aa0d3a0": {
+  "text": "ຂ້ອຍມາແຕ່ປາຣີ",
+  "f": "audio/f/a6aa0d3a0.mp3"
+ },
+ "a98ebe54a": {
+  "text": "ຂ້ອຍຢູ່ວຽງຈັນ",
+  "f": "audio/f/a98ebe54a.mp3"
+ },
+ "af96abc9e": {
+  "text": "ຂ້ອຍຢູ່ວຽງຈັນ ໃກ້ເຮືອນນ້ອຍ",
+  "f": "audio/f/af96abc9e.mp3"
+ },
+ "a472c5b46": {
+  "text": "ຂ້ອຍເວົ້າລາວໄດ້ໜ້ອຍໜຶ່ງ",
+  "f": "audio/f/a472c5b46.mp3"
+ },
+ "a2f6f2665": {
+  "text": "ຂ້ອຍແມ່ນຄົນຝຣັ່ງ",
+  "f": "audio/f/a2f6f2665.mp3"
+ },
+ "a9a18c46d": {
+  "text": "ຂ້ອຍໄດ້ໜ້ອຍໜຶ່ງ ແກ້ວບໍ່ໄດ້",
+  "f": "audio/f/a9a18c46d.mp3"
+ },
+ "a16e4eea1": {
+  "text": "ຂໍໂທດ",
+  "f": "audio/f/a16e4eea1.mp3"
+ },
+ "a16f2ee15": {
+  "text": "ຄລາຣາ",
+  "f": "audio/f/a16f2ee15.mp3"
+ },
+ "a3080de09": {
+  "text": "ຄລາຣາ ນີ້ແມ່ນນ້ອງຊາຍຂອງຂ້ອຍ",
+  "f": "audio/f/a3080de09.mp3"
+ },
+ "a7c030c78": {
+  "text": "ຄລາຣາກິນເຂົ້າແລ້ວບໍ",
+  "f": "audio/f/a7c030c78.mp3"
+ },
+ "af1b18f58": {
+  "text": "ຄລາຣາມີຊື່ຫຼິ້ນບໍ",
+  "f": "audio/f/af1b18f58.mp3"
+ },
+ "a16fbfe2b": {
+  "text": "ຄືກັນ",
+  "f": "audio/f/a16fbfe2b.mp3"
+ },
+ "abc6671d": {
+  "text": "ຄົນ",
+  "f": "audio/f/abc6671d.mp3"
+ },
+ "aef3b9b5d": {
+  "text": "ຄົນຝຣັ່ງ",
+  "f": "audio/f/aef3b9b5d.mp3"
+ },
+ "af6d12d7b": {
+  "text": "ຄົນລາວ",
+  "f": "audio/f/af6d12d7b.mp3"
+ },
+ "abc6804e": {
+  "text": "ຊື່",
+  "f": "audio/f/abc6804e.mp3"
+ },
+ "ab38b34ab": {
+  "text": "ຊື່ຫຼິ້ນ",
+  "f": "audio/f/ab38b34ab.mp3"
+ },
+ "a63a41ee5": {
+  "text": "ຊື່ຫຼິ້ນຂອງຂ້ອຍແມ່ນບົວ",
+  "f": "audio/f/a63a41ee5.mp3"
+ },
+ "a4e46c872": {
+  "text": "ຊື່ຫຼິ້ນຂອງເຈົ້າແມ່ນຫຍັງ",
+  "f": "audio/f/a4e46c872.mp3"
+ },
+ "abc68c0a": {
+  "text": "ຍັງ",
+  "f": "audio/f/abc68c0a.mp3"
+ },
+ "a143bbb2d": {
+  "text": "ຍັງເທື່ອ",
+  "f": "audio/f/a143bbb2d.mp3"
+ },
+ "aa1e2afab": {
+  "text": "ຍັງເທື່ອເຈົ້າ",
+  "f": "audio/f/aa1e2afab.mp3"
+ },
+ "a38dcd807": {
+  "text": "ຍິນດີທີ່ໄດ້ຮູ້ຈັກ",
+  "f": "audio/f/a38dcd807.mp3"
+ },
+ "a1bf4f26d": {
+  "text": "ຍິນດີທີ່ໄດ້ຮູ້ຈັກຄືກັນ",
+  "f": "audio/f/a1bf4f26d.mp3"
+ },
+ "a1d7b5697": {
+  "text": "ຕອນນີ້",
+  "f": "audio/f/a1d7b5697.mp3"
+ },
+ "a3408c0c5": {
+  "text": "ຕອນນີ້ເຈົ້າຢູ່ໃສ",
+  "f": "audio/f/a3408c0c5.mp3"
+ },
+ "abc6b6b5": {
+  "text": "ທາງ",
+  "f": "audio/f/abc6b6b5.mp3"
+ },
+ "a1875cf3c": {
+  "text": "ນຳກັນ",
+  "f": "audio/f/a1875cf3c.mp3"
+ },
+ "abc6bfdc": {
+  "text": "ນີ້",
+  "f": "audio/f/abc6bfdc.mp3"
+ },
+ "a4c04c039": {
+  "text": "ນີ້ແມ່ນນ້ອງຊາຍຂອງຂ້ອຍ",
+  "f": "audio/f/a4c04c039.mp3"
+ },
+ "ac03295af": {
+  "text": "ນີ້ແມ່ນຫຍັງ",
+  "f": "audio/f/ac03295af.mp3"
+ },
+ "ab5753df8": {
+  "text": "ນີ້ແມ່ນໝູ່ຂອງຂ້ອຍ",
+  "f": "audio/f/ab5753df8.mp3"
+ },
+ "a849f1b5b": {
+  "text": "ນ້ອງ",
+  "f": "audio/f/a849f1b5b.mp3"
+ },
+ "a437eee04": {
+  "text": "ນ້ອງຊາຍ",
+  "f": "audio/f/a437eee04.mp3"
+ },
+ "abdaeacd4": {
+  "text": "ນ້ອງຊື່ຫຍັງ",
+  "f": "audio/f/abdaeacd4.mp3"
+ },
+ "a5b5aec": {
+  "text": "ບໍ",
+  "f": "audio/f/a5b5aec.mp3"
+ },
+ "abc6c734": {
+  "text": "ບໍ່",
+  "f": "audio/f/abc6c734.mp3"
+ },
+ "a9045d77": {
+  "text": "ບໍ່ມີ ຊື່ຫຼິ້ນຂອງເຈົ້າແມ່ນຫຍັງ",
+  "f": "audio/f/a9045d77.mp3"
+ },
+ "a9bd5f0f5": {
+  "text": "ບໍ່ເຜັດ",
+  "f": "audio/f/a9bd5f0f5.mp3"
+ },
+ "a6513b9e9": {
+  "text": "ບໍ່ເຜັດ ພໍດີ",
+  "f": "audio/f/a6513b9e9.mp3"
+ },
+ "a189963bb": {
+  "text": "ປະເທດ",
+  "f": "audio/f/a189963bb.mp3"
+ },
+ "aa4833432": {
+  "text": "ປະເທດໃດ",
+  "f": "audio/f/aa4833432.mp3"
+ },
+ "a849fd12a": {
+  "text": "ປາຣີ",
+  "f": "audio/f/a849fd12a.mp3"
+ },
+ "a32003aa9": {
+  "text": "ພວກລາວ",
+  "f": "audio/f/a32003aa9.mp3"
+ },
+ "ab4cd6249": {
+  "text": "ພວກເຈົ້າ",
+  "f": "audio/f/ab4cd6249.mp3"
+ },
+ "a72165e46": {
+  "text": "ພວກເຮົາ",
+  "f": "audio/f/a72165e46.mp3"
+ },
+ "a14ab1466": {
+  "text": "ພວກເຮົາຢູ່ວຽງຈັນ",
+  "f": "audio/f/a14ab1466.mp3"
+ },
+ "ab7ec7ecb": {
+  "text": "ພົບກັນໃໝ່",
+  "f": "audio/f/ab7ec7ecb.mp3"
+ },
+ "a84a1e739": {
+  "text": "ພໍດີ",
+  "f": "audio/f/a84a1e739.mp3"
+ },
+ "a2c7e215e": {
+  "text": "ມາກິນເຂົ້ານຳກັນເດີ",
+  "f": "audio/f/a2c7e215e.mp3"
+ },
+ "a190713b6": {
+  "text": "ມາແຕ່",
+  "f": "audio/f/a190713b6.mp3"
+ },
+ "af2ac33c2": {
+  "text": "ມາແຕ່ປາຣີບໍ",
+  "f": "audio/f/af2ac33c2.mp3"
+ },
+ "abc6e6a8": {
+  "text": "ຢູ່",
+  "f": "audio/f/abc6e6a8.mp3"
+ },
+ "a191d2675": {
+  "text": "ຢູ່ໃສ",
+  "f": "audio/f/a191d2675.mp3"
+ },
+ "a431bf8cb": {
+  "text": "ລາກ່ອນ",
+  "f": "audio/f/a431bf8cb.mp3"
+ },
+ "abc6f263": {
+  "text": "ລາວ",
+  "f": "audio/f/abc6f263.mp3"
+ },
+ "aaeb5857c": {
+  "text": "ລາວແມ່ນຄົນລາວ",
+  "f": "audio/f/aaeb5857c.mp3"
+ },
+ "a488f9222": {
+  "text": "ວຽງຈັນ",
+  "f": "audio/f/a488f9222.mp3"
+ },
+ "a96238195": {
+  "text": "ສະບາຍດີ ຂອບໃຈ",
+  "f": "audio/f/a96238195.mp3"
+ },
+ "a761e57e7": {
+  "text": "ສະບາຍດີ ຂອບໃຈ ເຈົ້າເດ",
+  "f": "audio/f/a761e57e7.mp3"
+ },
+ "af1ad2964": {
+  "text": "ສະບາຍດີ ສະບາຍດີບໍ",
+  "f": "audio/f/af1ad2964.mp3"
+ },
+ "a26a4c687": {
+  "text": "ສະບາຍດີ ເຈົ້າແມ່ນຄົນປະເທດໃດ",
+  "f": "audio/f/a26a4c687.mp3"
+ },
+ "a1267d55": {
+  "text": "ສະບາຍດີຂອບໃຈ",
+  "f": "audio/f/a1267d55.mp3"
+ },
+ "a14fbd87": {
+  "text": "ສະບາຍດີຄືກັນ",
+  "f": "audio/f/a14fbd87.mp3"
+ },
+ "ab32c7ac6": {
+  "text": "ສະບາຍດີນ້ອງ ນ້ອງຊື່ຫຍັງ",
+  "f": "audio/f/ab32c7ac6.mp3"
+ },
+ "a8c6c17": {
+  "text": "ສະບາຍດີລູກ ເຈົ້າຊື່ຫຍັງ",
+  "f": "audio/f/a8c6c17.mp3"
+ },
+ "ad9480524": {
+  "text": "ສະບາຍດີສະບາຍດີບໍ",
+  "f": "audio/f/ad9480524.mp3"
+ },
+ "a1f66bb7d": {
+  "text": "ສະບາຍດີເຈົ້າ ຂ້ອຍຊື່ຄລາຣາ",
+  "f": "audio/f/a1f66bb7d.mp3"
+ },
+ "af7fee3e2": {
+  "text": "ສະບາຍດີເຈົ້າ ສະບາຍດີບໍ",
+  "f": "audio/f/af7fee3e2.mp3"
+ },
+ "ab6a612c8": {
+  "text": "ສະບາຍດີເອື້ອຍ",
+  "f": "audio/f/ab6a612c8.mp3"
+ },
+ "a84a7fb75": {
+  "text": "ຫຍັງ",
+  "f": "audio/f/a84a7fb75.mp3"
+ },
+ "a84a8c38b": {
+  "text": "ຫຼາຍ",
+  "f": "audio/f/a84a8c38b.mp3"
+ },
+ "a19c143b1": {
+  "text": "ຫຼາຍໆ",
+  "f": "audio/f/a19c143b1.mp3"
+ },
+ "a84aa139a": {
+  "text": "ອ້າຍ",
+  "f": "audio/f/a84aa139a.mp3"
+ },
+ "a9aa15bd": {
+  "text": "ອ້າຍເວົ້າລາວໄດ້ບໍ",
+  "f": "audio/f/a9aa15bd.mp3"
+ },
+ "a1b1cef06": {
+  "text": "ເກັ່ງ",
+  "f": "audio/f/a1b1cef06.mp3"
+ },
+ "a18ee8c87": {
+  "text": "ເກັ່ງແທ້",
+  "f": "audio/f/a18ee8c87.mp3"
+ },
+ "a7d6683fd": {
+  "text": "ເຂົ້າໜຽວ",
+  "f": "audio/f/a7d6683fd.mp3"
+ },
+ "a897824fc": {
+  "text": "ເຈົ້າຊື່ຫຍັງ",
+  "f": "audio/f/a897824fc.mp3"
+ },
+ "a27e8e0b3": {
+  "text": "ເຈົ້າຢູ່ໃສ",
+  "f": "audio/f/a27e8e0b3.mp3"
+ },
+ "a67211297": {
+  "text": "ເຈົ້າເດ",
+  "f": "audio/f/a67211297.mp3"
+ },
+ "a3333e1eb": {
+  "text": "ເຈົ້າແມ່ນຄົນປະເທດໃດ",
+  "f": "audio/f/a3333e1eb.mp3"
+ },
+ "a1b291908": {
+  "text": "ເທື່ອ",
+  "f": "audio/f/a1b291908.mp3"
+ },
+ "a84b3bb0a": {
+  "text": "ເປັນ",
+  "f": "audio/f/a84b3bb0a.mp3"
+ },
+ "ad8cc75b3": {
+  "text": "ເປັນເຈົ້າ ແຊບຫຼາຍ",
+  "f": "audio/f/ad8cc75b3.mp3"
+ },
+ "a84b3bf46": {
+  "text": "ເຜັດ",
+  "f": "audio/f/a84b3bf46.mp3"
+ },
+ "a80a2996d": {
+  "text": "ເຜັດບໍ",
+  "f": "audio/f/a80a2996d.mp3"
+ },
+ "a9d906080": {
+  "text": "ເວົ້າລາວ",
+  "f": "audio/f/a9d906080.mp3"
+ },
+ "a1fe80b1c": {
+  "text": "ເວົ້າລາວເກັ່ງເນາະ",
+  "f": "audio/f/a1fe80b1c.mp3"
+ },
+ "a81da67ec": {
+  "text": "ເອື້ອຍ",
+  "f": "audio/f/a81da67ec.mp3"
+ },
+ "a2555f4f": {
+  "text": "ເອື້ອຍເວົ້າລາວໄດ້ບໍ",
+  "f": "audio/f/a2555f4f.mp3"
+ },
+ "a84b40d40": {
+  "text": "ເຮົາ",
+  "f": "audio/f/a84b40d40.mp3"
+ },
+ "abc7644a": {
+  "text": "ແຊບ",
+  "f": "audio/f/abc7644a.mp3"
+ },
+ "a1b338f71": {
+  "text": "ແຊບບໍ",
+  "f": "audio/f/a1b338f71.mp3"
+ },
+ "ab6602d50": {
+  "text": "ແຊບຫຼາຍ",
+  "f": "audio/f/ab6602d50.mp3"
+ },
+ "ad0f6ee5f": {
+  "text": "ແຕ່ເຮົາເວົ້າພາສາອັງກິດໄດ້ເດີ",
+  "f": "audio/f/ad0f6ee5f.mp3"
+ },
+ "abc76626": {
+  "text": "ແທ້",
+  "f": "audio/f/abc76626.mp3"
+ },
+ "ad65b9fa2": {
+  "text": "ແມ່ ນີ້ແມ່ນໝູ່ຂອງຂ້ອຍ",
+  "f": "audio/f/ad65b9fa2.mp3"
+ },
+ "ab996f499": {
+  "text": "ແມ່ນແລ້ວ ຂ້ອຍມາແຕ່ປາຣີ",
+  "f": "audio/f/ab996f499.mp3"
+ },
+ "a84b4751b": {
+  "text": "ແລ້ວ",
+  "f": "audio/f/a84b4751b.mp3"
+ },
+ "a83a81882": {
+  "text": "ແລ້ວບໍ",
+  "f": "audio/f/a83a81882.mp3"
+ },
+ "ae7eb8d86": {
+  "text": "ໂອ້ຍ ຂໍໂທດ",
+  "f": "audio/f/ae7eb8d86.mp3"
+ },
+ "a5b5ffc": {
+  "text": "ໃດ",
+  "f": "audio/f/a5b5ffc.mp3"
+ },
+ "a5b6012": {
+  "text": "ໃສ",
+  "f": "audio/f/a5b6012.mp3"
+ },
+ "abc77286": {
+  "text": "ໄດ້",
+  "f": "audio/f/abc77286.mp3"
+ },
+ "a9dad248d": {
+  "text": "ໄດ້ບໍ ຂອບໃຈຫຼາຍໆ",
+  "f": "audio/f/a9dad248d.mp3"
+ },
+ "a556f283b": {
+  "text": "ໄດ້ໜ້ອຍໜຶ່ງ ພວກເຈົ້າເວົ້າພາສາຝຣັ່ງໄດ້ບໍ",
+  "f": "audio/f/a556f283b.mp3"
+ },
+ "a9b10865c": {
+  "text": "ໄປກ່ອນເດີ",
+  "f": "audio/f/a9b10865c.mp3"
+ },
+ "a84c38b66": {
+  "text": "ໜຶ່ງ",
+  "f": "audio/f/a84c38b66.mp3"
+ },
+ "a84c3d8c4": {
+  "text": "ໜ້ອຍ",
+  "f": "audio/f/a84c3d8c4.mp3"
+ },
+ "a893116a5": {
+  "text": "ໜ້ອຍໜຶ່ງ",
+  "f": "audio/f/a893116a5.mp3"
+ },
+ "a9da39657": {
+  "text": "ໜ້ອຍໜຶ່ງເຈົ້າ ຂອບໃຈ",
+  "f": "audio/f/a9da39657.mp3"
+ },
+ "abc7e1a3": {
+  "text": "ໝູ່",
+  "f": "audio/f/abc7e1a3.mp3"
  }
 }
