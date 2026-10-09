@@ -19,7 +19,7 @@
   },
   {
    "title": "Dialogue",
-   "html": "<p class=\"muted\">Clara rapporte un appel à Noy.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ແມ່ໂທມາວ່າແນວໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ລາວບອກວ່າຈະກັບມາຊ້າ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເປັນຫຍັງ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ລາວວ່າລົດຕິດຫຼາຍ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Mɛ̄ɛ thóo máa wāa nɛ́ɛw-dǎy?</span><br><span class=\"rom\">Láaw bɔ̏ɔk wāa já kǎp máa sȁa.</span><br><span class=\"rom\">Pěn nyǎng?</span><br><span class=\"rom\">Láaw wāa lōt tít lǎay.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Maman a appelé, elle a dit quoi ?<br><b>Clara</b> — Elle a dit qu&#x27;elle rentrerait tard.<br><b>Noy</b> — Pourquoi ?<br><b>Clara</b> — Elle dit qu&#x27;il y a beaucoup de bouchons.</p></details>"
+   "html": "<p class=\"muted\">Clara rapporte un appel à Noy.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ແມ່ໂທມາວ່າແນວໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ລາວບອກວ່າຈະກັບມາຊ້າ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເປັນຫຍັງ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ລາວວ່າລົດຕິດຫຼາຍ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Mɛ̄ɛ thóo máa wāa nɛ́ɛw-dǎy?</span><br><span class=\"rom\">Láaw bɔ̏ɔk wāa já káp máa sȁa.</span><br><span class=\"rom\">Pěn nyǎng?</span><br><span class=\"rom\">Láaw wāa lōt tít lǎay.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Maman a appelé, elle a dit quoi ?<br><b>Clara</b> — Elle a dit qu&#x27;elle rentrerait tard.<br><b>Noy</b> — Pourquoi ?<br><b>Clara</b> — Elle dit qu&#x27;il y a beaucoup de bouchons.</p></details>"
   },
   {
    "title": "Compréhension",
@@ -39,7 +39,7 @@
   },
   {
    "title": "Expression orale",
-   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Elle a dit qu&#x27;elle rentrerait tard.</li><li>Il a demandé si tu viens.</li><li>Il y a des bouchons.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ລາວບອກວ່າຈະກັບມາຊ້າ</span> <span class=\"rom\">Láaw bɔ̏ɔk wāa já kǎp máa sȁa.</span></li><li><span class=\"lo\">ລາວຖາມວ່າເຈົ້າມາບໍ</span> <span class=\"rom\">Láaw thǎam wāa jâo máa bɔ̌ɔ.</span></li><li><span class=\"lo\">ລົດຕິດ</span> <span class=\"rom\">Lōt tít.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Elle a dit qu&#x27;elle rentrerait tard.</li><li>Il a demandé si tu viens.</li><li>Il y a des bouchons.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ລາວບອກວ່າຈະກັບມາຊ້າ</span> <span class=\"rom\">Láaw bɔ̏ɔk wāa já káp máa sȁa.</span></li><li><span class=\"lo\">ລາວຖາມວ່າເຈົ້າມາບໍ</span> <span class=\"rom\">Láaw thǎam wāa jâo máa bɔ̌ɔ.</span></li><li><span class=\"lo\">ລົດຕິດ</span> <span class=\"rom\">Lōt tít.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
   },
   {
    "title": "Expression écrite",
@@ -88,7 +88,7 @@
   {
    "id": "l48-p01",
    "front": "Elle a dit qu'elle rentrerait tard.",
-   "back": "ລາວບອກວ່າຈະກັບມາຊ້າ · Láaw bɔ̏ɔk wāa já kǎp máa sȁa."
+   "back": "ລາວບອກວ່າຈະກັບມາຊ້າ · Láaw bɔ̏ɔk wāa já káp máa sȁa."
   },
   {
    "id": "l48-p02",
@@ -225,7 +225,7 @@
       "Maman a appelé, elle a dit quoi ?"
      ],
      "answer": "Elle a dit qu'elle rentrerait tard.",
-     "reveal": "<i>Láaw bɔ̏ɔk wāa já kǎp máa sȁa.</i>"
+     "reveal": "<i>Láaw bɔ̏ɔk wāa já káp máa sȁa.</i>"
     },
     {
      "audio": [
@@ -273,7 +273,7 @@
       "Il y a des bouchons."
      ],
      "answer": "Elle a dit qu'elle rentrerait tard.",
-     "reveal": "<i>Láaw bɔ̏ɔk wāa já kǎp máa sȁa.</i>"
+     "reveal": "<i>Láaw bɔ̏ɔk wāa já káp máa sȁa.</i>"
     },
     {
      "audio": [
@@ -343,7 +343,7 @@
   },
   {
    "lao": "ລາວບອກວ່າຈະກັບມາຊ້າ",
-   "rom": "Láaw bɔ̏ɔk wāa já kǎp máa sȁa.",
+   "rom": "Láaw bɔ̏ɔk wāa já káp máa sȁa.",
    "fr": "Elle a dit qu'elle rentrerait tard.",
    "kind": "phrase"
   },
@@ -371,7 +371,7 @@
     "ມາ",
     "ຊ້າ"
    ],
-   "rom": "Láaw bɔ̏ɔk wāa já kǎp máa sȁa.",
+   "rom": "Láaw bɔ̏ɔk wāa já káp máa sȁa.",
    "fr": "Elle a dit qu'elle rentrerait tard."
   },
   {
@@ -433,7 +433,7 @@
   "ມ່ວນ": "Mūan",
   "ປຶ້ມ": "Pɤ̂m",
   "ແມ່ໂທມາວ່າແນວໃດ": "Mɛ̄ɛ thóo máa wāa nɛ́ɛw-dǎy?",
-  "ລາວບອກວ່າຈະກັບມາຊ້າ": "Láaw bɔ̏ɔk wāa já kǎp máa sȁa.",
+  "ລາວບອກວ່າຈະກັບມາຊ້າ": "Láaw bɔ̏ɔk wāa já káp máa sȁa.",
   "ເປັນຫຍັງ": "Pěn nyǎng?",
   "ລາວວ່າລົດຕິດຫຼາຍ": "Láaw wāa lōt tít lǎay.",
   "ວ່າ": "wāa",
@@ -448,7 +448,7 @@
   "ລາວ": "láaw",
   "ບອກ": "bɔ̏ɔk",
   "ຈະ": "já",
-  "ກັບ": "kǎp",
+  "ກັບ": "káp",
   "ມາ": "máa",
   "ຖາມ": "thǎam",
   "ເຈົ້າ": "jâo",

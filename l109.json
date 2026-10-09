@@ -1,0 +1,482 @@
+{
+ "num": 109,
+ "phase": "Partie F · Argumenter",
+ "title": "Traditions en mouvement",
+ "objective": "Discuter des traditions et de leur évolution en nuançant.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>poster <small class=\"muted\">(leçon 108)</small></li><li>université <small class=\"muted\">(leçon 106)</small></li><li>dialecte, parler local <small class=\"muted\">(leçon 102)</small></li><li>projet <small class=\"muted\">(leçon 95)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ໂພສ</span> <span class=\"rom\">Phôot</span> · poster</li><li><span class=\"lo\">ມະຫາວິທະຍາໄລ</span> <span class=\"rom\">Mā-hǎa-wī-thā-nyáa-láy</span> · université</li><li><span class=\"lo\">ພາສາທ້ອງຖິ່ນ</span> <span class=\"rom\">Pháa-sǎa thȍɔng-thìn</span> · dialecte, parler local</li><li><span class=\"lo\">ໂຄງການ</span> <span class=\"rom\">Khóong-kǎan</span> · projet</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Discuter des traditions et de leur évolution en nuançant.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Débat sur les mariages modernes.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ແຕ່ກ່ອນງານແຕ່ງງານເຮັດຢູ່ເຮືອນ ດຽວນີ້ເຮັດຢູ່ໂຮງແຮມ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ມັນສະດວກກວ່າແມ່</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ແຕ່ສູນເສຍຄວາມອົບອຸ່ນ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ບາງປະເພນີປ່ຽນ ແຕ່ຄຸນຄ່າຍັງຢູ່</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Tɛ̀ɛ-kɔ̀ɔn ngáan tɛ̀ɛng-ngáan hēt yùu hʉ́an. Dǐaw-nȉi hēt yùu hóong-hɛ́ɛm.</span><br><span class=\"rom\">Mán sā-dȕak kwàa mɛ̄ɛ.</span><br><span class=\"rom\">Tɛ̀ɛ sǔun-sǐa khwáam óp-ùn.</span><br><span class=\"rom\">Bǎang pá-phéé-níi pìan, tɛ̀ɛ khún-khāa nyáng yùu.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Mme Boua</b> — Avant, les mariages se faisaient à la maison. Maintenant, à l&#x27;hôtel.<br><b>Noy</b> — C&#x27;est plus pratique, maman.<br><b>Mme Boua</b> — Mais on perd la chaleur.<br><b>Clara</b> — Certaines traditions changent, mais les valeurs restent.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Où se font les mariages maintenant ?</li><li>Que regrette Mme Boua ?</li></ol><details><summary>Réponses</summary><ol><li>À l&#x27;hôtel.</li><li>La chaleur des mariages à la maison.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ປະເພນີ</td><td class=\"rom\">Pá-phéé-níi</td><td>tradition</td><td></td></tr><tr><td class=\"lo\">ວັດທະນະທຳ</td><td class=\"rom\">Wāt-thā-ná-thám</td><td>culture</td><td></td></tr><tr><td class=\"lo\">ຄຸນຄ່າ</td><td class=\"rom\">Khún-khāa</td><td>valeur</td><td></td></tr><tr><td class=\"lo\">ສູນເສຍ</td><td class=\"rom\">Sǔun-sǐa</td><td>perdre</td><td></td></tr><tr><td class=\"lo\">ອົບອຸ່ນ</td><td class=\"rom\">Óp-ùn</td><td>chaleureux</td><td></td></tr><tr><td class=\"lo\">ທັນສະໄໝ</td><td class=\"rom\">Thán-sā-mǎy</td><td>moderne</td><td></td></tr><tr><td class=\"lo\">ຮັກສາ</td><td class=\"rom\">Hāk-sǎa</td><td>préserver</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : nuancer un jugement culturel",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ບາງ ປ່ຽນ ແຕ່</span> <span class=\"rom\">Bǎang… pìan, tɛ̀ɛ…</span> = certains… changent, mais…</li><li><span class=\"lo\">ໃນແງ່ໜຶ່ງ</span> <span class=\"rom\">Nǎy ngɛ̄ɛ nʉ̀ng…</span> = d&#x27;un côté…</li></ul><details><summary>La règle</summary><p>Pour nuancer : ໃນແງ່ໜຶ່ງ… ໃນອີກແງ່ໜຶ່ງ… (d'un côté… de l'autre…), ບາງ (certains), ຍັງ (encore).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les nuances.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>D&#x27;un côté…</li><li>Les valeurs restent.</li><li>Il faut préserver la culture.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ໃນແງ່ໜຶ່ງ</span> <span class=\"rom\">Nǎy ngɛ̄ɛ nʉ̀ng…</span></li><li><span class=\"lo\">ຄຸນຄ່າຍັງຢູ່</span> <span class=\"rom\">Khún-khāa nyáng yùu.</span></li><li><span class=\"lo\">ຕ້ອງຮັກສາວັດທະນະທຳ</span> <span class=\"rom\">Tâɔng hāk-sǎa wāt-thā-ná-thám.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris un texte nuancé de 150 mots sur une tradition qui change.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Discute avec un natif d&#x27;une tradition lao et de son évolution.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>10 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l109-v01",
+   "front": "ປະເພນີ",
+   "back": "Pá-phéé-níi · tradition"
+  },
+  {
+   "id": "l109-v02",
+   "front": "ວັດທະນະທຳ",
+   "back": "Wāt-thā-ná-thám · culture"
+  },
+  {
+   "id": "l109-v03",
+   "front": "ຄຸນຄ່າ",
+   "back": "Khún-khāa · valeur"
+  },
+  {
+   "id": "l109-v04",
+   "front": "ສູນເສຍ",
+   "back": "Sǔun-sǐa · perdre"
+  },
+  {
+   "id": "l109-v05",
+   "front": "ອົບອຸ່ນ",
+   "back": "Óp-ùn · chaleureux"
+  },
+  {
+   "id": "l109-v06",
+   "front": "ທັນສະໄໝ",
+   "back": "Thán-sā-mǎy · moderne"
+  },
+  {
+   "id": "l109-v07",
+   "front": "ຮັກສາ",
+   "back": "Hāk-sǎa · préserver"
+  },
+  {
+   "id": "l109-p01",
+   "front": "D'un côté…",
+   "back": "ໃນແງ່ໜຶ່ງ · Nǎy ngɛ̄ɛ nʉ̀ng…"
+  },
+  {
+   "id": "l109-p02",
+   "front": "Les valeurs restent.",
+   "back": "ຄຸນຄ່າຍັງຢູ່ · Khún-khāa nyáng yùu."
+  },
+  {
+   "id": "l109-p03",
+   "front": "Il faut préserver la culture.",
+   "back": "ຕ້ອງຮັກສາວັດທະນະທຳ · Tâɔng hāk-sǎa wāt-thā-ná-thám."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ປະເພນີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "tradition",
+      "moderne",
+      "culture",
+      "valeur"
+     ],
+     "answer": "tradition",
+     "reveal": "<i>Pá-phéé-níi</i>"
+    },
+    {
+     "audio": [
+      "ວັດທະນະທຳ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "culture",
+      "tradition",
+      "chaleureux",
+      "moderne"
+     ],
+     "answer": "culture",
+     "reveal": "<i>Wāt-thā-ná-thám</i>"
+    },
+    {
+     "audio": [
+      "ຄຸນຄ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "valeur",
+      "préserver",
+      "chaleureux",
+      "culture"
+     ],
+     "answer": "valeur",
+     "reveal": "<i>Khún-khāa</i>"
+    },
+    {
+     "audio": [
+      "ສູນເສຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "perdre",
+      "moderne",
+      "culture",
+      "valeur"
+     ],
+     "answer": "perdre",
+     "reveal": "<i>Sǔun-sǐa</i>"
+    },
+    {
+     "audio": [
+      "ອົບອຸ່ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "chaleureux",
+      "culture",
+      "tradition",
+      "valeur"
+     ],
+     "answer": "chaleureux",
+     "reveal": "<i>Óp-ùn</i>"
+    },
+    {
+     "audio": [
+      "ທັນສະໄໝ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "moderne",
+      "culture",
+      "perdre",
+      "valeur"
+     ],
+     "answer": "moderne",
+     "reveal": "<i>Thán-sā-mǎy</i>"
+    },
+    {
+     "audio": [
+      "ຮັກສາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "préserver",
+      "moderne",
+      "culture",
+      "chaleureux"
+     ],
+     "answer": "préserver",
+     "reveal": "<i>Hāk-sǎa</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ແຕ່ກ່ອນງານແຕ່ງງານເຮັດຢູ່ເຮືອນ ດຽວນີ້ເຮັດຢູ່ໂຮງແຮມ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Avant, les mariages se faisaient à la maison. Maintenant, à l'hôtel.",
+      "C'est plus pratique, maman.",
+      "Certaines traditions changent, mais les valeurs restent.",
+      "Mais on perd la chaleur."
+     ],
+     "answer": "Avant, les mariages se faisaient à la maison. Maintenant, à l'hôtel.",
+     "reveal": "<i>Tɛ̀ɛ-kɔ̀ɔn ngáan tɛ̀ɛng-ngáan hēt yùu hʉ́an. Dǐaw-nȉi hēt yùu hóong-hɛ́ɛm.</i>"
+    },
+    {
+     "audio": [
+      "ມັນສະດວກກວ່າແມ່"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'est plus pratique, maman.",
+      "Mais on perd la chaleur.",
+      "Certaines traditions changent, mais les valeurs restent.",
+      "Avant, les mariages se faisaient à la maison. Maintenant, à l'hôtel."
+     ],
+     "answer": "C'est plus pratique, maman.",
+     "reveal": "<i>Mán sā-dȕak kwàa mɛ̄ɛ.</i>"
+    },
+    {
+     "audio": [
+      "ແຕ່ສູນເສຍຄວາມອົບອຸ່ນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Mais on perd la chaleur.",
+      "Avant, les mariages se faisaient à la maison. Maintenant, à l'hôtel.",
+      "C'est plus pratique, maman.",
+      "Certaines traditions changent, mais les valeurs restent."
+     ],
+     "answer": "Mais on perd la chaleur.",
+     "reveal": "<i>Tɛ̀ɛ sǔun-sǐa khwáam óp-ùn.</i>"
+    },
+    {
+     "audio": [
+      "ບາງປະເພນີປ່ຽນ ແຕ່ຄຸນຄ່າຍັງຢູ່"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Certaines traditions changent, mais les valeurs restent.",
+      "C'est plus pratique, maman.",
+      "Avant, les mariages se faisaient à la maison. Maintenant, à l'hôtel.",
+      "Mais on perd la chaleur."
+     ],
+     "answer": "Certaines traditions changent, mais les valeurs restent.",
+     "reveal": "<i>Bǎang pá-phéé-níi pìan, tɛ̀ɛ khún-khāa nyáng yùu.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ໃນແງ່ໜຶ່ງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "D'un côté…",
+      "Il faut préserver la culture.",
+      "Les valeurs restent."
+     ],
+     "answer": "D'un côté…",
+     "reveal": "<i>Nǎy ngɛ̄ɛ nʉ̀ng…</i>"
+    },
+    {
+     "audio": [
+      "ຄຸນຄ່າຍັງຢູ່"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Les valeurs restent.",
+      "D'un côté…",
+      "Il faut préserver la culture."
+     ],
+     "answer": "Les valeurs restent.",
+     "reveal": "<i>Khún-khāa nyáng yùu.</i>"
+    },
+    {
+     "audio": [
+      "ຕ້ອງຮັກສາວັດທະນະທຳ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il faut préserver la culture.",
+      "Les valeurs restent.",
+      "D'un côté…"
+     ],
+     "answer": "Il faut préserver la culture.",
+     "reveal": "<i>Tâɔng hāk-sǎa wāt-thā-ná-thám.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ປະເພນີ",
+   "rom": "Pá-phéé-níi",
+   "fr": "tradition",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ວັດທະນະທຳ",
+   "rom": "Wāt-thā-ná-thám",
+   "fr": "culture",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄຸນຄ່າ",
+   "rom": "Khún-khāa",
+   "fr": "valeur",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສູນເສຍ",
+   "rom": "Sǔun-sǐa",
+   "fr": "perdre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອົບອຸ່ນ",
+   "rom": "Óp-ùn",
+   "fr": "chaleureux",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທັນສະໄໝ",
+   "rom": "Thán-sā-mǎy",
+   "fr": "moderne",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຮັກສາ",
+   "rom": "Hāk-sǎa",
+   "fr": "préserver",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃນແງ່ໜຶ່ງ",
+   "rom": "Nǎy ngɛ̄ɛ nʉ̀ng…",
+   "fr": "D'un côté…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄຸນຄ່າຍັງຢູ່",
+   "rom": "Khún-khāa nyáng yùu.",
+   "fr": "Les valeurs restent.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕ້ອງຮັກສາວັດທະນະທຳ",
+   "rom": "Tâɔng hāk-sǎa wāt-thā-ná-thám.",
+   "fr": "Il faut préserver la culture.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ໃນ",
+    "ແງ່",
+    "ໜຶ່ງ"
+   ],
+   "rom": "Nǎy ngɛ̄ɛ nʉ̀ng…",
+   "fr": "D'un côté…"
+  },
+  {
+   "tokens": [
+    "ຄຸນຄ່າ",
+    "ຍັງ",
+    "ຢູ່"
+   ],
+   "rom": "Khún-khāa nyáng yùu.",
+   "fr": "Les valeurs restent."
+  },
+  {
+   "tokens": [
+    "ຕ້ອງ",
+    "ຮັກສາ",
+    "ວັດທະນະທຳ"
+   ],
+   "rom": "Tâɔng hāk-sǎa wāt-thā-ná-thám.",
+   "fr": "Il faut préserver la culture."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ປະເພນີ",
+   "rom": "Pá-phéé-níi",
+   "fr": "tradition"
+  },
+  {
+   "lao": "ວັດທະນະທຳ",
+   "rom": "Wāt-thā-ná-thám",
+   "fr": "culture"
+  },
+  {
+   "lao": "ຄຸນຄ່າ",
+   "rom": "Khún-khāa",
+   "fr": "valeur"
+  },
+  {
+   "lao": "ສູນເສຍ",
+   "rom": "Sǔun-sǐa",
+   "fr": "perdre"
+  },
+  {
+   "lao": "ອົບອຸ່ນ",
+   "rom": "Óp-ùn",
+   "fr": "chaleureux"
+  },
+  {
+   "lao": "ທັນສະໄໝ",
+   "rom": "Thán-sā-mǎy",
+   "fr": "moderne"
+  },
+  {
+   "lao": "ຮັກສາ",
+   "rom": "Hāk-sǎa",
+   "fr": "préserver"
+  }
+ ],
+ "sounds": {
+  "ໂພສ": "Phôot",
+  "ມະຫາວິທະຍາໄລ": "Mā-hǎa-wī-thā-nyáa-láy",
+  "ພາສາທ້ອງຖິ່ນ": "Pháa-sǎa thȍɔng-thìn",
+  "ໂຄງການ": "Khóong-kǎan",
+  "ແຕ່ກ່ອນງານແຕ່ງງານເຮັດຢູ່ເຮືອນ ດຽວນີ້ເຮັດຢູ່ໂຮງແຮມ": "Tɛ̀ɛ-kɔ̀ɔn ngáan tɛ̀ɛng-ngáan hēt yùu hʉ́an. Dǐaw-nȉi hēt yùu hóong-hɛ́ɛm.",
+  "ມັນສະດວກກວ່າແມ່": "Mán sā-dȕak kwàa mɛ̄ɛ.",
+  "ແຕ່ສູນເສຍຄວາມອົບອຸ່ນ": "Tɛ̀ɛ sǔun-sǐa khwáam óp-ùn.",
+  "ບາງປະເພນີປ່ຽນ ແຕ່ຄຸນຄ່າຍັງຢູ່": "Bǎang pá-phéé-níi pìan, tɛ̀ɛ khún-khāa nyáng yùu.",
+  "ປະເພນີ": "Pá-phéé-níi",
+  "ວັດທະນະທຳ": "wāt-thā-ná-thám",
+  "ຄຸນຄ່າ": "khún-khāa",
+  "ສູນເສຍ": "Sǔun-sǐa",
+  "ອົບອຸ່ນ": "Óp-ùn",
+  "ທັນສະໄໝ": "Thán-sā-mǎy",
+  "ຮັກສາ": "hāk-sǎa",
+  "ບາງ ປ່ຽນ ແຕ່": "Bǎang… pìan, tɛ̀ɛ…",
+  "ໃນແງ່ໜຶ່ງ": "Nǎy ngɛ̄ɛ nʉ̀ng…",
+  "ຄຸນຄ່າຍັງຢູ່": "Khún-khāa nyáng yùu.",
+  "ຕ້ອງຮັກສາວັດທະນະທຳ": "Tâɔng hāk-sǎa wāt-thā-ná-thám.",
+  "ໃນ": "nǎy",
+  "ແງ່": "ngɛ̄ɛ",
+  "ໜຶ່ງ": "nʉ̀ng",
+  "ຍັງ": "nyáng",
+  "ຢູ່": "yùu",
+  "ຕ້ອງ": "tâɔng"
+ },
+ "suivi": "LEÇON : 109 — Partie F (Argumenter, B2) · Traditions en mouvement\nOBJECTIF : Discuter des traditions et de leur évolution en nuançant.\nNOTION : nuancer un jugement culturel\nVOCAB : Pá-phéé-níi, Wāt-thā-ná-thám, Khún-khāa, Sǔun-sǐa, Óp-ùn, Thán-sā-mǎy, Hāk-sǎa\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 110 — Lire un texte long"
+}

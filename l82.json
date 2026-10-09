@@ -19,7 +19,7 @@
   },
   {
    "title": "Dialogue",
-   "html": "<p class=\"muted\">Kèo fait écouter une chanson à Clara.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ເພງນີ້ດັງຫຼາຍຢູ່ລາວ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເວົ້າກ່ຽວກັບຫຍັງ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ກ່ຽວກັບຄວາມຮັກແລະການຄິດຮອດບ້ານ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສອນຂ້ອຍຮ້ອງແດ່!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Phéeng nȉi dǎng lǎay yùu láaw.</span><br><span class=\"rom\">Wȁo kìaw-kǎp nyǎng?</span><br><span class=\"rom\">Kìaw-kǎp khwáam hāk lɛ́ kǎan khīt-hɔ̂ɔt bâan.</span><br><span class=\"rom\">Sɔ̌ɔn khɔ̂ɔy hȍɔng dɛ̀ɛ!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Kèo</b> — Cette chanson est très connue au Laos.<br><b>Clara</b> — Elle parle de quoi ?<br><b>Kèo</b> — D&#x27;amour et du mal du pays.<br><b>Clara</b> — Apprends-moi à la chanter !</p></details>"
+   "html": "<p class=\"muted\">Kèo fait écouter une chanson à Clara.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ເພງນີ້ດັງຫຼາຍຢູ່ລາວ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເວົ້າກ່ຽວກັບຫຍັງ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ກ່ຽວກັບຄວາມຮັກແລະການຄິດຮອດບ້ານ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສອນຂ້ອຍຮ້ອງແດ່!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Phéeng nȉi dǎng lǎay yùu láaw.</span><br><span class=\"rom\">Wȁo kìaw-káp nyǎng?</span><br><span class=\"rom\">Kìaw-káp khwáam hāk lɛ́ kǎan khīt-hɔ̂ɔt bâan.</span><br><span class=\"rom\">Sɔ̌ɔn khɔ̂ɔy hȍɔng dɛ̀ɛ!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Kèo</b> — Cette chanson est très connue au Laos.<br><b>Clara</b> — Elle parle de quoi ?<br><b>Kèo</b> — D&#x27;amour et du mal du pays.<br><b>Clara</b> — Apprends-moi à la chanter !</p></details>"
   },
   {
    "title": "Compréhension",
@@ -39,7 +39,7 @@
   },
   {
    "title": "Expression orale",
-   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Elle parle de quoi ?</li><li>Apprends-moi à la chanter.</li><li>Cette chanson est très connue.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເວົ້າກ່ຽວກັບຫຍັງ?</span> <span class=\"rom\">Wȁo kìaw-kǎp nyǎng?</span></li><li><span class=\"lo\">ສອນຂ້ອຍຮ້ອງແດ່</span> <span class=\"rom\">Sɔ̌ɔn khɔ̂ɔy hȍɔng dɛ̀ɛ.</span></li><li><span class=\"lo\">ເພງນີ້ດັງຫຼາຍ</span> <span class=\"rom\">Phéeng nȉi dǎng lǎay.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Elle parle de quoi ?</li><li>Apprends-moi à la chanter.</li><li>Cette chanson est très connue.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເວົ້າກ່ຽວກັບຫຍັງ?</span> <span class=\"rom\">Wȁo kìaw-káp nyǎng?</span></li><li><span class=\"lo\">ສອນຂ້ອຍຮ້ອງແດ່</span> <span class=\"rom\">Sɔ̌ɔn khɔ̂ɔy hȍɔng dɛ̀ɛ.</span></li><li><span class=\"lo\">ເພງນີ້ດັງຫຼາຍ</span> <span class=\"rom\">Phéeng nȉi dǎng lǎay.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
   },
   {
    "title": "Expression écrite",
@@ -93,7 +93,7 @@
   {
    "id": "l82-p01",
    "front": "Elle parle de quoi ?",
-   "back": "ເວົ້າກ່ຽວກັບຫຍັງ? · Wȁo kìaw-kǎp nyǎng?"
+   "back": "ເວົ້າກ່ຽວກັບຫຍັງ? · Wȁo kìaw-káp nyǎng?"
   },
   {
    "id": "l82-p02",
@@ -244,7 +244,7 @@
       "D'amour et du mal du pays."
      ],
      "answer": "Elle parle de quoi ?",
-     "reveal": "<i>Wȁo kìaw-kǎp nyǎng?</i>"
+     "reveal": "<i>Wȁo kìaw-káp nyǎng?</i>"
     },
     {
      "audio": [
@@ -258,7 +258,7 @@
       "Elle parle de quoi ?"
      ],
      "answer": "D'amour et du mal du pays.",
-     "reveal": "<i>Kìaw-kǎp khwáam hāk lɛ́ kǎan khīt-hɔ̂ɔt bâan.</i>"
+     "reveal": "<i>Kìaw-káp khwáam hāk lɛ́ kǎan khīt-hɔ̂ɔt bâan.</i>"
     },
     {
      "audio": [
@@ -292,7 +292,7 @@
       "Cette chanson est très connue."
      ],
      "answer": "Elle parle de quoi ?",
-     "reveal": "<i>Wȁo kìaw-kǎp nyǎng?</i>"
+     "reveal": "<i>Wȁo kìaw-káp nyǎng?</i>"
     },
     {
      "audio": [
@@ -368,7 +368,7 @@
   },
   {
    "lao": "ເວົ້າກ່ຽວກັບຫຍັງ?",
-   "rom": "Wȁo kìaw-kǎp nyǎng?",
+   "rom": "Wȁo kìaw-káp nyǎng?",
    "fr": "Elle parle de quoi ?",
    "kind": "phrase"
   },
@@ -392,7 +392,7 @@
     "ກ່ຽວກັບ",
     "ຫຍັງ"
    ],
-   "rom": "Wȁo kìaw-kǎp nyǎng?",
+   "rom": "Wȁo kìaw-káp nyǎng?",
    "fr": "Elle parle de quoi ?"
   },
   {
@@ -459,8 +459,8 @@
   "ໄວ້ໃຈ": "Wȁy-jǎy",
   "ອາຍ": "Ǎay",
   "ເພງນີ້ດັງຫຼາຍຢູ່ລາວ": "Phéeng nȉi dǎng lǎay yùu láaw.",
-  "ເວົ້າກ່ຽວກັບຫຍັງ": "Wȁo kìaw-kǎp nyǎng?",
-  "ກ່ຽວກັບຄວາມຮັກແລະການຄິດຮອດບ້ານ": "Kìaw-kǎp khwáam hāk lɛ́ kǎan khīt-hɔ̂ɔt bâan.",
+  "ເວົ້າກ່ຽວກັບຫຍັງ": "Wȁo kìaw-káp nyǎng?",
+  "ກ່ຽວກັບຄວາມຮັກແລະການຄິດຮອດບ້ານ": "Kìaw-káp khwáam hāk lɛ́ kǎan khīt-hɔ̂ɔt bâan.",
   "ສອນຂ້ອຍຮ້ອງແດ່": "Sɔ̌ɔn khɔ̂ɔy hȍɔng dɛ̀ɛ.",
   "ເພງ": "phéeng",
   "ຮ້ອງເພງ": "Hȍɔng-phéeng",
@@ -473,7 +473,7 @@
   "ການຮຽນ": "Kǎan hían",
   "ເພງນີ້ດັງຫຼາຍ": "Phéeng nȉi dǎng lǎay.",
   "ເວົ້າ": "wȁo",
-  "ກ່ຽວກັບ": "kìaw-kǎp",
+  "ກ່ຽວກັບ": "kìaw-káp",
   "ຫຍັງ": "nyǎng",
   "ສອນ": "sɔ̌ɔn",
   "ຂ້ອຍ": "khɔ̂ɔy",

@@ -1,0 +1,517 @@
+{
+ "num": 96,
+ "phase": "Partie F · Argumenter",
+ "title": "La radio et la télé",
+ "objective": "Comprendre un journal télévisé et ses chiffres.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>d&#x27;ici, en (délai) <small class=\"muted\">(leçon 95)</small></li><li>au contraire <small class=\"muted\">(leçon 93)</small></li><li>laisse-moi réfléchir <small class=\"muted\">(leçon 89)</small></li><li>chanson <small class=\"muted\">(leçon 82)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ພາຍໃນ</span> <span class=\"rom\">Pháay-nǎy</span> · d&#x27;ici, en (délai)</li><li><span class=\"lo\">ໃນທາງກົງກັນຂ້າມ</span> <span class=\"rom\">Nǎy tháang kóng-kǎn-khâam</span> · au contraire</li><li><span class=\"lo\">ຂໍຄິດແປັບໜຶ່ງ</span> <span class=\"rom\">Khɔ̌ɔ khīt pɛ́p nʉ̀ng</span> · laisse-moi réfléchir</li><li><span class=\"lo\">ເພງ</span> <span class=\"rom\">Phéeng</span> · chanson</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Comprendre un journal télévisé et ses chiffres.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Le journal du soir.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ສະບາຍດີທ່ານຜູ້ຊົມ ຂ່າວມື້ນີ້</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ອຸນຫະພູມມື້ອື່ນຈະສູງເຖິງສາມສິບແປດອົງສາ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເວົ້າໄວແທ້!</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຟັງແຕ່ຄຳສຳຄັນກໍພໍ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Sā-bǎay-dǐi thāan phȕu sóm. Khàaw mʉ̂ʉ-nȉi…</span><br><span class=\"rom\">Ǔn-hā-phúum mʉ̂ʉ-ʉ̀ʉn já sǔung thɤ̌ng sǎam-sīp pɛ̏ɛt ǒng-sǎa.</span><br><span class=\"rom\">Wȁo wáy thɛ̏ɛ!</span><br><span class=\"rom\">Fáng tɛ̀ɛ khám sǎm-khán kɔ̂ɔ phɔ́ɔ.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>X</b> — Bonsoir chers téléspectateurs. Les nouvelles du jour…<br><b>X</b> — Demain, la température atteindra 38 degrés.<br><b>Clara</b> — Ils parlent vraiment vite !<br><b>Noy</b> — Écoute juste les mots importants, ça suffit.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quelle température est annoncée ?</li></ol><details><summary>Réponses</summary><ol><li>38 degrés.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຜູ້ຊົມ</td><td class=\"rom\">Phȕu sóm</td><td>téléspectateur</td><td></td></tr><tr><td class=\"lo\">ຜູ້ຟັງ</td><td class=\"rom\">Phȕu fáng</td><td>auditeur</td><td></td></tr><tr><td class=\"lo\">ອຸນຫະພູມ</td><td class=\"rom\">Ǔn-hā-phúum</td><td>température</td><td></td></tr><tr><td class=\"lo\">ອົງສາ</td><td class=\"rom\">Ǒng-sǎa</td><td>degré</td><td></td></tr><tr><td class=\"lo\">ລາຍງານ</td><td class=\"rom\">Láay-ngáan</td><td>rapport, reportage</td><td></td></tr><tr><td class=\"lo\">ຄຳສຳຄັນ</td><td class=\"rom\">Khám sǎm-khán</td><td>mot-clé</td><td></td></tr><tr><td class=\"lo\">ສະຖິຕິ</td><td class=\"rom\">Sā-thī-tī</td><td>statistique</td><td></td></tr><tr><td class=\"lo\">ເປີເຊັນ</td><td class=\"rom\">Pɤ̌ɤ-sén</td><td>pour cent</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : la langue des médias",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ທ່ານຜູ້ຊົມ</span> <span class=\"rom\">Thāan phȕu sóm</span> = chers téléspectateurs</li><li><span class=\"lo\">ສູງເຖິງ</span> <span class=\"rom\">Sǔung thɤ̌ng…</span> = atteindre…</li></ul><details><summary>La règle</summary><p>Les médias utilisent un registre formel (ທ່ານ, ຜູ້…, mots savants). Écoute d'abord les chiffres et les noms propres.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les chiffres et les noms propres.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Ils parlent vraiment vite !</li><li>38 degrés.</li><li>Écoute juste les mots-clés.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເວົ້າໄວແທ້!</span> <span class=\"rom\">Wȁo wáy thɛ̏ɛ!</span></li><li><span class=\"lo\">ສາມສິບແປດອົງສາ</span> <span class=\"rom\">Sǎam-sīp pɛ̏ɛt ǒng-sǎa.</span></li><li><span class=\"lo\">ຟັງແຕ່ຄຳສຳຄັນ</span> <span class=\"rom\">Fáng tɛ̀ɛ khám sǎm-khán.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Regarde 5 minutes d&#x27;un journal lao et note tous les chiffres entendus.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Regarde un journal télévisé lao avec un natif et résume-le.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>11 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l96-v01",
+   "front": "ຜູ້ຊົມ",
+   "back": "Phȕu sóm · téléspectateur"
+  },
+  {
+   "id": "l96-v02",
+   "front": "ຜູ້ຟັງ",
+   "back": "Phȕu fáng · auditeur"
+  },
+  {
+   "id": "l96-v03",
+   "front": "ອຸນຫະພູມ",
+   "back": "Ǔn-hā-phúum · température"
+  },
+  {
+   "id": "l96-v04",
+   "front": "ອົງສາ",
+   "back": "Ǒng-sǎa · degré"
+  },
+  {
+   "id": "l96-v05",
+   "front": "ລາຍງານ",
+   "back": "Láay-ngáan · rapport, reportage"
+  },
+  {
+   "id": "l96-v06",
+   "front": "ຄຳສຳຄັນ",
+   "back": "Khám sǎm-khán · mot-clé"
+  },
+  {
+   "id": "l96-v07",
+   "front": "ສະຖິຕິ",
+   "back": "Sā-thī-tī · statistique"
+  },
+  {
+   "id": "l96-v08",
+   "front": "ເປີເຊັນ",
+   "back": "Pɤ̌ɤ-sén · pour cent"
+  },
+  {
+   "id": "l96-p01",
+   "front": "Ils parlent vraiment vite !",
+   "back": "ເວົ້າໄວແທ້! · Wȁo wáy thɛ̏ɛ!"
+  },
+  {
+   "id": "l96-p02",
+   "front": "38 degrés.",
+   "back": "ສາມສິບແປດອົງສາ · Sǎam-sīp pɛ̏ɛt ǒng-sǎa."
+  },
+  {
+   "id": "l96-p03",
+   "front": "Écoute juste les mots-clés.",
+   "back": "ຟັງແຕ່ຄຳສຳຄັນ · Fáng tɛ̀ɛ khám sǎm-khán."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຜູ້ຊົມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "téléspectateur",
+      "degré",
+      "rapport, reportage",
+      "mot-clé"
+     ],
+     "answer": "téléspectateur",
+     "reveal": "<i>Phȕu sóm</i>"
+    },
+    {
+     "audio": [
+      "ຜູ້ຟັງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "auditeur",
+      "température",
+      "statistique",
+      "pour cent"
+     ],
+     "answer": "auditeur",
+     "reveal": "<i>Phȕu fáng</i>"
+    },
+    {
+     "audio": [
+      "ອຸນຫະພູມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "température",
+      "statistique",
+      "téléspectateur",
+      "rapport, reportage"
+     ],
+     "answer": "température",
+     "reveal": "<i>Ǔn-hā-phúum</i>"
+    },
+    {
+     "audio": [
+      "ອົງສາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "degré",
+      "pour cent",
+      "téléspectateur",
+      "auditeur"
+     ],
+     "answer": "degré",
+     "reveal": "<i>Ǒng-sǎa</i>"
+    },
+    {
+     "audio": [
+      "ລາຍງານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "rapport, reportage",
+      "pour cent",
+      "température",
+      "statistique"
+     ],
+     "answer": "rapport, reportage",
+     "reveal": "<i>Láay-ngáan</i>"
+    },
+    {
+     "audio": [
+      "ຄຳສຳຄັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mot-clé",
+      "degré",
+      "température",
+      "pour cent"
+     ],
+     "answer": "mot-clé",
+     "reveal": "<i>Khám sǎm-khán</i>"
+    },
+    {
+     "audio": [
+      "ສະຖິຕິ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "statistique",
+      "température",
+      "mot-clé",
+      "pour cent"
+     ],
+     "answer": "statistique",
+     "reveal": "<i>Sā-thī-tī</i>"
+    },
+    {
+     "audio": [
+      "ເປີເຊັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pour cent",
+      "température",
+      "degré",
+      "téléspectateur"
+     ],
+     "answer": "pour cent",
+     "reveal": "<i>Pɤ̌ɤ-sén</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ສະບາຍດີທ່ານຜູ້ຊົມ ຂ່າວມື້ນີ້"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Bonsoir chers téléspectateurs. Les nouvelles du jour…",
+      "Ils parlent vraiment vite !",
+      "Écoute juste les mots importants, ça suffit.",
+      "Demain, la température atteindra 38 degrés."
+     ],
+     "answer": "Bonsoir chers téléspectateurs. Les nouvelles du jour…",
+     "reveal": "<i>Sā-bǎay-dǐi thāan phȕu sóm. Khàaw mʉ̂ʉ-nȉi…</i>"
+    },
+    {
+     "audio": [
+      "ອຸນຫະພູມມື້ອື່ນຈະສູງເຖິງສາມສິບແປດອົງສາ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Demain, la température atteindra 38 degrés.",
+      "Bonsoir chers téléspectateurs. Les nouvelles du jour…",
+      "Écoute juste les mots importants, ça suffit.",
+      "Ils parlent vraiment vite !"
+     ],
+     "answer": "Demain, la température atteindra 38 degrés.",
+     "reveal": "<i>Ǔn-hā-phúum mʉ̂ʉ-ʉ̀ʉn já sǔung thɤ̌ng sǎam-sīp pɛ̏ɛt ǒng-sǎa.</i>"
+    },
+    {
+     "audio": [
+      "ເວົ້າໄວແທ້!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Ils parlent vraiment vite !",
+      "Demain, la température atteindra 38 degrés.",
+      "Écoute juste les mots importants, ça suffit.",
+      "Bonsoir chers téléspectateurs. Les nouvelles du jour…"
+     ],
+     "answer": "Ils parlent vraiment vite !",
+     "reveal": "<i>Wȁo wáy thɛ̏ɛ!</i>"
+    },
+    {
+     "audio": [
+      "ຟັງແຕ່ຄຳສຳຄັນກໍພໍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Écoute juste les mots importants, ça suffit.",
+      "Ils parlent vraiment vite !",
+      "Bonsoir chers téléspectateurs. Les nouvelles du jour…",
+      "Demain, la température atteindra 38 degrés."
+     ],
+     "answer": "Écoute juste les mots importants, ça suffit.",
+     "reveal": "<i>Fáng tɛ̀ɛ khám sǎm-khán kɔ̂ɔ phɔ́ɔ.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເວົ້າໄວແທ້!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Ils parlent vraiment vite !",
+      "Écoute juste les mots-clés.",
+      "38 degrés."
+     ],
+     "answer": "Ils parlent vraiment vite !",
+     "reveal": "<i>Wȁo wáy thɛ̏ɛ!</i>"
+    },
+    {
+     "audio": [
+      "ສາມສິບແປດອົງສາ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "38 degrés.",
+      "Écoute juste les mots-clés.",
+      "Ils parlent vraiment vite !"
+     ],
+     "answer": "38 degrés.",
+     "reveal": "<i>Sǎam-sīp pɛ̏ɛt ǒng-sǎa.</i>"
+    },
+    {
+     "audio": [
+      "ຟັງແຕ່ຄຳສຳຄັນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Écoute juste les mots-clés.",
+      "38 degrés.",
+      "Ils parlent vraiment vite !"
+     ],
+     "answer": "Écoute juste les mots-clés.",
+     "reveal": "<i>Fáng tɛ̀ɛ khám sǎm-khán.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຜູ້ຊົມ",
+   "rom": "Phȕu sóm",
+   "fr": "téléspectateur",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຜູ້ຟັງ",
+   "rom": "Phȕu fáng",
+   "fr": "auditeur",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອຸນຫະພູມ",
+   "rom": "Ǔn-hā-phúum",
+   "fr": "température",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອົງສາ",
+   "rom": "Ǒng-sǎa",
+   "fr": "degré",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລາຍງານ",
+   "rom": "Láay-ngáan",
+   "fr": "rapport, reportage",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄຳສຳຄັນ",
+   "rom": "Khám sǎm-khán",
+   "fr": "mot-clé",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສະຖິຕິ",
+   "rom": "Sā-thī-tī",
+   "fr": "statistique",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເປີເຊັນ",
+   "rom": "Pɤ̌ɤ-sén",
+   "fr": "pour cent",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເວົ້າໄວແທ້!",
+   "rom": "Wȁo wáy thɛ̏ɛ!",
+   "fr": "Ils parlent vraiment vite !",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສາມສິບແປດອົງສາ",
+   "rom": "Sǎam-sīp pɛ̏ɛt ǒng-sǎa.",
+   "fr": "38 degrés.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຟັງແຕ່ຄຳສຳຄັນ",
+   "rom": "Fáng tɛ̀ɛ khám sǎm-khán.",
+   "fr": "Écoute juste les mots-clés.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ເວົ້າ",
+    "ໄວ",
+    "ແທ້"
+   ],
+   "rom": "Wȁo wáy thɛ̏ɛ!",
+   "fr": "Ils parlent vraiment vite !"
+  },
+  {
+   "tokens": [
+    "ສາມສິບ",
+    "ແປດ",
+    "ອົງສາ"
+   ],
+   "rom": "Sǎam-sīp pɛ̏ɛt ǒng-sǎa.",
+   "fr": "38 degrés."
+  },
+  {
+   "tokens": [
+    "ຟັງ",
+    "ແຕ່",
+    "ຄຳ",
+    "ສຳຄັນ"
+   ],
+   "rom": "Fáng tɛ̀ɛ khám sǎm-khán.",
+   "fr": "Écoute juste les mots-clés."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຜູ້ຊົມ",
+   "rom": "Phȕu sóm",
+   "fr": "téléspectateur"
+  },
+  {
+   "lao": "ຜູ້ຟັງ",
+   "rom": "Phȕu fáng",
+   "fr": "auditeur"
+  },
+  {
+   "lao": "ອຸນຫະພູມ",
+   "rom": "Ǔn-hā-phúum",
+   "fr": "température"
+  },
+  {
+   "lao": "ອົງສາ",
+   "rom": "Ǒng-sǎa",
+   "fr": "degré"
+  },
+  {
+   "lao": "ລາຍງານ",
+   "rom": "Láay-ngáan",
+   "fr": "rapport, reportage"
+  },
+  {
+   "lao": "ຄຳສຳຄັນ",
+   "rom": "Khám sǎm-khán",
+   "fr": "mot-clé"
+  },
+  {
+   "lao": "ສະຖິຕິ",
+   "rom": "Sā-thī-tī",
+   "fr": "statistique"
+  },
+  {
+   "lao": "ເປີເຊັນ",
+   "rom": "Pɤ̌ɤ-sén",
+   "fr": "pour cent"
+  }
+ ],
+ "sounds": {
+  "ພາຍໃນ": "Pháay-nǎy",
+  "ໃນທາງກົງກັນຂ້າມ": "Nǎy tháang kóng-kǎn-khâam",
+  "ຂໍຄິດແປັບໜຶ່ງ": "Khɔ̌ɔ khīt pɛ́p nʉ̀ng",
+  "ເພງ": "Phéeng",
+  "ສະບາຍດີທ່ານຜູ້ຊົມ ຂ່າວມື້ນີ້": "Sā-bǎay-dǐi thāan phȕu sóm. Khàaw mʉ̂ʉ-nȉi…",
+  "ອຸນຫະພູມມື້ອື່ນຈະສູງເຖິງສາມສິບແປດອົງສາ": "Ǔn-hā-phúum mʉ̂ʉ-ʉ̀ʉn já sǔung thɤ̌ng sǎam-sīp pɛ̏ɛt ǒng-sǎa.",
+  "ເວົ້າໄວແທ້": "Wȁo wáy thɛ̏ɛ!",
+  "ຟັງແຕ່ຄຳສຳຄັນກໍພໍ": "Fáng tɛ̀ɛ khám sǎm-khán kɔ̂ɔ phɔ́ɔ.",
+  "ຜູ້ຊົມ": "Phȕu sóm",
+  "ຜູ້ຟັງ": "Phȕu fáng",
+  "ອຸນຫະພູມ": "Ǔn-hā-phúum",
+  "ອົງສາ": "ǒng-sǎa",
+  "ລາຍງານ": "Láay-ngáan",
+  "ຄຳສຳຄັນ": "Khám sǎm-khán",
+  "ສະຖິຕິ": "Sā-thī-tī",
+  "ເປີເຊັນ": "Pɤ̌ɤ-sén",
+  "ທ່ານຜູ້ຊົມ": "Thāan phȕu sóm",
+  "ສູງເຖິງ": "Sǔung thɤ̌ng…",
+  "ສາມສິບແປດອົງສາ": "Sǎam-sīp pɛ̏ɛt ǒng-sǎa.",
+  "ຟັງແຕ່ຄຳສຳຄັນ": "Fáng tɛ̀ɛ khám sǎm-khán.",
+  "ເວົ້າ": "wȁo",
+  "ໄວ": "wáy",
+  "ແທ້": "thɛ̏ɛ",
+  "ສາມສິບ": "sǎam-sīp",
+  "ແປດ": "pɛ̏ɛt",
+  "ຟັງ": "fáng",
+  "ແຕ່": "tɛ̀ɛ",
+  "ຄຳ": "khám",
+  "ສຳຄັນ": "sǎm-khán"
+ },
+ "suivi": "LEÇON : 96 — Partie F (Argumenter, B2) · La radio et la télé\nOBJECTIF : Comprendre un journal télévisé et ses chiffres.\nNOTION : la langue des médias\nVOCAB : Phȕu sóm, Phȕu fáng, Ǔn-hā-phúum, Ǒng-sǎa, Láay-ngáan, Khám sǎm-khán, Sā-thī-tī, Pɤ̌ɤ-sén\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 97 — Les expressions imagées (1)"
+}

@@ -1,0 +1,137 @@
+{
+ "num": 115,
+ "phase": "Partie F · Argumenter",
+ "title": "Bilan B2",
+ "objective": "Faire le point sur les 4 compétences du niveau B2.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>adolescent <small class=\"muted\">(leçon 114)</small></li><li>argent liquide <small class=\"muted\">(leçon 112)</small></li><li>poster <small class=\"muted\">(leçon 108)</small></li><li>on ne te voit plus <small class=\"muted\">(leçon 101)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ໄວລຸ້ນ</span> <span class=\"rom\">Wáy-lūn</span> · adolescent</li><li><span class=\"lo\">ເງິນສົດ</span> <span class=\"rom\">Ngɤ́n-sōt</span> · argent liquide</li><li><span class=\"lo\">ໂພສ</span> <span class=\"rom\">Phôot</span> · poster</li><li><span class=\"lo\">ບໍ່ເຫັນໜ້າ</span> <span class=\"rom\">Bɔ̀ɔ hěn nâa</span> · on ne te voit plus</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Faire le point sur les 4 compétences du niveau B2.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Débat final entre Clara et M. Somsak.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ເຈົ້າຄິດວ່າລາວຄວນພັດທະນາແນວໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຖິງແມ່ນວ່າການທ່ອງທ່ຽວສຳຄັນ ແຕ່ການສຶກສາສຳຄັນກວ່າ</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ເຫດຜົນຂອງເຈົ້າໜັກແໜ້ນ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Jâo khīt wāa láaw khúan phāt-thā-náa nɛ́ɛw-dǎy?</span><br><span class=\"rom\">Thɤ̌ng-mɛ̄ɛn-wāa kǎan thɔ̄ɔng-thīaw sǎm-khán, tɛ̀ɛ kǎan-sʉ̄k-sǎa sǎm-khán kwàa.</span><br><span class=\"rom\">Hēet-phǒn khɔ̌ɔng jâo nāk-nɛ̂n.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>M. Somsak</b> — À ton avis, comment le Laos devrait-il se développer ?<br><b>Clara</b> — Même si le tourisme est important, l&#x27;éducation l&#x27;est davantage.<br><b>M. Somsak</b> — Ton argument est solide.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quelle est la position de Clara ?</li></ol><details><summary>Réponses</summary><ol><li>L&#x27;éducation est plus importante que le tourisme.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ໜັກແໜ້ນ</td><td class=\"rom\">Nāk-nɛ̂n</td><td>solide (argument)</td><td></td></tr><tr><td class=\"lo\">ພັດທະນາ</td><td class=\"rom\">Phāt-thā-náa</td><td>développer</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : révision B2",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ເຖິງແມ່ນວ່າ ແຕ່</span> <span class=\"rom\">Thɤ̌ng-mɛ̄ɛn-wāa… tɛ̀ɛ…</span> = concession</li><li><span class=\"lo\">ດັ່ງນັ້ນ ຈຶ່ງ</span> <span class=\"rom\">Dàng-nȁn… jʉ̀ng…</span> = conséquence</li><li><span class=\"lo\">ອາດຈະ / ຄົງຈະ / ແນ່ນອນ</span> <span class=\"rom\">Ȁat-já/ khóng-já/ nɛ̄ɛ-nɔ́ɔn</span> = certitude</li></ul><details><summary>La règle</summary><p>Bilan B2 : argumentation structurée, nuance, concession, cause et conséquence, registres médiatiques, expressions imagées, implicite. Fais le test /test.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> un débat à vitesse réelle.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Ton argument est solide.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເຫດຜົນຂອງເຈົ້າໜັກແໜ້ນ</span> <span class=\"rom\">Hēet-phǒn khɔ̌ɔng jâo nāk-nɛ̂n.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris un essai argumenté de 400 mots.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Fais le test de fin de niveau B2 et un débat de 30 minutes avec un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>3 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l115-v01",
+   "front": "ໜັກແໜ້ນ",
+   "back": "Nāk-nɛ̂n · solide (argument)"
+  },
+  {
+   "id": "l115-v02",
+   "front": "ພັດທະນາ",
+   "back": "Phāt-thā-náa · développer"
+  },
+  {
+   "id": "l115-p01",
+   "front": "Ton argument est solide.",
+   "back": "ເຫດຜົນຂອງເຈົ້າໜັກແໜ້ນ · Hēet-phǒn khɔ̌ɔng jâo nāk-nɛ̂n."
+  }
+ ],
+ "listening": [],
+ "speak": [
+  {
+   "lao": "ໜັກແໜ້ນ",
+   "rom": "Nāk-nɛ̂n",
+   "fr": "solide (argument)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພັດທະນາ",
+   "rom": "Phāt-thā-náa",
+   "fr": "développer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຫດຜົນຂອງເຈົ້າໜັກແໜ້ນ",
+   "rom": "Hēet-phǒn khɔ̌ɔng jâo nāk-nɛ̂n.",
+   "fr": "Ton argument est solide.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ເຫດຜົນ",
+    "ຂອງ",
+    "ເຈົ້າ",
+    "ໜັກແໜ້ນ"
+   ],
+   "rom": "Hēet-phǒn khɔ̌ɔng jâo nāk-nɛ̂n.",
+   "fr": "Ton argument est solide."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ໜັກແໜ້ນ",
+   "rom": "Nāk-nɛ̂n",
+   "fr": "solide (argument)"
+  },
+  {
+   "lao": "ພັດທະນາ",
+   "rom": "Phāt-thā-náa",
+   "fr": "développer"
+  }
+ ],
+ "sounds": {
+  "ໄວລຸ້ນ": "Wáy-lūn",
+  "ເງິນສົດ": "Ngɤ́n-sōt",
+  "ໂພສ": "Phôot",
+  "ບໍ່ເຫັນໜ້າ": "Bɔ̀ɔ hěn nâa",
+  "ເຈົ້າຄິດວ່າລາວຄວນພັດທະນາແນວໃດ": "Jâo khīt wāa láaw khúan phāt-thā-náa nɛ́ɛw-dǎy?",
+  "ເຖິງແມ່ນວ່າການທ່ອງທ່ຽວສຳຄັນ ແຕ່ການສຶກສາສຳຄັນກວ່າ": "Thɤ̌ng-mɛ̄ɛn-wāa kǎan thɔ̄ɔng-thīaw sǎm-khán, tɛ̀ɛ kǎan-sʉ̄k-sǎa sǎm-khán kwàa.",
+  "ເຫດຜົນຂອງເຈົ້າໜັກແໜ້ນ": "Hēet-phǒn khɔ̌ɔng jâo nāk-nɛ̂n.",
+  "ໜັກແໜ້ນ": "nāk-nɛ̂n",
+  "ພັດທະນາ": "Phāt-thā-náa",
+  "ເຖິງແມ່ນວ່າ ແຕ່": "Thɤ̌ng-mɛ̄ɛn-wāa… tɛ̀ɛ…",
+  "ດັ່ງນັ້ນ ຈຶ່ງ": "Dàng-nȁn… jʉ̀ng…",
+  "ອາດຈະ / ຄົງຈະ / ແນ່ນອນ": "Ȁat-já/ khóng-já/ nɛ̄ɛ-nɔ́ɔn",
+  "ເຫດຜົນ": "hēet-phǒn",
+  "ຂອງ": "khɔ̌ɔng",
+  "ເຈົ້າ": "jâo"
+ },
+ "suivi": "LEÇON : 115 — Partie F (Argumenter, B2) · Bilan B2\nOBJECTIF : Faire le point sur les 4 compétences du niveau B2.\nNOTION : révision B2\nVOCAB : Nāk-nɛ̂n, Phāt-thā-náa\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 116 — Le registre soutenu"
+}

@@ -1,0 +1,516 @@
+{
+ "num": 97,
+ "phase": "Partie F · Argumenter",
+ "title": "Les expressions imagées (1)",
+ "objective": "Comprendre et placer des expressions courantes avec ໃຈ.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>auditeur <small class=\"muted\">(leçon 96)</small></li><li>donc, c&#x27;est pourquoi <small class=\"muted\">(leçon 94)</small></li><li>de plus en plus <small class=\"muted\">(leçon 90)</small></li><li>piler <small class=\"muted\">(leçon 83)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຜູ້ຟັງ</span> <span class=\"rom\">Phȕu fáng</span> · auditeur</li><li><span class=\"lo\">ດັ່ງນັ້ນ</span> <span class=\"rom\">Dàng-nȁn</span> · donc, c&#x27;est pourquoi</li><li><span class=\"lo\">ຫຼາຍຂຶ້ນ</span> <span class=\"rom\">Lǎay khʉ̂n</span> · de plus en plus</li><li><span class=\"lo\">ຕຳ</span> <span class=\"rom\">Tǎm</span> · piler</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Comprendre et placer des expressions courantes avec ໃຈ.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Noy décrit des collègues.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຫົວໜ້າຂ້ອຍໃຈກວ້າງຫຼາຍ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ແຕ່ເພື່ອນຮ່ວມງານຄົນໜຶ່ງໃຈແຄບ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແລ້ວເຈົ້າເດ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຂ້ອຍໃຈເຢັນ!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Hǔa-nâa khɔ̂ɔy jǎy kwâang lǎay.</span><br><span class=\"rom\">Tɛ̀ɛ phʉ̄an hūam ngáan khón nʉ̀ng jǎy khɛ̂ɛp.</span><br><span class=\"rom\">Lɛ̏ɛw jâo dě?</span><br><span class=\"rom\">Khɔ̂ɔy jǎy yěn!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Mon chef est très généreux (cœur large).<br><b>Noy</b> — Mais un collègue est mesquin (cœur étroit).<br><b>Clara</b> — Et toi ?<br><b>Noy</b> — Moi, je suis calme (cœur froid) !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Comment est le chef de Noy ?</li><li>Et Noy ?</li></ol><details><summary>Réponses</summary><ol><li>Généreux : ໃຈກວ້າງ.</li><li>Calme : ໃຈເຢັນ.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ໃຈກວ້າງ</td><td class=\"rom\">Jǎy kwâang</td><td>généreux (cœur large)</td><td></td></tr><tr><td class=\"lo\">ໃຈແຄບ</td><td class=\"rom\">Jǎy khɛ̂ɛp</td><td>mesquin (cœur étroit)</td><td></td></tr><tr><td class=\"lo\">ໃຈເຢັນ</td><td class=\"rom\">Jǎy yěn</td><td>calme (cœur froid)</td><td></td></tr><tr><td class=\"lo\">ໃຈຮ້ອນ</td><td class=\"rom\">Jǎy hȍɔn</td><td>impatient (cœur chaud)</td><td></td></tr><tr><td class=\"lo\">ໃຈດີ</td><td class=\"rom\">Jǎy dǐi</td><td>gentil</td><td></td></tr><tr><td class=\"lo\">ໃຈແຂງ</td><td class=\"rom\">Jǎy khɛ̌ɛng</td><td>ferme, dur</td><td></td></tr><tr><td class=\"lo\">ໃຈອ່ອນ</td><td class=\"rom\">Jǎy ɔ̀ɔn</td><td>sensible, faible</td><td></td></tr><tr><td class=\"lo\">ເພື່ອນຮ່ວມງານ</td><td class=\"rom\">Phʉ̄an hūam ngáan</td><td>collègue</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les expressions en ໃຈ",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ໃຈເຢັນໆ</span> <span class=\"rom\">Jǎy yěn yěn</span> = calme-toi</li><li><span class=\"lo\">ເສຍໃຈນຳ</span> <span class=\"rom\">Sǐa jǎy nám</span> = toutes mes condoléances / désolé pour toi</li></ul><details><summary>La règle</summary><p>Le cœur (ໃຈ) est au centre de la psychologie lao : ໃຈເຢັນ (calme) est une qualité très valorisée, ໃຈຮ້ອນ (impatient) un défaut.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les adjectifs après ໃຈ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Calme-toi.</li><li>Il est très généreux.</li><li>Ne sois pas impatient.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ໃຈເຢັນໆ</span> <span class=\"rom\">Jǎy yěn yěn.</span></li><li><span class=\"lo\">ລາວໃຈກວ້າງຫຼາຍ</span> <span class=\"rom\">Láaw jǎy kwâang lǎay.</span></li><li><span class=\"lo\">ຢ່າໃຈຮ້ອນ</span> <span class=\"rom\">Yàa jǎy hȍɔn.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Décris 5 personnes de ton entourage avec des expressions en ໃຈ.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Demande à un natif 5 autres expressions en ໃຈ et leur sens.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>11 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l97-v01",
+   "front": "ໃຈກວ້າງ",
+   "back": "Jǎy kwâang · généreux (cœur large)"
+  },
+  {
+   "id": "l97-v02",
+   "front": "ໃຈແຄບ",
+   "back": "Jǎy khɛ̂ɛp · mesquin (cœur étroit)"
+  },
+  {
+   "id": "l97-v03",
+   "front": "ໃຈເຢັນ",
+   "back": "Jǎy yěn · calme (cœur froid)"
+  },
+  {
+   "id": "l97-v04",
+   "front": "ໃຈຮ້ອນ",
+   "back": "Jǎy hȍɔn · impatient (cœur chaud)"
+  },
+  {
+   "id": "l97-v05",
+   "front": "ໃຈດີ",
+   "back": "Jǎy dǐi · gentil"
+  },
+  {
+   "id": "l97-v06",
+   "front": "ໃຈແຂງ",
+   "back": "Jǎy khɛ̌ɛng · ferme, dur"
+  },
+  {
+   "id": "l97-v07",
+   "front": "ໃຈອ່ອນ",
+   "back": "Jǎy ɔ̀ɔn · sensible, faible"
+  },
+  {
+   "id": "l97-v08",
+   "front": "ເພື່ອນຮ່ວມງານ",
+   "back": "Phʉ̄an hūam ngáan · collègue"
+  },
+  {
+   "id": "l97-p01",
+   "front": "Calme-toi.",
+   "back": "ໃຈເຢັນໆ · Jǎy yěn yěn."
+  },
+  {
+   "id": "l97-p02",
+   "front": "Il est très généreux.",
+   "back": "ລາວໃຈກວ້າງຫຼາຍ · Láaw jǎy kwâang lǎay."
+  },
+  {
+   "id": "l97-p03",
+   "front": "Ne sois pas impatient.",
+   "back": "ຢ່າໃຈຮ້ອນ · Yàa jǎy hȍɔn."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ໃຈກວ້າງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "généreux (cœur large)",
+      "collègue",
+      "mesquin (cœur étroit)",
+      "impatient (cœur chaud)"
+     ],
+     "answer": "généreux (cœur large)",
+     "reveal": "<i>Jǎy kwâang</i>"
+    },
+    {
+     "audio": [
+      "ໃຈແຄບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mesquin (cœur étroit)",
+      "collègue",
+      "impatient (cœur chaud)",
+      "sensible, faible"
+     ],
+     "answer": "mesquin (cœur étroit)",
+     "reveal": "<i>Jǎy khɛ̂ɛp</i>"
+    },
+    {
+     "audio": [
+      "ໃຈເຢັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "calme (cœur froid)",
+      "mesquin (cœur étroit)",
+      "ferme, dur",
+      "impatient (cœur chaud)"
+     ],
+     "answer": "calme (cœur froid)",
+     "reveal": "<i>Jǎy yěn</i>"
+    },
+    {
+     "audio": [
+      "ໃຈຮ້ອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "impatient (cœur chaud)",
+      "ferme, dur",
+      "collègue",
+      "calme (cœur froid)"
+     ],
+     "answer": "impatient (cœur chaud)",
+     "reveal": "<i>Jǎy hȍɔn</i>"
+    },
+    {
+     "audio": [
+      "ໃຈດີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "gentil",
+      "impatient (cœur chaud)",
+      "calme (cœur froid)",
+      "mesquin (cœur étroit)"
+     ],
+     "answer": "gentil",
+     "reveal": "<i>Jǎy dǐi</i>"
+    },
+    {
+     "audio": [
+      "ໃຈແຂງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ferme, dur",
+      "gentil",
+      "mesquin (cœur étroit)",
+      "collègue"
+     ],
+     "answer": "ferme, dur",
+     "reveal": "<i>Jǎy khɛ̌ɛng</i>"
+    },
+    {
+     "audio": [
+      "ໃຈອ່ອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "sensible, faible",
+      "généreux (cœur large)",
+      "mesquin (cœur étroit)",
+      "gentil"
+     ],
+     "answer": "sensible, faible",
+     "reveal": "<i>Jǎy ɔ̀ɔn</i>"
+    },
+    {
+     "audio": [
+      "ເພື່ອນຮ່ວມງານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "collègue",
+      "calme (cœur froid)",
+      "gentil",
+      "sensible, faible"
+     ],
+     "answer": "collègue",
+     "reveal": "<i>Phʉ̄an hūam ngáan</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຫົວໜ້າຂ້ອຍໃຈກວ້າງຫຼາຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Mon chef est très généreux (cœur large).",
+      "Mais un collègue est mesquin (cœur étroit).",
+      "Et toi ?",
+      "Moi, je suis calme (cœur froid) !"
+     ],
+     "answer": "Mon chef est très généreux (cœur large).",
+     "reveal": "<i>Hǔa-nâa khɔ̂ɔy jǎy kwâang lǎay.</i>"
+    },
+    {
+     "audio": [
+      "ແຕ່ເພື່ອນຮ່ວມງານຄົນໜຶ່ງໃຈແຄບ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Mais un collègue est mesquin (cœur étroit).",
+      "Et toi ?",
+      "Mon chef est très généreux (cœur large).",
+      "Moi, je suis calme (cœur froid) !"
+     ],
+     "answer": "Mais un collègue est mesquin (cœur étroit).",
+     "reveal": "<i>Tɛ̀ɛ phʉ̄an hūam ngáan khón nʉ̀ng jǎy khɛ̂ɛp.</i>"
+    },
+    {
+     "audio": [
+      "ແລ້ວເຈົ້າເດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Et toi ?",
+      "Mais un collègue est mesquin (cœur étroit).",
+      "Moi, je suis calme (cœur froid) !",
+      "Mon chef est très généreux (cœur large)."
+     ],
+     "answer": "Et toi ?",
+     "reveal": "<i>Lɛ̏ɛw jâo dě?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍໃຈເຢັນ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Moi, je suis calme (cœur froid) !",
+      "Mon chef est très généreux (cœur large).",
+      "Mais un collègue est mesquin (cœur étroit).",
+      "Et toi ?"
+     ],
+     "answer": "Moi, je suis calme (cœur froid) !",
+     "reveal": "<i>Khɔ̂ɔy jǎy yěn!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ໃຈເຢັນໆ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Calme-toi.",
+      "Ne sois pas impatient.",
+      "Il est très généreux."
+     ],
+     "answer": "Calme-toi.",
+     "reveal": "<i>Jǎy yěn yěn.</i>"
+    },
+    {
+     "audio": [
+      "ລາວໃຈກວ້າງຫຼາຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il est très généreux.",
+      "Ne sois pas impatient.",
+      "Calme-toi."
+     ],
+     "answer": "Il est très généreux.",
+     "reveal": "<i>Láaw jǎy kwâang lǎay.</i>"
+    },
+    {
+     "audio": [
+      "ຢ່າໃຈຮ້ອນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Ne sois pas impatient.",
+      "Calme-toi.",
+      "Il est très généreux."
+     ],
+     "answer": "Ne sois pas impatient.",
+     "reveal": "<i>Yàa jǎy hȍɔn.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ໃຈກວ້າງ",
+   "rom": "Jǎy kwâang",
+   "fr": "généreux (cœur large)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃຈແຄບ",
+   "rom": "Jǎy khɛ̂ɛp",
+   "fr": "mesquin (cœur étroit)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃຈເຢັນ",
+   "rom": "Jǎy yěn",
+   "fr": "calme (cœur froid)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃຈຮ້ອນ",
+   "rom": "Jǎy hȍɔn",
+   "fr": "impatient (cœur chaud)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃຈດີ",
+   "rom": "Jǎy dǐi",
+   "fr": "gentil",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃຈແຂງ",
+   "rom": "Jǎy khɛ̌ɛng",
+   "fr": "ferme, dur",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃຈອ່ອນ",
+   "rom": "Jǎy ɔ̀ɔn",
+   "fr": "sensible, faible",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເພື່ອນຮ່ວມງານ",
+   "rom": "Phʉ̄an hūam ngáan",
+   "fr": "collègue",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃຈເຢັນໆ",
+   "rom": "Jǎy yěn yěn.",
+   "fr": "Calme-toi.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລາວໃຈກວ້າງຫຼາຍ",
+   "rom": "Láaw jǎy kwâang lǎay.",
+   "fr": "Il est très généreux.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຢ່າໃຈຮ້ອນ",
+   "rom": "Yàa jǎy hȍɔn.",
+   "fr": "Ne sois pas impatient.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ໃຈ",
+    "ເຢັນ",
+    "ໆ"
+   ],
+   "rom": "Jǎy yěn yěn.",
+   "fr": "Calme-toi."
+  },
+  {
+   "tokens": [
+    "ລາວ",
+    "ໃຈ",
+    "ກວ້າງ",
+    "ຫຼາຍ"
+   ],
+   "rom": "Láaw jǎy kwâang lǎay.",
+   "fr": "Il est très généreux."
+  },
+  {
+   "tokens": [
+    "ຢ່າ",
+    "ໃຈ",
+    "ຮ້ອນ"
+   ],
+   "rom": "Yàa jǎy hȍɔn.",
+   "fr": "Ne sois pas impatient."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ໃຈກວ້າງ",
+   "rom": "Jǎy kwâang",
+   "fr": "généreux (cœur large)"
+  },
+  {
+   "lao": "ໃຈແຄບ",
+   "rom": "Jǎy khɛ̂ɛp",
+   "fr": "mesquin (cœur étroit)"
+  },
+  {
+   "lao": "ໃຈເຢັນ",
+   "rom": "Jǎy yěn",
+   "fr": "calme (cœur froid)"
+  },
+  {
+   "lao": "ໃຈຮ້ອນ",
+   "rom": "Jǎy hȍɔn",
+   "fr": "impatient (cœur chaud)"
+  },
+  {
+   "lao": "ໃຈດີ",
+   "rom": "Jǎy dǐi",
+   "fr": "gentil"
+  },
+  {
+   "lao": "ໃຈແຂງ",
+   "rom": "Jǎy khɛ̌ɛng",
+   "fr": "ferme, dur"
+  },
+  {
+   "lao": "ໃຈອ່ອນ",
+   "rom": "Jǎy ɔ̀ɔn",
+   "fr": "sensible, faible"
+  },
+  {
+   "lao": "ເພື່ອນຮ່ວມງານ",
+   "rom": "Phʉ̄an hūam ngáan",
+   "fr": "collègue"
+  }
+ ],
+ "sounds": {
+  "ຜູ້ຟັງ": "Phȕu fáng",
+  "ດັ່ງນັ້ນ": "Dàng-nȁn",
+  "ຫຼາຍຂຶ້ນ": "Lǎay khʉ̂n",
+  "ຕຳ": "Tǎm",
+  "ຫົວໜ້າຂ້ອຍໃຈກວ້າງຫຼາຍ": "Hǔa-nâa khɔ̂ɔy jǎy kwâang lǎay.",
+  "ແຕ່ເພື່ອນຮ່ວມງານຄົນໜຶ່ງໃຈແຄບ": "Tɛ̀ɛ phʉ̄an hūam ngáan khón nʉ̀ng jǎy khɛ̂ɛp.",
+  "ແລ້ວເຈົ້າເດ": "Lɛ̏ɛw jâo dě?",
+  "ຂ້ອຍໃຈເຢັນ": "Khɔ̂ɔy jǎy yěn!",
+  "ໃຈກວ້າງ": "Jǎy kwâang",
+  "ໃຈແຄບ": "Jǎy khɛ̂ɛp",
+  "ໃຈເຢັນ": "Jǎy yěn",
+  "ໃຈຮ້ອນ": "Jǎy hȍɔn",
+  "ໃຈດີ": "Jǎy dǐi",
+  "ໃຈແຂງ": "Jǎy khɛ̌ɛng",
+  "ໃຈອ່ອນ": "Jǎy ɔ̀ɔn",
+  "ເພື່ອນຮ່ວມງານ": "Phʉ̄an hūam ngáan",
+  "ໃຈເຢັນໆ": "Jǎy yěn yěn.",
+  "ເສຍໃຈນຳ": "Sǐa jǎy nám",
+  "ລາວໃຈກວ້າງຫຼາຍ": "Láaw jǎy kwâang lǎay.",
+  "ຢ່າໃຈຮ້ອນ": "Yàa jǎy hȍɔn.",
+  "ໃຈ": "jǎy",
+  "ເຢັນ": "yěn",
+  "ໆ": "",
+  "ລາວ": "láaw",
+  "ກວ້າງ": "kwâang",
+  "ຫຼາຍ": "lǎay",
+  "ຢ່າ": "yàa",
+  "ຮ້ອນ": "hȍɔn"
+ },
+ "suivi": "LEÇON : 97 — Partie F (Argumenter, B2) · Les expressions imagées (1)\nOBJECTIF : Comprendre et placer des expressions courantes avec ໃຈ.\nNOTION : les expressions en ໃຈ\nVOCAB : Jǎy kwâang, Jǎy khɛ̂ɛp, Jǎy yěn, Jǎy hȍɔn, Jǎy dǐi, Jǎy khɛ̌ɛng, Jǎy ɔ̀ɔn, Phʉ̄an hūam ngáan\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 98 — Les expressions imagées (2)"
+}

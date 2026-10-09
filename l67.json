@@ -19,7 +19,7 @@
   },
   {
    "title": "Dialogue",
-   "html": "<p class=\"muted\">La famille discute d&#x27;un projet de voyage.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ປີໜ້າເຮົາໄປທ່ຽວທະເລເນາະ</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ຂ້ອຍເຫັນດີ</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຂ້ອຍບໍ່ຄ່ອຍເຫັນດີປານໃດ ໄປພູດີກວ່າ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ກໍມີເຫດຜົນເນາະ ແຕ່ທະເລມ່ວນກວ່າ</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ໂອເຄ ຂໍຄິດເບິ່ງກ່ອນ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Pǐi-nâa háo pǎy thìaw thā-léé nɔ̄.</span><br><span class=\"rom\">Khɔ̂ɔy hěn-dǐi.</span><br><span class=\"rom\">Khɔ̂ɔy bɔ̀ɔ khɔ̄ɔy hěn-dǐi pǎan-dǎy. Pǎy phúu dǐi kwàa.</span><br><span class=\"rom\">Kɔ̂ɔ míi hēet-phǒn nɔ̄, tɛ̀ɛ thā-léé mūan kwàa.</span><br><span class=\"rom\">Ǒo-khéé, khɔ̌ɔ khīt bɤ̀ng kɔ̀ɔn.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>M. Somsak</b> — L&#x27;an prochain, on va à la mer, d&#x27;accord ?<br><b>Mme Boua</b> — Je suis d&#x27;accord.<br><b>Kèo</b> — Je ne suis pas trop d&#x27;accord. La montagne, c&#x27;est mieux.<br><b>Noy</b> — Ce n&#x27;est pas faux, mais la mer c&#x27;est plus sympa.<br><b>M. Somsak</b> — OK, laissez-moi réfléchir.</p></details>"
+   "html": "<p class=\"muted\">La famille discute d&#x27;un projet de voyage.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ປີໜ້າເຮົາໄປທ່ຽວທະເລເນາະ</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ຂ້ອຍເຫັນດີ</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຂ້ອຍບໍ່ຄ່ອຍເຫັນດີປານໃດ ໄປພູດີກວ່າ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ກໍມີເຫດຜົນເນາະ ແຕ່ທະເລມ່ວນກວ່າ</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ໂອເຄ ຂໍຄິດເບິ່ງກ່ອນ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Pǐi-nâa háo pǎy thīaw thā-léé nɔ̄.</span><br><span class=\"rom\">Khɔ̂ɔy hěn-dǐi.</span><br><span class=\"rom\">Khɔ̂ɔy bɔ̀ɔ khɔ̄ɔy hěn-dǐi pǎan-dǎy. Pǎy phúu dǐi kwàa.</span><br><span class=\"rom\">Kɔ̂ɔ míi hēet-phǒn nɔ̄, tɛ̀ɛ thā-léé mūan kwàa.</span><br><span class=\"rom\">Ǒo-khéé, khɔ̌ɔ khīt bɤ̀ng kɔ̀ɔn.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>M. Somsak</b> — L&#x27;an prochain, on va à la mer, d&#x27;accord ?<br><b>Mme Boua</b> — Je suis d&#x27;accord.<br><b>Kèo</b> — Je ne suis pas trop d&#x27;accord. La montagne, c&#x27;est mieux.<br><b>Noy</b> — Ce n&#x27;est pas faux, mais la mer c&#x27;est plus sympa.<br><b>M. Somsak</b> — OK, laissez-moi réfléchir.</p></details>"
   },
   {
    "title": "Compréhension",
@@ -230,7 +230,7 @@
       "OK, laissez-moi réfléchir."
      ],
      "answer": "L'an prochain, on va à la mer, d'accord ?",
-     "reveal": "<i>Pǐi-nâa háo pǎy thìaw thā-léé nɔ̄.</i>"
+     "reveal": "<i>Pǐi-nâa háo pǎy thīaw thā-léé nɔ̄.</i>"
     },
     {
      "audio": [
@@ -470,7 +470,7 @@
   "ທາງເຂົ້າ": "Tháang-khâo",
   "ເສຍໃຈ": "Sǐa-jǎy",
   "ລະດູຮ້ອນ": "Lā-dǔu-hȍɔn",
-  "ປີໜ້າເຮົາໄປທ່ຽວທະເລເນາະ": "Pǐi-nâa háo pǎy thìaw thā-léé nɔ̄.",
+  "ປີໜ້າເຮົາໄປທ່ຽວທະເລເນາະ": "Pǐi-nâa háo pǎy thīaw thā-léé nɔ̄.",
   "ຂ້ອຍເຫັນດີ": "Khɔ̂ɔy hěn-dǐi.",
   "ຂ້ອຍບໍ່ຄ່ອຍເຫັນດີປານໃດ ໄປພູດີກວ່າ": "Khɔ̂ɔy bɔ̀ɔ khɔ̄ɔy hěn-dǐi pǎan-dǎy. Pǎy phúu dǐi kwàa.",
   "ກໍມີເຫດຜົນເນາະ ແຕ່ທະເລມ່ວນກວ່າ": "Kɔ̂ɔ míi hēet-phǒn nɔ̄, tɛ̀ɛ thā-léé mūan kwàa.",

@@ -19,7 +19,7 @@
   },
   {
    "title": "Dialogue",
-   "html": "<p class=\"muted\">Noy parle de son couple.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຈົ້າກັບແຟນຄືນດີກັນແລ້ວບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຄືນດີແລ້ວ ພວກເຮົາລົມກັນດົນ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ດີແລ້ວ ຄວາມເຂົ້າໃຈກັນສຳຄັນ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ແມ່ນ ລາວເປັນຄົນດີ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Jâo kǎp fɛ́ɛn khʉ́ʉn-dǐi kǎn lɛ̏ɛw bɔ̌ɔ?</span><br><span class=\"rom\">Khʉ́ʉn-dǐi lɛ̏ɛw. Phûak-háo lóm kǎn dǒn.</span><br><span class=\"rom\">Dǐi lɛ̏ɛw. Khwáam khâo-jǎy kǎn sǎm-khán.</span><br><span class=\"rom\">Mɛ̄ɛn. Láaw pěn khón dǐi.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Toi et ton copain, vous vous êtes réconciliés ?<br><b>Noy</b> — Oui. On a longtemps parlé.<br><b>Clara</b> — Tant mieux. Se comprendre, c&#x27;est important.<br><b>Noy</b> — Oui. C&#x27;est quelqu&#x27;un de bien.</p></details>"
+   "html": "<p class=\"muted\">Noy parle de son couple.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຈົ້າກັບແຟນຄືນດີກັນແລ້ວບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຄືນດີແລ້ວ ພວກເຮົາລົມກັນດົນ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ດີແລ້ວ ຄວາມເຂົ້າໃຈກັນສຳຄັນ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ແມ່ນ ລາວເປັນຄົນດີ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Jâo káp fɛ́ɛn khʉ́ʉn-dǐi kǎn lɛ̏ɛw bɔ̌ɔ?</span><br><span class=\"rom\">Khʉ́ʉn-dǐi lɛ̏ɛw. Phûak-háo lóm kǎn dǒn.</span><br><span class=\"rom\">Dǐi lɛ̏ɛw. Khwáam khâo-jǎy kǎn sǎm-khán.</span><br><span class=\"rom\">Mɛ̄ɛn. Láaw pěn khón dǐi.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Toi et ton copain, vous vous êtes réconciliés ?<br><b>Noy</b> — Oui. On a longtemps parlé.<br><b>Clara</b> — Tant mieux. Se comprendre, c&#x27;est important.<br><b>Noy</b> — Oui. C&#x27;est quelqu&#x27;un de bien.</p></details>"
   },
   {
    "title": "Compréhension",
@@ -230,7 +230,7 @@
       "Tant mieux. Se comprendre, c'est important."
      ],
      "answer": "Toi et ton copain, vous vous êtes réconciliés ?",
-     "reveal": "<i>Jâo kǎp fɛ́ɛn khʉ́ʉn-dǐi kǎn lɛ̏ɛw bɔ̌ɔ?</i>"
+     "reveal": "<i>Jâo káp fɛ́ɛn khʉ́ʉn-dǐi kǎn lɛ̏ɛw bɔ̌ɔ?</i>"
     },
     {
      "audio": [
@@ -459,7 +459,7 @@
   "ລົມ": "Lóm",
   "ອາຍ": "Ǎay",
   "ເອີ": "ɤ̌ɤ",
-  "ເຈົ້າກັບແຟນຄືນດີກັນແລ້ວບໍ": "Jâo kǎp fɛ́ɛn khʉ́ʉn-dǐi kǎn lɛ̏ɛw bɔ̌ɔ?",
+  "ເຈົ້າກັບແຟນຄືນດີກັນແລ້ວບໍ": "Jâo káp fɛ́ɛn khʉ́ʉn-dǐi kǎn lɛ̏ɛw bɔ̌ɔ?",
   "ຄືນດີແລ້ວ ພວກເຮົາລົມກັນດົນ": "Khʉ́ʉn-dǐi lɛ̏ɛw. Phûak-háo lóm kǎn dǒn.",
   "ດີແລ້ວ ຄວາມເຂົ້າໃຈກັນສຳຄັນ": "Dǐi lɛ̏ɛw. Khwáam khâo-jǎy kǎn sǎm-khán.",
   "ແມ່ນ ລາວເປັນຄົນດີ": "Mɛ̄ɛn. Láaw pěn khón dǐi.",

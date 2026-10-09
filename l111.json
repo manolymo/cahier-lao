@@ -1,0 +1,324 @@
+{
+ "num": 111,
+ "phase": "Partie F · Argumenter",
+ "title": "Écrire un texte argumenté",
+ "objective": "Rédiger 300 mots sur un sujet de société.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>globalement <small class=\"muted\">(leçon 110)</small></li><li>poster <small class=\"muted\">(leçon 108)</small></li><li>inflation <small class=\"muted\">(leçon 104)</small></li><li>ferme, dur <small class=\"muted\">(leçon 97)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ໂດຍລວມ</span> <span class=\"rom\">Dóoy lúam</span> · globalement</li><li><span class=\"lo\">ໂພສ</span> <span class=\"rom\">Phôot</span> · poster</li><li><span class=\"lo\">ເງິນເຟີ້</span> <span class=\"rom\">Ngɤ́n-fɤ̂ɤ</span> · inflation</li><li><span class=\"lo\">ໃຈແຂງ</span> <span class=\"rom\">Jǎy khɛ̌ɛng</span> · ferme, dur</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Rédiger 300 mots sur un sujet de société.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara écrit pour un blog.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍຈະຂຽນກ່ຽວກັບການຮຽນພາສາ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ວາງໂຄງກ່ອນ: ບົດນຳ ເນື້ອເລື່ອງ ບົດສະຫຼຸບ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂອບໃຈ ຊ່ວຍກວດໃຫ້ແດ່ເດີ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Khɔ̂ɔy já khǐan kìaw-káp kǎan hían pháa-sǎa.</span><br><span class=\"rom\">Wáang khóong kɔ̀ɔn: bót nám, nʉ̏a lʉ̄ang, bót sā-lūp.</span><br><span class=\"rom\">Khɔ̏ɔp-jǎy. Sūay kȕat hây dɛ̀ɛ dɤ̌ɤ.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Je vais écrire sur l&#x27;apprentissage des langues.<br><b>Noy</b> — Fais un plan d&#x27;abord : introduction, développement, conclusion.<br><b>Clara</b> — Merci. Tu me relis, hein.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quel plan conseille Noy ?</li></ol><details><summary>Réponses</summary><ol><li>Introduction, développement, conclusion.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ວາງໂຄງ</td><td class=\"rom\">Wáang khóong</td><td>faire un plan</td><td></td></tr><tr><td class=\"lo\">ບົດນຳ</td><td class=\"rom\">Bót nám</td><td>introduction</td><td></td></tr><tr><td class=\"lo\">ເນື້ອເລື່ອງ</td><td class=\"rom\">Nʉ̏a lʉ̄ang</td><td>développement, contenu</td><td></td></tr><tr><td class=\"lo\">ບົດສະຫຼຸບ</td><td class=\"rom\">Bót sā-lūp</td><td>conclusion</td><td></td></tr><tr><td class=\"lo\">ກວດ</td><td class=\"rom\">Kȕat</td><td>vérifier, relire</td><td></td></tr><tr><td class=\"lo\">ບົດຄວາມ</td><td class=\"rom\">Bót khwáam</td><td>article, texte</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : la structure écrite",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ບົດນຳ ເນື້ອເລື່ອງ ບົດສະຫຼຸບ</span> <span class=\"rom\">Bót nám… nʉ̏a lʉ̄ang… bót sā-lūp</span> = intro… développement… conclusion</li></ul><details><summary>La règle</summary><p>Un texte argumenté lao suit le même plan qu'en français. À l'écrit, on évite les particules orales (ເດີ, ເນາະ) et on préfère les connecteurs écrits.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> relis ton texte à voix haute.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Fais un plan d&#x27;abord.</li><li>Tu peux me relire ?</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ວາງໂຄງກ່ອນ</span> <span class=\"rom\">Wáang khóong kɔ̀ɔn.</span></li><li><span class=\"lo\">ຊ່ວຍກວດໃຫ້ແດ່ໄດ້ບໍ?</span> <span class=\"rom\">Sūay kȕat hây dɛ̀ɛ dâay bɔ̌ɔ?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris un texte argumenté de 300 mots.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Fais corriger ton texte par un natif et réécris-le.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>8 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l111-v01",
+   "front": "ວາງໂຄງ",
+   "back": "Wáang khóong · faire un plan"
+  },
+  {
+   "id": "l111-v02",
+   "front": "ບົດນຳ",
+   "back": "Bót nám · introduction"
+  },
+  {
+   "id": "l111-v03",
+   "front": "ເນື້ອເລື່ອງ",
+   "back": "Nʉ̏a lʉ̄ang · développement, contenu"
+  },
+  {
+   "id": "l111-v04",
+   "front": "ບົດສະຫຼຸບ",
+   "back": "Bót sā-lūp · conclusion"
+  },
+  {
+   "id": "l111-v05",
+   "front": "ກວດ",
+   "back": "Kȕat · vérifier, relire"
+  },
+  {
+   "id": "l111-v06",
+   "front": "ບົດຄວາມ",
+   "back": "Bót khwáam · article, texte"
+  },
+  {
+   "id": "l111-p01",
+   "front": "Fais un plan d'abord.",
+   "back": "ວາງໂຄງກ່ອນ · Wáang khóong kɔ̀ɔn."
+  },
+  {
+   "id": "l111-p02",
+   "front": "Tu peux me relire ?",
+   "back": "ຊ່ວຍກວດໃຫ້ແດ່ໄດ້ບໍ? · Sūay kȕat hây dɛ̀ɛ dâay bɔ̌ɔ?"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ວາງໂຄງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "faire un plan",
+      "article, texte",
+      "vérifier, relire",
+      "conclusion"
+     ],
+     "answer": "faire un plan",
+     "reveal": "<i>Wáang khóong</i>"
+    },
+    {
+     "audio": [
+      "ບົດນຳ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "introduction",
+      "conclusion",
+      "article, texte",
+      "faire un plan"
+     ],
+     "answer": "introduction",
+     "reveal": "<i>Bót nám</i>"
+    },
+    {
+     "audio": [
+      "ເນື້ອເລື່ອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "développement, contenu",
+      "introduction",
+      "faire un plan",
+      "vérifier, relire"
+     ],
+     "answer": "développement, contenu",
+     "reveal": "<i>Nʉ̏a lʉ̄ang</i>"
+    },
+    {
+     "audio": [
+      "ບົດສະຫຼຸບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "conclusion",
+      "vérifier, relire",
+      "faire un plan",
+      "introduction"
+     ],
+     "answer": "conclusion",
+     "reveal": "<i>Bót sā-lūp</i>"
+    },
+    {
+     "audio": [
+      "ກວດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "vérifier, relire",
+      "conclusion",
+      "faire un plan",
+      "article, texte"
+     ],
+     "answer": "vérifier, relire",
+     "reveal": "<i>Kȕat</i>"
+    },
+    {
+     "audio": [
+      "ບົດຄວາມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "article, texte",
+      "développement, contenu",
+      "faire un plan",
+      "introduction"
+     ],
+     "answer": "article, texte",
+     "reveal": "<i>Bót khwáam</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ວາງໂຄງ",
+   "rom": "Wáang khóong",
+   "fr": "faire un plan",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບົດນຳ",
+   "rom": "Bót nám",
+   "fr": "introduction",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເນື້ອເລື່ອງ",
+   "rom": "Nʉ̏a lʉ̄ang",
+   "fr": "développement, contenu",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບົດສະຫຼຸບ",
+   "rom": "Bót sā-lūp",
+   "fr": "conclusion",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກວດ",
+   "rom": "Kȕat",
+   "fr": "vérifier, relire",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບົດຄວາມ",
+   "rom": "Bót khwáam",
+   "fr": "article, texte",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ວາງໂຄງກ່ອນ",
+   "rom": "Wáang khóong kɔ̀ɔn.",
+   "fr": "Fais un plan d'abord.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊ່ວຍກວດໃຫ້ແດ່ໄດ້ບໍ?",
+   "rom": "Sūay kȕat hây dɛ̀ɛ dâay bɔ̌ɔ?",
+   "fr": "Tu peux me relire ?",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ວາງ",
+    "ໂຄງ",
+    "ກ່ອນ"
+   ],
+   "rom": "Wáang khóong kɔ̀ɔn.",
+   "fr": "Fais un plan d'abord."
+  },
+  {
+   "tokens": [
+    "ຊ່ວຍ",
+    "ກວດ",
+    "ໃຫ້",
+    "ແດ່",
+    "ໄດ້",
+    "ບໍ"
+   ],
+   "rom": "Sūay kȕat hây dɛ̀ɛ dâay bɔ̌ɔ?",
+   "fr": "Tu peux me relire ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ວາງໂຄງ",
+   "rom": "Wáang khóong",
+   "fr": "faire un plan"
+  },
+  {
+   "lao": "ບົດນຳ",
+   "rom": "Bót nám",
+   "fr": "introduction"
+  },
+  {
+   "lao": "ເນື້ອເລື່ອງ",
+   "rom": "Nʉ̏a lʉ̄ang",
+   "fr": "développement, contenu"
+  },
+  {
+   "lao": "ບົດສະຫຼຸບ",
+   "rom": "Bót sā-lūp",
+   "fr": "conclusion"
+  },
+  {
+   "lao": "ກວດ",
+   "rom": "Kȕat",
+   "fr": "vérifier, relire"
+  },
+  {
+   "lao": "ບົດຄວາມ",
+   "rom": "Bót khwáam",
+   "fr": "article, texte"
+  }
+ ],
+ "sounds": {
+  "ໂດຍລວມ": "Dóoy lúam",
+  "ໂພສ": "Phôot",
+  "ເງິນເຟີ້": "Ngɤ́n-fɤ̂ɤ",
+  "ໃຈແຂງ": "Jǎy khɛ̌ɛng",
+  "ຂ້ອຍຈະຂຽນກ່ຽວກັບການຮຽນພາສາ": "Khɔ̂ɔy já khǐan kìaw-káp kǎan hían pháa-sǎa.",
+  "ວາງໂຄງກ່ອນ: ບົດນຳ ເນື້ອເລື່ອງ ບົດສະຫຼຸບ": "Wáang khóong kɔ̀ɔn: bót nám, nʉ̏a lʉ̄ang, bót sā-lūp.",
+  "ຂອບໃຈ ຊ່ວຍກວດໃຫ້ແດ່ເດີ": "Khɔ̏ɔp-jǎy. Sūay kȕat hây dɛ̀ɛ dɤ̌ɤ.",
+  "ວາງໂຄງ": "Wáang khóong",
+  "ບົດນຳ": "Bót nám",
+  "ເນື້ອເລື່ອງ": "Nʉ̏a lʉ̄ang",
+  "ບົດສະຫຼຸບ": "Bót sā-lūp",
+  "ກວດ": "kȕat",
+  "ບົດຄວາມ": "Bót khwáam",
+  "ບົດນຳ ເນື້ອເລື່ອງ ບົດສະຫຼຸບ": "Bót nám… nʉ̏a lʉ̄ang… bót sā-lūp",
+  "ວາງໂຄງກ່ອນ": "Wáang khóong kɔ̀ɔn.",
+  "ຊ່ວຍກວດໃຫ້ແດ່ໄດ້ບໍ": "Sūay kȕat hây dɛ̀ɛ dâay bɔ̌ɔ?",
+  "ວາງ": "wáang",
+  "ໂຄງ": "khóong",
+  "ກ່ອນ": "kɔ̀ɔn",
+  "ຊ່ວຍ": "sūay",
+  "ໃຫ້": "hây",
+  "ແດ່": "dɛ̀ɛ",
+  "ໄດ້": "dâay",
+  "ບໍ": "bɔ̌ɔ"
+ },
+ "suivi": "LEÇON : 111 — Partie F (Argumenter, B2) · Écrire un texte argumenté\nOBJECTIF : Rédiger 300 mots sur un sujet de société.\nNOTION : la structure écrite\nVOCAB : Wáang khóong, Bót nám, Nʉ̏a lʉ̄ang, Bót sā-lūp, Kȕat, Bót khwáam\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 112 — Négocier"
+}

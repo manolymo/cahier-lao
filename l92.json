@@ -1,0 +1,505 @@
+{
+ "num": 92,
+ "phase": "Partie F · Argumenter",
+ "title": "Nuancer",
+ "objective": "Exprimer le doute, la probabilité et la certitude.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>enfin <small class=\"muted\">(leçon 91)</small></li><li>autre chose <small class=\"muted\">(leçon 89)</small></li><li>chef <small class=\"muted\">(leçon 85)</small></li><li>expérience <small class=\"muted\">(leçon 78)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ສຸດທ້າຍ</span> <span class=\"rom\">Sūt-thȁay</span> · enfin</li><li><span class=\"lo\">ອີກຢ່າງໜຶ່ງ</span> <span class=\"rom\">Ìik yàang nʉ̀ng</span> · autre chose</li><li><span class=\"lo\">ຫົວໜ້າ</span> <span class=\"rom\">Hǔa-nâa</span> · chef</li><li><span class=\"lo\">ປະສົບການ</span> <span class=\"rom\">Pá-sǒp-kǎan</span> · expérience</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Exprimer le doute, la probabilité et la certitude.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Discussion sur l&#x27;avenir de Kèo.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຈົ້າຈະສອບເສັງຜ່ານບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ອາດຈະຜ່ານ ແຕ່ບໍ່ແນ່ໃຈ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຂ້ອຍແນ່ໃຈວ່າເຈົ້າຜ່ານແນ່ນອນ</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຄົງຈະຍາກຢູ່ເດ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Jâo já sȍɔp sěng phàan bɔ̌ɔ?</span><br><span class=\"rom\">Ȁat-já phàan, tɛ̀ɛ bɔ̀ɔ nɛ̄ɛ-jǎy.</span><br><span class=\"rom\">Khɔ̂ɔy nɛ̄ɛ-jǎy wāa jâo phàan nɛ̄ɛ-nɔ́ɔn.</span><br><span class=\"rom\">Khóng-já nyâak yùu dě.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Tu vas réussir ton examen ?<br><b>Kèo</b> — Peut-être, mais je ne suis pas sûr.<br><b>Noy</b> — Moi, je suis sûre que tu vas réussir.<br><b>Kèo</b> — Ça va sûrement être dur quand même.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Kèo est-il confiant ?</li><li>Et Noy ?</li></ol><details><summary>Réponses</summary><ol><li>Pas vraiment : peut-être, il n&#x27;est pas sûr.</li><li>Elle est certaine qu&#x27;il réussira.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ອາດຈະ</td><td class=\"rom\">Ȁat-já</td><td>peut-être</td><td></td></tr><tr><td class=\"lo\">ຄົງຈະ</td><td class=\"rom\">Khóng-já</td><td>sans doute, sûrement</td><td></td></tr><tr><td class=\"lo\">ແນ່ນອນ</td><td class=\"rom\">Nɛ̄ɛ-nɔ́ɔn</td><td>certainement</td><td></td></tr><tr><td class=\"lo\">ແນ່ໃຈ</td><td class=\"rom\">Nɛ̄ɛ-jǎy</td><td>être sûr</td><td></td></tr><tr><td class=\"lo\">ບາງທີ</td><td class=\"rom\">Bǎang-thíi</td><td>parfois ; peut-être</td><td></td></tr><tr><td class=\"lo\">ເບິ່ງຄືວ່າ</td><td class=\"rom\">Bɤ̀ng khʉ́ʉ wāa</td><td>il semble que</td><td></td></tr><tr><td class=\"lo\">ສອບເສັງ</td><td class=\"rom\">Sȍɔp sěng</td><td>passer un examen</td><td></td></tr><tr><td class=\"lo\">ຜ່ານ</td><td class=\"rom\">Phàan</td><td>réussir, passer</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les degrés de certitude",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ອາດຈະຝົນຕົກ</span> <span class=\"rom\">Ȁat-já fǒn tók</span> = il pleuvra peut-être</li><li><span class=\"lo\">ຄົງຈະຝົນຕົກ</span> <span class=\"rom\">Khóng-já fǒn tók</span> = il va sûrement pleuvoir</li><li><span class=\"lo\">ຝົນຕົກແນ່ນອນ</span> <span class=\"rom\">Fǒn tók nɛ̄ɛ-nɔ́ɔn</span> = il va pleuvoir, c&#x27;est certain</li></ul><p><b>À toi de trouver :</b></p><ol><li>Classe ces mots du moins sûr au plus sûr.</li></ol><details><summary>La règle</summary><p>Du moins au plus sûr : ອາດຈະ (peut-être), ຄົງຈະ (sans doute), ແນ່ນອນ (certainement). ເບິ່ງຄືວ່າ = il semble que.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les mots de certitude.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Peut-être, mais je ne suis pas sûr.</li><li>C&#x27;est certain.</li><li>Il semble que…</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ອາດຈະ ແຕ່ບໍ່ແນ່ໃຈ</span> <span class=\"rom\">Ȁat-já, tɛ̀ɛ bɔ̀ɔ nɛ̄ɛ-jǎy.</span></li><li><span class=\"lo\">ແນ່ນອນ</span> <span class=\"rom\">Nɛ̄ɛ-nɔ́ɔn.</span></li><li><span class=\"lo\">ເບິ່ງຄືວ່າ</span> <span class=\"rom\">Bɤ̀ng khʉ́ʉ wāa…</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris 6 prédictions pour l&#x27;année prochaine avec des degrés de certitude.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Discute avec un natif de l&#x27;avenir (le tien, le Laos) en nuançant.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>11 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l92-v01",
+   "front": "ອາດຈະ",
+   "back": "Ȁat-já · peut-être"
+  },
+  {
+   "id": "l92-v02",
+   "front": "ຄົງຈະ",
+   "back": "Khóng-já · sans doute, sûrement"
+  },
+  {
+   "id": "l92-v03",
+   "front": "ແນ່ນອນ",
+   "back": "Nɛ̄ɛ-nɔ́ɔn · certainement"
+  },
+  {
+   "id": "l92-v04",
+   "front": "ແນ່ໃຈ",
+   "back": "Nɛ̄ɛ-jǎy · être sûr"
+  },
+  {
+   "id": "l92-v05",
+   "front": "ບາງທີ",
+   "back": "Bǎang-thíi · parfois ; peut-être"
+  },
+  {
+   "id": "l92-v06",
+   "front": "ເບິ່ງຄືວ່າ",
+   "back": "Bɤ̀ng khʉ́ʉ wāa · il semble que"
+  },
+  {
+   "id": "l92-v07",
+   "front": "ສອບເສັງ",
+   "back": "Sȍɔp sěng · passer un examen"
+  },
+  {
+   "id": "l92-v08",
+   "front": "ຜ່ານ",
+   "back": "Phàan · réussir, passer"
+  },
+  {
+   "id": "l92-p01",
+   "front": "Peut-être, mais je ne suis pas sûr.",
+   "back": "ອາດຈະ ແຕ່ບໍ່ແນ່ໃຈ · Ȁat-já, tɛ̀ɛ bɔ̀ɔ nɛ̄ɛ-jǎy."
+  },
+  {
+   "id": "l92-p02",
+   "front": "C'est certain.",
+   "back": "ແນ່ນອນ · Nɛ̄ɛ-nɔ́ɔn."
+  },
+  {
+   "id": "l92-p03",
+   "front": "Il semble que…",
+   "back": "ເບິ່ງຄືວ່າ · Bɤ̀ng khʉ́ʉ wāa…"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ອາດຈະ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "peut-être",
+      "il semble que",
+      "certainement",
+      "sans doute, sûrement"
+     ],
+     "answer": "peut-être",
+     "reveal": "<i>Ȁat-já</i>"
+    },
+    {
+     "audio": [
+      "ຄົງຈະ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "sans doute, sûrement",
+      "parfois ; peut-être",
+      "réussir, passer",
+      "peut-être"
+     ],
+     "answer": "sans doute, sûrement",
+     "reveal": "<i>Khóng-já</i>"
+    },
+    {
+     "audio": [
+      "ແນ່ນອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "certainement",
+      "réussir, passer",
+      "il semble que",
+      "passer un examen"
+     ],
+     "answer": "certainement",
+     "reveal": "<i>Nɛ̄ɛ-nɔ́ɔn</i>"
+    },
+    {
+     "audio": [
+      "ແນ່ໃຈ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "être sûr",
+      "il semble que",
+      "sans doute, sûrement",
+      "passer un examen"
+     ],
+     "answer": "être sûr",
+     "reveal": "<i>Nɛ̄ɛ-jǎy</i>"
+    },
+    {
+     "audio": [
+      "ບາງທີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "parfois ; peut-être",
+      "peut-être",
+      "sans doute, sûrement",
+      "il semble que"
+     ],
+     "answer": "parfois ; peut-être",
+     "reveal": "<i>Bǎang-thíi</i>"
+    },
+    {
+     "audio": [
+      "ເບິ່ງຄືວ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "il semble que",
+      "passer un examen",
+      "être sûr",
+      "sans doute, sûrement"
+     ],
+     "answer": "il semble que",
+     "reveal": "<i>Bɤ̀ng khʉ́ʉ wāa</i>"
+    },
+    {
+     "audio": [
+      "ສອບເສັງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "passer un examen",
+      "parfois ; peut-être",
+      "certainement",
+      "peut-être"
+     ],
+     "answer": "passer un examen",
+     "reveal": "<i>Sȍɔp sěng</i>"
+    },
+    {
+     "audio": [
+      "ຜ່ານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "réussir, passer",
+      "certainement",
+      "parfois ; peut-être",
+      "passer un examen"
+     ],
+     "answer": "réussir, passer",
+     "reveal": "<i>Phàan</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເຈົ້າຈະສອບເສັງຜ່ານບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu vas réussir ton examen ?",
+      "Ça va sûrement être dur quand même.",
+      "Moi, je suis sûre que tu vas réussir.",
+      "Peut-être, mais je ne suis pas sûr."
+     ],
+     "answer": "Tu vas réussir ton examen ?",
+     "reveal": "<i>Jâo já sȍɔp sěng phàan bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ອາດຈະຜ່ານ ແຕ່ບໍ່ແນ່ໃຈ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Peut-être, mais je ne suis pas sûr.",
+      "Ça va sûrement être dur quand même.",
+      "Moi, je suis sûre que tu vas réussir.",
+      "Tu vas réussir ton examen ?"
+     ],
+     "answer": "Peut-être, mais je ne suis pas sûr.",
+     "reveal": "<i>Ȁat-já phàan, tɛ̀ɛ bɔ̀ɔ nɛ̄ɛ-jǎy.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍແນ່ໃຈວ່າເຈົ້າຜ່ານແນ່ນອນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Moi, je suis sûre que tu vas réussir.",
+      "Peut-être, mais je ne suis pas sûr.",
+      "Tu vas réussir ton examen ?",
+      "Ça va sûrement être dur quand même."
+     ],
+     "answer": "Moi, je suis sûre que tu vas réussir.",
+     "reveal": "<i>Khɔ̂ɔy nɛ̄ɛ-jǎy wāa jâo phàan nɛ̄ɛ-nɔ́ɔn.</i>"
+    },
+    {
+     "audio": [
+      "ຄົງຈະຍາກຢູ່ເດ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Ça va sûrement être dur quand même.",
+      "Peut-être, mais je ne suis pas sûr.",
+      "Moi, je suis sûre que tu vas réussir.",
+      "Tu vas réussir ton examen ?"
+     ],
+     "answer": "Ça va sûrement être dur quand même.",
+     "reveal": "<i>Khóng-já nyâak yùu dě.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ອາດຈະ ແຕ່ບໍ່ແນ່ໃຈ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Peut-être, mais je ne suis pas sûr.",
+      "C'est certain.",
+      "Il semble que…"
+     ],
+     "answer": "Peut-être, mais je ne suis pas sûr.",
+     "reveal": "<i>Ȁat-já, tɛ̀ɛ bɔ̀ɔ nɛ̄ɛ-jǎy.</i>"
+    },
+    {
+     "audio": [
+      "ແນ່ນອນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est certain.",
+      "Il semble que…",
+      "Peut-être, mais je ne suis pas sûr."
+     ],
+     "answer": "C'est certain.",
+     "reveal": "<i>Nɛ̄ɛ-nɔ́ɔn.</i>"
+    },
+    {
+     "audio": [
+      "ເບິ່ງຄືວ່າ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il semble que…",
+      "Peut-être, mais je ne suis pas sûr.",
+      "C'est certain."
+     ],
+     "answer": "Il semble que…",
+     "reveal": "<i>Bɤ̀ng khʉ́ʉ wāa…</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ອາດຈະ",
+   "rom": "Ȁat-já",
+   "fr": "peut-être",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄົງຈະ",
+   "rom": "Khóng-já",
+   "fr": "sans doute, sûrement",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແນ່ນອນ",
+   "rom": "Nɛ̄ɛ-nɔ́ɔn",
+   "fr": "certainement",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແນ່ໃຈ",
+   "rom": "Nɛ̄ɛ-jǎy",
+   "fr": "être sûr",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບາງທີ",
+   "rom": "Bǎang-thíi",
+   "fr": "parfois ; peut-être",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເບິ່ງຄືວ່າ",
+   "rom": "Bɤ̀ng khʉ́ʉ wāa",
+   "fr": "il semble que",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສອບເສັງ",
+   "rom": "Sȍɔp sěng",
+   "fr": "passer un examen",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຜ່ານ",
+   "rom": "Phàan",
+   "fr": "réussir, passer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອາດຈະ ແຕ່ບໍ່ແນ່ໃຈ",
+   "rom": "Ȁat-já, tɛ̀ɛ bɔ̀ɔ nɛ̄ɛ-jǎy.",
+   "fr": "Peut-être, mais je ne suis pas sûr.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແນ່ນອນ",
+   "rom": "Nɛ̄ɛ-nɔ́ɔn.",
+   "fr": "C'est certain.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເບິ່ງຄືວ່າ",
+   "rom": "Bɤ̀ng khʉ́ʉ wāa…",
+   "fr": "Il semble que…",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ອາດຈະ",
+    "ແຕ່",
+    "ບໍ່",
+    "ແນ່ໃຈ"
+   ],
+   "rom": "Ȁat-já, tɛ̀ɛ bɔ̀ɔ nɛ̄ɛ-jǎy.",
+   "fr": "Peut-être, mais je ne suis pas sûr."
+  },
+  {
+   "tokens": [
+    "ເບິ່ງ",
+    "ຄື",
+    "ວ່າ"
+   ],
+   "rom": "Bɤ̀ng khʉ́ʉ wāa…",
+   "fr": "Il semble que…"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ອາດຈະ",
+   "rom": "Ȁat-já",
+   "fr": "peut-être"
+  },
+  {
+   "lao": "ຄົງຈະ",
+   "rom": "Khóng-já",
+   "fr": "sans doute, sûrement"
+  },
+  {
+   "lao": "ແນ່ນອນ",
+   "rom": "Nɛ̄ɛ-nɔ́ɔn",
+   "fr": "certainement"
+  },
+  {
+   "lao": "ແນ່ໃຈ",
+   "rom": "Nɛ̄ɛ-jǎy",
+   "fr": "être sûr"
+  },
+  {
+   "lao": "ບາງທີ",
+   "rom": "Bǎang-thíi",
+   "fr": "parfois ; peut-être"
+  },
+  {
+   "lao": "ເບິ່ງຄືວ່າ",
+   "rom": "Bɤ̀ng khʉ́ʉ wāa",
+   "fr": "il semble que"
+  },
+  {
+   "lao": "ສອບເສັງ",
+   "rom": "Sȍɔp sěng",
+   "fr": "passer un examen"
+  },
+  {
+   "lao": "ຜ່ານ",
+   "rom": "Phàan",
+   "fr": "réussir, passer"
+  }
+ ],
+ "sounds": {
+  "ສຸດທ້າຍ": "Sūt-thȁay",
+  "ອີກຢ່າງໜຶ່ງ": "Ìik yàang nʉ̀ng",
+  "ຫົວໜ້າ": "Hǔa-nâa",
+  "ປະສົບການ": "Pá-sǒp-kǎan",
+  "ເຈົ້າຈະສອບເສັງຜ່ານບໍ": "Jâo já sȍɔp sěng phàan bɔ̌ɔ?",
+  "ອາດຈະຜ່ານ ແຕ່ບໍ່ແນ່ໃຈ": "Ȁat-já phàan, tɛ̀ɛ bɔ̀ɔ nɛ̄ɛ-jǎy.",
+  "ຂ້ອຍແນ່ໃຈວ່າເຈົ້າຜ່ານແນ່ນອນ": "Khɔ̂ɔy nɛ̄ɛ-jǎy wāa jâo phàan nɛ̄ɛ-nɔ́ɔn.",
+  "ຄົງຈະຍາກຢູ່ເດ": "Khóng-já nyâak yùu dě.",
+  "ອາດຈະ": "ȁat-já",
+  "ຄົງຈະ": "Khóng-já",
+  "ແນ່ນອນ": "Nɛ̄ɛ-nɔ́ɔn.",
+  "ແນ່ໃຈ": "nɛ̄ɛ-jǎy",
+  "ບາງທີ": "Bǎang-thíi",
+  "ເບິ່ງຄືວ່າ": "Bɤ̀ng khʉ́ʉ wāa…",
+  "ສອບເສັງ": "Sȍɔp sěng",
+  "ຜ່ານ": "Phàan",
+  "ອາດຈະຝົນຕົກ": "Ȁat-já fǒn tók",
+  "ຄົງຈະຝົນຕົກ": "Khóng-já fǒn tók",
+  "ຝົນຕົກແນ່ນອນ": "Fǒn tók nɛ̄ɛ-nɔ́ɔn",
+  "ອາດຈະ ແຕ່ບໍ່ແນ່ໃຈ": "Ȁat-já, tɛ̀ɛ bɔ̀ɔ nɛ̄ɛ-jǎy.",
+  "ອາດຈະແຕ່ບໍ່ແນ່ໃຈ": "Ȁat-já, tɛ̀ɛ bɔ̀ɔ nɛ̄ɛ-jǎy.",
+  "ແຕ່": "tɛ̀ɛ",
+  "ບໍ່": "bɔ̀ɔ",
+  "ເບິ່ງ": "bɤ̀ng",
+  "ຄື": "khʉ́ʉ",
+  "ວ່າ": "wāa"
+ },
+ "suivi": "LEÇON : 92 — Partie F (Argumenter, B2) · Nuancer\nOBJECTIF : Exprimer le doute, la probabilité et la certitude.\nNOTION : les degrés de certitude\nVOCAB : Ȁat-já, Khóng-já, Nɛ̄ɛ-nɔ́ɔn, Nɛ̄ɛ-jǎy, Bǎang-thíi, Bɤ̀ng khʉ́ʉ wāa, Sȍɔp sěng, Phàan\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 93 — Concession et opposition"
+}

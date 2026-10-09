@@ -1,0 +1,406 @@
+{
+ "num": 93,
+ "phase": "Partie F · Argumenter",
+ "title": "Concession et opposition",
+ "objective": "Reconnaître un point puis le contester.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>parfois ; peut-être <small class=\"muted\">(leçon 92)</small></li><li>de plus en plus <small class=\"muted\">(leçon 90)</small></li><li>symbole <small class=\"muted\">(leçon 86)</small></li><li>taux <small class=\"muted\">(leçon 79)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ບາງທີ</span> <span class=\"rom\">Bǎang-thíi</span> · parfois ; peut-être</li><li><span class=\"lo\">ຫຼາຍຂຶ້ນ</span> <span class=\"rom\">Lǎay khʉ̂n</span> · de plus en plus</li><li><span class=\"lo\">ສັນຍາລັກ</span> <span class=\"rom\">Sǎn-nyáa-lāk</span> · symbole</li><li><span class=\"lo\">ອັດຕາ</span> <span class=\"rom\">Át-tǎa</span> · taux</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Reconnaître un point puis le contester.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara et M. Somsak parlent du tourisme.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ເຖິງແມ່ນວ່ານັກທ່ອງທ່ຽວເອົາເງິນມາ ແຕ່ກໍສ້າງບັນຫາຄືກັນ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍເຂົ້າໃຈ ເຖິງຢ່າງໃດກໍ່ຕາມຊາວບ້ານມີວຽກຫຼາຍຂຶ້ນ</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ແມ່ນ ແຕ່ປະເພນີກໍປ່ຽນໄປ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Thɤ̌ng-mɛ̄ɛn-wāa nāk-thɔ̄ɔng-thīaw ǎo ngɤ́n máa, tɛ̀ɛ kɔ̂ɔ sâang bǎn-hǎa khʉ́ʉ-kǎn.</span><br><span class=\"rom\">Khɔ̂ɔy khâo-jǎy, thɤ̌ng-yàang-dǎy-kɔ̂ɔ-tǎam sáaw-bâan míi wîak lǎay khʉ̂n.</span><br><span class=\"rom\">Mɛ̄ɛn, tɛ̀ɛ pá-phéé-níi kɔ̂ɔ pìan pǎy.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>M. Somsak</b> — Même si les touristes apportent de l&#x27;argent, ils créent aussi des problèmes.<br><b>Clara</b> — Je comprends, pourtant les villageois ont plus de travail.<br><b>M. Somsak</b> — Oui, mais les traditions changent.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quel problème soulève M. Somsak ?</li><li>Quel argument oppose Clara ?</li></ol><details><summary>Réponses</summary><ol><li>Le tourisme crée des problèmes et change les traditions.</li><li>Plus de travail pour les villageois.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ເຖິງແມ່ນວ່າ</td><td class=\"rom\">Thɤ̌ng-mɛ̄ɛn-wāa</td><td>même si, bien que</td><td></td></tr><tr><td class=\"lo\">ເຖິງຢ່າງໃດກໍ່ຕາມ</td><td class=\"rom\">Thɤ̌ng-yàang-dǎy-kɔ̂ɔ-tǎam</td><td>pourtant, cependant</td><td></td></tr><tr><td class=\"lo\">ໃນທາງກົງກັນຂ້າມ</td><td class=\"rom\">Nǎy tháang kóng-kǎn-khâam</td><td>au contraire</td><td></td></tr><tr><td class=\"lo\">ຊາວບ້ານ</td><td class=\"rom\">Sáaw-bâan</td><td>villageois</td><td></td></tr><tr><td class=\"lo\">ປະເພນີ</td><td class=\"rom\">Pá-phéé-níi</td><td>tradition</td><td></td></tr><tr><td class=\"lo\">ຂໍ້ດີ</td><td class=\"rom\">Khɔ̂ɔ-dǐi</td><td>avantage</td><td></td></tr><tr><td class=\"lo\">ຂໍ້ເສຍ</td><td class=\"rom\">Khɔ̂ɔ-sǐa</td><td>inconvénient</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : concéder puis opposer",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ເຖິງແມ່ນວ່າ ແຕ່</span> <span class=\"rom\">Thɤ̌ng-mɛ̄ɛn-wāa… tɛ̀ɛ…</span> = même si… pourtant…</li><li><span class=\"lo\">ມີທັງຂໍ້ດີແລະຂໍ້ເສຍ</span> <span class=\"rom\">Míi tháng khɔ̂ɔ-dǐi lɛ́ khɔ̂ɔ-sǐa</span> = il y a des avantages et des inconvénients</li></ul><p><b>À toi de trouver :</b></p><ol><li>Que doit-on mettre après une proposition en ເຖິງແມ່ນວ່າ ?</li></ol><details><summary>La règle</summary><p>ເຖິງແມ່ນວ່າ + concession, puis ແຕ່ (ກໍ) + opposition. ເຖິງຢ່າງໃດກໍ່ຕາມ en début de phrase = pourtant.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les concessions.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Même si c&#x27;est cher…</li><li>Il y a des avantages et des inconvénients.</li><li>Pourtant…</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເຖິງແມ່ນວ່າແພງ</span> <span class=\"rom\">Thɤ̌ng-mɛ̄ɛn-wāa phɛ́ɛng…</span></li><li><span class=\"lo\">ມີທັງຂໍ້ດີແລະຂໍ້ເສຍ</span> <span class=\"rom\">Míi tháng khɔ̂ɔ-dǐi lɛ́ khɔ̂ɔ-sǐa.</span></li><li><span class=\"lo\">ເຖິງຢ່າງໃດກໍ່ຕາມ</span> <span class=\"rom\">Thɤ̌ng-yàang-dǎy-kɔ̂ɔ-tǎam…</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris les avantages et inconvénients du tourisme en 10 phrases.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Débats des avantages et inconvénients d&#x27;un sujet avec un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>10 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l93-v01",
+   "front": "ເຖິງແມ່ນວ່າ",
+   "back": "Thɤ̌ng-mɛ̄ɛn-wāa · même si, bien que"
+  },
+  {
+   "id": "l93-v02",
+   "front": "ເຖິງຢ່າງໃດກໍ່ຕາມ",
+   "back": "Thɤ̌ng-yàang-dǎy-kɔ̂ɔ-tǎam · pourtant, cependant"
+  },
+  {
+   "id": "l93-v03",
+   "front": "ໃນທາງກົງກັນຂ້າມ",
+   "back": "Nǎy tháang kóng-kǎn-khâam · au contraire"
+  },
+  {
+   "id": "l93-v04",
+   "front": "ຊາວບ້ານ",
+   "back": "Sáaw-bâan · villageois"
+  },
+  {
+   "id": "l93-v05",
+   "front": "ປະເພນີ",
+   "back": "Pá-phéé-níi · tradition"
+  },
+  {
+   "id": "l93-v06",
+   "front": "ຂໍ້ດີ",
+   "back": "Khɔ̂ɔ-dǐi · avantage"
+  },
+  {
+   "id": "l93-v07",
+   "front": "ຂໍ້ເສຍ",
+   "back": "Khɔ̂ɔ-sǐa · inconvénient"
+  },
+  {
+   "id": "l93-p01",
+   "front": "Même si c'est cher…",
+   "back": "ເຖິງແມ່ນວ່າແພງ · Thɤ̌ng-mɛ̄ɛn-wāa phɛ́ɛng…"
+  },
+  {
+   "id": "l93-p02",
+   "front": "Il y a des avantages et des inconvénients.",
+   "back": "ມີທັງຂໍ້ດີແລະຂໍ້ເສຍ · Míi tháng khɔ̂ɔ-dǐi lɛ́ khɔ̂ɔ-sǐa."
+  },
+  {
+   "id": "l93-p03",
+   "front": "Pourtant…",
+   "back": "ເຖິງຢ່າງໃດກໍ່ຕາມ · Thɤ̌ng-yàang-dǎy-kɔ̂ɔ-tǎam…"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ເຖິງແມ່ນວ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "même si, bien que",
+      "villageois",
+      "au contraire",
+      "avantage"
+     ],
+     "answer": "même si, bien que",
+     "reveal": "<i>Thɤ̌ng-mɛ̄ɛn-wāa</i>"
+    },
+    {
+     "audio": [
+      "ເຖິງຢ່າງໃດກໍ່ຕາມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pourtant, cependant",
+      "villageois",
+      "même si, bien que",
+      "avantage"
+     ],
+     "answer": "pourtant, cependant",
+     "reveal": "<i>Thɤ̌ng-yàang-dǎy-kɔ̂ɔ-tǎam</i>"
+    },
+    {
+     "audio": [
+      "ໃນທາງກົງກັນຂ້າມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "au contraire",
+      "pourtant, cependant",
+      "avantage",
+      "même si, bien que"
+     ],
+     "answer": "au contraire",
+     "reveal": "<i>Nǎy tháang kóng-kǎn-khâam</i>"
+    },
+    {
+     "audio": [
+      "ຊາວບ້ານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "villageois",
+      "tradition",
+      "avantage",
+      "inconvénient"
+     ],
+     "answer": "villageois",
+     "reveal": "<i>Sáaw-bâan</i>"
+    },
+    {
+     "audio": [
+      "ປະເພນີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "tradition",
+      "pourtant, cependant",
+      "inconvénient",
+      "même si, bien que"
+     ],
+     "answer": "tradition",
+     "reveal": "<i>Pá-phéé-níi</i>"
+    },
+    {
+     "audio": [
+      "ຂໍ້ດີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "avantage",
+      "pourtant, cependant",
+      "même si, bien que",
+      "tradition"
+     ],
+     "answer": "avantage",
+     "reveal": "<i>Khɔ̂ɔ-dǐi</i>"
+    },
+    {
+     "audio": [
+      "ຂໍ້ເສຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "inconvénient",
+      "avantage",
+      "au contraire",
+      "tradition"
+     ],
+     "answer": "inconvénient",
+     "reveal": "<i>Khɔ̂ɔ-sǐa</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເຖິງແມ່ນວ່າແພງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Même si c'est cher…",
+      "Il y a des avantages et des inconvénients.",
+      "Pourtant…"
+     ],
+     "answer": "Même si c'est cher…",
+     "reveal": "<i>Thɤ̌ng-mɛ̄ɛn-wāa phɛ́ɛng…</i>"
+    },
+    {
+     "audio": [
+      "ມີທັງຂໍ້ດີແລະຂໍ້ເສຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il y a des avantages et des inconvénients.",
+      "Pourtant…",
+      "Même si c'est cher…"
+     ],
+     "answer": "Il y a des avantages et des inconvénients.",
+     "reveal": "<i>Míi tháng khɔ̂ɔ-dǐi lɛ́ khɔ̂ɔ-sǐa.</i>"
+    },
+    {
+     "audio": [
+      "ເຖິງຢ່າງໃດກໍ່ຕາມ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Pourtant…",
+      "Même si c'est cher…",
+      "Il y a des avantages et des inconvénients."
+     ],
+     "answer": "Pourtant…",
+     "reveal": "<i>Thɤ̌ng-yàang-dǎy-kɔ̂ɔ-tǎam…</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ເຖິງແມ່ນວ່າ",
+   "rom": "Thɤ̌ng-mɛ̄ɛn-wāa",
+   "fr": "même si, bien que",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຖິງຢ່າງໃດກໍ່ຕາມ",
+   "rom": "Thɤ̌ng-yàang-dǎy-kɔ̂ɔ-tǎam",
+   "fr": "pourtant, cependant",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃນທາງກົງກັນຂ້າມ",
+   "rom": "Nǎy tháang kóng-kǎn-khâam",
+   "fr": "au contraire",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊາວບ້ານ",
+   "rom": "Sáaw-bâan",
+   "fr": "villageois",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ປະເພນີ",
+   "rom": "Pá-phéé-níi",
+   "fr": "tradition",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍ້ດີ",
+   "rom": "Khɔ̂ɔ-dǐi",
+   "fr": "avantage",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍ້ເສຍ",
+   "rom": "Khɔ̂ɔ-sǐa",
+   "fr": "inconvénient",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຖິງແມ່ນວ່າແພງ",
+   "rom": "Thɤ̌ng-mɛ̄ɛn-wāa phɛ́ɛng…",
+   "fr": "Même si c'est cher…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມີທັງຂໍ້ດີແລະຂໍ້ເສຍ",
+   "rom": "Míi tháng khɔ̂ɔ-dǐi lɛ́ khɔ̂ɔ-sǐa.",
+   "fr": "Il y a des avantages et des inconvénients.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຖິງຢ່າງໃດກໍ່ຕາມ",
+   "rom": "Thɤ̌ng-yàang-dǎy-kɔ̂ɔ-tǎam…",
+   "fr": "Pourtant…",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ເຖິງແມ່ນວ່າ",
+    "ແພງ"
+   ],
+   "rom": "Thɤ̌ng-mɛ̄ɛn-wāa phɛ́ɛng…",
+   "fr": "Même si c'est cher…"
+  },
+  {
+   "tokens": [
+    "ມີ",
+    "ທັງ",
+    "ຂໍ້ດີ",
+    "ແລະ",
+    "ຂໍ້ເສຍ"
+   ],
+   "rom": "Míi tháng khɔ̂ɔ-dǐi lɛ́ khɔ̂ɔ-sǐa.",
+   "fr": "Il y a des avantages et des inconvénients."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ເຖິງແມ່ນວ່າ",
+   "rom": "Thɤ̌ng-mɛ̄ɛn-wāa",
+   "fr": "même si, bien que"
+  },
+  {
+   "lao": "ເຖິງຢ່າງໃດກໍ່ຕາມ",
+   "rom": "Thɤ̌ng-yàang-dǎy-kɔ̂ɔ-tǎam",
+   "fr": "pourtant, cependant"
+  },
+  {
+   "lao": "ໃນທາງກົງກັນຂ້າມ",
+   "rom": "Nǎy tháang kóng-kǎn-khâam",
+   "fr": "au contraire"
+  },
+  {
+   "lao": "ຊາວບ້ານ",
+   "rom": "Sáaw-bâan",
+   "fr": "villageois"
+  },
+  {
+   "lao": "ປະເພນີ",
+   "rom": "Pá-phéé-níi",
+   "fr": "tradition"
+  },
+  {
+   "lao": "ຂໍ້ດີ",
+   "rom": "Khɔ̂ɔ-dǐi",
+   "fr": "avantage"
+  },
+  {
+   "lao": "ຂໍ້ເສຍ",
+   "rom": "Khɔ̂ɔ-sǐa",
+   "fr": "inconvénient"
+  }
+ ],
+ "sounds": {
+  "ບາງທີ": "Bǎang-thíi",
+  "ຫຼາຍຂຶ້ນ": "Lǎay khʉ̂n",
+  "ສັນຍາລັກ": "Sǎn-nyáa-lāk",
+  "ອັດຕາ": "Át-tǎa",
+  "ເຖິງແມ່ນວ່ານັກທ່ອງທ່ຽວເອົາເງິນມາ ແຕ່ກໍສ້າງບັນຫາຄືກັນ": "Thɤ̌ng-mɛ̄ɛn-wāa nāk-thɔ̄ɔng-thīaw ǎo ngɤ́n máa, tɛ̀ɛ kɔ̂ɔ sâang bǎn-hǎa khʉ́ʉ-kǎn.",
+  "ຂ້ອຍເຂົ້າໃຈ ເຖິງຢ່າງໃດກໍ່ຕາມຊາວບ້ານມີວຽກຫຼາຍຂຶ້ນ": "Khɔ̂ɔy khâo-jǎy, thɤ̌ng-yàang-dǎy-kɔ̂ɔ-tǎam sáaw-bâan míi wîak lǎay khʉ̂n.",
+  "ແມ່ນ ແຕ່ປະເພນີກໍປ່ຽນໄປ": "Mɛ̄ɛn, tɛ̀ɛ pá-phéé-níi kɔ̂ɔ pìan pǎy.",
+  "ເຖິງແມ່ນວ່າ": "thɤ̌ng-mɛ̄ɛn-wāa",
+  "ເຖິງຢ່າງໃດກໍ່ຕາມ": "Thɤ̌ng-yàang-dǎy-kɔ̂ɔ-tǎam…",
+  "ໃນທາງກົງກັນຂ້າມ": "Nǎy tháang kóng-kǎn-khâam",
+  "ຊາວບ້ານ": "Sáaw-bâan",
+  "ປະເພນີ": "Pá-phéé-níi",
+  "ຂໍ້ດີ": "khɔ̂ɔ-dǐi",
+  "ຂໍ້ເສຍ": "khɔ̂ɔ-sǐa",
+  "ເຖິງແມ່ນວ່າ ແຕ່": "Thɤ̌ng-mɛ̄ɛn-wāa… tɛ̀ɛ…",
+  "ມີທັງຂໍ້ດີແລະຂໍ້ເສຍ": "Míi tháng khɔ̂ɔ-dǐi lɛ́ khɔ̂ɔ-sǐa.",
+  "ເຖິງແມ່ນວ່າແພງ": "Thɤ̌ng-mɛ̄ɛn-wāa phɛ́ɛng…",
+  "ແພງ": "phɛ́ɛng",
+  "ມີ": "míi",
+  "ທັງ": "tháng",
+  "ແລະ": "lɛ́"
+ },
+ "suivi": "LEÇON : 93 — Partie F (Argumenter, B2) · Concession et opposition\nOBJECTIF : Reconnaître un point puis le contester.\nNOTION : concéder puis opposer\nVOCAB : Thɤ̌ng-mɛ̄ɛn-wāa, Thɤ̌ng-yàang-dǎy-kɔ̂ɔ-tǎam, Nǎy tháang kóng-kǎn-khâam, Sáaw-bâan, Pá-phéé-níi, Khɔ̂ɔ-dǐi, Khɔ̂ɔ-sǐa\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 94 — Cause et conséquence"
+}

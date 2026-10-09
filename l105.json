@@ -1,0 +1,453 @@
+{
+ "num": 105,
+ "phase": "Partie F · Argumenter",
+ "title": "Environnement",
+ "objective": "Débattre d'un sujet écologique avec du vocabulaire abstrait.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>perdre de la valeur <small class=\"muted\">(leçon 104)</small></li><li>différent de <small class=\"muted\">(leçon 102)</small></li><li>effronté (visage épais) <small class=\"muted\">(leçon 98)</small></li><li>relier, connecter <small class=\"muted\">(leçon 91)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ອ່ອນຄ່າ</span> <span class=\"rom\">Ɔ̀ɔn khāa</span> · perdre de la valeur</li><li><span class=\"lo\">ຕ່າງຈາກ</span> <span class=\"rom\">Tàang jȁak</span> · différent de</li><li><span class=\"lo\">ໜ້າໜາ</span> <span class=\"rom\">Nâa nǎa</span> · effronté (visage épais)</li><li><span class=\"lo\">ເຊື່ອມຕໍ່</span> <span class=\"rom\">Sʉ̄am tɔ̀ɔ</span> · relier, connecter</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Débattre d&#x27;un sujet écologique avec du vocabulaire abstrait.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Discussion sur les barrages du Mékong.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຂື່ອນໃນແມ່ນ້ຳຂອງມີຜົນກະທົບແນວໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ສ້າງໄຟຟ້າໄດ້ຫຼາຍ ແຕ່ປາກໍຫຼຸດລົງ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຕ້ອງຊອກຫາຄວາມສົມດຸນລະຫວ່າງການພັດທະນາແລະທຳມະຊາດ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Khʉ̀an nǎy mɛ̄ɛ-nȁam-khɔ̌ɔng míi phǒn ká-thōp nɛ́ɛw-dǎy?</span><br><span class=\"rom\">Sâang fáy-fȁa dâay lǎay, tɛ̀ɛ pǎa kɔ̂ɔ lūt lóng.</span><br><span class=\"rom\">Tâɔng sɔ̂ɔk hǎa khwáam sǒm-dǔn lā-wàang kǎan phāt-thā-náa lɛ́ thám-mā-sâat.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Quel impact ont les barrages sur le Mékong ?<br><b>M. Somsak</b> — Ils produisent beaucoup d&#x27;électricité, mais les poissons diminuent.<br><b>Noy</b> — Il faut trouver un équilibre entre développement et nature.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quel est l&#x27;avantage des barrages ?</li><li>L&#x27;inconvénient ?</li></ol><details><summary>Réponses</summary><ol><li>L&#x27;électricité.</li><li>Moins de poissons.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ສິ່ງແວດລ້ອມ</td><td class=\"rom\">Sìng-wɛ̂ɛt-lȍɔm</td><td>environnement</td><td></td></tr><tr><td class=\"lo\">ເຂື່ອນ</td><td class=\"rom\">Khʉ̀an</td><td>barrage</td><td></td></tr><tr><td class=\"lo\">ຜົນກະທົບ</td><td class=\"rom\">Phǒn ká-thōp</td><td>impact</td><td></td></tr><tr><td class=\"lo\">ໄຟຟ້າ</td><td class=\"rom\">Fáy-fȁa</td><td>électricité</td><td></td></tr><tr><td class=\"lo\">ທຳມະຊາດ</td><td class=\"rom\">Thám-mā-sâat</td><td>nature</td><td></td></tr><tr><td class=\"lo\">ການພັດທະນາ</td><td class=\"rom\">Kǎan phāt-thā-náa</td><td>le développement</td><td></td></tr><tr><td class=\"lo\">ຄວາມສົມດຸນ</td><td class=\"rom\">Khwáam sǒm-dǔn</td><td>l&#x27;équilibre</td><td></td></tr><tr><td class=\"lo\">ມົນລະພິດ</td><td class=\"rom\">Món-lā-phīt</td><td>pollution</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les noms abstraits",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ການພັດທະນາ</span> <span class=\"rom\">Kǎan phāt-thā-náa</span> = le développement</li><li><span class=\"lo\">ຄວາມສົມດຸນ</span> <span class=\"rom\">Khwáam sǒm-dǔn</span> = l&#x27;équilibre</li><li><span class=\"lo\">ຜົນກະທົບຕໍ່</span> <span class=\"rom\">Phǒn ká-thōp tɔ̀ɔ…</span> = l&#x27;impact sur…</li></ul><details><summary>La règle</summary><p>Le vocabulaire abstrait se forme souvent avec ການ (action) ou ຄວາມ (état), et emprunte au pali-sanskrit (ທຳມະຊາດ, ສິ່ງແວດລ້ອມ).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les mots savants.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Quel est l&#x27;impact ?</li><li>Il faut un équilibre.</li><li>La pollution augmente.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ມີຜົນກະທົບແນວໃດ?</span> <span class=\"rom\">Míi phǒn ká-thōp nɛ́ɛw-dǎy?</span></li><li><span class=\"lo\">ຕ້ອງມີຄວາມສົມດຸນ</span> <span class=\"rom\">Tâɔng míi khwáam sǒm-dǔn.</span></li><li><span class=\"lo\">ມົນລະພິດເພີ່ມຂຶ້ນ</span> <span class=\"rom\">Món-lā-phīt phɤ̄ɤm khʉ̂n.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris un texte de 150 mots sur un problème environnemental.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Débats d&#x27;un sujet écologique avec un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>11 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l105-v01",
+   "front": "ສິ່ງແວດລ້ອມ",
+   "back": "Sìng-wɛ̂ɛt-lȍɔm · environnement"
+  },
+  {
+   "id": "l105-v02",
+   "front": "ເຂື່ອນ",
+   "back": "Khʉ̀an · barrage"
+  },
+  {
+   "id": "l105-v03",
+   "front": "ຜົນກະທົບ",
+   "back": "Phǒn ká-thōp · impact"
+  },
+  {
+   "id": "l105-v04",
+   "front": "ໄຟຟ້າ",
+   "back": "Fáy-fȁa · électricité"
+  },
+  {
+   "id": "l105-v05",
+   "front": "ທຳມະຊາດ",
+   "back": "Thám-mā-sâat · nature"
+  },
+  {
+   "id": "l105-v06",
+   "front": "ການພັດທະນາ",
+   "back": "Kǎan phāt-thā-náa · le développement"
+  },
+  {
+   "id": "l105-v07",
+   "front": "ຄວາມສົມດຸນ",
+   "back": "Khwáam sǒm-dǔn · l'équilibre"
+  },
+  {
+   "id": "l105-v08",
+   "front": "ມົນລະພິດ",
+   "back": "Món-lā-phīt · pollution"
+  },
+  {
+   "id": "l105-p01",
+   "front": "Quel est l'impact ?",
+   "back": "ມີຜົນກະທົບແນວໃດ? · Míi phǒn ká-thōp nɛ́ɛw-dǎy?"
+  },
+  {
+   "id": "l105-p02",
+   "front": "Il faut un équilibre.",
+   "back": "ຕ້ອງມີຄວາມສົມດຸນ · Tâɔng míi khwáam sǒm-dǔn."
+  },
+  {
+   "id": "l105-p03",
+   "front": "La pollution augmente.",
+   "back": "ມົນລະພິດເພີ່ມຂຶ້ນ · Món-lā-phīt phɤ̄ɤm khʉ̂n."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ສິ່ງແວດລ້ອມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "environnement",
+      "barrage",
+      "impact",
+      "le développement"
+     ],
+     "answer": "environnement",
+     "reveal": "<i>Sìng-wɛ̂ɛt-lȍɔm</i>"
+    },
+    {
+     "audio": [
+      "ເຂື່ອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "barrage",
+      "l'équilibre",
+      "nature",
+      "environnement"
+     ],
+     "answer": "barrage",
+     "reveal": "<i>Khʉ̀an</i>"
+    },
+    {
+     "audio": [
+      "ຜົນກະທົບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "impact",
+      "barrage",
+      "le développement",
+      "nature"
+     ],
+     "answer": "impact",
+     "reveal": "<i>Phǒn ká-thōp</i>"
+    },
+    {
+     "audio": [
+      "ໄຟຟ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "électricité",
+      "le développement",
+      "environnement",
+      "l'équilibre"
+     ],
+     "answer": "électricité",
+     "reveal": "<i>Fáy-fȁa</i>"
+    },
+    {
+     "audio": [
+      "ທຳມະຊາດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "nature",
+      "impact",
+      "électricité",
+      "barrage"
+     ],
+     "answer": "nature",
+     "reveal": "<i>Thám-mā-sâat</i>"
+    },
+    {
+     "audio": [
+      "ການພັດທະນາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "le développement",
+      "électricité",
+      "pollution",
+      "environnement"
+     ],
+     "answer": "le développement",
+     "reveal": "<i>Kǎan phāt-thā-náa</i>"
+    },
+    {
+     "audio": [
+      "ຄວາມສົມດຸນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "l'équilibre",
+      "environnement",
+      "le développement",
+      "barrage"
+     ],
+     "answer": "l'équilibre",
+     "reveal": "<i>Khwáam sǒm-dǔn</i>"
+    },
+    {
+     "audio": [
+      "ມົນລະພິດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pollution",
+      "nature",
+      "barrage",
+      "impact"
+     ],
+     "answer": "pollution",
+     "reveal": "<i>Món-lā-phīt</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ມີຜົນກະທົບແນວໃດ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Quel est l'impact ?",
+      "La pollution augmente.",
+      "Il faut un équilibre."
+     ],
+     "answer": "Quel est l'impact ?",
+     "reveal": "<i>Míi phǒn ká-thōp nɛ́ɛw-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ຕ້ອງມີຄວາມສົມດຸນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il faut un équilibre.",
+      "La pollution augmente.",
+      "Quel est l'impact ?"
+     ],
+     "answer": "Il faut un équilibre.",
+     "reveal": "<i>Tâɔng míi khwáam sǒm-dǔn.</i>"
+    },
+    {
+     "audio": [
+      "ມົນລະພິດເພີ່ມຂຶ້ນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "La pollution augmente.",
+      "Quel est l'impact ?",
+      "Il faut un équilibre."
+     ],
+     "answer": "La pollution augmente.",
+     "reveal": "<i>Món-lā-phīt phɤ̄ɤm khʉ̂n.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ສິ່ງແວດລ້ອມ",
+   "rom": "Sìng-wɛ̂ɛt-lȍɔm",
+   "fr": "environnement",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຂື່ອນ",
+   "rom": "Khʉ̀an",
+   "fr": "barrage",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຜົນກະທົບ",
+   "rom": "Phǒn ká-thōp",
+   "fr": "impact",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄຟຟ້າ",
+   "rom": "Fáy-fȁa",
+   "fr": "électricité",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທຳມະຊາດ",
+   "rom": "Thám-mā-sâat",
+   "fr": "nature",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ການພັດທະນາ",
+   "rom": "Kǎan phāt-thā-náa",
+   "fr": "le développement",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄວາມສົມດຸນ",
+   "rom": "Khwáam sǒm-dǔn",
+   "fr": "l'équilibre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມົນລະພິດ",
+   "rom": "Món-lā-phīt",
+   "fr": "pollution",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມີຜົນກະທົບແນວໃດ?",
+   "rom": "Míi phǒn ká-thōp nɛ́ɛw-dǎy?",
+   "fr": "Quel est l'impact ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕ້ອງມີຄວາມສົມດຸນ",
+   "rom": "Tâɔng míi khwáam sǒm-dǔn.",
+   "fr": "Il faut un équilibre.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມົນລະພິດເພີ່ມຂຶ້ນ",
+   "rom": "Món-lā-phīt phɤ̄ɤm khʉ̂n.",
+   "fr": "La pollution augmente.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ມີ",
+    "ຜົນ",
+    "ກະທົບ",
+    "ແນວໃດ"
+   ],
+   "rom": "Míi phǒn ká-thōp nɛ́ɛw-dǎy?",
+   "fr": "Quel est l'impact ?"
+  },
+  {
+   "tokens": [
+    "ຕ້ອງ",
+    "ມີ",
+    "ຄວາມ",
+    "ສົມດຸນ"
+   ],
+   "rom": "Tâɔng míi khwáam sǒm-dǔn.",
+   "fr": "Il faut un équilibre."
+  },
+  {
+   "tokens": [
+    "ມົນລະພິດ",
+    "ເພີ່ມ",
+    "ຂຶ້ນ"
+   ],
+   "rom": "Món-lā-phīt phɤ̄ɤm khʉ̂n.",
+   "fr": "La pollution augmente."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ສິ່ງແວດລ້ອມ",
+   "rom": "Sìng-wɛ̂ɛt-lȍɔm",
+   "fr": "environnement"
+  },
+  {
+   "lao": "ເຂື່ອນ",
+   "rom": "Khʉ̀an",
+   "fr": "barrage"
+  },
+  {
+   "lao": "ຜົນກະທົບ",
+   "rom": "Phǒn ká-thōp",
+   "fr": "impact"
+  },
+  {
+   "lao": "ໄຟຟ້າ",
+   "rom": "Fáy-fȁa",
+   "fr": "électricité"
+  },
+  {
+   "lao": "ທຳມະຊາດ",
+   "rom": "Thám-mā-sâat",
+   "fr": "nature"
+  },
+  {
+   "lao": "ການພັດທະນາ",
+   "rom": "Kǎan phāt-thā-náa",
+   "fr": "le développement"
+  },
+  {
+   "lao": "ຄວາມສົມດຸນ",
+   "rom": "Khwáam sǒm-dǔn",
+   "fr": "l'équilibre"
+  },
+  {
+   "lao": "ມົນລະພິດ",
+   "rom": "Món-lā-phīt",
+   "fr": "pollution"
+  }
+ ],
+ "sounds": {
+  "ອ່ອນຄ່າ": "Ɔ̀ɔn khāa",
+  "ຕ່າງຈາກ": "Tàang jȁak",
+  "ໜ້າໜາ": "Nâa nǎa",
+  "ເຊື່ອມຕໍ່": "Sʉ̄am tɔ̀ɔ",
+  "ເຂື່ອນໃນແມ່ນ້ຳຂອງມີຜົນກະທົບແນວໃດ": "Khʉ̀an nǎy mɛ̄ɛ-nȁam-khɔ̌ɔng míi phǒn ká-thōp nɛ́ɛw-dǎy?",
+  "ສ້າງໄຟຟ້າໄດ້ຫຼາຍ ແຕ່ປາກໍຫຼຸດລົງ": "Sâang fáy-fȁa dâay lǎay, tɛ̀ɛ pǎa kɔ̂ɔ lūt lóng.",
+  "ຕ້ອງຊອກຫາຄວາມສົມດຸນລະຫວ່າງການພັດທະນາແລະທຳມະຊາດ": "Tâɔng sɔ̂ɔk hǎa khwáam sǒm-dǔn lā-wàang kǎan phāt-thā-náa lɛ́ thám-mā-sâat.",
+  "ສິ່ງແວດລ້ອມ": "Sìng-wɛ̂ɛt-lȍɔm",
+  "ເຂື່ອນ": "Khʉ̀an",
+  "ຜົນກະທົບ": "Phǒn ká-thōp",
+  "ໄຟຟ້າ": "Fáy-fȁa",
+  "ທຳມະຊາດ": "Thám-mā-sâat",
+  "ການພັດທະນາ": "Kǎan phāt-thā-náa",
+  "ຄວາມສົມດຸນ": "Khwáam sǒm-dǔn",
+  "ມົນລະພິດ": "món-lā-phīt",
+  "ຜົນກະທົບຕໍ່": "Phǒn ká-thōp tɔ̀ɔ…",
+  "ມີຜົນກະທົບແນວໃດ": "Míi phǒn ká-thōp nɛ́ɛw-dǎy?",
+  "ຕ້ອງມີຄວາມສົມດຸນ": "Tâɔng míi khwáam sǒm-dǔn.",
+  "ມົນລະພິດເພີ່ມຂຶ້ນ": "Món-lā-phīt phɤ̄ɤm khʉ̂n.",
+  "ມີ": "míi",
+  "ຜົນ": "phǒn",
+  "ກະທົບ": "ká-thōp",
+  "ແນວໃດ": "nɛ́ɛw-dǎy",
+  "ຕ້ອງ": "tâɔng",
+  "ຄວາມ": "khwáam",
+  "ສົມດຸນ": "sǒm-dǔn",
+  "ເພີ່ມ": "phɤ̄ɤm",
+  "ຂຶ້ນ": "khʉ̂n"
+ },
+ "suivi": "LEÇON : 105 — Partie F (Argumenter, B2) · Environnement\nOBJECTIF : Débattre d'un sujet écologique avec du vocabulaire abstrait.\nNOTION : les noms abstraits\nVOCAB : Sìng-wɛ̂ɛt-lȍɔm, Khʉ̀an, Phǒn ká-thōp, Fáy-fȁa, Thám-mā-sâat, Kǎan phāt-thā-náa, Khwáam sǒm-dǔn, Món-lā-phīt\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 106 — Éducation"
+}

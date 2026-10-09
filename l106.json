@@ -1,0 +1,421 @@
+{
+ "num": 106,
+ "phase": "Partie F · Argumenter",
+ "title": "Éducation",
+ "objective": "Comparer deux systèmes scolaires de façon argumentée.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>nature <small class=\"muted\">(leçon 105)</small></li><li>écriture, lettres <small class=\"muted\">(leçon 103)</small></li><li>blague <small class=\"muted\">(leçon 99)</small></li><li>réussir, passer <small class=\"muted\">(leçon 92)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ທຳມະຊາດ</span> <span class=\"rom\">Thám-mā-sâat</span> · nature</li><li><span class=\"lo\">ຕົວໜັງສື</span> <span class=\"rom\">Tǔa-nǎng-sʉ̌ʉ</span> · écriture, lettres</li><li><span class=\"lo\">ມຸກ</span> <span class=\"rom\">Mūk</span> · blague</li><li><span class=\"lo\">ຜ່ານ</span> <span class=\"rom\">Phàan</span> · réussir, passer</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Comparer deux systèmes scolaires de façon argumentée.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara et Noy comparent l&#x27;école.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຢູ່ຝຣັ່ງເດັກຮຽນຈັກໂມງຕໍ່ມື້?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ປະມານຫົກຊົ່ວໂມງ ແລ້ວຢູ່ລາວເດ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຄ້າຍກັນ ແຕ່ຫຼາຍຄົນຮຽນພິເສດຕອນແລງອີກ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Yùu fa-làng dék hían ják móong tɔ̀ɔ mʉ̂ʉ?</span><br><span class=\"rom\">Pá-máan hōk sūa-móong. Lɛ̏ɛw yùu láaw dě?</span><br><span class=\"rom\">Khȁay kǎn. Tɛ̀ɛ lǎay khón hían phī-sȅet tɔ̌ɔn-lɛ́ɛng ìik.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — En France, les enfants ont cours combien d&#x27;heures par jour ?<br><b>Clara</b> — Environ six heures. Et au Laos ?<br><b>Noy</b> — Pareil. Mais beaucoup suivent des cours particuliers le soir.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Combien d&#x27;heures de cours ?</li><li>Quelle différence ?</li></ol><details><summary>Réponses</summary><ol><li>Environ six heures dans les deux pays.</li><li>Beaucoup d&#x27;élèves lao suivent des cours particuliers le soir.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ການສຶກສາ</td><td class=\"rom\">Kǎan-sʉ̄k-sǎa</td><td>éducation</td><td></td></tr><tr><td class=\"lo\">ໂຮງຮຽນປະຖົມ</td><td class=\"rom\">Hóong-hían pá-thǒm</td><td>école primaire</td><td></td></tr><tr><td class=\"lo\">ມັດທະຍົມ</td><td class=\"rom\">Māt-thā-nyóm</td><td>secondaire</td><td></td></tr><tr><td class=\"lo\">ມະຫາວິທະຍາໄລ</td><td class=\"rom\">Mā-hǎa-wī-thā-nyáa-láy</td><td>université</td><td></td></tr><tr><td class=\"lo\">ຮຽນພິເສດ</td><td class=\"rom\">Hían phī-sȅet</td><td>cours particuliers</td><td></td></tr><tr><td class=\"lo\">ຕໍ່ມື້</td><td class=\"rom\">Tɔ̀ɔ mʉ̂ʉ</td><td>par jour</td><td></td></tr><tr><td class=\"lo\">ຫຼັກສູດ</td><td class=\"rom\">Lāk-sȕut</td><td>programme scolaire</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : comparer argumenté",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ທັງສອງປະເທດ</span> <span class=\"rom\">Tháng sɔ̌ɔng pá-thêet…</span> = dans les deux pays…</li><li><span class=\"lo\">ໃນຂະນະທີ່</span> <span class=\"rom\">Nǎy khā-nā thīi…</span> = tandis que…</li></ul><details><summary>La règle</summary><p>ໃນຂະນະທີ່ = tandis que, pour opposer deux faits. ທັງສອງ = les deux.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les comparaisons.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Tandis qu&#x27;au Laos…</li><li>Dans les deux pays.</li><li>Des cours particuliers.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ໃນຂະນະທີ່ຢູ່ລາວ</span> <span class=\"rom\">Nǎy khā-nā thīi yùu láaw…</span></li><li><span class=\"lo\">ທັງສອງປະເທດ</span> <span class=\"rom\">Tháng sɔ̌ɔng pá-thêet.</span></li><li><span class=\"lo\">ຮຽນພິເສດ</span> <span class=\"rom\">Hían phī-sȅet.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Compare l&#x27;école en France et au Laos en 10 phrases.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Interroge un natif sur sa scolarité et compare avec la tienne.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>10 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l106-v01",
+   "front": "ການສຶກສາ",
+   "back": "Kǎan-sʉ̄k-sǎa · éducation"
+  },
+  {
+   "id": "l106-v02",
+   "front": "ໂຮງຮຽນປະຖົມ",
+   "back": "Hóong-hían pá-thǒm · école primaire"
+  },
+  {
+   "id": "l106-v03",
+   "front": "ມັດທະຍົມ",
+   "back": "Māt-thā-nyóm · secondaire"
+  },
+  {
+   "id": "l106-v04",
+   "front": "ມະຫາວິທະຍາໄລ",
+   "back": "Mā-hǎa-wī-thā-nyáa-láy · université"
+  },
+  {
+   "id": "l106-v05",
+   "front": "ຮຽນພິເສດ",
+   "back": "Hían phī-sȅet · cours particuliers"
+  },
+  {
+   "id": "l106-v06",
+   "front": "ຕໍ່ມື້",
+   "back": "Tɔ̀ɔ mʉ̂ʉ · par jour"
+  },
+  {
+   "id": "l106-v07",
+   "front": "ຫຼັກສູດ",
+   "back": "Lāk-sȕut · programme scolaire"
+  },
+  {
+   "id": "l106-p01",
+   "front": "Tandis qu'au Laos…",
+   "back": "ໃນຂະນະທີ່ຢູ່ລາວ · Nǎy khā-nā thīi yùu láaw…"
+  },
+  {
+   "id": "l106-p02",
+   "front": "Dans les deux pays.",
+   "back": "ທັງສອງປະເທດ · Tháng sɔ̌ɔng pá-thêet."
+  },
+  {
+   "id": "l106-p03",
+   "front": "Des cours particuliers.",
+   "back": "ຮຽນພິເສດ · Hían phī-sȅet."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ການສຶກສາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "éducation",
+      "programme scolaire",
+      "école primaire",
+      "université"
+     ],
+     "answer": "éducation",
+     "reveal": "<i>Kǎan-sʉ̄k-sǎa</i>"
+    },
+    {
+     "audio": [
+      "ໂຮງຮຽນປະຖົມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "école primaire",
+      "par jour",
+      "programme scolaire",
+      "cours particuliers"
+     ],
+     "answer": "école primaire",
+     "reveal": "<i>Hóong-hían pá-thǒm</i>"
+    },
+    {
+     "audio": [
+      "ມັດທະຍົມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "secondaire",
+      "programme scolaire",
+      "par jour",
+      "éducation"
+     ],
+     "answer": "secondaire",
+     "reveal": "<i>Māt-thā-nyóm</i>"
+    },
+    {
+     "audio": [
+      "ມະຫາວິທະຍາໄລ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "université",
+      "école primaire",
+      "par jour",
+      "programme scolaire"
+     ],
+     "answer": "université",
+     "reveal": "<i>Mā-hǎa-wī-thā-nyáa-láy</i>"
+    },
+    {
+     "audio": [
+      "ຮຽນພິເສດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "cours particuliers",
+      "éducation",
+      "secondaire",
+      "programme scolaire"
+     ],
+     "answer": "cours particuliers",
+     "reveal": "<i>Hían phī-sȅet</i>"
+    },
+    {
+     "audio": [
+      "ຕໍ່ມື້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "par jour",
+      "école primaire",
+      "programme scolaire",
+      "éducation"
+     ],
+     "answer": "par jour",
+     "reveal": "<i>Tɔ̀ɔ mʉ̂ʉ</i>"
+    },
+    {
+     "audio": [
+      "ຫຼັກສູດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "programme scolaire",
+      "secondaire",
+      "cours particuliers",
+      "par jour"
+     ],
+     "answer": "programme scolaire",
+     "reveal": "<i>Lāk-sȕut</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ໃນຂະນະທີ່ຢູ່ລາວ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tandis qu'au Laos…",
+      "Des cours particuliers.",
+      "Dans les deux pays."
+     ],
+     "answer": "Tandis qu'au Laos…",
+     "reveal": "<i>Nǎy khā-nā thīi yùu láaw…</i>"
+    },
+    {
+     "audio": [
+      "ທັງສອງປະເທດ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Dans les deux pays.",
+      "Des cours particuliers.",
+      "Tandis qu'au Laos…"
+     ],
+     "answer": "Dans les deux pays.",
+     "reveal": "<i>Tháng sɔ̌ɔng pá-thêet.</i>"
+    },
+    {
+     "audio": [
+      "ຮຽນພິເສດ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Des cours particuliers.",
+      "Tandis qu'au Laos…",
+      "Dans les deux pays."
+     ],
+     "answer": "Des cours particuliers.",
+     "reveal": "<i>Hían phī-sȅet.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ການສຶກສາ",
+   "rom": "Kǎan-sʉ̄k-sǎa",
+   "fr": "éducation",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂຮງຮຽນປະຖົມ",
+   "rom": "Hóong-hían pá-thǒm",
+   "fr": "école primaire",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມັດທະຍົມ",
+   "rom": "Māt-thā-nyóm",
+   "fr": "secondaire",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມະຫາວິທະຍາໄລ",
+   "rom": "Mā-hǎa-wī-thā-nyáa-láy",
+   "fr": "université",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຮຽນພິເສດ",
+   "rom": "Hían phī-sȅet",
+   "fr": "cours particuliers",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕໍ່ມື້",
+   "rom": "Tɔ̀ɔ mʉ̂ʉ",
+   "fr": "par jour",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫຼັກສູດ",
+   "rom": "Lāk-sȕut",
+   "fr": "programme scolaire",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃນຂະນະທີ່ຢູ່ລາວ",
+   "rom": "Nǎy khā-nā thīi yùu láaw…",
+   "fr": "Tandis qu'au Laos…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທັງສອງປະເທດ",
+   "rom": "Tháng sɔ̌ɔng pá-thêet.",
+   "fr": "Dans les deux pays.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຮຽນພິເສດ",
+   "rom": "Hían phī-sȅet.",
+   "fr": "Des cours particuliers.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ໃນ",
+    "ຂະນະ",
+    "ທີ່",
+    "ຢູ່",
+    "ລາວ"
+   ],
+   "rom": "Nǎy khā-nā thīi yùu láaw…",
+   "fr": "Tandis qu'au Laos…"
+  },
+  {
+   "tokens": [
+    "ທັງ",
+    "ສອງ",
+    "ປະເທດ"
+   ],
+   "rom": "Tháng sɔ̌ɔng pá-thêet.",
+   "fr": "Dans les deux pays."
+  },
+  {
+   "tokens": [
+    "ຮຽນ",
+    "ພິເສດ"
+   ],
+   "rom": "Hían phī-sȅet.",
+   "fr": "Des cours particuliers."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ການສຶກສາ",
+   "rom": "Kǎan-sʉ̄k-sǎa",
+   "fr": "éducation"
+  },
+  {
+   "lao": "ໂຮງຮຽນປະຖົມ",
+   "rom": "Hóong-hían pá-thǒm",
+   "fr": "école primaire"
+  },
+  {
+   "lao": "ມັດທະຍົມ",
+   "rom": "Māt-thā-nyóm",
+   "fr": "secondaire"
+  },
+  {
+   "lao": "ມະຫາວິທະຍາໄລ",
+   "rom": "Mā-hǎa-wī-thā-nyáa-láy",
+   "fr": "université"
+  },
+  {
+   "lao": "ຮຽນພິເສດ",
+   "rom": "Hían phī-sȅet",
+   "fr": "cours particuliers"
+  },
+  {
+   "lao": "ຕໍ່ມື້",
+   "rom": "Tɔ̀ɔ mʉ̂ʉ",
+   "fr": "par jour"
+  },
+  {
+   "lao": "ຫຼັກສູດ",
+   "rom": "Lāk-sȕut",
+   "fr": "programme scolaire"
+  }
+ ],
+ "sounds": {
+  "ທຳມະຊາດ": "Thám-mā-sâat",
+  "ຕົວໜັງສື": "Tǔa-nǎng-sʉ̌ʉ",
+  "ມຸກ": "Mūk",
+  "ຜ່ານ": "Phàan",
+  "ຢູ່ຝຣັ່ງເດັກຮຽນຈັກໂມງຕໍ່ມື້": "Yùu fa-làng dék hían ják móong tɔ̀ɔ mʉ̂ʉ?",
+  "ປະມານຫົກຊົ່ວໂມງ ແລ້ວຢູ່ລາວເດ": "Pá-máan hōk sūa-móong. Lɛ̏ɛw yùu láaw dě?",
+  "ຄ້າຍກັນ ແຕ່ຫຼາຍຄົນຮຽນພິເສດຕອນແລງອີກ": "Khȁay kǎn. Tɛ̀ɛ lǎay khón hían phī-sȅet tɔ̌ɔn-lɛ́ɛng ìik.",
+  "ການສຶກສາ": "Kǎan-sʉ̄k-sǎa",
+  "ໂຮງຮຽນປະຖົມ": "Hóong-hían pá-thǒm",
+  "ມັດທະຍົມ": "Māt-thā-nyóm",
+  "ມະຫາວິທະຍາໄລ": "Mā-hǎa-wī-thā-nyáa-láy",
+  "ຮຽນພິເສດ": "Hían phī-sȅet.",
+  "ຕໍ່ມື້": "Tɔ̀ɔ mʉ̂ʉ",
+  "ຫຼັກສູດ": "Lāk-sȕut",
+  "ທັງສອງປະເທດ": "Tháng sɔ̌ɔng pá-thêet.",
+  "ໃນຂະນະທີ່": "Nǎy khā-nā thīi…",
+  "ໃນຂະນະທີ່ຢູ່ລາວ": "Nǎy khā-nā thīi yùu láaw…",
+  "ໃນ": "nǎy",
+  "ຂະນະ": "khā-nā",
+  "ທີ່": "thīi",
+  "ຢູ່": "yùu",
+  "ລາວ": "láaw",
+  "ທັງ": "tháng",
+  "ສອງ": "sɔ̌ɔng",
+  "ປະເທດ": "pá-thêet",
+  "ຮຽນ": "hían",
+  "ພິເສດ": "phī-sȅet"
+ },
+ "suivi": "LEÇON : 106 — Partie F (Argumenter, B2) · Éducation\nOBJECTIF : Comparer deux systèmes scolaires de façon argumentée.\nNOTION : comparer argumenté\nVOCAB : Kǎan-sʉ̄k-sǎa, Hóong-hían pá-thǒm, Māt-thā-nyóm, Mā-hǎa-wī-thā-nyáa-láy, Hían phī-sȅet, Tɔ̀ɔ mʉ̂ʉ, Lāk-sȕut\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 107 — Santé publique"
+}

@@ -1,0 +1,351 @@
+{
+ "num": 103,
+ "phase": "Partie F · Argumenter",
+ "title": "L'Isan et le lao",
+ "objective": "Comprendre un locuteur d'Isan (nord-est de la Thaïlande).",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>différent de <small class=\"muted\">(leçon 102)</small></li><li>indirect <small class=\"muted\">(leçon 100)</small></li><li>pour cent <small class=\"muted\">(leçon 96)</small></li><li>sujet, thème <small class=\"muted\">(leçon 89)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຕ່າງຈາກ</span> <span class=\"rom\">Tàang jȁak</span> · différent de</li><li><span class=\"lo\">ທາງອ້ອມ</span> <span class=\"rom\">Tháang-ɔ̂ɔm</span> · indirect</li><li><span class=\"lo\">ເປີເຊັນ</span> <span class=\"rom\">Pɤ̌ɤ-sén</span> · pour cent</li><li><span class=\"lo\">ຫົວຂໍ້</span> <span class=\"rom\">Hǔa-khɔ̂ɔ</span> · sujet, thème</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Comprendre un locuteur d&#x27;Isan (nord-est de la Thaïlande).</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Un ami d&#x27;Isan rend visite.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ຂ້ອຍມາແຕ່ອີສານ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ພາສາອີສານຄືພາສາລາວບໍ?</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ເກືອບຄືກັນ ແຕ່ພວກເຮົາຂຽນດ້ວຍຕົວໜັງສືໄທ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໜ້າສົນໃຈຫຼາຍ!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Khɔ̂ɔy máa tɛ̀ɛ ǐi-sǎan.</span><br><span class=\"rom\">Pháa-sǎa ǐi-sǎan khʉ́ʉ pháa-sǎa-láaw bɔ̌ɔ?</span><br><span class=\"rom\">Kʉ̏ap khʉ́ʉ kǎn. Tɛ̀ɛ phûak-háo khǐan dûay tǔa-nǎng-sʉ̌ʉ tháy.</span><br><span class=\"rom\">Nâa sǒn-jǎy lǎay!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>X</b> — Je viens de l&#x27;Isan.<br><b>Clara</b> — La langue de l&#x27;Isan, c&#x27;est comme le lao ?<br><b>X</b> — Presque. Mais on écrit en alphabet thaï.<br><b>Clara</b> — C&#x27;est très intéressant !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>D&#x27;où vient l&#x27;ami ?</li><li>Quelle différence avec le lao ?</li></ol><details><summary>Réponses</summary><ol><li>De l&#x27;Isan.</li><li>Il s&#x27;écrit en alphabet thaï.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ອີສານ</td><td class=\"rom\">Ǐi-sǎan</td><td>Isan (nord-est de la Thaïlande)</td><td></td></tr><tr><td class=\"lo\">ຄືກັນ</td><td class=\"rom\">Khʉ́ʉ kǎn</td><td>pareil</td><td></td></tr><tr><td class=\"lo\">ເກືອບຄືກັນ</td><td class=\"rom\">Kʉ̏ap khʉ́ʉ kǎn</td><td>presque pareil</td><td></td></tr><tr><td class=\"lo\">ຕົວໜັງສື</td><td class=\"rom\">Tǔa-nǎng-sʉ̌ʉ</td><td>écriture, lettres</td><td></td></tr><tr><td class=\"lo\">ຊົນເຜົ່າ</td><td class=\"rom\">Són-phào</td><td>ethnie</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : pareil, presque, différent",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຄືກັນ</span> <span class=\"rom\">Khʉ́ʉ kǎn</span> = pareil</li><li><span class=\"lo\">ເກືອບຄືກັນ</span> <span class=\"rom\">Kʉ̏ap khʉ́ʉ kǎn</span> = presque pareil</li><li><span class=\"lo\">ຕ່າງກັນຫຼາຍ</span> <span class=\"rom\">Tàang kǎn lǎay</span> = très différent</li></ul><details><summary>La règle</summary><p>La population d'Isan parle des variétés de lao, mais lit et écrit en thaï. Beaucoup de mots thaïs y sont mélangés. [À VÉRIFIER]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les mots thaïs mélangés au lao.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>C&#x27;est presque pareil.</li><li>C&#x27;est très intéressant.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເກືອບຄືກັນ</span> <span class=\"rom\">Kʉ̏ap khʉ́ʉ kǎn.</span></li><li><span class=\"lo\">ໜ້າສົນໃຈຫຼາຍ</span> <span class=\"rom\">Nâa sǒn-jǎy lǎay.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris 5 phrases sur les liens entre le Laos et l&#x27;Isan.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Écoute un chanteur de molam d&#x27;Isan et repère les mots lao.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>7 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l103-v01",
+   "front": "ອີສານ",
+   "back": "Ǐi-sǎan · Isan (nord-est de la Thaïlande)"
+  },
+  {
+   "id": "l103-v02",
+   "front": "ຄືກັນ",
+   "back": "Khʉ́ʉ kǎn · pareil"
+  },
+  {
+   "id": "l103-v03",
+   "front": "ເກືອບຄືກັນ",
+   "back": "Kʉ̏ap khʉ́ʉ kǎn · presque pareil"
+  },
+  {
+   "id": "l103-v04",
+   "front": "ຕົວໜັງສື",
+   "back": "Tǔa-nǎng-sʉ̌ʉ · écriture, lettres"
+  },
+  {
+   "id": "l103-v05",
+   "front": "ຊົນເຜົ່າ",
+   "back": "Són-phào · ethnie"
+  },
+  {
+   "id": "l103-p01",
+   "front": "C'est presque pareil.",
+   "back": "ເກືອບຄືກັນ · Kʉ̏ap khʉ́ʉ kǎn."
+  },
+  {
+   "id": "l103-p02",
+   "front": "C'est très intéressant.",
+   "back": "ໜ້າສົນໃຈຫຼາຍ · Nâa sǒn-jǎy lǎay."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ອີສານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "Isan (nord-est de la Thaïlande)",
+      "pareil",
+      "écriture, lettres",
+      "presque pareil"
+     ],
+     "answer": "Isan (nord-est de la Thaïlande)",
+     "reveal": "<i>Ǐi-sǎan</i>"
+    },
+    {
+     "audio": [
+      "ຄືກັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pareil",
+      "ethnie",
+      "presque pareil",
+      "Isan (nord-est de la Thaïlande)"
+     ],
+     "answer": "pareil",
+     "reveal": "<i>Khʉ́ʉ kǎn</i>"
+    },
+    {
+     "audio": [
+      "ເກືອບຄືກັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "presque pareil",
+      "Isan (nord-est de la Thaïlande)",
+      "pareil",
+      "écriture, lettres"
+     ],
+     "answer": "presque pareil",
+     "reveal": "<i>Kʉ̏ap khʉ́ʉ kǎn</i>"
+    },
+    {
+     "audio": [
+      "ຕົວໜັງສື"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "écriture, lettres",
+      "ethnie",
+      "Isan (nord-est de la Thaïlande)",
+      "pareil"
+     ],
+     "answer": "écriture, lettres",
+     "reveal": "<i>Tǔa-nǎng-sʉ̌ʉ</i>"
+    },
+    {
+     "audio": [
+      "ຊົນເຜົ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ethnie",
+      "pareil",
+      "écriture, lettres",
+      "Isan (nord-est de la Thaïlande)"
+     ],
+     "answer": "ethnie",
+     "reveal": "<i>Són-phào</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້ອຍມາແຕ່ອີສານ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je viens de l'Isan.",
+      "Presque. Mais on écrit en alphabet thaï.",
+      "C'est très intéressant !",
+      "La langue de l'Isan, c'est comme le lao ?"
+     ],
+     "answer": "Je viens de l'Isan.",
+     "reveal": "<i>Khɔ̂ɔy máa tɛ̀ɛ ǐi-sǎan.</i>"
+    },
+    {
+     "audio": [
+      "ພາສາອີສານຄືພາສາລາວບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "La langue de l'Isan, c'est comme le lao ?",
+      "C'est très intéressant !",
+      "Je viens de l'Isan.",
+      "Presque. Mais on écrit en alphabet thaï."
+     ],
+     "answer": "La langue de l'Isan, c'est comme le lao ?",
+     "reveal": "<i>Pháa-sǎa ǐi-sǎan khʉ́ʉ pháa-sǎa-láaw bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ເກືອບຄືກັນ ແຕ່ພວກເຮົາຂຽນດ້ວຍຕົວໜັງສືໄທ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Presque. Mais on écrit en alphabet thaï.",
+      "Je viens de l'Isan.",
+      "La langue de l'Isan, c'est comme le lao ?",
+      "C'est très intéressant !"
+     ],
+     "answer": "Presque. Mais on écrit en alphabet thaï.",
+     "reveal": "<i>Kʉ̏ap khʉ́ʉ kǎn. Tɛ̀ɛ phûak-háo khǐan dûay tǔa-nǎng-sʉ̌ʉ tháy.</i>"
+    },
+    {
+     "audio": [
+      "ໜ້າສົນໃຈຫຼາຍ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'est très intéressant !",
+      "La langue de l'Isan, c'est comme le lao ?",
+      "Presque. Mais on écrit en alphabet thaï.",
+      "Je viens de l'Isan."
+     ],
+     "answer": "C'est très intéressant !",
+     "reveal": "<i>Nâa sǒn-jǎy lǎay!</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ອີສານ",
+   "rom": "Ǐi-sǎan",
+   "fr": "Isan (nord-est de la Thaïlande)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄືກັນ",
+   "rom": "Khʉ́ʉ kǎn",
+   "fr": "pareil",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເກືອບຄືກັນ",
+   "rom": "Kʉ̏ap khʉ́ʉ kǎn",
+   "fr": "presque pareil",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕົວໜັງສື",
+   "rom": "Tǔa-nǎng-sʉ̌ʉ",
+   "fr": "écriture, lettres",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊົນເຜົ່າ",
+   "rom": "Són-phào",
+   "fr": "ethnie",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເກືອບຄືກັນ",
+   "rom": "Kʉ̏ap khʉ́ʉ kǎn.",
+   "fr": "C'est presque pareil.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໜ້າສົນໃຈຫຼາຍ",
+   "rom": "Nâa sǒn-jǎy lǎay.",
+   "fr": "C'est très intéressant.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ເກືອບ",
+    "ຄື",
+    "ກັນ"
+   ],
+   "rom": "Kʉ̏ap khʉ́ʉ kǎn.",
+   "fr": "C'est presque pareil."
+  },
+  {
+   "tokens": [
+    "ໜ້າ",
+    "ສົນໃຈ",
+    "ຫຼາຍ"
+   ],
+   "rom": "Nâa sǒn-jǎy lǎay.",
+   "fr": "C'est très intéressant."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ອີສານ",
+   "rom": "Ǐi-sǎan",
+   "fr": "Isan (nord-est de la Thaïlande)"
+  },
+  {
+   "lao": "ຄືກັນ",
+   "rom": "Khʉ́ʉ kǎn",
+   "fr": "pareil"
+  },
+  {
+   "lao": "ເກືອບຄືກັນ",
+   "rom": "Kʉ̏ap khʉ́ʉ kǎn",
+   "fr": "presque pareil"
+  },
+  {
+   "lao": "ຕົວໜັງສື",
+   "rom": "Tǔa-nǎng-sʉ̌ʉ",
+   "fr": "écriture, lettres"
+  },
+  {
+   "lao": "ຊົນເຜົ່າ",
+   "rom": "Són-phào",
+   "fr": "ethnie"
+  }
+ ],
+ "sounds": {
+  "ຕ່າງຈາກ": "Tàang jȁak",
+  "ທາງອ້ອມ": "Tháang-ɔ̂ɔm",
+  "ເປີເຊັນ": "Pɤ̌ɤ-sén",
+  "ຫົວຂໍ້": "Hǔa-khɔ̂ɔ",
+  "ຂ້ອຍມາແຕ່ອີສານ": "Khɔ̂ɔy máa tɛ̀ɛ ǐi-sǎan.",
+  "ພາສາອີສານຄືພາສາລາວບໍ": "Pháa-sǎa ǐi-sǎan khʉ́ʉ pháa-sǎa-láaw bɔ̌ɔ?",
+  "ເກືອບຄືກັນ ແຕ່ພວກເຮົາຂຽນດ້ວຍຕົວໜັງສືໄທ": "Kʉ̏ap khʉ́ʉ kǎn. Tɛ̀ɛ phûak-háo khǐan dûay tǔa-nǎng-sʉ̌ʉ tháy.",
+  "ໜ້າສົນໃຈຫຼາຍ": "Nâa sǒn-jǎy lǎay.",
+  "ອີສານ": "Ǐi-sǎan",
+  "ຄືກັນ": "Khʉ́ʉ kǎn",
+  "ເກືອບຄືກັນ": "Kʉ̏ap khʉ́ʉ kǎn.",
+  "ຕົວໜັງສື": "Tǔa-nǎng-sʉ̌ʉ",
+  "ຊົນເຜົ່າ": "Són-phào",
+  "ຕ່າງກັນຫຼາຍ": "Tàang kǎn lǎay",
+  "ເກືອບ": "kʉ̏ap",
+  "ຄື": "khʉ́ʉ",
+  "ກັນ": "kǎn",
+  "ໜ້າ": "nâa",
+  "ສົນໃຈ": "sǒn-jǎy",
+  "ຫຼາຍ": "lǎay"
+ },
+ "suivi": "LEÇON : 103 — Partie F (Argumenter, B2) · L'Isan et le lao\nOBJECTIF : Comprendre un locuteur d'Isan (nord-est de la Thaïlande).\nNOTION : pareil, presque, différent\nVOCAB : Ǐi-sǎan, Khʉ́ʉ kǎn, Kʉ̏ap khʉ́ʉ kǎn, Tǔa-nǎng-sʉ̌ʉ, Són-phào\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 104 — Économie du quotidien"
+}

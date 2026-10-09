@@ -1,0 +1,481 @@
+{
+ "num": 107,
+ "phase": "Partie F · Argumenter",
+ "title": "Santé publique",
+ "objective": "Expliquer un traitement ou une prévention.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>cours particuliers <small class=\"muted\">(leçon 106)</small></li><li>inflation <small class=\"muted\">(leçon 104)</small></li><li>être gêné de déranger <small class=\"muted\">(leçon 100)</small></li><li>avantage <small class=\"muted\">(leçon 93)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຮຽນພິເສດ</span> <span class=\"rom\">Hían phī-sȅet</span> · cours particuliers</li><li><span class=\"lo\">ເງິນເຟີ້</span> <span class=\"rom\">Ngɤ́n-fɤ̂ɤ</span> · inflation</li><li><span class=\"lo\">ເກງໃຈ</span> <span class=\"rom\">Kěeng-jǎy</span> · être gêné de déranger</li><li><span class=\"lo\">ຂໍ້ດີ</span> <span class=\"rom\">Khɔ̂ɔ-dǐi</span> · avantage</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Expliquer un traitement ou une prévention.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Campagne contre la dengue.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ທ່ານໝໍ</span><div><span class=\"lo\">ໄຂ້ຍຸງລາຍແຜ່ລະບາດໃນລະດູຝົນ</span></div></div><div class=\"line\"><span class=\"who\">ທ່ານໝໍ</span><div><span class=\"lo\">ເພື່ອປ້ອງກັນ ຕ້ອງເທນ້ຳທີ່ຂັງອອກ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ມີວັກຊີນບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ທ່ານໝໍ</span><div><span class=\"lo\">ມີ ແຕ່ການປ້ອງກັນຍຸງກັດສຳຄັນທີ່ສຸດ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Khâay-nyúng-láay phɛ̀ɛ lā-bȁat nǎy lā-dǔu-fǒn.</span><br><span class=\"rom\">Phʉ̄a pɔ̂ɔng-kǎn, tâɔng théé nȁam thīi khǎng ɔ̏ɔk.</span><br><span class=\"rom\">Míi wāk-síin bɔ̌ɔ?</span><br><span class=\"rom\">Míi, tɛ̀ɛ kǎan pɔ̂ɔng-kǎn nyúng kát sǎm-khán thīi-sūt.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Le médecin</b> — La dengue se propage pendant la saison des pluies.<br><b>Le médecin</b> — Pour la prévenir, il faut vider l&#x27;eau stagnante.<br><b>Clara</b> — Il y a un vaccin ?<br><b>Le médecin</b> — Oui, mais éviter les piqûres reste le plus important.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quand la dengue se propage-t-elle ?</li><li>Comment la prévenir ?</li></ol><details><summary>Réponses</summary><ol><li>Pendant la saison des pluies.</li><li>Vider l&#x27;eau stagnante, éviter les piqûres.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ໄຂ້ຍຸງລາຍ</td><td class=\"rom\">Khâay-nyúng-láay</td><td>dengue</td><td></td></tr><tr><td class=\"lo\">ແຜ່ລະບາດ</td><td class=\"rom\">Phɛ̀ɛ lā-bȁat</td><td>se propager (épidémie)</td><td></td></tr><tr><td class=\"lo\">ປ້ອງກັນ</td><td class=\"rom\">Pɔ̂ɔng-kǎn</td><td>prévenir, protéger</td><td></td></tr><tr><td class=\"lo\">ວັກຊີນ</td><td class=\"rom\">Wāk-síin</td><td>vaccin</td><td></td></tr><tr><td class=\"lo\">ຍຸງກັດ</td><td class=\"rom\">Nyúng kát</td><td>piqûre de moustique</td><td></td></tr><tr><td class=\"lo\">ອາການ</td><td class=\"rom\">Ǎa-kǎan</td><td>symptôme</td><td></td></tr><tr><td class=\"lo\">ປິ່ນປົວ</td><td class=\"rom\">Pìn-pǔa</td><td>soigner</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : expliquer un but et un moyen",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ເພື່ອປ້ອງກັນ ຕ້ອງ</span> <span class=\"rom\">Phʉ̄a pɔ̂ɔng-kǎn… tâɔng…</span> = pour prévenir…, il faut…</li><li><span class=\"lo\">ໂດຍການ</span> <span class=\"rom\">Dóoy kǎan…</span> = en (+ verbe)</li></ul><details><summary>La règle</summary><p>ເພື່ອ + but, ຕ້ອງ + moyen. ໂດຍການ + verbe = en faisant (moyen).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> le vocabulaire médical.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Pour prévenir, il faut…</li><li>Quels sont les symptômes ?</li><li>Il y a un vaccin ?</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເພື່ອປ້ອງກັນ ຕ້ອງ</span> <span class=\"rom\">Phʉ̄a pɔ̂ɔng-kǎn, tâɔng…</span></li><li><span class=\"lo\">ມີອາການແນວໃດ?</span> <span class=\"rom\">Míi ǎa-kǎan nɛ́ɛw-dǎy?</span></li><li><span class=\"lo\">ມີວັກຊີນບໍ?</span> <span class=\"rom\">Míi wāk-síin bɔ̌ɔ?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris une affiche de prévention de 6 phrases.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Explique à un natif une règle de santé, puis demande ses conseils.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>10 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l107-v01",
+   "front": "ໄຂ້ຍຸງລາຍ",
+   "back": "Khâay-nyúng-láay · dengue"
+  },
+  {
+   "id": "l107-v02",
+   "front": "ແຜ່ລະບາດ",
+   "back": "Phɛ̀ɛ lā-bȁat · se propager (épidémie)"
+  },
+  {
+   "id": "l107-v03",
+   "front": "ປ້ອງກັນ",
+   "back": "Pɔ̂ɔng-kǎn · prévenir, protéger"
+  },
+  {
+   "id": "l107-v04",
+   "front": "ວັກຊີນ",
+   "back": "Wāk-síin · vaccin"
+  },
+  {
+   "id": "l107-v05",
+   "front": "ຍຸງກັດ",
+   "back": "Nyúng kát · piqûre de moustique"
+  },
+  {
+   "id": "l107-v06",
+   "front": "ອາການ",
+   "back": "Ǎa-kǎan · symptôme"
+  },
+  {
+   "id": "l107-v07",
+   "front": "ປິ່ນປົວ",
+   "back": "Pìn-pǔa · soigner"
+  },
+  {
+   "id": "l107-p01",
+   "front": "Pour prévenir, il faut…",
+   "back": "ເພື່ອປ້ອງກັນ ຕ້ອງ · Phʉ̄a pɔ̂ɔng-kǎn, tâɔng…"
+  },
+  {
+   "id": "l107-p02",
+   "front": "Quels sont les symptômes ?",
+   "back": "ມີອາການແນວໃດ? · Míi ǎa-kǎan nɛ́ɛw-dǎy?"
+  },
+  {
+   "id": "l107-p03",
+   "front": "Il y a un vaccin ?",
+   "back": "ມີວັກຊີນບໍ? · Míi wāk-síin bɔ̌ɔ?"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ໄຂ້ຍຸງລາຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "dengue",
+      "symptôme",
+      "piqûre de moustique",
+      "prévenir, protéger"
+     ],
+     "answer": "dengue",
+     "reveal": "<i>Khâay-nyúng-láay</i>"
+    },
+    {
+     "audio": [
+      "ແຜ່ລະບາດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "se propager (épidémie)",
+      "vaccin",
+      "symptôme",
+      "prévenir, protéger"
+     ],
+     "answer": "se propager (épidémie)",
+     "reveal": "<i>Phɛ̀ɛ lā-bȁat</i>"
+    },
+    {
+     "audio": [
+      "ປ້ອງກັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "prévenir, protéger",
+      "dengue",
+      "soigner",
+      "se propager (épidémie)"
+     ],
+     "answer": "prévenir, protéger",
+     "reveal": "<i>Pɔ̂ɔng-kǎn</i>"
+    },
+    {
+     "audio": [
+      "ວັກຊີນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "vaccin",
+      "symptôme",
+      "prévenir, protéger",
+      "piqûre de moustique"
+     ],
+     "answer": "vaccin",
+     "reveal": "<i>Wāk-síin</i>"
+    },
+    {
+     "audio": [
+      "ຍຸງກັດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "piqûre de moustique",
+      "vaccin",
+      "symptôme",
+      "prévenir, protéger"
+     ],
+     "answer": "piqûre de moustique",
+     "reveal": "<i>Nyúng kát</i>"
+    },
+    {
+     "audio": [
+      "ອາການ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "symptôme",
+      "vaccin",
+      "piqûre de moustique",
+      "se propager (épidémie)"
+     ],
+     "answer": "symptôme",
+     "reveal": "<i>Ǎa-kǎan</i>"
+    },
+    {
+     "audio": [
+      "ປິ່ນປົວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "soigner",
+      "se propager (épidémie)",
+      "prévenir, protéger",
+      "symptôme"
+     ],
+     "answer": "soigner",
+     "reveal": "<i>Pìn-pǔa</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ໄຂ້ຍຸງລາຍແຜ່ລະບາດໃນລະດູຝົນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "La dengue se propage pendant la saison des pluies.",
+      "Oui, mais éviter les piqûres reste le plus important.",
+      "Pour la prévenir, il faut vider l'eau stagnante.",
+      "Il y a un vaccin ?"
+     ],
+     "answer": "La dengue se propage pendant la saison des pluies.",
+     "reveal": "<i>Khâay-nyúng-láay phɛ̀ɛ lā-bȁat nǎy lā-dǔu-fǒn.</i>"
+    },
+    {
+     "audio": [
+      "ເພື່ອປ້ອງກັນ ຕ້ອງເທນ້ຳທີ່ຂັງອອກ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Pour la prévenir, il faut vider l'eau stagnante.",
+      "La dengue se propage pendant la saison des pluies.",
+      "Il y a un vaccin ?",
+      "Oui, mais éviter les piqûres reste le plus important."
+     ],
+     "answer": "Pour la prévenir, il faut vider l'eau stagnante.",
+     "reveal": "<i>Phʉ̄a pɔ̂ɔng-kǎn, tâɔng théé nȁam thīi khǎng ɔ̏ɔk.</i>"
+    },
+    {
+     "audio": [
+      "ມີວັກຊີນບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Il y a un vaccin ?",
+      "La dengue se propage pendant la saison des pluies.",
+      "Pour la prévenir, il faut vider l'eau stagnante.",
+      "Oui, mais éviter les piqûres reste le plus important."
+     ],
+     "answer": "Il y a un vaccin ?",
+     "reveal": "<i>Míi wāk-síin bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ມີ ແຕ່ການປ້ອງກັນຍຸງກັດສຳຄັນທີ່ສຸດ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oui, mais éviter les piqûres reste le plus important.",
+      "La dengue se propage pendant la saison des pluies.",
+      "Il y a un vaccin ?",
+      "Pour la prévenir, il faut vider l'eau stagnante."
+     ],
+     "answer": "Oui, mais éviter les piqûres reste le plus important.",
+     "reveal": "<i>Míi, tɛ̀ɛ kǎan pɔ̂ɔng-kǎn nyúng kát sǎm-khán thīi-sūt.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເພື່ອປ້ອງກັນ ຕ້ອງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Pour prévenir, il faut…",
+      "Quels sont les symptômes ?",
+      "Il y a un vaccin ?"
+     ],
+     "answer": "Pour prévenir, il faut…",
+     "reveal": "<i>Phʉ̄a pɔ̂ɔng-kǎn, tâɔng…</i>"
+    },
+    {
+     "audio": [
+      "ມີອາການແນວໃດ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Quels sont les symptômes ?",
+      "Il y a un vaccin ?",
+      "Pour prévenir, il faut…"
+     ],
+     "answer": "Quels sont les symptômes ?",
+     "reveal": "<i>Míi ǎa-kǎan nɛ́ɛw-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ມີວັກຊີນບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il y a un vaccin ?",
+      "Quels sont les symptômes ?",
+      "Pour prévenir, il faut…"
+     ],
+     "answer": "Il y a un vaccin ?",
+     "reveal": "<i>Míi wāk-síin bɔ̌ɔ?</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ໄຂ້ຍຸງລາຍ",
+   "rom": "Khâay-nyúng-láay",
+   "fr": "dengue",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແຜ່ລະບາດ",
+   "rom": "Phɛ̀ɛ lā-bȁat",
+   "fr": "se propager (épidémie)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ປ້ອງກັນ",
+   "rom": "Pɔ̂ɔng-kǎn",
+   "fr": "prévenir, protéger",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ວັກຊີນ",
+   "rom": "Wāk-síin",
+   "fr": "vaccin",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍຸງກັດ",
+   "rom": "Nyúng kát",
+   "fr": "piqûre de moustique",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອາການ",
+   "rom": "Ǎa-kǎan",
+   "fr": "symptôme",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ປິ່ນປົວ",
+   "rom": "Pìn-pǔa",
+   "fr": "soigner",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເພື່ອປ້ອງກັນ ຕ້ອງ",
+   "rom": "Phʉ̄a pɔ̂ɔng-kǎn, tâɔng…",
+   "fr": "Pour prévenir, il faut…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມີອາການແນວໃດ?",
+   "rom": "Míi ǎa-kǎan nɛ́ɛw-dǎy?",
+   "fr": "Quels sont les symptômes ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມີວັກຊີນບໍ?",
+   "rom": "Míi wāk-síin bɔ̌ɔ?",
+   "fr": "Il y a un vaccin ?",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ເພື່ອ",
+    "ປ້ອງກັນ",
+    "ຕ້ອງ"
+   ],
+   "rom": "Phʉ̄a pɔ̂ɔng-kǎn, tâɔng…",
+   "fr": "Pour prévenir, il faut…"
+  },
+  {
+   "tokens": [
+    "ມີ",
+    "ອາການ",
+    "ແນວໃດ"
+   ],
+   "rom": "Míi ǎa-kǎan nɛ́ɛw-dǎy?",
+   "fr": "Quels sont les symptômes ?"
+  },
+  {
+   "tokens": [
+    "ມີ",
+    "ວັກຊີນ",
+    "ບໍ"
+   ],
+   "rom": "Míi wāk-síin bɔ̌ɔ?",
+   "fr": "Il y a un vaccin ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ໄຂ້ຍຸງລາຍ",
+   "rom": "Khâay-nyúng-láay",
+   "fr": "dengue"
+  },
+  {
+   "lao": "ແຜ່ລະບາດ",
+   "rom": "Phɛ̀ɛ lā-bȁat",
+   "fr": "se propager (épidémie)"
+  },
+  {
+   "lao": "ປ້ອງກັນ",
+   "rom": "Pɔ̂ɔng-kǎn",
+   "fr": "prévenir, protéger"
+  },
+  {
+   "lao": "ວັກຊີນ",
+   "rom": "Wāk-síin",
+   "fr": "vaccin"
+  },
+  {
+   "lao": "ຍຸງກັດ",
+   "rom": "Nyúng kát",
+   "fr": "piqûre de moustique"
+  },
+  {
+   "lao": "ອາການ",
+   "rom": "Ǎa-kǎan",
+   "fr": "symptôme"
+  },
+  {
+   "lao": "ປິ່ນປົວ",
+   "rom": "Pìn-pǔa",
+   "fr": "soigner"
+  }
+ ],
+ "sounds": {
+  "ຮຽນພິເສດ": "Hían phī-sȅet",
+  "ເງິນເຟີ້": "Ngɤ́n-fɤ̂ɤ",
+  "ເກງໃຈ": "Kěeng-jǎy",
+  "ຂໍ້ດີ": "Khɔ̂ɔ-dǐi",
+  "ໄຂ້ຍຸງລາຍແຜ່ລະບາດໃນລະດູຝົນ": "Khâay-nyúng-láay phɛ̀ɛ lā-bȁat nǎy lā-dǔu-fǒn.",
+  "ເພື່ອປ້ອງກັນ ຕ້ອງເທນ້ຳທີ່ຂັງອອກ": "Phʉ̄a pɔ̂ɔng-kǎn, tâɔng théé nȁam thīi khǎng ɔ̏ɔk.",
+  "ມີວັກຊີນບໍ": "Míi wāk-síin bɔ̌ɔ?",
+  "ມີ ແຕ່ການປ້ອງກັນຍຸງກັດສຳຄັນທີ່ສຸດ": "Míi, tɛ̀ɛ kǎan pɔ̂ɔng-kǎn nyúng kát sǎm-khán thīi-sūt.",
+  "ໄຂ້ຍຸງລາຍ": "Khâay-nyúng-láay",
+  "ແຜ່ລະບາດ": "Phɛ̀ɛ lā-bȁat",
+  "ປ້ອງກັນ": "pɔ̂ɔng-kǎn",
+  "ວັກຊີນ": "wāk-síin",
+  "ຍຸງກັດ": "Nyúng kát",
+  "ອາການ": "ǎa-kǎan",
+  "ປິ່ນປົວ": "Pìn-pǔa",
+  "ເພື່ອປ້ອງກັນ ຕ້ອງ": "Phʉ̄a pɔ̂ɔng-kǎn, tâɔng…",
+  "ໂດຍການ": "Dóoy kǎan…",
+  "ມີອາການແນວໃດ": "Míi ǎa-kǎan nɛ́ɛw-dǎy?",
+  "ເພື່ອປ້ອງກັນຕ້ອງ": "Phʉ̄a pɔ̂ɔng-kǎn, tâɔng…",
+  "ເພື່ອ": "phʉ̄a",
+  "ຕ້ອງ": "tâɔng",
+  "ມີ": "míi",
+  "ແນວໃດ": "nɛ́ɛw-dǎy",
+  "ບໍ": "bɔ̌ɔ"
+ },
+ "suivi": "LEÇON : 107 — Partie F (Argumenter, B2) · Santé publique\nOBJECTIF : Expliquer un traitement ou une prévention.\nNOTION : expliquer un but et un moyen\nVOCAB : Khâay-nyúng-láay, Phɛ̀ɛ lā-bȁat, Pɔ̂ɔng-kǎn, Wāk-síin, Nyúng kát, Ǎa-kǎan, Pìn-pǔa\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 108 — Technologie"
+}

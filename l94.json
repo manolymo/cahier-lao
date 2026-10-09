@@ -1,0 +1,391 @@
+{
+ "num": 94,
+ "phase": "Partie F · Argumenter",
+ "title": "Cause et conséquence",
+ "objective": "Expliquer un phénomène de société avec une chaîne de causes.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>même si, bien que <small class=\"muted\">(leçon 93)</small></li><li>relier, connecter <small class=\"muted\">(leçon 91)</small></li><li>province <small class=\"muted\">(leçon 87)</small></li><li>pratique <small class=\"muted\">(leçon 80)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ເຖິງແມ່ນວ່າ</span> <span class=\"rom\">Thɤ̌ng-mɛ̄ɛn-wāa</span> · même si, bien que</li><li><span class=\"lo\">ເຊື່ອມຕໍ່</span> <span class=\"rom\">Sʉ̄am tɔ̀ɔ</span> · relier, connecter</li><li><span class=\"lo\">ແຂວງ</span> <span class=\"rom\">Khwɛ̌ɛng</span> · province</li><li><span class=\"lo\">ສະດວກ</span> <span class=\"rom\">Sā-dȕak</span> · pratique</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Expliquer un phénomène de société avec une chaîne de causes.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Discussion sur l&#x27;exode rural.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເປັນຫຍັງຄົນໜຸ່ມຈຶ່ງອອກຈາກບ້ານນອກ?</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ຍ້ອນບໍ່ມີວຽກ ດັ່ງນັ້ນພວກເຂົາຈຶ່ງໄປຫາວຽກໃນເມືອງ</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ຜົນທີ່ຕາມມາແມ່ນບ້ານນອກມີແຕ່ຄົນເຖົ້າ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Pěn-nyǎng khón nùm jʉ̀ng ɔ̏ɔk jȁak bâan nɔ̂ɔk?</span><br><span class=\"rom\">Nyȍɔn bɔ̀ɔ míi wîak, dàng-nȁn phûak-khǎo jʉ̀ng pǎy hǎa wîak nǎy mʉ́ang.</span><br><span class=\"rom\">Phǒn thīi tǎam máa mɛ̄ɛn bâan nɔ̂ɔk míi tɛ̀ɛ khón thâo.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Pourquoi les jeunes quittent-ils les villages ?<br><b>M. Somsak</b> — Faute de travail, ils vont donc en chercher en ville.<br><b>M. Somsak</b> — Conséquence : il ne reste que les anciens dans les villages.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Pourquoi les jeunes partent-ils ?</li><li>Quelle conséquence ?</li></ol><details><summary>Réponses</summary><ol><li>Faute de travail.</li><li>Il ne reste que les anciens au village.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ດັ່ງນັ້ນ</td><td class=\"rom\">Dàng-nȁn</td><td>donc, c&#x27;est pourquoi</td><td></td></tr><tr><td class=\"lo\">ຈຶ່ງ</td><td class=\"rom\">Jʉ̀ng</td><td>(c&#x27;est pour cela que)</td><td></td></tr><tr><td class=\"lo\">ຜົນທີ່ຕາມມາ</td><td class=\"rom\">Phǒn thīi tǎam máa</td><td>la conséquence</td><td></td></tr><tr><td class=\"lo\">ສາເຫດ</td><td class=\"rom\">Sǎa-hēet</td><td>cause</td><td></td></tr><tr><td class=\"lo\">ເຮັດໃຫ້</td><td class=\"rom\">Hēt hây</td><td>provoquer, faire que</td><td></td></tr><tr><td class=\"lo\">ມີແຕ່</td><td class=\"rom\">Míi tɛ̀ɛ</td><td>il n&#x27;y a que</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les chaînes causales",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຍ້ອນ ດັ່ງນັ້ນ ຈຶ່ງ</span> <span class=\"rom\">Nyȍɔn… dàng-nȁn… jʉ̀ng…</span> = à cause de… donc… c&#x27;est pourquoi…</li><li><span class=\"lo\">ຝົນເຮັດໃຫ້ນ້ຳຖ້ວມ</span> <span class=\"rom\">Fǒn hēt hây nȁam thûam</span> = la pluie provoque des inondations</li></ul><p><b>À toi de trouver :</b></p><ol><li>Que fait ຈຶ່ງ devant le verbe ?</li></ol><details><summary>La règle</summary><p>ຈຶ່ງ (devant le verbe) souligne que l'action est la conséquence de ce qui précède. ເຮັດໃຫ້ = provoquer. ສາເຫດ = cause, ຜົນ = effet.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> ດັ່ງນັ້ນ et ຈຶ່ງ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>C&#x27;est pourquoi ils partent.</li><li>La cause principale…</li><li>Ça provoque des problèmes.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ດັ່ງນັ້ນພວກເຂົາຈຶ່ງໄປ</span> <span class=\"rom\">Dàng-nȁn phûak-khǎo jʉ̀ng pǎy.</span></li><li><span class=\"lo\">ສາເຫດຫຼັກ</span> <span class=\"rom\">Sǎa-hēet lāk…</span></li><li><span class=\"lo\">ມັນເຮັດໃຫ້ມີບັນຫາ</span> <span class=\"rom\">Mán hēt hây míi bǎn-hǎa.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Explique un phénomène de société de ton pays en chaîne causale (8 phrases).</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Explique à un natif un phénomène de société français et demande son équivalent au Laos.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>9 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l94-v01",
+   "front": "ດັ່ງນັ້ນ",
+   "back": "Dàng-nȁn · donc, c'est pourquoi"
+  },
+  {
+   "id": "l94-v02",
+   "front": "ຈຶ່ງ",
+   "back": "Jʉ̀ng · (c'est pour cela que)"
+  },
+  {
+   "id": "l94-v03",
+   "front": "ຜົນທີ່ຕາມມາ",
+   "back": "Phǒn thīi tǎam máa · la conséquence"
+  },
+  {
+   "id": "l94-v04",
+   "front": "ສາເຫດ",
+   "back": "Sǎa-hēet · cause"
+  },
+  {
+   "id": "l94-v05",
+   "front": "ເຮັດໃຫ້",
+   "back": "Hēt hây · provoquer, faire que"
+  },
+  {
+   "id": "l94-v06",
+   "front": "ມີແຕ່",
+   "back": "Míi tɛ̀ɛ · il n'y a que"
+  },
+  {
+   "id": "l94-p01",
+   "front": "C'est pourquoi ils partent.",
+   "back": "ດັ່ງນັ້ນພວກເຂົາຈຶ່ງໄປ · Dàng-nȁn phûak-khǎo jʉ̀ng pǎy."
+  },
+  {
+   "id": "l94-p02",
+   "front": "La cause principale…",
+   "back": "ສາເຫດຫຼັກ · Sǎa-hēet lāk…"
+  },
+  {
+   "id": "l94-p03",
+   "front": "Ça provoque des problèmes.",
+   "back": "ມັນເຮັດໃຫ້ມີບັນຫາ · Mán hēt hây míi bǎn-hǎa."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ດັ່ງນັ້ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "donc, c'est pourquoi",
+      "la conséquence",
+      "cause",
+      "provoquer, faire que"
+     ],
+     "answer": "donc, c'est pourquoi",
+     "reveal": "<i>Dàng-nȁn</i>"
+    },
+    {
+     "audio": [
+      "ຈຶ່ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "(c'est pour cela que)",
+      "cause",
+      "la conséquence",
+      "il n'y a que"
+     ],
+     "answer": "(c'est pour cela que)",
+     "reveal": "<i>Jʉ̀ng</i>"
+    },
+    {
+     "audio": [
+      "ຜົນທີ່ຕາມມາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "la conséquence",
+      "il n'y a que",
+      "cause",
+      "provoquer, faire que"
+     ],
+     "answer": "la conséquence",
+     "reveal": "<i>Phǒn thīi tǎam máa</i>"
+    },
+    {
+     "audio": [
+      "ສາເຫດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "cause",
+      "donc, c'est pourquoi",
+      "la conséquence",
+      "(c'est pour cela que)"
+     ],
+     "answer": "cause",
+     "reveal": "<i>Sǎa-hēet</i>"
+    },
+    {
+     "audio": [
+      "ເຮັດໃຫ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "provoquer, faire que",
+      "la conséquence",
+      "cause",
+      "(c'est pour cela que)"
+     ],
+     "answer": "provoquer, faire que",
+     "reveal": "<i>Hēt hây</i>"
+    },
+    {
+     "audio": [
+      "ມີແຕ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "il n'y a que",
+      "(c'est pour cela que)",
+      "provoquer, faire que",
+      "la conséquence"
+     ],
+     "answer": "il n'y a que",
+     "reveal": "<i>Míi tɛ̀ɛ</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ດັ່ງນັ້ນພວກເຂົາຈຶ່ງໄປ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est pourquoi ils partent.",
+      "Ça provoque des problèmes.",
+      "La cause principale…"
+     ],
+     "answer": "C'est pourquoi ils partent.",
+     "reveal": "<i>Dàng-nȁn phûak-khǎo jʉ̀ng pǎy.</i>"
+    },
+    {
+     "audio": [
+      "ສາເຫດຫຼັກ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "La cause principale…",
+      "C'est pourquoi ils partent.",
+      "Ça provoque des problèmes."
+     ],
+     "answer": "La cause principale…",
+     "reveal": "<i>Sǎa-hēet lāk…</i>"
+    },
+    {
+     "audio": [
+      "ມັນເຮັດໃຫ້ມີບັນຫາ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Ça provoque des problèmes.",
+      "La cause principale…",
+      "C'est pourquoi ils partent."
+     ],
+     "answer": "Ça provoque des problèmes.",
+     "reveal": "<i>Mán hēt hây míi bǎn-hǎa.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ດັ່ງນັ້ນ",
+   "rom": "Dàng-nȁn",
+   "fr": "donc, c'est pourquoi",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈຶ່ງ",
+   "rom": "Jʉ̀ng",
+   "fr": "(c'est pour cela que)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຜົນທີ່ຕາມມາ",
+   "rom": "Phǒn thīi tǎam máa",
+   "fr": "la conséquence",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສາເຫດ",
+   "rom": "Sǎa-hēet",
+   "fr": "cause",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຮັດໃຫ້",
+   "rom": "Hēt hây",
+   "fr": "provoquer, faire que",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມີແຕ່",
+   "rom": "Míi tɛ̀ɛ",
+   "fr": "il n'y a que",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ດັ່ງນັ້ນພວກເຂົາຈຶ່ງໄປ",
+   "rom": "Dàng-nȁn phûak-khǎo jʉ̀ng pǎy.",
+   "fr": "C'est pourquoi ils partent.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສາເຫດຫຼັກ",
+   "rom": "Sǎa-hēet lāk…",
+   "fr": "La cause principale…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມັນເຮັດໃຫ້ມີບັນຫາ",
+   "rom": "Mán hēt hây míi bǎn-hǎa.",
+   "fr": "Ça provoque des problèmes.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ດັ່ງນັ້ນ",
+    "ພວກເຂົາ",
+    "ຈຶ່ງ",
+    "ໄປ"
+   ],
+   "rom": "Dàng-nȁn phûak-khǎo jʉ̀ng pǎy.",
+   "fr": "C'est pourquoi ils partent."
+  },
+  {
+   "tokens": [
+    "ສາເຫດ",
+    "ຫຼັກ"
+   ],
+   "rom": "Sǎa-hēet lāk…",
+   "fr": "La cause principale…"
+  },
+  {
+   "tokens": [
+    "ມັນ",
+    "ເຮັດ",
+    "ໃຫ້",
+    "ມີ",
+    "ບັນຫາ"
+   ],
+   "rom": "Mán hēt hây míi bǎn-hǎa.",
+   "fr": "Ça provoque des problèmes."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ດັ່ງນັ້ນ",
+   "rom": "Dàng-nȁn",
+   "fr": "donc, c'est pourquoi"
+  },
+  {
+   "lao": "ຈຶ່ງ",
+   "rom": "Jʉ̀ng",
+   "fr": "(c'est pour cela que)"
+  },
+  {
+   "lao": "ຜົນທີ່ຕາມມາ",
+   "rom": "Phǒn thīi tǎam máa",
+   "fr": "la conséquence"
+  },
+  {
+   "lao": "ສາເຫດ",
+   "rom": "Sǎa-hēet",
+   "fr": "cause"
+  },
+  {
+   "lao": "ເຮັດໃຫ້",
+   "rom": "Hēt hây",
+   "fr": "provoquer, faire que"
+  },
+  {
+   "lao": "ມີແຕ່",
+   "rom": "Míi tɛ̀ɛ",
+   "fr": "il n'y a que"
+  }
+ ],
+ "sounds": {
+  "ເຖິງແມ່ນວ່າ": "Thɤ̌ng-mɛ̄ɛn-wāa",
+  "ເຊື່ອມຕໍ່": "Sʉ̄am tɔ̀ɔ",
+  "ແຂວງ": "Khwɛ̌ɛng",
+  "ສະດວກ": "Sā-dȕak",
+  "ເປັນຫຍັງຄົນໜຸ່ມຈຶ່ງອອກຈາກບ້ານນອກ": "Pěn-nyǎng khón nùm jʉ̀ng ɔ̏ɔk jȁak bâan nɔ̂ɔk?",
+  "ຍ້ອນບໍ່ມີວຽກ ດັ່ງນັ້ນພວກເຂົາຈຶ່ງໄປຫາວຽກໃນເມືອງ": "Nyȍɔn bɔ̀ɔ míi wîak, dàng-nȁn phûak-khǎo jʉ̀ng pǎy hǎa wîak nǎy mʉ́ang.",
+  "ຜົນທີ່ຕາມມາແມ່ນບ້ານນອກມີແຕ່ຄົນເຖົ້າ": "Phǒn thīi tǎam máa mɛ̄ɛn bâan nɔ̂ɔk míi tɛ̀ɛ khón thâo.",
+  "ດັ່ງນັ້ນ": "dàng-nȁn",
+  "ຈຶ່ງ": "jʉ̀ng",
+  "ຜົນທີ່ຕາມມາ": "Phǒn thīi tǎam máa",
+  "ສາເຫດ": "sǎa-hēet",
+  "ເຮັດໃຫ້": "Hēt hây",
+  "ມີແຕ່": "Míi tɛ̀ɛ",
+  "ຍ້ອນ ດັ່ງນັ້ນ ຈຶ່ງ": "Nyȍɔn… dàng-nȁn… jʉ̀ng…",
+  "ຝົນເຮັດໃຫ້ນ້ຳຖ້ວມ": "Fǒn hēt hây nȁam thûam",
+  "ດັ່ງນັ້ນພວກເຂົາຈຶ່ງໄປ": "Dàng-nȁn phûak-khǎo jʉ̀ng pǎy.",
+  "ສາເຫດຫຼັກ": "Sǎa-hēet lāk…",
+  "ມັນເຮັດໃຫ້ມີບັນຫາ": "Mán hēt hây míi bǎn-hǎa.",
+  "ພວກເຂົາ": "phûak-khǎo",
+  "ໄປ": "pǎy",
+  "ຫຼັກ": "lāk",
+  "ມັນ": "mán",
+  "ເຮັດ": "hēt",
+  "ໃຫ້": "hây",
+  "ມີ": "míi",
+  "ບັນຫາ": "bǎn-hǎa"
+ },
+ "suivi": "LEÇON : 94 — Partie F (Argumenter, B2) · Cause et conséquence\nOBJECTIF : Expliquer un phénomène de société avec une chaîne de causes.\nNOTION : les chaînes causales\nVOCAB : Dàng-nȁn, Jʉ̀ng, Phǒn thīi tǎam máa, Sǎa-hēet, Hēt hây, Míi tɛ̀ɛ\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 95 — L'actualité"
+}

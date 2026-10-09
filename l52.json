@@ -31,7 +31,7 @@
   },
   {
    "title": "Point de langue : le but avec ເພື່ອ",
-   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ມາເພື່ອຮຽນ</span> <span class=\"rom\">Máa phʉ̄a hían</span> = venir pour étudier</li><li><span class=\"lo\">ຮຽນເພື່ອລົມກັບຄອບຄົວ</span> <span class=\"rom\">Hían phʉ̄a lóm kǎp khɔ̂ɔp-khúa</span> = apprendre pour parler avec la famille</li></ul><p><b>À toi de trouver :</b></p><ol><li>Que montre ເພື່ອ ?</li></ol><details><summary>La règle</summary><p>ເພື່ອ + verbe = pour, afin de. ເປັນ + métier = être (tel métier).</p></details>"
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ມາເພື່ອຮຽນ</span> <span class=\"rom\">Máa phʉ̄a hían</span> = venir pour étudier</li><li><span class=\"lo\">ຮຽນເພື່ອລົມກັບຄອບຄົວ</span> <span class=\"rom\">Hían phʉ̄a lóm káp khɔ̂ɔp-khúa</span> = apprendre pour parler avec la famille</li></ul><p><b>À toi de trouver :</b></p><ol><li>Que montre ເພື່ອ ?</li></ol><details><summary>La règle</summary><p>ເພື່ອ + verbe = pour, afin de. ເປັນ + métier = être (tel métier).</p></details>"
   },
   {
    "title": "Écoute",
@@ -39,7 +39,7 @@
   },
   {
    "title": "Expression orale",
-   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Tu fais quoi comme travail ?</li><li>Je suis professeure.</li><li>J&#x27;apprends le lao pour parler avec ma famille.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເຈົ້າເຮັດວຽກຫຍັງ?</span> <span class=\"rom\">Jâo hēt-wîak nyǎng?</span></li><li><span class=\"lo\">ຂ້ອຍເປັນຄູ</span> <span class=\"rom\">Khɔ̂ɔy pěn khúu.</span></li><li><span class=\"lo\">ຂ້ອຍຮຽນພາສາລາວເພື່ອລົມກັບຄອບຄົວ</span> <span class=\"rom\">Khɔ̂ɔy hían pháa-sǎa-láaw phʉ̄a lóm kǎp khɔ̂ɔp-khúa.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Tu fais quoi comme travail ?</li><li>Je suis professeure.</li><li>J&#x27;apprends le lao pour parler avec ma famille.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເຈົ້າເຮັດວຽກຫຍັງ?</span> <span class=\"rom\">Jâo hēt-wîak nyǎng?</span></li><li><span class=\"lo\">ຂ້ອຍເປັນຄູ</span> <span class=\"rom\">Khɔ̂ɔy pěn khúu.</span></li><li><span class=\"lo\">ຂ້ອຍຮຽນພາສາລາວເພື່ອລົມກັບຄອບຄົວ</span> <span class=\"rom\">Khɔ̂ɔy hían pháa-sǎa-láaw phʉ̄a lóm káp khɔ̂ɔp-khúa.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
   },
   {
    "title": "Expression écrite",
@@ -113,7 +113,7 @@
   {
    "id": "l52-p03",
    "front": "J'apprends le lao pour parler avec ma famille.",
-   "back": "ຂ້ອຍຮຽນພາສາລາວເພື່ອລົມກັບຄອບຄົວ · Khɔ̂ɔy hían pháa-sǎa-láaw phʉ̄a lóm kǎp khɔ̂ɔp-khúa."
+   "back": "ຂ້ອຍຮຽນພາສາລາວເພື່ອລົມກັບຄອບຄົວ · Khɔ̂ɔy hían pháa-sǎa-láaw phʉ̄a lóm káp khɔ̂ɔp-khúa."
   }
  ],
  "listening": [
@@ -356,7 +356,7 @@
       "Tu fais quoi comme travail ?"
      ],
      "answer": "J'apprends le lao pour parler avec ma famille.",
-     "reveal": "<i>Khɔ̂ɔy hían pháa-sǎa-láaw phʉ̄a lóm kǎp khɔ̂ɔp-khúa.</i>"
+     "reveal": "<i>Khɔ̂ɔy hían pháa-sǎa-láaw phʉ̄a lóm káp khɔ̂ɔp-khúa.</i>"
     }
    ]
   }
@@ -430,7 +430,7 @@
   },
   {
    "lao": "ຂ້ອຍຮຽນພາສາລາວເພື່ອລົມກັບຄອບຄົວ",
-   "rom": "Khɔ̂ɔy hían pháa-sǎa-láaw phʉ̄a lóm kǎp khɔ̂ɔp-khúa.",
+   "rom": "Khɔ̂ɔy hían pháa-sǎa-láaw phʉ̄a lóm káp khɔ̂ɔp-khúa.",
    "fr": "J'apprends le lao pour parler avec ma famille.",
    "kind": "phrase"
   }
@@ -464,7 +464,7 @@
     "ກັບ",
     "ຄອບຄົວ"
    ],
-   "rom": "Khɔ̂ɔy hían pháa-sǎa-láaw phʉ̄a lóm kǎp khɔ̂ɔp-khúa.",
+   "rom": "Khɔ̂ɔy hían pháa-sǎa-láaw phʉ̄a lóm káp khɔ̂ɔp-khúa.",
    "fr": "J'apprends le lao pour parler avec ma famille."
   }
  ],
@@ -534,16 +534,16 @@
   "ເພື່ອ": "phʉ̄a",
   "ບໍລິສັດ": "Bɔ̌ɔ-lī-sāt",
   "ມາເພື່ອຮຽນ": "Máa phʉ̄a hían",
-  "ຮຽນເພື່ອລົມກັບຄອບຄົວ": "Hían phʉ̄a lóm kǎp khɔ̂ɔp-khúa",
+  "ຮຽນເພື່ອລົມກັບຄອບຄົວ": "Hían phʉ̄a lóm káp khɔ̂ɔp-khúa",
   "ຂ້ອຍເປັນຄູ": "Khɔ̂ɔy pěn khúu.",
-  "ຂ້ອຍຮຽນພາສາລາວເພື່ອລົມກັບຄອບຄົວ": "Khɔ̂ɔy hían pháa-sǎa-láaw phʉ̄a lóm kǎp khɔ̂ɔp-khúa.",
+  "ຂ້ອຍຮຽນພາສາລາວເພື່ອລົມກັບຄອບຄົວ": "Khɔ̂ɔy hían pháa-sǎa-láaw phʉ̄a lóm káp khɔ̂ɔp-khúa.",
   "ເຈົ້າ": "jâo",
   "ຫຍັງ": "nyǎng",
   "ຂ້ອຍ": "khɔ̂ɔy",
   "ຮຽນ": "hían",
   "ພາສາລາວ": "pháa-sǎa-láaw",
   "ລົມ": "lóm",
-  "ກັບ": "kǎp",
+  "ກັບ": "káp",
   "ຄອບຄົວ": "khɔ̂ɔp-khúa"
  },
  "suivi": "LEÇON : 52 — Partie D (Raconter et organiser, A2) · Travail et études\nOBJECTIF : Parler de ton métier, de tes études et de leur but.\nNOTION : le but avec ເພື່ອ\nVOCAB : Hēt-wîak, Hēt-wîak nyǎng, Pěn, Khúu, Thāan-mɔ̌ɔ, Phā-nák-ngáan, Nāk-sʉ̄k-sǎa, Phʉ̄a, Bɔ̌ɔ-lī-sāt\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 53 — Pourquoi ? Parce que…"

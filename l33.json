@@ -19,7 +19,7 @@
   },
   {
    "title": "Dialogue",
-   "html": "<p class=\"muted\">Noy raconte sa journée type.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຕອນເຊົ້າຂ້ອຍຕື່ນຫົກໂມງ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ອາບນ້ຳ ກິນເຂົ້າ ແລ້ວໄປເຮັດວຽກ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເລີກວຽກຈັກໂມງ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຫ້າໂມງແລງ ແລ້ວກັບເຮືອນ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຕອນແລງເຮັດຫຍັງ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເບິ່ງໜັງແລ້ວນອນ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Tɔ̌ɔn-sȁo khɔ̂ɔy tʉ̀ʉn hōk móong.</span><br><span class=\"rom\">Ǎap-nȁam, kǐn-khâo, lɛ̏ɛw pǎy hēt-wîak.</span><br><span class=\"rom\">Lɤ̂ɤk wîak ják móong?</span><br><span class=\"rom\">Hâa móong lɛ́ɛng. Lɛ̏ɛw kǎp hʉ́an.</span><br><span class=\"rom\">Tɔ̌ɔn-lɛ́ɛng hēt nyǎng?</span><br><span class=\"rom\">Bɤ̀ng nǎng lɛ̏ɛw nɔ́ɔn.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Le matin, je me lève à 6 h.<br><b>Noy</b> — Je me douche, je mange, puis je vais travailler.<br><b>Clara</b> — Tu finis le travail à quelle heure ?<br><b>Noy</b> — À 17 h. Puis je rentre.<br><b>Clara</b> — Et le soir, tu fais quoi ?<br><b>Noy</b> — Je regarde un film puis je dors.</p></details>"
+   "html": "<p class=\"muted\">Noy raconte sa journée type.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຕອນເຊົ້າຂ້ອຍຕື່ນຫົກໂມງ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ອາບນ້ຳ ກິນເຂົ້າ ແລ້ວໄປເຮັດວຽກ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເລີກວຽກຈັກໂມງ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຫ້າໂມງແລງ ແລ້ວກັບເຮືອນ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຕອນແລງເຮັດຫຍັງ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເບິ່ງໜັງແລ້ວນອນ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Tɔ̌ɔn-sȁo khɔ̂ɔy tʉ̀ʉn hōk móong.</span><br><span class=\"rom\">Ǎap-nȁam, kǐn-khâo, lɛ̏ɛw pǎy hēt-wîak.</span><br><span class=\"rom\">Lɤ̂ɤk wîak ják móong?</span><br><span class=\"rom\">Hâa móong lɛ́ɛng. Lɛ̏ɛw káp hʉ́an.</span><br><span class=\"rom\">Tɔ̌ɔn-lɛ́ɛng hēt nyǎng?</span><br><span class=\"rom\">Bɤ̀ng nǎng lɛ̏ɛw nɔ́ɔn.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Le matin, je me lève à 6 h.<br><b>Noy</b> — Je me douche, je mange, puis je vais travailler.<br><b>Clara</b> — Tu finis le travail à quelle heure ?<br><b>Noy</b> — À 17 h. Puis je rentre.<br><b>Clara</b> — Et le soir, tu fais quoi ?<br><b>Noy</b> — Je regarde un film puis je dors.</p></details>"
   },
   {
    "title": "Compréhension",
@@ -27,7 +27,7 @@
   },
   {
    "title": "Vocabulaire et blocs",
-   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຕື່ນ</td><td class=\"rom\">Tʉ̀ʉn</td><td>se réveiller</td><td></td></tr><tr><td class=\"lo\">ອາບນ້ຳ</td><td class=\"rom\">Ǎap-nȁam</td><td>se doucher</td><td></td></tr><tr><td class=\"lo\">ເຮັດວຽກ</td><td class=\"rom\">Hēt-wîak</td><td>travailler</td><td></td></tr><tr><td class=\"lo\">ເລີກວຽກ</td><td class=\"rom\">Lɤ̂ɤk wîak</td><td>finir le travail</td><td></td></tr><tr><td class=\"lo\">ກັບເຮືອນ</td><td class=\"rom\">Kǎp hʉ́an</td><td>rentrer à la maison</td><td></td></tr><tr><td class=\"lo\">ເບິ່ງ</td><td class=\"rom\">Bɤ̀ng</td><td>regarder</td><td></td></tr><tr><td class=\"lo\">ໜັງ</td><td class=\"rom\">Nǎng</td><td>film</td><td></td></tr><tr><td class=\"lo\">ນອນ</td><td class=\"rom\">Nɔ́ɔn</td><td>dormir</td><td></td></tr><tr><td class=\"lo\">ແຕ່ງໂຕ</td><td class=\"rom\">Tɛ̀ɛng-tǒo</td><td>s&#x27;habiller</td><td></td></tr><tr><td class=\"lo\">ທຸກມື້</td><td class=\"rom\">Thūk-mʉ̂ʉ</td><td>tous les jours</td><td></td></tr></table></div>"
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຕື່ນ</td><td class=\"rom\">Tʉ̀ʉn</td><td>se réveiller</td><td></td></tr><tr><td class=\"lo\">ອາບນ້ຳ</td><td class=\"rom\">Ǎap-nȁam</td><td>se doucher</td><td></td></tr><tr><td class=\"lo\">ເຮັດວຽກ</td><td class=\"rom\">Hēt-wîak</td><td>travailler</td><td></td></tr><tr><td class=\"lo\">ເລີກວຽກ</td><td class=\"rom\">Lɤ̂ɤk wîak</td><td>finir le travail</td><td></td></tr><tr><td class=\"lo\">ກັບເຮືອນ</td><td class=\"rom\">Káp hʉ́an</td><td>rentrer à la maison</td><td></td></tr><tr><td class=\"lo\">ເບິ່ງ</td><td class=\"rom\">Bɤ̀ng</td><td>regarder</td><td></td></tr><tr><td class=\"lo\">ໜັງ</td><td class=\"rom\">Nǎng</td><td>film</td><td></td></tr><tr><td class=\"lo\">ນອນ</td><td class=\"rom\">Nɔ́ɔn</td><td>dormir</td><td></td></tr><tr><td class=\"lo\">ແຕ່ງໂຕ</td><td class=\"rom\">Tɛ̀ɛng-tǒo</td><td>s&#x27;habiller</td><td></td></tr><tr><td class=\"lo\">ທຸກມື້</td><td class=\"rom\">Thūk-mʉ̂ʉ</td><td>tous les jours</td><td></td></tr></table></div>"
   },
   {
    "title": "Point de langue : enchaîner les actions avec ແລ້ວ",
@@ -78,7 +78,7 @@
   {
    "id": "l33-v05",
    "front": "ກັບເຮືອນ",
-   "back": "Kǎp hʉ́an · rentrer à la maison"
+   "back": "Káp hʉ́an · rentrer à la maison"
   },
   {
    "id": "l33-v06",
@@ -200,7 +200,7 @@
       "dormir"
      ],
      "answer": "rentrer à la maison",
-     "reveal": "<i>Kǎp hʉ́an</i>"
+     "reveal": "<i>Káp hʉ́an</i>"
     },
     {
      "audio": [
@@ -334,7 +334,7 @@
       "Et le soir, tu fais quoi ?"
      ],
      "answer": "À 17 h. Puis je rentre.",
-     "reveal": "<i>Hâa móong lɛ́ɛng. Lɛ̏ɛw kǎp hʉ́an.</i>"
+     "reveal": "<i>Hâa móong lɛ́ɛng. Lɛ̏ɛw káp hʉ́an.</i>"
     },
     {
      "audio": [
@@ -457,7 +457,7 @@
   },
   {
    "lao": "ກັບເຮືອນ",
-   "rom": "Kǎp hʉ́an",
+   "rom": "Káp hʉ́an",
    "fr": "rentrer à la maison",
    "kind": "phrase"
   },
@@ -579,7 +579,7 @@
   },
   {
    "lao": "ກັບເຮືອນ",
-   "rom": "Kǎp hʉ́an",
+   "rom": "Káp hʉ́an",
    "fr": "rentrer à la maison"
   },
   {
@@ -616,14 +616,14 @@
   "ຕອນເຊົ້າຂ້ອຍຕື່ນຫົກໂມງ": "Tɔ̌ɔn-sȁo khɔ̂ɔy tʉ̀ʉn hōk móong.",
   "ອາບນ້ຳ ກິນເຂົ້າ ແລ້ວໄປເຮັດວຽກ": "Ǎap-nȁam, kǐn-khâo, lɛ̏ɛw pǎy hēt-wîak.",
   "ເລີກວຽກຈັກໂມງ": "Lɤ̂ɤk wîak ják móong?",
-  "ຫ້າໂມງແລງ ແລ້ວກັບເຮືອນ": "Hâa móong lɛ́ɛng. Lɛ̏ɛw kǎp hʉ́an.",
+  "ຫ້າໂມງແລງ ແລ້ວກັບເຮືອນ": "Hâa móong lɛ́ɛng. Lɛ̏ɛw káp hʉ́an.",
   "ຕອນແລງເຮັດຫຍັງ": "Tɔ̌ɔn-lɛ́ɛng hēt nyǎng?",
   "ເບິ່ງໜັງແລ້ວນອນ": "Bɤ̀ng nǎng lɛ̏ɛw nɔ́ɔn",
   "ຕື່ນ": "tʉ̀ʉn",
   "ອາບນ້ຳ": "Ǎap-nȁam",
   "ເຮັດວຽກ": "hēt-wîak",
   "ເລີກວຽກ": "Lɤ̂ɤk wîak",
-  "ກັບເຮືອນ": "Kǎp hʉ́an",
+  "ກັບເຮືອນ": "Káp hʉ́an",
   "ເບິ່ງ": "Bɤ̀ng",
   "ໜັງ": "Nǎng",
   "ນອນ": "nɔ́ɔn",
@@ -644,5 +644,5 @@
   "ຫ້າ": "hâa",
   "ທຸ່ມ": "thūm"
  },
- "suivi": "LEÇON : 33 — Partie C (Vie courante, A1) · Ma journée\nOBJECTIF : Décrire ta routine quotidienne dans l'ordre.\nNOTION : enchaîner les actions avec ແລ້ວ\nVOCAB : Tʉ̀ʉn, Ǎap-nȁam, Hēt-wîak, Lɤ̂ɤk wîak, Kǎp hʉ́an, Bɤ̀ng, Nǎng, Nɔ́ɔn, Tɛ̀ɛng-tǒo, Thūk-mʉ̂ʉ\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 34 — À qui est-ce ?"
+ "suivi": "LEÇON : 33 — Partie C (Vie courante, A1) · Ma journée\nOBJECTIF : Décrire ta routine quotidienne dans l'ordre.\nNOTION : enchaîner les actions avec ແລ້ວ\nVOCAB : Tʉ̀ʉn, Ǎap-nȁam, Hēt-wîak, Lɤ̂ɤk wîak, Káp hʉ́an, Bɤ̀ng, Nǎng, Nɔ́ɔn, Tɛ̀ɛng-tǒo, Thūk-mʉ̂ʉ\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 34 — À qui est-ce ?"
 }

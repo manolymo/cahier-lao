@@ -1,0 +1,451 @@
+{
+ "num": 98,
+ "phase": "Partie F · Argumenter",
+ "title": "Les expressions imagées (2)",
+ "objective": "Comprendre des images tirées du corps et des animaux.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>sensible, faible <small class=\"muted\">(leçon 97)</small></li><li>gouvernement <small class=\"muted\">(leçon 95)</small></li><li>enfin <small class=\"muted\">(leçon 91)</small></li><li>augmenter <small class=\"muted\">(leçon 84)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ໃຈອ່ອນ</span> <span class=\"rom\">Jǎy ɔ̀ɔn</span> · sensible, faible</li><li><span class=\"lo\">ລັດຖະບານ</span> <span class=\"rom\">Lāt-thā-báan</span> · gouvernement</li><li><span class=\"lo\">ສຸດທ້າຍ</span> <span class=\"rom\">Sūt-thȁay</span> · enfin</li><li><span class=\"lo\">ເພີ່ມຂຶ້ນ</span> <span class=\"rom\">Phɤ̄ɤm khʉ̂n</span> · augmenter</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Comprendre des images tirées du corps et des animaux.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Kèo et ses amis se taquinent.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ໝູ່ຂ້ອຍປາກຫວານຫຼາຍ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໝາຍຄວາມວ່າແນວໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ເວົ້າເກັ່ງ ເວົ້າໃຫ້ຄົນມັກ</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ແຕ່ລາວຫົວແຂງໂພດ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Mùu khɔ̂ɔy pȁak wǎan lǎay.</span><br><span class=\"rom\">Mǎay khwáam wāa nɛ́ɛw-dǎy?</span><br><span class=\"rom\">Wȁo kèng, wȁo hây khón māk.</span><br><span class=\"rom\">Tɛ̀ɛ láaw hǔa khɛ̌ɛng phôot.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Kèo</b> — Mon pote est un beau parleur (bouche sucrée).<br><b>Clara</b> — Ça veut dire quoi ?<br><b>Kèo</b> — Il parle bien, il sait se faire aimer.<br><b>Kèo</b> — Mais il est trop têtu (tête dure).</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que veut dire ປາກຫວານ ?</li><li>Et ຫົວແຂງ ?</li></ol><details><summary>Réponses</summary><ol><li>Beau parleur.</li><li>Têtu.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ປາກຫວານ</td><td class=\"rom\">Pȁak wǎan</td><td>beau parleur</td><td></td></tr><tr><td class=\"lo\">ຫົວແຂງ</td><td class=\"rom\">Hǔa khɛ̌ɛng</td><td>têtu</td><td></td></tr><tr><td class=\"lo\">ຫົວອ່ອນ</td><td class=\"rom\">Hǔa ɔ̀ɔn</td><td>docile</td><td></td></tr><tr><td class=\"lo\">ໜ້າໜາ</td><td class=\"rom\">Nâa nǎa</td><td>effronté (visage épais)</td><td></td></tr><tr><td class=\"lo\">ຕາໄວ</td><td class=\"rom\">Tǎa wáy</td><td>observateur (œil rapide)</td><td></td></tr><tr><td class=\"lo\">ໝາຍຄວາມວ່າ</td><td class=\"rom\">Mǎay khwáam wāa</td><td>signifier</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les métaphores du corps",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ປາກຫວານ</span> <span class=\"rom\">Pȁak wǎan</span> = bouche + sucré</li><li><span class=\"lo\">ໜ້າໜາ</span> <span class=\"rom\">Nâa nǎa</span> = visage + épais</li></ul><details><summary>La règle</summary><p>Beaucoup d'expressions lao combinent une partie du corps et un adjectif. Elles décrivent le caractère. [Sens À VÉRIFIER avec un natif]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les expressions imagées.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Ça veut dire quoi ?</li><li>Il est têtu.</li><li>Beau parleur !</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ໝາຍຄວາມວ່າແນວໃດ?</span> <span class=\"rom\">Mǎay khwáam wāa nɛ́ɛw-dǎy?</span></li><li><span class=\"lo\">ລາວຫົວແຂງ</span> <span class=\"rom\">Láaw hǔa khɛ̌ɛng.</span></li><li><span class=\"lo\">ປາກຫວານ!</span> <span class=\"rom\">Pȁak wǎan!</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Crée un petit portrait de 5 phrases avec des expressions imagées.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Fais deviner à un natif le sens d&#x27;expressions françaises et demande les lao équivalentes.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>9 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l98-v01",
+   "front": "ປາກຫວານ",
+   "back": "Pȁak wǎan · beau parleur"
+  },
+  {
+   "id": "l98-v02",
+   "front": "ຫົວແຂງ",
+   "back": "Hǔa khɛ̌ɛng · têtu"
+  },
+  {
+   "id": "l98-v03",
+   "front": "ຫົວອ່ອນ",
+   "back": "Hǔa ɔ̀ɔn · docile"
+  },
+  {
+   "id": "l98-v04",
+   "front": "ໜ້າໜາ",
+   "back": "Nâa nǎa · effronté (visage épais)"
+  },
+  {
+   "id": "l98-v05",
+   "front": "ຕາໄວ",
+   "back": "Tǎa wáy · observateur (œil rapide)"
+  },
+  {
+   "id": "l98-v06",
+   "front": "ໝາຍຄວາມວ່າ",
+   "back": "Mǎay khwáam wāa · signifier"
+  },
+  {
+   "id": "l98-p01",
+   "front": "Ça veut dire quoi ?",
+   "back": "ໝາຍຄວາມວ່າແນວໃດ? · Mǎay khwáam wāa nɛ́ɛw-dǎy?"
+  },
+  {
+   "id": "l98-p02",
+   "front": "Il est têtu.",
+   "back": "ລາວຫົວແຂງ · Láaw hǔa khɛ̌ɛng."
+  },
+  {
+   "id": "l98-p03",
+   "front": "Beau parleur !",
+   "back": "ປາກຫວານ! · Pȁak wǎan!"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ປາກຫວານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "beau parleur",
+      "effronté (visage épais)",
+      "docile",
+      "têtu"
+     ],
+     "answer": "beau parleur",
+     "reveal": "<i>Pȁak wǎan</i>"
+    },
+    {
+     "audio": [
+      "ຫົວແຂງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "têtu",
+      "observateur (œil rapide)",
+      "beau parleur",
+      "signifier"
+     ],
+     "answer": "têtu",
+     "reveal": "<i>Hǔa khɛ̌ɛng</i>"
+    },
+    {
+     "audio": [
+      "ຫົວອ່ອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "docile",
+      "observateur (œil rapide)",
+      "effronté (visage épais)",
+      "têtu"
+     ],
+     "answer": "docile",
+     "reveal": "<i>Hǔa ɔ̀ɔn</i>"
+    },
+    {
+     "audio": [
+      "ໜ້າໜາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "effronté (visage épais)",
+      "signifier",
+      "beau parleur",
+      "têtu"
+     ],
+     "answer": "effronté (visage épais)",
+     "reveal": "<i>Nâa nǎa</i>"
+    },
+    {
+     "audio": [
+      "ຕາໄວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "observateur (œil rapide)",
+      "beau parleur",
+      "signifier",
+      "effronté (visage épais)"
+     ],
+     "answer": "observateur (œil rapide)",
+     "reveal": "<i>Tǎa wáy</i>"
+    },
+    {
+     "audio": [
+      "ໝາຍຄວາມວ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "signifier",
+      "observateur (œil rapide)",
+      "effronté (visage épais)",
+      "têtu"
+     ],
+     "answer": "signifier",
+     "reveal": "<i>Mǎay khwáam wāa</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ໝູ່ຂ້ອຍປາກຫວານຫຼາຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Mon pote est un beau parleur (bouche sucrée).",
+      "Ça veut dire quoi ?",
+      "Il parle bien, il sait se faire aimer.",
+      "Mais il est trop têtu (tête dure)."
+     ],
+     "answer": "Mon pote est un beau parleur (bouche sucrée).",
+     "reveal": "<i>Mùu khɔ̂ɔy pȁak wǎan lǎay.</i>"
+    },
+    {
+     "audio": [
+      "ໝາຍຄວາມວ່າແນວໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Ça veut dire quoi ?",
+      "Il parle bien, il sait se faire aimer.",
+      "Mais il est trop têtu (tête dure).",
+      "Mon pote est un beau parleur (bouche sucrée)."
+     ],
+     "answer": "Ça veut dire quoi ?",
+     "reveal": "<i>Mǎay khwáam wāa nɛ́ɛw-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ເວົ້າເກັ່ງ ເວົ້າໃຫ້ຄົນມັກ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Il parle bien, il sait se faire aimer.",
+      "Mon pote est un beau parleur (bouche sucrée).",
+      "Mais il est trop têtu (tête dure).",
+      "Ça veut dire quoi ?"
+     ],
+     "answer": "Il parle bien, il sait se faire aimer.",
+     "reveal": "<i>Wȁo kèng, wȁo hây khón māk.</i>"
+    },
+    {
+     "audio": [
+      "ແຕ່ລາວຫົວແຂງໂພດ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Mais il est trop têtu (tête dure).",
+      "Ça veut dire quoi ?",
+      "Il parle bien, il sait se faire aimer.",
+      "Mon pote est un beau parleur (bouche sucrée)."
+     ],
+     "answer": "Mais il est trop têtu (tête dure).",
+     "reveal": "<i>Tɛ̀ɛ láaw hǔa khɛ̌ɛng phôot.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ໝາຍຄວາມວ່າແນວໃດ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Ça veut dire quoi ?",
+      "Beau parleur !",
+      "Il est têtu."
+     ],
+     "answer": "Ça veut dire quoi ?",
+     "reveal": "<i>Mǎay khwáam wāa nɛ́ɛw-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ລາວຫົວແຂງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il est têtu.",
+      "Beau parleur !",
+      "Ça veut dire quoi ?"
+     ],
+     "answer": "Il est têtu.",
+     "reveal": "<i>Láaw hǔa khɛ̌ɛng.</i>"
+    },
+    {
+     "audio": [
+      "ປາກຫວານ!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Beau parleur !",
+      "Il est têtu.",
+      "Ça veut dire quoi ?"
+     ],
+     "answer": "Beau parleur !",
+     "reveal": "<i>Pȁak wǎan!</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ປາກຫວານ",
+   "rom": "Pȁak wǎan",
+   "fr": "beau parleur",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫົວແຂງ",
+   "rom": "Hǔa khɛ̌ɛng",
+   "fr": "têtu",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫົວອ່ອນ",
+   "rom": "Hǔa ɔ̀ɔn",
+   "fr": "docile",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໜ້າໜາ",
+   "rom": "Nâa nǎa",
+   "fr": "effronté (visage épais)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕາໄວ",
+   "rom": "Tǎa wáy",
+   "fr": "observateur (œil rapide)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໝາຍຄວາມວ່າ",
+   "rom": "Mǎay khwáam wāa",
+   "fr": "signifier",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໝາຍຄວາມວ່າແນວໃດ?",
+   "rom": "Mǎay khwáam wāa nɛ́ɛw-dǎy?",
+   "fr": "Ça veut dire quoi ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລາວຫົວແຂງ",
+   "rom": "Láaw hǔa khɛ̌ɛng.",
+   "fr": "Il est têtu.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ປາກຫວານ!",
+   "rom": "Pȁak wǎan!",
+   "fr": "Beau parleur !",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ໝາຍ",
+    "ຄວາມ",
+    "ວ່າ",
+    "ແນວໃດ"
+   ],
+   "rom": "Mǎay khwáam wāa nɛ́ɛw-dǎy?",
+   "fr": "Ça veut dire quoi ?"
+  },
+  {
+   "tokens": [
+    "ລາວ",
+    "ຫົວ",
+    "ແຂງ"
+   ],
+   "rom": "Láaw hǔa khɛ̌ɛng.",
+   "fr": "Il est têtu."
+  },
+  {
+   "tokens": [
+    "ປາກ",
+    "ຫວານ"
+   ],
+   "rom": "Pȁak wǎan!",
+   "fr": "Beau parleur !"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ປາກຫວານ",
+   "rom": "Pȁak wǎan",
+   "fr": "beau parleur"
+  },
+  {
+   "lao": "ຫົວແຂງ",
+   "rom": "Hǔa khɛ̌ɛng",
+   "fr": "têtu"
+  },
+  {
+   "lao": "ຫົວອ່ອນ",
+   "rom": "Hǔa ɔ̀ɔn",
+   "fr": "docile"
+  },
+  {
+   "lao": "ໜ້າໜາ",
+   "rom": "Nâa nǎa",
+   "fr": "effronté (visage épais)"
+  },
+  {
+   "lao": "ຕາໄວ",
+   "rom": "Tǎa wáy",
+   "fr": "observateur (œil rapide)"
+  },
+  {
+   "lao": "ໝາຍຄວາມວ່າ",
+   "rom": "Mǎay khwáam wāa",
+   "fr": "signifier"
+  }
+ ],
+ "sounds": {
+  "ໃຈອ່ອນ": "Jǎy ɔ̀ɔn",
+  "ລັດຖະບານ": "Lāt-thā-báan",
+  "ສຸດທ້າຍ": "Sūt-thȁay",
+  "ເພີ່ມຂຶ້ນ": "Phɤ̄ɤm khʉ̂n",
+  "ໝູ່ຂ້ອຍປາກຫວານຫຼາຍ": "Mùu khɔ̂ɔy pȁak wǎan lǎay.",
+  "ໝາຍຄວາມວ່າແນວໃດ": "Mǎay khwáam wāa nɛ́ɛw-dǎy?",
+  "ເວົ້າເກັ່ງ ເວົ້າໃຫ້ຄົນມັກ": "Wȁo kèng, wȁo hây khón māk.",
+  "ແຕ່ລາວຫົວແຂງໂພດ": "Tɛ̀ɛ láaw hǔa khɛ̌ɛng phôot.",
+  "ປາກຫວານ": "Pȁak wǎan!",
+  "ຫົວແຂງ": "Hǔa khɛ̌ɛng",
+  "ຫົວອ່ອນ": "Hǔa ɔ̀ɔn",
+  "ໜ້າໜາ": "Nâa nǎa",
+  "ຕາໄວ": "Tǎa wáy",
+  "ໝາຍຄວາມວ່າ": "Mǎay khwáam wāa",
+  "ລາວຫົວແຂງ": "Láaw hǔa khɛ̌ɛng.",
+  "ໝາຍ": "mǎay",
+  "ຄວາມ": "khwáam",
+  "ວ່າ": "wāa",
+  "ແນວໃດ": "nɛ́ɛw-dǎy",
+  "ລາວ": "láaw",
+  "ຫົວ": "hǔa",
+  "ແຂງ": "khɛ̌ɛng",
+  "ປາກ": "pȁak",
+  "ຫວານ": "wǎan"
+ },
+ "suivi": "LEÇON : 98 — Partie F (Argumenter, B2) · Les expressions imagées (2)\nOBJECTIF : Comprendre des images tirées du corps et des animaux.\nNOTION : les métaphores du corps\nVOCAB : Pȁak wǎan, Hǔa khɛ̌ɛng, Hǔa ɔ̀ɔn, Nâa nǎa, Tǎa wáy, Mǎay khwáam wāa\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 99 — L'humour"
+}

@@ -1,0 +1,531 @@
+{
+ "num": 104,
+ "phase": "Partie F · Argumenter",
+ "title": "Économie du quotidien",
+ "objective": "Discuter de prix, de salaires et de commerce avec des chiffres.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>écriture, lettres <small class=\"muted\">(leçon 103)</small></li><li>t&#x27;étais où ? <small class=\"muted\">(leçon 101)</small></li><li>mesquin (cœur étroit) <small class=\"muted\">(leçon 97)</small></li><li>de plus en plus <small class=\"muted\">(leçon 90)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຕົວໜັງສື</span> <span class=\"rom\">Tǔa-nǎng-sʉ̌ʉ</span> · écriture, lettres</li><li><span class=\"lo\">ໄປໃສມາ</span> <span class=\"rom\">Pǎy sǎy máa</span> · t&#x27;étais où ?</li><li><span class=\"lo\">ໃຈແຄບ</span> <span class=\"rom\">Jǎy khɛ̂ɛp</span> · mesquin (cœur étroit)</li><li><span class=\"lo\">ຫຼາຍຂຶ້ນ</span> <span class=\"rom\">Lǎay khʉ̂n</span> · de plus en plus</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Discuter de prix, de salaires et de commerce avec des chiffres.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">M. Somsak parle de son commerce.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ປີນີ້ຍອດຂາຍເພີ່ມຂຶ້ນສິບເປີເຊັນ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຍ້ອນຫຍັງ?</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ນັກທ່ອງທ່ຽວຫຼາຍຂຶ້ນ ແຕ່ຕົ້ນທຶນກໍສູງຂຶ້ນ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເງິນເຟີ້ສູງບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ສູງຫຼາຍ ເງິນກີບອ່ອນຄ່າ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Pǐi-nȉi nyɔ̂ɔt khǎay phɤ̄ɤm khʉ̂n sīp pɤ̌ɤ-sén.</span><br><span class=\"rom\">Nyȍɔn nyǎng?</span><br><span class=\"rom\">Nāk-thɔ̄ɔng-thīaw lǎay khʉ̂n. Tɛ̀ɛ tôn-thʉ̌n kɔ̂ɔ sǔung khʉ̂n.</span><br><span class=\"rom\">Ngɤ́n-fɤ̂ɤ sǔung bɔ̌ɔ?</span><br><span class=\"rom\">Sǔung lǎay, ngɤ́n kȉip ɔ̀ɔn khāa.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>M. Somsak</b> — Cette année, les ventes ont augmenté de 10 %.<br><b>Clara</b> — Grâce à quoi ?<br><b>M. Somsak</b> — Plus de touristes. Mais les coûts ont aussi augmenté.<br><b>Clara</b> — L&#x27;inflation est forte ?<br><b>M. Somsak</b> — Très, le kip a perdu de la valeur.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>De combien les ventes ont-elles augmenté ?</li><li>Quel problème ?</li></ol><details><summary>Réponses</summary><ol><li>10 %.</li><li>L&#x27;inflation et la hausse des coûts.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຍອດຂາຍ</td><td class=\"rom\">Nyɔ̂ɔt khǎay</td><td>chiffre de ventes</td><td></td></tr><tr><td class=\"lo\">ເປີເຊັນ</td><td class=\"rom\">Pɤ̌ɤ-sén</td><td>pour cent</td><td></td></tr><tr><td class=\"lo\">ຕົ້ນທຶນ</td><td class=\"rom\">Tôn-thʉ̌n</td><td>coût</td><td></td></tr><tr><td class=\"lo\">ກຳໄລ</td><td class=\"rom\">Kǎm-láy</td><td>bénéfice</td><td></td></tr><tr><td class=\"lo\">ເງິນເຟີ້</td><td class=\"rom\">Ngɤ́n-fɤ̂ɤ</td><td>inflation</td><td></td></tr><tr><td class=\"lo\">ອ່ອນຄ່າ</td><td class=\"rom\">Ɔ̀ɔn khāa</td><td>perdre de la valeur</td><td></td></tr><tr><td class=\"lo\">ລາຍໄດ້</td><td class=\"rom\">Láay-dâay</td><td>revenu</td><td></td></tr><tr><td class=\"lo\">ເງິນເດືອນ</td><td class=\"rom\">Ngɤ́n-dʉ̌an</td><td>salaire</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les chiffres et les tendances",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ເພີ່ມຂຶ້ນສິບເປີເຊັນ</span> <span class=\"rom\">Phɤ̄ɤm khʉ̂n sīp pɤ̌ɤ-sén</span> = augmenter de 10 %</li><li><span class=\"lo\">ຫຼຸດລົງເຄິ່ງໜຶ່ງ</span> <span class=\"rom\">Lūt lóng khɤ̄ng nʉ̀ng</span> = baisser de moitié</li></ul><details><summary>La règle</summary><p>Verbe de tendance + ຂຶ້ນ / ລົງ + chiffre. ເຄິ່ງໜຶ່ງ = la moitié, ສອງເທົ່າ = le double.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les pourcentages.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Les ventes ont augmenté de 10 %.</li><li>Les coûts ont augmenté.</li><li>L&#x27;inflation est forte.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຍອດຂາຍເພີ່ມຂຶ້ນສິບເປີເຊັນ</span> <span class=\"rom\">Nyɔ̂ɔt khǎay phɤ̄ɤm khʉ̂n sīp pɤ̌ɤ-sén.</span></li><li><span class=\"lo\">ຕົ້ນທຶນສູງຂຶ້ນ</span> <span class=\"rom\">Tôn-thʉ̌n sǔung khʉ̂n.</span></li><li><span class=\"lo\">ເງິນເຟີ້ສູງ</span> <span class=\"rom\">Ngɤ́n-fɤ̂ɤ sǔung.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Compare le coût de la vie en France et au Laos en 8 phrases avec des chiffres.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Discute du coût de la vie avec un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>11 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l104-v01",
+   "front": "ຍອດຂາຍ",
+   "back": "Nyɔ̂ɔt khǎay · chiffre de ventes"
+  },
+  {
+   "id": "l104-v02",
+   "front": "ເປີເຊັນ",
+   "back": "Pɤ̌ɤ-sén · pour cent"
+  },
+  {
+   "id": "l104-v03",
+   "front": "ຕົ້ນທຶນ",
+   "back": "Tôn-thʉ̌n · coût"
+  },
+  {
+   "id": "l104-v04",
+   "front": "ກຳໄລ",
+   "back": "Kǎm-láy · bénéfice"
+  },
+  {
+   "id": "l104-v05",
+   "front": "ເງິນເຟີ້",
+   "back": "Ngɤ́n-fɤ̂ɤ · inflation"
+  },
+  {
+   "id": "l104-v06",
+   "front": "ອ່ອນຄ່າ",
+   "back": "Ɔ̀ɔn khāa · perdre de la valeur"
+  },
+  {
+   "id": "l104-v07",
+   "front": "ລາຍໄດ້",
+   "back": "Láay-dâay · revenu"
+  },
+  {
+   "id": "l104-v08",
+   "front": "ເງິນເດືອນ",
+   "back": "Ngɤ́n-dʉ̌an · salaire"
+  },
+  {
+   "id": "l104-p01",
+   "front": "Les ventes ont augmenté de 10 %.",
+   "back": "ຍອດຂາຍເພີ່ມຂຶ້ນສິບເປີເຊັນ · Nyɔ̂ɔt khǎay phɤ̄ɤm khʉ̂n sīp pɤ̌ɤ-sén."
+  },
+  {
+   "id": "l104-p02",
+   "front": "Les coûts ont augmenté.",
+   "back": "ຕົ້ນທຶນສູງຂຶ້ນ · Tôn-thʉ̌n sǔung khʉ̂n."
+  },
+  {
+   "id": "l104-p03",
+   "front": "L'inflation est forte.",
+   "back": "ເງິນເຟີ້ສູງ · Ngɤ́n-fɤ̂ɤ sǔung."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຍອດຂາຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "chiffre de ventes",
+      "salaire",
+      "pour cent",
+      "inflation"
+     ],
+     "answer": "chiffre de ventes",
+     "reveal": "<i>Nyɔ̂ɔt khǎay</i>"
+    },
+    {
+     "audio": [
+      "ເປີເຊັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pour cent",
+      "coût",
+      "bénéfice",
+      "chiffre de ventes"
+     ],
+     "answer": "pour cent",
+     "reveal": "<i>Pɤ̌ɤ-sén</i>"
+    },
+    {
+     "audio": [
+      "ຕົ້ນທຶນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "coût",
+      "inflation",
+      "chiffre de ventes",
+      "salaire"
+     ],
+     "answer": "coût",
+     "reveal": "<i>Tôn-thʉ̌n</i>"
+    },
+    {
+     "audio": [
+      "ກຳໄລ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "bénéfice",
+      "chiffre de ventes",
+      "coût",
+      "perdre de la valeur"
+     ],
+     "answer": "bénéfice",
+     "reveal": "<i>Kǎm-láy</i>"
+    },
+    {
+     "audio": [
+      "ເງິນເຟີ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "inflation",
+      "pour cent",
+      "bénéfice",
+      "salaire"
+     ],
+     "answer": "inflation",
+     "reveal": "<i>Ngɤ́n-fɤ̂ɤ</i>"
+    },
+    {
+     "audio": [
+      "ອ່ອນຄ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "perdre de la valeur",
+      "inflation",
+      "pour cent",
+      "bénéfice"
+     ],
+     "answer": "perdre de la valeur",
+     "reveal": "<i>Ɔ̀ɔn khāa</i>"
+    },
+    {
+     "audio": [
+      "ລາຍໄດ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "revenu",
+      "bénéfice",
+      "salaire",
+      "coût"
+     ],
+     "answer": "revenu",
+     "reveal": "<i>Láay-dâay</i>"
+    },
+    {
+     "audio": [
+      "ເງິນເດືອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "salaire",
+      "perdre de la valeur",
+      "bénéfice",
+      "pour cent"
+     ],
+     "answer": "salaire",
+     "reveal": "<i>Ngɤ́n-dʉ̌an</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ປີນີ້ຍອດຂາຍເພີ່ມຂຶ້ນສິບເປີເຊັນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Cette année, les ventes ont augmenté de 10 %.",
+      "L'inflation est forte ?",
+      "Grâce à quoi ?",
+      "Plus de touristes. Mais les coûts ont aussi augmenté."
+     ],
+     "answer": "Cette année, les ventes ont augmenté de 10 %.",
+     "reveal": "<i>Pǐi-nȉi nyɔ̂ɔt khǎay phɤ̄ɤm khʉ̂n sīp pɤ̌ɤ-sén.</i>"
+    },
+    {
+     "audio": [
+      "ຍ້ອນຫຍັງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Grâce à quoi ?",
+      "L'inflation est forte ?",
+      "Très, le kip a perdu de la valeur.",
+      "Cette année, les ventes ont augmenté de 10 %."
+     ],
+     "answer": "Grâce à quoi ?",
+     "reveal": "<i>Nyȍɔn nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ນັກທ່ອງທ່ຽວຫຼາຍຂຶ້ນ ແຕ່ຕົ້ນທຶນກໍສູງຂຶ້ນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Plus de touristes. Mais les coûts ont aussi augmenté.",
+      "Grâce à quoi ?",
+      "Cette année, les ventes ont augmenté de 10 %.",
+      "L'inflation est forte ?"
+     ],
+     "answer": "Plus de touristes. Mais les coûts ont aussi augmenté.",
+     "reveal": "<i>Nāk-thɔ̄ɔng-thīaw lǎay khʉ̂n. Tɛ̀ɛ tôn-thʉ̌n kɔ̂ɔ sǔung khʉ̂n.</i>"
+    },
+    {
+     "audio": [
+      "ເງິນເຟີ້ສູງບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "L'inflation est forte ?",
+      "Très, le kip a perdu de la valeur.",
+      "Grâce à quoi ?",
+      "Cette année, les ventes ont augmenté de 10 %."
+     ],
+     "answer": "L'inflation est forte ?",
+     "reveal": "<i>Ngɤ́n-fɤ̂ɤ sǔung bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ສູງຫຼາຍ ເງິນກີບອ່ອນຄ່າ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Très, le kip a perdu de la valeur.",
+      "Grâce à quoi ?",
+      "Plus de touristes. Mais les coûts ont aussi augmenté.",
+      "Cette année, les ventes ont augmenté de 10 %."
+     ],
+     "answer": "Très, le kip a perdu de la valeur.",
+     "reveal": "<i>Sǔung lǎay, ngɤ́n kȉip ɔ̀ɔn khāa.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຍອດຂາຍເພີ່ມຂຶ້ນສິບເປີເຊັນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Les ventes ont augmenté de 10 %.",
+      "L'inflation est forte.",
+      "Les coûts ont augmenté."
+     ],
+     "answer": "Les ventes ont augmenté de 10 %.",
+     "reveal": "<i>Nyɔ̂ɔt khǎay phɤ̄ɤm khʉ̂n sīp pɤ̌ɤ-sén.</i>"
+    },
+    {
+     "audio": [
+      "ຕົ້ນທຶນສູງຂຶ້ນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Les coûts ont augmenté.",
+      "L'inflation est forte.",
+      "Les ventes ont augmenté de 10 %."
+     ],
+     "answer": "Les coûts ont augmenté.",
+     "reveal": "<i>Tôn-thʉ̌n sǔung khʉ̂n.</i>"
+    },
+    {
+     "audio": [
+      "ເງິນເຟີ້ສູງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "L'inflation est forte.",
+      "Les coûts ont augmenté.",
+      "Les ventes ont augmenté de 10 %."
+     ],
+     "answer": "L'inflation est forte.",
+     "reveal": "<i>Ngɤ́n-fɤ̂ɤ sǔung.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຍອດຂາຍ",
+   "rom": "Nyɔ̂ɔt khǎay",
+   "fr": "chiffre de ventes",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເປີເຊັນ",
+   "rom": "Pɤ̌ɤ-sén",
+   "fr": "pour cent",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕົ້ນທຶນ",
+   "rom": "Tôn-thʉ̌n",
+   "fr": "coût",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກຳໄລ",
+   "rom": "Kǎm-láy",
+   "fr": "bénéfice",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເງິນເຟີ້",
+   "rom": "Ngɤ́n-fɤ̂ɤ",
+   "fr": "inflation",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອ່ອນຄ່າ",
+   "rom": "Ɔ̀ɔn khāa",
+   "fr": "perdre de la valeur",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລາຍໄດ້",
+   "rom": "Láay-dâay",
+   "fr": "revenu",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເງິນເດືອນ",
+   "rom": "Ngɤ́n-dʉ̌an",
+   "fr": "salaire",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍອດຂາຍເພີ່ມຂຶ້ນສິບເປີເຊັນ",
+   "rom": "Nyɔ̂ɔt khǎay phɤ̄ɤm khʉ̂n sīp pɤ̌ɤ-sén.",
+   "fr": "Les ventes ont augmenté de 10 %.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕົ້ນທຶນສູງຂຶ້ນ",
+   "rom": "Tôn-thʉ̌n sǔung khʉ̂n.",
+   "fr": "Les coûts ont augmenté.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເງິນເຟີ້ສູງ",
+   "rom": "Ngɤ́n-fɤ̂ɤ sǔung.",
+   "fr": "L'inflation est forte.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຍອດ",
+    "ຂາຍ",
+    "ເພີ່ມ",
+    "ຂຶ້ນ",
+    "ສິບ",
+    "ເປີເຊັນ"
+   ],
+   "rom": "Nyɔ̂ɔt khǎay phɤ̄ɤm khʉ̂n sīp pɤ̌ɤ-sén.",
+   "fr": "Les ventes ont augmenté de 10 %."
+  },
+  {
+   "tokens": [
+    "ຕົ້ນທຶນ",
+    "ສູງ",
+    "ຂຶ້ນ"
+   ],
+   "rom": "Tôn-thʉ̌n sǔung khʉ̂n.",
+   "fr": "Les coûts ont augmenté."
+  },
+  {
+   "tokens": [
+    "ເງິນເຟີ້",
+    "ສູງ"
+   ],
+   "rom": "Ngɤ́n-fɤ̂ɤ sǔung.",
+   "fr": "L'inflation est forte."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຍອດຂາຍ",
+   "rom": "Nyɔ̂ɔt khǎay",
+   "fr": "chiffre de ventes"
+  },
+  {
+   "lao": "ເປີເຊັນ",
+   "rom": "Pɤ̌ɤ-sén",
+   "fr": "pour cent"
+  },
+  {
+   "lao": "ຕົ້ນທຶນ",
+   "rom": "Tôn-thʉ̌n",
+   "fr": "coût"
+  },
+  {
+   "lao": "ກຳໄລ",
+   "rom": "Kǎm-láy",
+   "fr": "bénéfice"
+  },
+  {
+   "lao": "ເງິນເຟີ້",
+   "rom": "Ngɤ́n-fɤ̂ɤ",
+   "fr": "inflation"
+  },
+  {
+   "lao": "ອ່ອນຄ່າ",
+   "rom": "Ɔ̀ɔn khāa",
+   "fr": "perdre de la valeur"
+  },
+  {
+   "lao": "ລາຍໄດ້",
+   "rom": "Láay-dâay",
+   "fr": "revenu"
+  },
+  {
+   "lao": "ເງິນເດືອນ",
+   "rom": "Ngɤ́n-dʉ̌an",
+   "fr": "salaire"
+  }
+ ],
+ "sounds": {
+  "ຕົວໜັງສື": "Tǔa-nǎng-sʉ̌ʉ",
+  "ໄປໃສມາ": "Pǎy sǎy máa",
+  "ໃຈແຄບ": "Jǎy khɛ̂ɛp",
+  "ຫຼາຍຂຶ້ນ": "Lǎay khʉ̂n",
+  "ປີນີ້ຍອດຂາຍເພີ່ມຂຶ້ນສິບເປີເຊັນ": "Pǐi-nȉi nyɔ̂ɔt khǎay phɤ̄ɤm khʉ̂n sīp pɤ̌ɤ-sén.",
+  "ຍ້ອນຫຍັງ": "Nyȍɔn nyǎng?",
+  "ນັກທ່ອງທ່ຽວຫຼາຍຂຶ້ນ ແຕ່ຕົ້ນທຶນກໍສູງຂຶ້ນ": "Nāk-thɔ̄ɔng-thīaw lǎay khʉ̂n. Tɛ̀ɛ tôn-thʉ̌n kɔ̂ɔ sǔung khʉ̂n.",
+  "ເງິນເຟີ້ສູງບໍ": "Ngɤ́n-fɤ̂ɤ sǔung bɔ̌ɔ?",
+  "ສູງຫຼາຍ ເງິນກີບອ່ອນຄ່າ": "Sǔung lǎay, ngɤ́n kȉip ɔ̀ɔn khāa.",
+  "ຍອດຂາຍ": "Nyɔ̂ɔt khǎay",
+  "ເປີເຊັນ": "pɤ̌ɤ-sén",
+  "ຕົ້ນທຶນ": "tôn-thʉ̌n",
+  "ກຳໄລ": "Kǎm-láy",
+  "ເງິນເຟີ້": "ngɤ́n-fɤ̂ɤ",
+  "ອ່ອນຄ່າ": "Ɔ̀ɔn khāa",
+  "ລາຍໄດ້": "Láay-dâay",
+  "ເງິນເດືອນ": "Ngɤ́n-dʉ̌an",
+  "ເພີ່ມຂຶ້ນສິບເປີເຊັນ": "Phɤ̄ɤm khʉ̂n sīp pɤ̌ɤ-sén",
+  "ຫຼຸດລົງເຄິ່ງໜຶ່ງ": "Lūt lóng khɤ̄ng nʉ̀ng",
+  "ຍອດຂາຍເພີ່ມຂຶ້ນສິບເປີເຊັນ": "Nyɔ̂ɔt khǎay phɤ̄ɤm khʉ̂n sīp pɤ̌ɤ-sén.",
+  "ຕົ້ນທຶນສູງຂຶ້ນ": "Tôn-thʉ̌n sǔung khʉ̂n.",
+  "ເງິນເຟີ້ສູງ": "Ngɤ́n-fɤ̂ɤ sǔung.",
+  "ຍອດ": "nyɔ̂ɔt",
+  "ຂາຍ": "khǎay",
+  "ເພີ່ມ": "phɤ̄ɤm",
+  "ຂຶ້ນ": "khʉ̂n",
+  "ສິບ": "sīp",
+  "ສູງ": "sǔung"
+ },
+ "suivi": "LEÇON : 104 — Partie F (Argumenter, B2) · Économie du quotidien\nOBJECTIF : Discuter de prix, de salaires et de commerce avec des chiffres.\nNOTION : les chiffres et les tendances\nVOCAB : Nyɔ̂ɔt khǎay, Pɤ̌ɤ-sén, Tôn-thʉ̌n, Kǎm-láy, Ngɤ́n-fɤ̂ɤ, Ɔ̀ɔn khāa, Láay-dâay, Ngɤ́n-dʉ̌an\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 105 — Environnement"
+}

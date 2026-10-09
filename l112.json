@@ -1,0 +1,491 @@
+{
+ "num": 112,
+ "phase": "Partie F · Argumenter",
+ "title": "Négocier",
+ "objective": "Négocier un accord : proposer, concéder, conclure.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>conclusion <small class=\"muted\">(leçon 111)</small></li><li>valeur <small class=\"muted\">(leçon 109)</small></li><li>pollution <small class=\"muted\">(leçon 105)</small></li><li>docile <small class=\"muted\">(leçon 98)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ບົດສະຫຼຸບ</span> <span class=\"rom\">Bót sā-lūp</span> · conclusion</li><li><span class=\"lo\">ຄຸນຄ່າ</span> <span class=\"rom\">Khún-khāa</span> · valeur</li><li><span class=\"lo\">ມົນລະພິດ</span> <span class=\"rom\">Món-lā-phīt</span> · pollution</li><li><span class=\"lo\">ຫົວອ່ອນ</span> <span class=\"rom\">Hǔa ɔ̀ɔn</span> · docile</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Négocier un accord : proposer, concéder, conclure.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">M. Somsak négocie avec un fournisseur.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ຖ້າຂ້ອຍສັ່ງຫຼາຍຂຶ້ນ ຫຼຸດລາຄາໄດ້ບໍ?</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ໄດ້ຫ້າເປີເຊັນ</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ສິບເປີເຊັນແລ້ວຂ້ອຍຈ່າຍເງິນສົດ</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ພົບກັນເຄິ່ງທາງ ເຈັດເປີເຊັນ</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ຕົກລົງ!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Thâa khɔ̂ɔy sàng lǎay khʉ̂n, lūt láa-khǎa dâay bɔ̌ɔ?</span><br><span class=\"rom\">Dâay hâa pɤ̌ɤ-sén.</span><br><span class=\"rom\">Sīp pɤ̌ɤ-sén lɛ̏ɛw khɔ̂ɔy jàay ngɤ́n-sōt.</span><br><span class=\"rom\">Phōp kǎn khɤ̄ng tháang, jét pɤ̌ɤ-sén.</span><br><span class=\"rom\">Tók-lóng!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>M. Somsak</b> — Si je commande plus, vous pouvez baisser le prix ?<br><b>X</b> — De 5 %.<br><b>M. Somsak</b> — 10 % et je paie comptant.<br><b>X</b> — Coupons la poire en deux : 7 %.<br><b>M. Somsak</b> — Marché conclu !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quelle remise est finalement accordée ?</li></ol><details><summary>Réponses</summary><ol><li>7 %.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ສັ່ງ</td><td class=\"rom\">Sàng</td><td>commander</td><td></td></tr><tr><td class=\"lo\">ສະເໜີ</td><td class=\"rom\">Sā-něe</td><td>proposer</td><td></td></tr><tr><td class=\"lo\">ຍອມ</td><td class=\"rom\">Nyɔ́ɔm</td><td>accepter, céder</td><td></td></tr><tr><td class=\"lo\">ພົບກັນເຄິ່ງທາງ</td><td class=\"rom\">Phōp kǎn khɤ̄ng tháang</td><td>couper la poire en deux</td><td></td></tr><tr><td class=\"lo\">ເງິນສົດ</td><td class=\"rom\">Ngɤ́n-sōt</td><td>argent liquide</td><td></td></tr><tr><td class=\"lo\">ຕົກລົງ</td><td class=\"rom\">Tók-lóng</td><td>conclure, d&#x27;accord</td><td></td></tr><tr><td class=\"lo\">ເງື່ອນໄຂ</td><td class=\"rom\">Ngʉ̄an-khǎy</td><td>condition</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : la négociation",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຖ້າ ໄດ້ບໍ?</span> <span class=\"rom\">Thâa… dâay bɔ̌ɔ?</span> = si…, est-ce possible ?</li><li><span class=\"lo\">ຂ້ອຍຍອມ ຖ້າ</span> <span class=\"rom\">Khɔ̂ɔy nyɔ́ɔm… thâa…</span> = j&#x27;accepte… si…</li></ul><details><summary>La règle</summary><p>Négocier : proposition conditionnelle (ຖ້າ…ໄດ້ບໍ), contre-proposition, compromis (ພົບກັນເຄິ່ງທາງ), conclusion (ຕົກລົງ).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les chiffres et les conditions.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Si je commande plus…</li><li>Coupons la poire en deux.</li><li>Marché conclu !</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຖ້າຂ້ອຍສັ່ງຫຼາຍຂຶ້ນ</span> <span class=\"rom\">Thâa khɔ̂ɔy sàng lǎay khʉ̂n…</span></li><li><span class=\"lo\">ພົບກັນເຄິ່ງທາງ</span> <span class=\"rom\">Phōp kǎn khɤ̄ng tháang.</span></li><li><span class=\"lo\">ຕົກລົງ!</span> <span class=\"rom\">Tók-lóng!</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris une négociation de 10 répliques.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Négocie avec un natif (jeu de rôle commercial).</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>10 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l112-v01",
+   "front": "ສັ່ງ",
+   "back": "Sàng · commander"
+  },
+  {
+   "id": "l112-v02",
+   "front": "ສະເໜີ",
+   "back": "Sā-něe · proposer"
+  },
+  {
+   "id": "l112-v03",
+   "front": "ຍອມ",
+   "back": "Nyɔ́ɔm · accepter, céder"
+  },
+  {
+   "id": "l112-v04",
+   "front": "ພົບກັນເຄິ່ງທາງ",
+   "back": "Phōp kǎn khɤ̄ng tháang · couper la poire en deux"
+  },
+  {
+   "id": "l112-v05",
+   "front": "ເງິນສົດ",
+   "back": "Ngɤ́n-sōt · argent liquide"
+  },
+  {
+   "id": "l112-v06",
+   "front": "ຕົກລົງ",
+   "back": "Tók-lóng · conclure, d'accord"
+  },
+  {
+   "id": "l112-v07",
+   "front": "ເງື່ອນໄຂ",
+   "back": "Ngʉ̄an-khǎy · condition"
+  },
+  {
+   "id": "l112-p01",
+   "front": "Si je commande plus…",
+   "back": "ຖ້າຂ້ອຍສັ່ງຫຼາຍຂຶ້ນ · Thâa khɔ̂ɔy sàng lǎay khʉ̂n…"
+  },
+  {
+   "id": "l112-p02",
+   "front": "Coupons la poire en deux.",
+   "back": "ພົບກັນເຄິ່ງທາງ · Phōp kǎn khɤ̄ng tháang."
+  },
+  {
+   "id": "l112-p03",
+   "front": "Marché conclu !",
+   "back": "ຕົກລົງ! · Tók-lóng!"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ສັ່ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "commander",
+      "accepter, céder",
+      "couper la poire en deux",
+      "conclure, d'accord"
+     ],
+     "answer": "commander",
+     "reveal": "<i>Sàng</i>"
+    },
+    {
+     "audio": [
+      "ສະເໜີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "proposer",
+      "conclure, d'accord",
+      "condition",
+      "commander"
+     ],
+     "answer": "proposer",
+     "reveal": "<i>Sā-něe</i>"
+    },
+    {
+     "audio": [
+      "ຍອມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "accepter, céder",
+      "proposer",
+      "commander",
+      "conclure, d'accord"
+     ],
+     "answer": "accepter, céder",
+     "reveal": "<i>Nyɔ́ɔm</i>"
+    },
+    {
+     "audio": [
+      "ພົບກັນເຄິ່ງທາງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "couper la poire en deux",
+      "conclure, d'accord",
+      "condition",
+      "argent liquide"
+     ],
+     "answer": "couper la poire en deux",
+     "reveal": "<i>Phōp kǎn khɤ̄ng tháang</i>"
+    },
+    {
+     "audio": [
+      "ເງິນສົດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "argent liquide",
+      "commander",
+      "couper la poire en deux",
+      "condition"
+     ],
+     "answer": "argent liquide",
+     "reveal": "<i>Ngɤ́n-sōt</i>"
+    },
+    {
+     "audio": [
+      "ຕົກລົງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "conclure, d'accord",
+      "commander",
+      "condition",
+      "accepter, céder"
+     ],
+     "answer": "conclure, d'accord",
+     "reveal": "<i>Tók-lóng</i>"
+    },
+    {
+     "audio": [
+      "ເງື່ອນໄຂ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "condition",
+      "conclure, d'accord",
+      "couper la poire en deux",
+      "commander"
+     ],
+     "answer": "condition",
+     "reveal": "<i>Ngʉ̄an-khǎy</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຖ້າຂ້ອຍສັ່ງຫຼາຍຂຶ້ນ ຫຼຸດລາຄາໄດ້ບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Si je commande plus, vous pouvez baisser le prix ?",
+      "10 % et je paie comptant.",
+      "De 5 %.",
+      "Marché conclu !"
+     ],
+     "answer": "Si je commande plus, vous pouvez baisser le prix ?",
+     "reveal": "<i>Thâa khɔ̂ɔy sàng lǎay khʉ̂n, lūt láa-khǎa dâay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້ຫ້າເປີເຊັນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "De 5 %.",
+      "10 % et je paie comptant.",
+      "Marché conclu !",
+      "Si je commande plus, vous pouvez baisser le prix ?"
+     ],
+     "answer": "De 5 %.",
+     "reveal": "<i>Dâay hâa pɤ̌ɤ-sén.</i>"
+    },
+    {
+     "audio": [
+      "ສິບເປີເຊັນແລ້ວຂ້ອຍຈ່າຍເງິນສົດ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "10 % et je paie comptant.",
+      "Coupons la poire en deux : 7 %.",
+      "De 5 %.",
+      "Marché conclu !"
+     ],
+     "answer": "10 % et je paie comptant.",
+     "reveal": "<i>Sīp pɤ̌ɤ-sén lɛ̏ɛw khɔ̂ɔy jàay ngɤ́n-sōt.</i>"
+    },
+    {
+     "audio": [
+      "ພົບກັນເຄິ່ງທາງ ເຈັດເປີເຊັນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Coupons la poire en deux : 7 %.",
+      "Si je commande plus, vous pouvez baisser le prix ?",
+      "10 % et je paie comptant.",
+      "De 5 %."
+     ],
+     "answer": "Coupons la poire en deux : 7 %.",
+     "reveal": "<i>Phōp kǎn khɤ̄ng tháang, jét pɤ̌ɤ-sén.</i>"
+    },
+    {
+     "audio": [
+      "ຕົກລົງ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Marché conclu !",
+      "De 5 %.",
+      "Si je commande plus, vous pouvez baisser le prix ?",
+      "10 % et je paie comptant."
+     ],
+     "answer": "Marché conclu !",
+     "reveal": "<i>Tók-lóng!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຖ້າຂ້ອຍສັ່ງຫຼາຍຂຶ້ນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Si je commande plus…",
+      "Coupons la poire en deux.",
+      "Marché conclu !"
+     ],
+     "answer": "Si je commande plus…",
+     "reveal": "<i>Thâa khɔ̂ɔy sàng lǎay khʉ̂n…</i>"
+    },
+    {
+     "audio": [
+      "ພົບກັນເຄິ່ງທາງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Coupons la poire en deux.",
+      "Marché conclu !",
+      "Si je commande plus…"
+     ],
+     "answer": "Coupons la poire en deux.",
+     "reveal": "<i>Phōp kǎn khɤ̄ng tháang.</i>"
+    },
+    {
+     "audio": [
+      "ຕົກລົງ!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Marché conclu !",
+      "Si je commande plus…",
+      "Coupons la poire en deux."
+     ],
+     "answer": "Marché conclu !",
+     "reveal": "<i>Tók-lóng!</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ສັ່ງ",
+   "rom": "Sàng",
+   "fr": "commander",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສະເໜີ",
+   "rom": "Sā-něe",
+   "fr": "proposer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍອມ",
+   "rom": "Nyɔ́ɔm",
+   "fr": "accepter, céder",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພົບກັນເຄິ່ງທາງ",
+   "rom": "Phōp kǎn khɤ̄ng tháang",
+   "fr": "couper la poire en deux",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເງິນສົດ",
+   "rom": "Ngɤ́n-sōt",
+   "fr": "argent liquide",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕົກລົງ",
+   "rom": "Tók-lóng",
+   "fr": "conclure, d'accord",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເງື່ອນໄຂ",
+   "rom": "Ngʉ̄an-khǎy",
+   "fr": "condition",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຖ້າຂ້ອຍສັ່ງຫຼາຍຂຶ້ນ",
+   "rom": "Thâa khɔ̂ɔy sàng lǎay khʉ̂n…",
+   "fr": "Si je commande plus…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພົບກັນເຄິ່ງທາງ",
+   "rom": "Phōp kǎn khɤ̄ng tháang.",
+   "fr": "Coupons la poire en deux.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕົກລົງ!",
+   "rom": "Tók-lóng!",
+   "fr": "Marché conclu !",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຖ້າ",
+    "ຂ້ອຍ",
+    "ສັ່ງ",
+    "ຫຼາຍ",
+    "ຂຶ້ນ"
+   ],
+   "rom": "Thâa khɔ̂ɔy sàng lǎay khʉ̂n…",
+   "fr": "Si je commande plus…"
+  },
+  {
+   "tokens": [
+    "ພົບ",
+    "ກັນ",
+    "ເຄິ່ງ",
+    "ທາງ"
+   ],
+   "rom": "Phōp kǎn khɤ̄ng tháang.",
+   "fr": "Coupons la poire en deux."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ສັ່ງ",
+   "rom": "Sàng",
+   "fr": "commander"
+  },
+  {
+   "lao": "ສະເໜີ",
+   "rom": "Sā-něe",
+   "fr": "proposer"
+  },
+  {
+   "lao": "ຍອມ",
+   "rom": "Nyɔ́ɔm",
+   "fr": "accepter, céder"
+  },
+  {
+   "lao": "ພົບກັນເຄິ່ງທາງ",
+   "rom": "Phōp kǎn khɤ̄ng tháang",
+   "fr": "couper la poire en deux"
+  },
+  {
+   "lao": "ເງິນສົດ",
+   "rom": "Ngɤ́n-sōt",
+   "fr": "argent liquide"
+  },
+  {
+   "lao": "ຕົກລົງ",
+   "rom": "Tók-lóng",
+   "fr": "conclure, d'accord"
+  },
+  {
+   "lao": "ເງື່ອນໄຂ",
+   "rom": "Ngʉ̄an-khǎy",
+   "fr": "condition"
+  }
+ ],
+ "sounds": {
+  "ບົດສະຫຼຸບ": "Bót sā-lūp",
+  "ຄຸນຄ່າ": "Khún-khāa",
+  "ມົນລະພິດ": "Món-lā-phīt",
+  "ຫົວອ່ອນ": "Hǔa ɔ̀ɔn",
+  "ຖ້າຂ້ອຍສັ່ງຫຼາຍຂຶ້ນ ຫຼຸດລາຄາໄດ້ບໍ": "Thâa khɔ̂ɔy sàng lǎay khʉ̂n, lūt láa-khǎa dâay bɔ̌ɔ?",
+  "ໄດ້ຫ້າເປີເຊັນ": "Dâay hâa pɤ̌ɤ-sén.",
+  "ສິບເປີເຊັນແລ້ວຂ້ອຍຈ່າຍເງິນສົດ": "Sīp pɤ̌ɤ-sén lɛ̏ɛw khɔ̂ɔy jàay ngɤ́n-sōt.",
+  "ພົບກັນເຄິ່ງທາງ ເຈັດເປີເຊັນ": "Phōp kǎn khɤ̄ng tháang, jét pɤ̌ɤ-sén.",
+  "ຕົກລົງ": "Tók-lóng",
+  "ສັ່ງ": "sàng",
+  "ສະເໜີ": "Sā-něe",
+  "ຍອມ": "Nyɔ́ɔm",
+  "ພົບກັນເຄິ່ງທາງ": "Phōp kǎn khɤ̄ng tháang.",
+  "ເງິນສົດ": "Ngɤ́n-sōt",
+  "ເງື່ອນໄຂ": "Ngʉ̄an-khǎy",
+  "ຖ້າ ໄດ້ບໍ": "Thâa… dâay bɔ̌ɔ?",
+  "ຂ້ອຍຍອມ ຖ້າ": "Khɔ̂ɔy nyɔ́ɔm… thâa…",
+  "ຖ້າຂ້ອຍສັ່ງຫຼາຍຂຶ້ນ": "Thâa khɔ̂ɔy sàng lǎay khʉ̂n…",
+  "ຖ້າ": "thâa",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ຫຼາຍ": "lǎay",
+  "ຂຶ້ນ": "khʉ̂n",
+  "ພົບ": "phōp",
+  "ກັນ": "kǎn",
+  "ເຄິ່ງ": "khɤ̄ng",
+  "ທາງ": "tháang"
+ },
+ "suivi": "LEÇON : 112 — Partie F (Argumenter, B2) · Négocier\nOBJECTIF : Négocier un accord : proposer, concéder, conclure.\nNOTION : la négociation\nVOCAB : Sàng, Sā-něe, Nyɔ́ɔm, Phōp kǎn khɤ̄ng tháang, Ngɤ́n-sōt, Tók-lóng, Ngʉ̄an-khǎy\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 113 — Présenter en public"
+}

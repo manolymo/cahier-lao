@@ -1,0 +1,512 @@
+{
+ "num": 91,
+ "phase": "Partie F · Argumenter",
+ "title": "Structurer un argument",
+ "objective": "Défendre une position avec trois arguments organisés.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>niveau <small class=\"muted\">(leçon 90)</small></li><li>par exemple <small class=\"muted\">(leçon 88)</small></li><li>touriste <small class=\"muted\">(leçon 84)</small></li><li>bénir <small class=\"muted\">(leçon 77)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ລະດັບ</span> <span class=\"rom\">Lā-dáp</span> · niveau</li><li><span class=\"lo\">ເຊັ່ນ</span> <span class=\"rom\">Sēn</span> · par exemple</li><li><span class=\"lo\">ນັກທ່ອງທ່ຽວ</span> <span class=\"rom\">Nāk-thɔ̄ɔng-thīaw</span> · touriste</li><li><span class=\"lo\">ໃຫ້ພອນ</span> <span class=\"rom\">Hây phɔ́ɔn</span> · bénir</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Défendre une position avec trois arguments organisés.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Débat en famille : faut-il apprendre l&#x27;anglais à l&#x27;école primaire ?</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຂ້ອຍຄິດວ່າຄວນຮຽນພາສາອັງກິດແຕ່ນ້ອຍ</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ທຳອິດ ມັນຊ່ວຍໃຫ້ຫາວຽກງ່າຍ</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ອັນທີສອງ ເດັກນ້ອຍຮຽນພາສາໄວ</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ສຸດທ້າຍ ໂລກເຊື່ອມຕໍ່ກັນຫຼາຍຂຶ້ນ</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ເຫດຜົນດີ ແຕ່ພາສາລາວກໍສຳຄັນເດີ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Khɔ̂ɔy khīt wāa khúan hían pháa-sǎa-ǎng-kít tɛ̀ɛ nɔ̏ɔy.</span><br><span class=\"rom\">Thám-ít, mán sūay hây hǎa wîak ngāay.</span><br><span class=\"rom\">Ǎn thíi sɔ̌ɔng, dék-nɔ̏ɔy hían pháa-sǎa wáy.</span><br><span class=\"rom\">Sūt-thȁay, lôok sʉ̄am tɔ̀ɔ kǎn lǎay khʉ̂n.</span><br><span class=\"rom\">Hēet-phǒn dǐi. Tɛ̀ɛ pháa-sǎa-láaw kɔ̂ɔ sǎm-khán dɤ̌ɤ.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Kèo</b> — Je pense qu&#x27;il faut apprendre l&#x27;anglais dès petit.<br><b>Kèo</b> — Premièrement, ça aide à trouver du travail.<br><b>Kèo</b> — Deuxièmement, les enfants apprennent vite les langues.<br><b>Kèo</b> — Enfin, le monde est de plus en plus connecté.<br><b>M. Somsak</b> — Bons arguments. Mais le lao aussi est important.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quelle est la position de Kèo ?</li><li>Quels sont ses trois arguments ?</li></ol><details><summary>Réponses</summary><ol><li>Apprendre l&#x27;anglais dès petit.</li><li>Travail, facilité d&#x27;apprentissage des enfants, monde connecté.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ທຳອິດ</td><td class=\"rom\">Thám-ít</td><td>premièrement</td><td></td></tr><tr><td class=\"lo\">ອັນທີສອງ</td><td class=\"rom\">Ǎn thíi sɔ̌ɔng</td><td>deuxièmement</td><td></td></tr><tr><td class=\"lo\">ສຸດທ້າຍ</td><td class=\"rom\">Sūt-thȁay</td><td>enfin</td><td></td></tr><tr><td class=\"lo\">ສະຫຼຸບແລ້ວ</td><td class=\"rom\">Sā-lūp lɛ̏ɛw</td><td>en conclusion</td><td></td></tr><tr><td class=\"lo\">ເຫດຜົນ</td><td class=\"rom\">Hēet-phǒn</td><td>raison, argument</td><td></td></tr><tr><td class=\"lo\">ຫຼັກຖານ</td><td class=\"rom\">Lāk-thǎan</td><td>preuve</td><td></td></tr><tr><td class=\"lo\">ເຊື່ອມຕໍ່</td><td class=\"rom\">Sʉ̄am tɔ̀ɔ</td><td>relier, connecter</td><td></td></tr><tr><td class=\"lo\">ຈຸດຢືນ</td><td class=\"rom\">Jút yʉ̌ʉn</td><td>position, point de vue</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : organiser une argumentation",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ທຳອິດ ອັນທີສອງ ສຸດທ້າຍ</span> <span class=\"rom\">Thám-ít… ǎn thíi sɔ̌ɔng… sūt-thȁay…</span> = premièrement… deuxièmement… enfin…</li><li><span class=\"lo\">ສະຫຼຸບແລ້ວ</span> <span class=\"rom\">Sā-lūp lɛ̏ɛw…</span> = en conclusion…</li></ul><details><summary>La règle</summary><p>Thèse (ຂ້ອຍຄິດວ່າ), arguments numérotés (ທຳອິດ, ອັນທີສອງ, ສຸດທ້າຍ), exemples (ເຊັ່ນ), conclusion (ສະຫຼຸບແລ້ວ).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les mots qui annoncent chaque argument.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Premièrement…</li><li>En conclusion…</li><li>Bons arguments.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ທຳອິດ</span> <span class=\"rom\">Thám-ít…</span></li><li><span class=\"lo\">ສະຫຼຸບແລ້ວ</span> <span class=\"rom\">Sā-lūp lɛ̏ɛw…</span></li><li><span class=\"lo\">ເຫດຜົນດີ</span> <span class=\"rom\">Hēet-phǒn dǐi.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris un argumentaire de 150 mots sur un sujet de société.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Défends une position pendant 5 minutes face à un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>11 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l91-v01",
+   "front": "ທຳອິດ",
+   "back": "Thám-ít · premièrement"
+  },
+  {
+   "id": "l91-v02",
+   "front": "ອັນທີສອງ",
+   "back": "Ǎn thíi sɔ̌ɔng · deuxièmement"
+  },
+  {
+   "id": "l91-v03",
+   "front": "ສຸດທ້າຍ",
+   "back": "Sūt-thȁay · enfin"
+  },
+  {
+   "id": "l91-v04",
+   "front": "ສະຫຼຸບແລ້ວ",
+   "back": "Sā-lūp lɛ̏ɛw · en conclusion"
+  },
+  {
+   "id": "l91-v05",
+   "front": "ເຫດຜົນ",
+   "back": "Hēet-phǒn · raison, argument"
+  },
+  {
+   "id": "l91-v06",
+   "front": "ຫຼັກຖານ",
+   "back": "Lāk-thǎan · preuve"
+  },
+  {
+   "id": "l91-v07",
+   "front": "ເຊື່ອມຕໍ່",
+   "back": "Sʉ̄am tɔ̀ɔ · relier, connecter"
+  },
+  {
+   "id": "l91-v08",
+   "front": "ຈຸດຢືນ",
+   "back": "Jút yʉ̌ʉn · position, point de vue"
+  },
+  {
+   "id": "l91-p01",
+   "front": "Premièrement…",
+   "back": "ທຳອິດ · Thám-ít…"
+  },
+  {
+   "id": "l91-p02",
+   "front": "En conclusion…",
+   "back": "ສະຫຼຸບແລ້ວ · Sā-lūp lɛ̏ɛw…"
+  },
+  {
+   "id": "l91-p03",
+   "front": "Bons arguments.",
+   "back": "ເຫດຜົນດີ · Hēet-phǒn dǐi."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ທຳອິດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "premièrement",
+      "relier, connecter",
+      "deuxièmement",
+      "position, point de vue"
+     ],
+     "answer": "premièrement",
+     "reveal": "<i>Thám-ít</i>"
+    },
+    {
+     "audio": [
+      "ອັນທີສອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "deuxièmement",
+      "en conclusion",
+      "preuve",
+      "premièrement"
+     ],
+     "answer": "deuxièmement",
+     "reveal": "<i>Ǎn thíi sɔ̌ɔng</i>"
+    },
+    {
+     "audio": [
+      "ສຸດທ້າຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "enfin",
+      "deuxièmement",
+      "premièrement",
+      "raison, argument"
+     ],
+     "answer": "enfin",
+     "reveal": "<i>Sūt-thȁay</i>"
+    },
+    {
+     "audio": [
+      "ສະຫຼຸບແລ້ວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "en conclusion",
+      "raison, argument",
+      "enfin",
+      "preuve"
+     ],
+     "answer": "en conclusion",
+     "reveal": "<i>Sā-lūp lɛ̏ɛw</i>"
+    },
+    {
+     "audio": [
+      "ເຫດຜົນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "raison, argument",
+      "relier, connecter",
+      "premièrement",
+      "deuxièmement"
+     ],
+     "answer": "raison, argument",
+     "reveal": "<i>Hēet-phǒn</i>"
+    },
+    {
+     "audio": [
+      "ຫຼັກຖານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "preuve",
+      "en conclusion",
+      "relier, connecter",
+      "premièrement"
+     ],
+     "answer": "preuve",
+     "reveal": "<i>Lāk-thǎan</i>"
+    },
+    {
+     "audio": [
+      "ເຊື່ອມຕໍ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "relier, connecter",
+      "deuxièmement",
+      "enfin",
+      "position, point de vue"
+     ],
+     "answer": "relier, connecter",
+     "reveal": "<i>Sʉ̄am tɔ̀ɔ</i>"
+    },
+    {
+     "audio": [
+      "ຈຸດຢືນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "position, point de vue",
+      "preuve",
+      "relier, connecter",
+      "deuxièmement"
+     ],
+     "answer": "position, point de vue",
+     "reveal": "<i>Jút yʉ̌ʉn</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້ອຍຄິດວ່າຄວນຮຽນພາສາອັງກິດແຕ່ນ້ອຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je pense qu'il faut apprendre l'anglais dès petit.",
+      "Deuxièmement, les enfants apprennent vite les langues.",
+      "Premièrement, ça aide à trouver du travail.",
+      "Bons arguments. Mais le lao aussi est important."
+     ],
+     "answer": "Je pense qu'il faut apprendre l'anglais dès petit.",
+     "reveal": "<i>Khɔ̂ɔy khīt wāa khúan hían pháa-sǎa-ǎng-kít tɛ̀ɛ nɔ̏ɔy.</i>"
+    },
+    {
+     "audio": [
+      "ທຳອິດ ມັນຊ່ວຍໃຫ້ຫາວຽກງ່າຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Premièrement, ça aide à trouver du travail.",
+      "Bons arguments. Mais le lao aussi est important.",
+      "Deuxièmement, les enfants apprennent vite les langues.",
+      "Je pense qu'il faut apprendre l'anglais dès petit."
+     ],
+     "answer": "Premièrement, ça aide à trouver du travail.",
+     "reveal": "<i>Thám-ít, mán sūay hây hǎa wîak ngāay.</i>"
+    },
+    {
+     "audio": [
+      "ອັນທີສອງ ເດັກນ້ອຍຮຽນພາສາໄວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Deuxièmement, les enfants apprennent vite les langues.",
+      "Je pense qu'il faut apprendre l'anglais dès petit.",
+      "Enfin, le monde est de plus en plus connecté.",
+      "Premièrement, ça aide à trouver du travail."
+     ],
+     "answer": "Deuxièmement, les enfants apprennent vite les langues.",
+     "reveal": "<i>Ǎn thíi sɔ̌ɔng, dék-nɔ̏ɔy hían pháa-sǎa wáy.</i>"
+    },
+    {
+     "audio": [
+      "ສຸດທ້າຍ ໂລກເຊື່ອມຕໍ່ກັນຫຼາຍຂຶ້ນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Enfin, le monde est de plus en plus connecté.",
+      "Bons arguments. Mais le lao aussi est important.",
+      "Premièrement, ça aide à trouver du travail.",
+      "Je pense qu'il faut apprendre l'anglais dès petit."
+     ],
+     "answer": "Enfin, le monde est de plus en plus connecté.",
+     "reveal": "<i>Sūt-thȁay, lôok sʉ̄am tɔ̀ɔ kǎn lǎay khʉ̂n.</i>"
+    },
+    {
+     "audio": [
+      "ເຫດຜົນດີ ແຕ່ພາສາລາວກໍສຳຄັນເດີ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Bons arguments. Mais le lao aussi est important.",
+      "Je pense qu'il faut apprendre l'anglais dès petit.",
+      "Premièrement, ça aide à trouver du travail.",
+      "Deuxièmement, les enfants apprennent vite les langues."
+     ],
+     "answer": "Bons arguments. Mais le lao aussi est important.",
+     "reveal": "<i>Hēet-phǒn dǐi. Tɛ̀ɛ pháa-sǎa-láaw kɔ̂ɔ sǎm-khán dɤ̌ɤ.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ທຳອິດ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Premièrement…",
+      "Bons arguments.",
+      "En conclusion…"
+     ],
+     "answer": "Premièrement…",
+     "reveal": "<i>Thám-ít…</i>"
+    },
+    {
+     "audio": [
+      "ສະຫຼຸບແລ້ວ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "En conclusion…",
+      "Bons arguments.",
+      "Premièrement…"
+     ],
+     "answer": "En conclusion…",
+     "reveal": "<i>Sā-lūp lɛ̏ɛw…</i>"
+    },
+    {
+     "audio": [
+      "ເຫດຜົນດີ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Bons arguments.",
+      "En conclusion…",
+      "Premièrement…"
+     ],
+     "answer": "Bons arguments.",
+     "reveal": "<i>Hēet-phǒn dǐi.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ທຳອິດ",
+   "rom": "Thám-ít",
+   "fr": "premièrement",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອັນທີສອງ",
+   "rom": "Ǎn thíi sɔ̌ɔng",
+   "fr": "deuxièmement",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສຸດທ້າຍ",
+   "rom": "Sūt-thȁay",
+   "fr": "enfin",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສະຫຼຸບແລ້ວ",
+   "rom": "Sā-lūp lɛ̏ɛw",
+   "fr": "en conclusion",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຫດຜົນ",
+   "rom": "Hēet-phǒn",
+   "fr": "raison, argument",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫຼັກຖານ",
+   "rom": "Lāk-thǎan",
+   "fr": "preuve",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຊື່ອມຕໍ່",
+   "rom": "Sʉ̄am tɔ̀ɔ",
+   "fr": "relier, connecter",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈຸດຢືນ",
+   "rom": "Jút yʉ̌ʉn",
+   "fr": "position, point de vue",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທຳອິດ",
+   "rom": "Thám-ít…",
+   "fr": "Premièrement…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສະຫຼຸບແລ້ວ",
+   "rom": "Sā-lūp lɛ̏ɛw…",
+   "fr": "En conclusion…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຫດຜົນດີ",
+   "rom": "Hēet-phǒn dǐi.",
+   "fr": "Bons arguments.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ສະຫຼຸບ",
+    "ແລ້ວ"
+   ],
+   "rom": "Sā-lūp lɛ̏ɛw…",
+   "fr": "En conclusion…"
+  },
+  {
+   "tokens": [
+    "ເຫດຜົນ",
+    "ດີ"
+   ],
+   "rom": "Hēet-phǒn dǐi.",
+   "fr": "Bons arguments."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ທຳອິດ",
+   "rom": "Thám-ít",
+   "fr": "premièrement"
+  },
+  {
+   "lao": "ອັນທີສອງ",
+   "rom": "Ǎn thíi sɔ̌ɔng",
+   "fr": "deuxièmement"
+  },
+  {
+   "lao": "ສຸດທ້າຍ",
+   "rom": "Sūt-thȁay",
+   "fr": "enfin"
+  },
+  {
+   "lao": "ສະຫຼຸບແລ້ວ",
+   "rom": "Sā-lūp lɛ̏ɛw",
+   "fr": "en conclusion"
+  },
+  {
+   "lao": "ເຫດຜົນ",
+   "rom": "Hēet-phǒn",
+   "fr": "raison, argument"
+  },
+  {
+   "lao": "ຫຼັກຖານ",
+   "rom": "Lāk-thǎan",
+   "fr": "preuve"
+  },
+  {
+   "lao": "ເຊື່ອມຕໍ່",
+   "rom": "Sʉ̄am tɔ̀ɔ",
+   "fr": "relier, connecter"
+  },
+  {
+   "lao": "ຈຸດຢືນ",
+   "rom": "Jút yʉ̌ʉn",
+   "fr": "position, point de vue"
+  }
+ ],
+ "sounds": {
+  "ລະດັບ": "Lā-dáp",
+  "ເຊັ່ນ": "Sēn",
+  "ນັກທ່ອງທ່ຽວ": "Nāk-thɔ̄ɔng-thīaw",
+  "ໃຫ້ພອນ": "Hây phɔ́ɔn",
+  "ຂ້ອຍຄິດວ່າຄວນຮຽນພາສາອັງກິດແຕ່ນ້ອຍ": "Khɔ̂ɔy khīt wāa khúan hían pháa-sǎa-ǎng-kít tɛ̀ɛ nɔ̏ɔy.",
+  "ທຳອິດ ມັນຊ່ວຍໃຫ້ຫາວຽກງ່າຍ": "Thám-ít, mán sūay hây hǎa wîak ngāay.",
+  "ອັນທີສອງ ເດັກນ້ອຍຮຽນພາສາໄວ": "Ǎn thíi sɔ̌ɔng, dék-nɔ̏ɔy hían pháa-sǎa wáy.",
+  "ສຸດທ້າຍ ໂລກເຊື່ອມຕໍ່ກັນຫຼາຍຂຶ້ນ": "Sūt-thȁay, lôok sʉ̄am tɔ̀ɔ kǎn lǎay khʉ̂n.",
+  "ເຫດຜົນດີ ແຕ່ພາສາລາວກໍສຳຄັນເດີ": "Hēet-phǒn dǐi. Tɛ̀ɛ pháa-sǎa-láaw kɔ̂ɔ sǎm-khán dɤ̌ɤ.",
+  "ທຳອິດ": "Thám-ít…",
+  "ອັນທີສອງ": "Ǎn thíi sɔ̌ɔng",
+  "ສຸດທ້າຍ": "Sūt-thȁay",
+  "ສະຫຼຸບແລ້ວ": "Sā-lūp lɛ̏ɛw…",
+  "ເຫດຜົນ": "hēet-phǒn",
+  "ຫຼັກຖານ": "Lāk-thǎan",
+  "ເຊື່ອມຕໍ່": "Sʉ̄am tɔ̀ɔ",
+  "ຈຸດຢືນ": "Jút yʉ̌ʉn",
+  "ທຳອິດ ອັນທີສອງ ສຸດທ້າຍ": "Thám-ít… ǎn thíi sɔ̌ɔng… sūt-thȁay…",
+  "ເຫດຜົນດີ": "Hēet-phǒn dǐi.",
+  "ສະຫຼຸບ": "sā-lūp",
+  "ແລ້ວ": "lɛ̏ɛw",
+  "ດີ": "dǐi"
+ },
+ "suivi": "LEÇON : 91 — Partie F (Argumenter, B2) · Structurer un argument\nOBJECTIF : Défendre une position avec trois arguments organisés.\nNOTION : organiser une argumentation\nVOCAB : Thám-ít, Ǎn thíi sɔ̌ɔng, Sūt-thȁay, Sā-lūp lɛ̏ɛw, Hēet-phǒn, Lāk-thǎan, Sʉ̄am tɔ̀ɔ, Jút yʉ̌ʉn\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 92 — Nuancer"
+}

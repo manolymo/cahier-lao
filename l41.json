@@ -19,7 +19,7 @@
   },
   {
    "title": "Dialogue",
-   "html": "<p class=\"muted\">Lundi matin, Noy demande à Clara son week-end.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ມື້ວານເຈົ້າໄປໃສມາ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍໄປວັດກັບແມ່ບົວ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ແລ້ວໄດ້ເຮັດຫຍັງອີກ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໄດ້ກິນເຝີແລ້ວກັບເຮືອນ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ມ່ວນບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ມ່ວນຫຼາຍ!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Mʉ̂ʉ-wáan jâo pǎy sǎy máa?</span><br><span class=\"rom\">Khɔ̂ɔy pǎy wāt kǎp mɛ̄ɛ-būa.</span><br><span class=\"rom\">Lɛ̏ɛw dâay hēt nyǎng ìik?</span><br><span class=\"rom\">Dâay kǐn fɤ̌ɤ lɛ̏ɛw kǎp hʉ́an.</span><br><span class=\"rom\">Mūan bɔ̌ɔ?</span><br><span class=\"rom\">Mūan lǎay!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Hier, tu es allée où ?<br><b>Clara</b> — Je suis allée à la pagode avec Mme Boua.<br><b>Noy</b> — Et tu as fait quoi d&#x27;autre ?<br><b>Clara</b> — J&#x27;ai mangé une pho puis je suis rentrée.<br><b>Noy</b> — C&#x27;était bien ?<br><b>Clara</b> — Super !</p></details>"
+   "html": "<p class=\"muted\">Lundi matin, Noy demande à Clara son week-end.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ມື້ວານເຈົ້າໄປໃສມາ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍໄປວັດກັບແມ່ບົວ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ແລ້ວໄດ້ເຮັດຫຍັງອີກ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໄດ້ກິນເຝີແລ້ວກັບເຮືອນ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ມ່ວນບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ມ່ວນຫຼາຍ!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Mʉ̂ʉ-wáan jâo pǎy sǎy máa?</span><br><span class=\"rom\">Khɔ̂ɔy pǎy wāt káp mɛ̄ɛ-būa.</span><br><span class=\"rom\">Lɛ̏ɛw dâay hēt nyǎng ìik?</span><br><span class=\"rom\">Dâay kǐn fɤ̌ɤ lɛ̏ɛw káp hʉ́an.</span><br><span class=\"rom\">Mūan bɔ̌ɔ?</span><br><span class=\"rom\">Mūan lǎay!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Hier, tu es allée où ?<br><b>Clara</b> — Je suis allée à la pagode avec Mme Boua.<br><b>Noy</b> — Et tu as fait quoi d&#x27;autre ?<br><b>Clara</b> — J&#x27;ai mangé une pho puis je suis rentrée.<br><b>Noy</b> — C&#x27;était bien ?<br><b>Clara</b> — Super !</p></details>"
   },
   {
    "title": "Compréhension",
@@ -268,7 +268,7 @@
       "Super !"
      ],
      "answer": "Je suis allée à la pagode avec Mme Boua.",
-     "reveal": "<i>Khɔ̂ɔy pǎy wāt kǎp mɛ̄ɛ-būa.</i>"
+     "reveal": "<i>Khɔ̂ɔy pǎy wāt káp mɛ̄ɛ-būa.</i>"
     },
     {
      "audio": [
@@ -296,7 +296,7 @@
       "Je suis allée à la pagode avec Mme Boua."
      ],
      "answer": "J'ai mangé une pho puis je suis rentrée.",
-     "reveal": "<i>Dâay kǐn fɤ̌ɤ lɛ̏ɛw kǎp hʉ́an.</i>"
+     "reveal": "<i>Dâay kǐn fɤ̌ɤ lɛ̏ɛw káp hʉ́an.</i>"
     },
     {
      "audio": [
@@ -555,9 +555,9 @@
   "ກະເປົາ": "Ká-pǎo",
   "ປູ່": "Pùu",
   "ມື້ວານເຈົ້າໄປໃສມາ": "Mʉ̂ʉ-wáan jâo pǎy sǎy máa?",
-  "ຂ້ອຍໄປວັດກັບແມ່ບົວ": "Khɔ̂ɔy pǎy wāt kǎp mɛ̄ɛ-būa.",
+  "ຂ້ອຍໄປວັດກັບແມ່ບົວ": "Khɔ̂ɔy pǎy wāt káp mɛ̄ɛ-būa.",
   "ແລ້ວໄດ້ເຮັດຫຍັງອີກ": "Lɛ̏ɛw dâay hēt nyǎng ìik?",
-  "ໄດ້ກິນເຝີແລ້ວກັບເຮືອນ": "Dâay kǐn fɤ̌ɤ lɛ̏ɛw kǎp hʉ́an.",
+  "ໄດ້ກິນເຝີແລ້ວກັບເຮືອນ": "Dâay kǐn fɤ̌ɤ lɛ̏ɛw káp hʉ́an.",
   "ມ່ວນບໍ": "Mūan bɔ̌ɔ?",
   "ມ່ວນຫຼາຍ": "Mūan lǎay!",
   "ມື້ວານ": "mʉ̂ʉ-wáan",

@@ -19,7 +19,7 @@
   },
   {
    "title": "Dialogue",
-   "html": "<p class=\"muted\">Clara regarde une vidéo de cuisine.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເບິ່ງວິດີໂອນີ້ແລ້ວເລົ່າໃຫ້ຟັງແດ່</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຂົາສອນເຮັດຕຳໝາກຫຸ່ງ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ທຳອິດຕຳໝາກເຜັດກັບກະທຽມ ແລ້ວໃສ່ໝາກຫຸ່ງ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເກັ່ງ! ເຂົ້າໃຈໝົດເລີຍ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Bɤ̀ng wī-dǐi-ǒo nȉi lɛ̏ɛw lāo hây fáng dɛ̀ɛ.</span><br><span class=\"rom\">Khǎo sɔ̌ɔn hēt tǎm-mȁak-hùng.</span><br><span class=\"rom\">Thám-ít tǎm mȁak-phēt kǎp ká-thíam, lɛ̏ɛw sày mȁak-hùng.</span><br><span class=\"rom\">Kèng! Khâo-jǎy mōt lɤ́ɤy.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Regarde cette vidéo et raconte-la-moi.<br><b>Clara</b> — Ils apprennent à faire une salade de papaye.<br><b>Clara</b> — D&#x27;abord on pile le piment avec l&#x27;ail, puis on ajoute la papaye.<br><b>Noy</b> — Bravo ! Tu as tout compris.</p></details>"
+   "html": "<p class=\"muted\">Clara regarde une vidéo de cuisine.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເບິ່ງວິດີໂອນີ້ແລ້ວເລົ່າໃຫ້ຟັງແດ່</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຂົາສອນເຮັດຕຳໝາກຫຸ່ງ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ທຳອິດຕຳໝາກເຜັດກັບກະທຽມ ແລ້ວໃສ່ໝາກຫຸ່ງ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເກັ່ງ! ເຂົ້າໃຈໝົດເລີຍ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Bɤ̀ng wī-dǐi-ǒo nȉi lɛ̏ɛw lāo hây fáng dɛ̀ɛ.</span><br><span class=\"rom\">Khǎo sɔ̌ɔn hēt tǎm-mȁak-hùng.</span><br><span class=\"rom\">Thám-ít tǎm mȁak-phēt káp ká-thíam, lɛ̏ɛw sày mȁak-hùng.</span><br><span class=\"rom\">Kèng! Khâo-jǎy mōt lɤ́ɤy.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Regarde cette vidéo et raconte-la-moi.<br><b>Clara</b> — Ils apprennent à faire une salade de papaye.<br><b>Clara</b> — D&#x27;abord on pile le piment avec l&#x27;ail, puis on ajoute la papaye.<br><b>Noy</b> — Bravo ! Tu as tout compris.</p></details>"
   },
   {
    "title": "Compréhension",
@@ -31,7 +31,7 @@
   },
   {
    "title": "Point de langue : résumer",
-   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ສະຫຼຸບແລ້ວ</span> <span class=\"rom\">Sā-lūp lɛ̏ɛw…</span> = en résumé…</li><li><span class=\"lo\">ເລື່ອງນີ້ເວົ້າກ່ຽວກັບ</span> <span class=\"rom\">Lʉ̄ang nȉi wȁo kìaw-kǎp…</span> = cette histoire parle de…</li></ul><details><summary>La règle</summary><p>Pour résumer : sujet (ເວົ້າກ່ຽວກັບ), étapes principales (ທຳອິດ, ແລ້ວ), conclusion (ສະຫຼຸບແລ້ວ).</p></details>"
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ສະຫຼຸບແລ້ວ</span> <span class=\"rom\">Sā-lūp lɛ̏ɛw…</span> = en résumé…</li><li><span class=\"lo\">ເລື່ອງນີ້ເວົ້າກ່ຽວກັບ</span> <span class=\"rom\">Lʉ̄ang nȉi wȁo kìaw-káp…</span> = cette histoire parle de…</li></ul><details><summary>La règle</summary><p>Pour résumer : sujet (ເວົ້າກ່ຽວກັບ), étapes principales (ທຳອິດ, ແລ້ວ), conclusion (ສະຫຼຸບແລ້ວ).</p></details>"
   },
   {
    "title": "Écoute",
@@ -39,7 +39,7 @@
   },
   {
    "title": "Expression orale",
-   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>En résumé…</li><li>Elle parle de cuisine.</li><li>J&#x27;ai tout compris.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ສະຫຼຸບແລ້ວ</span> <span class=\"rom\">Sā-lūp lɛ̏ɛw…</span></li><li><span class=\"lo\">ເວົ້າກ່ຽວກັບອາຫານ</span> <span class=\"rom\">Wȁo kìaw-kǎp ǎa-hǎan.</span></li><li><span class=\"lo\">ເຂົ້າໃຈໝົດເລີຍ</span> <span class=\"rom\">Khâo-jǎy mōt lɤ́ɤy.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>En résumé…</li><li>Elle parle de cuisine.</li><li>J&#x27;ai tout compris.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ສະຫຼຸບແລ້ວ</span> <span class=\"rom\">Sā-lūp lɛ̏ɛw…</span></li><li><span class=\"lo\">ເວົ້າກ່ຽວກັບອາຫານ</span> <span class=\"rom\">Wȁo kìaw-káp ǎa-hǎan.</span></li><li><span class=\"lo\">ເຂົ້າໃຈໝົດເລີຍ</span> <span class=\"rom\">Khâo-jǎy mōt lɤ́ɤy.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
   },
   {
    "title": "Expression écrite",
@@ -93,7 +93,7 @@
   {
    "id": "l83-p02",
    "front": "Elle parle de cuisine.",
-   "back": "ເວົ້າກ່ຽວກັບອາຫານ · Wȁo kìaw-kǎp ǎa-hǎan."
+   "back": "ເວົ້າກ່ຽວກັບອາຫານ · Wȁo kìaw-káp ǎa-hǎan."
   },
   {
    "id": "l83-p03",
@@ -239,7 +239,7 @@
       "Regarde cette vidéo et raconte-la-moi."
      ],
      "answer": "D'abord on pile le piment avec l'ail, puis on ajoute la papaye.",
-     "reveal": "<i>Thám-ít tǎm mȁak-phēt kǎp ká-thíam, lɛ̏ɛw sày mȁak-hùng.</i>"
+     "reveal": "<i>Thám-ít tǎm mȁak-phēt káp ká-thíam, lɛ̏ɛw sày mȁak-hùng.</i>"
     },
     {
      "audio": [
@@ -286,7 +286,7 @@
       "En résumé…"
      ],
      "answer": "Elle parle de cuisine.",
-     "reveal": "<i>Wȁo kìaw-kǎp ǎa-hǎan.</i>"
+     "reveal": "<i>Wȁo kìaw-káp ǎa-hǎan.</i>"
     },
     {
      "audio": [
@@ -349,7 +349,7 @@
   },
   {
    "lao": "ເວົ້າກ່ຽວກັບອາຫານ",
-   "rom": "Wȁo kìaw-kǎp ǎa-hǎan.",
+   "rom": "Wȁo kìaw-káp ǎa-hǎan.",
    "fr": "Elle parle de cuisine.",
    "kind": "phrase"
   },
@@ -375,7 +375,7 @@
     "ກ່ຽວກັບ",
     "ອາຫານ"
    ],
-   "rom": "Wȁo kìaw-kǎp ǎa-hǎan.",
+   "rom": "Wȁo kìaw-káp ǎa-hǎan.",
    "fr": "Elle parle de cuisine."
   },
   {
@@ -427,7 +427,7 @@
   "ບໍ່ ຄື": "Bɔ̀ɔ… khʉ́ʉ",
   "ເບິ່ງວິດີໂອນີ້ແລ້ວເລົ່າໃຫ້ຟັງແດ່": "Bɤ̀ng wī-dǐi-ǒo nȉi lɛ̏ɛw lāo hây fáng dɛ̀ɛ.",
   "ເຂົາສອນເຮັດຕຳໝາກຫຸ່ງ": "Khǎo sɔ̌ɔn hēt tǎm-mȁak-hùng.",
-  "ທຳອິດຕຳໝາກເຜັດກັບກະທຽມ ແລ້ວໃສ່ໝາກຫຸ່ງ": "Thám-ít tǎm mȁak-phēt kǎp ká-thíam, lɛ̏ɛw sày mȁak-hùng.",
+  "ທຳອິດຕຳໝາກເຜັດກັບກະທຽມ ແລ້ວໃສ່ໝາກຫຸ່ງ": "Thám-ít tǎm mȁak-phēt káp ká-thíam, lɛ̏ɛw sày mȁak-hùng.",
   "ເກັ່ງ ເຂົ້າໃຈໝົດເລີຍ": "Kèng! Khâo-jǎy mōt lɤ́ɤy.",
   "ວິດີໂອ": "Wī-dǐi-ǒo",
   "ເລົ່າໃຫ້ຟັງ": "Lāo hây fáng",
@@ -436,12 +436,12 @@
   "ກະທຽມ": "Ká-thíam",
   "ເຂົ້າໃຈໝົດ": "Khâo-jǎy mōt",
   "ສະຫຼຸບແລ້ວ": "Sā-lūp lɛ̏ɛw…",
-  "ເລື່ອງນີ້ເວົ້າກ່ຽວກັບ": "Lʉ̄ang nȉi wȁo kìaw-kǎp…",
-  "ເວົ້າກ່ຽວກັບອາຫານ": "Wȁo kìaw-kǎp ǎa-hǎan.",
+  "ເລື່ອງນີ້ເວົ້າກ່ຽວກັບ": "Lʉ̄ang nȉi wȁo kìaw-káp…",
+  "ເວົ້າກ່ຽວກັບອາຫານ": "Wȁo kìaw-káp ǎa-hǎan.",
   "ເຂົ້າໃຈໝົດເລີຍ": "Khâo-jǎy mōt lɤ́ɤy.",
   "ແລ້ວ": "lɛ̏ɛw",
   "ເວົ້າ": "wȁo",
-  "ກ່ຽວກັບ": "kìaw-kǎp",
+  "ກ່ຽວກັບ": "kìaw-káp",
   "ອາຫານ": "ǎa-hǎan",
   "ເຂົ້າໃຈ": "khâo-jǎy",
   "ໝົດ": "mōt",

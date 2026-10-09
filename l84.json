@@ -19,7 +19,7 @@
   },
   {
    "title": "Dialogue",
-   "html": "<p class=\"muted\">M. Somsak lit le journal.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ມື້ນີ້ໜັງສືພິມລົງຂ່າວກ່ຽວກັບລົດໄຟລາວ-ຈີນ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ່າວເວົ້າວ່າແນວໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ນັກທ່ອງທ່ຽວເພີ່ມຂຶ້ນຫຼາຍ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ດີສຳລັບເສດຖະກິດເນາະ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Mʉ̂ʉ-nȉi nǎng-sʉ̌ʉ-phím lóng khàaw kìaw-kǎp lōt-fáy láaw- jǐin.</span><br><span class=\"rom\">Khàaw wȁo wāa nɛ́ɛw-dǎy?</span><br><span class=\"rom\">Nāk-thɔ̄ɔng-thìaw phɤ̄ɤm khʉ̂n lǎay.</span><br><span class=\"rom\">Dǐi sǎm-láp sȅet-thā-kít nɔ̄.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>M. Somsak</b> — Aujourd&#x27;hui, le journal parle du train Laos-Chine.<br><b>Clara</b> — Que dit l&#x27;article ?<br><b>M. Somsak</b> — Le nombre de touristes a beaucoup augmenté.<br><b>Clara</b> — C&#x27;est bien pour l&#x27;économie.</p></details>"
+   "html": "<p class=\"muted\">M. Somsak lit le journal.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ມື້ນີ້ໜັງສືພິມລົງຂ່າວກ່ຽວກັບລົດໄຟລາວ-ຈີນ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ່າວເວົ້າວ່າແນວໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ນັກທ່ອງທ່ຽວເພີ່ມຂຶ້ນຫຼາຍ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ດີສຳລັບເສດຖະກິດເນາະ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Mʉ̂ʉ-nȉi nǎng-sʉ̌ʉ-phím lóng khàaw kìaw-káp lōt-fáy láaw- jǐin.</span><br><span class=\"rom\">Khàaw wȁo wāa nɛ́ɛw-dǎy?</span><br><span class=\"rom\">Nāk-thɔ̄ɔng-thīaw phɤ̄ɤm khʉ̂n lǎay.</span><br><span class=\"rom\">Dǐi sǎm-láp sȅet-thā-kít nɔ̄.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>M. Somsak</b> — Aujourd&#x27;hui, le journal parle du train Laos-Chine.<br><b>Clara</b> — Que dit l&#x27;article ?<br><b>M. Somsak</b> — Le nombre de touristes a beaucoup augmenté.<br><b>Clara</b> — C&#x27;est bien pour l&#x27;économie.</p></details>"
   },
   {
    "title": "Compréhension",
@@ -27,7 +27,7 @@
   },
   {
    "title": "Vocabulaire et blocs",
-   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ໜັງສືພິມ</td><td class=\"rom\">Nǎng-sʉ̌ʉ-phím</td><td>journal</td><td></td></tr><tr><td class=\"lo\">ຂ່າວ</td><td class=\"rom\">Khàaw</td><td>nouvelle, info</td><td></td></tr><tr><td class=\"lo\">ລົງຂ່າວ</td><td class=\"rom\">Lóng khàaw</td><td>publier une info</td><td></td></tr><tr><td class=\"lo\">ເພີ່ມຂຶ້ນ</td><td class=\"rom\">Phɤ̄ɤm khʉ̂n</td><td>augmenter</td><td></td></tr><tr><td class=\"lo\">ຫຼຸດລົງ</td><td class=\"rom\">Lūt lóng</td><td>diminuer</td><td></td></tr><tr><td class=\"lo\">ເສດຖະກິດ</td><td class=\"rom\">Sȅet-thā-kít</td><td>économie</td><td></td></tr><tr><td class=\"lo\">ນັກທ່ອງທ່ຽວ</td><td class=\"rom\">Nāk-thɔ̄ɔng-thìaw</td><td>touriste</td><td></td></tr></table></div>"
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ໜັງສືພິມ</td><td class=\"rom\">Nǎng-sʉ̌ʉ-phím</td><td>journal</td><td></td></tr><tr><td class=\"lo\">ຂ່າວ</td><td class=\"rom\">Khàaw</td><td>nouvelle, info</td><td></td></tr><tr><td class=\"lo\">ລົງຂ່າວ</td><td class=\"rom\">Lóng khàaw</td><td>publier une info</td><td></td></tr><tr><td class=\"lo\">ເພີ່ມຂຶ້ນ</td><td class=\"rom\">Phɤ̄ɤm khʉ̂n</td><td>augmenter</td><td></td></tr><tr><td class=\"lo\">ຫຼຸດລົງ</td><td class=\"rom\">Lūt lóng</td><td>diminuer</td><td></td></tr><tr><td class=\"lo\">ເສດຖະກິດ</td><td class=\"rom\">Sȅet-thā-kít</td><td>économie</td><td></td></tr><tr><td class=\"lo\">ນັກທ່ອງທ່ຽວ</td><td class=\"rom\">Nāk-thɔ̄ɔng-thīaw</td><td>touriste</td><td></td></tr></table></div>"
   },
   {
    "title": "Point de langue : augmenter, diminuer",
@@ -88,7 +88,7 @@
   {
    "id": "l84-v07",
    "front": "ນັກທ່ອງທ່ຽວ",
-   "back": "Nāk-thɔ̄ɔng-thìaw · touriste"
+   "back": "Nāk-thɔ̄ɔng-thīaw · touriste"
   },
   {
    "id": "l84-p01",
@@ -208,7 +208,7 @@
       "augmenter"
      ],
      "answer": "touriste",
-     "reveal": "<i>Nāk-thɔ̄ɔng-thìaw</i>"
+     "reveal": "<i>Nāk-thɔ̄ɔng-thīaw</i>"
     }
    ]
   },
@@ -230,7 +230,7 @@
       "C'est bien pour l'économie."
      ],
      "answer": "Aujourd'hui, le journal parle du train Laos-Chine.",
-     "reveal": "<i>Mʉ̂ʉ-nȉi nǎng-sʉ̌ʉ-phím lóng khàaw kìaw-kǎp lōt-fáy láaw- jǐin.</i>"
+     "reveal": "<i>Mʉ̂ʉ-nȉi nǎng-sʉ̌ʉ-phím lóng khàaw kìaw-káp lōt-fáy láaw- jǐin.</i>"
     },
     {
      "audio": [
@@ -258,7 +258,7 @@
       "Que dit l'article ?"
      ],
      "answer": "Le nombre de touristes a beaucoup augmenté.",
-     "reveal": "<i>Nāk-thɔ̄ɔng-thìaw phɤ̄ɤm khʉ̂n lǎay.</i>"
+     "reveal": "<i>Nāk-thɔ̄ɔng-thīaw phɤ̄ɤm khʉ̂n lǎay.</i>"
     },
     {
      "audio": [
@@ -362,7 +362,7 @@
   },
   {
    "lao": "ນັກທ່ອງທ່ຽວ",
-   "rom": "Nāk-thɔ̄ɔng-thìaw",
+   "rom": "Nāk-thɔ̄ɔng-thīaw",
    "fr": "touriste",
    "kind": "phrase"
   },
@@ -448,7 +448,7 @@
   },
   {
    "lao": "ນັກທ່ອງທ່ຽວ",
-   "rom": "Nāk-thɔ̄ɔng-thìaw",
+   "rom": "Nāk-thɔ̄ɔng-thīaw",
    "fr": "touriste"
   }
  ],
@@ -457,9 +457,9 @@
   "ນໍ": "Nɔ́ɔ",
   "ສາທຸ": "Sǎa-thū",
   "ຊ່ວຍ ໃຫ້ແດ່": "Sūay… hây dɛ̀ɛ",
-  "ມື້ນີ້ໜັງສືພິມລົງຂ່າວກ່ຽວກັບລົດໄຟລາວ-ຈີນ": "Mʉ̂ʉ-nȉi nǎng-sʉ̌ʉ-phím lóng khàaw kìaw-kǎp lōt-fáy láaw- jǐin.",
+  "ມື້ນີ້ໜັງສືພິມລົງຂ່າວກ່ຽວກັບລົດໄຟລາວ-ຈີນ": "Mʉ̂ʉ-nȉi nǎng-sʉ̌ʉ-phím lóng khàaw kìaw-káp lōt-fáy láaw- jǐin.",
   "ຂ່າວເວົ້າວ່າແນວໃດ": "Khàaw wȁo wāa nɛ́ɛw-dǎy?",
-  "ນັກທ່ອງທ່ຽວເພີ່ມຂຶ້ນຫຼາຍ": "Nāk-thɔ̄ɔng-thìaw phɤ̄ɤm khʉ̂n lǎay.",
+  "ນັກທ່ອງທ່ຽວເພີ່ມຂຶ້ນຫຼາຍ": "Nāk-thɔ̄ɔng-thīaw phɤ̄ɤm khʉ̂n lǎay.",
   "ດີສຳລັບເສດຖະກິດເນາະ": "Dǐi sǎm-láp sȅet-thā-kít nɔ̄.",
   "ໜັງສືພິມ": "Nǎng-sʉ̌ʉ-phím",
   "ຂ່າວ": "khàaw",
@@ -467,7 +467,7 @@
   "ເພີ່ມຂຶ້ນ": "Phɤ̄ɤm khʉ̂n",
   "ຫຼຸດລົງ": "Lūt lóng",
   "ເສດຖະກິດ": "sȅet-thā-kít",
-  "ນັກທ່ອງທ່ຽວ": "Nāk-thɔ̄ɔng-thìaw",
+  "ນັກທ່ອງທ່ຽວ": "Nāk-thɔ̄ɔng-thīaw",
   "ລາຄາສູງຂຶ້ນ": "Láa-khǎa sǔung khʉ̂n.",
   "ດີສຳລັບເສດຖະກິດ": "Dǐi sǎm-láp sȅet-thā-kít.",
   "ລາຄາ": "láa-khǎa",
@@ -479,5 +479,5 @@
   "ດີ": "dǐi",
   "ສຳລັບ": "sǎm-láp"
  },
- "suivi": "LEÇON : 84 — Partie E (S'exprimer (cours en lao), B1) · Lire un article simple\nOBJECTIF : Comprendre et résumer un article de presse facile.\nNOTION : augmenter, diminuer\nVOCAB : Nǎng-sʉ̌ʉ-phím, Khàaw, Lóng khàaw, Phɤ̄ɤm khʉ̂n, Lūt lóng, Sȅet-thā-kít, Nāk-thɔ̄ɔng-thìaw\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 85 — Écrire un message formel"
+ "suivi": "LEÇON : 84 — Partie E (S'exprimer (cours en lao), B1) · Lire un article simple\nOBJECTIF : Comprendre et résumer un article de presse facile.\nNOTION : augmenter, diminuer\nVOCAB : Nǎng-sʉ̌ʉ-phím, Khàaw, Lóng khàaw, Phɤ̄ɤm khʉ̂n, Lūt lóng, Sȅet-thā-kít, Nāk-thɔ̄ɔng-thīaw\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 85 — Écrire un message formel"
 }

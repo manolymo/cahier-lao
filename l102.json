@@ -1,0 +1,440 @@
+{
+ "num": 102,
+ "phase": "Partie F · Argumenter",
+ "title": "Les dialectes",
+ "objective": "Reconnaître le lao de Luang Prabang et du Sud.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>ne pas arriver à suivre <small class=\"muted\">(leçon 101)</small></li><li>expliquer <small class=\"muted\">(leçon 99)</small></li><li>d&#x27;ici, en (délai) <small class=\"muted\">(leçon 95)</small></li><li>être différent <small class=\"muted\">(leçon 88)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຕາມບໍ່ທັນ</span> <span class=\"rom\">Tǎam bɔ̀ɔ thán</span> · ne pas arriver à suivre</li><li><span class=\"lo\">ອະທິບາຍ</span> <span class=\"rom\">Á-thī-bǎay</span> · expliquer</li><li><span class=\"lo\">ພາຍໃນ</span> <span class=\"rom\">Pháay-nǎy</span> · d&#x27;ici, en (délai)</li><li><span class=\"lo\">ຕ່າງກັນ</span> <span class=\"rom\">Tàang kǎn</span> · être différent</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Reconnaître le lao de Luang Prabang et du Sud.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Voyage à Luang Prabang.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຄົນຫຼວງພະບາງເວົ້າຕ່າງຈາກວຽງຈັນບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຕ່າງໜ້ອຍໜຶ່ງ ສຽງວັນນະຍຸດບໍ່ຄືກັນ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ພາກໃຕ້ກໍມີສຳນຽງຂອງເຂົາເອງ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຂົ້າໃຈກັນໄດ້ບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ໄດ້ສະບາຍ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Khón lǔang-phā-báang wȁo tàang jȁak wíang-jǎn bɔ̌ɔ?</span><br><span class=\"rom\">Tàang nɔ̂ɔy nʉ̀ng. Sǐang wán-nā-nyūt bɔ̀ɔ khʉ́ʉ kǎn.</span><br><span class=\"rom\">Phâak-tâay kɔ̂ɔ míi sǎm-níang khɔ̌ɔng khǎo ěeng.</span><br><span class=\"rom\">Khâo-jǎy kǎn dâay bɔ̌ɔ?</span><br><span class=\"rom\">Dâay sā-bǎay.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Les gens de Luang Prabang parlent différemment de Vientiane ?<br><b>Noy</b> — Un peu. Les tons ne sont pas les mêmes.<br><b>Noy</b> — Le Sud aussi a son propre accent.<br><b>Clara</b> — On se comprend quand même ?<br><b>Noy</b> — Oui, sans problème.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Qu&#x27;est-ce qui change entre les régions ?</li></ol><details><summary>Réponses</summary><ol><li>Les tons, l&#x27;accent, quelques mots.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ສຳນຽງ</td><td class=\"rom\">Sǎm-níang</td><td>accent</td><td></td></tr><tr><td class=\"lo\">ພາສາທ້ອງຖິ່ນ</td><td class=\"rom\">Pháa-sǎa thȍɔng-thìn</td><td>dialecte, parler local</td><td></td></tr><tr><td class=\"lo\">ສຽງວັນນະຍຸດ</td><td class=\"rom\">Sǐang wán-nā-nyūt</td><td>ton</td><td></td></tr><tr><td class=\"lo\">ຕ່າງຈາກ</td><td class=\"rom\">Tàang jȁak</td><td>différent de</td><td></td></tr><tr><td class=\"lo\">ພາສາມາດຕະຖານ</td><td class=\"rom\">Pháa-sǎa mâat-tá-thǎan</td><td>langue standard</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : parler des variations",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ເວົ້າສຳນຽງຫຼວງພະບາງ</span> <span class=\"rom\">Wȁo sǎm-níang lǔang-phā-báang</span> = parler avec l&#x27;accent de Luang Prabang</li></ul><details><summary>La règle</summary><p>Le lao de Vientiane est la norme. Luang Prabang et le Sud (Pakse, Champassak) ont d'autres systèmes tonals et quelques mots propres. [Détails À VÉRIFIER]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les différences de mélodie entre régions.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Ils parlent différemment ?</li><li>Chaque région a son accent.</li><li>On se comprend.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເວົ້າຕ່າງກັນບໍ?</span> <span class=\"rom\">Wȁo tàang kǎn bɔ̌ɔ?</span></li><li><span class=\"lo\">ແຕ່ລະພາກມີສຳນຽງ</span> <span class=\"rom\">Tɛ̀ɛ-lā phâak míi sǎm-níang.</span></li><li><span class=\"lo\">ເຂົ້າໃຈກັນໄດ້</span> <span class=\"rom\">Khâo-jǎy kǎn dâay.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écoute un locuteur du Nord et un du Sud, et note 3 différences.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Demande à un natif de quelle région il vient et quelles différences il remarque.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>8 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l102-v01",
+   "front": "ສຳນຽງ",
+   "back": "Sǎm-níang · accent"
+  },
+  {
+   "id": "l102-v02",
+   "front": "ພາສາທ້ອງຖິ່ນ",
+   "back": "Pháa-sǎa thȍɔng-thìn · dialecte, parler local"
+  },
+  {
+   "id": "l102-v03",
+   "front": "ສຽງວັນນະຍຸດ",
+   "back": "Sǐang wán-nā-nyūt · ton"
+  },
+  {
+   "id": "l102-v04",
+   "front": "ຕ່າງຈາກ",
+   "back": "Tàang jȁak · différent de"
+  },
+  {
+   "id": "l102-v05",
+   "front": "ພາສາມາດຕະຖານ",
+   "back": "Pháa-sǎa mâat-tá-thǎan · langue standard"
+  },
+  {
+   "id": "l102-p01",
+   "front": "Ils parlent différemment ?",
+   "back": "ເວົ້າຕ່າງກັນບໍ? · Wȁo tàang kǎn bɔ̌ɔ?"
+  },
+  {
+   "id": "l102-p02",
+   "front": "Chaque région a son accent.",
+   "back": "ແຕ່ລະພາກມີສຳນຽງ · Tɛ̀ɛ-lā phâak míi sǎm-níang."
+  },
+  {
+   "id": "l102-p03",
+   "front": "On se comprend.",
+   "back": "ເຂົ້າໃຈກັນໄດ້ · Khâo-jǎy kǎn dâay."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ສຳນຽງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "accent",
+      "ton",
+      "dialecte, parler local",
+      "différent de"
+     ],
+     "answer": "accent",
+     "reveal": "<i>Sǎm-níang</i>"
+    },
+    {
+     "audio": [
+      "ພາສາທ້ອງຖິ່ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "dialecte, parler local",
+      "accent",
+      "langue standard",
+      "ton"
+     ],
+     "answer": "dialecte, parler local",
+     "reveal": "<i>Pháa-sǎa thȍɔng-thìn</i>"
+    },
+    {
+     "audio": [
+      "ສຽງວັນນະຍຸດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ton",
+      "différent de",
+      "dialecte, parler local",
+      "accent"
+     ],
+     "answer": "ton",
+     "reveal": "<i>Sǐang wán-nā-nyūt</i>"
+    },
+    {
+     "audio": [
+      "ຕ່າງຈາກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "différent de",
+      "dialecte, parler local",
+      "accent",
+      "langue standard"
+     ],
+     "answer": "différent de",
+     "reveal": "<i>Tàang jȁak</i>"
+    },
+    {
+     "audio": [
+      "ພາສາມາດຕະຖານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "langue standard",
+      "différent de",
+      "accent",
+      "ton"
+     ],
+     "answer": "langue standard",
+     "reveal": "<i>Pháa-sǎa mâat-tá-thǎan</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຄົນຫຼວງພະບາງເວົ້າຕ່າງຈາກວຽງຈັນບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Les gens de Luang Prabang parlent différemment de Vientiane ?",
+      "Oui, sans problème.",
+      "On se comprend quand même ?",
+      "Le Sud aussi a son propre accent."
+     ],
+     "answer": "Les gens de Luang Prabang parlent différemment de Vientiane ?",
+     "reveal": "<i>Khón lǔang-phā-báang wȁo tàang jȁak wíang-jǎn bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຕ່າງໜ້ອຍໜຶ່ງ ສຽງວັນນະຍຸດບໍ່ຄືກັນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Un peu. Les tons ne sont pas les mêmes.",
+      "Le Sud aussi a son propre accent.",
+      "On se comprend quand même ?",
+      "Oui, sans problème."
+     ],
+     "answer": "Un peu. Les tons ne sont pas les mêmes.",
+     "reveal": "<i>Tàang nɔ̂ɔy nʉ̀ng. Sǐang wán-nā-nyūt bɔ̀ɔ khʉ́ʉ kǎn.</i>"
+    },
+    {
+     "audio": [
+      "ພາກໃຕ້ກໍມີສຳນຽງຂອງເຂົາເອງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Le Sud aussi a son propre accent.",
+      "Oui, sans problème.",
+      "On se comprend quand même ?",
+      "Un peu. Les tons ne sont pas les mêmes."
+     ],
+     "answer": "Le Sud aussi a son propre accent.",
+     "reveal": "<i>Phâak-tâay kɔ̂ɔ míi sǎm-níang khɔ̌ɔng khǎo ěeng.</i>"
+    },
+    {
+     "audio": [
+      "ເຂົ້າໃຈກັນໄດ້ບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "On se comprend quand même ?",
+      "Oui, sans problème.",
+      "Les gens de Luang Prabang parlent différemment de Vientiane ?",
+      "Le Sud aussi a son propre accent."
+     ],
+     "answer": "On se comprend quand même ?",
+     "reveal": "<i>Khâo-jǎy kǎn dâay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້ສະບາຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oui, sans problème.",
+      "Le Sud aussi a son propre accent.",
+      "Un peu. Les tons ne sont pas les mêmes.",
+      "Les gens de Luang Prabang parlent différemment de Vientiane ?"
+     ],
+     "answer": "Oui, sans problème.",
+     "reveal": "<i>Dâay sā-bǎay.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເວົ້າຕ່າງກັນບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Ils parlent différemment ?",
+      "Chaque région a son accent.",
+      "On se comprend."
+     ],
+     "answer": "Ils parlent différemment ?",
+     "reveal": "<i>Wȁo tàang kǎn bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ແຕ່ລະພາກມີສຳນຽງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Chaque région a son accent.",
+      "On se comprend.",
+      "Ils parlent différemment ?"
+     ],
+     "answer": "Chaque région a son accent.",
+     "reveal": "<i>Tɛ̀ɛ-lā phâak míi sǎm-níang.</i>"
+    },
+    {
+     "audio": [
+      "ເຂົ້າໃຈກັນໄດ້"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "On se comprend.",
+      "Chaque région a son accent.",
+      "Ils parlent différemment ?"
+     ],
+     "answer": "On se comprend.",
+     "reveal": "<i>Khâo-jǎy kǎn dâay.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ສຳນຽງ",
+   "rom": "Sǎm-níang",
+   "fr": "accent",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພາສາທ້ອງຖິ່ນ",
+   "rom": "Pháa-sǎa thȍɔng-thìn",
+   "fr": "dialecte, parler local",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສຽງວັນນະຍຸດ",
+   "rom": "Sǐang wán-nā-nyūt",
+   "fr": "ton",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕ່າງຈາກ",
+   "rom": "Tàang jȁak",
+   "fr": "différent de",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພາສາມາດຕະຖານ",
+   "rom": "Pháa-sǎa mâat-tá-thǎan",
+   "fr": "langue standard",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເວົ້າຕ່າງກັນບໍ?",
+   "rom": "Wȁo tàang kǎn bɔ̌ɔ?",
+   "fr": "Ils parlent différemment ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແຕ່ລະພາກມີສຳນຽງ",
+   "rom": "Tɛ̀ɛ-lā phâak míi sǎm-níang.",
+   "fr": "Chaque région a son accent.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຂົ້າໃຈກັນໄດ້",
+   "rom": "Khâo-jǎy kǎn dâay.",
+   "fr": "On se comprend.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ເວົ້າ",
+    "ຕ່າງ",
+    "ກັນ",
+    "ບໍ"
+   ],
+   "rom": "Wȁo tàang kǎn bɔ̌ɔ?",
+   "fr": "Ils parlent différemment ?"
+  },
+  {
+   "tokens": [
+    "ແຕ່ລະ",
+    "ພາກ",
+    "ມີ",
+    "ສຳນຽງ"
+   ],
+   "rom": "Tɛ̀ɛ-lā phâak míi sǎm-níang.",
+   "fr": "Chaque région a son accent."
+  },
+  {
+   "tokens": [
+    "ເຂົ້າໃຈ",
+    "ກັນ",
+    "ໄດ້"
+   ],
+   "rom": "Khâo-jǎy kǎn dâay.",
+   "fr": "On se comprend."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ສຳນຽງ",
+   "rom": "Sǎm-níang",
+   "fr": "accent"
+  },
+  {
+   "lao": "ພາສາທ້ອງຖິ່ນ",
+   "rom": "Pháa-sǎa thȍɔng-thìn",
+   "fr": "dialecte, parler local"
+  },
+  {
+   "lao": "ສຽງວັນນະຍຸດ",
+   "rom": "Sǐang wán-nā-nyūt",
+   "fr": "ton"
+  },
+  {
+   "lao": "ຕ່າງຈາກ",
+   "rom": "Tàang jȁak",
+   "fr": "différent de"
+  },
+  {
+   "lao": "ພາສາມາດຕະຖານ",
+   "rom": "Pháa-sǎa mâat-tá-thǎan",
+   "fr": "langue standard"
+  }
+ ],
+ "sounds": {
+  "ຕາມບໍ່ທັນ": "Tǎam bɔ̀ɔ thán",
+  "ອະທິບາຍ": "Á-thī-bǎay",
+  "ພາຍໃນ": "Pháay-nǎy",
+  "ຕ່າງກັນ": "Tàang kǎn",
+  "ຄົນຫຼວງພະບາງເວົ້າຕ່າງຈາກວຽງຈັນບໍ": "Khón lǔang-phā-báang wȁo tàang jȁak wíang-jǎn bɔ̌ɔ?",
+  "ຕ່າງໜ້ອຍໜຶ່ງ ສຽງວັນນະຍຸດບໍ່ຄືກັນ": "Tàang nɔ̂ɔy nʉ̀ng. Sǐang wán-nā-nyūt bɔ̀ɔ khʉ́ʉ kǎn.",
+  "ພາກໃຕ້ກໍມີສຳນຽງຂອງເຂົາເອງ": "Phâak-tâay kɔ̂ɔ míi sǎm-níang khɔ̌ɔng khǎo ěeng.",
+  "ເຂົ້າໃຈກັນໄດ້ບໍ": "Khâo-jǎy kǎn dâay bɔ̌ɔ?",
+  "ໄດ້ສະບາຍ": "Dâay sā-bǎay.",
+  "ສຳນຽງ": "sǎm-níang",
+  "ພາສາທ້ອງຖິ່ນ": "Pháa-sǎa thȍɔng-thìn",
+  "ສຽງວັນນະຍຸດ": "Sǐang wán-nā-nyūt",
+  "ຕ່າງຈາກ": "Tàang jȁak",
+  "ພາສາມາດຕະຖານ": "Pháa-sǎa mâat-tá-thǎan",
+  "ເວົ້າສຳນຽງຫຼວງພະບາງ": "Wȁo sǎm-níang lǔang-phā-báang",
+  "ເວົ້າຕ່າງກັນບໍ": "Wȁo tàang kǎn bɔ̌ɔ?",
+  "ແຕ່ລະພາກມີສຳນຽງ": "Tɛ̀ɛ-lā phâak míi sǎm-níang.",
+  "ເຂົ້າໃຈກັນໄດ້": "Khâo-jǎy kǎn dâay.",
+  "ເວົ້າ": "wȁo",
+  "ຕ່າງ": "tàang",
+  "ກັນ": "kǎn",
+  "ບໍ": "bɔ̌ɔ",
+  "ແຕ່ລະ": "tɛ̀ɛ-lā",
+  "ພາກ": "phâak",
+  "ມີ": "míi",
+  "ເຂົ້າໃຈ": "khâo-jǎy",
+  "ໄດ້": "dâay"
+ },
+ "suivi": "LEÇON : 102 — Partie F (Argumenter, B2) · Les dialectes\nOBJECTIF : Reconnaître le lao de Luang Prabang et du Sud.\nNOTION : parler des variations\nVOCAB : Sǎm-níang, Pháa-sǎa thȍɔng-thìn, Sǐang wán-nā-nyūt, Tàang jȁak, Pháa-sǎa mâat-tá-thǎan\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 103 — L'Isan et le lao"
+}

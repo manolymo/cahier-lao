@@ -19,7 +19,7 @@
   },
   {
    "title": "Dialogue",
-   "html": "<p class=\"muted\">Rêves de loterie au café.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຖ້າຖືກເລກ ເຈົ້າຈະເຮັດຫຍັງ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຖ້າຂ້ອຍມີເງິນຫຼາຍ ຂ້ອຍຈະຊື້ເຮືອນຢູ່ລາວ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຂ້ອຍຈະພາພໍ່ແມ່ໄປທ່ຽວຮອບໂລກ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສົມມຸດວ່າເຮົາໄປນຳກັນເດ?</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Thâa thʉ̀ʉk lêek, jâo já hēt nyǎng?</span><br><span class=\"rom\">Thâa khɔ̂ɔy míi ngɤ́n lǎay, khɔ̂ɔy já sȕu hʉ́an yùu láaw.</span><br><span class=\"rom\">Khɔ̂ɔy já pháa phɔ̄ɔ mɛ̄ɛ pǎy thìaw hɔ̂ɔp lôok.</span><br><span class=\"rom\">Sǒm-mūt wāa háo pǎy nám kǎn dě?</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Si tu gagnais à la loterie, tu ferais quoi ?<br><b>Clara</b> — Si j&#x27;avais beaucoup d&#x27;argent, j&#x27;achèterais une maison au Laos.<br><b>Noy</b> — Moi, j&#x27;emmènerais mes parents faire le tour du monde.<br><b>Clara</b> — Et si on partait ensemble ?</p></details>"
+   "html": "<p class=\"muted\">Rêves de loterie au café.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຖ້າຖືກເລກ ເຈົ້າຈະເຮັດຫຍັງ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຖ້າຂ້ອຍມີເງິນຫຼາຍ ຂ້ອຍຈະຊື້ເຮືອນຢູ່ລາວ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຂ້ອຍຈະພາພໍ່ແມ່ໄປທ່ຽວຮອບໂລກ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສົມມຸດວ່າເຮົາໄປນຳກັນເດ?</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Thâa thʉ̀ʉk lêek, jâo já hēt nyǎng?</span><br><span class=\"rom\">Thâa khɔ̂ɔy míi ngɤ́n lǎay, khɔ̂ɔy já sȕu hʉ́an yùu láaw.</span><br><span class=\"rom\">Khɔ̂ɔy já pháa phɔ̄ɔ mɛ̄ɛ pǎy thīaw hɔ̂ɔp lôok.</span><br><span class=\"rom\">Sǒm-mūt wāa háo pǎy nám kǎn dě?</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Si tu gagnais à la loterie, tu ferais quoi ?<br><b>Clara</b> — Si j&#x27;avais beaucoup d&#x27;argent, j&#x27;achèterais une maison au Laos.<br><b>Noy</b> — Moi, j&#x27;emmènerais mes parents faire le tour du monde.<br><b>Clara</b> — Et si on partait ensemble ?</p></details>"
   },
   {
    "title": "Compréhension",
@@ -239,7 +239,7 @@
       "Si tu gagnais à la loterie, tu ferais quoi ?"
      ],
      "answer": "Moi, j'emmènerais mes parents faire le tour du monde.",
-     "reveal": "<i>Khɔ̂ɔy já pháa phɔ̄ɔ mɛ̄ɛ pǎy thìaw hɔ̂ɔp lôok.</i>"
+     "reveal": "<i>Khɔ̂ɔy já pháa phɔ̄ɔ mɛ̄ɛ pǎy thīaw hɔ̂ɔp lôok.</i>"
     },
     {
      "audio": [
@@ -429,7 +429,7 @@
   "ຕື່ນເຕັ້ນ": "Tʉ̀ʉn-tên",
   "ຖ້າຖືກເລກ ເຈົ້າຈະເຮັດຫຍັງ": "Thâa thʉ̀ʉk lêek, jâo já hēt nyǎng?",
   "ຖ້າຂ້ອຍມີເງິນຫຼາຍ ຂ້ອຍຈະຊື້ເຮືອນຢູ່ລາວ": "Thâa khɔ̂ɔy míi ngɤ́n lǎay, khɔ̂ɔy já sȕu hʉ́an yùu láaw.",
-  "ຂ້ອຍຈະພາພໍ່ແມ່ໄປທ່ຽວຮອບໂລກ": "Khɔ̂ɔy já pháa phɔ̄ɔ mɛ̄ɛ pǎy thìaw hɔ̂ɔp lôok.",
+  "ຂ້ອຍຈະພາພໍ່ແມ່ໄປທ່ຽວຮອບໂລກ": "Khɔ̂ɔy já pháa phɔ̄ɔ mɛ̄ɛ pǎy thīaw hɔ̂ɔp lôok.",
   "ສົມມຸດວ່າເຮົາໄປນຳກັນເດ": "Sǒm-mūt wāa háo pǎy nám kǎn dě?",
   "ຖ້າ ຈະ": "Thâa… já",
   "ສົມມຸດວ່າ": "Sǒm-mūt wāa…",

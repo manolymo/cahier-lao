@@ -1,0 +1,373 @@
+{
+ "num": 110,
+ "phase": "Partie F · Argumenter",
+ "title": "Lire un texte long",
+ "objective": "Comprendre et résumer un article complet.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>perdre <small class=\"muted\">(leçon 109)</small></li><li>prévenir, protéger <small class=\"muted\">(leçon 107)</small></li><li>pareil <small class=\"muted\">(leçon 103)</small></li><li>statistique <small class=\"muted\">(leçon 96)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ສູນເສຍ</span> <span class=\"rom\">Sǔun-sǐa</span> · perdre</li><li><span class=\"lo\">ປ້ອງກັນ</span> <span class=\"rom\">Pɔ̂ɔng-kǎn</span> · prévenir, protéger</li><li><span class=\"lo\">ຄືກັນ</span> <span class=\"rom\">Khʉ́ʉ kǎn</span> · pareil</li><li><span class=\"lo\">ສະຖິຕິ</span> <span class=\"rom\">Sā-thī-tī</span> · statistique</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Comprendre et résumer un article complet.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara lit un long article avec Noy.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ບົດຄວາມນີ້ຍາວຫຼາຍ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ອ່ານຫົວຂໍ້ກັບຫຍໍ້ໜ້າທຳອິດກ່ອນ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ແລ້ວຊອກຫາຄຳເຊື່ອມ: ສະນັ້ນ ແຕ່ ນອກຈາກນັ້ນ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Bót-khwáam nȉi nyáaw lǎay.</span><br><span class=\"rom\">Àan hǔa-khɔ̂ɔ káp nyɔ̂ɔ nâa thám-ít kɔ̀ɔn.</span><br><span class=\"rom\">Lɛ̏ɛw sɔ̂ɔk hǎa khám sʉ̄am: sā-nȁn, tɛ̀ɛ, nɔ̂ɔk-jȁak-nȁn.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Cet article est très long.<br><b>Noy</b> — Lis d&#x27;abord le titre et le premier paragraphe.<br><b>Noy</b> — Puis cherche les connecteurs : donc, mais, de plus.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quelle méthode conseille Noy ?</li></ol><details><summary>Réponses</summary><ol><li>Titre, premier paragraphe, puis les connecteurs.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ບົດຄວາມ</td><td class=\"rom\">Bót-khwáam</td><td>article</td><td></td></tr><tr><td class=\"lo\">ຫຍໍ້ໜ້າ</td><td class=\"rom\">Nyɔ̂ɔ nâa</td><td>paragraphe</td><td></td></tr><tr><td class=\"lo\">ຄຳເຊື່ອມ</td><td class=\"rom\">Khám sʉ̄am</td><td>connecteur</td><td></td></tr><tr><td class=\"lo\">ນອກຈາກນັ້ນ</td><td class=\"rom\">Nɔ̂ɔk-jȁak-nȁn</td><td>de plus</td><td></td></tr><tr><td class=\"lo\">ໂດຍລວມ</td><td class=\"rom\">Dóoy lúam</td><td>globalement</td><td></td></tr><tr><td class=\"lo\">ໃຈຄວາມສຳຄັນ</td><td class=\"rom\">Jǎy-khwáam sǎm-khán</td><td>idée principale</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les connecteurs écrits",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ນອກຈາກນັ້ນ</span> <span class=\"rom\">Nɔ̂ɔk-jȁak-nȁn</span> = de plus</li><li><span class=\"lo\">ໃນທາງກົງກັນຂ້າມ</span> <span class=\"rom\">Nǎy tháang kóng-kǎn-khâam</span> = au contraire</li><li><span class=\"lo\">ໂດຍລວມ</span> <span class=\"rom\">Dóoy lúam</span> = globalement</li></ul><details><summary>La règle</summary><p>À l'écrit, les connecteurs organisent le texte : ນອກຈາກນັ້ນ (de plus), ໃນທາງກົງກັນຂ້າມ (au contraire), ດັ່ງນັ້ນ (donc), ໂດຍລວມ (globalement).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> la structure du texte.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>De plus…</li><li>L&#x27;idée principale est…</li><li>Globalement…</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ນອກຈາກນັ້ນ</span> <span class=\"rom\">Nɔ̂ɔk-jȁak-nȁn…</span></li><li><span class=\"lo\">ໃຈຄວາມສຳຄັນແມ່ນ</span> <span class=\"rom\">Jǎy-khwáam sǎm-khán mɛ̄ɛn…</span></li><li><span class=\"lo\">ໂດຍລວມ</span> <span class=\"rom\">Dóoy lúam…</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Résume un article lao de 600 mots en 100 mots.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Lis un article avec un natif et compare vos résumés.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>9 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l110-v01",
+   "front": "ບົດຄວາມ",
+   "back": "Bót-khwáam · article"
+  },
+  {
+   "id": "l110-v02",
+   "front": "ຫຍໍ້ໜ້າ",
+   "back": "Nyɔ̂ɔ nâa · paragraphe"
+  },
+  {
+   "id": "l110-v03",
+   "front": "ຄຳເຊື່ອມ",
+   "back": "Khám sʉ̄am · connecteur"
+  },
+  {
+   "id": "l110-v04",
+   "front": "ນອກຈາກນັ້ນ",
+   "back": "Nɔ̂ɔk-jȁak-nȁn · de plus"
+  },
+  {
+   "id": "l110-v05",
+   "front": "ໂດຍລວມ",
+   "back": "Dóoy lúam · globalement"
+  },
+  {
+   "id": "l110-v06",
+   "front": "ໃຈຄວາມສຳຄັນ",
+   "back": "Jǎy-khwáam sǎm-khán · idée principale"
+  },
+  {
+   "id": "l110-p01",
+   "front": "De plus…",
+   "back": "ນອກຈາກນັ້ນ · Nɔ̂ɔk-jȁak-nȁn…"
+  },
+  {
+   "id": "l110-p02",
+   "front": "L'idée principale est…",
+   "back": "ໃຈຄວາມສຳຄັນແມ່ນ · Jǎy-khwáam sǎm-khán mɛ̄ɛn…"
+  },
+  {
+   "id": "l110-p03",
+   "front": "Globalement…",
+   "back": "ໂດຍລວມ · Dóoy lúam…"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ບົດຄວາມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "article",
+      "paragraphe",
+      "idée principale",
+      "de plus"
+     ],
+     "answer": "article",
+     "reveal": "<i>Bót-khwáam</i>"
+    },
+    {
+     "audio": [
+      "ຫຍໍ້ໜ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "paragraphe",
+      "connecteur",
+      "globalement",
+      "article"
+     ],
+     "answer": "paragraphe",
+     "reveal": "<i>Nyɔ̂ɔ nâa</i>"
+    },
+    {
+     "audio": [
+      "ຄຳເຊື່ອມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "connecteur",
+      "de plus",
+      "idée principale",
+      "paragraphe"
+     ],
+     "answer": "connecteur",
+     "reveal": "<i>Khám sʉ̄am</i>"
+    },
+    {
+     "audio": [
+      "ນອກຈາກນັ້ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "de plus",
+      "paragraphe",
+      "connecteur",
+      "idée principale"
+     ],
+     "answer": "de plus",
+     "reveal": "<i>Nɔ̂ɔk-jȁak-nȁn</i>"
+    },
+    {
+     "audio": [
+      "ໂດຍລວມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "globalement",
+      "article",
+      "de plus",
+      "connecteur"
+     ],
+     "answer": "globalement",
+     "reveal": "<i>Dóoy lúam</i>"
+    },
+    {
+     "audio": [
+      "ໃຈຄວາມສຳຄັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "idée principale",
+      "connecteur",
+      "de plus",
+      "article"
+     ],
+     "answer": "idée principale",
+     "reveal": "<i>Jǎy-khwáam sǎm-khán</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ນອກຈາກນັ້ນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "De plus…",
+      "L'idée principale est…",
+      "Globalement…"
+     ],
+     "answer": "De plus…",
+     "reveal": "<i>Nɔ̂ɔk-jȁak-nȁn…</i>"
+    },
+    {
+     "audio": [
+      "ໃຈຄວາມສຳຄັນແມ່ນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "L'idée principale est…",
+      "De plus…",
+      "Globalement…"
+     ],
+     "answer": "L'idée principale est…",
+     "reveal": "<i>Jǎy-khwáam sǎm-khán mɛ̄ɛn…</i>"
+    },
+    {
+     "audio": [
+      "ໂດຍລວມ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Globalement…",
+      "De plus…",
+      "L'idée principale est…"
+     ],
+     "answer": "Globalement…",
+     "reveal": "<i>Dóoy lúam…</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ບົດຄວາມ",
+   "rom": "Bót-khwáam",
+   "fr": "article",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫຍໍ້ໜ້າ",
+   "rom": "Nyɔ̂ɔ nâa",
+   "fr": "paragraphe",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄຳເຊື່ອມ",
+   "rom": "Khám sʉ̄am",
+   "fr": "connecteur",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນອກຈາກນັ້ນ",
+   "rom": "Nɔ̂ɔk-jȁak-nȁn",
+   "fr": "de plus",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂດຍລວມ",
+   "rom": "Dóoy lúam",
+   "fr": "globalement",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃຈຄວາມສຳຄັນ",
+   "rom": "Jǎy-khwáam sǎm-khán",
+   "fr": "idée principale",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນອກຈາກນັ້ນ",
+   "rom": "Nɔ̂ɔk-jȁak-nȁn…",
+   "fr": "De plus…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃຈຄວາມສຳຄັນແມ່ນ",
+   "rom": "Jǎy-khwáam sǎm-khán mɛ̄ɛn…",
+   "fr": "L'idée principale est…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂດຍລວມ",
+   "rom": "Dóoy lúam…",
+   "fr": "Globalement…",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ໃຈຄວາມ",
+    "ສຳຄັນ",
+    "ແມ່ນ"
+   ],
+   "rom": "Jǎy-khwáam sǎm-khán mɛ̄ɛn…",
+   "fr": "L'idée principale est…"
+  },
+  {
+   "tokens": [
+    "ໂດຍ",
+    "ລວມ"
+   ],
+   "rom": "Dóoy lúam…",
+   "fr": "Globalement…"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ບົດຄວາມ",
+   "rom": "Bót-khwáam",
+   "fr": "article"
+  },
+  {
+   "lao": "ຫຍໍ້ໜ້າ",
+   "rom": "Nyɔ̂ɔ nâa",
+   "fr": "paragraphe"
+  },
+  {
+   "lao": "ຄຳເຊື່ອມ",
+   "rom": "Khám sʉ̄am",
+   "fr": "connecteur"
+  },
+  {
+   "lao": "ນອກຈາກນັ້ນ",
+   "rom": "Nɔ̂ɔk-jȁak-nȁn",
+   "fr": "de plus"
+  },
+  {
+   "lao": "ໂດຍລວມ",
+   "rom": "Dóoy lúam",
+   "fr": "globalement"
+  },
+  {
+   "lao": "ໃຈຄວາມສຳຄັນ",
+   "rom": "Jǎy-khwáam sǎm-khán",
+   "fr": "idée principale"
+  }
+ ],
+ "sounds": {
+  "ສູນເສຍ": "Sǔun-sǐa",
+  "ປ້ອງກັນ": "Pɔ̂ɔng-kǎn",
+  "ຄືກັນ": "Khʉ́ʉ kǎn",
+  "ສະຖິຕິ": "Sā-thī-tī",
+  "ບົດຄວາມນີ້ຍາວຫຼາຍ": "Bót-khwáam nȉi nyáaw lǎay.",
+  "ອ່ານຫົວຂໍ້ກັບຫຍໍ້ໜ້າທຳອິດກ່ອນ": "Àan hǔa-khɔ̂ɔ káp nyɔ̂ɔ nâa thám-ít kɔ̀ɔn.",
+  "ແລ້ວຊອກຫາຄຳເຊື່ອມ: ສະນັ້ນ ແຕ່ ນອກຈາກນັ້ນ": "Lɛ̏ɛw sɔ̂ɔk hǎa khám sʉ̄am: sā-nȁn, tɛ̀ɛ, nɔ̂ɔk-jȁak-nȁn.",
+  "ບົດຄວາມ": "Bót-khwáam",
+  "ຫຍໍ້ໜ້າ": "Nyɔ̂ɔ nâa",
+  "ຄຳເຊື່ອມ": "Khám sʉ̄am",
+  "ນອກຈາກນັ້ນ": "Nɔ̂ɔk-jȁak-nȁn…",
+  "ໂດຍລວມ": "Dóoy lúam…",
+  "ໃຈຄວາມສຳຄັນ": "Jǎy-khwáam sǎm-khán",
+  "ໃນທາງກົງກັນຂ້າມ": "Nǎy tháang kóng-kǎn-khâam",
+  "ໃຈຄວາມສຳຄັນແມ່ນ": "Jǎy-khwáam sǎm-khán mɛ̄ɛn…",
+  "ໃຈຄວາມ": "jǎy-khwáam",
+  "ສຳຄັນ": "sǎm-khán",
+  "ແມ່ນ": "mɛ̄ɛn",
+  "ໂດຍ": "dóoy",
+  "ລວມ": "lúam"
+ },
+ "suivi": "LEÇON : 110 — Partie F (Argumenter, B2) · Lire un texte long\nOBJECTIF : Comprendre et résumer un article complet.\nNOTION : les connecteurs écrits\nVOCAB : Bót-khwáam, Nyɔ̂ɔ nâa, Khám sʉ̄am, Nɔ̂ɔk-jȁak-nȁn, Dóoy lúam, Jǎy-khwáam sǎm-khán\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 111 — Écrire un texte argumenté"
+}

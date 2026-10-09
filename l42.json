@@ -19,7 +19,7 @@
   },
   {
    "title": "Dialogue",
-   "html": "<p class=\"muted\">Kèo parle de ses projets.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ມື້ອື່ນເຈົ້າຈະເຮັດຫຍັງ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຂ້ອຍຈະໄປຫຼິ້ນບານກັບໝູ່</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແລ້ວອາທິດໜ້າເດ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຈະໄປທ່ຽວຫຼວງພະບາງ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ອິດສາແທ້!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Mʉ̂ʉ-ʉ̀ʉn jâo já hēt nyǎng?</span><br><span class=\"rom\">Khɔ̂ɔy já pǎy lîn bǎan kǎp mùu.</span><br><span class=\"rom\">Lɛ̏ɛw ǎa-thīt-nâa dě?</span><br><span class=\"rom\">Já pǎy thìaw lǔang-phā-báang.</span><br><span class=\"rom\">Ít-sǎa thɛ̏ɛ!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Demain, tu vas faire quoi ?<br><b>Kèo</b> — Je vais jouer au foot avec des amis.<br><b>Clara</b> — Et la semaine prochaine ?<br><b>Kèo</b> — Je vais visiter Luang Prabang.<br><b>Clara</b> — Je suis jalouse !</p></details>"
+   "html": "<p class=\"muted\">Kèo parle de ses projets.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ມື້ອື່ນເຈົ້າຈະເຮັດຫຍັງ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຂ້ອຍຈະໄປຫຼິ້ນບານກັບໝູ່</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແລ້ວອາທິດໜ້າເດ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຈະໄປທ່ຽວຫຼວງພະບາງ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ອິດສາແທ້!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Mʉ̂ʉ-ʉ̀ʉn jâo já hēt nyǎng?</span><br><span class=\"rom\">Khɔ̂ɔy já pǎy lîn bǎan káp mùu.</span><br><span class=\"rom\">Lɛ̏ɛw ǎa-thīt-nâa dě?</span><br><span class=\"rom\">Já pǎy thīaw lǔang-phā-báang.</span><br><span class=\"rom\">Ít-sǎa thɛ̏ɛ!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Demain, tu vas faire quoi ?<br><b>Kèo</b> — Je vais jouer au foot avec des amis.<br><b>Clara</b> — Et la semaine prochaine ?<br><b>Kèo</b> — Je vais visiter Luang Prabang.<br><b>Clara</b> — Je suis jalouse !</p></details>"
   },
   {
    "title": "Compréhension",
@@ -27,7 +27,7 @@
   },
   {
    "title": "Vocabulaire et blocs",
-   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ມື້ອື່ນ</td><td class=\"rom\">Mʉ̂ʉ-ʉ̀ʉn</td><td>demain</td><td></td></tr><tr><td class=\"lo\">ອາທິດໜ້າ</td><td class=\"rom\">Ǎa-thīt-nâa</td><td>la semaine prochaine</td><td></td></tr><tr><td class=\"lo\">ປີໜ້າ</td><td class=\"rom\">Pǐi-nâa</td><td>l&#x27;année prochaine</td><td></td></tr><tr><td class=\"lo\">ຈະ</td><td class=\"rom\">Já</td><td>(futur) aller faire</td><td></td></tr><tr><td class=\"lo\">ຫຼິ້ນບານ</td><td class=\"rom\">Lîn bǎan</td><td>jouer au foot</td><td></td></tr><tr><td class=\"lo\">ໄປທ່ຽວ</td><td class=\"rom\">Pǎy-thìaw</td><td>se promener, voyager</td><td></td></tr><tr><td class=\"lo\">ອິດສາ</td><td class=\"rom\">Ít-sǎa</td><td>jaloux, envieux</td><td></td></tr><tr><td class=\"lo\">ແຜນ</td><td class=\"rom\">Phɛ̌ɛn</td><td>projet, plan</td><td></td></tr></table></div>"
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ມື້ອື່ນ</td><td class=\"rom\">Mʉ̂ʉ-ʉ̀ʉn</td><td>demain</td><td></td></tr><tr><td class=\"lo\">ອາທິດໜ້າ</td><td class=\"rom\">Ǎa-thīt-nâa</td><td>la semaine prochaine</td><td></td></tr><tr><td class=\"lo\">ປີໜ້າ</td><td class=\"rom\">Pǐi-nâa</td><td>l&#x27;année prochaine</td><td></td></tr><tr><td class=\"lo\">ຈະ</td><td class=\"rom\">Já</td><td>(futur) aller faire</td><td></td></tr><tr><td class=\"lo\">ຫຼິ້ນບານ</td><td class=\"rom\">Lîn bǎan</td><td>jouer au foot</td><td></td></tr><tr><td class=\"lo\">ໄປທ່ຽວ</td><td class=\"rom\">Pǎy-thīaw</td><td>se promener, voyager</td><td></td></tr><tr><td class=\"lo\">ອິດສາ</td><td class=\"rom\">Ít-sǎa</td><td>jaloux, envieux</td><td></td></tr><tr><td class=\"lo\">ແຜນ</td><td class=\"rom\">Phɛ̌ɛn</td><td>projet, plan</td><td></td></tr></table></div>"
   },
   {
    "title": "Point de langue : le futur avec ຈະ",
@@ -39,7 +39,7 @@
   },
   {
    "title": "Expression orale",
-   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Tu vas faire quoi demain ?</li><li>Je vais voyager.</li><li>La semaine prochaine.</li><li>Je suis jalouse !</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ມື້ອື່ນເຈົ້າຈະເຮັດຫຍັງ?</span> <span class=\"rom\">Mʉ̂ʉ-ʉ̀ʉn jâo já hēt nyǎng?</span></li><li><span class=\"lo\">ຂ້ອຍຈະໄປທ່ຽວ</span> <span class=\"rom\">Khɔ̂ɔy já pǎy-thìaw.</span></li><li><span class=\"lo\">ອາທິດໜ້າ</span> <span class=\"rom\">Ǎa-thīt-nâa.</span></li><li><span class=\"lo\">ອິດສາແທ້!</span> <span class=\"rom\">Ít-sǎa thɛ̏ɛ!</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Tu vas faire quoi demain ?</li><li>Je vais voyager.</li><li>La semaine prochaine.</li><li>Je suis jalouse !</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ມື້ອື່ນເຈົ້າຈະເຮັດຫຍັງ?</span> <span class=\"rom\">Mʉ̂ʉ-ʉ̀ʉn jâo já hēt nyǎng?</span></li><li><span class=\"lo\">ຂ້ອຍຈະໄປທ່ຽວ</span> <span class=\"rom\">Khɔ̂ɔy já pǎy-thīaw.</span></li><li><span class=\"lo\">ອາທິດໜ້າ</span> <span class=\"rom\">Ǎa-thīt-nâa.</span></li><li><span class=\"lo\">ອິດສາແທ້!</span> <span class=\"rom\">Ít-sǎa thɛ̏ɛ!</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
   },
   {
    "title": "Expression écrite",
@@ -83,7 +83,7 @@
   {
    "id": "l42-v06",
    "front": "ໄປທ່ຽວ",
-   "back": "Pǎy-thìaw · se promener, voyager"
+   "back": "Pǎy-thīaw · se promener, voyager"
   },
   {
    "id": "l42-v07",
@@ -103,7 +103,7 @@
   {
    "id": "l42-p02",
    "front": "Je vais voyager.",
-   "back": "ຂ້ອຍຈະໄປທ່ຽວ · Khɔ̂ɔy já pǎy-thìaw."
+   "back": "ຂ້ອຍຈະໄປທ່ຽວ · Khɔ̂ɔy já pǎy-thīaw."
   },
   {
    "id": "l42-p03",
@@ -204,7 +204,7 @@
       "l'année prochaine"
      ],
      "answer": "se promener, voyager",
-     "reveal": "<i>Pǎy-thìaw</i>"
+     "reveal": "<i>Pǎy-thīaw</i>"
     },
     {
      "audio": [
@@ -268,7 +268,7 @@
       "Et la semaine prochaine ?"
      ],
      "answer": "Je vais jouer au foot avec des amis.",
-     "reveal": "<i>Khɔ̂ɔy já pǎy lîn bǎan kǎp mùu.</i>"
+     "reveal": "<i>Khɔ̂ɔy já pǎy lîn bǎan káp mùu.</i>"
     },
     {
      "audio": [
@@ -296,7 +296,7 @@
       "Demain, tu vas faire quoi ?"
      ],
      "answer": "Je vais visiter Luang Prabang.",
-     "reveal": "<i>Já pǎy thìaw lǔang-phā-báang.</i>"
+     "reveal": "<i>Já pǎy thīaw lǔang-phā-báang.</i>"
     },
     {
      "audio": [
@@ -345,7 +345,7 @@
       "La semaine prochaine."
      ],
      "answer": "Je vais voyager.",
-     "reveal": "<i>Khɔ̂ɔy já pǎy-thìaw.</i>"
+     "reveal": "<i>Khɔ̂ɔy já pǎy-thīaw.</i>"
     },
     {
      "audio": [
@@ -411,7 +411,7 @@
   },
   {
    "lao": "ໄປທ່ຽວ",
-   "rom": "Pǎy-thìaw",
+   "rom": "Pǎy-thīaw",
    "fr": "se promener, voyager",
    "kind": "phrase"
   },
@@ -435,7 +435,7 @@
   },
   {
    "lao": "ຂ້ອຍຈະໄປທ່ຽວ",
-   "rom": "Khɔ̂ɔy já pǎy-thìaw.",
+   "rom": "Khɔ̂ɔy já pǎy-thīaw.",
    "fr": "Je vais voyager.",
    "kind": "phrase"
   },
@@ -470,7 +470,7 @@
     "ຈະ",
     "ໄປທ່ຽວ"
    ],
-   "rom": "Khɔ̂ɔy já pǎy-thìaw.",
+   "rom": "Khɔ̂ɔy já pǎy-thīaw.",
    "fr": "Je vais voyager."
   },
   {
@@ -510,7 +510,7 @@
   },
   {
    "lao": "ໄປທ່ຽວ",
-   "rom": "Pǎy-thìaw",
+   "rom": "Pǎy-thīaw",
    "fr": "se promener, voyager"
   },
   {
@@ -530,27 +530,27 @@
   "ສວນ": "Sǔan",
   "ຈັກປີ": "Ják pǐi",
   "ມື້ອື່ນເຈົ້າຈະເຮັດຫຍັງ": "Mʉ̂ʉ-ʉ̀ʉn jâo já hēt nyǎng?",
-  "ຂ້ອຍຈະໄປຫຼິ້ນບານກັບໝູ່": "Khɔ̂ɔy já pǎy lîn bǎan kǎp mùu.",
+  "ຂ້ອຍຈະໄປຫຼິ້ນບານກັບໝູ່": "Khɔ̂ɔy já pǎy lîn bǎan káp mùu.",
   "ແລ້ວອາທິດໜ້າເດ": "Lɛ̏ɛw ǎa-thīt-nâa dě?",
-  "ຈະໄປທ່ຽວຫຼວງພະບາງ": "Já pǎy thìaw lǔang-phā-báang.",
+  "ຈະໄປທ່ຽວຫຼວງພະບາງ": "Já pǎy thīaw lǔang-phā-báang.",
   "ອິດສາແທ້": "Ít-sǎa thɛ̏ɛ!",
   "ມື້ອື່ນ": "mʉ̂ʉ-ʉ̀ʉn",
   "ອາທິດໜ້າ": "Ǎa-thīt-nâa.",
   "ປີໜ້າ": "Pǐi-nâa",
   "ຈະ": "já",
   "ຫຼິ້ນບານ": "Lîn bǎan",
-  "ໄປທ່ຽວ": "pǎy-thìaw",
+  "ໄປທ່ຽວ": "pǎy-thīaw",
   "ອິດສາ": "ít-sǎa",
   "ແຜນ": "Phɛ̌ɛn",
   "ຂ້ອຍຈະໄປ": "Khɔ̂ɔy já pǎy",
   "ມື້ອື່ນຈະຝົນຕົກ": "Mʉ̂ʉ-ʉ̀ʉn já fǒn tók",
   "ເຈົ້າຈະເຮັດຫຍັງ": "Jâo já hēt nyǎng?",
-  "ຂ້ອຍຈະໄປທ່ຽວ": "Khɔ̂ɔy já pǎy-thìaw.",
+  "ຂ້ອຍຈະໄປທ່ຽວ": "Khɔ̂ɔy já pǎy-thīaw.",
   "ເຈົ້າ": "jâo",
   "ເຮັດ": "hēt",
   "ຫຍັງ": "nyǎng",
   "ຂ້ອຍ": "khɔ̂ɔy",
   "ແທ້": "thɛ̏ɛ"
  },
- "suivi": "LEÇON : 42 — Partie D (Raconter et organiser, A2) · Demain\nOBJECTIF : Annoncer tes projets pour demain et le week-end.\nNOTION : le futur avec ຈະ\nVOCAB : Mʉ̂ʉ-ʉ̀ʉn, Ǎa-thīt-nâa, Pǐi-nâa, Já, Lîn bǎan, Pǎy-thìaw, Ít-sǎa, Phɛ̌ɛn\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 43 — En ce moment"
+ "suivi": "LEÇON : 42 — Partie D (Raconter et organiser, A2) · Demain\nOBJECTIF : Annoncer tes projets pour demain et le week-end.\nNOTION : le futur avec ຈະ\nVOCAB : Mʉ̂ʉ-ʉ̀ʉn, Ǎa-thīt-nâa, Pǐi-nâa, Já, Lîn bǎan, Pǎy-thīaw, Ít-sǎa, Phɛ̌ɛn\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 43 — En ce moment"
 }

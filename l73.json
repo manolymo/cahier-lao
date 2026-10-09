@@ -19,7 +19,7 @@
   },
   {
    "title": "Dialogue",
-   "html": "<p class=\"muted\">Kèo hésite sur ses études.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຂ້ອຍບໍ່ຮູ້ວ່າຈະຮຽນຫຍັງດີ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຈົ້າມັກຫຍັງ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ມັກຄອມພິວເຕີ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຈົ້າຄວນຮຽນສິ່ງທີ່ເຈົ້າມັກ</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ແຕ່ພໍ່ຢາກໃຫ້ຂ້ອຍເປັນທ່ານໝໍ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ລອງລົມກັບພໍ່ເບິ່ງ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Khɔ̂ɔy bɔ̀ɔ hȕu wāa já hían nyǎng dǐi.</span><br><span class=\"rom\">Jâo māk nyǎng?</span><br><span class=\"rom\">Māk khɔ́ɔm-phíw-tɤ̂ɤ.</span><br><span class=\"rom\">Jâo khúan hían sìng thīi jâo māk.</span><br><span class=\"rom\">Tɛ̀ɛ phɔ̄ɔ yȁak hây khɔ̂ɔy pěn thāan-mɔ̌ɔ.</span><br><span class=\"rom\">Lɔ́ɔng lóm kǎp phɔ̄ɔ bɤ̀ng.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Kèo</b> — Je ne sais pas quoi étudier.<br><b>Clara</b> — Qu&#x27;est-ce que tu aimes ?<br><b>Kèo</b> — J&#x27;aime l&#x27;informatique.<br><b>Clara</b> — Tu devrais étudier ce que tu aimes.<br><b>Kèo</b> — Mais papa veut que je sois médecin.<br><b>Clara</b> — Essaie d&#x27;en parler avec lui.</p></details>"
+   "html": "<p class=\"muted\">Kèo hésite sur ses études.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຂ້ອຍບໍ່ຮູ້ວ່າຈະຮຽນຫຍັງດີ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຈົ້າມັກຫຍັງ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ມັກຄອມພິວເຕີ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຈົ້າຄວນຮຽນສິ່ງທີ່ເຈົ້າມັກ</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ແຕ່ພໍ່ຢາກໃຫ້ຂ້ອຍເປັນທ່ານໝໍ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ລອງລົມກັບພໍ່ເບິ່ງ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Khɔ̂ɔy bɔ̀ɔ hȕu wāa já hían nyǎng dǐi.</span><br><span class=\"rom\">Jâo māk nyǎng?</span><br><span class=\"rom\">Māk khɔ́ɔm-phíw-tɤ̂ɤ.</span><br><span class=\"rom\">Jâo khúan hían sìng thīi jâo māk.</span><br><span class=\"rom\">Tɛ̀ɛ phɔ̄ɔ yȁak hây khɔ̂ɔy pěn thāan-mɔ̌ɔ.</span><br><span class=\"rom\">Lɔ́ɔng lóm káp phɔ̄ɔ bɤ̀ng.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Kèo</b> — Je ne sais pas quoi étudier.<br><b>Clara</b> — Qu&#x27;est-ce que tu aimes ?<br><b>Kèo</b> — J&#x27;aime l&#x27;informatique.<br><b>Clara</b> — Tu devrais étudier ce que tu aimes.<br><b>Kèo</b> — Mais papa veut que je sois médecin.<br><b>Clara</b> — Essaie d&#x27;en parler avec lui.</p></details>"
   },
   {
    "title": "Compréhension",
@@ -281,7 +281,7 @@
       "J'aime l'informatique."
      ],
      "answer": "Essaie d'en parler avec lui.",
-     "reveal": "<i>Lɔ́ɔng lóm kǎp phɔ̄ɔ bɤ̀ng.</i>"
+     "reveal": "<i>Lɔ́ɔng lóm káp phɔ̄ɔ bɤ̀ng.</i>"
     }
    ]
   },
@@ -459,7 +459,7 @@
   "ມັກຄອມພິວເຕີ": "Māk khɔ́ɔm-phíw-tɤ̂ɤ.",
   "ເຈົ້າຄວນຮຽນສິ່ງທີ່ເຈົ້າມັກ": "Jâo khúan hían sìng thīi jâo māk.",
   "ແຕ່ພໍ່ຢາກໃຫ້ຂ້ອຍເປັນທ່ານໝໍ": "Tɛ̀ɛ phɔ̄ɔ yȁak hây khɔ̂ɔy pěn thāan-mɔ̌ɔ.",
-  "ລອງລົມກັບພໍ່ເບິ່ງ": "Lɔ́ɔng lóm kǎp phɔ̄ɔ bɤ̀ng.",
+  "ລອງລົມກັບພໍ່ເບິ່ງ": "Lɔ́ɔng lóm káp phɔ̄ɔ bɤ̀ng.",
   "ຄວນ": "khúan",
   "ບໍ່ຄວນ": "Bɔ̀ɔ khúan",
   "ລອງ ເບິ່ງ": "Lɔ́ɔng… bɤ̀ng",

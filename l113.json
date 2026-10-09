@@ -1,0 +1,387 @@
+{
+ "num": 113,
+ "phase": "Partie F · Argumenter",
+ "title": "Présenter en public",
+ "objective": "Faire une présentation organisée de 5 minutes.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>accepter, céder <small class=\"muted\">(leçon 112)</small></li><li>paragraphe <small class=\"muted\">(leçon 110)</small></li><li>secondaire <small class=\"muted\">(leçon 106)</small></li><li>rire <small class=\"muted\">(leçon 99)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຍອມ</span> <span class=\"rom\">Nyɔ́ɔm</span> · accepter, céder</li><li><span class=\"lo\">ຫຍໍ້ໜ້າ</span> <span class=\"rom\">Nyɔ̂ɔ nâa</span> · paragraphe</li><li><span class=\"lo\">ມັດທະຍົມ</span> <span class=\"rom\">Māt-thā-nyóm</span> · secondaire</li><li><span class=\"lo\">ຫົວ</span> <span class=\"rom\">Hǔa</span> · rire</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Faire une présentation organisée de 5 minutes.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara présente son projet à l&#x27;école.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສະບາຍດີທຸກທ່ານ ມື້ນີ້ຂ້ອຍຈະນຳສະເໜີໂຄງການຂອງຂ້ອຍ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍຈະເວົ້າສາມຫົວຂໍ້</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂອບໃຈທີ່ຮັບຟັງ ມີຄຳຖາມບໍ?</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Sā-bǎay-dǐi thūk thāan. Mʉ̂ʉ-nȉi khɔ̂ɔy já nám-sā-něe khóong-kǎan khɔ̌ɔng khɔ̂ɔy.</span><br><span class=\"rom\">Khɔ̂ɔy já wȁo sǎam hǔa-khɔ̂ɔ.</span><br><span class=\"rom\">Khɔ̏ɔp-jǎy thīi hāp-fáng. Míi khám-thǎam bɔ̌ɔ?</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Bonjour à tous. Aujourd&#x27;hui, je vais présenter mon projet.<br><b>Clara</b> — Je vais parler de trois points.<br><b>Clara</b> — Merci de votre attention. Des questions ?</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Comment Clara commence-t-elle ?</li><li>Comment termine-t-elle ?</li></ol><details><summary>Réponses</summary><ol><li>Elle salue et annonce son sujet.</li><li>Elle remercie et demande s&#x27;il y a des questions.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ນຳສະເໜີ</td><td class=\"rom\">Nám-sā-něe</td><td>présenter</td><td></td></tr><tr><td class=\"lo\">ທຸກທ່ານ</td><td class=\"rom\">Thūk thāan</td><td>à tous (poli)</td><td></td></tr><tr><td class=\"lo\">ຫົວຂໍ້</td><td class=\"rom\">Hǔa-khɔ̂ɔ</td><td>point, sujet</td><td></td></tr><tr><td class=\"lo\">ຮັບຟັງ</td><td class=\"rom\">Hāp-fáng</td><td>écouter (poli)</td><td></td></tr><tr><td class=\"lo\">ຄຳຖາມ</td><td class=\"rom\">Khám-thǎam</td><td>question</td><td></td></tr><tr><td class=\"lo\">ໂຄງການ</td><td class=\"rom\">Khóong-kǎan</td><td>projet</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les formules de présentation",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ມື້ນີ້ຂ້ອຍຈະນຳສະເໜີ</span> <span class=\"rom\">Mʉ̂ʉ-nȉi khɔ̂ɔy já nám-sā-něe…</span> = aujourd&#x27;hui je vais présenter…</li><li><span class=\"lo\">ຂອບໃຈທີ່ຮັບຟັງ</span> <span class=\"rom\">Khɔ̏ɔp-jǎy thīi hāp-fáng</span> = merci de votre attention</li></ul><details><summary>La règle</summary><p>Ouverture (ສະບາຍດີທຸກທ່ານ), annonce du plan, développement, remerciements (ຂອບໃຈທີ່ຮັບຟັງ), questions.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> le rythme d&#x27;une présentation.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Bonjour à tous.</li><li>Merci de votre attention.</li><li>Des questions ?</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ສະບາຍດີທຸກທ່ານ</span> <span class=\"rom\">Sā-bǎay-dǐi thūk thāan.</span></li><li><span class=\"lo\">ຂອບໃຈທີ່ຮັບຟັງ</span> <span class=\"rom\">Khɔ̏ɔp-jǎy thīi hāp-fáng.</span></li><li><span class=\"lo\">ມີຄຳຖາມບໍ?</span> <span class=\"rom\">Míi khám-thǎam bɔ̌ɔ?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris le script d&#x27;une présentation de 5 minutes.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Fais une présentation de 5 minutes devant un ou plusieurs natifs.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>9 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l113-v01",
+   "front": "ນຳສະເໜີ",
+   "back": "Nám-sā-něe · présenter"
+  },
+  {
+   "id": "l113-v02",
+   "front": "ທຸກທ່ານ",
+   "back": "Thūk thāan · à tous (poli)"
+  },
+  {
+   "id": "l113-v03",
+   "front": "ຫົວຂໍ້",
+   "back": "Hǔa-khɔ̂ɔ · point, sujet"
+  },
+  {
+   "id": "l113-v04",
+   "front": "ຮັບຟັງ",
+   "back": "Hāp-fáng · écouter (poli)"
+  },
+  {
+   "id": "l113-v05",
+   "front": "ຄຳຖາມ",
+   "back": "Khám-thǎam · question"
+  },
+  {
+   "id": "l113-v06",
+   "front": "ໂຄງການ",
+   "back": "Khóong-kǎan · projet"
+  },
+  {
+   "id": "l113-p01",
+   "front": "Bonjour à tous.",
+   "back": "ສະບາຍດີທຸກທ່ານ · Sā-bǎay-dǐi thūk thāan."
+  },
+  {
+   "id": "l113-p02",
+   "front": "Merci de votre attention.",
+   "back": "ຂອບໃຈທີ່ຮັບຟັງ · Khɔ̏ɔp-jǎy thīi hāp-fáng."
+  },
+  {
+   "id": "l113-p03",
+   "front": "Des questions ?",
+   "back": "ມີຄຳຖາມບໍ? · Míi khám-thǎam bɔ̌ɔ?"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ນຳສະເໜີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "présenter",
+      "question",
+      "point, sujet",
+      "écouter (poli)"
+     ],
+     "answer": "présenter",
+     "reveal": "<i>Nám-sā-něe</i>"
+    },
+    {
+     "audio": [
+      "ທຸກທ່ານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "à tous (poli)",
+      "question",
+      "point, sujet",
+      "projet"
+     ],
+     "answer": "à tous (poli)",
+     "reveal": "<i>Thūk thāan</i>"
+    },
+    {
+     "audio": [
+      "ຫົວຂໍ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "point, sujet",
+      "écouter (poli)",
+      "présenter",
+      "projet"
+     ],
+     "answer": "point, sujet",
+     "reveal": "<i>Hǔa-khɔ̂ɔ</i>"
+    },
+    {
+     "audio": [
+      "ຮັບຟັງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "écouter (poli)",
+      "question",
+      "projet",
+      "point, sujet"
+     ],
+     "answer": "écouter (poli)",
+     "reveal": "<i>Hāp-fáng</i>"
+    },
+    {
+     "audio": [
+      "ຄຳຖາມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "question",
+      "point, sujet",
+      "écouter (poli)",
+      "à tous (poli)"
+     ],
+     "answer": "question",
+     "reveal": "<i>Khám-thǎam</i>"
+    },
+    {
+     "audio": [
+      "ໂຄງການ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "projet",
+      "point, sujet",
+      "présenter",
+      "question"
+     ],
+     "answer": "projet",
+     "reveal": "<i>Khóong-kǎan</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ສະບາຍດີທຸກທ່ານ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Bonjour à tous.",
+      "Merci de votre attention.",
+      "Des questions ?"
+     ],
+     "answer": "Bonjour à tous.",
+     "reveal": "<i>Sā-bǎay-dǐi thūk thāan.</i>"
+    },
+    {
+     "audio": [
+      "ຂອບໃຈທີ່ຮັບຟັງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Merci de votre attention.",
+      "Bonjour à tous.",
+      "Des questions ?"
+     ],
+     "answer": "Merci de votre attention.",
+     "reveal": "<i>Khɔ̏ɔp-jǎy thīi hāp-fáng.</i>"
+    },
+    {
+     "audio": [
+      "ມີຄຳຖາມບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Des questions ?",
+      "Merci de votre attention.",
+      "Bonjour à tous."
+     ],
+     "answer": "Des questions ?",
+     "reveal": "<i>Míi khám-thǎam bɔ̌ɔ?</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ນຳສະເໜີ",
+   "rom": "Nám-sā-něe",
+   "fr": "présenter",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທຸກທ່ານ",
+   "rom": "Thūk thāan",
+   "fr": "à tous (poli)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫົວຂໍ້",
+   "rom": "Hǔa-khɔ̂ɔ",
+   "fr": "point, sujet",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຮັບຟັງ",
+   "rom": "Hāp-fáng",
+   "fr": "écouter (poli)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄຳຖາມ",
+   "rom": "Khám-thǎam",
+   "fr": "question",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂຄງການ",
+   "rom": "Khóong-kǎan",
+   "fr": "projet",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສະບາຍດີທຸກທ່ານ",
+   "rom": "Sā-bǎay-dǐi thūk thāan.",
+   "fr": "Bonjour à tous.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂອບໃຈທີ່ຮັບຟັງ",
+   "rom": "Khɔ̏ɔp-jǎy thīi hāp-fáng.",
+   "fr": "Merci de votre attention.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມີຄຳຖາມບໍ?",
+   "rom": "Míi khám-thǎam bɔ̌ɔ?",
+   "fr": "Des questions ?",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ສະບາຍດີ",
+    "ທຸກ",
+    "ທ່ານ"
+   ],
+   "rom": "Sā-bǎay-dǐi thūk thāan.",
+   "fr": "Bonjour à tous."
+  },
+  {
+   "tokens": [
+    "ຂອບໃຈ",
+    "ທີ່",
+    "ຮັບຟັງ"
+   ],
+   "rom": "Khɔ̏ɔp-jǎy thīi hāp-fáng.",
+   "fr": "Merci de votre attention."
+  },
+  {
+   "tokens": [
+    "ມີ",
+    "ຄຳຖາມ",
+    "ບໍ"
+   ],
+   "rom": "Míi khám-thǎam bɔ̌ɔ?",
+   "fr": "Des questions ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ນຳສະເໜີ",
+   "rom": "Nám-sā-něe",
+   "fr": "présenter"
+  },
+  {
+   "lao": "ທຸກທ່ານ",
+   "rom": "Thūk thāan",
+   "fr": "à tous (poli)"
+  },
+  {
+   "lao": "ຫົວຂໍ້",
+   "rom": "Hǔa-khɔ̂ɔ",
+   "fr": "point, sujet"
+  },
+  {
+   "lao": "ຮັບຟັງ",
+   "rom": "Hāp-fáng",
+   "fr": "écouter (poli)"
+  },
+  {
+   "lao": "ຄຳຖາມ",
+   "rom": "Khám-thǎam",
+   "fr": "question"
+  },
+  {
+   "lao": "ໂຄງການ",
+   "rom": "Khóong-kǎan",
+   "fr": "projet"
+  }
+ ],
+ "sounds": {
+  "ຍອມ": "Nyɔ́ɔm",
+  "ຫຍໍ້ໜ້າ": "Nyɔ̂ɔ nâa",
+  "ມັດທະຍົມ": "Māt-thā-nyóm",
+  "ຫົວ": "Hǔa",
+  "ສະບາຍດີທຸກທ່ານ ມື້ນີ້ຂ້ອຍຈະນຳສະເໜີໂຄງການຂອງຂ້ອຍ": "Sā-bǎay-dǐi thūk thāan. Mʉ̂ʉ-nȉi khɔ̂ɔy já nám-sā-něe khóong-kǎan khɔ̌ɔng khɔ̂ɔy.",
+  "ຂ້ອຍຈະເວົ້າສາມຫົວຂໍ້": "Khɔ̂ɔy já wȁo sǎam hǔa-khɔ̂ɔ.",
+  "ຂອບໃຈທີ່ຮັບຟັງ ມີຄຳຖາມບໍ": "Khɔ̏ɔp-jǎy thīi hāp-fáng. Míi khám-thǎam bɔ̌ɔ?",
+  "ນຳສະເໜີ": "Nám-sā-něe",
+  "ທຸກທ່ານ": "Thūk thāan",
+  "ຫົວຂໍ້": "Hǔa-khɔ̂ɔ",
+  "ຮັບຟັງ": "hāp-fáng",
+  "ຄຳຖາມ": "khám-thǎam",
+  "ໂຄງການ": "Khóong-kǎan",
+  "ມື້ນີ້ຂ້ອຍຈະນຳສະເໜີ": "Mʉ̂ʉ-nȉi khɔ̂ɔy já nám-sā-něe…",
+  "ຂອບໃຈທີ່ຮັບຟັງ": "Khɔ̏ɔp-jǎy thīi hāp-fáng.",
+  "ສະບາຍດີທຸກທ່ານ": "Sā-bǎay-dǐi thūk thāan.",
+  "ມີຄຳຖາມບໍ": "Míi khám-thǎam bɔ̌ɔ?",
+  "ສະບາຍດີ": "sā-bǎay-dǐi",
+  "ທຸກ": "thūk",
+  "ທ່ານ": "thāan",
+  "ຂອບໃຈ": "khɔ̏ɔp-jǎy",
+  "ທີ່": "thīi",
+  "ມີ": "míi",
+  "ບໍ": "bɔ̌ɔ"
+ },
+ "suivi": "LEÇON : 113 — Partie F (Argumenter, B2) · Présenter en public\nOBJECTIF : Faire une présentation organisée de 5 minutes.\nNOTION : les formules de présentation\nVOCAB : Nám-sā-něe, Thūk thāan, Hǔa-khɔ̂ɔ, Hāp-fáng, Khám-thǎam, Khóong-kǎan\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 114 — Films et séries"
+}

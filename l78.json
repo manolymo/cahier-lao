@@ -19,7 +19,7 @@
   },
   {
    "title": "Dialogue",
-   "html": "<p class=\"muted\">Clara postule dans une école.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພະນັກງານ</span><div><span class=\"lo\">ເລົ່າກ່ຽວກັບຕົວເອງແດ່</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍເປັນຄູມາຫ້າປີແລ້ວ</span></div></div><div class=\"line\"><span class=\"who\">ພະນັກງານ</span><div><span class=\"lo\">ເປັນຫຍັງຢາກເຮັດວຽກຢູ່ນີ້?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເພາະວ່າໂຮງຮຽນນີ້ມີຊື່ສຽງດີ</span></div></div><div class=\"line\"><span class=\"who\">ພະນັກງານ</span><div><span class=\"lo\">ເຈົ້າມີຈຸດອ່ອນຫຍັງບໍ?</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Lāo kìaw-kǎp tǔa-ěeng dɛ̀ɛ.</span><br><span class=\"rom\">Khɔ̂ɔy pěn khúu máa hâa pǐi lɛ̏ɛw.</span><br><span class=\"rom\">Pěn nyǎng yȁak hēt-wîak yùu nȉi?</span><br><span class=\"rom\">Phɔ̄-wāa hóong-hían nȉi míi sʉ̄ʉ-sǐang dǐi.</span><br><span class=\"rom\">Jâo míi jút ɔ̀ɔn nyǎng bɔ̌ɔ?</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>L&#x27;employé</b> — Parlez-moi de vous.<br><b>Clara</b> — Je suis enseignante depuis cinq ans.<br><b>L&#x27;employé</b> — Pourquoi voulez-vous travailler ici ?<br><b>Clara</b> — Parce que cette école a une bonne réputation.<br><b>L&#x27;employé</b> — Quels sont vos points faibles ?</p></details>"
+   "html": "<p class=\"muted\">Clara postule dans une école.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພະນັກງານ</span><div><span class=\"lo\">ເລົ່າກ່ຽວກັບຕົວເອງແດ່</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍເປັນຄູມາຫ້າປີແລ້ວ</span></div></div><div class=\"line\"><span class=\"who\">ພະນັກງານ</span><div><span class=\"lo\">ເປັນຫຍັງຢາກເຮັດວຽກຢູ່ນີ້?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເພາະວ່າໂຮງຮຽນນີ້ມີຊື່ສຽງດີ</span></div></div><div class=\"line\"><span class=\"who\">ພະນັກງານ</span><div><span class=\"lo\">ເຈົ້າມີຈຸດອ່ອນຫຍັງບໍ?</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Lāo kìaw-káp tǔa-ěeng dɛ̀ɛ.</span><br><span class=\"rom\">Khɔ̂ɔy pěn khúu máa hâa pǐi lɛ̏ɛw.</span><br><span class=\"rom\">Pěn nyǎng yȁak hēt-wîak yùu nȉi?</span><br><span class=\"rom\">Phɔ̄-wāa hóong-hían nȉi míi sʉ̄ʉ-sǐang dǐi.</span><br><span class=\"rom\">Jâo míi jút ɔ̀ɔn nyǎng bɔ̌ɔ?</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>L&#x27;employé</b> — Parlez-moi de vous.<br><b>Clara</b> — Je suis enseignante depuis cinq ans.<br><b>L&#x27;employé</b> — Pourquoi voulez-vous travailler ici ?<br><b>Clara</b> — Parce que cette école a une bonne réputation.<br><b>L&#x27;employé</b> — Quels sont vos points faibles ?</p></details>"
   },
   {
    "title": "Compréhension",
@@ -39,7 +39,7 @@
   },
   {
    "title": "Expression orale",
-   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Je suis enseignante depuis cinq ans.</li><li>Mon point fort, c&#x27;est la patience.</li><li>Parlez-moi de vous.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້ອຍເປັນຄູມາຫ້າປີແລ້ວ</span> <span class=\"rom\">Khɔ̂ɔy pěn khúu máa hâa pǐi lɛ̏ɛw.</span></li><li><span class=\"lo\">ຈຸດແຂງຂອງຂ້ອຍແມ່ນຄວາມອົດທົນ</span> <span class=\"rom\">Jút khɛ̌ɛng khɔ̌ɔng khɔ̂ɔy mɛ̄ɛn khwáam ót-thón.</span></li><li><span class=\"lo\">ເລົ່າກ່ຽວກັບຕົວເອງແດ່</span> <span class=\"rom\">Lāo kìaw-kǎp tǔa-ěeng dɛ̀ɛ.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Je suis enseignante depuis cinq ans.</li><li>Mon point fort, c&#x27;est la patience.</li><li>Parlez-moi de vous.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້ອຍເປັນຄູມາຫ້າປີແລ້ວ</span> <span class=\"rom\">Khɔ̂ɔy pěn khúu máa hâa pǐi lɛ̏ɛw.</span></li><li><span class=\"lo\">ຈຸດແຂງຂອງຂ້ອຍແມ່ນຄວາມອົດທົນ</span> <span class=\"rom\">Jút khɛ̌ɛng khɔ̌ɔng khɔ̂ɔy mɛ̄ɛn khwáam ót-thón.</span></li><li><span class=\"lo\">ເລົ່າກ່ຽວກັບຕົວເອງແດ່</span> <span class=\"rom\">Lāo kìaw-káp tǔa-ěeng dɛ̀ɛ.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
   },
   {
    "title": "Expression écrite",
@@ -108,7 +108,7 @@
   {
    "id": "l78-p03",
    "front": "Parlez-moi de vous.",
-   "back": "ເລົ່າກ່ຽວກັບຕົວເອງແດ່ · Lāo kìaw-kǎp tǔa-ěeng dɛ̀ɛ."
+   "back": "ເລົ່າກ່ຽວກັບຕົວເອງແດ່ · Lāo kìaw-káp tǔa-ěeng dɛ̀ɛ."
   }
  ],
  "listening": [
@@ -249,7 +249,7 @@
       "Parce que cette école a une bonne réputation."
      ],
      "answer": "Parlez-moi de vous.",
-     "reveal": "<i>Lāo kìaw-kǎp tǔa-ěeng dɛ̀ɛ.</i>"
+     "reveal": "<i>Lāo kìaw-káp tǔa-ěeng dɛ̀ɛ.</i>"
     },
     {
      "audio": [
@@ -351,7 +351,7 @@
       "Je suis enseignante depuis cinq ans."
      ],
      "answer": "Parlez-moi de vous.",
-     "reveal": "<i>Lāo kìaw-kǎp tǔa-ěeng dɛ̀ɛ.</i>"
+     "reveal": "<i>Lāo kìaw-káp tǔa-ěeng dɛ̀ɛ.</i>"
     }
    ]
   }
@@ -419,7 +419,7 @@
   },
   {
    "lao": "ເລົ່າກ່ຽວກັບຕົວເອງແດ່",
-   "rom": "Lāo kìaw-kǎp tǔa-ěeng dɛ̀ɛ.",
+   "rom": "Lāo kìaw-káp tǔa-ěeng dɛ̀ɛ.",
    "fr": "Parlez-moi de vous.",
    "kind": "phrase"
   }
@@ -458,7 +458,7 @@
     "ຕົວເອງ",
     "ແດ່"
    ],
-   "rom": "Lāo kìaw-kǎp tǔa-ěeng dɛ̀ɛ.",
+   "rom": "Lāo kìaw-káp tǔa-ěeng dɛ̀ɛ.",
    "fr": "Parlez-moi de vous."
   }
  ],
@@ -509,7 +509,7 @@
   "ກັນ": "Kǎn",
   "ເກັບເງິນ": "Kép ngɤ́n",
   "ເປີດ": "Pɤ̏ɤt",
-  "ເລົ່າກ່ຽວກັບຕົວເອງແດ່": "Lāo kìaw-kǎp tǔa-ěeng dɛ̀ɛ.",
+  "ເລົ່າກ່ຽວກັບຕົວເອງແດ່": "Lāo kìaw-káp tǔa-ěeng dɛ̀ɛ.",
   "ຂ້ອຍເປັນຄູມາຫ້າປີແລ້ວ": "Khɔ̂ɔy pěn khúu máa hâa pǐi lɛ̏ɛw.",
   "ເປັນຫຍັງຢາກເຮັດວຽກຢູ່ນີ້": "Pěn nyǎng yȁak hēt-wîak yùu nȉi?",
   "ເພາະວ່າໂຮງຮຽນນີ້ມີຊື່ສຽງດີ": "Phɔ̄-wāa hóong-hían nȉi míi sʉ̄ʉ-sǐang dǐi.",
@@ -539,7 +539,7 @@
   "ຄວາມ": "khwáam",
   "ອົດທົນ": "ót-thón",
   "ເລົ່າ": "lāo",
-  "ກ່ຽວກັບ": "kìaw-kǎp",
+  "ກ່ຽວກັບ": "kìaw-káp",
   "ແດ່": "dɛ̀ɛ"
  },
  "suivi": "LEÇON : 78 — Partie E (S'exprimer (cours en lao), B1) · Travail (2)\nOBJECTIF : Passer un entretien simple : compétences et expériences.\nNOTION : parler de soi au travail\nVOCAB : Sā-māk wîak, Pá-sǒp-kǎan, Khwáam sǎa-mâat, Sʉ̄ʉ-sǐang, Jút khɛ̌ɛng, Jút ɔ̀ɔn, Ngɤ́n-dʉ̌an, Tǔa-ěeng\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 79 — L'argent"

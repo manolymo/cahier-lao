@@ -19,7 +19,7 @@
   },
   {
    "title": "Dialogue",
-   "html": "<p class=\"muted\">Kèo parle à ses amis, puis à son grand-père.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ເຮົາໄປກິນເບຍບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ພໍ່ຕູ້ ຫຼານຂໍອະນຸຍາດອອກໄປນອກເດີ</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ໄປໄດ້ ຢ່າກັບມາຊ້າ</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ເຈົ້າ ຂອບໃຈ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Háo pǎy kǐn bía bɔ̌ɔ?</span><br><span class=\"rom\">Phɔ̄ɔ-tûu, lǎan khɔ̌ɔ á-nū-nyâat ɔ̏ɔk pǎy nɔ̂ɔk dɤ̌ɤ.</span><br><span class=\"rom\">Pǎy dâay, yàa kǎp máa sȁa.</span><br><span class=\"rom\">Jâo, khɔ̏ɔp-jǎy.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Kèo</b> — (aux amis) On va boire une bière ?<br><b>Kèo</b> — (au grand-père) Grand-père, je te demande la permission de sortir.<br><b>X</b> — Tu peux y aller, ne rentre pas tard.<br><b>Kèo</b> — Oui, merci.</p></details>"
+   "html": "<p class=\"muted\">Kèo parle à ses amis, puis à son grand-père.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ເຮົາໄປກິນເບຍບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ພໍ່ຕູ້ ຫຼານຂໍອະນຸຍາດອອກໄປນອກເດີ</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ໄປໄດ້ ຢ່າກັບມາຊ້າ</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ເຈົ້າ ຂອບໃຈ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Háo pǎy kǐn bía bɔ̌ɔ?</span><br><span class=\"rom\">Phɔ̄ɔ-tûu, lǎan khɔ̌ɔ á-nū-nyâat ɔ̏ɔk pǎy nɔ̂ɔk dɤ̌ɤ.</span><br><span class=\"rom\">Pǎy dâay, yàa káp máa sȁa.</span><br><span class=\"rom\">Jâo, khɔ̏ɔp-jǎy.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Kèo</b> — (aux amis) On va boire une bière ?<br><b>Kèo</b> — (au grand-père) Grand-père, je te demande la permission de sortir.<br><b>X</b> — Tu peux y aller, ne rentre pas tard.<br><b>Kèo</b> — Oui, merci.</p></details>"
   },
   {
    "title": "Compréhension",
@@ -258,7 +258,7 @@
       "Oui, merci."
      ],
      "answer": "Tu peux y aller, ne rentre pas tard.",
-     "reveal": "<i>Pǎy dâay, yàa kǎp máa sȁa.</i>"
+     "reveal": "<i>Pǎy dâay, yàa káp máa sȁa.</i>"
     },
     {
      "audio": [
@@ -447,7 +447,7 @@
   "ນັດ": "Nāt",
   "ເຮົາໄປກິນເບຍບໍ": "Háo pǎy kǐn bía bɔ̌ɔ?",
   "ພໍ່ຕູ້ ຫຼານຂໍອະນຸຍາດອອກໄປນອກເດີ": "Phɔ̄ɔ-tûu, lǎan khɔ̌ɔ á-nū-nyâat ɔ̏ɔk pǎy nɔ̂ɔk dɤ̌ɤ.",
-  "ໄປໄດ້ ຢ່າກັບມາຊ້າ": "Pǎy dâay, yàa kǎp máa sȁa.",
+  "ໄປໄດ້ ຢ່າກັບມາຊ້າ": "Pǎy dâay, yàa káp máa sȁa.",
   "ເຈົ້າ ຂອບໃຈ": "Jâo, khɔ̏ɔp-jǎy.",
   "ເຮົາ": "Háo",
   "ຫຼານ": "Lǎan",

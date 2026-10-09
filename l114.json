@@ -1,0 +1,387 @@
+{
+ "num": 114,
+ "phase": "Partie F · Argumenter",
+ "title": "Films et séries",
+ "objective": "Analyser une scène de film lao, avec langue familière et argot.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>écouter (poli) <small class=\"muted\">(leçon 113)</small></li><li>conclusion <small class=\"muted\">(leçon 111)</small></li><li>se propager (épidémie) <small class=\"muted\">(leçon 107)</small></li><li>être gêné de déranger <small class=\"muted\">(leçon 100)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຮັບຟັງ</span> <span class=\"rom\">Hāp-fáng</span> · écouter (poli)</li><li><span class=\"lo\">ບົດສະຫຼຸບ</span> <span class=\"rom\">Bót sā-lūp</span> · conclusion</li><li><span class=\"lo\">ແຜ່ລະບາດ</span> <span class=\"rom\">Phɛ̀ɛ lā-bȁat</span> · se propager (épidémie)</li><li><span class=\"lo\">ເກງໃຈ</span> <span class=\"rom\">Kěeng-jǎy</span> · être gêné de déranger</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Analyser une scène de film lao, avec langue familière et argot.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Soirée cinéma lao.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຕົວລະຄອນນີ້ເວົ້າພາສາໄວລຸ້ນ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍບໍ່ເຂົ້າໃຈບາງຄຳ</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ແມ່ນຄຳສະແລງ ຂ້ອຍອະທິບາຍໃຫ້</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Tǔa-lā-khɔ́ɔn nȉi wȁo pháa-sǎa wáy-lūn.</span><br><span class=\"rom\">Khɔ̂ɔy bɔ̀ɔ khâo-jǎy bǎang khám.</span><br><span class=\"rom\">Mɛ̄ɛn khám sā-lɛ́ɛng. Khɔ̂ɔy á-thī-bǎay hây.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Kèo</b> — Ce personnage parle comme les jeunes.<br><b>Clara</b> — Je ne comprends pas certains mots.<br><b>Kèo</b> — C&#x27;est de l&#x27;argot. Je t&#x27;explique.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Pourquoi Clara ne comprend-elle pas ?</li></ol><details><summary>Réponses</summary><ol><li>Le personnage parle en argot de jeunes.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຕົວລະຄອນ</td><td class=\"rom\">Tǔa-lā-khɔ́ɔn</td><td>personnage</td><td></td></tr><tr><td class=\"lo\">ສະແລງ</td><td class=\"rom\">Sā-lɛ́ɛng</td><td>argot</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ໄວລຸ້ນ</td><td class=\"rom\">Wáy-lūn</td><td>adolescent</td><td></td></tr><tr><td class=\"lo\">ສາກ</td><td class=\"rom\">Sȁak</td><td>scène</td><td></td></tr><tr><td class=\"lo\">ຜູ້ກຳກັບ</td><td class=\"rom\">Phȕu kǎm-káp</td><td>réalisateur</td><td></td></tr><tr><td class=\"lo\">ນັກສະແດງ</td><td class=\"rom\">Nāk-sā-dɛ̌ɛng</td><td>acteur</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : analyser une scène",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ໃນສາກນີ້</span> <span class=\"rom\">Nǎy sȁak nȉi…</span> = dans cette scène…</li><li><span class=\"lo\">ຕົວລະຄອນຮູ້ສຶກ</span> <span class=\"rom\">Tǔa-lā-khɔ́ɔn hȕu-sʉ̄k…</span> = le personnage ressent…</li></ul><details><summary>La règle</summary><p>Pour analyser : qui (ຕົວລະຄອນ), quoi (ສາກ), comment on le dit (registre, argot), pourquoi (intention).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> le registre familier.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Dans cette scène…</li><li>C&#x27;est de l&#x27;argot.</li><li>Je t&#x27;explique.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ໃນສາກນີ້</span> <span class=\"rom\">Nǎy sȁak nȉi…</span></li><li><span class=\"lo\">ແມ່ນຄຳສະແລງ</span> <span class=\"rom\">Mɛ̄ɛn khám sā-lɛ́ɛng.</span></li><li><span class=\"lo\">ຂ້ອຍອະທິບາຍໃຫ້</span> <span class=\"rom\">Khɔ̂ɔy á-thī-bǎay hây.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Analyse une scène de film lao en 10 phrases.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Regarde un film lao avec un natif et commentez une scène ensemble.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>9 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l114-v01",
+   "front": "ຕົວລະຄອນ",
+   "back": "Tǔa-lā-khɔ́ɔn · personnage"
+  },
+  {
+   "id": "l114-v02",
+   "front": "ສະແລງ",
+   "back": "Sā-lɛ́ɛng · argot"
+  },
+  {
+   "id": "l114-v03",
+   "front": "ໄວລຸ້ນ",
+   "back": "Wáy-lūn · adolescent"
+  },
+  {
+   "id": "l114-v04",
+   "front": "ສາກ",
+   "back": "Sȁak · scène"
+  },
+  {
+   "id": "l114-v05",
+   "front": "ຜູ້ກຳກັບ",
+   "back": "Phȕu kǎm-káp · réalisateur"
+  },
+  {
+   "id": "l114-v06",
+   "front": "ນັກສະແດງ",
+   "back": "Nāk-sā-dɛ̌ɛng · acteur"
+  },
+  {
+   "id": "l114-p01",
+   "front": "Dans cette scène…",
+   "back": "ໃນສາກນີ້ · Nǎy sȁak nȉi…"
+  },
+  {
+   "id": "l114-p02",
+   "front": "C'est de l'argot.",
+   "back": "ແມ່ນຄຳສະແລງ · Mɛ̄ɛn khám sā-lɛ́ɛng."
+  },
+  {
+   "id": "l114-p03",
+   "front": "Je t'explique.",
+   "back": "ຂ້ອຍອະທິບາຍໃຫ້ · Khɔ̂ɔy á-thī-bǎay hây."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຕົວລະຄອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "personnage",
+      "argot",
+      "scène",
+      "réalisateur"
+     ],
+     "answer": "personnage",
+     "reveal": "<i>Tǔa-lā-khɔ́ɔn</i>"
+    },
+    {
+     "audio": [
+      "ສະແລງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "argot",
+      "personnage",
+      "adolescent",
+      "réalisateur"
+     ],
+     "answer": "argot",
+     "reveal": "<i>Sā-lɛ́ɛng</i>"
+    },
+    {
+     "audio": [
+      "ໄວລຸ້ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "adolescent",
+      "scène",
+      "réalisateur",
+      "acteur"
+     ],
+     "answer": "adolescent",
+     "reveal": "<i>Wáy-lūn</i>"
+    },
+    {
+     "audio": [
+      "ສາກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "scène",
+      "argot",
+      "réalisateur",
+      "personnage"
+     ],
+     "answer": "scène",
+     "reveal": "<i>Sȁak</i>"
+    },
+    {
+     "audio": [
+      "ຜູ້ກຳກັບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "réalisateur",
+      "acteur",
+      "personnage",
+      "scène"
+     ],
+     "answer": "réalisateur",
+     "reveal": "<i>Phȕu kǎm-káp</i>"
+    },
+    {
+     "audio": [
+      "ນັກສະແດງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "acteur",
+      "argot",
+      "personnage",
+      "réalisateur"
+     ],
+     "answer": "acteur",
+     "reveal": "<i>Nāk-sā-dɛ̌ɛng</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ໃນສາກນີ້"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Dans cette scène…",
+      "Je t'explique.",
+      "C'est de l'argot."
+     ],
+     "answer": "Dans cette scène…",
+     "reveal": "<i>Nǎy sȁak nȉi…</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນຄຳສະແລງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est de l'argot.",
+      "Dans cette scène…",
+      "Je t'explique."
+     ],
+     "answer": "C'est de l'argot.",
+     "reveal": "<i>Mɛ̄ɛn khám sā-lɛ́ɛng.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍອະທິບາຍໃຫ້"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je t'explique.",
+      "C'est de l'argot.",
+      "Dans cette scène…"
+     ],
+     "answer": "Je t'explique.",
+     "reveal": "<i>Khɔ̂ɔy á-thī-bǎay hây.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຕົວລະຄອນ",
+   "rom": "Tǔa-lā-khɔ́ɔn",
+   "fr": "personnage",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສະແລງ",
+   "rom": "Sā-lɛ́ɛng",
+   "fr": "argot",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄວລຸ້ນ",
+   "rom": "Wáy-lūn",
+   "fr": "adolescent",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສາກ",
+   "rom": "Sȁak",
+   "fr": "scène",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຜູ້ກຳກັບ",
+   "rom": "Phȕu kǎm-káp",
+   "fr": "réalisateur",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນັກສະແດງ",
+   "rom": "Nāk-sā-dɛ̌ɛng",
+   "fr": "acteur",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃນສາກນີ້",
+   "rom": "Nǎy sȁak nȉi…",
+   "fr": "Dans cette scène…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແມ່ນຄຳສະແລງ",
+   "rom": "Mɛ̄ɛn khám sā-lɛ́ɛng.",
+   "fr": "C'est de l'argot.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍອະທິບາຍໃຫ້",
+   "rom": "Khɔ̂ɔy á-thī-bǎay hây.",
+   "fr": "Je t'explique.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ໃນ",
+    "ສາກ",
+    "ນີ້"
+   ],
+   "rom": "Nǎy sȁak nȉi…",
+   "fr": "Dans cette scène…"
+  },
+  {
+   "tokens": [
+    "ແມ່ນ",
+    "ຄຳ",
+    "ສະແລງ"
+   ],
+   "rom": "Mɛ̄ɛn khám sā-lɛ́ɛng.",
+   "fr": "C'est de l'argot."
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ອະທິບາຍ",
+    "ໃຫ້"
+   ],
+   "rom": "Khɔ̂ɔy á-thī-bǎay hây.",
+   "fr": "Je t'explique."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຕົວລະຄອນ",
+   "rom": "Tǔa-lā-khɔ́ɔn",
+   "fr": "personnage"
+  },
+  {
+   "lao": "ສະແລງ",
+   "rom": "Sā-lɛ́ɛng",
+   "fr": "argot"
+  },
+  {
+   "lao": "ໄວລຸ້ນ",
+   "rom": "Wáy-lūn",
+   "fr": "adolescent"
+  },
+  {
+   "lao": "ສາກ",
+   "rom": "Sȁak",
+   "fr": "scène"
+  },
+  {
+   "lao": "ຜູ້ກຳກັບ",
+   "rom": "Phȕu kǎm-káp",
+   "fr": "réalisateur"
+  },
+  {
+   "lao": "ນັກສະແດງ",
+   "rom": "Nāk-sā-dɛ̌ɛng",
+   "fr": "acteur"
+  }
+ ],
+ "sounds": {
+  "ຮັບຟັງ": "Hāp-fáng",
+  "ບົດສະຫຼຸບ": "Bót sā-lūp",
+  "ແຜ່ລະບາດ": "Phɛ̀ɛ lā-bȁat",
+  "ເກງໃຈ": "Kěeng-jǎy",
+  "ຕົວລະຄອນນີ້ເວົ້າພາສາໄວລຸ້ນ": "Tǔa-lā-khɔ́ɔn nȉi wȁo pháa-sǎa wáy-lūn.",
+  "ຂ້ອຍບໍ່ເຂົ້າໃຈບາງຄຳ": "Khɔ̂ɔy bɔ̀ɔ khâo-jǎy bǎang khám.",
+  "ແມ່ນຄຳສະແລງ ຂ້ອຍອະທິບາຍໃຫ້": "Mɛ̄ɛn khám sā-lɛ́ɛng. Khɔ̂ɔy á-thī-bǎay hây.",
+  "ຕົວລະຄອນ": "Tǔa-lā-khɔ́ɔn",
+  "ສະແລງ": "sā-lɛ́ɛng",
+  "ໄວລຸ້ນ": "Wáy-lūn",
+  "ສາກ": "sȁak",
+  "ຜູ້ກຳກັບ": "Phȕu kǎm-káp",
+  "ນັກສະແດງ": "Nāk-sā-dɛ̌ɛng",
+  "ໃນສາກນີ້": "Nǎy sȁak nȉi…",
+  "ຕົວລະຄອນຮູ້ສຶກ": "Tǔa-lā-khɔ́ɔn hȕu-sʉ̄k…",
+  "ແມ່ນຄຳສະແລງ": "Mɛ̄ɛn khám sā-lɛ́ɛng.",
+  "ຂ້ອຍອະທິບາຍໃຫ້": "Khɔ̂ɔy á-thī-bǎay hây.",
+  "ໃນ": "nǎy",
+  "ນີ້": "nȉi",
+  "ແມ່ນ": "mɛ̄ɛn",
+  "ຄຳ": "khám",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ອະທິບາຍ": "á-thī-bǎay",
+  "ໃຫ້": "hây"
+ },
+ "suivi": "LEÇON : 114 — Partie F (Argumenter, B2) · Films et séries\nOBJECTIF : Analyser une scène de film lao, avec langue familière et argot.\nNOTION : analyser une scène\nVOCAB : Tǔa-lā-khɔ́ɔn, Sā-lɛ́ɛng, Wáy-lūn, Sȁak, Phȕu kǎm-káp, Nāk-sā-dɛ̌ɛng\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 115 — Bilan B2"
+}

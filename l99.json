@@ -1,0 +1,484 @@
+{
+ "num": 99,
+ "phase": "Partie F · Argumenter",
+ "title": "L'humour",
+ "objective": "Comprendre une blague et un jeu de mots sur les tons.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>docile <small class=\"muted\">(leçon 98)</small></li><li>téléspectateur <small class=\"muted\">(leçon 96)</small></li><li>être sûr <small class=\"muted\">(leçon 92)</small></li><li>renouveler un visa <small class=\"muted\">(leçon 85)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຫົວອ່ອນ</span> <span class=\"rom\">Hǔa ɔ̀ɔn</span> · docile</li><li><span class=\"lo\">ຜູ້ຊົມ</span> <span class=\"rom\">Phȕu sóm</span> · téléspectateur</li><li><span class=\"lo\">ແນ່ໃຈ</span> <span class=\"rom\">Nɛ̄ɛ-jǎy</span> · être sûr</li><li><span class=\"lo\">ຕໍ່ວີຊາ</span> <span class=\"rom\">Tɔ̀ɔ wíi-sáa</span> · renouveler un visa</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Comprendre une blague et un jeu de mots sur les tons.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Kèo raconte une blague.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຮູ້ບໍວ່າເປັນຫຍັງ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ບໍ່ຮູ້ ເປັນຫຍັງ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຕະຫຼົກບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍບໍ່ເຂົ້າໃຈມຸກ ອະທິບາຍແດ່</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ມັນຫຼິ້ນສຽງ ສອງຄຳນີ້ຕ່າງກັນແຕ່ສຽງວັນນະຍຸດ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Hȕu bɔ̌ɔ wāa pěn-nyǎng…</span><br><span class=\"rom\">Bɔ̀ɔ hȕu, pěn-nyǎng?</span><br><span class=\"rom\">Tá-lōk bɔ̌ɔ?</span><br><span class=\"rom\">Khɔ̂ɔy bɔ̀ɔ khâo-jǎy mūk. Á-thī-bǎay dɛ̀ɛ.</span><br><span class=\"rom\">Mán lîn sǐang. Sɔ̌ɔng khám nȉi tàang kǎn tɛ̀ɛ sǐang wán-nā-nyūt.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Kèo</b> — Tu sais pourquoi…<br><b>Clara</b> — Non, pourquoi ?<br><b>Kèo</b> — … C&#x27;est drôle, non ?<br><b>Clara</b> — Je n&#x27;ai pas compris la blague. Explique-moi.<br><b>Kèo</b> — C&#x27;est un jeu sur les sons. Ces deux mots ne diffèrent que par le ton.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Pourquoi Clara ne comprend-elle pas ?</li></ol><details><summary>Réponses</summary><ol><li>C&#x27;est un jeu de mots sur les tons.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຕະຫຼົກ</td><td class=\"rom\">Tá-lōk</td><td>drôle</td><td></td></tr><tr><td class=\"lo\">ມຸກ</td><td class=\"rom\">Mūk</td><td>blague</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ເລົ່າເລື່ອງຕະຫຼົກ</td><td class=\"rom\">Lāo lʉ̄ang tá-lōk</td><td>raconter une blague</td><td></td></tr><tr><td class=\"lo\">ຫົວ</td><td class=\"rom\">Hǔa</td><td>rire</td><td></td></tr><tr><td class=\"lo\">ຫຼິ້ນຄຳ</td><td class=\"rom\">Lîn khám</td><td>jeu de mots</td><td></td></tr><tr><td class=\"lo\">ສຽງວັນນະຍຸດ</td><td class=\"rom\">Sǐang wán-nā-nyūt</td><td>ton (linguistique)</td><td></td></tr><tr><td class=\"lo\">ອະທິບາຍ</td><td class=\"rom\">Á-thī-bǎay</td><td>expliquer</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les jeux sur les tons",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຂາ / ຂ້າ</span> <span class=\"rom\">Khǎa/ khâa</span> = jambe / tuer</li><li><span class=\"lo\">ໝາ / ມາ</span> <span class=\"rom\">Mǎa/ máa</span> = chien / venir</li></ul><details><summary>La règle</summary><p>L'humour lao joue beaucoup sur les mots qui ne diffèrent que par le ton. Comprendre une blague est un excellent test de ton oreille.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les paires de mots qui ne diffèrent que par le ton.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>C&#x27;est drôle !</li><li>Je n&#x27;ai pas compris la blague.</li><li>Explique-moi.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຕະຫຼົກ!</span> <span class=\"rom\">Tá-lōk!</span></li><li><span class=\"lo\">ບໍ່ເຂົ້າໃຈມຸກ</span> <span class=\"rom\">Bɔ̀ɔ khâo-jǎy mūk.</span></li><li><span class=\"lo\">ອະທິບາຍແດ່</span> <span class=\"rom\">Á-thī-bǎay dɛ̀ɛ.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Trouve 5 paires de mots qui ne diffèrent que par le ton.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Demande à un natif de te raconter une blague lao et de te l&#x27;expliquer.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>10 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l99-v01",
+   "front": "ຕະຫຼົກ",
+   "back": "Tá-lōk · drôle"
+  },
+  {
+   "id": "l99-v02",
+   "front": "ມຸກ",
+   "back": "Mūk · blague"
+  },
+  {
+   "id": "l99-v03",
+   "front": "ເລົ່າເລື່ອງຕະຫຼົກ",
+   "back": "Lāo lʉ̄ang tá-lōk · raconter une blague"
+  },
+  {
+   "id": "l99-v04",
+   "front": "ຫົວ",
+   "back": "Hǔa · rire"
+  },
+  {
+   "id": "l99-v05",
+   "front": "ຫຼິ້ນຄຳ",
+   "back": "Lîn khám · jeu de mots"
+  },
+  {
+   "id": "l99-v06",
+   "front": "ສຽງວັນນະຍຸດ",
+   "back": "Sǐang wán-nā-nyūt · ton (linguistique)"
+  },
+  {
+   "id": "l99-v07",
+   "front": "ອະທິບາຍ",
+   "back": "Á-thī-bǎay · expliquer"
+  },
+  {
+   "id": "l99-p01",
+   "front": "C'est drôle !",
+   "back": "ຕະຫຼົກ! · Tá-lōk!"
+  },
+  {
+   "id": "l99-p02",
+   "front": "Je n'ai pas compris la blague.",
+   "back": "ບໍ່ເຂົ້າໃຈມຸກ · Bɔ̀ɔ khâo-jǎy mūk."
+  },
+  {
+   "id": "l99-p03",
+   "front": "Explique-moi.",
+   "back": "ອະທິບາຍແດ່ · Á-thī-bǎay dɛ̀ɛ."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຕະຫຼົກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "drôle",
+      "jeu de mots",
+      "expliquer",
+      "blague"
+     ],
+     "answer": "drôle",
+     "reveal": "<i>Tá-lōk</i>"
+    },
+    {
+     "audio": [
+      "ມຸກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "blague",
+      "drôle",
+      "jeu de mots",
+      "raconter une blague"
+     ],
+     "answer": "blague",
+     "reveal": "<i>Mūk</i>"
+    },
+    {
+     "audio": [
+      "ເລົ່າເລື່ອງຕະຫຼົກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "raconter une blague",
+      "expliquer",
+      "jeu de mots",
+      "ton (linguistique)"
+     ],
+     "answer": "raconter une blague",
+     "reveal": "<i>Lāo lʉ̄ang tá-lōk</i>"
+    },
+    {
+     "audio": [
+      "ຫົວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "rire",
+      "raconter une blague",
+      "blague",
+      "drôle"
+     ],
+     "answer": "rire",
+     "reveal": "<i>Hǔa</i>"
+    },
+    {
+     "audio": [
+      "ຫຼິ້ນຄຳ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "jeu de mots",
+      "ton (linguistique)",
+      "blague",
+      "expliquer"
+     ],
+     "answer": "jeu de mots",
+     "reveal": "<i>Lîn khám</i>"
+    },
+    {
+     "audio": [
+      "ສຽງວັນນະຍຸດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ton (linguistique)",
+      "rire",
+      "drôle",
+      "raconter une blague"
+     ],
+     "answer": "ton (linguistique)",
+     "reveal": "<i>Sǐang wán-nā-nyūt</i>"
+    },
+    {
+     "audio": [
+      "ອະທິບາຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "expliquer",
+      "raconter une blague",
+      "drôle",
+      "rire"
+     ],
+     "answer": "expliquer",
+     "reveal": "<i>Á-thī-bǎay</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຮູ້ບໍວ່າເປັນຫຍັງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu sais pourquoi…",
+      "Non, pourquoi ?",
+      "… C'est drôle, non ?",
+      "Je n'ai pas compris la blague. Explique-moi."
+     ],
+     "answer": "Tu sais pourquoi…",
+     "reveal": "<i>Hȕu bɔ̌ɔ wāa pěn-nyǎng…</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ຮູ້ ເປັນຫຍັງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Non, pourquoi ?",
+      "Tu sais pourquoi…",
+      "… C'est drôle, non ?",
+      "C'est un jeu sur les sons. Ces deux mots ne diffèrent que par le ton."
+     ],
+     "answer": "Non, pourquoi ?",
+     "reveal": "<i>Bɔ̀ɔ hȕu, pěn-nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ຕະຫຼົກບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "… C'est drôle, non ?",
+      "Non, pourquoi ?",
+      "Tu sais pourquoi…",
+      "C'est un jeu sur les sons. Ces deux mots ne diffèrent que par le ton."
+     ],
+     "answer": "… C'est drôle, non ?",
+     "reveal": "<i>Tá-lōk bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍບໍ່ເຂົ້າໃຈມຸກ ອະທິບາຍແດ່"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je n'ai pas compris la blague. Explique-moi.",
+      "Non, pourquoi ?",
+      "Tu sais pourquoi…",
+      "… C'est drôle, non ?"
+     ],
+     "answer": "Je n'ai pas compris la blague. Explique-moi.",
+     "reveal": "<i>Khɔ̂ɔy bɔ̀ɔ khâo-jǎy mūk. Á-thī-bǎay dɛ̀ɛ.</i>"
+    },
+    {
+     "audio": [
+      "ມັນຫຼິ້ນສຽງ ສອງຄຳນີ້ຕ່າງກັນແຕ່ສຽງວັນນະຍຸດ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'est un jeu sur les sons. Ces deux mots ne diffèrent que par le ton.",
+      "… C'est drôle, non ?",
+      "Tu sais pourquoi…",
+      "Je n'ai pas compris la blague. Explique-moi."
+     ],
+     "answer": "C'est un jeu sur les sons. Ces deux mots ne diffèrent que par le ton.",
+     "reveal": "<i>Mán lîn sǐang. Sɔ̌ɔng khám nȉi tàang kǎn tɛ̀ɛ sǐang wán-nā-nyūt.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຕະຫຼົກ!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est drôle !",
+      "Explique-moi.",
+      "Je n'ai pas compris la blague."
+     ],
+     "answer": "C'est drôle !",
+     "reveal": "<i>Tá-lōk!</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ເຂົ້າໃຈມຸກ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je n'ai pas compris la blague.",
+      "C'est drôle !",
+      "Explique-moi."
+     ],
+     "answer": "Je n'ai pas compris la blague.",
+     "reveal": "<i>Bɔ̀ɔ khâo-jǎy mūk.</i>"
+    },
+    {
+     "audio": [
+      "ອະທິບາຍແດ່"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Explique-moi.",
+      "Je n'ai pas compris la blague.",
+      "C'est drôle !"
+     ],
+     "answer": "Explique-moi.",
+     "reveal": "<i>Á-thī-bǎay dɛ̀ɛ.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຕະຫຼົກ",
+   "rom": "Tá-lōk",
+   "fr": "drôle",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມຸກ",
+   "rom": "Mūk",
+   "fr": "blague",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເລົ່າເລື່ອງຕະຫຼົກ",
+   "rom": "Lāo lʉ̄ang tá-lōk",
+   "fr": "raconter une blague",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫົວ",
+   "rom": "Hǔa",
+   "fr": "rire",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫຼິ້ນຄຳ",
+   "rom": "Lîn khám",
+   "fr": "jeu de mots",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສຽງວັນນະຍຸດ",
+   "rom": "Sǐang wán-nā-nyūt",
+   "fr": "ton (linguistique)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອະທິບາຍ",
+   "rom": "Á-thī-bǎay",
+   "fr": "expliquer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕະຫຼົກ!",
+   "rom": "Tá-lōk!",
+   "fr": "C'est drôle !",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ເຂົ້າໃຈມຸກ",
+   "rom": "Bɔ̀ɔ khâo-jǎy mūk.",
+   "fr": "Je n'ai pas compris la blague.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອະທິບາຍແດ່",
+   "rom": "Á-thī-bǎay dɛ̀ɛ.",
+   "fr": "Explique-moi.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ບໍ່",
+    "ເຂົ້າໃຈ",
+    "ມຸກ"
+   ],
+   "rom": "Bɔ̀ɔ khâo-jǎy mūk.",
+   "fr": "Je n'ai pas compris la blague."
+  },
+  {
+   "tokens": [
+    "ອະທິບາຍ",
+    "ແດ່"
+   ],
+   "rom": "Á-thī-bǎay dɛ̀ɛ.",
+   "fr": "Explique-moi."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຕະຫຼົກ",
+   "rom": "Tá-lōk",
+   "fr": "drôle"
+  },
+  {
+   "lao": "ມຸກ",
+   "rom": "Mūk",
+   "fr": "blague"
+  },
+  {
+   "lao": "ເລົ່າເລື່ອງຕະຫຼົກ",
+   "rom": "Lāo lʉ̄ang tá-lōk",
+   "fr": "raconter une blague"
+  },
+  {
+   "lao": "ຫົວ",
+   "rom": "Hǔa",
+   "fr": "rire"
+  },
+  {
+   "lao": "ຫຼິ້ນຄຳ",
+   "rom": "Lîn khám",
+   "fr": "jeu de mots"
+  },
+  {
+   "lao": "ສຽງວັນນະຍຸດ",
+   "rom": "Sǐang wán-nā-nyūt",
+   "fr": "ton (linguistique)"
+  },
+  {
+   "lao": "ອະທິບາຍ",
+   "rom": "Á-thī-bǎay",
+   "fr": "expliquer"
+  }
+ ],
+ "sounds": {
+  "ຫົວອ່ອນ": "Hǔa ɔ̀ɔn",
+  "ຜູ້ຊົມ": "Phȕu sóm",
+  "ແນ່ໃຈ": "Nɛ̄ɛ-jǎy",
+  "ຕໍ່ວີຊາ": "Tɔ̀ɔ wíi-sáa",
+  "ຮູ້ບໍວ່າເປັນຫຍັງ": "Hȕu bɔ̌ɔ wāa pěn-nyǎng…",
+  "ບໍ່ຮູ້ ເປັນຫຍັງ": "Bɔ̀ɔ hȕu, pěn-nyǎng?",
+  "ຕະຫຼົກບໍ": "Tá-lōk bɔ̌ɔ?",
+  "ຂ້ອຍບໍ່ເຂົ້າໃຈມຸກ ອະທິບາຍແດ່": "Khɔ̂ɔy bɔ̀ɔ khâo-jǎy mūk. Á-thī-bǎay dɛ̀ɛ.",
+  "ມັນຫຼິ້ນສຽງ ສອງຄຳນີ້ຕ່າງກັນແຕ່ສຽງວັນນະຍຸດ": "Mán lîn sǐang. Sɔ̌ɔng khám nȉi tàang kǎn tɛ̀ɛ sǐang wán-nā-nyūt.",
+  "ຕະຫຼົກ": "Tá-lōk!",
+  "ມຸກ": "mūk",
+  "ເລົ່າເລື່ອງຕະຫຼົກ": "Lāo lʉ̄ang tá-lōk",
+  "ຫົວ": "Hǔa",
+  "ຫຼິ້ນຄຳ": "Lîn khám",
+  "ສຽງວັນນະຍຸດ": "Sǐang wán-nā-nyūt",
+  "ອະທິບາຍ": "á-thī-bǎay",
+  "ຂາ / ຂ້າ": "Khǎa/ khâa",
+  "ໝາ / ມາ": "Mǎa/ máa",
+  "ບໍ່ເຂົ້າໃຈມຸກ": "Bɔ̀ɔ khâo-jǎy mūk.",
+  "ອະທິບາຍແດ່": "Á-thī-bǎay dɛ̀ɛ.",
+  "ບໍ່": "bɔ̀ɔ",
+  "ເຂົ້າໃຈ": "khâo-jǎy",
+  "ແດ່": "dɛ̀ɛ"
+ },
+ "suivi": "LEÇON : 99 — Partie F (Argumenter, B2) · L'humour\nOBJECTIF : Comprendre une blague et un jeu de mots sur les tons.\nNOTION : les jeux sur les tons\nVOCAB : Tá-lōk, Mūk, Lāo lʉ̄ang tá-lōk, Hǔa, Lîn khám, Sǐang wán-nā-nyūt, Á-thī-bǎay\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 100 — Les sous-entendus"
+}

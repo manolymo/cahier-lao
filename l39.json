@@ -27,7 +27,7 @@
   },
   {
    "title": "Vocabulaire et blocs",
-   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຮັນໂລ</td><td class=\"rom\">Hán-lóo</td><td>allô</td><td></td></tr><tr><td class=\"lo\">ໂທ</td><td class=\"rom\">Thóo</td><td>téléphoner</td><td></td></tr><tr><td class=\"lo\">ໂທຫາ</td><td class=\"rom\">Thóo-hǎa</td><td>appeler quelqu&#x27;un</td><td></td></tr><tr><td class=\"lo\">ຢູ່ບໍ</td><td class=\"rom\">Yùu bɔ̌ɔ</td><td>est-ce que… est là ?</td><td></td></tr><tr><td class=\"lo\">ບໍ່ຢູ່</td><td class=\"rom\">Bɔ̀ɔ yùu</td><td>n&#x27;est pas là</td><td></td></tr><tr><td class=\"lo\">ອອກໄປ</td><td class=\"rom\">Ɔ̏ɔk pǎy</td><td>sortir</td><td></td></tr><tr><td class=\"lo\">ບອກ</td><td class=\"rom\">Bɔ̏ɔk</td><td>dire à, prévenir</td><td></td></tr><tr><td class=\"lo\">ໂທກັບ</td><td class=\"rom\">Thóo kǎp</td><td>rappeler</td><td></td></tr><tr><td class=\"lo\">ແມ່ນໃຜ</td><td class=\"rom\">Mɛ̄ɛn phǎy</td><td>c&#x27;est qui ?</td><td></td></tr></table></div>"
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຮັນໂລ</td><td class=\"rom\">Hán-lóo</td><td>allô</td><td></td></tr><tr><td class=\"lo\">ໂທ</td><td class=\"rom\">Thóo</td><td>téléphoner</td><td></td></tr><tr><td class=\"lo\">ໂທຫາ</td><td class=\"rom\">Thóo-hǎa</td><td>appeler quelqu&#x27;un</td><td></td></tr><tr><td class=\"lo\">ຢູ່ບໍ</td><td class=\"rom\">Yùu bɔ̌ɔ</td><td>est-ce que… est là ?</td><td></td></tr><tr><td class=\"lo\">ບໍ່ຢູ່</td><td class=\"rom\">Bɔ̀ɔ yùu</td><td>n&#x27;est pas là</td><td></td></tr><tr><td class=\"lo\">ອອກໄປ</td><td class=\"rom\">Ɔ̏ɔk pǎy</td><td>sortir</td><td></td></tr><tr><td class=\"lo\">ບອກ</td><td class=\"rom\">Bɔ̏ɔk</td><td>dire à, prévenir</td><td></td></tr><tr><td class=\"lo\">ໂທກັບ</td><td class=\"rom\">Thóo káp</td><td>rappeler</td><td></td></tr><tr><td class=\"lo\">ແມ່ນໃຜ</td><td class=\"rom\">Mɛ̄ɛn phǎy</td><td>c&#x27;est qui ?</td><td></td></tr></table></div>"
   },
   {
    "title": "Point de langue : faire faire avec ບອກ",
@@ -93,7 +93,7 @@
   {
    "id": "l39-v08",
    "front": "ໂທກັບ",
-   "back": "Thóo kǎp · rappeler"
+   "back": "Thóo káp · rappeler"
   },
   {
    "id": "l39-v09",
@@ -237,7 +237,7 @@
       "téléphoner"
      ],
      "answer": "rappeler",
-     "reveal": "<i>Thóo kǎp</i>"
+     "reveal": "<i>Thóo káp</i>"
     },
     {
      "audio": [
@@ -456,7 +456,7 @@
   },
   {
    "lao": "ໂທກັບ",
-   "rom": "Thóo kǎp",
+   "rom": "Thóo káp",
    "fr": "rappeler",
    "kind": "phrase"
   },
@@ -560,7 +560,7 @@
   },
   {
    "lao": "ໂທກັບ",
-   "rom": "Thóo kǎp",
+   "rom": "Thóo káp",
    "fr": "rappeler"
   },
   {
@@ -586,7 +586,7 @@
   "ບໍ່ຢູ່": "Bɔ̀ɔ yùu",
   "ອອກໄປ": "Ɔ̏ɔk pǎy",
   "ບອກ": "bɔ̏ɔk",
-  "ໂທກັບ": "Thóo kǎp",
+  "ໂທກັບ": "Thóo káp",
   "ແມ່ນໃຜ": "Mɛ̄ɛn phǎy",
   "ບອກລາວໂທຫາຂ້ອຍ": "Bɔ̏ɔk láaw thóo hǎa khɔ̂ɔy",
   "ບອກແມ່ແດ່": "Bɔ̏ɔk mɛ̄ɛ dɛ̀ɛ",
@@ -602,5 +602,5 @@
   "ແມ່ນ": "mɛ̄ɛn",
   "ຄລາຣາ": "Clara"
  },
- "suivi": "LEÇON : 39 — Partie C (Vie courante, A1) · Au téléphone (1)\nOBJECTIF : Passer un appel simple, demander quelqu'un et laisser un message.\nNOTION : faire faire avec ບອກ\nVOCAB : Hán-lóo, Thóo, Thóo-hǎa, Yùu bɔ̌ɔ, Bɔ̀ɔ yùu, Ɔ̏ɔk pǎy, Bɔ̏ɔk, Thóo kǎp, Mɛ̄ɛn phǎy\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 40 — Bilan A1"
+ "suivi": "LEÇON : 39 — Partie C (Vie courante, A1) · Au téléphone (1)\nOBJECTIF : Passer un appel simple, demander quelqu'un et laisser un message.\nNOTION : faire faire avec ບອກ\nVOCAB : Hán-lóo, Thóo, Thóo-hǎa, Yùu bɔ̌ɔ, Bɔ̀ɔ yùu, Ɔ̏ɔk pǎy, Bɔ̏ɔk, Thóo káp, Mɛ̄ɛn phǎy\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 40 — Bilan A1"
 }

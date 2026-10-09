@@ -1,0 +1,437 @@
+{
+ "num": 100,
+ "phase": "Partie F · Argumenter",
+ "title": "Les sous-entendus",
+ "objective": "Comprendre la politesse indirecte et les refus implicites.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>blague <small class=\"muted\">(leçon 99)</small></li><li>collègue <small class=\"muted\">(leçon 97)</small></li><li>inconvénient <small class=\"muted\">(leçon 93)</small></li><li>siècle <small class=\"muted\">(leçon 86)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ມຸກ</span> <span class=\"rom\">Mūk</span> · blague</li><li><span class=\"lo\">ເພື່ອນຮ່ວມງານ</span> <span class=\"rom\">Phʉ̄an hūam ngáan</span> · collègue</li><li><span class=\"lo\">ຂໍ້ເສຍ</span> <span class=\"rom\">Khɔ̂ɔ-sǐa</span> · inconvénient</li><li><span class=\"lo\">ສະຕະວັດ</span> <span class=\"rom\">Sā-tá-wāt</span> · siècle</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Comprendre la politesse indirecte et les refus implicites.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara invite un collègue.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ວັນເສົາມາກິນເຂົ້ານຳກັນບໍ?</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ເອີ ຂ້ອຍຈະລອງເບິ່ງເດີ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ລາວບໍ່ມາດອກ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແຕ່ລາວບໍ່ໄດ້ບອກວ່າບໍ່ມາ!</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">«ລອງເບິ່ງ»ສ່ວນຫຼາຍແມ່ນບໍ່</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Wán-sǎo máa kǐn-khâo nám kǎn bɔ̌ɔ?</span><br><span class=\"rom\">ɤ̌ɤ… khɔ̂ɔy já lɔ́ɔng bɤ̀ng dɤ̌ɤ.</span><br><span class=\"rom\">Láaw bɔ̀ɔ máa dɔ̏ɔk.</span><br><span class=\"rom\">Tɛ̀ɛ láaw bɔ̀ɔ dâay bɔ̏ɔk wāa bɔ̀ɔ máa!</span><br><span class=\"rom\">Lɔ́ɔng bɤ̀ng» sùan-lǎay mɛ̄ɛn bɔ̀ɔ.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Samedi, tu viens manger ?<br><b>X</b> — Euh… je vais voir.<br><b>Noy</b> — (Après) Il ne viendra pas.<br><b>Clara</b> — Mais il n&#x27;a pas dit qu&#x27;il ne venait pas !<br><b>Noy</b> — « Je vais voir », la plupart du temps, ça veut dire non.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Le collègue vient-il ?</li><li>Comment l&#x27;a-t-on compris ?</li></ol><details><summary>Réponses</summary><ol><li>Non, très probablement.</li><li>« Je vais voir » est un refus poli.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ລອງເບິ່ງ</td><td class=\"rom\">Lɔ́ɔng bɤ̀ng</td><td>je vais voir (refus poli)</td><td></td></tr><tr><td class=\"lo\">ບໍ່ສະດວກ</td><td class=\"rom\">Bɔ̀ɔ sā-dȕak</td><td>ce n&#x27;est pas pratique (refus)</td><td></td></tr><tr><td class=\"lo\">ເກງໃຈ</td><td class=\"rom\">Kěeng-jǎy</td><td>être gêné de déranger</td><td>valeur centrale</td></tr><tr><td class=\"lo\">ຮັກສາໜ້າ</td><td class=\"rom\">Hāk-sǎa nâa</td><td>sauver la face</td><td></td></tr><tr><td class=\"lo\">ທາງອ້ອມ</td><td class=\"rom\">Tháang-ɔ̂ɔm</td><td>indirect</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : le refus indirect",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຂ້ອຍຈະລອງເບິ່ງ</span> <span class=\"rom\">Khɔ̂ɔy já lɔ́ɔng bɤ̀ng</span> = je vais voir (= probablement non)</li><li><span class=\"lo\">ບໍ່ຄ່ອຍສະດວກ</span> <span class=\"rom\">Bɔ̀ɔ khɔ̄ɔy sā-dȕak</span> = ce n&#x27;est pas très pratique (= non)</li></ul><details><summary>La règle</summary><p>Dire « non » directement fait perdre la face. On refuse avec des formules vagues. ເກງໃຈ, la peur de déranger, explique beaucoup de comportements.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> le ton hésitant des refus.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Je vais voir.</li><li>Ce n&#x27;est pas très pratique.</li><li>Ne sois pas gêné.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້ອຍຈະລອງເບິ່ງ</span> <span class=\"rom\">Khɔ̂ɔy já lɔ́ɔng bɤ̀ng.</span></li><li><span class=\"lo\">ບໍ່ຄ່ອຍສະດວກ</span> <span class=\"rom\">Bɔ̀ɔ khɔ̄ɔy sā-dȕak.</span></li><li><span class=\"lo\">ບໍ່ຕ້ອງເກງໃຈ</span> <span class=\"rom\">Bɔ̀ɔ tâɔng kěeng-jǎy.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Liste 5 façons indirectes de refuser en lao.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Demande à un natif comment il refuse une invitation sans vexer.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>8 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l100-v01",
+   "front": "ລອງເບິ່ງ",
+   "back": "Lɔ́ɔng bɤ̀ng · je vais voir (refus poli)"
+  },
+  {
+   "id": "l100-v02",
+   "front": "ບໍ່ສະດວກ",
+   "back": "Bɔ̀ɔ sā-dȕak · ce n'est pas pratique (refus)"
+  },
+  {
+   "id": "l100-v03",
+   "front": "ເກງໃຈ",
+   "back": "Kěeng-jǎy · être gêné de déranger"
+  },
+  {
+   "id": "l100-v04",
+   "front": "ຮັກສາໜ້າ",
+   "back": "Hāk-sǎa nâa · sauver la face"
+  },
+  {
+   "id": "l100-v05",
+   "front": "ທາງອ້ອມ",
+   "back": "Tháang-ɔ̂ɔm · indirect"
+  },
+  {
+   "id": "l100-p01",
+   "front": "Je vais voir.",
+   "back": "ຂ້ອຍຈະລອງເບິ່ງ · Khɔ̂ɔy já lɔ́ɔng bɤ̀ng."
+  },
+  {
+   "id": "l100-p02",
+   "front": "Ce n'est pas très pratique.",
+   "back": "ບໍ່ຄ່ອຍສະດວກ · Bɔ̀ɔ khɔ̄ɔy sā-dȕak."
+  },
+  {
+   "id": "l100-p03",
+   "front": "Ne sois pas gêné.",
+   "back": "ບໍ່ຕ້ອງເກງໃຈ · Bɔ̀ɔ tâɔng kěeng-jǎy."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ລອງເບິ່ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "je vais voir (refus poli)",
+      "être gêné de déranger",
+      "sauver la face",
+      "ce n'est pas pratique (refus)"
+     ],
+     "answer": "je vais voir (refus poli)",
+     "reveal": "<i>Lɔ́ɔng bɤ̀ng</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ສະດວກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ce n'est pas pratique (refus)",
+      "sauver la face",
+      "être gêné de déranger",
+      "je vais voir (refus poli)"
+     ],
+     "answer": "ce n'est pas pratique (refus)",
+     "reveal": "<i>Bɔ̀ɔ sā-dȕak</i>"
+    },
+    {
+     "audio": [
+      "ເກງໃຈ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "être gêné de déranger",
+      "indirect",
+      "je vais voir (refus poli)",
+      "ce n'est pas pratique (refus)"
+     ],
+     "answer": "être gêné de déranger",
+     "reveal": "<i>Kěeng-jǎy</i>"
+    },
+    {
+     "audio": [
+      "ຮັກສາໜ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "sauver la face",
+      "ce n'est pas pratique (refus)",
+      "je vais voir (refus poli)",
+      "indirect"
+     ],
+     "answer": "sauver la face",
+     "reveal": "<i>Hāk-sǎa nâa</i>"
+    },
+    {
+     "audio": [
+      "ທາງອ້ອມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "indirect",
+      "sauver la face",
+      "je vais voir (refus poli)",
+      "être gêné de déranger"
+     ],
+     "answer": "indirect",
+     "reveal": "<i>Tháang-ɔ̂ɔm</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ວັນເສົາມາກິນເຂົ້ານຳກັນບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Samedi, tu viens manger ?",
+      "(Après) Il ne viendra pas.",
+      "Euh… je vais voir.",
+      "Mais il n'a pas dit qu'il ne venait pas !"
+     ],
+     "answer": "Samedi, tu viens manger ?",
+     "reveal": "<i>Wán-sǎo máa kǐn-khâo nám kǎn bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ເອີ ຂ້ອຍຈະລອງເບິ່ງເດີ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Euh… je vais voir.",
+      "Samedi, tu viens manger ?",
+      "Mais il n'a pas dit qu'il ne venait pas !",
+      "« Je vais voir », la plupart du temps, ça veut dire non."
+     ],
+     "answer": "Euh… je vais voir.",
+     "reveal": "<i>ɤ̌ɤ… khɔ̂ɔy já lɔ́ɔng bɤ̀ng dɤ̌ɤ.</i>"
+    },
+    {
+     "audio": [
+      "ລາວບໍ່ມາດອກ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "(Après) Il ne viendra pas.",
+      "Euh… je vais voir.",
+      "Mais il n'a pas dit qu'il ne venait pas !",
+      "Samedi, tu viens manger ?"
+     ],
+     "answer": "(Après) Il ne viendra pas.",
+     "reveal": "<i>Láaw bɔ̀ɔ máa dɔ̏ɔk.</i>"
+    },
+    {
+     "audio": [
+      "ແຕ່ລາວບໍ່ໄດ້ບອກວ່າບໍ່ມາ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Mais il n'a pas dit qu'il ne venait pas !",
+      "(Après) Il ne viendra pas.",
+      "Samedi, tu viens manger ?",
+      "« Je vais voir », la plupart du temps, ça veut dire non."
+     ],
+     "answer": "Mais il n'a pas dit qu'il ne venait pas !",
+     "reveal": "<i>Tɛ̀ɛ láaw bɔ̀ɔ dâay bɔ̏ɔk wāa bɔ̀ɔ máa!</i>"
+    },
+    {
+     "audio": [
+      "«ລອງເບິ່ງ»ສ່ວນຫຼາຍແມ່ນບໍ່"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "« Je vais voir », la plupart du temps, ça veut dire non.",
+      "Euh… je vais voir.",
+      "Samedi, tu viens manger ?",
+      "Mais il n'a pas dit qu'il ne venait pas !"
+     ],
+     "answer": "« Je vais voir », la plupart du temps, ça veut dire non.",
+     "reveal": "<i>Lɔ́ɔng bɤ̀ng» sùan-lǎay mɛ̄ɛn bɔ̀ɔ.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້ອຍຈະລອງເບິ່ງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je vais voir.",
+      "Ne sois pas gêné.",
+      "Ce n'est pas très pratique."
+     ],
+     "answer": "Je vais voir.",
+     "reveal": "<i>Khɔ̂ɔy já lɔ́ɔng bɤ̀ng.</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ຄ່ອຍສະດວກ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Ce n'est pas très pratique.",
+      "Je vais voir.",
+      "Ne sois pas gêné."
+     ],
+     "answer": "Ce n'est pas très pratique.",
+     "reveal": "<i>Bɔ̀ɔ khɔ̄ɔy sā-dȕak.</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ຕ້ອງເກງໃຈ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Ne sois pas gêné.",
+      "Je vais voir.",
+      "Ce n'est pas très pratique."
+     ],
+     "answer": "Ne sois pas gêné.",
+     "reveal": "<i>Bɔ̀ɔ tâɔng kěeng-jǎy.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ລອງເບິ່ງ",
+   "rom": "Lɔ́ɔng bɤ̀ng",
+   "fr": "je vais voir (refus poli)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ສະດວກ",
+   "rom": "Bɔ̀ɔ sā-dȕak",
+   "fr": "ce n'est pas pratique (refus)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເກງໃຈ",
+   "rom": "Kěeng-jǎy",
+   "fr": "être gêné de déranger",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຮັກສາໜ້າ",
+   "rom": "Hāk-sǎa nâa",
+   "fr": "sauver la face",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທາງອ້ອມ",
+   "rom": "Tháang-ɔ̂ɔm",
+   "fr": "indirect",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຈະລອງເບິ່ງ",
+   "rom": "Khɔ̂ɔy já lɔ́ɔng bɤ̀ng.",
+   "fr": "Je vais voir.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ຄ່ອຍສະດວກ",
+   "rom": "Bɔ̀ɔ khɔ̄ɔy sā-dȕak.",
+   "fr": "Ce n'est pas très pratique.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ຕ້ອງເກງໃຈ",
+   "rom": "Bɔ̀ɔ tâɔng kěeng-jǎy.",
+   "fr": "Ne sois pas gêné.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຈະ",
+    "ລອງ",
+    "ເບິ່ງ"
+   ],
+   "rom": "Khɔ̂ɔy já lɔ́ɔng bɤ̀ng.",
+   "fr": "Je vais voir."
+  },
+  {
+   "tokens": [
+    "ບໍ່",
+    "ຄ່ອຍ",
+    "ສະດວກ"
+   ],
+   "rom": "Bɔ̀ɔ khɔ̄ɔy sā-dȕak.",
+   "fr": "Ce n'est pas très pratique."
+  },
+  {
+   "tokens": [
+    "ບໍ່",
+    "ຕ້ອງ",
+    "ເກງໃຈ"
+   ],
+   "rom": "Bɔ̀ɔ tâɔng kěeng-jǎy.",
+   "fr": "Ne sois pas gêné."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ລອງເບິ່ງ",
+   "rom": "Lɔ́ɔng bɤ̀ng",
+   "fr": "je vais voir (refus poli)"
+  },
+  {
+   "lao": "ບໍ່ສະດວກ",
+   "rom": "Bɔ̀ɔ sā-dȕak",
+   "fr": "ce n'est pas pratique (refus)"
+  },
+  {
+   "lao": "ເກງໃຈ",
+   "rom": "Kěeng-jǎy",
+   "fr": "être gêné de déranger"
+  },
+  {
+   "lao": "ຮັກສາໜ້າ",
+   "rom": "Hāk-sǎa nâa",
+   "fr": "sauver la face"
+  },
+  {
+   "lao": "ທາງອ້ອມ",
+   "rom": "Tháang-ɔ̂ɔm",
+   "fr": "indirect"
+  }
+ ],
+ "sounds": {
+  "ມຸກ": "Mūk",
+  "ເພື່ອນຮ່ວມງານ": "Phʉ̄an hūam ngáan",
+  "ຂໍ້ເສຍ": "Khɔ̂ɔ-sǐa",
+  "ສະຕະວັດ": "Sā-tá-wāt",
+  "ວັນເສົາມາກິນເຂົ້ານຳກັນບໍ": "Wán-sǎo máa kǐn-khâo nám kǎn bɔ̌ɔ?",
+  "ເອີ ຂ້ອຍຈະລອງເບິ່ງເດີ": "ɤ̌ɤ… khɔ̂ɔy já lɔ́ɔng bɤ̀ng dɤ̌ɤ.",
+  "ລາວບໍ່ມາດອກ": "Láaw bɔ̀ɔ máa dɔ̏ɔk.",
+  "ແຕ່ລາວບໍ່ໄດ້ບອກວ່າບໍ່ມາ": "Tɛ̀ɛ láaw bɔ̀ɔ dâay bɔ̏ɔk wāa bɔ̀ɔ máa!",
+  "ລອງເບິ່ງ ສ່ວນຫຼາຍແມ່ນບໍ່": "Lɔ́ɔng bɤ̀ng» sùan-lǎay mɛ̄ɛn bɔ̀ɔ.",
+  "ລອງເບິ່ງ": "Lɔ́ɔng bɤ̀ng",
+  "ບໍ່ສະດວກ": "Bɔ̀ɔ sā-dȕak",
+  "ເກງໃຈ": "kěeng-jǎy",
+  "ຮັກສາໜ້າ": "Hāk-sǎa nâa",
+  "ທາງອ້ອມ": "Tháang-ɔ̂ɔm",
+  "ຂ້ອຍຈະລອງເບິ່ງ": "Khɔ̂ɔy já lɔ́ɔng bɤ̀ng.",
+  "ບໍ່ຄ່ອຍສະດວກ": "Bɔ̀ɔ khɔ̄ɔy sā-dȕak.",
+  "ບໍ່ຕ້ອງເກງໃຈ": "Bɔ̀ɔ tâɔng kěeng-jǎy.",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ຈະ": "já",
+  "ລອງ": "lɔ́ɔng",
+  "ເບິ່ງ": "bɤ̀ng",
+  "ບໍ່": "bɔ̀ɔ",
+  "ຄ່ອຍ": "khɔ̄ɔy",
+  "ສະດວກ": "sā-dȕak",
+  "ຕ້ອງ": "tâɔng"
+ },
+ "suivi": "LEÇON : 100 — Partie F (Argumenter, B2) · Les sous-entendus\nOBJECTIF : Comprendre la politesse indirecte et les refus implicites.\nNOTION : le refus indirect\nVOCAB : Lɔ́ɔng bɤ̀ng, Bɔ̀ɔ sā-dȕak, Kěeng-jǎy, Hāk-sǎa nâa, Tháang-ɔ̂ɔm\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 101 — Parler vite"
+}

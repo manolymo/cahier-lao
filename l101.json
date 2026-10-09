@@ -1,0 +1,422 @@
+{
+ "num": 101,
+ "phase": "Partie F · Argumenter",
+ "title": "Parler vite",
+ "objective": "Suivre une conversation à plusieurs et ses formes rapides.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>sauver la face <small class=\"muted\">(leçon 100)</small></li><li>têtu <small class=\"muted\">(leçon 98)</small></li><li>donc, c&#x27;est pourquoi <small class=\"muted\">(leçon 94)</small></li><li>le Centre <small class=\"muted\">(leçon 87)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຮັກສາໜ້າ</span> <span class=\"rom\">Hāk-sǎa nâa</span> · sauver la face</li><li><span class=\"lo\">ຫົວແຂງ</span> <span class=\"rom\">Hǔa khɛ̌ɛng</span> · têtu</li><li><span class=\"lo\">ດັ່ງນັ້ນ</span> <span class=\"rom\">Dàng-nȁn</span> · donc, c&#x27;est pourquoi</li><li><span class=\"lo\">ພາກກາງ</span> <span class=\"rom\">Phâak-kǎang</span> · le Centre</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Suivre une conversation à plusieurs et ses formes rapides.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Dîner animé chez Noy.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ເຈົ້າໄປໃສມາ? ບໍ່ເຫັນໜ້າເລີຍ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ວຽກຫຼາຍແທ້ເດ</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ກິນໆໄປກ່ອນ ເຢັນໝົດແລ້ວ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ພວກເຈົ້າເວົ້າໄວຫຼາຍ ຂ້ອຍຕາມບໍ່ທັນ!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Jâo pǎy sǎy máa? Bɔ̀ɔ hěn nâa lɤ́ɤy.</span><br><span class=\"rom\">Wîak lǎay thɛ̏ɛ dě.</span><br><span class=\"rom\">Kǐn kǐn pǎy kɔ̀ɔn, yěn mōt lɛ̏ɛw.</span><br><span class=\"rom\">Phûak-jâo wȁo wáy lǎay, khɔ̂ɔy tǎam bɔ̀ɔ thán!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Kèo</b> — T&#x27;étais où ? On ne te voit plus.<br><b>Noy</b> — Trop de boulot.<br><b>M. Somsak</b> — Mangez, mangez, ça refroidit.<br><b>Clara</b> — Vous parlez trop vite, je n&#x27;arrive pas à suivre !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Pourquoi Clara a-t-elle du mal ?</li></ol><details><summary>Réponses</summary><ol><li>Tout le monde parle vite à la fois.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຕາມບໍ່ທັນ</td><td class=\"rom\">Tǎam bɔ̀ɔ thán</td><td>ne pas arriver à suivre</td><td></td></tr><tr><td class=\"lo\">ບໍ່ເຫັນໜ້າ</td><td class=\"rom\">Bɔ̀ɔ hěn nâa</td><td>on ne te voit plus</td><td></td></tr><tr><td class=\"lo\">ກິນໆ</td><td class=\"rom\">Kǐn kǐn</td><td>mange, mange</td><td></td></tr><tr><td class=\"lo\">ໄປໃສມາ</td><td class=\"rom\">Pǎy sǎy máa</td><td>t&#x27;étais où ?</td><td></td></tr><tr><td class=\"lo\">ເວົ້າໄວ</td><td class=\"rom\">Wȁo wáy</td><td>parler vite</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les formes rapides de l'oral",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ໄປໃສມາ?</span> <span class=\"rom\">Pǎy sǎy máa?</span> = t&#x27;étais où ?</li><li><span class=\"lo\">ກິນໆໄປ</span> <span class=\"rom\">Kǐn kǐn pǎy</span> = mange, vas-y</li></ul><details><summary>La règle</summary><p>À l'oral rapide, les natifs avalent des syllabes, répètent les verbes (ກິນໆ) et laissent tomber les pronoms. Entraîne-toi au shadowing sur de vrais enregistrements.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les syllabes avalées.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Je n&#x27;arrive pas à suivre !</li><li>T&#x27;étais où ?</li><li>On ne te voit plus.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຕາມບໍ່ທັນ!</span> <span class=\"rom\">Tǎam bɔ̀ɔ thán!</span></li><li><span class=\"lo\">ໄປໃສມາ?</span> <span class=\"rom\">Pǎy sǎy máa?</span></li><li><span class=\"lo\">ບໍ່ເຫັນໜ້າເລີຍ</span> <span class=\"rom\">Bɔ̀ɔ hěn nâa lɤ́ɤy.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Transcris 1 minute d&#x27;une conversation lao rapide.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Participe à une conversation à 3 natifs ou plus pendant 15 minutes.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>8 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l101-v01",
+   "front": "ຕາມບໍ່ທັນ",
+   "back": "Tǎam bɔ̀ɔ thán · ne pas arriver à suivre"
+  },
+  {
+   "id": "l101-v02",
+   "front": "ບໍ່ເຫັນໜ້າ",
+   "back": "Bɔ̀ɔ hěn nâa · on ne te voit plus"
+  },
+  {
+   "id": "l101-v03",
+   "front": "ກິນໆ",
+   "back": "Kǐn kǐn · mange, mange"
+  },
+  {
+   "id": "l101-v04",
+   "front": "ໄປໃສມາ",
+   "back": "Pǎy sǎy máa · t'étais où ?"
+  },
+  {
+   "id": "l101-v05",
+   "front": "ເວົ້າໄວ",
+   "back": "Wȁo wáy · parler vite"
+  },
+  {
+   "id": "l101-p01",
+   "front": "Je n'arrive pas à suivre !",
+   "back": "ຕາມບໍ່ທັນ! · Tǎam bɔ̀ɔ thán!"
+  },
+  {
+   "id": "l101-p02",
+   "front": "T'étais où ?",
+   "back": "ໄປໃສມາ? · Pǎy sǎy máa?"
+  },
+  {
+   "id": "l101-p03",
+   "front": "On ne te voit plus.",
+   "back": "ບໍ່ເຫັນໜ້າເລີຍ · Bɔ̀ɔ hěn nâa lɤ́ɤy."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຕາມບໍ່ທັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ne pas arriver à suivre",
+      "parler vite",
+      "t'étais où ?",
+      "on ne te voit plus"
+     ],
+     "answer": "ne pas arriver à suivre",
+     "reveal": "<i>Tǎam bɔ̀ɔ thán</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ເຫັນໜ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "on ne te voit plus",
+      "mange, mange",
+      "parler vite",
+      "ne pas arriver à suivre"
+     ],
+     "answer": "on ne te voit plus",
+     "reveal": "<i>Bɔ̀ɔ hěn nâa</i>"
+    },
+    {
+     "audio": [
+      "ກິນໆ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mange, mange",
+      "on ne te voit plus",
+      "ne pas arriver à suivre",
+      "parler vite"
+     ],
+     "answer": "mange, mange",
+     "reveal": "<i>Kǐn kǐn</i>"
+    },
+    {
+     "audio": [
+      "ໄປໃສມາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "t'étais où ?",
+      "mange, mange",
+      "ne pas arriver à suivre",
+      "parler vite"
+     ],
+     "answer": "t'étais où ?",
+     "reveal": "<i>Pǎy sǎy máa</i>"
+    },
+    {
+     "audio": [
+      "ເວົ້າໄວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "parler vite",
+      "on ne te voit plus",
+      "ne pas arriver à suivre",
+      "mange, mange"
+     ],
+     "answer": "parler vite",
+     "reveal": "<i>Wȁo wáy</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເຈົ້າໄປໃສມາ? ບໍ່ເຫັນໜ້າເລີຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "T'étais où ? On ne te voit plus.",
+      "Trop de boulot.",
+      "Mangez, mangez, ça refroidit.",
+      "Vous parlez trop vite, je n'arrive pas à suivre !"
+     ],
+     "answer": "T'étais où ? On ne te voit plus.",
+     "reveal": "<i>Jâo pǎy sǎy máa? Bɔ̀ɔ hěn nâa lɤ́ɤy.</i>"
+    },
+    {
+     "audio": [
+      "ວຽກຫຼາຍແທ້ເດ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Trop de boulot.",
+      "Vous parlez trop vite, je n'arrive pas à suivre !",
+      "Mangez, mangez, ça refroidit.",
+      "T'étais où ? On ne te voit plus."
+     ],
+     "answer": "Trop de boulot.",
+     "reveal": "<i>Wîak lǎay thɛ̏ɛ dě.</i>"
+    },
+    {
+     "audio": [
+      "ກິນໆໄປກ່ອນ ເຢັນໝົດແລ້ວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Mangez, mangez, ça refroidit.",
+      "Trop de boulot.",
+      "Vous parlez trop vite, je n'arrive pas à suivre !",
+      "T'étais où ? On ne te voit plus."
+     ],
+     "answer": "Mangez, mangez, ça refroidit.",
+     "reveal": "<i>Kǐn kǐn pǎy kɔ̀ɔn, yěn mōt lɛ̏ɛw.</i>"
+    },
+    {
+     "audio": [
+      "ພວກເຈົ້າເວົ້າໄວຫຼາຍ ຂ້ອຍຕາມບໍ່ທັນ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Vous parlez trop vite, je n'arrive pas à suivre !",
+      "Trop de boulot.",
+      "T'étais où ? On ne te voit plus.",
+      "Mangez, mangez, ça refroidit."
+     ],
+     "answer": "Vous parlez trop vite, je n'arrive pas à suivre !",
+     "reveal": "<i>Phûak-jâo wȁo wáy lǎay, khɔ̂ɔy tǎam bɔ̀ɔ thán!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຕາມບໍ່ທັນ!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je n'arrive pas à suivre !",
+      "On ne te voit plus.",
+      "T'étais où ?"
+     ],
+     "answer": "Je n'arrive pas à suivre !",
+     "reveal": "<i>Tǎam bɔ̀ɔ thán!</i>"
+    },
+    {
+     "audio": [
+      "ໄປໃສມາ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "T'étais où ?",
+      "Je n'arrive pas à suivre !",
+      "On ne te voit plus."
+     ],
+     "answer": "T'étais où ?",
+     "reveal": "<i>Pǎy sǎy máa?</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ເຫັນໜ້າເລີຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "On ne te voit plus.",
+      "Je n'arrive pas à suivre !",
+      "T'étais où ?"
+     ],
+     "answer": "On ne te voit plus.",
+     "reveal": "<i>Bɔ̀ɔ hěn nâa lɤ́ɤy.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຕາມບໍ່ທັນ",
+   "rom": "Tǎam bɔ̀ɔ thán",
+   "fr": "ne pas arriver à suivre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ເຫັນໜ້າ",
+   "rom": "Bɔ̀ɔ hěn nâa",
+   "fr": "on ne te voit plus",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກິນໆ",
+   "rom": "Kǐn kǐn",
+   "fr": "mange, mange",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄປໃສມາ",
+   "rom": "Pǎy sǎy máa",
+   "fr": "t'étais où ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເວົ້າໄວ",
+   "rom": "Wȁo wáy",
+   "fr": "parler vite",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕາມບໍ່ທັນ!",
+   "rom": "Tǎam bɔ̀ɔ thán!",
+   "fr": "Je n'arrive pas à suivre !",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄປໃສມາ?",
+   "rom": "Pǎy sǎy máa?",
+   "fr": "T'étais où ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ເຫັນໜ້າເລີຍ",
+   "rom": "Bɔ̀ɔ hěn nâa lɤ́ɤy.",
+   "fr": "On ne te voit plus.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຕາມ",
+    "ບໍ່",
+    "ທັນ"
+   ],
+   "rom": "Tǎam bɔ̀ɔ thán!",
+   "fr": "Je n'arrive pas à suivre !"
+  },
+  {
+   "tokens": [
+    "ໄປ",
+    "ໃສ",
+    "ມາ"
+   ],
+   "rom": "Pǎy sǎy máa?",
+   "fr": "T'étais où ?"
+  },
+  {
+   "tokens": [
+    "ບໍ່",
+    "ເຫັນ",
+    "ໜ້າ",
+    "ເລີຍ"
+   ],
+   "rom": "Bɔ̀ɔ hěn nâa lɤ́ɤy.",
+   "fr": "On ne te voit plus."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຕາມບໍ່ທັນ",
+   "rom": "Tǎam bɔ̀ɔ thán",
+   "fr": "ne pas arriver à suivre"
+  },
+  {
+   "lao": "ບໍ່ເຫັນໜ້າ",
+   "rom": "Bɔ̀ɔ hěn nâa",
+   "fr": "on ne te voit plus"
+  },
+  {
+   "lao": "ກິນໆ",
+   "rom": "Kǐn kǐn",
+   "fr": "mange, mange"
+  },
+  {
+   "lao": "ໄປໃສມາ",
+   "rom": "Pǎy sǎy máa",
+   "fr": "t'étais où ?"
+  },
+  {
+   "lao": "ເວົ້າໄວ",
+   "rom": "Wȁo wáy",
+   "fr": "parler vite"
+  }
+ ],
+ "sounds": {
+  "ຮັກສາໜ້າ": "Hāk-sǎa nâa",
+  "ຫົວແຂງ": "Hǔa khɛ̌ɛng",
+  "ດັ່ງນັ້ນ": "Dàng-nȁn",
+  "ພາກກາງ": "Phâak-kǎang",
+  "ເຈົ້າໄປໃສມາ ບໍ່ເຫັນໜ້າເລີຍ": "Jâo pǎy sǎy máa? Bɔ̀ɔ hěn nâa lɤ́ɤy.",
+  "ວຽກຫຼາຍແທ້ເດ": "Wîak lǎay thɛ̏ɛ dě.",
+  "ກິນໆໄປກ່ອນ ເຢັນໝົດແລ້ວ": "Kǐn kǐn pǎy kɔ̀ɔn, yěn mōt lɛ̏ɛw.",
+  "ພວກເຈົ້າເວົ້າໄວຫຼາຍ ຂ້ອຍຕາມບໍ່ທັນ": "Phûak-jâo wȁo wáy lǎay, khɔ̂ɔy tǎam bɔ̀ɔ thán!",
+  "ຕາມບໍ່ທັນ": "Tǎam bɔ̀ɔ thán!",
+  "ບໍ່ເຫັນໜ້າ": "Bɔ̀ɔ hěn nâa",
+  "ກິນໆ": "Kǐn kǐn",
+  "ໄປໃສມາ": "Pǎy sǎy máa?",
+  "ເວົ້າໄວ": "Wȁo wáy",
+  "ກິນໆໄປ": "Kǐn kǐn pǎy",
+  "ບໍ່ເຫັນໜ້າເລີຍ": "Bɔ̀ɔ hěn nâa lɤ́ɤy.",
+  "ຕາມ": "tǎam",
+  "ບໍ່": "bɔ̀ɔ",
+  "ທັນ": "thán",
+  "ໄປ": "pǎy",
+  "ໃສ": "sǎy",
+  "ມາ": "máa",
+  "ເຫັນ": "hěn",
+  "ໜ້າ": "nâa",
+  "ເລີຍ": "lɤ́ɤy"
+ },
+ "suivi": "LEÇON : 101 — Partie F (Argumenter, B2) · Parler vite\nOBJECTIF : Suivre une conversation à plusieurs et ses formes rapides.\nNOTION : les formes rapides de l'oral\nVOCAB : Tǎam bɔ̀ɔ thán, Bɔ̀ɔ hěn nâa, Kǐn kǐn, Pǎy sǎy máa, Wȁo wáy\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 102 — Les dialectes"
+}

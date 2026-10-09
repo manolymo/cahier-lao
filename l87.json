@@ -19,7 +19,7 @@
   },
   {
    "title": "Dialogue",
-   "html": "<p class=\"muted\">Clara prépare un voyage dans le Sud.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ພາກໃຕ້ມີຫຍັງໜ້າທ່ຽວ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ມີສີ່ພັນດອນແລະນ້ຳຕົກງາມໆ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ອາກາດເປັນແນວໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຮ້ອນກວ່າພາກເໜືອ ພາກເໜືອມີພູຫຼາຍ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Phâak-tâay míi nyǎng nâa thìaw?</span><br><span class=\"rom\">Míi sìi-phán dɔ̌ɔn lɛ́ nȁam-tók ngáam ngáam.</span><br><span class=\"rom\">Ǎa-kȁat pěn nɛ́ɛw-dǎy?</span><br><span class=\"rom\">Hȍɔn kwàa phâak-nʉ̌a. Phâak-nʉ̌a míi phúu lǎay.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Qu&#x27;y a-t-il à voir dans le Sud ?<br><b>Noy</b> — Il y a les 4 000 îles et de belles cascades.<br><b>Clara</b> — Et le climat ?<br><b>Noy</b> — Plus chaud que le Nord. Le Nord est montagneux.</p></details>"
+   "html": "<p class=\"muted\">Clara prépare un voyage dans le Sud.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ພາກໃຕ້ມີຫຍັງໜ້າທ່ຽວ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ມີສີ່ພັນດອນແລະນ້ຳຕົກງາມໆ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ອາກາດເປັນແນວໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຮ້ອນກວ່າພາກເໜືອ ພາກເໜືອມີພູຫຼາຍ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Phâak-tâay míi nyǎng nâa thīaw?</span><br><span class=\"rom\">Míi sìi-phán dɔ̌ɔn lɛ́ nȁam-tók ngáam ngáam.</span><br><span class=\"rom\">Ǎa-kȁat pěn nɛ́ɛw-dǎy?</span><br><span class=\"rom\">Hȍɔn kwàa phâak-nʉ̌a. Phâak-nʉ̌a míi phúu lǎay.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Qu&#x27;y a-t-il à voir dans le Sud ?<br><b>Noy</b> — Il y a les 4 000 îles et de belles cascades.<br><b>Clara</b> — Et le climat ?<br><b>Noy</b> — Plus chaud que le Nord. Le Nord est montagneux.</p></details>"
   },
   {
    "title": "Compréhension",
@@ -27,11 +27,11 @@
   },
   {
    "title": "Vocabulaire et blocs",
-   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ພາກເໜືອ</td><td class=\"rom\">Phâak-nʉ̌a</td><td>le Nord</td><td></td></tr><tr><td class=\"lo\">ພາກໃຕ້</td><td class=\"rom\">Phâak-tâay</td><td>le Sud</td><td></td></tr><tr><td class=\"lo\">ພາກກາງ</td><td class=\"rom\">Phâak-kǎang</td><td>le Centre</td><td></td></tr><tr><td class=\"lo\">ແຂວງ</td><td class=\"rom\">Khwɛ̌ɛng</td><td>province</td><td></td></tr><tr><td class=\"lo\">ນ້ຳຕົກ</td><td class=\"rom\">Nȁam-tók</td><td>cascade</td><td></td></tr><tr><td class=\"lo\">ໜ້າທ່ຽວ</td><td class=\"rom\">Nâa thìaw</td><td>qui vaut le détour</td><td></td></tr><tr><td class=\"lo\">ດອນ</td><td class=\"rom\">Dɔ̌ɔn</td><td>île (de fleuve)</td><td></td></tr></table></div>"
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ພາກເໜືອ</td><td class=\"rom\">Phâak-nʉ̌a</td><td>le Nord</td><td></td></tr><tr><td class=\"lo\">ພາກໃຕ້</td><td class=\"rom\">Phâak-tâay</td><td>le Sud</td><td></td></tr><tr><td class=\"lo\">ພາກກາງ</td><td class=\"rom\">Phâak-kǎang</td><td>le Centre</td><td></td></tr><tr><td class=\"lo\">ແຂວງ</td><td class=\"rom\">Khwɛ̌ɛng</td><td>province</td><td></td></tr><tr><td class=\"lo\">ນ້ຳຕົກ</td><td class=\"rom\">Nȁam-tók</td><td>cascade</td><td></td></tr><tr><td class=\"lo\">ໜ້າທ່ຽວ</td><td class=\"rom\">Nâa thīaw</td><td>qui vaut le détour</td><td></td></tr><tr><td class=\"lo\">ດອນ</td><td class=\"rom\">Dɔ̌ɔn</td><td>île (de fleuve)</td><td></td></tr></table></div>"
   },
   {
    "title": "Point de langue : ໜ້າ + verbe",
-   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ໜ້າທ່ຽວ</span> <span class=\"rom\">Nâa thìaw</span> = à visiter</li><li><span class=\"lo\">ໜ້າກິນ</span> <span class=\"rom\">Nâa kǐn</span> = appétissant</li><li><span class=\"lo\">ໜ້າຮັກ</span> <span class=\"rom\">Nâa hāk</span> = mignon (à aimer)</li></ul><p><b>À toi de trouver :</b></p><ol><li>Que signifie ໜ້າ devant un verbe ?</li></ol><details><summary>La règle</summary><p>ໜ້າ + verbe = qui donne envie de… (ໜ້າທ່ຽວ, ໜ້າກິນ, ໜ້າຮັກ).</p></details>"
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ໜ້າທ່ຽວ</span> <span class=\"rom\">Nâa thīaw</span> = à visiter</li><li><span class=\"lo\">ໜ້າກິນ</span> <span class=\"rom\">Nâa kǐn</span> = appétissant</li><li><span class=\"lo\">ໜ້າຮັກ</span> <span class=\"rom\">Nâa hāk</span> = mignon (à aimer)</li></ul><p><b>À toi de trouver :</b></p><ol><li>Que signifie ໜ້າ devant un verbe ?</li></ol><details><summary>La règle</summary><p>ໜ້າ + verbe = qui donne envie de… (ໜ້າທ່ຽວ, ໜ້າກິນ, ໜ້າຮັກ).</p></details>"
   },
   {
    "title": "Écoute",
@@ -39,7 +39,7 @@
   },
   {
    "title": "Expression orale",
-   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Qu&#x27;y a-t-il à voir ?</li><li>Le Nord est montagneux.</li><li>C&#x27;est plus chaud.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ມີຫຍັງໜ້າທ່ຽວ?</span> <span class=\"rom\">Míi nyǎng nâa thìaw?</span></li><li><span class=\"lo\">ພາກເໜືອມີພູຫຼາຍ</span> <span class=\"rom\">Phâak-nʉ̌a míi phúu lǎay.</span></li><li><span class=\"lo\">ຮ້ອນກວ່າ</span> <span class=\"rom\">Hȍɔn kwàa.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Qu&#x27;y a-t-il à voir ?</li><li>Le Nord est montagneux.</li><li>C&#x27;est plus chaud.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ມີຫຍັງໜ້າທ່ຽວ?</span> <span class=\"rom\">Míi nyǎng nâa thīaw?</span></li><li><span class=\"lo\">ພາກເໜືອມີພູຫຼາຍ</span> <span class=\"rom\">Phâak-nʉ̌a míi phúu lǎay.</span></li><li><span class=\"lo\">ຮ້ອນກວ່າ</span> <span class=\"rom\">Hȍɔn kwàa.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
   },
   {
    "title": "Expression écrite",
@@ -83,7 +83,7 @@
   {
    "id": "l87-v06",
    "front": "ໜ້າທ່ຽວ",
-   "back": "Nâa thìaw · qui vaut le détour"
+   "back": "Nâa thīaw · qui vaut le détour"
   },
   {
    "id": "l87-v07",
@@ -93,7 +93,7 @@
   {
    "id": "l87-p01",
    "front": "Qu'y a-t-il à voir ?",
-   "back": "ມີຫຍັງໜ້າທ່ຽວ? · Míi nyǎng nâa thìaw?"
+   "back": "ມີຫຍັງໜ້າທ່ຽວ? · Míi nyǎng nâa thīaw?"
   },
   {
    "id": "l87-p02",
@@ -194,7 +194,7 @@
       "île (de fleuve)"
      ],
      "answer": "qui vaut le détour",
-     "reveal": "<i>Nâa thìaw</i>"
+     "reveal": "<i>Nâa thīaw</i>"
     },
     {
      "audio": [
@@ -230,7 +230,7 @@
       "Il y a les 4 000 îles et de belles cascades."
      ],
      "answer": "Qu'y a-t-il à voir dans le Sud ?",
-     "reveal": "<i>Phâak-tâay míi nyǎng nâa thìaw?</i>"
+     "reveal": "<i>Phâak-tâay míi nyǎng nâa thīaw?</i>"
     },
     {
      "audio": [
@@ -292,7 +292,7 @@
       "Le Nord est montagneux."
      ],
      "answer": "Qu'y a-t-il à voir ?",
-     "reveal": "<i>Míi nyǎng nâa thìaw?</i>"
+     "reveal": "<i>Míi nyǎng nâa thīaw?</i>"
     },
     {
      "audio": [
@@ -356,7 +356,7 @@
   },
   {
    "lao": "ໜ້າທ່ຽວ",
-   "rom": "Nâa thìaw",
+   "rom": "Nâa thīaw",
    "fr": "qui vaut le détour",
    "kind": "phrase"
   },
@@ -368,7 +368,7 @@
   },
   {
    "lao": "ມີຫຍັງໜ້າທ່ຽວ?",
-   "rom": "Míi nyǎng nâa thìaw?",
+   "rom": "Míi nyǎng nâa thīaw?",
    "fr": "Qu'y a-t-il à voir ?",
    "kind": "phrase"
   },
@@ -393,7 +393,7 @@
     "ໜ້າ",
     "ທ່ຽວ"
    ],
-   "rom": "Míi nyǎng nâa thìaw?",
+   "rom": "Míi nyǎng nâa thīaw?",
    "fr": "Qu'y a-t-il à voir ?"
   },
   {
@@ -443,7 +443,7 @@
   },
   {
    "lao": "ໜ້າທ່ຽວ",
-   "rom": "Nâa thìaw",
+   "rom": "Nâa thīaw",
    "fr": "qui vaut le détour"
   },
   {
@@ -457,7 +457,7 @@
   "ລົງຂ່າວ": "Lóng khàaw",
   "ງຽບ": "Ngîap",
   "ແນະນຳ": "Nɛ̄-nǎm",
-  "ພາກໃຕ້ມີຫຍັງໜ້າທ່ຽວ": "Phâak-tâay míi nyǎng nâa thìaw?",
+  "ພາກໃຕ້ມີຫຍັງໜ້າທ່ຽວ": "Phâak-tâay míi nyǎng nâa thīaw?",
   "ມີສີ່ພັນດອນແລະນ້ຳຕົກງາມໆ": "Míi sìi-phán dɔ̌ɔn lɛ́ nȁam-tók ngáam ngáam.",
   "ອາກາດເປັນແນວໃດ": "Ǎa-kȁat pěn nɛ́ɛw-dǎy?",
   "ຮ້ອນກວ່າພາກເໜືອ ພາກເໜືອມີພູຫຼາຍ": "Hȍɔn kwàa phâak-nʉ̌a. Phâak-nʉ̌a míi phúu lǎay.",
@@ -466,21 +466,21 @@
   "ພາກກາງ": "Phâak-kǎang",
   "ແຂວງ": "Khwɛ̌ɛng",
   "ນ້ຳຕົກ": "Nȁam-tók",
-  "ໜ້າທ່ຽວ": "Nâa thìaw",
+  "ໜ້າທ່ຽວ": "Nâa thīaw",
   "ດອນ": "Dɔ̌ɔn",
   "ໜ້າກິນ": "Nâa kǐn",
   "ໜ້າຮັກ": "Nâa hāk",
-  "ມີຫຍັງໜ້າທ່ຽວ": "Míi nyǎng nâa thìaw?",
+  "ມີຫຍັງໜ້າທ່ຽວ": "Míi nyǎng nâa thīaw?",
   "ພາກເໜືອມີພູຫຼາຍ": "Phâak-nʉ̌a míi phúu lǎay.",
   "ຮ້ອນກວ່າ": "Hȍɔn kwàa.",
   "ມີ": "míi",
   "ຫຍັງ": "nyǎng",
   "ໜ້າ": "nâa",
-  "ທ່ຽວ": "thìaw",
+  "ທ່ຽວ": "thīaw",
   "ພູ": "phúu",
   "ຫຼາຍ": "lǎay",
   "ຮ້ອນ": "hȍɔn",
   "ກວ່າ": "kwàa"
  },
- "suivi": "LEÇON : 87 — Partie E (S'exprimer (cours en lao), B1) · Géographie et régions\nOBJECTIF : Présenter une région du Laos.\nNOTION : ໜ້າ + verbe\nVOCAB : Phâak-nʉ̌a, Phâak-tâay, Phâak-kǎang, Khwɛ̌ɛng, Nȁam-tók, Nâa thìaw, Dɔ̌ɔn\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 88 — Lao et thaï"
+ "suivi": "LEÇON : 87 — Partie E (S'exprimer (cours en lao), B1) · Géographie et régions\nOBJECTIF : Présenter une région du Laos.\nNOTION : ໜ້າ + verbe\nVOCAB : Phâak-nʉ̌a, Phâak-tâay, Phâak-kǎang, Khwɛ̌ɛng, Nȁam-tók, Nâa thīaw, Dɔ̌ɔn\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 88 — Lao et thaï"
 }

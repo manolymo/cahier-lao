@@ -1,0 +1,510 @@
+{
+ "num": 95,
+ "phase": "Partie F · Argumenter",
+ "title": "L'actualité",
+ "objective": "Commenter une information du jour.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>donc, c&#x27;est pourquoi <small class=\"muted\">(leçon 94)</small></li><li>sans doute, sûrement <small class=\"muted\">(leçon 92)</small></li><li>thaï (langue) <small class=\"muted\">(leçon 88)</small></li><li>(affirmation ferme) <small class=\"muted\">(leçon 81)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ດັ່ງນັ້ນ</span> <span class=\"rom\">Dàng-nȁn</span> · donc, c&#x27;est pourquoi</li><li><span class=\"lo\">ຄົງຈະ</span> <span class=\"rom\">Khóng-já</span> · sans doute, sûrement</li><li><span class=\"lo\">ພາສາໄທ</span> <span class=\"rom\">Pháa-sǎa-tháy</span> · thaï (langue)</li><li><span class=\"lo\">ແຫຼະ</span> <span class=\"rom\">Lɛ̄</span> · (affirmation ferme)</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Commenter une information du jour.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Au petit-déjeuner, on commente les nouvelles.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ໄດ້ຍິນຂ່າວບໍ? ລັດຖະບານຈະສ້າງທາງໃໝ່</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ່າວດີ ແຕ່ຈະສຳເລັດເມື່ອໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ຕາມຂ່າວແມ່ນພາຍໃນສອງປີ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຫວັງວ່າຈະທັນເວລາ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Dâay nyín khàaw bɔ̌ɔ? Lāt-thā-báan já sâang tháang mày.</span><br><span class=\"rom\">Khàaw dǐi. Tɛ̀ɛ já sǎm-lēt mʉ̄a-dǎy?</span><br><span class=\"rom\">Tǎam khàaw mɛ̄ɛn pháay-nǎy sɔ̌ɔng pǐi.</span><br><span class=\"rom\">Wǎng wāa já thán wéé-láa.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>M. Somsak</b> — Tu as entendu ? Le gouvernement va construire une nouvelle route.<br><b>Clara</b> — Bonne nouvelle. Mais elle sera finie quand ?<br><b>M. Somsak</b> — D&#x27;après les infos, d&#x27;ici deux ans.<br><b>Clara</b> — J&#x27;espère que ce sera dans les temps.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quelle est la nouvelle ?</li><li>Dans quel délai ?</li></ol><details><summary>Réponses</summary><ol><li>Une nouvelle route sera construite.</li><li>D&#x27;ici deux ans.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຂ່າວ</td><td class=\"rom\">Khàaw</td><td>nouvelle, info</td><td></td></tr><tr><td class=\"lo\">ຕາມຂ່າວ</td><td class=\"rom\">Tǎam khàaw</td><td>d&#x27;après les infos</td><td></td></tr><tr><td class=\"lo\">ລັດຖະບານ</td><td class=\"rom\">Lāt-thā-báan</td><td>gouvernement</td><td></td></tr><tr><td class=\"lo\">ສຳເລັດ</td><td class=\"rom\">Sǎm-lēt</td><td>achever, réussir</td><td></td></tr><tr><td class=\"lo\">ພາຍໃນ</td><td class=\"rom\">Pháay-nǎy</td><td>d&#x27;ici, en (délai)</td><td></td></tr><tr><td class=\"lo\">ຫວັງວ່າ</td><td class=\"rom\">Wǎng wāa</td><td>espérer que</td><td></td></tr><tr><td class=\"lo\">ເມື່ອໃດ</td><td class=\"rom\">Mʉ̄a-dǎy</td><td>quand ?</td><td></td></tr><tr><td class=\"lo\">ໂຄງການ</td><td class=\"rom\">Khóong-kǎan</td><td>projet</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : rapporter une information",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຕາມຂ່າວ</span> <span class=\"rom\">Tǎam khàaw…</span> = d&#x27;après les infos…</li><li><span class=\"lo\">ມີລາຍງານວ່າ</span> <span class=\"rom\">Míi láay-ngáan wāa…</span> = on rapporte que…</li></ul><details><summary>La règle</summary><p>Pour rapporter une info sans s'engager : ຕາມຂ່າວ…, ມີລາຍງານວ່າ…, ໄດ້ຍິນວ່າ… Pour réagir : ຫວັງວ່າ (j'espère), ເປັນຫ່ວງວ່າ (je crains que).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> la source de l&#x27;information.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Tu as entendu la nouvelle ?</li><li>D&#x27;après les infos…</li><li>J&#x27;espère que…</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ໄດ້ຍິນຂ່າວບໍ?</span> <span class=\"rom\">Dâay nyín khàaw bɔ̌ɔ?</span></li><li><span class=\"lo\">ຕາມຂ່າວ</span> <span class=\"rom\">Tǎam khàaw…</span></li><li><span class=\"lo\">ຫວັງວ່າ</span> <span class=\"rom\">Wǎng wāa…</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Résume et commente une actualité lao en 10 phrases.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Commente une actualité du jour avec un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>11 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l95-v01",
+   "front": "ຂ່າວ",
+   "back": "Khàaw · nouvelle, info"
+  },
+  {
+   "id": "l95-v02",
+   "front": "ຕາມຂ່າວ",
+   "back": "Tǎam khàaw · d'après les infos"
+  },
+  {
+   "id": "l95-v03",
+   "front": "ລັດຖະບານ",
+   "back": "Lāt-thā-báan · gouvernement"
+  },
+  {
+   "id": "l95-v04",
+   "front": "ສຳເລັດ",
+   "back": "Sǎm-lēt · achever, réussir"
+  },
+  {
+   "id": "l95-v05",
+   "front": "ພາຍໃນ",
+   "back": "Pháay-nǎy · d'ici, en (délai)"
+  },
+  {
+   "id": "l95-v06",
+   "front": "ຫວັງວ່າ",
+   "back": "Wǎng wāa · espérer que"
+  },
+  {
+   "id": "l95-v07",
+   "front": "ເມື່ອໃດ",
+   "back": "Mʉ̄a-dǎy · quand ?"
+  },
+  {
+   "id": "l95-v08",
+   "front": "ໂຄງການ",
+   "back": "Khóong-kǎan · projet"
+  },
+  {
+   "id": "l95-p01",
+   "front": "Tu as entendu la nouvelle ?",
+   "back": "ໄດ້ຍິນຂ່າວບໍ? · Dâay nyín khàaw bɔ̌ɔ?"
+  },
+  {
+   "id": "l95-p02",
+   "front": "D'après les infos…",
+   "back": "ຕາມຂ່າວ · Tǎam khàaw…"
+  },
+  {
+   "id": "l95-p03",
+   "front": "J'espère que…",
+   "back": "ຫວັງວ່າ · Wǎng wāa…"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ່າວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "nouvelle, info",
+      "projet",
+      "d'après les infos",
+      "gouvernement"
+     ],
+     "answer": "nouvelle, info",
+     "reveal": "<i>Khàaw</i>"
+    },
+    {
+     "audio": [
+      "ຕາມຂ່າວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "d'après les infos",
+      "achever, réussir",
+      "projet",
+      "espérer que"
+     ],
+     "answer": "d'après les infos",
+     "reveal": "<i>Tǎam khàaw</i>"
+    },
+    {
+     "audio": [
+      "ລັດຖະບານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "gouvernement",
+      "nouvelle, info",
+      "quand ?",
+      "achever, réussir"
+     ],
+     "answer": "gouvernement",
+     "reveal": "<i>Lāt-thā-báan</i>"
+    },
+    {
+     "audio": [
+      "ສຳເລັດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "achever, réussir",
+      "projet",
+      "nouvelle, info",
+      "espérer que"
+     ],
+     "answer": "achever, réussir",
+     "reveal": "<i>Sǎm-lēt</i>"
+    },
+    {
+     "audio": [
+      "ພາຍໃນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "d'ici, en (délai)",
+      "projet",
+      "d'après les infos",
+      "gouvernement"
+     ],
+     "answer": "d'ici, en (délai)",
+     "reveal": "<i>Pháay-nǎy</i>"
+    },
+    {
+     "audio": [
+      "ຫວັງວ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "espérer que",
+      "projet",
+      "d'après les infos",
+      "gouvernement"
+     ],
+     "answer": "espérer que",
+     "reveal": "<i>Wǎng wāa</i>"
+    },
+    {
+     "audio": [
+      "ເມື່ອໃດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "quand ?",
+      "achever, réussir",
+      "d'après les infos",
+      "gouvernement"
+     ],
+     "answer": "quand ?",
+     "reveal": "<i>Mʉ̄a-dǎy</i>"
+    },
+    {
+     "audio": [
+      "ໂຄງການ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "projet",
+      "d'après les infos",
+      "gouvernement",
+      "d'ici, en (délai)"
+     ],
+     "answer": "projet",
+     "reveal": "<i>Khóong-kǎan</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ໄດ້ຍິນຂ່າວບໍ? ລັດຖະບານຈະສ້າງທາງໃໝ່"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu as entendu ? Le gouvernement va construire une nouvelle route.",
+      "Bonne nouvelle. Mais elle sera finie quand ?",
+      "D'après les infos, d'ici deux ans.",
+      "J'espère que ce sera dans les temps."
+     ],
+     "answer": "Tu as entendu ? Le gouvernement va construire une nouvelle route.",
+     "reveal": "<i>Dâay nyín khàaw bɔ̌ɔ? Lāt-thā-báan já sâang tháang mày.</i>"
+    },
+    {
+     "audio": [
+      "ຂ່າວດີ ແຕ່ຈະສຳເລັດເມື່ອໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Bonne nouvelle. Mais elle sera finie quand ?",
+      "J'espère que ce sera dans les temps.",
+      "D'après les infos, d'ici deux ans.",
+      "Tu as entendu ? Le gouvernement va construire une nouvelle route."
+     ],
+     "answer": "Bonne nouvelle. Mais elle sera finie quand ?",
+     "reveal": "<i>Khàaw dǐi. Tɛ̀ɛ já sǎm-lēt mʉ̄a-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ຕາມຂ່າວແມ່ນພາຍໃນສອງປີ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "D'après les infos, d'ici deux ans.",
+      "J'espère que ce sera dans les temps.",
+      "Tu as entendu ? Le gouvernement va construire une nouvelle route.",
+      "Bonne nouvelle. Mais elle sera finie quand ?"
+     ],
+     "answer": "D'après les infos, d'ici deux ans.",
+     "reveal": "<i>Tǎam khàaw mɛ̄ɛn pháay-nǎy sɔ̌ɔng pǐi.</i>"
+    },
+    {
+     "audio": [
+      "ຫວັງວ່າຈະທັນເວລາ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "J'espère que ce sera dans les temps.",
+      "Bonne nouvelle. Mais elle sera finie quand ?",
+      "D'après les infos, d'ici deux ans.",
+      "Tu as entendu ? Le gouvernement va construire une nouvelle route."
+     ],
+     "answer": "J'espère que ce sera dans les temps.",
+     "reveal": "<i>Wǎng wāa já thán wéé-láa.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ໄດ້ຍິນຂ່າວບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tu as entendu la nouvelle ?",
+      "D'après les infos…",
+      "J'espère que…"
+     ],
+     "answer": "Tu as entendu la nouvelle ?",
+     "reveal": "<i>Dâay nyín khàaw bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຕາມຂ່າວ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "D'après les infos…",
+      "J'espère que…",
+      "Tu as entendu la nouvelle ?"
+     ],
+     "answer": "D'après les infos…",
+     "reveal": "<i>Tǎam khàaw…</i>"
+    },
+    {
+     "audio": [
+      "ຫວັງວ່າ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "J'espère que…",
+      "Tu as entendu la nouvelle ?",
+      "D'après les infos…"
+     ],
+     "answer": "J'espère que…",
+     "reveal": "<i>Wǎng wāa…</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຂ່າວ",
+   "rom": "Khàaw",
+   "fr": "nouvelle, info",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕາມຂ່າວ",
+   "rom": "Tǎam khàaw",
+   "fr": "d'après les infos",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລັດຖະບານ",
+   "rom": "Lāt-thā-báan",
+   "fr": "gouvernement",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສຳເລັດ",
+   "rom": "Sǎm-lēt",
+   "fr": "achever, réussir",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພາຍໃນ",
+   "rom": "Pháay-nǎy",
+   "fr": "d'ici, en (délai)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫວັງວ່າ",
+   "rom": "Wǎng wāa",
+   "fr": "espérer que",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເມື່ອໃດ",
+   "rom": "Mʉ̄a-dǎy",
+   "fr": "quand ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂຄງການ",
+   "rom": "Khóong-kǎan",
+   "fr": "projet",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄດ້ຍິນຂ່າວບໍ?",
+   "rom": "Dâay nyín khàaw bɔ̌ɔ?",
+   "fr": "Tu as entendu la nouvelle ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕາມຂ່າວ",
+   "rom": "Tǎam khàaw…",
+   "fr": "D'après les infos…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫວັງວ່າ",
+   "rom": "Wǎng wāa…",
+   "fr": "J'espère que…",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ໄດ້",
+    "ຍິນ",
+    "ຂ່າວ",
+    "ບໍ"
+   ],
+   "rom": "Dâay nyín khàaw bɔ̌ɔ?",
+   "fr": "Tu as entendu la nouvelle ?"
+  },
+  {
+   "tokens": [
+    "ຕາມ",
+    "ຂ່າວ"
+   ],
+   "rom": "Tǎam khàaw…",
+   "fr": "D'après les infos…"
+  },
+  {
+   "tokens": [
+    "ຫວັງ",
+    "ວ່າ"
+   ],
+   "rom": "Wǎng wāa…",
+   "fr": "J'espère que…"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຂ່າວ",
+   "rom": "Khàaw",
+   "fr": "nouvelle, info"
+  },
+  {
+   "lao": "ຕາມຂ່າວ",
+   "rom": "Tǎam khàaw",
+   "fr": "d'après les infos"
+  },
+  {
+   "lao": "ລັດຖະບານ",
+   "rom": "Lāt-thā-báan",
+   "fr": "gouvernement"
+  },
+  {
+   "lao": "ສຳເລັດ",
+   "rom": "Sǎm-lēt",
+   "fr": "achever, réussir"
+  },
+  {
+   "lao": "ພາຍໃນ",
+   "rom": "Pháay-nǎy",
+   "fr": "d'ici, en (délai)"
+  },
+  {
+   "lao": "ຫວັງວ່າ",
+   "rom": "Wǎng wāa",
+   "fr": "espérer que"
+  },
+  {
+   "lao": "ເມື່ອໃດ",
+   "rom": "Mʉ̄a-dǎy",
+   "fr": "quand ?"
+  },
+  {
+   "lao": "ໂຄງການ",
+   "rom": "Khóong-kǎan",
+   "fr": "projet"
+  }
+ ],
+ "sounds": {
+  "ດັ່ງນັ້ນ": "Dàng-nȁn",
+  "ຄົງຈະ": "Khóng-já",
+  "ພາສາໄທ": "Pháa-sǎa-tháy",
+  "ແຫຼະ": "Lɛ̄",
+  "ໄດ້ຍິນຂ່າວບໍ ລັດຖະບານຈະສ້າງທາງໃໝ່": "Dâay nyín khàaw bɔ̌ɔ? Lāt-thā-báan já sâang tháang mày.",
+  "ຂ່າວດີ ແຕ່ຈະສຳເລັດເມື່ອໃດ": "Khàaw dǐi. Tɛ̀ɛ já sǎm-lēt mʉ̄a-dǎy?",
+  "ຕາມຂ່າວແມ່ນພາຍໃນສອງປີ": "Tǎam khàaw mɛ̄ɛn pháay-nǎy sɔ̌ɔng pǐi.",
+  "ຫວັງວ່າຈະທັນເວລາ": "Wǎng wāa já thán wéé-láa.",
+  "ຂ່າວ": "khàaw",
+  "ຕາມຂ່າວ": "Tǎam khàaw…",
+  "ລັດຖະບານ": "Lāt-thā-báan",
+  "ສຳເລັດ": "Sǎm-lēt",
+  "ພາຍໃນ": "Pháay-nǎy",
+  "ຫວັງວ່າ": "Wǎng wāa…",
+  "ເມື່ອໃດ": "Mʉ̄a-dǎy",
+  "ໂຄງການ": "Khóong-kǎan",
+  "ມີລາຍງານວ່າ": "Míi láay-ngáan wāa…",
+  "ໄດ້ຍິນຂ່າວບໍ": "Dâay nyín khàaw bɔ̌ɔ?",
+  "ໄດ້": "dâay",
+  "ຍິນ": "nyín",
+  "ບໍ": "bɔ̌ɔ",
+  "ຕາມ": "tǎam",
+  "ຫວັງ": "wǎng",
+  "ວ່າ": "wāa"
+ },
+ "suivi": "LEÇON : 95 — Partie F (Argumenter, B2) · L'actualité\nOBJECTIF : Commenter une information du jour.\nNOTION : rapporter une information\nVOCAB : Khàaw, Tǎam khàaw, Lāt-thā-báan, Sǎm-lēt, Pháay-nǎy, Wǎng wāa, Mʉ̄a-dǎy, Khóong-kǎan\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 96 — La radio et la télé"
+}

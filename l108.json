@@ -1,0 +1,483 @@
+{
+ "num": 108,
+ "phase": "Partie F · Argumenter",
+ "title": "Technologie",
+ "objective": "Parler des réseaux sociaux, des emprunts et des néologismes.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>se propager (épidémie) <small class=\"muted\">(leçon 107)</small></li><li>le développement <small class=\"muted\">(leçon 105)</small></li><li>on ne te voit plus <small class=\"muted\">(leçon 101)</small></li><li>provoquer, faire que <small class=\"muted\">(leçon 94)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ແຜ່ລະບາດ</span> <span class=\"rom\">Phɛ̀ɛ lā-bȁat</span> · se propager (épidémie)</li><li><span class=\"lo\">ການພັດທະນາ</span> <span class=\"rom\">Kǎan phāt-thā-náa</span> · le développement</li><li><span class=\"lo\">ບໍ່ເຫັນໜ້າ</span> <span class=\"rom\">Bɔ̀ɔ hěn nâa</span> · on ne te voit plus</li><li><span class=\"lo\">ເຮັດໃຫ້</span> <span class=\"rom\">Hēt hây</span> · provoquer, faire que</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Parler des réseaux sociaux, des emprunts et des néologismes.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Kèo et son téléphone.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ແກ້ວຫຼິ້ນໂທລະສັບທັງມື້!</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຂ້ອຍໂພສວິດີໂອລົງເຟສບຸກ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ມີຄົນຕິດຕາມຫຼາຍບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ສອງພັນຄົນແລ້ວ!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Kɛ̂ɛw lîn thóo-lā-sāp tháng mʉ̂ʉ!</span><br><span class=\"rom\">Khɔ̂ɔy phôot wī-dǐi-ǒo lóng fés-búk.</span><br><span class=\"rom\">Míi khón tít-tǎam lǎay bɔ̌ɔ?</span><br><span class=\"rom\">Sɔ̌ɔng phán khón lɛ̏ɛw!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Mme Boua</b> — Kèo est sur son téléphone toute la journée !<br><b>Kèo</b> — Je poste des vidéos sur Facebook.<br><b>Clara</b> — Tu as beaucoup d&#x27;abonnés ?<br><b>Kèo</b> — Deux mille déjà !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que fait Kèo ?</li><li>Combien d&#x27;abonnés ?</li></ol><details><summary>Réponses</summary><ol><li>Il poste des vidéos sur Facebook.</li><li>Deux mille.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ໂພສ</td><td class=\"rom\">Phôot</td><td>poster</td><td></td></tr><tr><td class=\"lo\">ຕິດຕາມ</td><td class=\"rom\">Tít-tǎam</td><td>suivre, abonné</td><td></td></tr><tr><td class=\"lo\">ກົດໄລ້</td><td class=\"rom\">Kót lȁy</td><td>liker</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ແຊຣ໌</td><td class=\"rom\">Sɛ́ɛ</td><td>partager</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ແອັບ</td><td class=\"rom\">Ɛ́p</td><td>application</td><td></td></tr><tr><td class=\"lo\">ອິນເຕີເນັດ</td><td class=\"rom\">Ǐn-tɤ̂ɤ-nét</td><td>internet</td><td></td></tr><tr><td class=\"lo\">ສື່ສັງຄົມ</td><td class=\"rom\">Sʉ̀ʉ sǎng-khóm</td><td>réseaux sociaux</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les emprunts",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ໂພສ</span> <span class=\"rom\">Phôot</span> = « post »</li><li><span class=\"lo\">ແອັບ</span> <span class=\"rom\">Ɛ́p</span> = « app »</li><li><span class=\"lo\">ເຟສບຸກ</span> <span class=\"rom\">Fés-búk</span> = Facebook</li></ul><details><summary>La règle</summary><p>Le vocabulaire numérique vient souvent de l'anglais, adapté aux sons lao. Il existe parfois aussi un mot lao officiel moins utilisé.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les mots empruntés à l&#x27;anglais.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Je poste des vidéos.</li><li>Tu as beaucoup d&#x27;abonnés ?</li><li>Les réseaux sociaux.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້ອຍໂພສວິດີໂອ</span> <span class=\"rom\">Khɔ̂ɔy phôot wī-dǐi-ǒo.</span></li><li><span class=\"lo\">ມີຄົນຕິດຕາມຫຼາຍບໍ?</span> <span class=\"rom\">Míi khón tít-tǎam lǎay bɔ̌ɔ?</span></li><li><span class=\"lo\">ສື່ສັງຄົມ</span> <span class=\"rom\">Sʉ̀ʉ sǎng-khóm.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris un post de réseau social en lao (5 phrases).</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Publie (ou écris) un vrai post en lao et fais-le relire par un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>10 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l108-v01",
+   "front": "ໂພສ",
+   "back": "Phôot · poster"
+  },
+  {
+   "id": "l108-v02",
+   "front": "ຕິດຕາມ",
+   "back": "Tít-tǎam · suivre, abonné"
+  },
+  {
+   "id": "l108-v03",
+   "front": "ກົດໄລ້",
+   "back": "Kót lȁy · liker"
+  },
+  {
+   "id": "l108-v04",
+   "front": "ແຊຣ໌",
+   "back": "Sɛ́ɛ · partager"
+  },
+  {
+   "id": "l108-v05",
+   "front": "ແອັບ",
+   "back": "Ɛ́p · application"
+  },
+  {
+   "id": "l108-v06",
+   "front": "ອິນເຕີເນັດ",
+   "back": "Ǐn-tɤ̂ɤ-nét · internet"
+  },
+  {
+   "id": "l108-v07",
+   "front": "ສື່ສັງຄົມ",
+   "back": "Sʉ̀ʉ sǎng-khóm · réseaux sociaux"
+  },
+  {
+   "id": "l108-p01",
+   "front": "Je poste des vidéos.",
+   "back": "ຂ້ອຍໂພສວິດີໂອ · Khɔ̂ɔy phôot wī-dǐi-ǒo."
+  },
+  {
+   "id": "l108-p02",
+   "front": "Tu as beaucoup d'abonnés ?",
+   "back": "ມີຄົນຕິດຕາມຫຼາຍບໍ? · Míi khón tít-tǎam lǎay bɔ̌ɔ?"
+  },
+  {
+   "id": "l108-p03",
+   "front": "Les réseaux sociaux.",
+   "back": "ສື່ສັງຄົມ · Sʉ̀ʉ sǎng-khóm."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ໂພສ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "poster",
+      "réseaux sociaux",
+      "application",
+      "liker"
+     ],
+     "answer": "poster",
+     "reveal": "<i>Phôot</i>"
+    },
+    {
+     "audio": [
+      "ຕິດຕາມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "suivre, abonné",
+      "poster",
+      "internet",
+      "partager"
+     ],
+     "answer": "suivre, abonné",
+     "reveal": "<i>Tít-tǎam</i>"
+    },
+    {
+     "audio": [
+      "ກົດໄລ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "liker",
+      "internet",
+      "application",
+      "réseaux sociaux"
+     ],
+     "answer": "liker",
+     "reveal": "<i>Kót lȁy</i>"
+    },
+    {
+     "audio": [
+      "ແຊຣ໌"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "partager",
+      "internet",
+      "application",
+      "réseaux sociaux"
+     ],
+     "answer": "partager",
+     "reveal": "<i>Sɛ́ɛ</i>"
+    },
+    {
+     "audio": [
+      "ແອັບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "application",
+      "suivre, abonné",
+      "internet",
+      "partager"
+     ],
+     "answer": "application",
+     "reveal": "<i>Ɛ́p</i>"
+    },
+    {
+     "audio": [
+      "ອິນເຕີເນັດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "internet",
+      "application",
+      "suivre, abonné",
+      "partager"
+     ],
+     "answer": "internet",
+     "reveal": "<i>Ǐn-tɤ̂ɤ-nét</i>"
+    },
+    {
+     "audio": [
+      "ສື່ສັງຄົມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "réseaux sociaux",
+      "suivre, abonné",
+      "application",
+      "liker"
+     ],
+     "answer": "réseaux sociaux",
+     "reveal": "<i>Sʉ̀ʉ sǎng-khóm</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ແກ້ວຫຼິ້ນໂທລະສັບທັງມື້!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Kèo est sur son téléphone toute la journée !",
+      "Je poste des vidéos sur Facebook.",
+      "Deux mille déjà !",
+      "Tu as beaucoup d'abonnés ?"
+     ],
+     "answer": "Kèo est sur son téléphone toute la journée !",
+     "reveal": "<i>Kɛ̂ɛw lîn thóo-lā-sāp tháng mʉ̂ʉ!</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍໂພສວິດີໂອລົງເຟສບຸກ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je poste des vidéos sur Facebook.",
+      "Kèo est sur son téléphone toute la journée !",
+      "Deux mille déjà !",
+      "Tu as beaucoup d'abonnés ?"
+     ],
+     "answer": "Je poste des vidéos sur Facebook.",
+     "reveal": "<i>Khɔ̂ɔy phôot wī-dǐi-ǒo lóng fés-búk.</i>"
+    },
+    {
+     "audio": [
+      "ມີຄົນຕິດຕາມຫຼາຍບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu as beaucoup d'abonnés ?",
+      "Deux mille déjà !",
+      "Kèo est sur son téléphone toute la journée !",
+      "Je poste des vidéos sur Facebook."
+     ],
+     "answer": "Tu as beaucoup d'abonnés ?",
+     "reveal": "<i>Míi khón tít-tǎam lǎay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ສອງພັນຄົນແລ້ວ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Deux mille déjà !",
+      "Je poste des vidéos sur Facebook.",
+      "Kèo est sur son téléphone toute la journée !",
+      "Tu as beaucoup d'abonnés ?"
+     ],
+     "answer": "Deux mille déjà !",
+     "reveal": "<i>Sɔ̌ɔng phán khón lɛ̏ɛw!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້ອຍໂພສວິດີໂອ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je poste des vidéos.",
+      "Les réseaux sociaux.",
+      "Tu as beaucoup d'abonnés ?"
+     ],
+     "answer": "Je poste des vidéos.",
+     "reveal": "<i>Khɔ̂ɔy phôot wī-dǐi-ǒo.</i>"
+    },
+    {
+     "audio": [
+      "ມີຄົນຕິດຕາມຫຼາຍບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tu as beaucoup d'abonnés ?",
+      "Les réseaux sociaux.",
+      "Je poste des vidéos."
+     ],
+     "answer": "Tu as beaucoup d'abonnés ?",
+     "reveal": "<i>Míi khón tít-tǎam lǎay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ສື່ສັງຄົມ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Les réseaux sociaux.",
+      "Tu as beaucoup d'abonnés ?",
+      "Je poste des vidéos."
+     ],
+     "answer": "Les réseaux sociaux.",
+     "reveal": "<i>Sʉ̀ʉ sǎng-khóm.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ໂພສ",
+   "rom": "Phôot",
+   "fr": "poster",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕິດຕາມ",
+   "rom": "Tít-tǎam",
+   "fr": "suivre, abonné",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກົດໄລ້",
+   "rom": "Kót lȁy",
+   "fr": "liker",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແຊຣ໌",
+   "rom": "Sɛ́ɛ",
+   "fr": "partager",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແອັບ",
+   "rom": "Ɛ́p",
+   "fr": "application",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອິນເຕີເນັດ",
+   "rom": "Ǐn-tɤ̂ɤ-nét",
+   "fr": "internet",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສື່ສັງຄົມ",
+   "rom": "Sʉ̀ʉ sǎng-khóm",
+   "fr": "réseaux sociaux",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍໂພສວິດີໂອ",
+   "rom": "Khɔ̂ɔy phôot wī-dǐi-ǒo.",
+   "fr": "Je poste des vidéos.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມີຄົນຕິດຕາມຫຼາຍບໍ?",
+   "rom": "Míi khón tít-tǎam lǎay bɔ̌ɔ?",
+   "fr": "Tu as beaucoup d'abonnés ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສື່ສັງຄົມ",
+   "rom": "Sʉ̀ʉ sǎng-khóm.",
+   "fr": "Les réseaux sociaux.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ໂພສ",
+    "ວິດີໂອ"
+   ],
+   "rom": "Khɔ̂ɔy phôot wī-dǐi-ǒo.",
+   "fr": "Je poste des vidéos."
+  },
+  {
+   "tokens": [
+    "ມີ",
+    "ຄົນ",
+    "ຕິດຕາມ",
+    "ຫຼາຍ",
+    "ບໍ"
+   ],
+   "rom": "Míi khón tít-tǎam lǎay bɔ̌ɔ?",
+   "fr": "Tu as beaucoup d'abonnés ?"
+  },
+  {
+   "tokens": [
+    "ສື່",
+    "ສັງຄົມ"
+   ],
+   "rom": "Sʉ̀ʉ sǎng-khóm.",
+   "fr": "Les réseaux sociaux."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ໂພສ",
+   "rom": "Phôot",
+   "fr": "poster"
+  },
+  {
+   "lao": "ຕິດຕາມ",
+   "rom": "Tít-tǎam",
+   "fr": "suivre, abonné"
+  },
+  {
+   "lao": "ກົດໄລ້",
+   "rom": "Kót lȁy",
+   "fr": "liker"
+  },
+  {
+   "lao": "ແຊຣ໌",
+   "rom": "Sɛ́ɛ",
+   "fr": "partager"
+  },
+  {
+   "lao": "ແອັບ",
+   "rom": "Ɛ́p",
+   "fr": "application"
+  },
+  {
+   "lao": "ອິນເຕີເນັດ",
+   "rom": "Ǐn-tɤ̂ɤ-nét",
+   "fr": "internet"
+  },
+  {
+   "lao": "ສື່ສັງຄົມ",
+   "rom": "Sʉ̀ʉ sǎng-khóm",
+   "fr": "réseaux sociaux"
+  }
+ ],
+ "sounds": {
+  "ແຜ່ລະບາດ": "Phɛ̀ɛ lā-bȁat",
+  "ການພັດທະນາ": "Kǎan phāt-thā-náa",
+  "ບໍ່ເຫັນໜ້າ": "Bɔ̀ɔ hěn nâa",
+  "ເຮັດໃຫ້": "Hēt hây",
+  "ແກ້ວຫຼິ້ນໂທລະສັບທັງມື້": "Kɛ̂ɛw lîn thóo-lā-sāp tháng mʉ̂ʉ!",
+  "ຂ້ອຍໂພສວິດີໂອລົງເຟສບຸກ": "Khɔ̂ɔy phôot wī-dǐi-ǒo lóng fés-búk.",
+  "ມີຄົນຕິດຕາມຫຼາຍບໍ": "Míi khón tít-tǎam lǎay bɔ̌ɔ?",
+  "ສອງພັນຄົນແລ້ວ": "Sɔ̌ɔng phán khón lɛ̏ɛw!",
+  "ໂພສ": "phôot",
+  "ຕິດຕາມ": "tít-tǎam",
+  "ກົດໄລ້": "Kót lȁy",
+  "ແຊຣ໌": "Sɛ́ɛ",
+  "ແອັບ": "Ɛ́p",
+  "ອິນເຕີເນັດ": "Ǐn-tɤ̂ɤ-nét",
+  "ສື່ສັງຄົມ": "Sʉ̀ʉ sǎng-khóm.",
+  "ເຟສບຸກ": "Fés-búk",
+  "ຂ້ອຍໂພສວິດີໂອ": "Khɔ̂ɔy phôot wī-dǐi-ǒo.",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ວິດີໂອ": "wī-dǐi-ǒo",
+  "ມີ": "míi",
+  "ຄົນ": "khón",
+  "ຫຼາຍ": "lǎay",
+  "ບໍ": "bɔ̌ɔ",
+  "ສື່": "sʉ̀ʉ",
+  "ສັງຄົມ": "sǎng-khóm"
+ },
+ "suivi": "LEÇON : 108 — Partie F (Argumenter, B2) · Technologie\nOBJECTIF : Parler des réseaux sociaux, des emprunts et des néologismes.\nNOTION : les emprunts\nVOCAB : Phôot, Tít-tǎam, Kót lȁy, Sɛ́ɛ, Ɛ́p, Ǐn-tɤ̂ɤ-nét, Sʉ̀ʉ sǎng-khóm\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 109 — Traditions en mouvement"
+}
