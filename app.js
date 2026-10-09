@@ -366,6 +366,10 @@
           <button class="btn primary big" id="rec"><span class="rec-dot" hidden></span><span id="rec-l">● M'enregistrer</span></button>
           <button class="btn" id="mine" disabled>▶ Ma voix</button>
         </div>
+        <div class="row" style="justify-content:center" id="asr-row" ${SR ? "" : "hidden"}>
+          <button class="btn accent" id="asr"><span id="asr-l">✓ Faire vérifier ma prononciation</span></button>
+        </div>
+        <div id="asr-out"></div>
         <canvas class="plot" id="plot" width="800" height="300" aria-label="Courbes de mélodie"></canvas>
         <div class="legend"><span><i style="background:var(--accent)"></i>Modèle${hasMom ? " (maman)" : ""}</span><span><i style="background:var(--indigo)"></i>Toi</span><span>Axe vertical : grave → aigu</span></div>
         <div id="score"></div>
@@ -380,6 +384,7 @@
     $("#next").addEventListener("click", () => { sp.i++; sp.mine = null; renderSpeak(); });
     $("#model").addEventListener("click", () => play(it.lao)); $("#slow").addEventListener("click", () => play(it.lao, true));
     $("#rec").addEventListener("click", () => toggleRec(false));
+    if (SR) $("#asr").addEventListener("click", () => checkPronunciation(it));
     $("#mine").addEventListener("click", () => { if (sp.mineUrl) { playToken++; player.src = sp.mineUrl; player.playbackRate = 1; player.play().catch(() => {}); } });
     $("#mom-rec").addEventListener("click", () => toggleRec(true));
     if ($("#mom-play")) $("#mom-play").addEventListener("click", () => play(it.lao));
@@ -413,6 +418,66 @@
     if (mom) { btn.textContent = "■ Arrêter"; } else { btn.classList.add("rec"); $(".rec-dot").hidden = false; $("#rec-l").textContent = "Arrêter"; }
     sp.auto = setTimeout(() => { if (sp.rec.state === "recording") sp.rec.stop(); }, mom ? 8000 : 6000);
   }
+  /* ---- vérification par reconnaissance vocale (comme Duolingo) ---- */
+  const SR = window.SpeechRecognition || window.webkitSpeechRecognition || null;
+  let asr = null;
+  const TONE_MARKS = /[\u0EC8-\u0ECB]/g;
+  const normLao = (t) => String(t).normalize("NFC").replace(/[\s.,!?…«»"'ໆ-]/g, "");
+  function lev(a, b) {
+    const m = a.length, n = b.length; if (!m) return n; if (!n) return m;
+    let prev = Array.from({ length: n + 1 }, (_, j) => j);
+    for (let i = 1; i <= m; i++) { const cur = [i]; for (let j = 1; j <= n; j++) cur[j] = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1)); prev = cur; }
+    return prev[n];
+  }
+  // marque chaque caractère de la cible : retrouvé (vert) ou manquant (rouge), par plus longue sous-suite commune
+  function diffHtml(target, heard) {
+    const a = [...target], b = [...heard]; const L = Array.from({ length: a.length + 1 }, () => new Array(b.length + 1).fill(0));
+    for (let i = a.length - 1; i >= 0; i--) for (let j = b.length - 1; j >= 0; j--) L[i][j] = a[i] === b[j] ? L[i + 1][j + 1] + 1 : Math.max(L[i + 1][j], L[i][j + 1]);
+    const ok = new Array(a.length).fill(false); let i = 0, j = 0;
+    while (i < a.length && j < b.length) { if (a[i] === b[j]) { ok[i] = true; i++; j++; } else if (L[i + 1][j] >= L[i][j + 1]) i++; else j++; }
+    let out = "", k = 0;
+    while (k < a.length) { // regroupe la base + ses signes pour ne pas couper une syllabe visuelle
+      let g = a[k], st = ok[k]; k++;
+      while (k < a.length && /[\u0EB1\u0EB4-\u0EBC\u0EC8-\u0ECD]/.test(a[k])) { g += a[k]; st = st && ok[k]; k++; }
+      out += `<span style="color:var(${st ? "--good" : "--bad"});${st ? "" : "text-decoration:underline wavy"}">${esc(g)}</span>`;
+    }
+    return out;
+  }
+  function checkPronunciation(it) {
+    if (asr) { try { asr.stop(); } catch (e) {} return; }
+    playToken++; try { player.pause(); } catch (e) {}
+    const out = $("#asr-out"); const lbl = $("#asr-l");
+    asr = new SR(); asr.lang = "lo-LA"; asr.interimResults = false; asr.maxAlternatives = 5; asr.continuous = false;
+    let got = false;
+    lbl.textContent = "● Je t'écoute… parle maintenant";
+    out.innerHTML = "";
+    asr.onresult = (e) => {
+      got = true;
+      const alts = Array.from(e.results[0] || []).map((r) => r.transcript).filter(Boolean);
+      const target = normLao(it.lao), tBase = target.replace(TONE_MARKS, "");
+      let best = { t: alts[0] || "", d: Infinity, exact: false, toneless: false };
+      alts.forEach((t) => { const h = normLao(t); const d = lev(h, target); if (d < best.d) best = { t, d, exact: h === target, toneless: h.replace(TONE_MARKS, "") === tBase }; });
+      const score = Math.max(0, Math.round(100 * (1 - best.d / Math.max(1, target.length))));
+      let verdict, tip;
+      if (best.exact) { verdict = "Parfait ✓"; tip = "La machine a reconnu exactement ta phrase."; }
+      else if (best.toneless) { verdict = "Presque !"; tip = "Les sons sont bons, mais la machine a entendu un autre ton. Réécoute le modèle et compare ta courbe."; }
+      else if (score >= 70) { verdict = "Bien"; tip = "La machine a compris l'essentiel. Les parties en rouge n'ont pas été reconnues."; }
+      else { verdict = "À retravailler"; tip = "La machine a compris autre chose. Écoute le modèle au ralenti et réessaie."; }
+      const k = sp.l.id + ":asr:" + sp.i; if (!S.best[k] || +S.best[k] < score) S.best[k] = String(score); save();
+      if (best.exact || score >= 80) addXP(5);
+      out.innerHTML = `<div class="reveal stack" style="gap:6px"><div class="scorebox"><div class="s">${best.exact ? 100 : score}</div><div><b>${verdict}</b> ${tip}</div></div>
+        <div><span class="muted" style="font-size:.85rem">Ce qu'il fallait dire :</span> <span class="lo" style="font-size:1.4rem">${diffHtml(target, normLao(best.t))}</span></div>
+        <div><span class="muted" style="font-size:.85rem">Ce que la machine a entendu :</span> <span class="lo" style="font-size:1.2rem">${esc(best.t || "—")}</span></div></div>`;
+    };
+    asr.onerror = (e) => {
+      got = true;
+      const msg = { "no-speech": "Je n'ai rien entendu. Rapproche-toi du micro et réessaie.", "not-allowed": "Autorise le micro pour utiliser la vérification.", "service-not-allowed": "La reconnaissance vocale n'est pas disponible dans ce navigateur. Essaie Chrome ou Edge sur ordinateur ou sur Android.", "language-not-supported": "Ce navigateur ne reconnaît pas le lao. Essaie Chrome.", "network": "La vérification a besoin d'internet." }[e.error] || "La vérification n'a pas fonctionné. Réessaie.";
+      out.innerHTML = `<p class="muted">${msg}</p>`;
+    };
+    asr.onend = () => { asr = null; lbl.textContent = "✓ Faire vérifier ma prononciation"; if (!got) out.innerHTML = `<p class="muted">Je n'ai rien entendu. Réessaie en parlant juste après avoir touché le bouton.</p>`; };
+    try { asr.start(); } catch (e) { asr = null; lbl.textContent = "✓ Faire vérifier ma prononciation"; }
+  }
+
   function analyse(mine, it) {
     const voiced = mine.filter(Boolean);
     if (voiced.length < 8) { $("#score").innerHTML = `<p class="muted">Je n'entends presque rien. Parle un peu plus fort ou plus près du micro.</p>`; drawPlot(sp.ref, null); return; }
@@ -586,7 +651,7 @@
       AUDIO = audio;
       LESSONS = (await Promise.all(idx.lessons.map((x) => loadJSON(x.file).then((d) => Object.assign({ id: x.id, num: x.num }, d))))).sort((a, b) => a.num - b.num);
     } catch (e) { $("#v-accueil").innerHTML = `<div class="panel">Impossible de charger les leçons. Vérifie ta connexion puis recharge.</div>`; return; }
-    LESSONS.forEach((l) => (l.speak || []).forEach((x) => { if (x.kind === "tone") TONE_TEXTS.add(clean(x.lao)); }));
+    LESSONS.forEach((l) => { (l.speak || []).forEach((x) => { if (x.kind === "tone") TONE_TEXTS.add(clean(x.lao)); }); (l.preferSynth || []).forEach((t) => TONE_TEXTS.add(clean(t))); });
     updateDueDot();
     const v = (location.hash || "#accueil").slice(1); go(VIEWS.includes(v) ? v : "accueil");
     const origRenderSpeak = renderSpeak; // étalonnage du ton moyen en tâche de fond
