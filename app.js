@@ -568,7 +568,7 @@
   async function boot() {
     renderStreak();
     try {
-      const [idx, audio] = await Promise.all([loadJSON("content/index.json"), loadJSON("audio/index.json").catch(() => ({}))]);
+      const [idx, audio] = await Promise.all([loadJSON("lessons.json"), loadJSON("sounds.json").catch(() => ({}))]);
       AUDIO = audio;
       LESSONS = (await Promise.all(idx.lessons.map((x) => loadJSON(x.file).then((d) => Object.assign({ id: x.id, num: x.num }, d))))).sort((a, b) => a.num - b.num);
     } catch (e) { $("#v-accueil").innerHTML = `<div class="panel">Impossible de charger les leçons. Vérifie ta connexion puis recharge.</div>`; return; }

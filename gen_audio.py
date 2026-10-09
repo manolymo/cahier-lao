@@ -9,8 +9,8 @@ import edge_tts
 
 VOICE_F = "lo-LA-KeomanyNeural"     # voix féminine
 VOICE_M = "lo-LA-ChanthavongNeural" # voix masculine
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-IDX = os.path.join(ROOT, "audio", "index.json")
+ROOT = os.path.dirname(os.path.abspath(__file__))
+IDX = os.path.join(ROOT, "sounds.json")
 
 def clean(s):
     return re.sub(r"\s+", " ", re.sub(r'[…!?.,«»"]', " ", s)).strip()
@@ -23,7 +23,9 @@ def djb2(s):
 
 def lesson_texts():
     texts = set()
-    for path in sorted(glob.glob(os.path.join(ROOT, "content", "l*.json"))):
+    for path in sorted(glob.glob(os.path.join(ROOT, "l*.json"))):
+        if not re.fullmatch(r"l\d+\.json", os.path.basename(path)):
+            continue
         d = json.load(open(path, encoding="utf-8"))
         texts.update(d.get("sounds", {}).keys())
     return {clean(t) for t in texts if clean(t) and re.search("[຀-໿]", t)}

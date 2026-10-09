@@ -1,0 +1,146 @@
+{
+ "a5b57b9": {
+  "synth": "a5b57b9.mp3",
+  "text": "ຂາ"
+ },
+ "a5b57fb": {
+  "synth": "a5b57fb.mp3",
+  "text": "ຄາ"
+ },
+ "abc668e3": {
+  "synth": "abc668e3.mp3",
+  "text": "ຄ່າ"
+ },
+ "abc66061": {
+  "synth": "abc66061.mp3",
+  "text": "ຂ່າ"
+ },
+ "abc66082": {
+  "synth": "abc66082.mp3",
+  "text": "ຂ້າ"
+ },
+ "abc66904": {
+  "synth": "abc66904.mp3",
+  "text": "ຄ້າ"
+ },
+ "a87a76425": {
+  "synth": "a87a76425.mp3",
+  "text": "ຂາ ຄາ ຄ່າ ຂ່າ ຂ້າ ຄ້າ"
+ },
+ "a248bcae1": {
+  "synth": "a248bcae1.mp3",
+  "text": "ສະບາຍດີ"
+ },
+ "a76abf7c8": {
+  "synth": "a76abf7c8.mp3",
+  "text": "ສະບາຍດີບໍ"
+ },
+ "abc7676f": {
+  "synth": "abc7676f.mp3",
+  "text": "ແມ່"
+ },
+ "abc6f324": {
+  "synth": "abc6f324.mp3",
+  "text": "ລູກ"
+ },
+ "a5b5f99": {
+  "synth": "a5b5f99.mp3",
+  "text": "ເດ"
+ },
+ "a1b40f483": {
+  "synth": "a1b40f483.mp3",
+  "text": "ແມ່ເດ"
+ },
+ "a65119768": {
+  "synth": "a65119768.mp3",
+  "text": "ກິນເຂົ້າແລ້ວບໍ"
+ },
+ "ad9c34089": {
+  "synth": "ad9c34089.mp3",
+  "text": "ກິນແລ້ວ"
+ },
+ "a57977770": {
+  "synth": "a57977770.mp3",
+  "text": "ກິນແລ້ວບໍ"
+ },
+ "a16d2bdf9": {
+  "synth": "a16d2bdf9.mp3",
+  "text": "ຂອບໃຈ"
+ },
+ "a5fa7a525": {
+  "synth": "a5fa7a525.mp3",
+  "text": "ຂອບໃຈຫຼາຍໆ"
+ },
+ "aed16838f": {
+  "synth": "aed16838f.mp3",
+  "text": "ຂອບໃຈຫຼາຍໆແມ່"
+ },
+ "a424a8d29": {
+  "synth": "a424a8d29.mp3",
+  "text": "ບໍ່ເປັນຫຍັງ"
+ },
+ "a84b463e8": {
+  "synth": "a84b463e8.mp3",
+  "text": "ແມ່ນ"
+ },
+ "a835eee8f": {
+  "synth": "a835eee8f.mp3",
+  "text": "ແມ່ນບໍ"
+ },
+ "a1b20f083": {
+  "synth": "a1b20f083.mp3",
+  "text": "ເຈົ້າ"
+ },
+ "a21651ee6": {
+  "synth": "a21651ee6.mp3",
+  "text": "ເຈົ້າ ແມ່ນ"
+ },
+ "a15109ca7": {
+  "synth": "a15109ca7.mp3",
+  "text": "ບໍ່ສະບາຍ"
+ },
+ "abc6c073": {
+  "synth": "abc6c073.mp3",
+  "text": "ນົບ"
+ },
+ "a84b5eef1": {
+  "synth": "a84b5eef1.mp3",
+  "text": "ໄປໃສ"
+ },
+ "a4c2b9fcb": {
+  "synth": "a4c2b9fcb.mp3",
+  "text": "ສະບາຍດີແມ່"
+ },
+ "a4991cc3": {
+  "synth": "a4991cc3.mp3",
+  "text": "ສະບາຍດີລູກ ສະບາຍດີບໍ"
+ },
+ "a9a91b81f": {
+  "synth": "a9a91b81f.mp3",
+  "text": "ສະບາຍດີ ແມ່ເດ"
+ },
+ "aa15e2a84": {
+  "synth": "aa15e2a84.mp3",
+  "text": "ສະບາຍດີ ກິນເຂົ້າແລ້ວບໍ"
+ },
+ "afa96953d": {
+  "synth": "afa96953d.mp3",
+  "text": "ກິນແລ້ວ ຂອບໃຈ"
+ },
+ "af2541143": {
+  "synth": "af2541143.mp3",
+  "text": "ສະບາຍດີລູກ ກິນເຂົ້າແລ້ວບໍ"
+ },
+ "ac12fa172": {
+  "synth": "ac12fa172.mp3",
+  "text": "ແມ່ສະບາຍດີບໍ"
+ },
+ "a7dd3db52": {
+  "synth": "a7dd3db52.mp3",
+  "text": "ແມ່ກິນເຂົ້າແລ້ວບໍ"
+ },
+ "af90b911": {
+  "synth": "af90b911.mp3",
+  "text": "ແມ່ບໍ່ສະບາຍ"
+ }
+}

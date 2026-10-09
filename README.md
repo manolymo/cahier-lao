@@ -8,5 +8,5 @@ Application perso pour apprendre le lao de Vientiane, de zéro jusqu'à C1.
 - **Parler** : enregistre-toi au micro et compare ta courbe de ton à celle du modèle.
 - **Écrire** : assembler des phrases, dictée en romanisation avec les tons.
 
-Les sons naturels sont générés automatiquement par GitHub Actions (`tools/gen_audio.py`)
-à chaque ajout de leçon dans `content/`. Tes progrès restent sur ton appareil.
+Les sons naturels sont générés automatiquement par GitHub Actions (`gen_audio.py`)
+à chaque ajout de leçon (fichiers `l01.json`, `l02.json`…). Tes progrès restent sur ton appareil.
