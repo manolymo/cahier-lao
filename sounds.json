@@ -398,7 +398,11 @@
   "text": "ອະ",
   "f": "audio/f/a5b5d42.mp3",
   "m": "audio/m/a5b5d42.mp3",
-  "rom": "ā"
+  "rom": "ā",
+  "alias": {
+   "f": "audio/f/x5b5d42.mp3",
+   "m": "audio/m/x5b5d42.mp3"
+  }
  },
  "a5b5d44": {
   "text": "ອາ",
@@ -415,7 +419,11 @@
   "text": "ອິ",
   "f": "audio/f/a5b5d46.mp3",
   "m": "audio/m/a5b5d46.mp3",
-  "rom": "ī"
+  "rom": "ī",
+  "alias": {
+   "f": "audio/f/x5b5d46.mp3",
+   "m": "audio/m/x5b5d46.mp3"
+  }
  },
  "a5b5d47": {
   "text": "ອີ",
@@ -427,7 +435,11 @@
   "text": "ອຶ",
   "f": "audio/f/a5b5d48.mp3",
   "m": "audio/m/a5b5d48.mp3",
-  "rom": "ʉ̄"
+  "rom": "ʉ̄",
+  "alias": {
+   "f": "audio/f/x5b5d48.mp3",
+   "m": "audio/m/x5b5d48.mp3"
+  }
  },
  "a5b5d49": {
   "text": "ອື",
@@ -439,7 +451,11 @@
   "text": "ອຸ",
   "f": "audio/f/a5b5d4a.mp3",
   "m": "audio/m/a5b5d4a.mp3",
-  "rom": "ū"
+  "rom": "ū",
+  "alias": {
+   "f": "audio/f/x5b5d4a.mp3",
+   "m": "audio/m/x5b5d4a.mp3"
+  }
  },
  "a5b5d4b": {
   "text": "ອູ",
@@ -500,19 +516,31 @@
   "text": "ເອະ",
   "f": "audio/f/abc764a2.mp3",
   "m": "audio/m/abc764a2.mp3",
-  "rom": "ē"
+  "rom": "ē",
+  "alias": {
+   "f": "audio/f/xbc764a2.mp3",
+   "m": "audio/m/xbc764a2.mp3"
+  }
  },
  "a84b407d4": {
   "text": "ເອາະ",
   "f": "audio/f/a84b407d4.mp3",
   "m": "audio/m/a84b407d4.mp3",
-  "rom": "ɔ̄"
+  "rom": "ɔ̄",
+  "alias": {
+   "f": "audio/f/x84b407d4.mp3",
+   "m": "audio/m/x84b407d4.mp3"
+  }
  },
  "abc764a6": {
   "text": "ເອິ",
   "f": "audio/f/abc764a6.mp3",
   "m": "audio/m/abc764a6.mp3",
-  "rom": "ɤ̄"
+  "rom": "ɤ̄",
+  "alias": {
+   "f": "audio/f/xbc764a6.mp3",
+   "m": "audio/m/xbc764a6.mp3"
+  }
  },
  "abc764a7": {
   "text": "ເອີ",
@@ -556,7 +584,11 @@
   "text": "ແອະ",
   "f": "audio/f/abc768e3.mp3",
   "m": "audio/m/abc768e3.mp3",
-  "rom": "ɛ̄"
+  "rom": "ɛ̄",
+  "alias": {
+   "f": "audio/f/xbc768e3.mp3",
+   "m": "audio/m/xbc768e3.mp3"
+  }
  },
  "a5b5ff4": {
   "text": "ໂອ",
@@ -568,7 +600,11 @@
   "text": "ໂອະ",
   "f": "audio/f/abc76d24.mp3",
   "m": "audio/m/abc76d24.mp3",
-  "rom": "ō"
+  "rom": "ō",
+  "alias": {
+   "f": "audio/f/xbc76d24.mp3",
+   "m": "audio/m/xbc76d24.mp3"
+  }
  },
  "a5b6015": {
   "text": "ໃອ",
@@ -669,245 +705,5 @@
   "text": "ໂຕະ",
   "f": "audio/f/abc76a0c.mp3",
   "m": "audio/m/abc76a0c.mp3"
- },
- "a1697dead": {
-  "text": "ຂາ ຂາ",
-  "f": "audio/f/a1697dead.mp3",
-  "m": "audio/m/a1697dead.mp3"
- },
- "a9d547121": {
-  "text": "ຂາ ຂາ ຂາ",
-  "f": "audio/f/a9d547121.mp3",
-  "m": "audio/m/a9d547121.mp3"
- },
- "a4f22e27d": {
-  "text": "ຂ່າ ຂ່າ",
-  "f": "audio/f/a4f22e27d.mp3",
-  "m": "audio/m/a4f22e27d.mp3"
- },
- "a12eb1299": {
-  "text": "ຂ່າ ຂ່າ ຂ່າ",
-  "f": "audio/f/a12eb1299.mp3",
-  "m": "audio/m/a12eb1299.mp3"
- },
- "a51780b3f": {
-  "text": "ຂ້າ ຂ້າ",
-  "f": "audio/f/a51780b3f.mp3",
-  "m": "audio/m/a51780b3f.mp3"
- },
- "a194acc7c": {
-  "text": "ຂ້າ ຂ້າ ຂ້າ",
-  "f": "audio/f/a194acc7c.mp3",
-  "m": "audio/m/a194acc7c.mp3"
- },
- "a16bc0ff1": {
-  "text": "ຄາ ຄາ",
-  "f": "audio/f/a16bc0ff1.mp3",
-  "m": "audio/m/a16bc0ff1.mp3"
- },
- "a75fc4c27": {
-  "text": "ຄາ ຄາ ຄາ",
-  "f": "audio/f/a75fc4c27.mp3",
-  "m": "audio/m/a75fc4c27.mp3"
- },
- "ae9176481": {
-  "text": "ຄ່າ ຄ່າ",
-  "f": "audio/f/ae9176481.mp3",
-  "m": "audio/m/ae9176481.mp3"
- },
- "ab798ff1f": {
-  "text": "ຄ່າ ຄ່າ ຄ່າ",
-  "f": "audio/f/ab798ff1f.mp3",
-  "m": "audio/m/ab798ff1f.mp3"
- },
- "aeb6c8d43": {
-  "text": "ຄ້າ ຄ້າ",
-  "f": "audio/f/aeb6c8d43.mp3",
-  "m": "audio/m/aeb6c8d43.mp3"
- },
- "abdf8b902": {
-  "text": "ຄ້າ ຄ້າ ຄ້າ",
-  "f": "audio/f/abdf8b902.mp3",
-  "m": "audio/m/abdf8b902.mp3"
- },
- "a19a0e91f": {
-  "text": "ອະ ອະ",
-  "f": "audio/f/a19a0e91f.mp3",
-  "m": "audio/m/a19a0e91f.mp3"
- },
- "ab577c3dc": {
-  "text": "ອະ ອະ ອະ",
-  "f": "audio/f/ab577c3dc.mp3",
-  "m": "audio/m/ab577c3dc.mp3"
- },
- "a19a201e3": {
-  "text": "ອາ ອາ",
-  "f": "audio/f/a19a201e3.mp3",
-  "m": "audio/m/a19a201e3.mp3"
- },
- "a4f6d5622": {
-  "text": "ອາ ອາ ອາ",
-  "f": "audio/f/a4f6d5622.mp3",
-  "m": "audio/m/a4f6d5622.mp3"
- },
- "a19a31aa7": {
-  "text": "ອິ ອິ",
-  "f": "audio/f/a19a31aa7.mp3",
-  "m": "audio/m/a19a31aa7.mp3"
- },
- "ae962e868": {
-  "text": "ອິ ອິ ອິ",
-  "f": "audio/f/ae962e868.mp3",
-  "m": "audio/m/ae962e868.mp3"
- },
- "a19a3a709": {
-  "text": "ອີ ອີ",
-  "f": "audio/f/a19a3a709.mp3",
-  "m": "audio/m/a19a3a709.mp3"
- },
- "a365db18b": {
-  "text": "ອີ ອີ ອີ",
-  "f": "audio/f/a365db18b.mp3",
-  "m": "audio/m/a365db18b.mp3"
- },
- "a19a4336b": {
-  "text": "ອຶ ອຶ",
-  "f": "audio/f/a19a4336b.mp3",
-  "m": "audio/m/a19a4336b.mp3"
- },
- "a83587aae": {
-  "text": "ອຶ ອຶ ອຶ",
-  "f": "audio/f/a83587aae.mp3",
-  "m": "audio/m/a83587aae.mp3"
- },
- "a19a4bfcd": {
-  "text": "ອື ອື",
-  "f": "audio/f/a19a4bfcd.mp3",
-  "m": "audio/m/a19a4bfcd.mp3"
- },
- "ad05343d1": {
-  "text": "ອື ອື ອື",
-  "f": "audio/f/ad05343d1.mp3",
-  "m": "audio/m/ad05343d1.mp3"
- },
- "a19a54c2f": {
-  "text": "ອຸ ອຸ",
-  "f": "audio/f/a19a54c2f.mp3",
-  "m": "audio/m/a19a54c2f.mp3"
- },
- "a1d4e0cf4": {
-  "text": "ອຸ ອຸ ອຸ",
-  "f": "audio/f/a1d4e0cf4.mp3",
-  "m": "audio/m/a1d4e0cf4.mp3"
- },
- "a19a5d891": {
-  "text": "ອູ ອູ",
-  "f": "audio/f/a19a5d891.mp3",
-  "m": "audio/m/a19a5d891.mp3"
- },
- "a6a48d617": {
-  "text": "ອູ ອູ ອູ",
-  "f": "audio/f/a6a48d617.mp3",
-  "m": "audio/m/a6a48d617.mp3"
- },
- "a19b0d039": {
-  "text": "ອໍ ອໍ",
-  "f": "audio/f/a19b0d039.mp3",
-  "m": "audio/m/a19b0d039.mp3"
- },
- "a6de08cd3": {
-  "text": "ອໍ ອໍ ອໍ",
-  "f": "audio/f/a6de08cd3.mp3",
-  "m": "audio/m/a6de08cd3.mp3"
- },
- "a1af717ff": {
-  "text": "ເອ ເອ",
-  "f": "audio/f/a1af717ff.mp3",
-  "m": "audio/m/a1af717ff.mp3"
- },
- "a58c2092c": {
-  "text": "ເອ ເອ ເອ",
-  "f": "audio/f/a58c2092c.mp3",
-  "m": "audio/m/a58c2092c.mp3"
- },
- "ab49f237f": {
-  "text": "ເອະ ເອະ",
-  "f": "audio/f/ab49f237f.mp3",
-  "m": "audio/m/ab49f237f.mp3"
- },
- "a6ec508dc": {
-  "text": "ເອະ ເອະ ເອະ",
-  "f": "audio/f/a6ec508dc.mp3",
-  "m": "audio/m/a6ec508dc.mp3"
- },
- "ae27014c3": {
-  "text": "ເອາະ ເອາະ",
-  "f": "audio/f/ae27014c3.mp3",
-  "m": "audio/m/ae27014c3.mp3"
- },
- "a61148f12": {
-  "text": "ເອາະ ເອາະ ເອາະ",
-  "f": "audio/f/a61148f12.mp3",
-  "m": "audio/m/a61148f12.mp3"
- },
- "ab4e78587": {
-  "text": "ເອິ ເອິ",
-  "f": "audio/f/ab4e78587.mp3",
-  "m": "audio/m/ab4e78587.mp3"
- },
- "a40ff2ee8": {
-  "text": "ເອິ ເອິ ເອິ",
-  "f": "audio/f/a40ff2ee8.mp3",
-  "m": "audio/m/a40ff2ee8.mp3"
- },
- "ab4f99e09": {
-  "text": "ເອີ ເອີ",
-  "f": "audio/f/ab4f99e09.mp3",
-  "m": "audio/m/ab4f99e09.mp3"
- },
- "ab58db86b": {
-  "text": "ເອີ ເອີ ເອີ",
-  "f": "audio/f/ab58db86b.mp3",
-  "m": "audio/m/ab58db86b.mp3"
- },
- "a1b0930a1": {
-  "text": "ແອ ແອ",
-  "f": "audio/f/a1b0930a1.mp3",
-  "m": "audio/m/a1b0930a1.mp3"
- },
- "a4515f6af": {
-  "text": "ແອ ແອ ແອ",
-  "f": "audio/f/a4515f6af.mp3",
-  "m": "audio/m/a4515f6af.mp3"
- },
- "a1996481": {
-  "text": "ແອະ ແອະ",
-  "f": "audio/f/a1996481.mp3",
-  "m": "audio/m/a1996481.mp3"
- },
- "a411bff1f": {
-  "text": "ແອະ ແອະ ແອະ",
-  "f": "audio/f/a411bff1f.mp3",
-  "m": "audio/m/a411bff1f.mp3"
- },
- "a1b1b4943": {
-  "text": "ໂອ ໂອ",
-  "f": "audio/f/a1b1b4943.mp3",
-  "m": "audio/m/a1b1b4943.mp3"
- },
- "a3169e432": {
-  "text": "ໂອ ໂອ ໂອ",
-  "f": "audio/f/a3169e432.mp3",
-  "m": "audio/m/a3169e432.mp3"
- },
- "a4e93a583": {
-  "text": "ໂອະ ໂອະ",
-  "f": "audio/f/a4e93a583.mp3",
-  "m": "audio/m/a4e93a583.mp3"
- },
- "a1372f562": {
-  "text": "ໂອະ ໂອະ ໂອະ",
-  "f": "audio/f/a1372f562.mp3",
-  "m": "audio/m/a1372f562.mp3"
  }
 }
