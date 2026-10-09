@@ -63,10 +63,8 @@
     }
     const e = AUDIO[k]; if (!e) return null;
     const other = S.voice === "f" ? "m" : "f";
-    // syllabes isolées des exercices de tons : la voix naturelle les lit avec une chute finale
-    // qui masque le ton ; on prend la synthèse aux contours calibrés tant que maman n'a pas enregistré
-    if (TONE_TEXTS.has(clean(text)) && e.synth) return e.synth;
-    return e[S.voice] || e[other] || e.synth || null;
+    if (e.alias && e.alias[S.voice]) return e.alias[S.voice];
+    return e[S.voice] || e[other] || null;
   }
   let playToken = 0;
   async function play(texts, slow, el) {
