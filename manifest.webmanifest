@@ -1,0 +1,15 @@
+{
+  "name": "Cahier de lao",
+  "short_name": "Lao",
+  "description": "Apprendre le lao de Vientiane : leçons, écoute, tons au micro, écriture et révision.",
+  "lang": "fr",
+  "start_url": "./#accueil",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eceff5",
+  "theme_color": "#2b3a8c",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

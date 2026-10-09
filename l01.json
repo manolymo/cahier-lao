@@ -1,0 +1,1017 @@
+{
+ "num": 1,
+ "phase": "Phase 0 · Sons et tons",
+ "title": "Les tons + saluer maman",
+ "objective": "Saluer ta mère, répondre à « t'as mangé ? » et la remercier, avec les bons tons.",
+ "sections": [
+  {
+   "title": "Romanisation",
+   "html": "<p>Le système utilisé pour tout le parcours. Il ne changera jamais.</p>\n<p><b>Consonnes, les pièges pour un francophone</b></p>\n<ul><li><span class=\"rom\">k / p / t</span> : sans souffle, comme en français.</li>\n<li><span class=\"rom\">kh / ph / th</span> : avec un souffle d'air. <i>ph</i> ne se prononce jamais « f », et <i>th</i> n'a rien à voir avec l'anglais.</li>\n<li><span class=\"rom\">j</span> : entre « tch » et « dj », sans souffle.</li>\n<li><span class=\"rom\">ng</span> : le son de « parki<b>ng</b> », mais il peut être en début de mot.</li>\n<li><span class=\"rom\">ny</span> : le « gn » d'« a<b>gn</b>eau ».</li></ul>\n<p><b>Voyelles</b> : une lettre = courte, deux lettres = longue (<span class=\"rom\">a / aa</span>). La durée change le sens.</p>\n<ul><li><span class=\"rom\">u</span> = « ou » · <span class=\"rom\">e</span> = é · <span class=\"rom\">ɛ</span> = è · <span class=\"rom\">o</span> = ô fermé · <span class=\"rom\">ɔ</span> = o ouvert (« porte »)</li>\n<li><span class=\"rom\">ay</span> = « aïe » · <span class=\"rom\">ao</span> = « aou »</li></ul>\n<p><b>Les 6 tons</b> : le signe se place sur la première voyelle de la syllabe. Voir l'onglet <b>Tons</b> pour les courbes.</p><div class=\"tbl\"><table><tr><th>Signe</th><th>Ton</th><th>Mélodie</th><th>Paire minimale</th></tr>\n<tr><td><b>ǎ</b></td><td>montant</td><td>part bas, monte</td><td><span class=\"lo\">ຂາ</span> <span class=\"rom\">khǎa</span> · jambe</td></tr>\n<tr><td><b>á</b></td><td>haut</td><td>haut</td><td><span class=\"lo\">ຄາ</span> <span class=\"rom\">kháa</span> · coincé</td></tr>\n<tr><td><b>ā</b></td><td>moyen</td><td>plat, au milieu</td><td><span class=\"lo\">ຄ່າ</span> <span class=\"rom\">khāa</span> · prix, valeur</td></tr>\n<tr><td><b>à</b></td><td>bas</td><td>plat, en bas</td><td><span class=\"lo\">ຂ່າ</span> <span class=\"rom\">khàa</span> · galanga</td></tr>\n<tr><td><b>â</b></td><td>haut descendant</td><td>part haut, chute</td><td><span class=\"lo\">ຂ້າ</span> <span class=\"rom\">khâa</span> · tuer</td></tr>\n<tr><td><b>ȁ</b></td><td>bas descendant</td><td>part du milieu, descend</td><td><span class=\"lo\">ຄ້າ</span> <span class=\"rom\">khȁa</span> · commerce</td></tr></table></div><p class=\"note warn\">Les descriptions des tons varient d'un manuel à l'autre. <b>Ce que ta mère prononce fait foi.</b></p>"
+  },
+  {
+   "title": "Pré-test",
+   "html": "<p>Pas encore de révision. À la place : écris à Claude <b>5 mots ou phrases lao que tu entends à la maison</b>, même déformés, même sans savoir ce qu'ils veulent dire. Ils seront intégrés aux prochaines leçons.</p>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Saluer ta mère, répondre à « t'as mangé ? » et la remercier, en lao, avec les bons tons.</p>"
+  },
+  {
+   "title": "Input",
+   "html": "<p class=\"muted\">Tu arrives chez ta mère.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ມາໂນ</span><div><span class=\"lo\">ສະບາຍດີແມ່!</span><span class=\"rom\">sa-bǎay-dǐi mɛ̄ɛ!</span></div></div><div class=\"line\"><span class=\"who\">ແມ່</span><div><span class=\"lo\">ສະບາຍດີລູກ! ສະບາຍດີບໍ?</span><span class=\"rom\">sa-bǎay-dǐi lûuk! sa-bǎay-dǐi bɔ̌?</span></div></div><div class=\"line\"><span class=\"who\">ມາໂນ</span><div><span class=\"lo\">ສະບາຍດີ. ແມ່ເດ?</span><span class=\"rom\">sa-bǎay-dǐi. mɛ̄ɛ dě?</span></div></div><div class=\"line\"><span class=\"who\">ແມ່</span><div><span class=\"lo\">ສະບາຍດີ. ກິນເຂົ້າແລ້ວບໍ?</span><span class=\"rom\">sa-bǎay-dǐi. kǐn khâo lɛ̏ɛw bɔ̌?</span></div></div><div class=\"line\"><span class=\"who\">ມາໂນ</span><div><span class=\"lo\">ກິນແລ້ວ. ຂອບໃຈ.</span><span class=\"rom\">kǐn lɛ̏ɛw. khɔ̀ɔp-jǎy.</span></div></div><div class=\"line\"><span class=\"who\">ແມ່</span><div><span class=\"lo\">ແມ່ນບໍ?</span><span class=\"rom\">mɛ̄ɛn bɔ̌?</span></div></div><div class=\"line\"><span class=\"who\">ມາໂນ</span><div><span class=\"lo\">ເຈົ້າ, ແມ່ນ.</span><span class=\"rom\">jâo, mɛ̄ɛn.</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p>— Salut maman !<br>— Salut ma fille ! Ça va ?<br>— Ça va. Et toi, maman ?<br>— Ça va. T'as mangé ?<br>— Oui, j'ai mangé. Merci.<br>— C'est vrai ?<br>— Oui, c'est vrai.</p></details>"
+  },
+  {
+   "title": "CE",
+   "html": "<ol><li>Quelle question pratique ta mère pose-t-elle après « ça va » ?</li><li>Quel mot sert à dire « et toi ? » ?</li><li>Quel petit mot à la fin transforme une phrase en question ?</li></ol>"
+  },
+  {
+   "title": "Vocabulaire et chunks",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Ton(s)</th><th>Sens</th><th>En contexte</th></tr><tr><td class=\"lo\">ສະບາຍດີ</td><td class=\"rom\">sa-bǎay-dǐi</td><td>? – montant – montant</td><td>bonjour ; ça va (bien)</td><td>salutation et réponse</td></tr><tr><td class=\"lo\">ສະບາຍດີບໍ?</td><td class=\"rom\">sa-bǎay-dǐi bɔ̌?</td><td>… + montant</td><td>ça va ?</td><td></td></tr><tr><td class=\"lo\">ແມ່</td><td class=\"rom\">mɛ̄ɛ</td><td>moyen</td><td>maman, mère</td><td><span class='lo'>ແມ່ເດ?</span></td></tr><tr><td class=\"lo\">ລູກ</td><td class=\"rom\">lûuk</td><td>haut descendant</td><td>enfant (ma fille, mon fils)</td><td>comment un parent appelle son enfant</td></tr><tr><td class=\"lo\">…ເດ?</td><td class=\"rom\">dě</td><td>montant</td><td>et… ?</td><td><span class='lo'>ແມ່ເດ?</span> = et toi, maman ?</td></tr><tr><td class=\"lo\">ກິນເຂົ້າແລ້ວບໍ?</td><td class=\"rom\">kǐn khâo lɛ̏ɛw bɔ̌?</td><td>montant – haut desc. – bas desc. – montant</td><td>t'as mangé ? (litt. « manger riz déjà ? »)</td><td><b>la</b> salutation familiale</td></tr><tr><td class=\"lo\">ກິນແລ້ວ</td><td class=\"rom\">kǐn lɛ̏ɛw</td><td>montant – bas desc.</td><td>j'ai mangé</td><td>réponse standard</td></tr><tr><td class=\"lo\">ຂອບໃຈ</td><td class=\"rom\">khɔ̀ɔp-jǎy</td><td>bas – montant</td><td>merci</td><td></td></tr><tr><td class=\"lo\">ຂອບໃຈຫຼາຍໆ</td><td class=\"rom\">khɔ̀ɔp-jǎy lǎay-lǎay</td><td>… + montant – montant</td><td>merci beaucoup</td><td><span class='lo'>ໆ</span> = « répéter le mot »</td></tr><tr><td class=\"lo\">ບໍ່ເປັນຫຍັງ</td><td class=\"rom\">bɔ̀ pěn-nyǎng</td><td>bas – montant – montant</td><td>pas grave ; de rien</td><td></td></tr><tr><td class=\"lo\">ແມ່ນ</td><td class=\"rom\">mɛ̄ɛn</td><td>moyen</td><td>c'est ça, oui</td><td>neutre ou familier</td></tr><tr><td class=\"lo\">ເຈົ້າ</td><td class=\"rom\">jâo</td><td>haut descendant</td><td>oui (poli)</td><td>à un aîné, à ta mère pour montrer du respect</td></tr></table></div><p class=\"note warn\"><b>[À VÉRIFIER avec ta mère]</b> : le ton de <i>sa</i> (syllabe courte et légère, on y reviendra avec l'écriture), de <i>lûuk</i> et de <i>khɔ̀ɔp</i>.</p>\n<p><b>Familier ou poli ?</b></p><ul><li>Entre proches, on salue rarement avec <span class=\"lo\">ສະບາຍດີ</span>. On pose une question pratique : <i>t'as mangé ?</i>, ou <span class=\"lo\">ໄປໃສ?</span> <span class=\"rom\">pǎy sǎy?</span> (« tu vas où ? »). Réponds vaguement, ce n'est pas un interrogatoire.</li>\n<li>Avec des aînés hors du foyer (tantes, amies de ta mère), on dit <span class=\"lo\">ສະບາຍດີ</span> en joignant les mains (<span class=\"lo\">ນົບ</span> <span class=\"rom\">nóp</span> [ton À VÉRIFIER]).</li>\n<li><span class=\"lo\">ເຈົ້າ</span> est un « oui » respectueux. <span class=\"lo\">ແມ່ນ</span> est plus neutre.</li></ul>"
+  },
+  {
+   "title": "Point de langue",
+   "html": "<p>Compare :</p><ul><li><span class=\"lo\">ກິນແລ້ວ</span> <span class=\"rom\">kǐn lɛ̏ɛw</span> = j'ai mangé</li><li><span class=\"lo\">ກິນແລ້ວບໍ?</span> <span class=\"rom\">kǐn lɛ̏ɛw bɔ̌?</span> = t'as mangé ?</li><li><span class=\"lo\">ສະບາຍດີບໍ?</span> = ça va ?</li><li><span class=\"lo\">ບໍ່ເປັນຫຍັງ</span> <span class=\"rom\">bɔ̀ pěn-nyǎng</span> = pas grave (litt. « ne pas être quelque chose »)</li></ul>\n<ol><li>Où se place <i>bɔ̌</i> quand on pose une question ?</li><li><i>bɔ̌</i> et <i>bɔ̀</i> sont les mêmes sons. Qu'est-ce qui les distingue, et que veut dire <i>bɔ̀</i> ?</li></ol><p class=\"muted\">Réponds à Claude, il confirme ou corrige.</p>"
+  },
+  {
+   "title": "CO",
+   "html": "<p><b>A. Dans l'onglet <b>Écouter</b> (15 min).</b> Quatre exercices, le texte caché :</p><ol><li><b>Quel ton ?</b> : les 6 <i>khaa</i> dans le désordre. Vise 10/12.</li><li><b>Question ou négation ?</b> : repère <i>bɔ̌</i> et <i>bɔ̀</i> à l'oreille.</li><li><b>Qu'est-ce que ça veut dire ?</b> : le vocabulaire sans le voir.</li><li><b>Le dialogue, à l'oreille</b> : réplique par réplique, puis d'une traite.</li></ol><p class=\"note\">Ce que tu écoutes : seulement la mélodie. Monte, descend ou plat ? Part du haut ou du bas ? La voix est une synthèse naturelle, mais elle peut se tromper sur un ton : ta mère fait foi.</p>\n<p><b>B. Avec ta mère (10 min).</b></p><ol><li><b>Enregistre-la</b> : elle lit les 6 mots <i>khaa</i> puis les 12 chunks. Dans l'onglet <b>Parler</b>, compare aussi ta courbe à la sienne : enregistre-la avec le bouton « Voix de maman ».</li><li><b>Test d'oreille</b> : elle dit 10 fois un mot <i>khaa</i> au hasard, tu notes le ton. Envoie ton score à Claude et compare avec ton score sur la synthèse.</li></ol>"
+  },
+  {
+   "title": "EO",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Maman, ça va ?</li><li>Maman, t'as mangé ?</li><li>Je ne vais pas bien. (indice : la négation + « bien »)</li><li>Merci beaucoup, maman.</li><li>C'est ça ?</li><li>Pas grave.</li></ol>\n<details><summary>Corrigé</summary><ol><li><span class=\"lo\">ແມ່ສະບາຍດີບໍ?</span> <span class=\"rom\">mɛ̄ɛ sa-bǎay-dǐi bɔ̌?</span></li><li><span class=\"lo\">ແມ່ກິນເຂົ້າແລ້ວບໍ?</span> <span class=\"rom\">mɛ̄ɛ kǐn khâo lɛ̏ɛw bɔ̌?</span></li><li><span class=\"lo\">ບໍ່ສະບາຍ</span> <span class=\"rom\">bɔ̀ sa-bǎay</span> (« être malade, pas en forme »)</li><li><span class=\"lo\">ຂອບໃຈຫຼາຍໆແມ່</span> <span class=\"rom\">khɔ̀ɔp-jǎy lǎay-lǎay mɛ̄ɛ</span></li><li><span class=\"lo\">ແມ່ນບໍ?</span> <span class=\"rom\">mɛ̄ɛn bɔ̌?</span></li><li><span class=\"lo\">ບໍ່ເປັນຫຍັງ</span> <span class=\"rom\">bɔ̀ pěn-nyǎng</span></li></ol></details>\n<p><b>B. Shadowing (5 min).</b> Passe l'enregistrement de ta mère et répète en même temps qu'elle, pas après. Exagère les mélodies.</p>\n<p><b>C. Jeu de rôle.</b> Claude joue ta mère. Réponds-lui dans le chat, en romanisation :</p><div class=\"line\"><span class=\"who\">ແມ່</span><div><span class=\"lo\">ສະບາຍດີລູກ! ກິນເຂົ້າແລ້ວບໍ?</span><span class=\"rom\">sa-bǎay-dǐi lûuk! kǐn khâo lɛ̏ɛw bɔ̌?</span></div></div>"
+  },
+  {
+   "title": "EE",
+   "html": "<ol><li>Écris de mémoire, avec les signes de ton : <i>merci</i>, <i>maman</i>, <i>pas grave</i>, <i>t'as mangé ?</i>, <i>oui (poli)</i>.</li><li>Écris un mini-échange de 4 répliques entre toi et ta mère, différent du dialogue.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p><b>En vrai, avec ta mère</b> : salue-la, demande-lui comment elle va, réponds à « t'as mangé ? » et remercie-la, en lao. Puis demande-lui de valider les tons marqués [À VÉRIFIER] et raconte à Claude ce qu'elle a dit.</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l01-01",
+   "front": "ສະບາຍດີ",
+   "back": "sa-bǎay-dǐi — bonjour / ça va"
+  },
+  {
+   "id": "l01-02",
+   "front": "ສະບາຍດີບໍ?",
+   "back": "sa-bǎay-dǐi bɔ̌? — ça va ?"
+  },
+  {
+   "id": "l01-03",
+   "front": "ແມ່",
+   "back": "mɛ̄ɛ (moyen) — maman"
+  },
+  {
+   "id": "l01-04",
+   "front": "ລູກ",
+   "back": "lûuk (haut desc.) — enfant (parent → enfant)"
+  },
+  {
+   "id": "l01-05",
+   "front": "ແມ່ເດ?",
+   "back": "mɛ̄ɛ dě? — et toi, maman ?"
+  },
+  {
+   "id": "l01-06",
+   "front": "ກິນເຂົ້າແລ້ວບໍ?",
+   "back": "kǐn khâo lɛ̏ɛw bɔ̌? — t'as mangé ? (salutation familiale)"
+  },
+  {
+   "id": "l01-07",
+   "front": "ກິນແລ້ວ",
+   "back": "kǐn lɛ̏ɛw — j'ai mangé"
+  },
+  {
+   "id": "l01-08",
+   "front": "ຂອບໃຈ",
+   "back": "khɔ̀ɔp-jǎy — merci"
+  },
+  {
+   "id": "l01-09",
+   "front": "ຂອບໃຈຫຼາຍໆ",
+   "back": "khɔ̀ɔp-jǎy lǎay-lǎay — merci beaucoup"
+  },
+  {
+   "id": "l01-10",
+   "front": "ບໍ່ເປັນຫຍັງ",
+   "back": "bɔ̀ pěn-nyǎng — pas grave / de rien"
+  },
+  {
+   "id": "l01-11",
+   "front": "ແມ່ນ",
+   "back": "mɛ̄ɛn (moyen) — c'est ça, oui"
+  },
+  {
+   "id": "l01-12",
+   "front": "ເຈົ້າ",
+   "back": "jâo (haut desc.) — oui (poli)"
+  },
+  {
+   "id": "l01-13",
+   "front": "ບໍ່ສະບາຍ",
+   "back": "bɔ̀ sa-bǎay — pas en forme / malade"
+  },
+  {
+   "id": "l01-14",
+   "front": "bɔ̌ vs bɔ̀",
+   "back": "question en fin de phrase (montant) vs négation devant le verbe (bas)"
+  },
+  {
+   "id": "l01-15",
+   "front": "ຂາ ຄາ ຄ່າ ຂ່າ ຂ້າ ຄ້າ",
+   "back": "khǎa kháa khāa khàa khâa khȁa — les 6 tons"
+  }
+ ],
+ "suivi": "LEÇON : 1 — Phase 0 (sons et tons)\nPROFIL : apprenante d'héritage (mère locutrice), objectif C1, registre familier ET soutenu, 30-60 min/jour\nROMANISATION : système maison (voyelles doublées = longues ; ǎ á ā à â ȁ = montant, haut, moyen, bas, haut desc., bas desc. ; ɛ ɔ ny ng j)\nACQUIS : 6 tons (paires khaa) ; question fermée avec bɔ̌ ; négation bɔ̀\nVOCAB : sabaay dii, sabaay dii bɔ̌, mɛ̄ɛ, lûuk, dě, kǐn khâo lɛ̏ɛw bɔ̌, kǐn lɛ̏ɛw, khɔ̀ɔp jǎy (lǎay lǎay), bɔ̀ pěn nyǎng, mɛ̄ɛn, jâo, bɔ̀ sabaay\nTONS À VALIDER PAR MAMAN : sa, lûuk, khɔ̀ɔp, nóp\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 2 — voyelles courtes/longues + consonnes aspirées/non aspirées ; se présenter (prénom)",
+ "listening": [
+  {
+   "title": "Quel ton ?",
+   "subtitle": "Les 6 khaa, dans le désordre",
+   "instructions": "Tu entends une syllabe khaa. Écoute seulement la mélodie : ça monte, ça descend ou c'est plat ? Ça part du haut ou du bas ?",
+   "questions": [
+    {
+     "audio": [
+      "ຂາ"
+     ],
+     "prompt": "Quel ton entends-tu ?",
+     "options": [
+      "Montant",
+      "Haut",
+      "Moyen",
+      "Bas",
+      "Haut descendant",
+      "Bas descendant"
+     ],
+     "fixed": true,
+     "answer": "Montant",
+     "reveal": "<i>khǎa</i> · ton montant · jambe"
+    },
+    {
+     "audio": [
+      "ຄາ"
+     ],
+     "prompt": "Quel ton entends-tu ?",
+     "options": [
+      "Montant",
+      "Haut",
+      "Moyen",
+      "Bas",
+      "Haut descendant",
+      "Bas descendant"
+     ],
+     "fixed": true,
+     "answer": "Haut",
+     "reveal": "<i>kháa</i> · ton haut · coincé"
+    },
+    {
+     "audio": [
+      "ຄ່າ"
+     ],
+     "prompt": "Quel ton entends-tu ?",
+     "options": [
+      "Montant",
+      "Haut",
+      "Moyen",
+      "Bas",
+      "Haut descendant",
+      "Bas descendant"
+     ],
+     "fixed": true,
+     "answer": "Moyen",
+     "reveal": "<i>khāa</i> · ton moyen · prix, valeur"
+    },
+    {
+     "audio": [
+      "ຂ່າ"
+     ],
+     "prompt": "Quel ton entends-tu ?",
+     "options": [
+      "Montant",
+      "Haut",
+      "Moyen",
+      "Bas",
+      "Haut descendant",
+      "Bas descendant"
+     ],
+     "fixed": true,
+     "answer": "Bas",
+     "reveal": "<i>khàa</i> · ton bas · galanga"
+    },
+    {
+     "audio": [
+      "ຂ້າ"
+     ],
+     "prompt": "Quel ton entends-tu ?",
+     "options": [
+      "Montant",
+      "Haut",
+      "Moyen",
+      "Bas",
+      "Haut descendant",
+      "Bas descendant"
+     ],
+     "fixed": true,
+     "answer": "Haut descendant",
+     "reveal": "<i>khâa</i> · ton haut descendant · tuer"
+    },
+    {
+     "audio": [
+      "ຄ້າ"
+     ],
+     "prompt": "Quel ton entends-tu ?",
+     "options": [
+      "Montant",
+      "Haut",
+      "Moyen",
+      "Bas",
+      "Haut descendant",
+      "Bas descendant"
+     ],
+     "fixed": true,
+     "answer": "Bas descendant",
+     "reveal": "<i>khȁa</i> · ton bas descendant · commerce"
+    },
+    {
+     "audio": [
+      "ຂາ"
+     ],
+     "prompt": "Quel ton entends-tu ?",
+     "options": [
+      "Montant",
+      "Haut",
+      "Moyen",
+      "Bas",
+      "Haut descendant",
+      "Bas descendant"
+     ],
+     "fixed": true,
+     "answer": "Montant",
+     "reveal": "<i>khǎa</i> · ton montant · jambe"
+    },
+    {
+     "audio": [
+      "ຄາ"
+     ],
+     "prompt": "Quel ton entends-tu ?",
+     "options": [
+      "Montant",
+      "Haut",
+      "Moyen",
+      "Bas",
+      "Haut descendant",
+      "Bas descendant"
+     ],
+     "fixed": true,
+     "answer": "Haut",
+     "reveal": "<i>kháa</i> · ton haut · coincé"
+    },
+    {
+     "audio": [
+      "ຄ່າ"
+     ],
+     "prompt": "Quel ton entends-tu ?",
+     "options": [
+      "Montant",
+      "Haut",
+      "Moyen",
+      "Bas",
+      "Haut descendant",
+      "Bas descendant"
+     ],
+     "fixed": true,
+     "answer": "Moyen",
+     "reveal": "<i>khāa</i> · ton moyen · prix, valeur"
+    },
+    {
+     "audio": [
+      "ຂ່າ"
+     ],
+     "prompt": "Quel ton entends-tu ?",
+     "options": [
+      "Montant",
+      "Haut",
+      "Moyen",
+      "Bas",
+      "Haut descendant",
+      "Bas descendant"
+     ],
+     "fixed": true,
+     "answer": "Bas",
+     "reveal": "<i>khàa</i> · ton bas · galanga"
+    },
+    {
+     "audio": [
+      "ຂ້າ"
+     ],
+     "prompt": "Quel ton entends-tu ?",
+     "options": [
+      "Montant",
+      "Haut",
+      "Moyen",
+      "Bas",
+      "Haut descendant",
+      "Bas descendant"
+     ],
+     "fixed": true,
+     "answer": "Haut descendant",
+     "reveal": "<i>khâa</i> · ton haut descendant · tuer"
+    },
+    {
+     "audio": [
+      "ຄ້າ"
+     ],
+     "prompt": "Quel ton entends-tu ?",
+     "options": [
+      "Montant",
+      "Haut",
+      "Moyen",
+      "Bas",
+      "Haut descendant",
+      "Bas descendant"
+     ],
+     "fixed": true,
+     "answer": "Bas descendant",
+     "reveal": "<i>khȁa</i> · ton bas descendant · commerce"
+    }
+   ]
+  },
+  {
+   "title": "Question ou négation ?",
+   "subtitle": "Repère bɔ̌ et bɔ̀ à l'oreille",
+   "instructions": "Même son « bɔ », deux tons, deux rôles. Écoute où il tombe dans la phrase et quelle mélodie il a.",
+   "questions": [
+    {
+     "audio": [
+      "ກິນແລ້ວ"
+     ],
+     "prompt": "Cette phrase est…",
+     "options": [
+      "Question",
+      "Négation",
+      "Ni l'un ni l'autre"
+     ],
+     "fixed": true,
+     "answer": "Ni l'un ni l'autre",
+     "reveal": "<i>kǐn lɛ̏ɛw</i> · j'ai mangé"
+    },
+    {
+     "audio": [
+      "ກິນແລ້ວບໍ"
+     ],
+     "prompt": "Cette phrase est…",
+     "options": [
+      "Question",
+      "Négation",
+      "Ni l'un ni l'autre"
+     ],
+     "fixed": true,
+     "answer": "Question",
+     "reveal": "<i>kǐn lɛ̏ɛw bɔ̌</i> · t'as mangé ? · <b>bɔ̌</b> montant en fin de phrase = question"
+    },
+    {
+     "audio": [
+      "ແມ່ນ"
+     ],
+     "prompt": "Cette phrase est…",
+     "options": [
+      "Question",
+      "Négation",
+      "Ni l'un ni l'autre"
+     ],
+     "fixed": true,
+     "answer": "Ni l'un ni l'autre",
+     "reveal": "<i>mɛ̄ɛn</i> · c'est ça"
+    },
+    {
+     "audio": [
+      "ແມ່ນບໍ"
+     ],
+     "prompt": "Cette phrase est…",
+     "options": [
+      "Question",
+      "Négation",
+      "Ni l'un ni l'autre"
+     ],
+     "fixed": true,
+     "answer": "Question",
+     "reveal": "<i>mɛ̄ɛn bɔ̌</i> · c'est vrai ? · <b>bɔ̌</b> montant en fin de phrase = question"
+    },
+    {
+     "audio": [
+      "ສະບາຍດີບໍ"
+     ],
+     "prompt": "Cette phrase est…",
+     "options": [
+      "Question",
+      "Négation",
+      "Ni l'un ni l'autre"
+     ],
+     "fixed": true,
+     "answer": "Question",
+     "reveal": "<i>sa-bǎay-dǐi bɔ̌</i> · ça va ? · <b>bɔ̌</b> montant en fin de phrase = question"
+    },
+    {
+     "audio": [
+      "ບໍ່ສະບາຍ"
+     ],
+     "prompt": "Cette phrase est…",
+     "options": [
+      "Question",
+      "Négation",
+      "Ni l'un ni l'autre"
+     ],
+     "fixed": true,
+     "answer": "Négation",
+     "reveal": "<i>bɔ̀ sa-bǎay</i> · pas en forme · <b>bɔ̀</b> bas devant le verbe = négation"
+    },
+    {
+     "audio": [
+      "ບໍ່ເປັນຫຍັງ"
+     ],
+     "prompt": "Cette phrase est…",
+     "options": [
+      "Question",
+      "Négation",
+      "Ni l'un ni l'autre"
+     ],
+     "fixed": true,
+     "answer": "Négation",
+     "reveal": "<i>bɔ̀ pěn-nyǎng</i> · pas grave · <b>bɔ̀</b> bas devant le verbe = négation"
+    },
+    {
+     "audio": [
+      "ແມ່ສະບາຍດີບໍ"
+     ],
+     "prompt": "Cette phrase est…",
+     "options": [
+      "Question",
+      "Négation",
+      "Ni l'un ni l'autre"
+     ],
+     "fixed": true,
+     "answer": "Question",
+     "reveal": "<i>mɛ̄ɛ sa-bǎay-dǐi bɔ̌</i> · maman, ça va ? · <b>bɔ̌</b> montant en fin de phrase = question"
+    },
+    {
+     "audio": [
+      "ແມ່ບໍ່ສະບາຍ"
+     ],
+     "prompt": "Cette phrase est…",
+     "options": [
+      "Question",
+      "Négation",
+      "Ni l'un ni l'autre"
+     ],
+     "fixed": true,
+     "answer": "Négation",
+     "reveal": "<i>mɛ̄ɛ bɔ̀ sa-bǎay</i> · maman n'est pas en forme · <b>bɔ̀</b> bas devant le verbe = négation"
+    },
+    {
+     "audio": [
+      "ສະບາຍດີ"
+     ],
+     "prompt": "Cette phrase est…",
+     "options": [
+      "Question",
+      "Négation",
+      "Ni l'un ni l'autre"
+     ],
+     "fixed": true,
+     "answer": "Ni l'un ni l'autre",
+     "reveal": "<i>sa-bǎay-dǐi</i> · ça va / bonjour"
+    }
+   ]
+  },
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un chunk de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ແມ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "maman",
+      "merci beaucoup",
+      "j'ai mangé",
+      "merci"
+     ],
+     "answer": "maman",
+     "reveal": "<i>mɛ̄ɛ</i>"
+    },
+    {
+     "audio": [
+      "ລູກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mon enfant (ma fille)",
+      "merci",
+      "pas grave, de rien",
+      "oui (poli)"
+     ],
+     "answer": "mon enfant (ma fille)",
+     "reveal": "<i>lûuk</i>"
+    },
+    {
+     "audio": [
+      "ຂອບໃຈ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "merci",
+      "j'ai mangé",
+      "c'est ça",
+      "pas grave, de rien"
+     ],
+     "answer": "merci",
+     "reveal": "<i>khɔ̀ɔp-jǎy</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ເປັນຫຍັງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pas grave, de rien",
+      "c'est ça",
+      "merci",
+      "j'ai mangé"
+     ],
+     "answer": "pas grave, de rien",
+     "reveal": "<i>bɔ̀ pěn-nyǎng</i>"
+    },
+    {
+     "audio": [
+      "ກິນແລ້ວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "j'ai mangé",
+      "pas grave, de rien",
+      "c'est ça",
+      "maman"
+     ],
+     "answer": "j'ai mangé",
+     "reveal": "<i>kǐn lɛ̏ɛw</i>"
+    },
+    {
+     "audio": [
+      "ເຈົ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "oui (poli)",
+      "pas en forme",
+      "merci",
+      "pas grave, de rien"
+     ],
+     "answer": "oui (poli)",
+     "reveal": "<i>jâo</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "c'est ça",
+      "pas grave, de rien",
+      "maman",
+      "pas en forme"
+     ],
+     "answer": "c'est ça",
+     "reveal": "<i>mɛ̄ɛn</i>"
+    },
+    {
+     "audio": [
+      "ສະບາຍດີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "bonjour, ça va",
+      "pas en forme",
+      "maman",
+      "merci beaucoup"
+     ],
+     "answer": "bonjour, ça va",
+     "reveal": "<i>sa-bǎay-dǐi</i>"
+    },
+    {
+     "audio": [
+      "ກິນເຂົ້າແລ້ວບໍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "t'as mangé ?",
+      "oui (poli)",
+      "maman",
+      "j'ai mangé"
+     ],
+     "answer": "t'as mangé ?",
+     "reveal": "<i>kǐn khâo lɛ̏ɛw bɔ̌</i>"
+    },
+    {
+     "audio": [
+      "ຂອບໃຈຫຼາຍໆ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "merci beaucoup",
+      "maman",
+      "pas en forme",
+      "j'ai mangé"
+     ],
+     "answer": "merci beaucoup",
+     "reveal": "<i>khɔ̀ɔp-jǎy lǎay-lǎay</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ສະບາຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pas en forme",
+      "c'est ça",
+      "t'as mangé ?",
+      "merci"
+     ],
+     "answer": "pas en forme",
+     "reveal": "<i>bɔ̀ sa-bǎay</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique, sans le texte",
+   "shuffle": false,
+   "instructions": "Tu entends les répliques du dialogue « Tu arrives chez ta mère », une par une. Essaie de comprendre sans regarder la leçon.",
+   "questions": [
+    {
+     "audio": [
+      "ສະບາຍດີລູກ! ສະບາຍດີບໍ?"
+     ],
+     "prompt": "Comment maman appelle-t-elle Mano ?",
+     "options": [
+      "mon enfant (ma fille)",
+      "maman",
+      "grande sœur",
+      "madame"
+     ],
+     "answer": "mon enfant (ma fille)",
+     "reveal": "<i>sa-bǎay-dǐi lûuk! sa-bǎay-dǐi bɔ̌?</i> · Salut ma fille ! Ça va ?"
+    },
+    {
+     "audio": [
+      "ສະບາຍດີ. ແມ່ເດ?"
+     ],
+     "prompt": "Mano renvoie la question. Quel petit mot veut dire « et toi ? » ?",
+     "options": [
+      "dě",
+      "bɔ̌",
+      "lûuk",
+      "jâo"
+     ],
+     "fixed": true,
+     "answer": "dě",
+     "reveal": "<i>sa-bǎay-dǐi. mɛ̄ɛ dě?</i> · Ça va. Et toi, maman ?"
+    },
+    {
+     "audio": [
+      "ສະບາຍດີ. ກິນເຂົ້າແລ້ວບໍ?"
+     ],
+     "prompt": "Que demande maman ?",
+     "options": [
+      "si tu as mangé",
+      "où tu vas",
+      "si tu es malade",
+      "si c'est vrai"
+     ],
+     "answer": "si tu as mangé",
+     "reveal": "<i>sa-bǎay-dǐi. kǐn khâo lɛ̏ɛw bɔ̌?</i> · Ça va. T'as mangé ?"
+    },
+    {
+     "audio": [
+      "ກິນແລ້ວ. ຂອບໃຈ."
+     ],
+     "prompt": "Que répond Mano ?",
+     "options": [
+      "j'ai mangé, merci",
+      "pas encore",
+      "pas grave",
+      "merci beaucoup"
+     ],
+     "answer": "j'ai mangé, merci",
+     "reveal": "<i>kǐn lɛ̏ɛw. khɔ̀ɔp-jǎy.</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນບໍ?"
+     ],
+     "prompt": "Maman demande…",
+     "options": [
+      "c'est vrai ?",
+      "ça va ?",
+      "et toi ?",
+      "t'as mangé ?"
+     ],
+     "answer": "c'est vrai ?",
+     "reveal": "<i>mɛ̄ɛn bɔ̌?</i>"
+    },
+    {
+     "audio": [
+      "ເຈົ້າ, ແມ່ນ."
+     ],
+     "prompt": "Le premier mot sert à…",
+     "options": [
+      "dire oui poliment",
+      "dire non",
+      "appeler maman",
+      "dire merci"
+     ],
+     "answer": "dire oui poliment",
+     "reveal": "<i>jâo, mɛ̄ɛn.</i> · Oui, c'est vrai. <b>jâo</b> = oui respectueux, pour un aîné."
+    },
+    {
+     "audio": [
+      "ສະບາຍດີແມ່!",
+      "ສະບາຍດີລູກ! ສະບາຍດີບໍ?",
+      "ສະບາຍດີ. ແມ່ເດ?",
+      "ສະບາຍດີ. ກິນເຂົ້າແລ້ວບໍ?",
+      "ກິນແລ້ວ. ຂອບໃຈ.",
+      "ແມ່ນບໍ?",
+      "ເຈົ້າ, ແມ່ນ."
+     ],
+     "prompt": "Écoute tout le dialogue d'une traite. Combien de fois entends-tu sa-bǎay-dǐi ?",
+     "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+     ],
+     "fixed": true,
+     "answer": "5",
+     "reveal": "5 fois : dans les répliques 1, 2 (deux fois), 3 et 4."
+    }
+   ]
+  }
+ ],
+ "id": "l01",
+ "speak": [
+  {
+   "lao": "ຂາ",
+   "rom": "khǎa",
+   "fr": "jambe",
+   "tone": "montant",
+   "kind": "tone"
+  },
+  {
+   "lao": "ຄາ",
+   "rom": "kháa",
+   "fr": "coincé",
+   "tone": "haut",
+   "kind": "tone"
+  },
+  {
+   "lao": "ຄ່າ",
+   "rom": "khāa",
+   "fr": "prix, valeur",
+   "tone": "moyen",
+   "kind": "tone"
+  },
+  {
+   "lao": "ຂ່າ",
+   "rom": "khàa",
+   "fr": "galanga",
+   "tone": "bas",
+   "kind": "tone"
+  },
+  {
+   "lao": "ຂ້າ",
+   "rom": "khâa",
+   "fr": "tuer",
+   "tone": "haut descendant",
+   "kind": "tone"
+  },
+  {
+   "lao": "ຄ້າ",
+   "rom": "khȁa",
+   "fr": "commerce",
+   "tone": "bas descendant",
+   "kind": "tone"
+  },
+  {
+   "lao": "ສະບາຍດີ",
+   "rom": "sa-bǎay-dǐi",
+   "fr": "bonjour, ça va",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແມ່",
+   "rom": "mɛ̄ɛ",
+   "fr": "maman",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລູກ",
+   "rom": "lûuk",
+   "fr": "mon enfant",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂອບໃຈ",
+   "rom": "khɔ̀ɔp-jǎy",
+   "fr": "merci",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ເປັນຫຍັງ",
+   "rom": "bɔ̀ pěn-nyǎng",
+   "fr": "pas grave",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຈົ້າ",
+   "rom": "jâo",
+   "fr": "oui (poli)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກິນເຂົ້າແລ້ວບໍ",
+   "rom": "kǐn khâo lɛ̏ɛw bɔ̌",
+   "fr": "t'as mangé ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກິນແລ້ວ ຂອບໃຈ",
+   "rom": "kǐn lɛ̏ɛw, khɔ̀ɔp-jǎy",
+   "fr": "j'ai mangé, merci",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແມ່ສະບາຍດີບໍ",
+   "rom": "mɛ̄ɛ sa-bǎay-dǐi bɔ̌",
+   "fr": "maman, ça va ?",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ແມ່",
+    "ສະບາຍດີ",
+    "ບໍ"
+   ],
+   "rom": "mɛ̄ɛ sa-bǎay-dǐi bɔ̌",
+   "fr": "Maman, ça va ?"
+  },
+  {
+   "tokens": [
+    "ກິນ",
+    "ເຂົ້າ",
+    "ແລ້ວ",
+    "ບໍ"
+   ],
+   "rom": "kǐn khâo lɛ̏ɛw bɔ̌",
+   "fr": "T'as mangé ?"
+  },
+  {
+   "tokens": [
+    "ກິນ",
+    "ແລ້ວ"
+   ],
+   "rom": "kǐn lɛ̏ɛw",
+   "fr": "J'ai mangé."
+  },
+  {
+   "tokens": [
+    "ຂອບໃຈ",
+    "ຫຼາຍໆ",
+    "ແມ່"
+   ],
+   "rom": "khɔ̀ɔp-jǎy lǎay-lǎay mɛ̄ɛ",
+   "fr": "Merci beaucoup, maman."
+  },
+  {
+   "tokens": [
+    "ບໍ່",
+    "ເປັນ",
+    "ຫຍັງ"
+   ],
+   "rom": "bɔ̀ pěn-nyǎng",
+   "fr": "Pas grave."
+  },
+  {
+   "tokens": [
+    "ແມ່",
+    "ບໍ່",
+    "ສະບາຍ"
+   ],
+   "rom": "mɛ̄ɛ bɔ̀ sa-bǎay",
+   "fr": "Maman n'est pas en forme."
+  },
+  {
+   "tokens": [
+    "ສະບາຍດີ",
+    "ລູກ"
+   ],
+   "rom": "sa-bǎay-dǐi lûuk",
+   "fr": "Salut ma fille !"
+  },
+  {
+   "tokens": [
+    "ແມ່ນ",
+    "ບໍ"
+   ],
+   "rom": "mɛ̄ɛn bɔ̌",
+   "fr": "C'est vrai ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຂອບໃຈ",
+   "rom": "khɔ̀ɔp-jǎy",
+   "fr": "merci"
+  },
+  {
+   "lao": "ແມ່",
+   "rom": "mɛ̄ɛ",
+   "fr": "maman"
+  },
+  {
+   "lao": "ບໍ່ເປັນຫຍັງ",
+   "rom": "bɔ̀ pěn-nyǎng",
+   "fr": "pas grave"
+  },
+  {
+   "lao": "ກິນເຂົ້າແລ້ວບໍ",
+   "rom": "kǐn khâo lɛ̏ɛw bɔ̌",
+   "fr": "t'as mangé ?"
+  },
+  {
+   "lao": "ເຈົ້າ",
+   "rom": "jâo",
+   "fr": "oui (poli)"
+  },
+  {
+   "lao": "ລູກ",
+   "rom": "lûuk",
+   "fr": "mon enfant"
+  },
+  {
+   "lao": "ສະບາຍດີບໍ",
+   "rom": "sa-bǎay-dǐi bɔ̌",
+   "fr": "ça va ?"
+  },
+  {
+   "lao": "ກິນແລ້ວ",
+   "rom": "kǐn lɛ̏ɛw",
+   "fr": "j'ai mangé"
+  }
+ ],
+ "sounds": {
+  "ຂາ": "khǎa",
+  "ຄາ": "kháa",
+  "ຄ່າ": "khāa",
+  "ຂ່າ": "khàa",
+  "ຂ້າ": "khâa",
+  "ຄ້າ": "khȁa",
+  "ຂາ ຄາ ຄ່າ ຂ່າ ຂ້າ ຄ້າ": "khǎa | kháa | khāa | khàa | khâa | khȁa",
+  "ສະບາຍດີ": "sa-bǎay-dǐi",
+  "ສະບາຍດີບໍ": "sa-bǎay-dǐi bɔ̌",
+  "ແມ່": "mɛ̄ɛ",
+  "ລູກ": "lûuk",
+  "ເດ": "dě",
+  "ແມ່ເດ": "mɛ̄ɛ dě",
+  "ກິນເຂົ້າແລ້ວບໍ": "kǐn khâo lɛ̏ɛw bɔ̌",
+  "ກິນແລ້ວ": "kǐn lɛ̏ɛw",
+  "ກິນແລ້ວບໍ": "kǐn lɛ̏ɛw bɔ̌",
+  "ຂອບໃຈ": "khɔ̀ɔp-jǎy",
+  "ຂອບໃຈຫຼາຍໆ": "khɔ̀ɔp-jǎy lǎay-lǎay",
+  "ຂອບໃຈຫຼາຍໆແມ່": "khɔ̀ɔp-jǎy lǎay-lǎay mɛ̄ɛ",
+  "ບໍ່ເປັນຫຍັງ": "bɔ̀ pěn-nyǎng",
+  "ແມ່ນ": "mɛ̄ɛn",
+  "ແມ່ນບໍ": "mɛ̄ɛn bɔ̌",
+  "ເຈົ້າ": "jâo",
+  "ເຈົ້າ ແມ່ນ": "jâo | mɛ̄ɛn",
+  "ບໍ່ສະບາຍ": "bɔ̀ sa-bǎay",
+  "ນົບ": "nóp",
+  "ໄປໃສ": "pǎy sǎy",
+  "ສະບາຍດີແມ່": "sa-bǎay-dǐi mɛ̄ɛ",
+  "ສະບາຍດີລູກ ສະບາຍດີບໍ": "sa-bǎay-dǐi lûuk | sa-bǎay-dǐi bɔ̌",
+  "ສະບາຍດີ ແມ່ເດ": "sa-bǎay-dǐi | mɛ̄ɛ dě",
+  "ສະບາຍດີ ກິນເຂົ້າແລ້ວບໍ": "sa-bǎay-dǐi | kǐn khâo lɛ̏ɛw bɔ̌",
+  "ກິນແລ້ວ ຂອບໃຈ": "kǐn lɛ̏ɛw | khɔ̀ɔp-jǎy",
+  "ສະບາຍດີລູກ ກິນເຂົ້າແລ້ວບໍ": "sa-bǎay-dǐi lûuk | kǐn khâo lɛ̏ɛw bɔ̌",
+  "ແມ່ສະບາຍດີບໍ": "mɛ̄ɛ sa-bǎay-dǐi bɔ̌",
+  "ແມ່ກິນເຂົ້າແລ້ວບໍ": "mɛ̄ɛ kǐn khâo lɛ̏ɛw bɔ̌",
+  "ແມ່ບໍ່ສະບາຍ": "mɛ̄ɛ bɔ̀ sa-bǎay",
+  "ສະບາຍດີລູກ": "sa-bǎay-dǐi lûuk"
+ }
+}

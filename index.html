@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Cahier de lao</title>
+<meta name="description" content="Apprendre le lao de Vientiane : leçons, écoute, tons au micro, écriture et révision.">
+<meta name="theme-color" content="#2b3a8c">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Lao">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@500;700&family=Noto+Sans:ital,wght@0,400;0,600;1,400&family=Noto+Sans+Lao+Looped:wght@400;600&display=swap">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand"><span class="mark" lang="lo">ພາສາລາວ</span><span class="brand-sub">Cahier de lao</span></div>
+  <div class="streak" id="streak" title="Jours d'affilée"><span class="flame" aria-hidden="true"></span><b id="streak-n">0</b></div>
+</header>
+
+<main class="wrap" id="main">
+  <section id="v-accueil" class="view"></section>
+  <section id="v-lecons" class="view" hidden></section>
+  <section id="v-reviser" class="view" hidden></section>
+  <section id="v-ecouter" class="view" hidden></section>
+  <section id="v-parler" class="view" hidden></section>
+  <section id="v-ecrire" class="view" hidden></section>
+</main>
+
+<nav class="tabbar" id="tabbar" aria-label="Sections">
+  <button data-v="accueil" aria-current="page"><svg viewBox="0 0 24 24"><path d="M4 11 12 4l8 7v9h-5v-6H9v6H4z"/></svg><span>Accueil</span></button>
+  <button data-v="lecons"><svg viewBox="0 0 24 24"><path d="M5 4h9a4 4 0 0 1 4 4v12H9a4 4 0 0 1-4-4z"/><path d="M9 8h5M9 12h5"/></svg><span>Leçons</span></button>
+  <button data-v="reviser"><svg viewBox="0 0 24 24"><rect x="4" y="6" width="13" height="14" rx="2"/><path d="M8 3h11a1 1 0 0 1 1 1v13"/></svg><span>Réviser</span><i class="dot" id="due-dot" hidden></i></button>
+  <button data-v="ecouter"><svg viewBox="0 0 24 24"><path d="M4 14v-2a8 8 0 0 1 16 0v2"/><rect x="3" y="14" width="5" height="6" rx="1.5"/><rect x="16" y="14" width="5" height="6" rx="1.5"/></svg><span>Écouter</span></button>
+  <button data-v="parler"><svg viewBox="0 0 24 24"><rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3"/></svg><span>Parler</span></button>
+  <button data-v="ecrire"><svg viewBox="0 0 24 24"><path d="m4 20 1-4L16 5l3 3L8 19z"/><path d="M14 7l3 3"/></svg><span>Écrire</span></button>
+</nav>
+
+<div class="toast" id="toast" role="status" hidden></div>
+<script src="js/app.js"></script>
+</body>
+</html>
