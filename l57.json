@@ -1,0 +1,535 @@
+{
+ "num": 57,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Voyager au Laos",
+ "objective": "Organiser un trajet : billet, horaires, hôtel.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>devoir, falloir <small class=\"muted\">(leçon 56)</small></li><li>chance ; bonne chance <small class=\"muted\">(leçon 54)</small></li><li>combien de temps ? <small class=\"muted\">(leçon 50)</small></li><li>soupe <small class=\"muted\">(leçon 43)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຕ້ອງ</span> <span class=\"rom\">Tâɔng</span> · devoir, falloir</li><li><span class=\"lo\">ໂຊກດີ</span> <span class=\"rom\">Sôok-dǐi</span> · chance ; bonne chance</li><li><span class=\"lo\">ດົນປານໃດ</span> <span class=\"rom\">Dǒn pǎan-dǎy</span> · combien de temps ?</li><li><span class=\"lo\">ແກງ</span> <span class=\"rom\">Kɛ̌ɛng</span> · soupe</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Organiser un trajet : billet, horaires, hôtel.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara prépare un voyage à Luang Prabang.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ລົດເມໄປຫຼວງພະບາງອອກຈັກໂມງ?</span></div></div><div class=\"line\"><span class=\"who\">ພະນັກງານ</span><div><span class=\"lo\">ແປດໂມງເຊົ້າ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໃຊ້ເວລາດົນປານໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ພະນັກງານ</span><div><span class=\"lo\">ປະມານສີ່ຊົ່ວໂມງດ້ວຍທາງໃໝ່</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂໍປີ້ໜຶ່ງໃບ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Lōt-méé pǎy lǔang-phā-báang ɔ̏ɔk ják móong?</span><br><span class=\"rom\">Pɛ̏ɛt móong sȁo.</span><br><span class=\"rom\">Sȁy wéé-láa dǒn pǎan-dǎy?</span><br><span class=\"rom\">Pá-máan sìi sūa-móong dûay tháang mày.</span><br><span class=\"rom\">Khɔ̌ɔ pîi nʉ̀ng bǎy.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Le bus pour Luang Prabang part à quelle heure ?<br><b>L&#x27;employé</b> — À 8 h du matin.<br><b>Clara</b> — Ça prend combien de temps ?<br><b>L&#x27;employé</b> — Environ 4 heures par la nouvelle route.<br><b>Clara</b> — Un billet, s&#x27;il vous plaît.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>À quelle heure part le bus ?</li><li>Combien de temps dure le trajet ?</li></ol><details><summary>Réponses</summary><ol><li>8 h.</li><li>Environ 4 heures.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ປີ້</td><td class=\"rom\">Pîi</td><td>billet</td><td></td></tr><tr><td class=\"lo\">ອອກ</td><td class=\"rom\">Ɔ̏ɔk</td><td>partir</td><td></td></tr><tr><td class=\"lo\">ຮອດ</td><td class=\"rom\">Hɔ̂ɔt</td><td>arriver</td><td></td></tr><tr><td class=\"lo\">ໃຊ້ເວລາ</td><td class=\"rom\">Sȁy wéé-láa</td><td>prendre (du temps)</td><td></td></tr><tr><td class=\"lo\">ປະມານ</td><td class=\"rom\">Pá-máan</td><td>environ</td><td></td></tr><tr><td class=\"lo\">ຊົ່ວໂມງ</td><td class=\"rom\">Sūa-móong</td><td>heure (durée)</td><td></td></tr><tr><td class=\"lo\">ໂຮງແຮມ</td><td class=\"rom\">Hóong-hɛ́ɛm</td><td>hôtel</td><td></td></tr><tr><td class=\"lo\">ຈອງ</td><td class=\"rom\">Jɔ̌ɔng</td><td>réserver</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : durée et horaires",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ອອກແປດໂມງ</span> <span class=\"rom\">Ɔ̏ɔk pɛ̏ɛt móong</span> = part à 8 h</li><li><span class=\"lo\">ໃຊ້ເວລາສີ່ຊົ່ວໂມງ</span> <span class=\"rom\">Sȁy wéé-láa sìi sūa-móong</span> = prend 4 heures</li></ul><p><b>À toi de trouver :</b></p><ol><li>Quelle différence entre ໂມງ et ຊົ່ວໂມງ ?</li></ol><details><summary>La règle</summary><p>ໂມງ = l'heure qu'il est ; ຊົ່ວໂມງ = une durée d'une heure.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> ໂມງ et ຊົ່ວໂມງ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Le bus part à quelle heure ?</li><li>Ça prend combien de temps ?</li><li>Je voudrais réserver une chambre.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ລົດເມອອກຈັກໂມງ?</span> <span class=\"rom\">Lōt-méé ɔ̏ɔk ják móong?</span></li><li><span class=\"lo\">ໃຊ້ເວລາດົນປານໃດ?</span> <span class=\"rom\">Sȁy wéé-láa dǒn pǎan-dǎy?</span></li><li><span class=\"lo\">ຂ້ອຍຢາກຈອງຫ້ອງ</span> <span class=\"rom\">Khɔ̂ɔy yȁak jɔ̌ɔng hɔ̂ɔng.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris l&#x27;itinéraire d&#x27;un voyage de 3 jours au Laos.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Prépare avec un natif un vrai ou faux voyage au Laos en lao.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>11 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l57-v01",
+   "front": "ປີ້",
+   "back": "Pîi · billet"
+  },
+  {
+   "id": "l57-v02",
+   "front": "ອອກ",
+   "back": "Ɔ̏ɔk · partir"
+  },
+  {
+   "id": "l57-v03",
+   "front": "ຮອດ",
+   "back": "Hɔ̂ɔt · arriver"
+  },
+  {
+   "id": "l57-v04",
+   "front": "ໃຊ້ເວລາ",
+   "back": "Sȁy wéé-láa · prendre (du temps)"
+  },
+  {
+   "id": "l57-v05",
+   "front": "ປະມານ",
+   "back": "Pá-máan · environ"
+  },
+  {
+   "id": "l57-v06",
+   "front": "ຊົ່ວໂມງ",
+   "back": "Sūa-móong · heure (durée)"
+  },
+  {
+   "id": "l57-v07",
+   "front": "ໂຮງແຮມ",
+   "back": "Hóong-hɛ́ɛm · hôtel"
+  },
+  {
+   "id": "l57-v08",
+   "front": "ຈອງ",
+   "back": "Jɔ̌ɔng · réserver"
+  },
+  {
+   "id": "l57-p01",
+   "front": "Le bus part à quelle heure ?",
+   "back": "ລົດເມອອກຈັກໂມງ? · Lōt-méé ɔ̏ɔk ják móong?"
+  },
+  {
+   "id": "l57-p02",
+   "front": "Ça prend combien de temps ?",
+   "back": "ໃຊ້ເວລາດົນປານໃດ? · Sȁy wéé-láa dǒn pǎan-dǎy?"
+  },
+  {
+   "id": "l57-p03",
+   "front": "Je voudrais réserver une chambre.",
+   "back": "ຂ້ອຍຢາກຈອງຫ້ອງ · Khɔ̂ɔy yȁak jɔ̌ɔng hɔ̂ɔng."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ປີ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "billet",
+      "partir",
+      "arriver",
+      "réserver"
+     ],
+     "answer": "billet",
+     "reveal": "<i>Pîi</i>"
+    },
+    {
+     "audio": [
+      "ອອກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "partir",
+      "hôtel",
+      "arriver",
+      "prendre (du temps)"
+     ],
+     "answer": "partir",
+     "reveal": "<i>Ɔ̏ɔk</i>"
+    },
+    {
+     "audio": [
+      "ຮອດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "arriver",
+      "hôtel",
+      "prendre (du temps)",
+      "heure (durée)"
+     ],
+     "answer": "arriver",
+     "reveal": "<i>Hɔ̂ɔt</i>"
+    },
+    {
+     "audio": [
+      "ໃຊ້ເວລາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "prendre (du temps)",
+      "billet",
+      "partir",
+      "réserver"
+     ],
+     "answer": "prendre (du temps)",
+     "reveal": "<i>Sȁy wéé-láa</i>"
+    },
+    {
+     "audio": [
+      "ປະມານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "environ",
+      "hôtel",
+      "billet",
+      "prendre (du temps)"
+     ],
+     "answer": "environ",
+     "reveal": "<i>Pá-máan</i>"
+    },
+    {
+     "audio": [
+      "ຊົ່ວໂມງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "heure (durée)",
+      "arriver",
+      "partir",
+      "prendre (du temps)"
+     ],
+     "answer": "heure (durée)",
+     "reveal": "<i>Sūa-móong</i>"
+    },
+    {
+     "audio": [
+      "ໂຮງແຮມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "hôtel",
+      "heure (durée)",
+      "réserver",
+      "partir"
+     ],
+     "answer": "hôtel",
+     "reveal": "<i>Hóong-hɛ́ɛm</i>"
+    },
+    {
+     "audio": [
+      "ຈອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "réserver",
+      "arriver",
+      "billet",
+      "prendre (du temps)"
+     ],
+     "answer": "réserver",
+     "reveal": "<i>Jɔ̌ɔng</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ລົດເມໄປຫຼວງພະບາງອອກຈັກໂມງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Le bus pour Luang Prabang part à quelle heure ?",
+      "Environ 4 heures par la nouvelle route.",
+      "À 8 h du matin.",
+      "Un billet, s'il vous plaît."
+     ],
+     "answer": "Le bus pour Luang Prabang part à quelle heure ?",
+     "reveal": "<i>Lōt-méé pǎy lǔang-phā-báang ɔ̏ɔk ják móong?</i>"
+    },
+    {
+     "audio": [
+      "ແປດໂມງເຊົ້າ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "À 8 h du matin.",
+      "Environ 4 heures par la nouvelle route.",
+      "Un billet, s'il vous plaît.",
+      "Le bus pour Luang Prabang part à quelle heure ?"
+     ],
+     "answer": "À 8 h du matin.",
+     "reveal": "<i>Pɛ̏ɛt móong sȁo.</i>"
+    },
+    {
+     "audio": [
+      "ໃຊ້ເວລາດົນປານໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Ça prend combien de temps ?",
+      "Environ 4 heures par la nouvelle route.",
+      "Un billet, s'il vous plaît.",
+      "Le bus pour Luang Prabang part à quelle heure ?"
+     ],
+     "answer": "Ça prend combien de temps ?",
+     "reveal": "<i>Sȁy wéé-láa dǒn pǎan-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ປະມານສີ່ຊົ່ວໂມງດ້ວຍທາງໃໝ່"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Environ 4 heures par la nouvelle route.",
+      "Un billet, s'il vous plaît.",
+      "À 8 h du matin.",
+      "Ça prend combien de temps ?"
+     ],
+     "answer": "Environ 4 heures par la nouvelle route.",
+     "reveal": "<i>Pá-máan sìi sūa-móong dûay tháang mày.</i>"
+    },
+    {
+     "audio": [
+      "ຂໍປີ້ໜຶ່ງໃບ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Un billet, s'il vous plaît.",
+      "Environ 4 heures par la nouvelle route.",
+      "Ça prend combien de temps ?",
+      "Le bus pour Luang Prabang part à quelle heure ?"
+     ],
+     "answer": "Un billet, s'il vous plaît.",
+     "reveal": "<i>Khɔ̌ɔ pîi nʉ̀ng bǎy.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ລົດເມອອກຈັກໂມງ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Le bus part à quelle heure ?",
+      "Je voudrais réserver une chambre.",
+      "Ça prend combien de temps ?"
+     ],
+     "answer": "Le bus part à quelle heure ?",
+     "reveal": "<i>Lōt-méé ɔ̏ɔk ják móong?</i>"
+    },
+    {
+     "audio": [
+      "ໃຊ້ເວລາດົນປານໃດ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Ça prend combien de temps ?",
+      "Je voudrais réserver une chambre.",
+      "Le bus part à quelle heure ?"
+     ],
+     "answer": "Ça prend combien de temps ?",
+     "reveal": "<i>Sȁy wéé-láa dǒn pǎan-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຢາກຈອງຫ້ອງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je voudrais réserver une chambre.",
+      "Le bus part à quelle heure ?",
+      "Ça prend combien de temps ?"
+     ],
+     "answer": "Je voudrais réserver une chambre.",
+     "reveal": "<i>Khɔ̂ɔy yȁak jɔ̌ɔng hɔ̂ɔng.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ປີ້",
+   "rom": "Pîi",
+   "fr": "billet",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອອກ",
+   "rom": "Ɔ̏ɔk",
+   "fr": "partir",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຮອດ",
+   "rom": "Hɔ̂ɔt",
+   "fr": "arriver",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃຊ້ເວລາ",
+   "rom": "Sȁy wéé-láa",
+   "fr": "prendre (du temps)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ປະມານ",
+   "rom": "Pá-máan",
+   "fr": "environ",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊົ່ວໂມງ",
+   "rom": "Sūa-móong",
+   "fr": "heure (durée)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂຮງແຮມ",
+   "rom": "Hóong-hɛ́ɛm",
+   "fr": "hôtel",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈອງ",
+   "rom": "Jɔ̌ɔng",
+   "fr": "réserver",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລົດເມອອກຈັກໂມງ?",
+   "rom": "Lōt-méé ɔ̏ɔk ják móong?",
+   "fr": "Le bus part à quelle heure ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃຊ້ເວລາດົນປານໃດ?",
+   "rom": "Sȁy wéé-láa dǒn pǎan-dǎy?",
+   "fr": "Ça prend combien de temps ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຢາກຈອງຫ້ອງ",
+   "rom": "Khɔ̂ɔy yȁak jɔ̌ɔng hɔ̂ɔng.",
+   "fr": "Je voudrais réserver une chambre.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ລົດເມ",
+    "ອອກ",
+    "ຈັກ",
+    "ໂມງ"
+   ],
+   "rom": "Lōt-méé ɔ̏ɔk ják móong?",
+   "fr": "Le bus part à quelle heure ?"
+  },
+  {
+   "tokens": [
+    "ໃຊ້",
+    "ເວລາ",
+    "ດົນ",
+    "ປານໃດ"
+   ],
+   "rom": "Sȁy wéé-láa dǒn pǎan-dǎy?",
+   "fr": "Ça prend combien de temps ?"
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຢາກ",
+    "ຈອງ",
+    "ຫ້ອງ"
+   ],
+   "rom": "Khɔ̂ɔy yȁak jɔ̌ɔng hɔ̂ɔng.",
+   "fr": "Je voudrais réserver une chambre."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ປີ້",
+   "rom": "Pîi",
+   "fr": "billet"
+  },
+  {
+   "lao": "ອອກ",
+   "rom": "Ɔ̏ɔk",
+   "fr": "partir"
+  },
+  {
+   "lao": "ຮອດ",
+   "rom": "Hɔ̂ɔt",
+   "fr": "arriver"
+  },
+  {
+   "lao": "ໃຊ້ເວລາ",
+   "rom": "Sȁy wéé-láa",
+   "fr": "prendre (du temps)"
+  },
+  {
+   "lao": "ປະມານ",
+   "rom": "Pá-máan",
+   "fr": "environ"
+  },
+  {
+   "lao": "ຊົ່ວໂມງ",
+   "rom": "Sūa-móong",
+   "fr": "heure (durée)"
+  },
+  {
+   "lao": "ໂຮງແຮມ",
+   "rom": "Hóong-hɛ́ɛm",
+   "fr": "hôtel"
+  },
+  {
+   "lao": "ຈອງ",
+   "rom": "Jɔ̌ɔng",
+   "fr": "réserver"
+  }
+ ],
+ "sounds": {
+  "ຕ້ອງ": "Tâɔng",
+  "ໂຊກດີ": "Sôok-dǐi",
+  "ດົນປານໃດ": "Dǒn pǎan-dǎy",
+  "ແກງ": "Kɛ̌ɛng",
+  "ລົດເມໄປຫຼວງພະບາງອອກຈັກໂມງ": "Lōt-méé pǎy lǔang-phā-báang ɔ̏ɔk ják móong?",
+  "ແປດໂມງເຊົ້າ": "Pɛ̏ɛt móong sȁo.",
+  "ໃຊ້ເວລາດົນປານໃດ": "Sȁy wéé-láa dǒn pǎan-dǎy?",
+  "ປະມານສີ່ຊົ່ວໂມງດ້ວຍທາງໃໝ່": "Pá-máan sìi sūa-móong dûay tháang mày.",
+  "ຂໍປີ້ໜຶ່ງໃບ": "Khɔ̌ɔ pîi nʉ̀ng bǎy.",
+  "ປີ້": "Pîi",
+  "ອອກ": "ɔ̏ɔk",
+  "ຮອດ": "Hɔ̂ɔt",
+  "ໃຊ້ເວລາ": "Sȁy wéé-láa",
+  "ປະມານ": "Pá-máan",
+  "ຊົ່ວໂມງ": "Sūa-móong",
+  "ໂຮງແຮມ": "Hóong-hɛ́ɛm",
+  "ຈອງ": "jɔ̌ɔng",
+  "ອອກແປດໂມງ": "Ɔ̏ɔk pɛ̏ɛt móong",
+  "ໃຊ້ເວລາສີ່ຊົ່ວໂມງ": "Sȁy wéé-láa sìi sūa-móong",
+  "ລົດເມອອກຈັກໂມງ": "Lōt-méé ɔ̏ɔk ják móong?",
+  "ຂ້ອຍຢາກຈອງຫ້ອງ": "Khɔ̂ɔy yȁak jɔ̌ɔng hɔ̂ɔng.",
+  "ລົດເມ": "lōt-méé",
+  "ຈັກ": "ják",
+  "ໂມງ": "móong",
+  "ໃຊ້": "sȁy",
+  "ເວລາ": "wéé-láa",
+  "ດົນ": "dǒn",
+  "ປານໃດ": "pǎan-dǎy",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ຢາກ": "yȁak",
+  "ຫ້ອງ": "hɔ̂ɔng"
+ },
+ "suivi": "LEÇON : 57 — Partie D (Raconter et organiser, A2) · Voyager au Laos\nOBJECTIF : Organiser un trajet : billet, horaires, hôtel.\nNOTION : durée et horaires\nVOCAB : Pîi, Ɔ̏ɔk, Hɔ̂ɔt, Sȁy wéé-láa, Pá-máan, Sūa-móong, Hóong-hɛ́ɛm, Jɔ̌ɔng\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 58 — Les fêtes"
+}

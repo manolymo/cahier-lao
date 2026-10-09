@@ -1,0 +1,536 @@
+{
+ "num": 45,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Stratégies de survie",
+ "objective": "Faire répéter, ralentir, demander un mot, reformuler.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>fois <small class=\"muted\">(leçon 44)</small></li><li>la semaine prochaine <small class=\"muted\">(leçon 42)</small></li><li>mal à la tête <small class=\"muted\">(leçon 38)</small></li><li>marcher <small class=\"muted\">(leçon 31)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ເທື່ອ</span> <span class=\"rom\">Thʉ̄a</span> · fois</li><li><span class=\"lo\">ອາທິດໜ້າ</span> <span class=\"rom\">Ǎa-thīt-nâa</span> · la semaine prochaine</li><li><span class=\"lo\">ເຈັບຫົວ</span> <span class=\"rom\">Jép-hǔa</span> · mal à la tête</li><li><span class=\"lo\">ຍ່າງ</span> <span class=\"rom\">Nyāang</span> · marcher</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Faire répéter, ralentir, demander un mot, reformuler.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara ne comprend pas M. Somsak.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\"></span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂໍໂທດ ບໍ່ເຂົ້າໃຈ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເວົ້າຊ້າໆແດ່</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ໄດ້ ເຈົ້າກິນເຂົ້າແລ້ວບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໂອ້ ເຂົ້າໃຈແລ້ວ ກິນແລ້ວ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຄຳນີ້ແປວ່າແນວໃດ?</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\"></span><br><span class=\"rom\">Khɔ̌ɔ-thôot, bɔ̀ɔ-khâo-jǎy.</span><br><span class=\"rom\">Wȁo sȁa-sȁa dɛ̀ɛ.</span><br><span class=\"rom\">Dâay. Jâo kǐn khâo lɛ̏ɛw bɔ̌ɔ?</span><br><span class=\"rom\">Ôo, khâo-jǎy lɛ̏ɛw. Kǐn lɛ̏ɛw.</span><br><span class=\"rom\">Khám nȉi pɛ̌ɛ wāa nɛ́ɛw-dǎy?</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>M. Somsak</b> — (M. Somsak parle très vite)<br><b>Clara</b> — Pardon, je ne comprends pas.<br><b>Clara</b> — Parlez lentement, s&#x27;il vous plaît.<br><b>M. Somsak</b> — D&#x27;accord. Tu as mangé ?<br><b>Clara</b> — Ah, j&#x27;ai compris. Oui, j&#x27;ai mangé.<br><b>Clara</b> — Ce mot, ça veut dire quoi ?</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que fait Clara quand elle ne comprend pas ?</li></ol><details><summary>Réponses</summary><ol><li>Elle dit qu&#x27;elle ne comprend pas et demande de parler lentement.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ບໍ່ເຂົ້າໃຈ</td><td class=\"rom\">Bɔ̀ɔ-khâo-jǎy</td><td>je ne comprends pas</td><td></td></tr><tr><td class=\"lo\">ເວົ້າຊ້າໆແດ່</td><td class=\"rom\">Wȁo sȁa-sȁa dɛ̀ɛ</td><td>parlez lentement, svp</td><td></td></tr><tr><td class=\"lo\">ເວົ້າອີກເທື່ອໜຶ່ງ</td><td class=\"rom\">Wȁo ìik-thʉ̄a-nʉ̀ng</td><td>répétez</td><td></td></tr><tr><td class=\"lo\">ແປວ່າແນວໃດ</td><td class=\"rom\">Pɛ̌ɛ wāa nɛ́ɛw-dǎy</td><td>ça veut dire quoi ?</td><td></td></tr><tr><td class=\"lo\">ພາສາລາວເອີ້ນວ່າຫຍັງ</td><td class=\"rom\">Pháa-sǎa-láaw ɤ̂ɤn wāa nyǎng</td><td>comment dit-on en lao ?</td><td></td></tr><tr><td class=\"lo\">ເຂົ້າໃຈແລ້ວ</td><td class=\"rom\">Khâo-jǎy lɛ̏ɛw</td><td>j&#x27;ai compris</td><td></td></tr><tr><td class=\"lo\">ຂຽນໃຫ້ແດ່</td><td class=\"rom\">Khǐan hây dɛ̀ɛ</td><td>écrivez-le-moi, svp</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les phrases de secours",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ບໍ່ເຂົ້າໃຈ</span> <span class=\"rom\">Bɔ̀ɔ-khâo-jǎy</span> = je ne comprends pas</li><li><span class=\"lo\">ພາສາລາວເອີ້ນວ່າຫຍັງ?</span> <span class=\"rom\">Pháa-sǎa-láaw ɤ̂ɤn wāa nyǎng?</span> = … comment on dit en lao ?</li></ul><details><summary>La règle</summary><p>Apprends ces phrases par cœur : elles te permettent de rester dans la conversation même quand tu bloques.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les demandes de répétition.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Je ne comprends pas.</li><li>Parlez lentement, s&#x27;il vous plaît.</li><li>Répétez, s&#x27;il vous plaît.</li><li>Ça veut dire quoi ?</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ບໍ່ເຂົ້າໃຈ</span> <span class=\"rom\">Bɔ̀ɔ-khâo-jǎy.</span></li><li><span class=\"lo\">ເວົ້າຊ້າໆແດ່</span> <span class=\"rom\">Wȁo sȁa-sȁa dɛ̀ɛ.</span></li><li><span class=\"lo\">ເວົ້າອີກເທື່ອໜຶ່ງແດ່</span> <span class=\"rom\">Wȁo ìik-thʉ̄a-nʉ̀ng dɛ̀ɛ.</span></li><li><span class=\"lo\">ແປວ່າແນວໃດ?</span> <span class=\"rom\">Pɛ̌ɛ wāa nɛ́ɛw-dǎy?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris les 6 phrases de secours sur un post-it.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Pendant une conversation avec un natif, utilise au moins 4 phrases de secours.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>11 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l45-v01",
+   "front": "ບໍ່ເຂົ້າໃຈ",
+   "back": "Bɔ̀ɔ-khâo-jǎy · je ne comprends pas"
+  },
+  {
+   "id": "l45-v02",
+   "front": "ເວົ້າຊ້າໆແດ່",
+   "back": "Wȁo sȁa-sȁa dɛ̀ɛ · parlez lentement, svp"
+  },
+  {
+   "id": "l45-v03",
+   "front": "ເວົ້າອີກເທື່ອໜຶ່ງ",
+   "back": "Wȁo ìik-thʉ̄a-nʉ̀ng · répétez"
+  },
+  {
+   "id": "l45-v04",
+   "front": "ແປວ່າແນວໃດ",
+   "back": "Pɛ̌ɛ wāa nɛ́ɛw-dǎy · ça veut dire quoi ?"
+  },
+  {
+   "id": "l45-v05",
+   "front": "ພາສາລາວເອີ້ນວ່າຫຍັງ",
+   "back": "Pháa-sǎa-láaw ɤ̂ɤn wāa nyǎng · comment dit-on en lao ?"
+  },
+  {
+   "id": "l45-v06",
+   "front": "ເຂົ້າໃຈແລ້ວ",
+   "back": "Khâo-jǎy lɛ̏ɛw · j'ai compris"
+  },
+  {
+   "id": "l45-v07",
+   "front": "ຂຽນໃຫ້ແດ່",
+   "back": "Khǐan hây dɛ̀ɛ · écrivez-le-moi, svp"
+  },
+  {
+   "id": "l45-p01",
+   "front": "Je ne comprends pas.",
+   "back": "ບໍ່ເຂົ້າໃຈ · Bɔ̀ɔ-khâo-jǎy."
+  },
+  {
+   "id": "l45-p02",
+   "front": "Parlez lentement, s'il vous plaît.",
+   "back": "ເວົ້າຊ້າໆແດ່ · Wȁo sȁa-sȁa dɛ̀ɛ."
+  },
+  {
+   "id": "l45-p03",
+   "front": "Répétez, s'il vous plaît.",
+   "back": "ເວົ້າອີກເທື່ອໜຶ່ງແດ່ · Wȁo ìik-thʉ̄a-nʉ̀ng dɛ̀ɛ."
+  },
+  {
+   "id": "l45-p04",
+   "front": "Ça veut dire quoi ?",
+   "back": "ແປວ່າແນວໃດ? · Pɛ̌ɛ wāa nɛ́ɛw-dǎy?"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ບໍ່ເຂົ້າໃຈ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "je ne comprends pas",
+      "écrivez-le-moi, svp",
+      "parlez lentement, svp",
+      "répétez"
+     ],
+     "answer": "je ne comprends pas",
+     "reveal": "<i>Bɔ̀ɔ-khâo-jǎy</i>"
+    },
+    {
+     "audio": [
+      "ເວົ້າຊ້າໆແດ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "parlez lentement, svp",
+      "écrivez-le-moi, svp",
+      "répétez",
+      "ça veut dire quoi ?"
+     ],
+     "answer": "parlez lentement, svp",
+     "reveal": "<i>Wȁo sȁa-sȁa dɛ̀ɛ</i>"
+    },
+    {
+     "audio": [
+      "ເວົ້າອີກເທື່ອໜຶ່ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "répétez",
+      "je ne comprends pas",
+      "écrivez-le-moi, svp",
+      "j'ai compris"
+     ],
+     "answer": "répétez",
+     "reveal": "<i>Wȁo ìik-thʉ̄a-nʉ̀ng</i>"
+    },
+    {
+     "audio": [
+      "ແປວ່າແນວໃດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ça veut dire quoi ?",
+      "comment dit-on en lao ?",
+      "j'ai compris",
+      "écrivez-le-moi, svp"
+     ],
+     "answer": "ça veut dire quoi ?",
+     "reveal": "<i>Pɛ̌ɛ wāa nɛ́ɛw-dǎy</i>"
+    },
+    {
+     "audio": [
+      "ພາສາລາວເອີ້ນວ່າຫຍັງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "comment dit-on en lao ?",
+      "répétez",
+      "écrivez-le-moi, svp",
+      "ça veut dire quoi ?"
+     ],
+     "answer": "comment dit-on en lao ?",
+     "reveal": "<i>Pháa-sǎa-láaw ɤ̂ɤn wāa nyǎng</i>"
+    },
+    {
+     "audio": [
+      "ເຂົ້າໃຈແລ້ວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "j'ai compris",
+      "comment dit-on en lao ?",
+      "écrivez-le-moi, svp",
+      "ça veut dire quoi ?"
+     ],
+     "answer": "j'ai compris",
+     "reveal": "<i>Khâo-jǎy lɛ̏ɛw</i>"
+    },
+    {
+     "audio": [
+      "ຂຽນໃຫ້ແດ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "écrivez-le-moi, svp",
+      "comment dit-on en lao ?",
+      "je ne comprends pas",
+      "j'ai compris"
+     ],
+     "answer": "écrivez-le-moi, svp",
+     "reveal": "<i>Khǐan hây dɛ̀ɛ</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      ""
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "(M. Somsak parle très vite)",
+      "Parlez lentement, s'il vous plaît.",
+      "D'accord. Tu as mangé ?",
+      "Ce mot, ça veut dire quoi ?"
+     ],
+     "answer": "(M. Somsak parle très vite)",
+     "reveal": "<i></i>"
+    },
+    {
+     "audio": [
+      "ຂໍໂທດ ບໍ່ເຂົ້າໃຈ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Pardon, je ne comprends pas.",
+      "D'accord. Tu as mangé ?",
+      "Parlez lentement, s'il vous plaît.",
+      "Ce mot, ça veut dire quoi ?"
+     ],
+     "answer": "Pardon, je ne comprends pas.",
+     "reveal": "<i>Khɔ̌ɔ-thôot, bɔ̀ɔ-khâo-jǎy.</i>"
+    },
+    {
+     "audio": [
+      "ເວົ້າຊ້າໆແດ່"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Parlez lentement, s'il vous plaît.",
+      "Ah, j'ai compris. Oui, j'ai mangé.",
+      "(M. Somsak parle très vite)",
+      "Pardon, je ne comprends pas."
+     ],
+     "answer": "Parlez lentement, s'il vous plaît.",
+     "reveal": "<i>Wȁo sȁa-sȁa dɛ̀ɛ.</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້ ເຈົ້າກິນເຂົ້າແລ້ວບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "D'accord. Tu as mangé ?",
+      "Pardon, je ne comprends pas.",
+      "(M. Somsak parle très vite)",
+      "Parlez lentement, s'il vous plaît."
+     ],
+     "answer": "D'accord. Tu as mangé ?",
+     "reveal": "<i>Dâay. Jâo kǐn khâo lɛ̏ɛw bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ໂອ້ ເຂົ້າໃຈແລ້ວ ກິນແລ້ວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Ah, j'ai compris. Oui, j'ai mangé.",
+      "Ce mot, ça veut dire quoi ?",
+      "Parlez lentement, s'il vous plaît.",
+      "D'accord. Tu as mangé ?"
+     ],
+     "answer": "Ah, j'ai compris. Oui, j'ai mangé.",
+     "reveal": "<i>Ôo, khâo-jǎy lɛ̏ɛw. Kǐn lɛ̏ɛw.</i>"
+    },
+    {
+     "audio": [
+      "ຄຳນີ້ແປວ່າແນວໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Ce mot, ça veut dire quoi ?",
+      "Ah, j'ai compris. Oui, j'ai mangé.",
+      "D'accord. Tu as mangé ?",
+      "Pardon, je ne comprends pas."
+     ],
+     "answer": "Ce mot, ça veut dire quoi ?",
+     "reveal": "<i>Khám nȉi pɛ̌ɛ wāa nɛ́ɛw-dǎy?</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ບໍ່ເຂົ້າໃຈ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je ne comprends pas.",
+      "Répétez, s'il vous plaît.",
+      "Ça veut dire quoi ?",
+      "Parlez lentement, s'il vous plaît."
+     ],
+     "answer": "Je ne comprends pas.",
+     "reveal": "<i>Bɔ̀ɔ-khâo-jǎy.</i>"
+    },
+    {
+     "audio": [
+      "ເວົ້າຊ້າໆແດ່"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Parlez lentement, s'il vous plaît.",
+      "Je ne comprends pas.",
+      "Répétez, s'il vous plaît.",
+      "Ça veut dire quoi ?"
+     ],
+     "answer": "Parlez lentement, s'il vous plaît.",
+     "reveal": "<i>Wȁo sȁa-sȁa dɛ̀ɛ.</i>"
+    },
+    {
+     "audio": [
+      "ເວົ້າອີກເທື່ອໜຶ່ງແດ່"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Répétez, s'il vous plaît.",
+      "Ça veut dire quoi ?",
+      "Je ne comprends pas.",
+      "Parlez lentement, s'il vous plaît."
+     ],
+     "answer": "Répétez, s'il vous plaît.",
+     "reveal": "<i>Wȁo ìik-thʉ̄a-nʉ̀ng dɛ̀ɛ.</i>"
+    },
+    {
+     "audio": [
+      "ແປວ່າແນວໃດ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Ça veut dire quoi ?",
+      "Répétez, s'il vous plaît.",
+      "Parlez lentement, s'il vous plaît.",
+      "Je ne comprends pas."
+     ],
+     "answer": "Ça veut dire quoi ?",
+     "reveal": "<i>Pɛ̌ɛ wāa nɛ́ɛw-dǎy?</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ບໍ່ເຂົ້າໃຈ",
+   "rom": "Bɔ̀ɔ-khâo-jǎy",
+   "fr": "je ne comprends pas",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເວົ້າຊ້າໆແດ່",
+   "rom": "Wȁo sȁa-sȁa dɛ̀ɛ",
+   "fr": "parlez lentement, svp",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເວົ້າອີກເທື່ອໜຶ່ງ",
+   "rom": "Wȁo ìik-thʉ̄a-nʉ̀ng",
+   "fr": "répétez",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແປວ່າແນວໃດ",
+   "rom": "Pɛ̌ɛ wāa nɛ́ɛw-dǎy",
+   "fr": "ça veut dire quoi ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພາສາລາວເອີ້ນວ່າຫຍັງ",
+   "rom": "Pháa-sǎa-láaw ɤ̂ɤn wāa nyǎng",
+   "fr": "comment dit-on en lao ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຂົ້າໃຈແລ້ວ",
+   "rom": "Khâo-jǎy lɛ̏ɛw",
+   "fr": "j'ai compris",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂຽນໃຫ້ແດ່",
+   "rom": "Khǐan hây dɛ̀ɛ",
+   "fr": "écrivez-le-moi, svp",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ເຂົ້າໃຈ",
+   "rom": "Bɔ̀ɔ-khâo-jǎy.",
+   "fr": "Je ne comprends pas.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເວົ້າຊ້າໆແດ່",
+   "rom": "Wȁo sȁa-sȁa dɛ̀ɛ.",
+   "fr": "Parlez lentement, s'il vous plaît.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເວົ້າອີກເທື່ອໜຶ່ງແດ່",
+   "rom": "Wȁo ìik-thʉ̄a-nʉ̀ng dɛ̀ɛ.",
+   "fr": "Répétez, s'il vous plaît.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແປວ່າແນວໃດ?",
+   "rom": "Pɛ̌ɛ wāa nɛ́ɛw-dǎy?",
+   "fr": "Ça veut dire quoi ?",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ເວົ້າ",
+    "ຊ້າໆ",
+    "ແດ່"
+   ],
+   "rom": "Wȁo sȁa-sȁa dɛ̀ɛ.",
+   "fr": "Parlez lentement, s'il vous plaît."
+  },
+  {
+   "tokens": [
+    "ເວົ້າ",
+    "ອີກເທື່ອໜຶ່ງ",
+    "ແດ່"
+   ],
+   "rom": "Wȁo ìik-thʉ̄a-nʉ̀ng dɛ̀ɛ.",
+   "fr": "Répétez, s'il vous plaît."
+  },
+  {
+   "tokens": [
+    "ແປ",
+    "ວ່າ",
+    "ແນວໃດ"
+   ],
+   "rom": "Pɛ̌ɛ wāa nɛ́ɛw-dǎy?",
+   "fr": "Ça veut dire quoi ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ບໍ່ເຂົ້າໃຈ",
+   "rom": "Bɔ̀ɔ-khâo-jǎy",
+   "fr": "je ne comprends pas"
+  },
+  {
+   "lao": "ເວົ້າຊ້າໆແດ່",
+   "rom": "Wȁo sȁa-sȁa dɛ̀ɛ",
+   "fr": "parlez lentement, svp"
+  },
+  {
+   "lao": "ເວົ້າອີກເທື່ອໜຶ່ງ",
+   "rom": "Wȁo ìik-thʉ̄a-nʉ̀ng",
+   "fr": "répétez"
+  },
+  {
+   "lao": "ແປວ່າແນວໃດ",
+   "rom": "Pɛ̌ɛ wāa nɛ́ɛw-dǎy",
+   "fr": "ça veut dire quoi ?"
+  },
+  {
+   "lao": "ພາສາລາວເອີ້ນວ່າຫຍັງ",
+   "rom": "Pháa-sǎa-láaw ɤ̂ɤn wāa nyǎng",
+   "fr": "comment dit-on en lao ?"
+  },
+  {
+   "lao": "ເຂົ້າໃຈແລ້ວ",
+   "rom": "Khâo-jǎy lɛ̏ɛw",
+   "fr": "j'ai compris"
+  },
+  {
+   "lao": "ຂຽນໃຫ້ແດ່",
+   "rom": "Khǐan hây dɛ̀ɛ",
+   "fr": "écrivez-le-moi, svp"
+  }
+ ],
+ "sounds": {
+  "ເທື່ອ": "Thʉ̄a",
+  "ອາທິດໜ້າ": "Ǎa-thīt-nâa",
+  "ເຈັບຫົວ": "Jép-hǔa",
+  "ຍ່າງ": "Nyāang",
+  "ຂໍໂທດ ບໍ່ເຂົ້າໃຈ": "Khɔ̌ɔ-thôot, bɔ̀ɔ-khâo-jǎy.",
+  "ເວົ້າຊ້າໆແດ່": "Wȁo sȁa-sȁa dɛ̀ɛ.",
+  "ໄດ້ ເຈົ້າກິນເຂົ້າແລ້ວບໍ": "Dâay. Jâo kǐn khâo lɛ̏ɛw bɔ̌ɔ?",
+  "ໂອ້ ເຂົ້າໃຈແລ້ວ ກິນແລ້ວ": "Ôo, khâo-jǎy lɛ̏ɛw. Kǐn lɛ̏ɛw.",
+  "ຄຳນີ້ແປວ່າແນວໃດ": "Khám nȉi pɛ̌ɛ wāa nɛ́ɛw-dǎy?",
+  "ບໍ່ເຂົ້າໃຈ": "Bɔ̀ɔ-khâo-jǎy.",
+  "ເວົ້າອີກເທື່ອໜຶ່ງ": "Wȁo ìik-thʉ̄a-nʉ̀ng",
+  "ແປວ່າແນວໃດ": "Pɛ̌ɛ wāa nɛ́ɛw-dǎy?",
+  "ພາສາລາວເອີ້ນວ່າຫຍັງ": "Pháa-sǎa-láaw ɤ̂ɤn wāa nyǎng?",
+  "ເຂົ້າໃຈແລ້ວ": "Khâo-jǎy lɛ̏ɛw",
+  "ຂຽນໃຫ້ແດ່": "Khǐan hây dɛ̀ɛ",
+  "ເວົ້າອີກເທື່ອໜຶ່ງແດ່": "Wȁo ìik-thʉ̄a-nʉ̀ng dɛ̀ɛ.",
+  "ເວົ້າ": "wȁo",
+  "ຊ້າໆ": "sȁa-sȁa",
+  "ແດ່": "dɛ̀ɛ",
+  "ອີກເທື່ອໜຶ່ງ": "ìik-thʉ̄a-nʉ̀ng",
+  "ແປ": "pɛ̌ɛ",
+  "ວ່າ": "wāa",
+  "ແນວໃດ": "nɛ́ɛw-dǎy"
+ },
+ "suivi": "LEÇON : 45 — Partie D (Raconter et organiser, A2) · Stratégies de survie\nOBJECTIF : Faire répéter, ralentir, demander un mot, reformuler.\nNOTION : les phrases de secours\nVOCAB : Bɔ̀ɔ-khâo-jǎy, Wȁo sȁa-sȁa dɛ̀ɛ, Wȁo ìik-thʉ̄a-nʉ̀ng, Pɛ̌ɛ wāa nɛ́ɛw-dǎy, Pháa-sǎa-láaw ɤ̂ɤn wāa nyǎng, Khâo-jǎy lɛ̏ɛw, Khǐan hây dɛ̀ɛ\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 46 — Inviter et répondre"
+}

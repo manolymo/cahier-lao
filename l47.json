@@ -1,0 +1,513 @@
+{
+ "num": 47,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Prendre rendez-vous",
+ "objective": "Fixer, déplacer ou annuler un rendez-vous.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>inviter <small class=\"muted\">(leçon 46)</small></li><li>deux fois <small class=\"muted\">(leçon 44)</small></li><li>de mieux en mieux <small class=\"muted\">(leçon 40)</small></li><li>s&#x27;habiller <small class=\"muted\">(leçon 33)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ເຊີນ</span> <span class=\"rom\">Sɤ́ɤn</span> · inviter</li><li><span class=\"lo\">ສອງເທື່ອ</span> <span class=\"rom\">Sɔ̌ɔng thʉ̄a</span> · deux fois</li><li><span class=\"lo\">ເກັ່ງຂຶ້ນ</span> <span class=\"rom\">Kèng khʉ̂n</span> · de mieux en mieux</li><li><span class=\"lo\">ແຕ່ງໂຕ</span> <span class=\"rom\">Tɛ̀ɛng-tǒo</span> · s&#x27;habiller</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Fixer, déplacer ou annuler un rendez-vous.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara appelle le salon de coiffure.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍຢາກນັດຕັດຜົມ</span></div></div><div class=\"line\"><span class=\"who\">ພະນັກງານ</span><div><span class=\"lo\">ມື້ໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ວັນພຸດສອງໂມງແລງໄດ້ບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ພະນັກງານ</span><div><span class=\"lo\">ໄດ້ ຖ້າມາບໍ່ໄດ້ກໍໂທບອກເດີ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໄດ້ເຈົ້າ ຂອບໃຈ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Khɔ̂ɔy yȁak nāt tát phǒm.</span><br><span class=\"rom\">Mʉ̂ʉ dǎy?</span><br><span class=\"rom\">Wán-phūt sɔ̌ɔng móong lɛ́ɛng dâay bɔ̌ɔ?</span><br><span class=\"rom\">Dâay. Thâa máa bɔ̀ɔ dâay kɔ̂ɔ thóo bɔ̏ɔk dɤ̌ɤ.</span><br><span class=\"rom\">Dâay jâo. Khɔ̏ɔp-jǎy.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Je voudrais prendre rendez-vous pour une coupe.<br><b>L&#x27;employé</b> — Quel jour ?<br><b>Clara</b> — Mercredi à 14 h, c&#x27;est possible ?<br><b>L&#x27;employé</b> — Oui. Si vous ne pouvez pas venir, appelez-nous.<br><b>Clara</b> — D&#x27;accord, merci.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Pour quoi Clara prend-elle rendez-vous ?</li><li>Que faire si elle ne peut pas venir ?</li></ol><details><summary>Réponses</summary><ol><li>Une coupe de cheveux.</li><li>Appeler pour prévenir.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ນັດ</td><td class=\"rom\">Nāt</td><td>rendez-vous ; fixer</td><td></td></tr><tr><td class=\"lo\">ຕັດຜົມ</td><td class=\"rom\">Tát phǒm</td><td>se faire couper les cheveux</td><td></td></tr><tr><td class=\"lo\">ເລື່ອນ</td><td class=\"rom\">Lʉ̄an</td><td>reporter</td><td></td></tr><tr><td class=\"lo\">ຍົກເລີກ</td><td class=\"rom\">Nyōk-lɤ̂ɤk</td><td>annuler</td><td></td></tr><tr><td class=\"lo\">ຖ້າ ກໍ</td><td class=\"rom\">Thâa… kɔ̂ɔ</td><td>si… alors</td><td></td></tr><tr><td class=\"lo\">ໂທບອກ</td><td class=\"rom\">Thóo bɔ̏ɔk</td><td>appeler pour prévenir</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : la condition ຖ້າ… ກໍ",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຖ້າຝົນຕົກກໍບໍ່ໄປ</span> <span class=\"rom\">Thâa fǒn tók kɔ̂ɔ bɔ̀ɔ pǎy</span> = s&#x27;il pleut, on n&#x27;y va pas</li><li><span class=\"lo\">ຖ້າຫວ່າງກໍມາ</span> <span class=\"rom\">Thâa wàang kɔ̂ɔ máa</span> = si tu es libre, viens</li></ul><p><b>À toi de trouver :</b></p><ol><li>Où se place ກໍ ?</li></ol><details><summary>La règle</summary><p>ຖ້າ + condition, ກໍ + conséquence. ກໍ se place devant le verbe de la conséquence.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> ຖ້າ et ກໍ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Je voudrais prendre rendez-vous.</li><li>Je dois annuler.</li><li>On peut reporter ?</li><li>S&#x27;il pleut, je ne viens pas.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້ອຍຢາກນັດ</span> <span class=\"rom\">Khɔ̂ɔy yȁak nāt.</span></li><li><span class=\"lo\">ຂ້ອຍຕ້ອງຍົກເລີກ</span> <span class=\"rom\">Khɔ̂ɔy tâɔng nyōk-lɤ̂ɤk.</span></li><li><span class=\"lo\">ເລື່ອນໄດ້ບໍ?</span> <span class=\"rom\">Lʉ̄an dâay bɔ̌ɔ?</span></li><li><span class=\"lo\">ຖ້າຝົນຕົກກໍບໍ່ມາ</span> <span class=\"rom\">Thâa fǒn tók kɔ̂ɔ bɔ̀ɔ máa.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris 4 phrases avec ຖ້າ… ກໍ.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Joue avec un natif une prise de rendez-vous puis un report.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>10 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l47-v01",
+   "front": "ນັດ",
+   "back": "Nāt · rendez-vous ; fixer"
+  },
+  {
+   "id": "l47-v02",
+   "front": "ຕັດຜົມ",
+   "back": "Tát phǒm · se faire couper les cheveux"
+  },
+  {
+   "id": "l47-v03",
+   "front": "ເລື່ອນ",
+   "back": "Lʉ̄an · reporter"
+  },
+  {
+   "id": "l47-v04",
+   "front": "ຍົກເລີກ",
+   "back": "Nyōk-lɤ̂ɤk · annuler"
+  },
+  {
+   "id": "l47-v05",
+   "front": "ຖ້າ ກໍ",
+   "back": "Thâa… kɔ̂ɔ · si… alors"
+  },
+  {
+   "id": "l47-v06",
+   "front": "ໂທບອກ",
+   "back": "Thóo bɔ̏ɔk · appeler pour prévenir"
+  },
+  {
+   "id": "l47-p01",
+   "front": "Je voudrais prendre rendez-vous.",
+   "back": "ຂ້ອຍຢາກນັດ · Khɔ̂ɔy yȁak nāt."
+  },
+  {
+   "id": "l47-p02",
+   "front": "Je dois annuler.",
+   "back": "ຂ້ອຍຕ້ອງຍົກເລີກ · Khɔ̂ɔy tâɔng nyōk-lɤ̂ɤk."
+  },
+  {
+   "id": "l47-p03",
+   "front": "On peut reporter ?",
+   "back": "ເລື່ອນໄດ້ບໍ? · Lʉ̄an dâay bɔ̌ɔ?"
+  },
+  {
+   "id": "l47-p04",
+   "front": "S'il pleut, je ne viens pas.",
+   "back": "ຖ້າຝົນຕົກກໍບໍ່ມາ · Thâa fǒn tók kɔ̂ɔ bɔ̀ɔ máa."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ນັດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "rendez-vous ; fixer",
+      "reporter",
+      "se faire couper les cheveux",
+      "appeler pour prévenir"
+     ],
+     "answer": "rendez-vous ; fixer",
+     "reveal": "<i>Nāt</i>"
+    },
+    {
+     "audio": [
+      "ຕັດຜົມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "se faire couper les cheveux",
+      "annuler",
+      "reporter",
+      "appeler pour prévenir"
+     ],
+     "answer": "se faire couper les cheveux",
+     "reveal": "<i>Tát phǒm</i>"
+    },
+    {
+     "audio": [
+      "ເລື່ອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "reporter",
+      "se faire couper les cheveux",
+      "appeler pour prévenir",
+      "rendez-vous ; fixer"
+     ],
+     "answer": "reporter",
+     "reveal": "<i>Lʉ̄an</i>"
+    },
+    {
+     "audio": [
+      "ຍົກເລີກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "annuler",
+      "reporter",
+      "si… alors",
+      "rendez-vous ; fixer"
+     ],
+     "answer": "annuler",
+     "reveal": "<i>Nyōk-lɤ̂ɤk</i>"
+    },
+    {
+     "audio": [
+      "ຖ້າ ກໍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "si… alors",
+      "se faire couper les cheveux",
+      "appeler pour prévenir",
+      "rendez-vous ; fixer"
+     ],
+     "answer": "si… alors",
+     "reveal": "<i>Thâa… kɔ̂ɔ</i>"
+    },
+    {
+     "audio": [
+      "ໂທບອກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "appeler pour prévenir",
+      "annuler",
+      "se faire couper les cheveux",
+      "reporter"
+     ],
+     "answer": "appeler pour prévenir",
+     "reveal": "<i>Thóo bɔ̏ɔk</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້ອຍຢາກນັດຕັດຜົມ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je voudrais prendre rendez-vous pour une coupe.",
+      "Oui. Si vous ne pouvez pas venir, appelez-nous.",
+      "Mercredi à 14 h, c'est possible ?",
+      "D'accord, merci."
+     ],
+     "answer": "Je voudrais prendre rendez-vous pour une coupe.",
+     "reveal": "<i>Khɔ̂ɔy yȁak nāt tát phǒm.</i>"
+    },
+    {
+     "audio": [
+      "ມື້ໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Quel jour ?",
+      "D'accord, merci.",
+      "Mercredi à 14 h, c'est possible ?",
+      "Je voudrais prendre rendez-vous pour une coupe."
+     ],
+     "answer": "Quel jour ?",
+     "reveal": "<i>Mʉ̂ʉ dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ວັນພຸດສອງໂມງແລງໄດ້ບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Mercredi à 14 h, c'est possible ?",
+      "Quel jour ?",
+      "D'accord, merci.",
+      "Je voudrais prendre rendez-vous pour une coupe."
+     ],
+     "answer": "Mercredi à 14 h, c'est possible ?",
+     "reveal": "<i>Wán-phūt sɔ̌ɔng móong lɛ́ɛng dâay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້ ຖ້າມາບໍ່ໄດ້ກໍໂທບອກເດີ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oui. Si vous ne pouvez pas venir, appelez-nous.",
+      "D'accord, merci.",
+      "Mercredi à 14 h, c'est possible ?",
+      "Quel jour ?"
+     ],
+     "answer": "Oui. Si vous ne pouvez pas venir, appelez-nous.",
+     "reveal": "<i>Dâay. Thâa máa bɔ̀ɔ dâay kɔ̂ɔ thóo bɔ̏ɔk dɤ̌ɤ.</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້ເຈົ້າ ຂອບໃຈ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "D'accord, merci.",
+      "Je voudrais prendre rendez-vous pour une coupe.",
+      "Quel jour ?",
+      "Mercredi à 14 h, c'est possible ?"
+     ],
+     "answer": "D'accord, merci.",
+     "reveal": "<i>Dâay jâo. Khɔ̏ɔp-jǎy.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້ອຍຢາກນັດ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je voudrais prendre rendez-vous.",
+      "S'il pleut, je ne viens pas.",
+      "Je dois annuler.",
+      "On peut reporter ?"
+     ],
+     "answer": "Je voudrais prendre rendez-vous.",
+     "reveal": "<i>Khɔ̂ɔy yȁak nāt.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຕ້ອງຍົກເລີກ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je dois annuler.",
+      "S'il pleut, je ne viens pas.",
+      "On peut reporter ?",
+      "Je voudrais prendre rendez-vous."
+     ],
+     "answer": "Je dois annuler.",
+     "reveal": "<i>Khɔ̂ɔy tâɔng nyōk-lɤ̂ɤk.</i>"
+    },
+    {
+     "audio": [
+      "ເລື່ອນໄດ້ບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "On peut reporter ?",
+      "Je dois annuler.",
+      "S'il pleut, je ne viens pas.",
+      "Je voudrais prendre rendez-vous."
+     ],
+     "answer": "On peut reporter ?",
+     "reveal": "<i>Lʉ̄an dâay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຖ້າຝົນຕົກກໍບໍ່ມາ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "S'il pleut, je ne viens pas.",
+      "Je dois annuler.",
+      "On peut reporter ?",
+      "Je voudrais prendre rendez-vous."
+     ],
+     "answer": "S'il pleut, je ne viens pas.",
+     "reveal": "<i>Thâa fǒn tók kɔ̂ɔ bɔ̀ɔ máa.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ນັດ",
+   "rom": "Nāt",
+   "fr": "rendez-vous ; fixer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕັດຜົມ",
+   "rom": "Tát phǒm",
+   "fr": "se faire couper les cheveux",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເລື່ອນ",
+   "rom": "Lʉ̄an",
+   "fr": "reporter",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍົກເລີກ",
+   "rom": "Nyōk-lɤ̂ɤk",
+   "fr": "annuler",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຖ້າ ກໍ",
+   "rom": "Thâa… kɔ̂ɔ",
+   "fr": "si… alors",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂທບອກ",
+   "rom": "Thóo bɔ̏ɔk",
+   "fr": "appeler pour prévenir",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຢາກນັດ",
+   "rom": "Khɔ̂ɔy yȁak nāt.",
+   "fr": "Je voudrais prendre rendez-vous.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຕ້ອງຍົກເລີກ",
+   "rom": "Khɔ̂ɔy tâɔng nyōk-lɤ̂ɤk.",
+   "fr": "Je dois annuler.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເລື່ອນໄດ້ບໍ?",
+   "rom": "Lʉ̄an dâay bɔ̌ɔ?",
+   "fr": "On peut reporter ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຖ້າຝົນຕົກກໍບໍ່ມາ",
+   "rom": "Thâa fǒn tók kɔ̂ɔ bɔ̀ɔ máa.",
+   "fr": "S'il pleut, je ne viens pas.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຢາກ",
+    "ນັດ"
+   ],
+   "rom": "Khɔ̂ɔy yȁak nāt.",
+   "fr": "Je voudrais prendre rendez-vous."
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຕ້ອງ",
+    "ຍົກເລີກ"
+   ],
+   "rom": "Khɔ̂ɔy tâɔng nyōk-lɤ̂ɤk.",
+   "fr": "Je dois annuler."
+  },
+  {
+   "tokens": [
+    "ເລື່ອນ",
+    "ໄດ້",
+    "ບໍ"
+   ],
+   "rom": "Lʉ̄an dâay bɔ̌ɔ?",
+   "fr": "On peut reporter ?"
+  },
+  {
+   "tokens": [
+    "ຖ້າ",
+    "ຝົນ",
+    "ຕົກ",
+    "ກໍ",
+    "ບໍ່",
+    "ມາ"
+   ],
+   "rom": "Thâa fǒn tók kɔ̂ɔ bɔ̀ɔ máa.",
+   "fr": "S'il pleut, je ne viens pas."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ນັດ",
+   "rom": "Nāt",
+   "fr": "rendez-vous ; fixer"
+  },
+  {
+   "lao": "ຕັດຜົມ",
+   "rom": "Tát phǒm",
+   "fr": "se faire couper les cheveux"
+  },
+  {
+   "lao": "ເລື່ອນ",
+   "rom": "Lʉ̄an",
+   "fr": "reporter"
+  },
+  {
+   "lao": "ຍົກເລີກ",
+   "rom": "Nyōk-lɤ̂ɤk",
+   "fr": "annuler"
+  },
+  {
+   "lao": "ຖ້າ ກໍ",
+   "rom": "Thâa… kɔ̂ɔ",
+   "fr": "si… alors"
+  },
+  {
+   "lao": "ໂທບອກ",
+   "rom": "Thóo bɔ̏ɔk",
+   "fr": "appeler pour prévenir"
+  }
+ ],
+ "sounds": {
+  "ເຊີນ": "Sɤ́ɤn",
+  "ສອງເທື່ອ": "Sɔ̌ɔng thʉ̄a",
+  "ເກັ່ງຂຶ້ນ": "Kèng khʉ̂n",
+  "ແຕ່ງໂຕ": "Tɛ̀ɛng-tǒo",
+  "ຂ້ອຍຢາກນັດຕັດຜົມ": "Khɔ̂ɔy yȁak nāt tát phǒm.",
+  "ມື້ໃດ": "Mʉ̂ʉ dǎy?",
+  "ວັນພຸດສອງໂມງແລງໄດ້ບໍ": "Wán-phūt sɔ̌ɔng móong lɛ́ɛng dâay bɔ̌ɔ?",
+  "ໄດ້ ຖ້າມາບໍ່ໄດ້ກໍໂທບອກເດີ": "Dâay. Thâa máa bɔ̀ɔ dâay kɔ̂ɔ thóo bɔ̏ɔk dɤ̌ɤ.",
+  "ໄດ້ເຈົ້າ ຂອບໃຈ": "Dâay jâo. Khɔ̏ɔp-jǎy.",
+  "ນັດ": "nāt",
+  "ຕັດຜົມ": "Tát phǒm",
+  "ເລື່ອນ": "lʉ̄an",
+  "ຍົກເລີກ": "nyōk-lɤ̂ɤk",
+  "ຖ້າ ກໍ": "Thâa… kɔ̂ɔ",
+  "ໂທບອກ": "Thóo bɔ̏ɔk",
+  "ຖ້າຝົນຕົກກໍບໍ່ໄປ": "Thâa fǒn tók kɔ̂ɔ bɔ̀ɔ pǎy",
+  "ຖ້າຫວ່າງກໍມາ": "Thâa wàang kɔ̂ɔ máa",
+  "ຂ້ອຍຢາກນັດ": "Khɔ̂ɔy yȁak nāt.",
+  "ຂ້ອຍຕ້ອງຍົກເລີກ": "Khɔ̂ɔy tâɔng nyōk-lɤ̂ɤk.",
+  "ເລື່ອນໄດ້ບໍ": "Lʉ̄an dâay bɔ̌ɔ?",
+  "ຖ້າຝົນຕົກກໍບໍ່ມາ": "Thâa fǒn tók kɔ̂ɔ bɔ̀ɔ máa.",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ຢາກ": "yȁak",
+  "ຕ້ອງ": "tâɔng",
+  "ໄດ້": "dâay",
+  "ບໍ": "bɔ̌ɔ",
+  "ຖ້າ": "thâa",
+  "ຝົນ": "fǒn",
+  "ຕົກ": "tók",
+  "ກໍ": "kɔ̂ɔ",
+  "ບໍ່": "bɔ̀ɔ",
+  "ມາ": "máa"
+ },
+ "suivi": "LEÇON : 47 — Partie D (Raconter et organiser, A2) · Prendre rendez-vous\nOBJECTIF : Fixer, déplacer ou annuler un rendez-vous.\nNOTION : la condition ຖ້າ… ກໍ\nVOCAB : Nāt, Tát phǒm, Lʉ̄an, Nyōk-lɤ̂ɤk, Thâa… kɔ̂ɔ, Thóo bɔ̏ɔk\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 48 — Au téléphone (2)"
+}

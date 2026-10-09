@@ -1,0 +1,424 @@
+{
+ "num": 44,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Tu as déjà… ?",
+ "objective": "Parler de tes expériences : déjà, jamais.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>pousse de bambou <small class=\"muted\">(leçon 43)</small></li><li>encore, d&#x27;autre <small class=\"muted\">(leçon 41)</small></li><li>à la bonne taille <small class=\"muted\">(leçon 37)</small></li><li>samedi <small class=\"muted\">(leçon 30)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ໜໍ່ໄມ້</span> <span class=\"rom\">Nɔ̀ɔ-mȁy</span> · pousse de bambou</li><li><span class=\"lo\">ອີກ</span> <span class=\"rom\">Ìik</span> · encore, d&#x27;autre</li><li><span class=\"lo\">ພໍດີ</span> <span class=\"rom\">Phɔ́ɔ-dǐi</span> · à la bonne taille</li><li><span class=\"lo\">ວັນເສົາ</span> <span class=\"rom\">Wán-sǎo</span> · samedi</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Parler de tes expériences : déjà, jamais.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara et Kèo parlent voyages.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ເອື້ອຍເຄີຍໄປຫຼວງພະບາງບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ບໍ່ເຄີຍ ເຈົ້າເດ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ເຄີຍໄປສອງເທື່ອ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຄີຍກິນໄຂ່ມົດບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ເຄີຍ ແຊບດີ!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Ʉ̂ay khɤ́ɤy pǎy lǔang-phā-báang bɔ̌ɔ?</span><br><span class=\"rom\">Bɔ̀ɔ-khɤ́ɤy. Jâo dě?</span><br><span class=\"rom\">Khɤ́ɤy pǎy sɔ̌ɔng thʉ̄a.</span><br><span class=\"rom\">Khɤ́ɤy kǐn khày mōt bɔ̌ɔ?</span><br><span class=\"rom\">Khɤ́ɤy. Sɛ̂ɛp dǐi!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Kèo</b> — Tu es déjà allée à Luang Prabang ?<br><b>Clara</b> — Jamais. Et toi ?<br><b>Kèo</b> — J&#x27;y suis allé deux fois.<br><b>Clara</b> — Tu as déjà mangé des œufs de fourmi ?<br><b>Kèo</b> — Oui. C&#x27;est bon !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Clara connaît-elle Luang Prabang ?</li><li>Combien de fois Kèo y est-il allé ?</li></ol><details><summary>Réponses</summary><ol><li>Non, jamais.</li><li>Deux fois.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ເຄີຍ</td><td class=\"rom\">Khɤ́ɤy</td><td>avoir déjà (fait)</td><td></td></tr><tr><td class=\"lo\">ບໍ່ເຄີຍ</td><td class=\"rom\">Bɔ̀ɔ-khɤ́ɤy</td><td>ne jamais avoir</td><td></td></tr><tr><td class=\"lo\">ເທື່ອ</td><td class=\"rom\">Thʉ̄a</td><td>fois</td><td></td></tr><tr><td class=\"lo\">ສອງເທື່ອ</td><td class=\"rom\">Sɔ̌ɔng thʉ̄a</td><td>deux fois</td><td></td></tr><tr><td class=\"lo\">ໄຂ່ມົດ</td><td class=\"rom\">Khày mōt</td><td>œufs de fourmi</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : l'expérience avec ເຄີຍ",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ເຄີຍໄປບໍ?</span> <span class=\"rom\">Khɤ́ɤy pǎy bɔ̌ɔ?</span> = tu y es déjà allé ?</li><li><span class=\"lo\">ບໍ່ເຄີຍກິນ</span> <span class=\"rom\">Bɔ̀ɔ-khɤ́ɤy kǐn</span> = je n&#x27;en ai jamais mangé</li><li><span class=\"lo\">ເຄີຍສາມເທື່ອ</span> <span class=\"rom\">Khɤ́ɤy sǎam thʉ̄a</span> = trois fois déjà</li></ul><p><b>À toi de trouver :</b></p><ol><li>Comment répond-on oui et non ?</li></ol><details><summary>La règle</summary><p>ເຄີຍ + verbe = avoir déjà fait. Réponse : ເຄີຍ (oui) ou ບໍ່ເຄີຍ (jamais).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> ເຄີຍ et ບໍ່ເຄີຍ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Tu es déjà allé au Laos ?</li><li>Jamais.</li><li>Deux fois.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເຄີຍໄປລາວບໍ?</span> <span class=\"rom\">Khɤ́ɤy pǎy láaw bɔ̌ɔ?</span></li><li><span class=\"lo\">ບໍ່ເຄີຍ</span> <span class=\"rom\">Bɔ̀ɔ-khɤ́ɤy.</span></li><li><span class=\"lo\">ສອງເທື່ອ</span> <span class=\"rom\">Sɔ̌ɔng thʉ̄a.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris 5 expériences que tu as eues et 3 que tu n&#x27;as jamais eues.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Joue à « Tu as déjà… ? » avec un natif : 5 questions chacun.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>8 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l44-v01",
+   "front": "ເຄີຍ",
+   "back": "Khɤ́ɤy · avoir déjà (fait)"
+  },
+  {
+   "id": "l44-v02",
+   "front": "ບໍ່ເຄີຍ",
+   "back": "Bɔ̀ɔ-khɤ́ɤy · ne jamais avoir"
+  },
+  {
+   "id": "l44-v03",
+   "front": "ເທື່ອ",
+   "back": "Thʉ̄a · fois"
+  },
+  {
+   "id": "l44-v04",
+   "front": "ສອງເທື່ອ",
+   "back": "Sɔ̌ɔng thʉ̄a · deux fois"
+  },
+  {
+   "id": "l44-v05",
+   "front": "ໄຂ່ມົດ",
+   "back": "Khày mōt · œufs de fourmi"
+  },
+  {
+   "id": "l44-p01",
+   "front": "Tu es déjà allé au Laos ?",
+   "back": "ເຄີຍໄປລາວບໍ? · Khɤ́ɤy pǎy láaw bɔ̌ɔ?"
+  },
+  {
+   "id": "l44-p02",
+   "front": "Jamais.",
+   "back": "ບໍ່ເຄີຍ · Bɔ̀ɔ-khɤ́ɤy."
+  },
+  {
+   "id": "l44-p03",
+   "front": "Deux fois.",
+   "back": "ສອງເທື່ອ · Sɔ̌ɔng thʉ̄a."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ເຄີຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "avoir déjà (fait)",
+      "deux fois",
+      "ne jamais avoir",
+      "œufs de fourmi"
+     ],
+     "answer": "avoir déjà (fait)",
+     "reveal": "<i>Khɤ́ɤy</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ເຄີຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ne jamais avoir",
+      "deux fois",
+      "œufs de fourmi",
+      "avoir déjà (fait)"
+     ],
+     "answer": "ne jamais avoir",
+     "reveal": "<i>Bɔ̀ɔ-khɤ́ɤy</i>"
+    },
+    {
+     "audio": [
+      "ເທື່ອ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "fois",
+      "ne jamais avoir",
+      "deux fois",
+      "avoir déjà (fait)"
+     ],
+     "answer": "fois",
+     "reveal": "<i>Thʉ̄a</i>"
+    },
+    {
+     "audio": [
+      "ສອງເທື່ອ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "deux fois",
+      "fois",
+      "œufs de fourmi",
+      "ne jamais avoir"
+     ],
+     "answer": "deux fois",
+     "reveal": "<i>Sɔ̌ɔng thʉ̄a</i>"
+    },
+    {
+     "audio": [
+      "ໄຂ່ມົດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "œufs de fourmi",
+      "fois",
+      "deux fois",
+      "ne jamais avoir"
+     ],
+     "answer": "œufs de fourmi",
+     "reveal": "<i>Khày mōt</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເອື້ອຍເຄີຍໄປຫຼວງພະບາງບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu es déjà allée à Luang Prabang ?",
+      "Tu as déjà mangé des œufs de fourmi ?",
+      "J'y suis allé deux fois.",
+      "Oui. C'est bon !"
+     ],
+     "answer": "Tu es déjà allée à Luang Prabang ?",
+     "reveal": "<i>Ʉ̂ay khɤ́ɤy pǎy lǔang-phā-báang bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ເຄີຍ ເຈົ້າເດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Jamais. Et toi ?",
+      "Tu as déjà mangé des œufs de fourmi ?",
+      "Oui. C'est bon !",
+      "Tu es déjà allée à Luang Prabang ?"
+     ],
+     "answer": "Jamais. Et toi ?",
+     "reveal": "<i>Bɔ̀ɔ-khɤ́ɤy. Jâo dě?</i>"
+    },
+    {
+     "audio": [
+      "ເຄີຍໄປສອງເທື່ອ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "J'y suis allé deux fois.",
+      "Oui. C'est bon !",
+      "Tu as déjà mangé des œufs de fourmi ?",
+      "Jamais. Et toi ?"
+     ],
+     "answer": "J'y suis allé deux fois.",
+     "reveal": "<i>Khɤ́ɤy pǎy sɔ̌ɔng thʉ̄a.</i>"
+    },
+    {
+     "audio": [
+      "ເຄີຍກິນໄຂ່ມົດບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu as déjà mangé des œufs de fourmi ?",
+      "Jamais. Et toi ?",
+      "J'y suis allé deux fois.",
+      "Tu es déjà allée à Luang Prabang ?"
+     ],
+     "answer": "Tu as déjà mangé des œufs de fourmi ?",
+     "reveal": "<i>Khɤ́ɤy kǐn khày mōt bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ເຄີຍ ແຊບດີ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oui. C'est bon !",
+      "Tu es déjà allée à Luang Prabang ?",
+      "Jamais. Et toi ?",
+      "Tu as déjà mangé des œufs de fourmi ?"
+     ],
+     "answer": "Oui. C'est bon !",
+     "reveal": "<i>Khɤ́ɤy. Sɛ̂ɛp dǐi!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເຄີຍໄປລາວບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tu es déjà allé au Laos ?",
+      "Jamais.",
+      "Deux fois."
+     ],
+     "answer": "Tu es déjà allé au Laos ?",
+     "reveal": "<i>Khɤ́ɤy pǎy láaw bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ເຄີຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Jamais.",
+      "Tu es déjà allé au Laos ?",
+      "Deux fois."
+     ],
+     "answer": "Jamais.",
+     "reveal": "<i>Bɔ̀ɔ-khɤ́ɤy.</i>"
+    },
+    {
+     "audio": [
+      "ສອງເທື່ອ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Deux fois.",
+      "Jamais.",
+      "Tu es déjà allé au Laos ?"
+     ],
+     "answer": "Deux fois.",
+     "reveal": "<i>Sɔ̌ɔng thʉ̄a.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ເຄີຍ",
+   "rom": "Khɤ́ɤy",
+   "fr": "avoir déjà (fait)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ເຄີຍ",
+   "rom": "Bɔ̀ɔ-khɤ́ɤy",
+   "fr": "ne jamais avoir",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເທື່ອ",
+   "rom": "Thʉ̄a",
+   "fr": "fois",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສອງເທື່ອ",
+   "rom": "Sɔ̌ɔng thʉ̄a",
+   "fr": "deux fois",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄຂ່ມົດ",
+   "rom": "Khày mōt",
+   "fr": "œufs de fourmi",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຄີຍໄປລາວບໍ?",
+   "rom": "Khɤ́ɤy pǎy láaw bɔ̌ɔ?",
+   "fr": "Tu es déjà allé au Laos ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ເຄີຍ",
+   "rom": "Bɔ̀ɔ-khɤ́ɤy.",
+   "fr": "Jamais.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສອງເທື່ອ",
+   "rom": "Sɔ̌ɔng thʉ̄a.",
+   "fr": "Deux fois.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ເຄີຍ",
+    "ໄປ",
+    "ລາວ",
+    "ບໍ"
+   ],
+   "rom": "Khɤ́ɤy pǎy láaw bɔ̌ɔ?",
+   "fr": "Tu es déjà allé au Laos ?"
+  },
+  {
+   "tokens": [
+    "ສອງ",
+    "ເທື່ອ"
+   ],
+   "rom": "Sɔ̌ɔng thʉ̄a.",
+   "fr": "Deux fois."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ເຄີຍ",
+   "rom": "Khɤ́ɤy",
+   "fr": "avoir déjà (fait)"
+  },
+  {
+   "lao": "ບໍ່ເຄີຍ",
+   "rom": "Bɔ̀ɔ-khɤ́ɤy",
+   "fr": "ne jamais avoir"
+  },
+  {
+   "lao": "ເທື່ອ",
+   "rom": "Thʉ̄a",
+   "fr": "fois"
+  },
+  {
+   "lao": "ສອງເທື່ອ",
+   "rom": "Sɔ̌ɔng thʉ̄a",
+   "fr": "deux fois"
+  },
+  {
+   "lao": "ໄຂ່ມົດ",
+   "rom": "Khày mōt",
+   "fr": "œufs de fourmi"
+  }
+ ],
+ "sounds": {
+  "ໜໍ່ໄມ້": "Nɔ̀ɔ-mȁy",
+  "ອີກ": "Ìik",
+  "ພໍດີ": "Phɔ́ɔ-dǐi",
+  "ວັນເສົາ": "Wán-sǎo",
+  "ເອື້ອຍເຄີຍໄປຫຼວງພະບາງບໍ": "Ʉ̂ay khɤ́ɤy pǎy lǔang-phā-báang bɔ̌ɔ?",
+  "ບໍ່ເຄີຍ ເຈົ້າເດ": "Bɔ̀ɔ-khɤ́ɤy. Jâo dě?",
+  "ເຄີຍໄປສອງເທື່ອ": "Khɤ́ɤy pǎy sɔ̌ɔng thʉ̄a.",
+  "ເຄີຍກິນໄຂ່ມົດບໍ": "Khɤ́ɤy kǐn khày mōt bɔ̌ɔ?",
+  "ເຄີຍ ແຊບດີ": "Khɤ́ɤy. Sɛ̂ɛp dǐi!",
+  "ເຄີຍ": "khɤ́ɤy",
+  "ບໍ່ເຄີຍ": "Bɔ̀ɔ-khɤ́ɤy.",
+  "ເທື່ອ": "thʉ̄a",
+  "ສອງເທື່ອ": "Sɔ̌ɔng thʉ̄a.",
+  "ໄຂ່ມົດ": "Khày mōt",
+  "ເຄີຍໄປບໍ": "Khɤ́ɤy pǎy bɔ̌ɔ?",
+  "ບໍ່ເຄີຍກິນ": "Bɔ̀ɔ-khɤ́ɤy kǐn",
+  "ເຄີຍສາມເທື່ອ": "Khɤ́ɤy sǎam thʉ̄a",
+  "ເຄີຍໄປລາວບໍ": "Khɤ́ɤy pǎy láaw bɔ̌ɔ?",
+  "ໄປ": "pǎy",
+  "ລາວ": "láaw",
+  "ບໍ": "bɔ̌ɔ",
+  "ສອງ": "sɔ̌ɔng"
+ },
+ "suivi": "LEÇON : 44 — Partie D (Raconter et organiser, A2) · Tu as déjà… ?\nOBJECTIF : Parler de tes expériences : déjà, jamais.\nNOTION : l'expérience avec ເຄີຍ\nVOCAB : Khɤ́ɤy, Bɔ̀ɔ-khɤ́ɤy, Thʉ̄a, Sɔ̌ɔng thʉ̄a, Khày mōt\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 45 — Stratégies de survie"
+}

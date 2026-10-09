@@ -1,0 +1,512 @@
+{
+ "num": 58,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Les fêtes",
+ "objective": "Souhaiter une bonne fête et participer à un baci.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>arriver <small class=\"muted\">(leçon 57)</small></li><li>tous les jours <small class=\"muted\">(leçon 55)</small></li><li>climatisation <small class=\"muted\">(leçon 51)</small></li><li>avoir déjà (fait) <small class=\"muted\">(leçon 44)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຮອດ</span> <span class=\"rom\">Hɔ̂ɔt</span> · arriver</li><li><span class=\"lo\">ທຸກມື້</span> <span class=\"rom\">Thūk-mʉ̂ʉ</span> · tous les jours</li><li><span class=\"lo\">ແອ</span> <span class=\"rom\">Ɛ̌ɛ</span> · climatisation</li><li><span class=\"lo\">ເຄີຍ</span> <span class=\"rom\">Khɤ́ɤy</span> · avoir déjà (fait)</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Souhaiter une bonne fête et participer à un baci.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">C&#x27;est le Nouvel An lao.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ສະບາຍດີປີໃໝ່!</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສະບາຍດີປີໃໝ່ເຈົ້າ! ຂໍໃຫ້ມີສຸຂະພາບແຂງແຮງ</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ມື້ນີ້ມີບາສີຢູ່ເຮືອນ ມາຜູກແຂນນຳກັນ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂອບໃຈທີ່ເຊີນຂ້ອຍ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Sā-bǎay-dǐi pǐi-mày!</span><br><span class=\"rom\">Sā-bǎay-dǐi pǐi-mày jâo! Khɔ̌ɔ hây míi sū-khā-phȃap khɛ̌ɛng-hɛ́ɛng.</span><br><span class=\"rom\">Mʉ̂ʉ-nȉi míi bǎa-sǐi yùu hʉ́an. Máa phȕuk-khɛ̌ɛn nám kǎn.</span><br><span class=\"rom\">Khɔ̏ɔp-jǎy thīi sɤ́ɤn khɔ̂ɔy.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Mme Boua</b> — Bonne année !<br><b>Clara</b> — Bonne année ! Je vous souhaite une bonne santé.<br><b>Mme Boua</b> — Aujourd&#x27;hui, il y a un baci à la maison. Viens, on va nouer les fils.<br><b>Clara</b> — Merci de m&#x27;inviter.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quelle fête est-ce ?</li><li>Que se passe-t-il à la maison ?</li></ol><details><summary>Réponses</summary><ol><li>Le Nouvel An lao (Pi Mai).</li><li>Un baci, cérémonie des fils de coton.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ບຸນປີໃໝ່</td><td class=\"rom\">Bǔn-pǐi-mày</td><td>Nouvel An lao (avril)</td><td></td></tr><tr><td class=\"lo\">ສະບາຍດີປີໃໝ່</td><td class=\"rom\">Sā-bǎay-dǐi pǐi-mày</td><td>bonne année</td><td></td></tr><tr><td class=\"lo\">ບາສີ</td><td class=\"rom\">Bǎa-sǐi</td><td>baci (cérémonie)</td><td></td></tr><tr><td class=\"lo\">ຜູກແຂນ</td><td class=\"rom\">Phȕuk-khɛ̌ɛn</td><td>nouer les fils au poignet</td><td></td></tr><tr><td class=\"lo\">ຂໍໃຫ້</td><td class=\"rom\">Khɔ̌ɔ hây</td><td>je souhaite que</td><td></td></tr><tr><td class=\"lo\">ສຸຂະພາບແຂງແຮງ</td><td class=\"rom\">Sū-khā-phȃap khɛ̌ɛng-hɛ́ɛng</td><td>bonne santé</td><td></td></tr><tr><td class=\"lo\">ໂຊກດີ</td><td class=\"rom\">Sôok-dǐi</td><td>bonne chance</td><td></td></tr><tr><td class=\"lo\">ອວຍພອນ</td><td class=\"rom\">Ǔay-phɔ́ɔn</td><td>souhaiter, bénir</td><td></td></tr></table></div><p class=\"note\">Pendant le baci (ບາສີ), les invités nouent des fils de coton blanc au poignet de la personne fêtée en prononçant des vœux. On garde les fils au moins trois jours.</p>"
+  },
+  {
+   "title": "Point de langue : les vœux avec ຂໍໃຫ້",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຂໍໃຫ້ໂຊກດີ</span> <span class=\"rom\">Khɔ̌ɔ hây sôok-dǐi</span> = bonne chance</li><li><span class=\"lo\">ຂໍໃຫ້ມີຄວາມສຸກ</span> <span class=\"rom\">Khɔ̌ɔ hây míi khwáam-sūk</span> = sois heureux</li></ul><p><b>À toi de trouver :</b></p><ol><li>Comment commencent les vœux ?</li></ol><details><summary>La règle</summary><p>ຂໍໃຫ້ + souhait = « je souhaite que… ». On l'utilise aux fêtes et pendant le baci en nouant les fils.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les formules de vœux.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Bonne année !</li><li>Bonne chance !</li><li>Merci de m&#x27;inviter.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ສະບາຍດີປີໃໝ່!</span> <span class=\"rom\">Sā-bǎay-dǐi pǐi-mày!</span></li><li><span class=\"lo\">ຂໍໃຫ້ໂຊກດີ!</span> <span class=\"rom\">Khɔ̌ɔ hây sôok-dǐi!</span></li><li><span class=\"lo\">ຂອບໃຈທີ່ເຊີນຂ້ອຍ</span> <span class=\"rom\">Khɔ̏ɔp-jǎy thīi sɤ́ɤn khɔ̂ɔy.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris 4 vœux pour quelqu&#x27;un que tu aimes.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Souhaite une bonne fête en lao à un natif, oralement ou par message.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>11 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l58-v01",
+   "front": "ບຸນປີໃໝ່",
+   "back": "Bǔn-pǐi-mày · Nouvel An lao (avril)"
+  },
+  {
+   "id": "l58-v02",
+   "front": "ສະບາຍດີປີໃໝ່",
+   "back": "Sā-bǎay-dǐi pǐi-mày · bonne année"
+  },
+  {
+   "id": "l58-v03",
+   "front": "ບາສີ",
+   "back": "Bǎa-sǐi · baci (cérémonie)"
+  },
+  {
+   "id": "l58-v04",
+   "front": "ຜູກແຂນ",
+   "back": "Phȕuk-khɛ̌ɛn · nouer les fils au poignet"
+  },
+  {
+   "id": "l58-v05",
+   "front": "ຂໍໃຫ້",
+   "back": "Khɔ̌ɔ hây · je souhaite que"
+  },
+  {
+   "id": "l58-v06",
+   "front": "ສຸຂະພາບແຂງແຮງ",
+   "back": "Sū-khā-phȃap khɛ̌ɛng-hɛ́ɛng · bonne santé"
+  },
+  {
+   "id": "l58-v07",
+   "front": "ໂຊກດີ",
+   "back": "Sôok-dǐi · bonne chance"
+  },
+  {
+   "id": "l58-v08",
+   "front": "ອວຍພອນ",
+   "back": "Ǔay-phɔ́ɔn · souhaiter, bénir"
+  },
+  {
+   "id": "l58-p01",
+   "front": "Bonne année !",
+   "back": "ສະບາຍດີປີໃໝ່! · Sā-bǎay-dǐi pǐi-mày!"
+  },
+  {
+   "id": "l58-p02",
+   "front": "Bonne chance !",
+   "back": "ຂໍໃຫ້ໂຊກດີ! · Khɔ̌ɔ hây sôok-dǐi!"
+  },
+  {
+   "id": "l58-p03",
+   "front": "Merci de m'inviter.",
+   "back": "ຂອບໃຈທີ່ເຊີນຂ້ອຍ · Khɔ̏ɔp-jǎy thīi sɤ́ɤn khɔ̂ɔy."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ບຸນປີໃໝ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "Nouvel An lao (avril)",
+      "je souhaite que",
+      "bonne année",
+      "bonne santé"
+     ],
+     "answer": "Nouvel An lao (avril)",
+     "reveal": "<i>Bǔn-pǐi-mày</i>"
+    },
+    {
+     "audio": [
+      "ສະບາຍດີປີໃໝ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "bonne année",
+      "nouer les fils au poignet",
+      "bonne santé",
+      "je souhaite que"
+     ],
+     "answer": "bonne année",
+     "reveal": "<i>Sā-bǎay-dǐi pǐi-mày</i>"
+    },
+    {
+     "audio": [
+      "ບາສີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "baci (cérémonie)",
+      "nouer les fils au poignet",
+      "Nouvel An lao (avril)",
+      "bonne année"
+     ],
+     "answer": "baci (cérémonie)",
+     "reveal": "<i>Bǎa-sǐi</i>"
+    },
+    {
+     "audio": [
+      "ຜູກແຂນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "nouer les fils au poignet",
+      "bonne santé",
+      "bonne année",
+      "Nouvel An lao (avril)"
+     ],
+     "answer": "nouer les fils au poignet",
+     "reveal": "<i>Phȕuk-khɛ̌ɛn</i>"
+    },
+    {
+     "audio": [
+      "ຂໍໃຫ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "je souhaite que",
+      "bonne santé",
+      "bonne chance",
+      "nouer les fils au poignet"
+     ],
+     "answer": "je souhaite que",
+     "reveal": "<i>Khɔ̌ɔ hây</i>"
+    },
+    {
+     "audio": [
+      "ສຸຂະພາບແຂງແຮງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "bonne santé",
+      "bonne chance",
+      "nouer les fils au poignet",
+      "Nouvel An lao (avril)"
+     ],
+     "answer": "bonne santé",
+     "reveal": "<i>Sū-khā-phȃap khɛ̌ɛng-hɛ́ɛng</i>"
+    },
+    {
+     "audio": [
+      "ໂຊກດີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "bonne chance",
+      "bonne année",
+      "souhaiter, bénir",
+      "nouer les fils au poignet"
+     ],
+     "answer": "bonne chance",
+     "reveal": "<i>Sôok-dǐi</i>"
+    },
+    {
+     "audio": [
+      "ອວຍພອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "souhaiter, bénir",
+      "Nouvel An lao (avril)",
+      "bonne santé",
+      "baci (cérémonie)"
+     ],
+     "answer": "souhaiter, bénir",
+     "reveal": "<i>Ǔay-phɔ́ɔn</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ສະບາຍດີປີໃໝ່!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Bonne année !",
+      "Merci de m'inviter.",
+      "Aujourd'hui, il y a un baci à la maison. Viens, on va nouer les fils.",
+      "Bonne année ! Je vous souhaite une bonne santé."
+     ],
+     "answer": "Bonne année !",
+     "reveal": "<i>Sā-bǎay-dǐi pǐi-mày!</i>"
+    },
+    {
+     "audio": [
+      "ສະບາຍດີປີໃໝ່ເຈົ້າ! ຂໍໃຫ້ມີສຸຂະພາບແຂງແຮງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Bonne année ! Je vous souhaite une bonne santé.",
+      "Bonne année !",
+      "Merci de m'inviter.",
+      "Aujourd'hui, il y a un baci à la maison. Viens, on va nouer les fils."
+     ],
+     "answer": "Bonne année ! Je vous souhaite une bonne santé.",
+     "reveal": "<i>Sā-bǎay-dǐi pǐi-mày jâo! Khɔ̌ɔ hây míi sū-khā-phȃap khɛ̌ɛng-hɛ́ɛng.</i>"
+    },
+    {
+     "audio": [
+      "ມື້ນີ້ມີບາສີຢູ່ເຮືອນ ມາຜູກແຂນນຳກັນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Aujourd'hui, il y a un baci à la maison. Viens, on va nouer les fils.",
+      "Bonne année !",
+      "Merci de m'inviter.",
+      "Bonne année ! Je vous souhaite une bonne santé."
+     ],
+     "answer": "Aujourd'hui, il y a un baci à la maison. Viens, on va nouer les fils.",
+     "reveal": "<i>Mʉ̂ʉ-nȉi míi bǎa-sǐi yùu hʉ́an. Máa phȕuk-khɛ̌ɛn nám kǎn.</i>"
+    },
+    {
+     "audio": [
+      "ຂອບໃຈທີ່ເຊີນຂ້ອຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Merci de m'inviter.",
+      "Aujourd'hui, il y a un baci à la maison. Viens, on va nouer les fils.",
+      "Bonne année ! Je vous souhaite une bonne santé.",
+      "Bonne année !"
+     ],
+     "answer": "Merci de m'inviter.",
+     "reveal": "<i>Khɔ̏ɔp-jǎy thīi sɤ́ɤn khɔ̂ɔy.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ສະບາຍດີປີໃໝ່!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Bonne année !",
+      "Merci de m'inviter.",
+      "Bonne chance !"
+     ],
+     "answer": "Bonne année !",
+     "reveal": "<i>Sā-bǎay-dǐi pǐi-mày!</i>"
+    },
+    {
+     "audio": [
+      "ຂໍໃຫ້ໂຊກດີ!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Bonne chance !",
+      "Bonne année !",
+      "Merci de m'inviter."
+     ],
+     "answer": "Bonne chance !",
+     "reveal": "<i>Khɔ̌ɔ hây sôok-dǐi!</i>"
+    },
+    {
+     "audio": [
+      "ຂອບໃຈທີ່ເຊີນຂ້ອຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Merci de m'inviter.",
+      "Bonne année !",
+      "Bonne chance !"
+     ],
+     "answer": "Merci de m'inviter.",
+     "reveal": "<i>Khɔ̏ɔp-jǎy thīi sɤ́ɤn khɔ̂ɔy.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ບຸນປີໃໝ່",
+   "rom": "Bǔn-pǐi-mày",
+   "fr": "Nouvel An lao (avril)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສະບາຍດີປີໃໝ່",
+   "rom": "Sā-bǎay-dǐi pǐi-mày",
+   "fr": "bonne année",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບາສີ",
+   "rom": "Bǎa-sǐi",
+   "fr": "baci (cérémonie)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຜູກແຂນ",
+   "rom": "Phȕuk-khɛ̌ɛn",
+   "fr": "nouer les fils au poignet",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍໃຫ້",
+   "rom": "Khɔ̌ɔ hây",
+   "fr": "je souhaite que",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສຸຂະພາບແຂງແຮງ",
+   "rom": "Sū-khā-phȃap khɛ̌ɛng-hɛ́ɛng",
+   "fr": "bonne santé",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂຊກດີ",
+   "rom": "Sôok-dǐi",
+   "fr": "bonne chance",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອວຍພອນ",
+   "rom": "Ǔay-phɔ́ɔn",
+   "fr": "souhaiter, bénir",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສະບາຍດີປີໃໝ່!",
+   "rom": "Sā-bǎay-dǐi pǐi-mày!",
+   "fr": "Bonne année !",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍໃຫ້ໂຊກດີ!",
+   "rom": "Khɔ̌ɔ hây sôok-dǐi!",
+   "fr": "Bonne chance !",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂອບໃຈທີ່ເຊີນຂ້ອຍ",
+   "rom": "Khɔ̏ɔp-jǎy thīi sɤ́ɤn khɔ̂ɔy.",
+   "fr": "Merci de m'inviter.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ສະບາຍດີ",
+    "ປີໃໝ່"
+   ],
+   "rom": "Sā-bǎay-dǐi pǐi-mày!",
+   "fr": "Bonne année !"
+  },
+  {
+   "tokens": [
+    "ຂໍ",
+    "ໃຫ້",
+    "ໂຊກດີ"
+   ],
+   "rom": "Khɔ̌ɔ hây sôok-dǐi!",
+   "fr": "Bonne chance !"
+  },
+  {
+   "tokens": [
+    "ຂອບໃຈ",
+    "ທີ່",
+    "ເຊີນ",
+    "ຂ້ອຍ"
+   ],
+   "rom": "Khɔ̏ɔp-jǎy thīi sɤ́ɤn khɔ̂ɔy.",
+   "fr": "Merci de m'inviter."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ບຸນປີໃໝ່",
+   "rom": "Bǔn-pǐi-mày",
+   "fr": "Nouvel An lao (avril)"
+  },
+  {
+   "lao": "ສະບາຍດີປີໃໝ່",
+   "rom": "Sā-bǎay-dǐi pǐi-mày",
+   "fr": "bonne année"
+  },
+  {
+   "lao": "ບາສີ",
+   "rom": "Bǎa-sǐi",
+   "fr": "baci (cérémonie)"
+  },
+  {
+   "lao": "ຜູກແຂນ",
+   "rom": "Phȕuk-khɛ̌ɛn",
+   "fr": "nouer les fils au poignet"
+  },
+  {
+   "lao": "ຂໍໃຫ້",
+   "rom": "Khɔ̌ɔ hây",
+   "fr": "je souhaite que"
+  },
+  {
+   "lao": "ສຸຂະພາບແຂງແຮງ",
+   "rom": "Sū-khā-phȃap khɛ̌ɛng-hɛ́ɛng",
+   "fr": "bonne santé"
+  },
+  {
+   "lao": "ໂຊກດີ",
+   "rom": "Sôok-dǐi",
+   "fr": "bonne chance"
+  },
+  {
+   "lao": "ອວຍພອນ",
+   "rom": "Ǔay-phɔ́ɔn",
+   "fr": "souhaiter, bénir"
+  }
+ ],
+ "sounds": {
+  "ຮອດ": "Hɔ̂ɔt",
+  "ທຸກມື້": "Thūk-mʉ̂ʉ",
+  "ແອ": "Ɛ̌ɛ",
+  "ເຄີຍ": "Khɤ́ɤy",
+  "ສະບາຍດີປີໃໝ່": "Sā-bǎay-dǐi pǐi-mày!",
+  "ສະບາຍດີປີໃໝ່ເຈົ້າ ຂໍໃຫ້ມີສຸຂະພາບແຂງແຮງ": "Sā-bǎay-dǐi pǐi-mày jâo! Khɔ̌ɔ hây míi sū-khā-phȃap khɛ̌ɛng-hɛ́ɛng.",
+  "ມື້ນີ້ມີບາສີຢູ່ເຮືອນ ມາຜູກແຂນນຳກັນ": "Mʉ̂ʉ-nȉi míi bǎa-sǐi yùu hʉ́an. Máa phȕuk-khɛ̌ɛn nám kǎn.",
+  "ຂອບໃຈທີ່ເຊີນຂ້ອຍ": "Khɔ̏ɔp-jǎy thīi sɤ́ɤn khɔ̂ɔy.",
+  "ບຸນປີໃໝ່": "Bǔn-pǐi-mày",
+  "ບາສີ": "Bǎa-sǐi",
+  "ຜູກແຂນ": "Phȕuk-khɛ̌ɛn",
+  "ຂໍໃຫ້": "Khɔ̌ɔ hây",
+  "ສຸຂະພາບແຂງແຮງ": "Sū-khā-phȃap khɛ̌ɛng-hɛ́ɛng",
+  "ໂຊກດີ": "sôok-dǐi",
+  "ອວຍພອນ": "Ǔay-phɔ́ɔn",
+  "ຂໍໃຫ້ໂຊກດີ": "Khɔ̌ɔ hây sôok-dǐi!",
+  "ຂໍໃຫ້ມີຄວາມສຸກ": "Khɔ̌ɔ hây míi khwáam-sūk",
+  "ສະບາຍດີ": "sā-bǎay-dǐi",
+  "ປີໃໝ່": "pǐi-mày",
+  "ຂໍ": "khɔ̌ɔ",
+  "ໃຫ້": "hây",
+  "ຂອບໃຈ": "khɔ̏ɔp-jǎy",
+  "ທີ່": "thīi",
+  "ເຊີນ": "sɤ́ɤn",
+  "ຂ້ອຍ": "khɔ̂ɔy"
+ },
+ "suivi": "LEÇON : 58 — Partie D (Raconter et organiser, A2) · Les fêtes\nOBJECTIF : Souhaiter une bonne fête et participer à un baci.\nNOTION : les vœux avec ຂໍໃຫ້\nVOCAB : Bǔn-pǐi-mày, Sā-bǎay-dǐi pǐi-mày, Bǎa-sǐi, Phȕuk-khɛ̌ɛn, Khɔ̌ɔ hây, Sū-khā-phȃap khɛ̌ɛng-hɛ́ɛng, Sôok-dǐi, Ǔay-phɔ́ɔn\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 59 — Cuisiner"
+}

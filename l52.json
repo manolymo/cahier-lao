@@ -1,0 +1,550 @@
+{
+ "num": 52,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Travail et études",
+ "objective": "Parler de ton métier, de tes études et de leur but.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>électricité (facture) <small class=\"muted\">(leçon 51)</small></li><li>plus… (que) <small class=\"muted\">(leçon 49)</small></li><li>je ne comprends pas <small class=\"muted\">(leçon 45)</small></li><li>médicament <small class=\"muted\">(leçon 38)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຄ່າໄຟ</span> <span class=\"rom\">Khāa fáy</span> · électricité (facture)</li><li><span class=\"lo\">ກວ່າ</span> <span class=\"rom\">Kwàa</span> · plus… (que)</li><li><span class=\"lo\">ບໍ່ເຂົ້າໃຈ</span> <span class=\"rom\">Bɔ̀ɔ-khâo-jǎy</span> · je ne comprends pas</li><li><span class=\"lo\">ຢາ</span> <span class=\"rom\">Yǎa</span> · médicament</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Parler de ton métier, de tes études et de leur but.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara parle de son travail.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ເຈົ້າເຮັດວຽກຫຍັງ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍເປັນຄູສອນພາສາຝຣັ່ງ</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ເປັນຫຍັງມາຢູ່ລາວ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ມາເພື່ອສອນແລະຮຽນພາສາລາວ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Jâo hēt-wîak nyǎng?</span><br><span class=\"rom\">Khɔ̂ɔy pěn khúu sɔ̌ɔn pháa-sǎa-fa-làng.</span><br><span class=\"rom\">Pěn nyǎng máa yùu láaw?</span><br><span class=\"rom\">Máa phʉ̄a sɔ̌ɔn lɛ́ hían pháa-sǎa-láaw.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>M. Somsak</b> — Tu fais quoi comme travail ?<br><b>Clara</b> — Je suis professeure de français.<br><b>M. Somsak</b> — Pourquoi es-tu venue au Laos ?<br><b>Clara</b> — Pour enseigner et apprendre le lao.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quel est le métier de Clara ?</li><li>Pourquoi est-elle au Laos ?</li></ol><details><summary>Réponses</summary><ol><li>Professeure de français.</li><li>Pour enseigner et apprendre le lao.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ເຮັດວຽກ</td><td class=\"rom\">Hēt-wîak</td><td>travailler</td><td></td></tr><tr><td class=\"lo\">ເຮັດວຽກຫຍັງ</td><td class=\"rom\">Hēt-wîak nyǎng</td><td>quel travail ?</td><td></td></tr><tr><td class=\"lo\">ເປັນ</td><td class=\"rom\">Pěn</td><td>être (métier)</td><td></td></tr><tr><td class=\"lo\">ຄູ</td><td class=\"rom\">Khúu</td><td>professeur</td><td></td></tr><tr><td class=\"lo\">ທ່ານໝໍ</td><td class=\"rom\">Thāan-mɔ̌ɔ</td><td>médecin</td><td></td></tr><tr><td class=\"lo\">ພະນັກງານ</td><td class=\"rom\">Phā-nák-ngáan</td><td>employé</td><td></td></tr><tr><td class=\"lo\">ນັກສຶກສາ</td><td class=\"rom\">Nāk-sʉ̄k-sǎa</td><td>étudiant</td><td></td></tr><tr><td class=\"lo\">ເພື່ອ</td><td class=\"rom\">Phʉ̄a</td><td>pour, afin de</td><td></td></tr><tr><td class=\"lo\">ບໍລິສັດ</td><td class=\"rom\">Bɔ̌ɔ-lī-sāt</td><td>entreprise</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : le but avec ເພື່ອ",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ມາເພື່ອຮຽນ</span> <span class=\"rom\">Máa phʉ̄a hían</span> = venir pour étudier</li><li><span class=\"lo\">ຮຽນເພື່ອລົມກັບຄອບຄົວ</span> <span class=\"rom\">Hían phʉ̄a lóm kǎp khɔ̂ɔp-khúa</span> = apprendre pour parler avec la famille</li></ul><p><b>À toi de trouver :</b></p><ol><li>Que montre ເພື່ອ ?</li></ol><details><summary>La règle</summary><p>ເພື່ອ + verbe = pour, afin de. ເປັນ + métier = être (tel métier).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> ເປັນ devant les métiers.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Tu fais quoi comme travail ?</li><li>Je suis professeure.</li><li>J&#x27;apprends le lao pour parler avec ma famille.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເຈົ້າເຮັດວຽກຫຍັງ?</span> <span class=\"rom\">Jâo hēt-wîak nyǎng?</span></li><li><span class=\"lo\">ຂ້ອຍເປັນຄູ</span> <span class=\"rom\">Khɔ̂ɔy pěn khúu.</span></li><li><span class=\"lo\">ຂ້ອຍຮຽນພາສາລາວເພື່ອລົມກັບຄອບຄົວ</span> <span class=\"rom\">Khɔ̂ɔy hían pháa-sǎa-láaw phʉ̄a lóm kǎp khɔ̂ɔp-khúa.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris pourquoi tu apprends le lao, en 3 phrases avec ເພື່ອ.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Explique ton métier et tes raisons d&#x27;apprendre le lao à un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>12 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l52-v01",
+   "front": "ເຮັດວຽກ",
+   "back": "Hēt-wîak · travailler"
+  },
+  {
+   "id": "l52-v02",
+   "front": "ເຮັດວຽກຫຍັງ",
+   "back": "Hēt-wîak nyǎng · quel travail ?"
+  },
+  {
+   "id": "l52-v03",
+   "front": "ເປັນ",
+   "back": "Pěn · être (métier)"
+  },
+  {
+   "id": "l52-v04",
+   "front": "ຄູ",
+   "back": "Khúu · professeur"
+  },
+  {
+   "id": "l52-v05",
+   "front": "ທ່ານໝໍ",
+   "back": "Thāan-mɔ̌ɔ · médecin"
+  },
+  {
+   "id": "l52-v06",
+   "front": "ພະນັກງານ",
+   "back": "Phā-nák-ngáan · employé"
+  },
+  {
+   "id": "l52-v07",
+   "front": "ນັກສຶກສາ",
+   "back": "Nāk-sʉ̄k-sǎa · étudiant"
+  },
+  {
+   "id": "l52-v08",
+   "front": "ເພື່ອ",
+   "back": "Phʉ̄a · pour, afin de"
+  },
+  {
+   "id": "l52-v09",
+   "front": "ບໍລິສັດ",
+   "back": "Bɔ̌ɔ-lī-sāt · entreprise"
+  },
+  {
+   "id": "l52-p01",
+   "front": "Tu fais quoi comme travail ?",
+   "back": "ເຈົ້າເຮັດວຽກຫຍັງ? · Jâo hēt-wîak nyǎng?"
+  },
+  {
+   "id": "l52-p02",
+   "front": "Je suis professeure.",
+   "back": "ຂ້ອຍເປັນຄູ · Khɔ̂ɔy pěn khúu."
+  },
+  {
+   "id": "l52-p03",
+   "front": "J'apprends le lao pour parler avec ma famille.",
+   "back": "ຂ້ອຍຮຽນພາສາລາວເພື່ອລົມກັບຄອບຄົວ · Khɔ̂ɔy hían pháa-sǎa-láaw phʉ̄a lóm kǎp khɔ̂ɔp-khúa."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ເຮັດວຽກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "travailler",
+      "médecin",
+      "quel travail ?",
+      "étudiant"
+     ],
+     "answer": "travailler",
+     "reveal": "<i>Hēt-wîak</i>"
+    },
+    {
+     "audio": [
+      "ເຮັດວຽກຫຍັງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "quel travail ?",
+      "entreprise",
+      "pour, afin de",
+      "employé"
+     ],
+     "answer": "quel travail ?",
+     "reveal": "<i>Hēt-wîak nyǎng</i>"
+    },
+    {
+     "audio": [
+      "ເປັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "être (métier)",
+      "quel travail ?",
+      "étudiant",
+      "médecin"
+     ],
+     "answer": "être (métier)",
+     "reveal": "<i>Pěn</i>"
+    },
+    {
+     "audio": [
+      "ຄູ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "professeur",
+      "être (métier)",
+      "employé",
+      "médecin"
+     ],
+     "answer": "professeur",
+     "reveal": "<i>Khúu</i>"
+    },
+    {
+     "audio": [
+      "ທ່ານໝໍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "médecin",
+      "professeur",
+      "entreprise",
+      "pour, afin de"
+     ],
+     "answer": "médecin",
+     "reveal": "<i>Thāan-mɔ̌ɔ</i>"
+    },
+    {
+     "audio": [
+      "ພະນັກງານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "employé",
+      "professeur",
+      "pour, afin de",
+      "médecin"
+     ],
+     "answer": "employé",
+     "reveal": "<i>Phā-nák-ngáan</i>"
+    },
+    {
+     "audio": [
+      "ນັກສຶກສາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "étudiant",
+      "pour, afin de",
+      "quel travail ?",
+      "entreprise"
+     ],
+     "answer": "étudiant",
+     "reveal": "<i>Nāk-sʉ̄k-sǎa</i>"
+    },
+    {
+     "audio": [
+      "ເພື່ອ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pour, afin de",
+      "travailler",
+      "professeur",
+      "être (métier)"
+     ],
+     "answer": "pour, afin de",
+     "reveal": "<i>Phʉ̄a</i>"
+    },
+    {
+     "audio": [
+      "ບໍລິສັດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "entreprise",
+      "quel travail ?",
+      "employé",
+      "professeur"
+     ],
+     "answer": "entreprise",
+     "reveal": "<i>Bɔ̌ɔ-lī-sāt</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເຈົ້າເຮັດວຽກຫຍັງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu fais quoi comme travail ?",
+      "Je suis professeure de français.",
+      "Pourquoi es-tu venue au Laos ?",
+      "Pour enseigner et apprendre le lao."
+     ],
+     "answer": "Tu fais quoi comme travail ?",
+     "reveal": "<i>Jâo hēt-wîak nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍເປັນຄູສອນພາສາຝຣັ່ງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je suis professeure de français.",
+      "Pourquoi es-tu venue au Laos ?",
+      "Pour enseigner et apprendre le lao.",
+      "Tu fais quoi comme travail ?"
+     ],
+     "answer": "Je suis professeure de français.",
+     "reveal": "<i>Khɔ̂ɔy pěn khúu sɔ̌ɔn pháa-sǎa-fa-làng.</i>"
+    },
+    {
+     "audio": [
+      "ເປັນຫຍັງມາຢູ່ລາວ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Pourquoi es-tu venue au Laos ?",
+      "Tu fais quoi comme travail ?",
+      "Je suis professeure de français.",
+      "Pour enseigner et apprendre le lao."
+     ],
+     "answer": "Pourquoi es-tu venue au Laos ?",
+     "reveal": "<i>Pěn nyǎng máa yùu láaw?</i>"
+    },
+    {
+     "audio": [
+      "ມາເພື່ອສອນແລະຮຽນພາສາລາວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Pour enseigner et apprendre le lao.",
+      "Tu fais quoi comme travail ?",
+      "Je suis professeure de français.",
+      "Pourquoi es-tu venue au Laos ?"
+     ],
+     "answer": "Pour enseigner et apprendre le lao.",
+     "reveal": "<i>Máa phʉ̄a sɔ̌ɔn lɛ́ hían pháa-sǎa-láaw.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເຈົ້າເຮັດວຽກຫຍັງ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tu fais quoi comme travail ?",
+      "J'apprends le lao pour parler avec ma famille.",
+      "Je suis professeure."
+     ],
+     "answer": "Tu fais quoi comme travail ?",
+     "reveal": "<i>Jâo hēt-wîak nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍເປັນຄູ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je suis professeure.",
+      "Tu fais quoi comme travail ?",
+      "J'apprends le lao pour parler avec ma famille."
+     ],
+     "answer": "Je suis professeure.",
+     "reveal": "<i>Khɔ̂ɔy pěn khúu.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຮຽນພາສາລາວເພື່ອລົມກັບຄອບຄົວ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "J'apprends le lao pour parler avec ma famille.",
+      "Je suis professeure.",
+      "Tu fais quoi comme travail ?"
+     ],
+     "answer": "J'apprends le lao pour parler avec ma famille.",
+     "reveal": "<i>Khɔ̂ɔy hían pháa-sǎa-láaw phʉ̄a lóm kǎp khɔ̂ɔp-khúa.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ເຮັດວຽກ",
+   "rom": "Hēt-wîak",
+   "fr": "travailler",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຮັດວຽກຫຍັງ",
+   "rom": "Hēt-wîak nyǎng",
+   "fr": "quel travail ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເປັນ",
+   "rom": "Pěn",
+   "fr": "être (métier)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄູ",
+   "rom": "Khúu",
+   "fr": "professeur",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທ່ານໝໍ",
+   "rom": "Thāan-mɔ̌ɔ",
+   "fr": "médecin",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພະນັກງານ",
+   "rom": "Phā-nák-ngáan",
+   "fr": "employé",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນັກສຶກສາ",
+   "rom": "Nāk-sʉ̄k-sǎa",
+   "fr": "étudiant",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເພື່ອ",
+   "rom": "Phʉ̄a",
+   "fr": "pour, afin de",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍລິສັດ",
+   "rom": "Bɔ̌ɔ-lī-sāt",
+   "fr": "entreprise",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຈົ້າເຮັດວຽກຫຍັງ?",
+   "rom": "Jâo hēt-wîak nyǎng?",
+   "fr": "Tu fais quoi comme travail ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍເປັນຄູ",
+   "rom": "Khɔ̂ɔy pěn khúu.",
+   "fr": "Je suis professeure.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຮຽນພາສາລາວເພື່ອລົມກັບຄອບຄົວ",
+   "rom": "Khɔ̂ɔy hían pháa-sǎa-láaw phʉ̄a lóm kǎp khɔ̂ɔp-khúa.",
+   "fr": "J'apprends le lao pour parler avec ma famille.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ເຈົ້າ",
+    "ເຮັດວຽກ",
+    "ຫຍັງ"
+   ],
+   "rom": "Jâo hēt-wîak nyǎng?",
+   "fr": "Tu fais quoi comme travail ?"
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ເປັນ",
+    "ຄູ"
+   ],
+   "rom": "Khɔ̂ɔy pěn khúu.",
+   "fr": "Je suis professeure."
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຮຽນ",
+    "ພາສາລາວ",
+    "ເພື່ອ",
+    "ລົມ",
+    "ກັບ",
+    "ຄອບຄົວ"
+   ],
+   "rom": "Khɔ̂ɔy hían pháa-sǎa-láaw phʉ̄a lóm kǎp khɔ̂ɔp-khúa.",
+   "fr": "J'apprends le lao pour parler avec ma famille."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ເຮັດວຽກ",
+   "rom": "Hēt-wîak",
+   "fr": "travailler"
+  },
+  {
+   "lao": "ເຮັດວຽກຫຍັງ",
+   "rom": "Hēt-wîak nyǎng",
+   "fr": "quel travail ?"
+  },
+  {
+   "lao": "ເປັນ",
+   "rom": "Pěn",
+   "fr": "être (métier)"
+  },
+  {
+   "lao": "ຄູ",
+   "rom": "Khúu",
+   "fr": "professeur"
+  },
+  {
+   "lao": "ທ່ານໝໍ",
+   "rom": "Thāan-mɔ̌ɔ",
+   "fr": "médecin"
+  },
+  {
+   "lao": "ພະນັກງານ",
+   "rom": "Phā-nák-ngáan",
+   "fr": "employé"
+  },
+  {
+   "lao": "ນັກສຶກສາ",
+   "rom": "Nāk-sʉ̄k-sǎa",
+   "fr": "étudiant"
+  },
+  {
+   "lao": "ເພື່ອ",
+   "rom": "Phʉ̄a",
+   "fr": "pour, afin de"
+  },
+  {
+   "lao": "ບໍລິສັດ",
+   "rom": "Bɔ̌ɔ-lī-sāt",
+   "fr": "entreprise"
+  }
+ ],
+ "sounds": {
+  "ຄ່າໄຟ": "Khāa fáy",
+  "ກວ່າ": "Kwàa",
+  "ບໍ່ເຂົ້າໃຈ": "Bɔ̀ɔ-khâo-jǎy",
+  "ຢາ": "Yǎa",
+  "ເຈົ້າເຮັດວຽກຫຍັງ": "Jâo hēt-wîak nyǎng?",
+  "ຂ້ອຍເປັນຄູສອນພາສາຝຣັ່ງ": "Khɔ̂ɔy pěn khúu sɔ̌ɔn pháa-sǎa-fa-làng.",
+  "ເປັນຫຍັງມາຢູ່ລາວ": "Pěn nyǎng máa yùu láaw?",
+  "ມາເພື່ອສອນແລະຮຽນພາສາລາວ": "Máa phʉ̄a sɔ̌ɔn lɛ́ hían pháa-sǎa-láaw.",
+  "ເຮັດວຽກ": "hēt-wîak",
+  "ເຮັດວຽກຫຍັງ": "Hēt-wîak nyǎng",
+  "ເປັນ": "pěn",
+  "ຄູ": "khúu",
+  "ທ່ານໝໍ": "Thāan-mɔ̌ɔ",
+  "ພະນັກງານ": "Phā-nák-ngáan",
+  "ນັກສຶກສາ": "Nāk-sʉ̄k-sǎa",
+  "ເພື່ອ": "phʉ̄a",
+  "ບໍລິສັດ": "Bɔ̌ɔ-lī-sāt",
+  "ມາເພື່ອຮຽນ": "Máa phʉ̄a hían",
+  "ຮຽນເພື່ອລົມກັບຄອບຄົວ": "Hían phʉ̄a lóm kǎp khɔ̂ɔp-khúa",
+  "ຂ້ອຍເປັນຄູ": "Khɔ̂ɔy pěn khúu.",
+  "ຂ້ອຍຮຽນພາສາລາວເພື່ອລົມກັບຄອບຄົວ": "Khɔ̂ɔy hían pháa-sǎa-láaw phʉ̄a lóm kǎp khɔ̂ɔp-khúa.",
+  "ເຈົ້າ": "jâo",
+  "ຫຍັງ": "nyǎng",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ຮຽນ": "hían",
+  "ພາສາລາວ": "pháa-sǎa-láaw",
+  "ລົມ": "lóm",
+  "ກັບ": "kǎp",
+  "ຄອບຄົວ": "khɔ̂ɔp-khúa"
+ },
+ "suivi": "LEÇON : 52 — Partie D (Raconter et organiser, A2) · Travail et études\nOBJECTIF : Parler de ton métier, de tes études et de leur but.\nNOTION : le but avec ເພື່ອ\nVOCAB : Hēt-wîak, Hēt-wîak nyǎng, Pěn, Khúu, Thāan-mɔ̌ɔ, Phā-nák-ngáan, Nāk-sʉ̄k-sǎa, Phʉ̄a, Bɔ̌ɔ-lī-sāt\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 53 — Pourquoi ? Parce que…"
+}

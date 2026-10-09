@@ -1,0 +1,586 @@
+{
+ "num": 41,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Hier",
+ "objective": "Raconter ce que tu as fait hier.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>de mieux en mieux <small class=\"muted\">(leçon 40)</small></li><li>jambe <small class=\"muted\">(leçon 38)</small></li><li>sac <small class=\"muted\">(leçon 34)</small></li><li>grand-père paternel <small class=\"muted\">(leçon 27)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ເກັ່ງຂຶ້ນ</span> <span class=\"rom\">Kèng khʉ̂n</span> · de mieux en mieux</li><li><span class=\"lo\">ຂາ</span> <span class=\"rom\">Khǎa</span> · jambe</li><li><span class=\"lo\">ກະເປົາ</span> <span class=\"rom\">Kā-pǎo</span> · sac</li><li><span class=\"lo\">ປູ່</span> <span class=\"rom\">Pùu</span> · grand-père paternel</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Raconter ce que tu as fait hier.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Lundi matin, Noy demande à Clara son week-end.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ມື້ວານເຈົ້າໄປໃສມາ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍໄປວັດກັບແມ່ບົວ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ແລ້ວໄດ້ເຮັດຫຍັງອີກ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໄດ້ກິນເຝີແລ້ວກັບເຮືອນ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ມ່ວນບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ມ່ວນຫຼາຍ!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Mʉ̂ʉ-wáan jâo pǎy sǎy máa?</span><br><span class=\"rom\">Khɔ̂ɔy pǎy wāt kǎp mɛ̄ɛ-būa.</span><br><span class=\"rom\">Lɛ̏ɛw dâay hēt nyǎng ìik?</span><br><span class=\"rom\">Dâay kǐn fɤ̌ɤ lɛ̏ɛw kǎp hʉ́an.</span><br><span class=\"rom\">Mūan bɔ̌ɔ?</span><br><span class=\"rom\">Mūan lǎay!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Hier, tu es allée où ?<br><b>Clara</b> — Je suis allée à la pagode avec Mme Boua.<br><b>Noy</b> — Et tu as fait quoi d&#x27;autre ?<br><b>Clara</b> — J&#x27;ai mangé une pho puis je suis rentrée.<br><b>Noy</b> — C&#x27;était bien ?<br><b>Clara</b> — Super !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Où est allée Clara ?</li><li>Qu&#x27;a-t-elle fait ensuite ?</li></ol><details><summary>Réponses</summary><ol><li>À la pagode avec Mme Boua.</li><li>Elle a mangé une pho puis est rentrée.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ມື້ວານ</td><td class=\"rom\">Mʉ̂ʉ-wáan</td><td>hier</td><td></td></tr><tr><td class=\"lo\">ອາທິດກ່ອນ</td><td class=\"rom\">Ǎa-thīt-kɔ̀ɔn</td><td>la semaine dernière</td><td></td></tr><tr><td class=\"lo\">ປີກາຍ</td><td class=\"rom\">Pǐi-kǎay</td><td>l&#x27;année dernière</td><td></td></tr><tr><td class=\"lo\">ໄດ້</td><td class=\"rom\">Dâay</td><td>(marque du passé réalisé)</td><td></td></tr><tr><td class=\"lo\">ແລ້ວ</td><td class=\"rom\">Lɛ̏ɛw</td><td>déjà ; c&#x27;est fait</td><td></td></tr><tr><td class=\"lo\">ໄປ ມາ</td><td class=\"rom\">Pǎy… máa</td><td>être allé (et revenu)</td><td></td></tr><tr><td class=\"lo\">ອີກ</td><td class=\"rom\">Ìik</td><td>encore, d&#x27;autre</td><td></td></tr><tr><td class=\"lo\">ມ່ວນ</td><td class=\"rom\">Mūan</td><td>amusant, sympa</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : le passé sans conjugaison",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ມື້ວານຂ້ອຍໄປຕະຫຼາດ</span> <span class=\"rom\">Mʉ̂ʉ-wáan khɔ̂ɔy pǎy tā-lȁat</span> = hier, je suis allée au marché</li><li><span class=\"lo\">ຂ້ອຍໄດ້ກິນເຝີ</span> <span class=\"rom\">Khɔ̂ɔy dâay kǐn fɤ̌ɤ</span> = j&#x27;ai mangé une pho</li><li><span class=\"lo\">ກິນແລ້ວ</span> <span class=\"rom\">Kǐn lɛ̏ɛw</span> = j&#x27;ai (déjà) mangé</li></ul><p><b>À toi de trouver :</b></p><ol><li>Le verbe change-t-il au passé ?</li><li>Qu&#x27;apportent ໄດ້ et ແລ້ວ ?</li></ol><details><summary>La règle</summary><p>Le verbe ne change jamais. Le passé se comprend par un mot de temps (ມື້ວານ), par ໄດ້ devant le verbe (l'action a bien eu lieu) ou par ແລ້ວ après (c'est fait).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les mots de temps en début de phrase.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Hier, tu es allée où ?</li><li>Je suis allée au marché.</li><li>J&#x27;ai mangé une pho.</li><li>C&#x27;était super !</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ມື້ວານເຈົ້າໄປໃສມາ?</span> <span class=\"rom\">Mʉ̂ʉ-wáan jâo pǎy sǎy máa?</span></li><li><span class=\"lo\">ຂ້ອຍໄປຕະຫຼາດມາ</span> <span class=\"rom\">Khɔ̂ɔy pǎy tā-lȁat máa.</span></li><li><span class=\"lo\">ຂ້ອຍໄດ້ກິນເຝີ</span> <span class=\"rom\">Khɔ̂ɔy dâay kǐn fɤ̌ɤ.</span></li><li><span class=\"lo\">ມ່ວນຫຼາຍ!</span> <span class=\"rom\">Mūan lǎay!</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Raconte ta journée d&#x27;hier en 6 phrases.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Raconte ton dernier week-end à un natif pendant 2 minutes.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>12 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l41-v01",
+   "front": "ມື້ວານ",
+   "back": "Mʉ̂ʉ-wáan · hier"
+  },
+  {
+   "id": "l41-v02",
+   "front": "ອາທິດກ່ອນ",
+   "back": "Ǎa-thīt-kɔ̀ɔn · la semaine dernière"
+  },
+  {
+   "id": "l41-v03",
+   "front": "ປີກາຍ",
+   "back": "Pǐi-kǎay · l'année dernière"
+  },
+  {
+   "id": "l41-v04",
+   "front": "ໄດ້",
+   "back": "Dâay · (marque du passé réalisé)"
+  },
+  {
+   "id": "l41-v05",
+   "front": "ແລ້ວ",
+   "back": "Lɛ̏ɛw · déjà ; c'est fait"
+  },
+  {
+   "id": "l41-v06",
+   "front": "ໄປ ມາ",
+   "back": "Pǎy… máa · être allé (et revenu)"
+  },
+  {
+   "id": "l41-v07",
+   "front": "ອີກ",
+   "back": "Ìik · encore, d'autre"
+  },
+  {
+   "id": "l41-v08",
+   "front": "ມ່ວນ",
+   "back": "Mūan · amusant, sympa"
+  },
+  {
+   "id": "l41-p01",
+   "front": "Hier, tu es allée où ?",
+   "back": "ມື້ວານເຈົ້າໄປໃສມາ? · Mʉ̂ʉ-wáan jâo pǎy sǎy máa?"
+  },
+  {
+   "id": "l41-p02",
+   "front": "Je suis allée au marché.",
+   "back": "ຂ້ອຍໄປຕະຫຼາດມາ · Khɔ̂ɔy pǎy tā-lȁat máa."
+  },
+  {
+   "id": "l41-p03",
+   "front": "J'ai mangé une pho.",
+   "back": "ຂ້ອຍໄດ້ກິນເຝີ · Khɔ̂ɔy dâay kǐn fɤ̌ɤ."
+  },
+  {
+   "id": "l41-p04",
+   "front": "C'était super !",
+   "back": "ມ່ວນຫຼາຍ! · Mūan lǎay!"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ມື້ວານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "hier",
+      "l'année dernière",
+      "déjà ; c'est fait",
+      "la semaine dernière"
+     ],
+     "answer": "hier",
+     "reveal": "<i>Mʉ̂ʉ-wáan</i>"
+    },
+    {
+     "audio": [
+      "ອາທິດກ່ອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "la semaine dernière",
+      "hier",
+      "encore, d'autre",
+      "amusant, sympa"
+     ],
+     "answer": "la semaine dernière",
+     "reveal": "<i>Ǎa-thīt-kɔ̀ɔn</i>"
+    },
+    {
+     "audio": [
+      "ປີກາຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "l'année dernière",
+      "amusant, sympa",
+      "être allé (et revenu)",
+      "hier"
+     ],
+     "answer": "l'année dernière",
+     "reveal": "<i>Pǐi-kǎay</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "(marque du passé réalisé)",
+      "hier",
+      "déjà ; c'est fait",
+      "l'année dernière"
+     ],
+     "answer": "(marque du passé réalisé)",
+     "reveal": "<i>Dâay</i>"
+    },
+    {
+     "audio": [
+      "ແລ້ວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "déjà ; c'est fait",
+      "l'année dernière",
+      "la semaine dernière",
+      "être allé (et revenu)"
+     ],
+     "answer": "déjà ; c'est fait",
+     "reveal": "<i>Lɛ̏ɛw</i>"
+    },
+    {
+     "audio": [
+      "ໄປ ມາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "être allé (et revenu)",
+      "amusant, sympa",
+      "hier",
+      "la semaine dernière"
+     ],
+     "answer": "être allé (et revenu)",
+     "reveal": "<i>Pǎy… máa</i>"
+    },
+    {
+     "audio": [
+      "ອີກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "encore, d'autre",
+      "(marque du passé réalisé)",
+      "déjà ; c'est fait",
+      "l'année dernière"
+     ],
+     "answer": "encore, d'autre",
+     "reveal": "<i>Ìik</i>"
+    },
+    {
+     "audio": [
+      "ມ່ວນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "amusant, sympa",
+      "(marque du passé réalisé)",
+      "l'année dernière",
+      "encore, d'autre"
+     ],
+     "answer": "amusant, sympa",
+     "reveal": "<i>Mūan</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ມື້ວານເຈົ້າໄປໃສມາ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Hier, tu es allée où ?",
+      "Je suis allée à la pagode avec Mme Boua.",
+      "Super !",
+      "C'était bien ?"
+     ],
+     "answer": "Hier, tu es allée où ?",
+     "reveal": "<i>Mʉ̂ʉ-wáan jâo pǎy sǎy máa?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍໄປວັດກັບແມ່ບົວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je suis allée à la pagode avec Mme Boua.",
+      "C'était bien ?",
+      "Et tu as fait quoi d'autre ?",
+      "Super !"
+     ],
+     "answer": "Je suis allée à la pagode avec Mme Boua.",
+     "reveal": "<i>Khɔ̂ɔy pǎy wāt kǎp mɛ̄ɛ-būa.</i>"
+    },
+    {
+     "audio": [
+      "ແລ້ວໄດ້ເຮັດຫຍັງອີກ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Et tu as fait quoi d'autre ?",
+      "C'était bien ?",
+      "Je suis allée à la pagode avec Mme Boua.",
+      "Super !"
+     ],
+     "answer": "Et tu as fait quoi d'autre ?",
+     "reveal": "<i>Lɛ̏ɛw dâay hēt nyǎng ìik?</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້ກິນເຝີແລ້ວກັບເຮືອນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "J'ai mangé une pho puis je suis rentrée.",
+      "Super !",
+      "C'était bien ?",
+      "Je suis allée à la pagode avec Mme Boua."
+     ],
+     "answer": "J'ai mangé une pho puis je suis rentrée.",
+     "reveal": "<i>Dâay kǐn fɤ̌ɤ lɛ̏ɛw kǎp hʉ́an.</i>"
+    },
+    {
+     "audio": [
+      "ມ່ວນບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'était bien ?",
+      "J'ai mangé une pho puis je suis rentrée.",
+      "Je suis allée à la pagode avec Mme Boua.",
+      "Et tu as fait quoi d'autre ?"
+     ],
+     "answer": "C'était bien ?",
+     "reveal": "<i>Mūan bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ມ່ວນຫຼາຍ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Super !",
+      "Et tu as fait quoi d'autre ?",
+      "C'était bien ?",
+      "Hier, tu es allée où ?"
+     ],
+     "answer": "Super !",
+     "reveal": "<i>Mūan lǎay!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ມື້ວານເຈົ້າໄປໃສມາ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Hier, tu es allée où ?",
+      "J'ai mangé une pho.",
+      "C'était super !",
+      "Je suis allée au marché."
+     ],
+     "answer": "Hier, tu es allée où ?",
+     "reveal": "<i>Mʉ̂ʉ-wáan jâo pǎy sǎy máa?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍໄປຕະຫຼາດມາ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je suis allée au marché.",
+      "J'ai mangé une pho.",
+      "C'était super !",
+      "Hier, tu es allée où ?"
+     ],
+     "answer": "Je suis allée au marché.",
+     "reveal": "<i>Khɔ̂ɔy pǎy tā-lȁat máa.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍໄດ້ກິນເຝີ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "J'ai mangé une pho.",
+      "Je suis allée au marché.",
+      "Hier, tu es allée où ?",
+      "C'était super !"
+     ],
+     "answer": "J'ai mangé une pho.",
+     "reveal": "<i>Khɔ̂ɔy dâay kǐn fɤ̌ɤ.</i>"
+    },
+    {
+     "audio": [
+      "ມ່ວນຫຼາຍ!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'était super !",
+      "J'ai mangé une pho.",
+      "Je suis allée au marché.",
+      "Hier, tu es allée où ?"
+     ],
+     "answer": "C'était super !",
+     "reveal": "<i>Mūan lǎay!</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ມື້ວານ",
+   "rom": "Mʉ̂ʉ-wáan",
+   "fr": "hier",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອາທິດກ່ອນ",
+   "rom": "Ǎa-thīt-kɔ̀ɔn",
+   "fr": "la semaine dernière",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ປີກາຍ",
+   "rom": "Pǐi-kǎay",
+   "fr": "l'année dernière",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄດ້",
+   "rom": "Dâay",
+   "fr": "(marque du passé réalisé)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແລ້ວ",
+   "rom": "Lɛ̏ɛw",
+   "fr": "déjà ; c'est fait",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄປ ມາ",
+   "rom": "Pǎy… máa",
+   "fr": "être allé (et revenu)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອີກ",
+   "rom": "Ìik",
+   "fr": "encore, d'autre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມ່ວນ",
+   "rom": "Mūan",
+   "fr": "amusant, sympa",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມື້ວານເຈົ້າໄປໃສມາ?",
+   "rom": "Mʉ̂ʉ-wáan jâo pǎy sǎy máa?",
+   "fr": "Hier, tu es allée où ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍໄປຕະຫຼາດມາ",
+   "rom": "Khɔ̂ɔy pǎy tā-lȁat máa.",
+   "fr": "Je suis allée au marché.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍໄດ້ກິນເຝີ",
+   "rom": "Khɔ̂ɔy dâay kǐn fɤ̌ɤ.",
+   "fr": "J'ai mangé une pho.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມ່ວນຫຼາຍ!",
+   "rom": "Mūan lǎay!",
+   "fr": "C'était super !",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ມື້ວານ",
+    "ເຈົ້າ",
+    "ໄປ",
+    "ໃສ",
+    "ມາ"
+   ],
+   "rom": "Mʉ̂ʉ-wáan jâo pǎy sǎy máa?",
+   "fr": "Hier, tu es allée où ?"
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ໄປ",
+    "ຕະຫຼາດ",
+    "ມາ"
+   ],
+   "rom": "Khɔ̂ɔy pǎy tā-lȁat máa.",
+   "fr": "Je suis allée au marché."
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ໄດ້",
+    "ກິນ",
+    "ເຝີ"
+   ],
+   "rom": "Khɔ̂ɔy dâay kǐn fɤ̌ɤ.",
+   "fr": "J'ai mangé une pho."
+  },
+  {
+   "tokens": [
+    "ມ່ວນ",
+    "ຫຼາຍ"
+   ],
+   "rom": "Mūan lǎay!",
+   "fr": "C'était super !"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ມື້ວານ",
+   "rom": "Mʉ̂ʉ-wáan",
+   "fr": "hier"
+  },
+  {
+   "lao": "ອາທິດກ່ອນ",
+   "rom": "Ǎa-thīt-kɔ̀ɔn",
+   "fr": "la semaine dernière"
+  },
+  {
+   "lao": "ປີກາຍ",
+   "rom": "Pǐi-kǎay",
+   "fr": "l'année dernière"
+  },
+  {
+   "lao": "ໄດ້",
+   "rom": "Dâay",
+   "fr": "(marque du passé réalisé)"
+  },
+  {
+   "lao": "ແລ້ວ",
+   "rom": "Lɛ̏ɛw",
+   "fr": "déjà ; c'est fait"
+  },
+  {
+   "lao": "ໄປ ມາ",
+   "rom": "Pǎy… máa",
+   "fr": "être allé (et revenu)"
+  },
+  {
+   "lao": "ອີກ",
+   "rom": "Ìik",
+   "fr": "encore, d'autre"
+  },
+  {
+   "lao": "ມ່ວນ",
+   "rom": "Mūan",
+   "fr": "amusant, sympa"
+  }
+ ],
+ "sounds": {
+  "ເກັ່ງຂຶ້ນ": "Kèng khʉ̂n",
+  "ຂາ": "Khǎa",
+  "ກະເປົາ": "Kā-pǎo",
+  "ປູ່": "Pùu",
+  "ມື້ວານເຈົ້າໄປໃສມາ": "Mʉ̂ʉ-wáan jâo pǎy sǎy máa?",
+  "ຂ້ອຍໄປວັດກັບແມ່ບົວ": "Khɔ̂ɔy pǎy wāt kǎp mɛ̄ɛ-būa.",
+  "ແລ້ວໄດ້ເຮັດຫຍັງອີກ": "Lɛ̏ɛw dâay hēt nyǎng ìik?",
+  "ໄດ້ກິນເຝີແລ້ວກັບເຮືອນ": "Dâay kǐn fɤ̌ɤ lɛ̏ɛw kǎp hʉ́an.",
+  "ມ່ວນບໍ": "Mūan bɔ̌ɔ?",
+  "ມ່ວນຫຼາຍ": "Mūan lǎay!",
+  "ມື້ວານ": "mʉ̂ʉ-wáan",
+  "ອາທິດກ່ອນ": "Ǎa-thīt-kɔ̀ɔn",
+  "ປີກາຍ": "Pǐi-kǎay",
+  "ໄດ້": "dâay",
+  "ແລ້ວ": "Lɛ̏ɛw",
+  "ໄປ ມາ": "Pǎy… máa",
+  "ອີກ": "Ìik",
+  "ມ່ວນ": "mūan",
+  "ມື້ວານຂ້ອຍໄປຕະຫຼາດ": "Mʉ̂ʉ-wáan khɔ̂ɔy pǎy tā-lȁat",
+  "ຂ້ອຍໄດ້ກິນເຝີ": "Khɔ̂ɔy dâay kǐn fɤ̌ɤ.",
+  "ກິນແລ້ວ": "Kǐn lɛ̏ɛw",
+  "ຂ້ອຍໄປຕະຫຼາດມາ": "Khɔ̂ɔy pǎy tā-lȁat máa.",
+  "ເຈົ້າ": "jâo",
+  "ໄປ": "pǎy",
+  "ໃສ": "sǎy",
+  "ມາ": "máa",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ຕະຫຼາດ": "tā-lȁat",
+  "ກິນ": "kǐn",
+  "ເຝີ": "fɤ̌ɤ",
+  "ຫຼາຍ": "lǎay"
+ },
+ "suivi": "LEÇON : 41 — Partie D (Raconter et organiser, A2) · Hier\nOBJECTIF : Raconter ce que tu as fait hier.\nNOTION : le passé sans conjugaison\nVOCAB : Mʉ̂ʉ-wáan, Ǎa-thīt-kɔ̀ɔn, Pǐi-kǎay, Dâay, Lɛ̏ɛw, Pǎy… máa, Ìik, Mūan\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 42 — Demain"
+}

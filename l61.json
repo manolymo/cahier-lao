@@ -1,0 +1,467 @@
+{
+ "num": 61,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Familier ou poli ?",
+ "objective": "Adapter ton message à un ami ou à un aîné.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>s&#x27;inquiéter <small class=\"muted\">(leçon 60)</small></li><li>nouer les fils au poignet <small class=\"muted\">(leçon 58)</small></li><li>mais <small class=\"muted\">(leçon 54)</small></li><li>rendez-vous ; fixer <small class=\"muted\">(leçon 47)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ເປັນຫ່ວງ</span> <span class=\"rom\">Pěn-hùang</span> · s&#x27;inquiéter</li><li><span class=\"lo\">ຜູກແຂນ</span> <span class=\"rom\">Phȕuk-khɛ̌ɛn</span> · nouer les fils au poignet</li><li><span class=\"lo\">ແຕ່</span> <span class=\"rom\">Tɛ̀ɛ</span> · mais</li><li><span class=\"lo\">ນັດ</span> <span class=\"rom\">Nāt</span> · rendez-vous ; fixer</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Adapter ton message à un ami ou à un aîné.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Kèo parle à ses amis, puis à son grand-père.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ເຮົາໄປກິນເບຍບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ພໍ່ຕູ້ ຫຼານຂໍອະນຸຍາດອອກໄປນອກເດີ</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ໄປໄດ້ ຢ່າກັບມາຊ້າ</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ເຈົ້າ ຂອບໃຈ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Háo pǎy kǐn bía bɔ̌ɔ?</span><br><span class=\"rom\">Phɔ̄ɔ-tûu, lǎan khɔ̌ɔ á-nū-nyâat ɔ̏ɔk pǎy nɔ̂ɔk dɤ̌ɤ.</span><br><span class=\"rom\">Pǎy dâay, yàa kǎp máa sȁa.</span><br><span class=\"rom\">Jâo, khɔ̏ɔp-jǎy.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Kèo</b> — (aux amis) On va boire une bière ?<br><b>Kèo</b> — (au grand-père) Grand-père, je te demande la permission de sortir.<br><b>X</b> — Tu peux y aller, ne rentre pas tard.<br><b>Kèo</b> — Oui, merci.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Comment Kèo parle-t-il à ses amis ?</li><li>Et à son grand-père ?</li></ol><details><summary>Réponses</summary><ol><li>Avec ເຮົາ, simplement.</li><li>Il se désigne comme ຫຼານ et demande poliment la permission.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ເຮົາ</td><td class=\"rom\">Háo</td><td>je/nous (familier)</td><td></td></tr><tr><td class=\"lo\">ຫຼານ</td><td class=\"rom\">Lǎan</td><td>moi (le petit-enfant, poli)</td><td></td></tr><tr><td class=\"lo\">ຂໍອະນຸຍາດ</td><td class=\"rom\">Khɔ̌ɔ á-nū-nyâat</td><td>demander la permission</td><td></td></tr><tr><td class=\"lo\">ເຈົ້າ</td><td class=\"rom\">Jâo</td><td>oui (poli)</td><td></td></tr><tr><td class=\"lo\">ເອີ</td><td class=\"rom\">ɤ̌ɤ</td><td>ouais (familier)</td><td></td></tr><tr><td class=\"lo\">ກູ</td><td class=\"rom\">Kǔu</td><td>je (très familier, vulgaire)</td><td>à comprendre, pas à utiliser</td></tr><tr><td class=\"lo\">ມຶງ</td><td class=\"rom\">Mʉ́ng</td><td>tu (très familier, vulgaire)</td><td>à comprendre, pas à utiliser</td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les registres",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ເຈົ້າ</span> <span class=\"rom\">Jâo</span> = oui poli</li><li><span class=\"lo\">ເອີ</span> <span class=\"rom\">ɤ̌ɤ</span> = ouais</li><li><span class=\"lo\">ຫຼານຂໍ</span> <span class=\"rom\">Lǎan khɔ̌ɔ…</span> = moi (petit-enfant) je demande…</li></ul><p><b>À toi de trouver :</b></p><ol><li>Comment Kèo se désigne-t-il devant son grand-père ?</li></ol><details><summary>La règle</summary><p>En lao, on se désigne souvent par sa place dans la relation (ຫຼານ, ລູກ, ນ້ອງ). Plus la personne est âgée ou respectée, plus on utilise ເຈົ້າ, ຂໍ et les formules longues.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> le changement de ton de voix et de mots.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Oui (poli).</li><li>Je te demande la permission.</li><li>On y va ? (entre amis)</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເຈົ້າ</span> <span class=\"rom\">Jâo.</span></li><li><span class=\"lo\">ຂໍອະນຸຍາດ</span> <span class=\"rom\">Khɔ̌ɔ á-nū-nyâat.</span></li><li><span class=\"lo\">ໄປບໍ?</span> <span class=\"rom\">Pǎy bɔ̌ɔ?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris la même demande à un ami puis à un grand-parent.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Demande à un natif de jouer deux scènes : avec un ami et avec un aîné.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>10 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l61-v01",
+   "front": "ເຮົາ",
+   "back": "Háo · je/nous (familier)"
+  },
+  {
+   "id": "l61-v02",
+   "front": "ຫຼານ",
+   "back": "Lǎan · moi (le petit-enfant, poli)"
+  },
+  {
+   "id": "l61-v03",
+   "front": "ຂໍອະນຸຍາດ",
+   "back": "Khɔ̌ɔ á-nū-nyâat · demander la permission"
+  },
+  {
+   "id": "l61-v04",
+   "front": "ເຈົ້າ",
+   "back": "Jâo · oui (poli)"
+  },
+  {
+   "id": "l61-v05",
+   "front": "ເອີ",
+   "back": "ɤ̌ɤ · ouais (familier)"
+  },
+  {
+   "id": "l61-v06",
+   "front": "ກູ",
+   "back": "Kǔu · je (très familier, vulgaire)"
+  },
+  {
+   "id": "l61-v07",
+   "front": "ມຶງ",
+   "back": "Mʉ́ng · tu (très familier, vulgaire)"
+  },
+  {
+   "id": "l61-p01",
+   "front": "Oui (poli).",
+   "back": "ເຈົ້າ · Jâo."
+  },
+  {
+   "id": "l61-p02",
+   "front": "Je te demande la permission.",
+   "back": "ຂໍອະນຸຍາດ · Khɔ̌ɔ á-nū-nyâat."
+  },
+  {
+   "id": "l61-p03",
+   "front": "On y va ? (entre amis)",
+   "back": "ໄປບໍ? · Pǎy bɔ̌ɔ?"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ເຮົາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "je/nous (familier)",
+      "tu (très familier, vulgaire)",
+      "oui (poli)",
+      "je (très familier, vulgaire)"
+     ],
+     "answer": "je/nous (familier)",
+     "reveal": "<i>Háo</i>"
+    },
+    {
+     "audio": [
+      "ຫຼານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "moi (le petit-enfant, poli)",
+      "demander la permission",
+      "je (très familier, vulgaire)",
+      "ouais (familier)"
+     ],
+     "answer": "moi (le petit-enfant, poli)",
+     "reveal": "<i>Lǎan</i>"
+    },
+    {
+     "audio": [
+      "ຂໍອະນຸຍາດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "demander la permission",
+      "je (très familier, vulgaire)",
+      "je/nous (familier)",
+      "oui (poli)"
+     ],
+     "answer": "demander la permission",
+     "reveal": "<i>Khɔ̌ɔ á-nū-nyâat</i>"
+    },
+    {
+     "audio": [
+      "ເຈົ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "oui (poli)",
+      "je/nous (familier)",
+      "je (très familier, vulgaire)",
+      "moi (le petit-enfant, poli)"
+     ],
+     "answer": "oui (poli)",
+     "reveal": "<i>Jâo</i>"
+    },
+    {
+     "audio": [
+      "ເອີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ouais (familier)",
+      "demander la permission",
+      "moi (le petit-enfant, poli)",
+      "tu (très familier, vulgaire)"
+     ],
+     "answer": "ouais (familier)",
+     "reveal": "<i>ɤ̌ɤ</i>"
+    },
+    {
+     "audio": [
+      "ກູ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "je (très familier, vulgaire)",
+      "tu (très familier, vulgaire)",
+      "ouais (familier)",
+      "oui (poli)"
+     ],
+     "answer": "je (très familier, vulgaire)",
+     "reveal": "<i>Kǔu</i>"
+    },
+    {
+     "audio": [
+      "ມຶງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "tu (très familier, vulgaire)",
+      "je/nous (familier)",
+      "je (très familier, vulgaire)",
+      "moi (le petit-enfant, poli)"
+     ],
+     "answer": "tu (très familier, vulgaire)",
+     "reveal": "<i>Mʉ́ng</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເຮົາໄປກິນເບຍບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "(aux amis) On va boire une bière ?",
+      "(au grand-père) Grand-père, je te demande la permission de sortir.",
+      "Tu peux y aller, ne rentre pas tard.",
+      "Oui, merci."
+     ],
+     "answer": "(aux amis) On va boire une bière ?",
+     "reveal": "<i>Háo pǎy kǐn bía bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ພໍ່ຕູ້ ຫຼານຂໍອະນຸຍາດອອກໄປນອກເດີ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "(au grand-père) Grand-père, je te demande la permission de sortir.",
+      "(aux amis) On va boire une bière ?",
+      "Oui, merci.",
+      "Tu peux y aller, ne rentre pas tard."
+     ],
+     "answer": "(au grand-père) Grand-père, je te demande la permission de sortir.",
+     "reveal": "<i>Phɔ̄ɔ-tûu, lǎan khɔ̌ɔ á-nū-nyâat ɔ̏ɔk pǎy nɔ̂ɔk dɤ̌ɤ.</i>"
+    },
+    {
+     "audio": [
+      "ໄປໄດ້ ຢ່າກັບມາຊ້າ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu peux y aller, ne rentre pas tard.",
+      "(aux amis) On va boire une bière ?",
+      "(au grand-père) Grand-père, je te demande la permission de sortir.",
+      "Oui, merci."
+     ],
+     "answer": "Tu peux y aller, ne rentre pas tard.",
+     "reveal": "<i>Pǎy dâay, yàa kǎp máa sȁa.</i>"
+    },
+    {
+     "audio": [
+      "ເຈົ້າ ຂອບໃຈ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oui, merci.",
+      "(au grand-père) Grand-père, je te demande la permission de sortir.",
+      "(aux amis) On va boire une bière ?",
+      "Tu peux y aller, ne rentre pas tard."
+     ],
+     "answer": "Oui, merci.",
+     "reveal": "<i>Jâo, khɔ̏ɔp-jǎy.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເຈົ້າ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Oui (poli).",
+      "On y va ? (entre amis)",
+      "Je te demande la permission."
+     ],
+     "answer": "Oui (poli).",
+     "reveal": "<i>Jâo.</i>"
+    },
+    {
+     "audio": [
+      "ຂໍອະນຸຍາດ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je te demande la permission.",
+      "Oui (poli).",
+      "On y va ? (entre amis)"
+     ],
+     "answer": "Je te demande la permission.",
+     "reveal": "<i>Khɔ̌ɔ á-nū-nyâat.</i>"
+    },
+    {
+     "audio": [
+      "ໄປບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "On y va ? (entre amis)",
+      "Je te demande la permission.",
+      "Oui (poli)."
+     ],
+     "answer": "On y va ? (entre amis)",
+     "reveal": "<i>Pǎy bɔ̌ɔ?</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ເຮົາ",
+   "rom": "Háo",
+   "fr": "je/nous (familier)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫຼານ",
+   "rom": "Lǎan",
+   "fr": "moi (le petit-enfant, poli)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍອະນຸຍາດ",
+   "rom": "Khɔ̌ɔ á-nū-nyâat",
+   "fr": "demander la permission",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຈົ້າ",
+   "rom": "Jâo",
+   "fr": "oui (poli)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເອີ",
+   "rom": "ɤ̌ɤ",
+   "fr": "ouais (familier)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກູ",
+   "rom": "Kǔu",
+   "fr": "je (très familier, vulgaire)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມຶງ",
+   "rom": "Mʉ́ng",
+   "fr": "tu (très familier, vulgaire)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຈົ້າ",
+   "rom": "Jâo.",
+   "fr": "Oui (poli).",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍອະນຸຍາດ",
+   "rom": "Khɔ̌ɔ á-nū-nyâat.",
+   "fr": "Je te demande la permission.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄປບໍ?",
+   "rom": "Pǎy bɔ̌ɔ?",
+   "fr": "On y va ? (entre amis)",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂໍ",
+    "ອະນຸຍາດ"
+   ],
+   "rom": "Khɔ̌ɔ á-nū-nyâat.",
+   "fr": "Je te demande la permission."
+  },
+  {
+   "tokens": [
+    "ໄປ",
+    "ບໍ"
+   ],
+   "rom": "Pǎy bɔ̌ɔ?",
+   "fr": "On y va ? (entre amis)"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ເຮົາ",
+   "rom": "Háo",
+   "fr": "je/nous (familier)"
+  },
+  {
+   "lao": "ຫຼານ",
+   "rom": "Lǎan",
+   "fr": "moi (le petit-enfant, poli)"
+  },
+  {
+   "lao": "ຂໍອະນຸຍາດ",
+   "rom": "Khɔ̌ɔ á-nū-nyâat",
+   "fr": "demander la permission"
+  },
+  {
+   "lao": "ເຈົ້າ",
+   "rom": "Jâo",
+   "fr": "oui (poli)"
+  },
+  {
+   "lao": "ເອີ",
+   "rom": "ɤ̌ɤ",
+   "fr": "ouais (familier)"
+  },
+  {
+   "lao": "ກູ",
+   "rom": "Kǔu",
+   "fr": "je (très familier, vulgaire)"
+  },
+  {
+   "lao": "ມຶງ",
+   "rom": "Mʉ́ng",
+   "fr": "tu (très familier, vulgaire)"
+  }
+ ],
+ "sounds": {
+  "ເປັນຫ່ວງ": "Pěn-hùang",
+  "ຜູກແຂນ": "Phȕuk-khɛ̌ɛn",
+  "ແຕ່": "Tɛ̀ɛ",
+  "ນັດ": "Nāt",
+  "ເຮົາໄປກິນເບຍບໍ": "Háo pǎy kǐn bía bɔ̌ɔ?",
+  "ພໍ່ຕູ້ ຫຼານຂໍອະນຸຍາດອອກໄປນອກເດີ": "Phɔ̄ɔ-tûu, lǎan khɔ̌ɔ á-nū-nyâat ɔ̏ɔk pǎy nɔ̂ɔk dɤ̌ɤ.",
+  "ໄປໄດ້ ຢ່າກັບມາຊ້າ": "Pǎy dâay, yàa kǎp máa sȁa.",
+  "ເຈົ້າ ຂອບໃຈ": "Jâo, khɔ̏ɔp-jǎy.",
+  "ເຮົາ": "Háo",
+  "ຫຼານ": "Lǎan",
+  "ຂໍອະນຸຍາດ": "Khɔ̌ɔ á-nū-nyâat.",
+  "ເຈົ້າ": "Jâo.",
+  "ເອີ": "ɤ̌ɤ",
+  "ກູ": "Kǔu",
+  "ມຶງ": "Mʉ́ng",
+  "ຫຼານຂໍ": "Lǎan khɔ̌ɔ…",
+  "ໄປບໍ": "Pǎy bɔ̌ɔ?",
+  "ຂໍ": "khɔ̌ɔ",
+  "ອະນຸຍາດ": "á-nū-nyâat",
+  "ໄປ": "pǎy",
+  "ບໍ": "bɔ̌ɔ"
+ },
+ "suivi": "LEÇON : 61 — Partie D (Raconter et organiser, A2) · Familier ou poli ?\nOBJECTIF : Adapter ton message à un ami ou à un aîné.\nNOTION : les registres\nVOCAB : Háo, Lǎan, Khɔ̌ɔ á-nū-nyâat, Jâo, ɤ̌ɤ, Kǔu, Mʉ́ng\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 62 — Les particules de fin de phrase"
+}

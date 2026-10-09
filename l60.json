@@ -1,0 +1,510 @@
+{
+ "num": 60,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Les sentiments",
+ "objective": "Dire comment tu te sens et pourquoi.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>oignon vert <small class=\"muted\">(leçon 59)</small></li><li>environ <small class=\"muted\">(leçon 57)</small></li><li>parce que <small class=\"muted\">(leçon 53)</small></li><li>j&#x27;aimerais mais… <small class=\"muted\">(leçon 46)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຜັກບົ່ວ</span> <span class=\"rom\">Phāk bùa</span> · oignon vert</li><li><span class=\"lo\">ປະມານ</span> <span class=\"rom\">Pá-máan</span> · environ</li><li><span class=\"lo\">ເພາະວ່າ</span> <span class=\"rom\">Phɔ̄-wāa</span> · parce que</li><li><span class=\"lo\">ຢາກໄປແຕ່</span> <span class=\"rom\">Yȁak pǎy tɛ̀ɛ</span> · j&#x27;aimerais mais…</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Dire comment tu te sens et pourquoi.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara reçoit des nouvelles de France.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເປັນຫຍັງ? ເບິ່ງຄືເສຍໃຈ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍຄິດຮອດຄອບຄົວ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເຂົ້າໃຈ ແຕ່ພວກເຮົາກໍແມ່ນຄອບຄົວຂອງເຈົ້າ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ດີໃຈຫຼາຍທີ່ໄດ້ຍິນແນວນັ້ນ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Pěn nyǎng? Bɤ̀ng khʉ́ʉ sǐa-jǎy.</span><br><span class=\"rom\">Khɔ̂ɔy khīt-hɔ̂ɔt khɔ̂ɔp-khúa.</span><br><span class=\"rom\">Khâo-jǎy. Tɛ̀ɛ phûak-háo kɔ̂ɔ mɛ̄ɛn khɔ̂ɔp-khúa khɔ̌ɔng jâo.</span><br><span class=\"rom\">Dǐi-jǎy lǎay thīi dâay nyín nɛ́ɛw nȁn.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Qu&#x27;est-ce qu&#x27;il y a ? Tu as l&#x27;air triste.<br><b>Clara</b> — Ma famille me manque.<br><b>Noy</b> — Je comprends. Mais nous aussi, on est ta famille.<br><b>Clara</b> — Ça me fait très plaisir d&#x27;entendre ça.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Pourquoi Clara est-elle triste ?</li><li>Que lui dit Noy ?</li></ol><details><summary>Réponses</summary><ol><li>Sa famille lui manque.</li><li>Qu&#x27;ils sont aussi sa famille.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ດີໃຈ</td><td class=\"rom\">Dǐi-jǎy</td><td>content, heureux</td><td></td></tr><tr><td class=\"lo\">ເສຍໃຈ</td><td class=\"rom\">Sǐa-jǎy</td><td>triste, désolé</td><td></td></tr><tr><td class=\"lo\">ຄິດຮອດ</td><td class=\"rom\">Khīt-hɔ̂ɔt</td><td>manquer (quelqu&#x27;un)</td><td></td></tr><tr><td class=\"lo\">ໃຈຮ້າຍ</td><td class=\"rom\">Jǎy-hȁay</td><td>fâché</td><td></td></tr><tr><td class=\"lo\">ເປັນຫ່ວງ</td><td class=\"rom\">Pěn-hùang</td><td>s&#x27;inquiéter</td><td></td></tr><tr><td class=\"lo\">ຢ້ານ</td><td class=\"rom\">Yȁan</td><td>avoir peur</td><td></td></tr><tr><td class=\"lo\">ເບື່ອ</td><td class=\"rom\">Bʉ̀a</td><td>s&#x27;ennuyer, en avoir marre</td><td></td></tr><tr><td class=\"lo\">ຕື່ນເຕັ້ນ</td><td class=\"rom\">Tʉ̀ʉn-tên</td><td>excité</td><td>[À VÉRIFIER]</td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les verbes avec ໃຈ (le cœur)",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ດີໃຈ</span> <span class=\"rom\">Dǐi jǎy</span> = bon + cœur = content</li><li><span class=\"lo\">ເສຍໃຈ</span> <span class=\"rom\">Sǐa jǎy</span> = perdre + cœur = triste</li><li><span class=\"lo\">ໃຈຮ້າຍ</span> <span class=\"rom\">Jǎy hȁay</span> = cœur + méchant = fâché</li></ul><p><b>À toi de trouver :</b></p><ol><li>Que remarques-tu dans ces mots ?</li></ol><details><summary>La règle</summary><p>Beaucoup d'émotions se forment avec ໃຈ (cœur) : ດີໃຈ, ເສຍໃຈ, ໃຈຮ້າຍ, ໃຈດີ (gentil)…</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les mots en ໃຈ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Ma famille me manque.</li><li>Je suis très contente.</li><li>Ne t&#x27;inquiète pas.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້ອຍຄິດຮອດຄອບຄົວ</span> <span class=\"rom\">Khɔ̂ɔy khīt-hɔ̂ɔt khɔ̂ɔp-khúa.</span></li><li><span class=\"lo\">ຂ້ອຍດີໃຈຫຼາຍ</span> <span class=\"rom\">Khɔ̂ɔy dǐi-jǎy lǎay.</span></li><li><span class=\"lo\">ບໍ່ຕ້ອງເປັນຫ່ວງ</span> <span class=\"rom\">Bɔ̀ɔ tâɔng pěn-hùang.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Décris 5 situations et l&#x27;émotion qu&#x27;elles te font ressentir.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Parle de tes émotions de la semaine avec un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>11 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l60-v01",
+   "front": "ດີໃຈ",
+   "back": "Dǐi-jǎy · content, heureux"
+  },
+  {
+   "id": "l60-v02",
+   "front": "ເສຍໃຈ",
+   "back": "Sǐa-jǎy · triste, désolé"
+  },
+  {
+   "id": "l60-v03",
+   "front": "ຄິດຮອດ",
+   "back": "Khīt-hɔ̂ɔt · manquer (quelqu'un)"
+  },
+  {
+   "id": "l60-v04",
+   "front": "ໃຈຮ້າຍ",
+   "back": "Jǎy-hȁay · fâché"
+  },
+  {
+   "id": "l60-v05",
+   "front": "ເປັນຫ່ວງ",
+   "back": "Pěn-hùang · s'inquiéter"
+  },
+  {
+   "id": "l60-v06",
+   "front": "ຢ້ານ",
+   "back": "Yȁan · avoir peur"
+  },
+  {
+   "id": "l60-v07",
+   "front": "ເບື່ອ",
+   "back": "Bʉ̀a · s'ennuyer, en avoir marre"
+  },
+  {
+   "id": "l60-v08",
+   "front": "ຕື່ນເຕັ້ນ",
+   "back": "Tʉ̀ʉn-tên · excité"
+  },
+  {
+   "id": "l60-p01",
+   "front": "Ma famille me manque.",
+   "back": "ຂ້ອຍຄິດຮອດຄອບຄົວ · Khɔ̂ɔy khīt-hɔ̂ɔt khɔ̂ɔp-khúa."
+  },
+  {
+   "id": "l60-p02",
+   "front": "Je suis très contente.",
+   "back": "ຂ້ອຍດີໃຈຫຼາຍ · Khɔ̂ɔy dǐi-jǎy lǎay."
+  },
+  {
+   "id": "l60-p03",
+   "front": "Ne t'inquiète pas.",
+   "back": "ບໍ່ຕ້ອງເປັນຫ່ວງ · Bɔ̀ɔ tâɔng pěn-hùang."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ດີໃຈ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "content, heureux",
+      "manquer (quelqu'un)",
+      "s'inquiéter",
+      "fâché"
+     ],
+     "answer": "content, heureux",
+     "reveal": "<i>Dǐi-jǎy</i>"
+    },
+    {
+     "audio": [
+      "ເສຍໃຈ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "triste, désolé",
+      "manquer (quelqu'un)",
+      "s'ennuyer, en avoir marre",
+      "excité"
+     ],
+     "answer": "triste, désolé",
+     "reveal": "<i>Sǐa-jǎy</i>"
+    },
+    {
+     "audio": [
+      "ຄິດຮອດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "manquer (quelqu'un)",
+      "triste, désolé",
+      "excité",
+      "s'inquiéter"
+     ],
+     "answer": "manquer (quelqu'un)",
+     "reveal": "<i>Khīt-hɔ̂ɔt</i>"
+    },
+    {
+     "audio": [
+      "ໃຈຮ້າຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "fâché",
+      "s'ennuyer, en avoir marre",
+      "avoir peur",
+      "manquer (quelqu'un)"
+     ],
+     "answer": "fâché",
+     "reveal": "<i>Jǎy-hȁay</i>"
+    },
+    {
+     "audio": [
+      "ເປັນຫ່ວງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "s'inquiéter",
+      "avoir peur",
+      "fâché",
+      "manquer (quelqu'un)"
+     ],
+     "answer": "s'inquiéter",
+     "reveal": "<i>Pěn-hùang</i>"
+    },
+    {
+     "audio": [
+      "ຢ້ານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "avoir peur",
+      "s'inquiéter",
+      "content, heureux",
+      "s'ennuyer, en avoir marre"
+     ],
+     "answer": "avoir peur",
+     "reveal": "<i>Yȁan</i>"
+    },
+    {
+     "audio": [
+      "ເບື່ອ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "s'ennuyer, en avoir marre",
+      "excité",
+      "content, heureux",
+      "triste, désolé"
+     ],
+     "answer": "s'ennuyer, en avoir marre",
+     "reveal": "<i>Bʉ̀a</i>"
+    },
+    {
+     "audio": [
+      "ຕື່ນເຕັ້ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "excité",
+      "triste, désolé",
+      "s'inquiéter",
+      "manquer (quelqu'un)"
+     ],
+     "answer": "excité",
+     "reveal": "<i>Tʉ̀ʉn-tên</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເປັນຫຍັງ? ເບິ່ງຄືເສຍໃຈ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Qu'est-ce qu'il y a ? Tu as l'air triste.",
+      "Je comprends. Mais nous aussi, on est ta famille.",
+      "Ça me fait très plaisir d'entendre ça.",
+      "Ma famille me manque."
+     ],
+     "answer": "Qu'est-ce qu'il y a ? Tu as l'air triste.",
+     "reveal": "<i>Pěn nyǎng? Bɤ̀ng khʉ́ʉ sǐa-jǎy.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຄິດຮອດຄອບຄົວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Ma famille me manque.",
+      "Ça me fait très plaisir d'entendre ça.",
+      "Je comprends. Mais nous aussi, on est ta famille.",
+      "Qu'est-ce qu'il y a ? Tu as l'air triste."
+     ],
+     "answer": "Ma famille me manque.",
+     "reveal": "<i>Khɔ̂ɔy khīt-hɔ̂ɔt khɔ̂ɔp-khúa.</i>"
+    },
+    {
+     "audio": [
+      "ເຂົ້າໃຈ ແຕ່ພວກເຮົາກໍແມ່ນຄອບຄົວຂອງເຈົ້າ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je comprends. Mais nous aussi, on est ta famille.",
+      "Qu'est-ce qu'il y a ? Tu as l'air triste.",
+      "Ma famille me manque.",
+      "Ça me fait très plaisir d'entendre ça."
+     ],
+     "answer": "Je comprends. Mais nous aussi, on est ta famille.",
+     "reveal": "<i>Khâo-jǎy. Tɛ̀ɛ phûak-háo kɔ̂ɔ mɛ̄ɛn khɔ̂ɔp-khúa khɔ̌ɔng jâo.</i>"
+    },
+    {
+     "audio": [
+      "ດີໃຈຫຼາຍທີ່ໄດ້ຍິນແນວນັ້ນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Ça me fait très plaisir d'entendre ça.",
+      "Qu'est-ce qu'il y a ? Tu as l'air triste.",
+      "Je comprends. Mais nous aussi, on est ta famille.",
+      "Ma famille me manque."
+     ],
+     "answer": "Ça me fait très plaisir d'entendre ça.",
+     "reveal": "<i>Dǐi-jǎy lǎay thīi dâay nyín nɛ́ɛw nȁn.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້ອຍຄິດຮອດຄອບຄົວ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Ma famille me manque.",
+      "Je suis très contente.",
+      "Ne t'inquiète pas."
+     ],
+     "answer": "Ma famille me manque.",
+     "reveal": "<i>Khɔ̂ɔy khīt-hɔ̂ɔt khɔ̂ɔp-khúa.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍດີໃຈຫຼາຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je suis très contente.",
+      "Ne t'inquiète pas.",
+      "Ma famille me manque."
+     ],
+     "answer": "Je suis très contente.",
+     "reveal": "<i>Khɔ̂ɔy dǐi-jǎy lǎay.</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ຕ້ອງເປັນຫ່ວງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Ne t'inquiète pas.",
+      "Je suis très contente.",
+      "Ma famille me manque."
+     ],
+     "answer": "Ne t'inquiète pas.",
+     "reveal": "<i>Bɔ̀ɔ tâɔng pěn-hùang.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ດີໃຈ",
+   "rom": "Dǐi-jǎy",
+   "fr": "content, heureux",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເສຍໃຈ",
+   "rom": "Sǐa-jǎy",
+   "fr": "triste, désolé",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄິດຮອດ",
+   "rom": "Khīt-hɔ̂ɔt",
+   "fr": "manquer (quelqu'un)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃຈຮ້າຍ",
+   "rom": "Jǎy-hȁay",
+   "fr": "fâché",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເປັນຫ່ວງ",
+   "rom": "Pěn-hùang",
+   "fr": "s'inquiéter",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຢ້ານ",
+   "rom": "Yȁan",
+   "fr": "avoir peur",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເບື່ອ",
+   "rom": "Bʉ̀a",
+   "fr": "s'ennuyer, en avoir marre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕື່ນເຕັ້ນ",
+   "rom": "Tʉ̀ʉn-tên",
+   "fr": "excité",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຄິດຮອດຄອບຄົວ",
+   "rom": "Khɔ̂ɔy khīt-hɔ̂ɔt khɔ̂ɔp-khúa.",
+   "fr": "Ma famille me manque.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍດີໃຈຫຼາຍ",
+   "rom": "Khɔ̂ɔy dǐi-jǎy lǎay.",
+   "fr": "Je suis très contente.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ຕ້ອງເປັນຫ່ວງ",
+   "rom": "Bɔ̀ɔ tâɔng pěn-hùang.",
+   "fr": "Ne t'inquiète pas.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຄິດຮອດ",
+    "ຄອບຄົວ"
+   ],
+   "rom": "Khɔ̂ɔy khīt-hɔ̂ɔt khɔ̂ɔp-khúa.",
+   "fr": "Ma famille me manque."
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ດີໃຈ",
+    "ຫຼາຍ"
+   ],
+   "rom": "Khɔ̂ɔy dǐi-jǎy lǎay.",
+   "fr": "Je suis très contente."
+  },
+  {
+   "tokens": [
+    "ບໍ່",
+    "ຕ້ອງ",
+    "ເປັນຫ່ວງ"
+   ],
+   "rom": "Bɔ̀ɔ tâɔng pěn-hùang.",
+   "fr": "Ne t'inquiète pas."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ດີໃຈ",
+   "rom": "Dǐi-jǎy",
+   "fr": "content, heureux"
+  },
+  {
+   "lao": "ເສຍໃຈ",
+   "rom": "Sǐa-jǎy",
+   "fr": "triste, désolé"
+  },
+  {
+   "lao": "ຄິດຮອດ",
+   "rom": "Khīt-hɔ̂ɔt",
+   "fr": "manquer (quelqu'un)"
+  },
+  {
+   "lao": "ໃຈຮ້າຍ",
+   "rom": "Jǎy-hȁay",
+   "fr": "fâché"
+  },
+  {
+   "lao": "ເປັນຫ່ວງ",
+   "rom": "Pěn-hùang",
+   "fr": "s'inquiéter"
+  },
+  {
+   "lao": "ຢ້ານ",
+   "rom": "Yȁan",
+   "fr": "avoir peur"
+  },
+  {
+   "lao": "ເບື່ອ",
+   "rom": "Bʉ̀a",
+   "fr": "s'ennuyer, en avoir marre"
+  },
+  {
+   "lao": "ຕື່ນເຕັ້ນ",
+   "rom": "Tʉ̀ʉn-tên",
+   "fr": "excité"
+  }
+ ],
+ "sounds": {
+  "ຜັກບົ່ວ": "Phāk bùa",
+  "ປະມານ": "Pá-máan",
+  "ເພາະວ່າ": "Phɔ̄-wāa",
+  "ຢາກໄປແຕ່": "Yȁak pǎy tɛ̀ɛ",
+  "ເປັນຫຍັງ ເບິ່ງຄືເສຍໃຈ": "Pěn nyǎng? Bɤ̀ng khʉ́ʉ sǐa-jǎy.",
+  "ຂ້ອຍຄິດຮອດຄອບຄົວ": "Khɔ̂ɔy khīt-hɔ̂ɔt khɔ̂ɔp-khúa.",
+  "ເຂົ້າໃຈ ແຕ່ພວກເຮົາກໍແມ່ນຄອບຄົວຂອງເຈົ້າ": "Khâo-jǎy. Tɛ̀ɛ phûak-háo kɔ̂ɔ mɛ̄ɛn khɔ̂ɔp-khúa khɔ̌ɔng jâo.",
+  "ດີໃຈຫຼາຍທີ່ໄດ້ຍິນແນວນັ້ນ": "Dǐi-jǎy lǎay thīi dâay nyín nɛ́ɛw nȁn.",
+  "ດີໃຈ": "dǐi-jǎy",
+  "ເສຍໃຈ": "Sǐa jǎy",
+  "ຄິດຮອດ": "khīt-hɔ̂ɔt",
+  "ໃຈຮ້າຍ": "Jǎy hȁay",
+  "ເປັນຫ່ວງ": "pěn-hùang",
+  "ຢ້ານ": "Yȁan",
+  "ເບື່ອ": "Bʉ̀a",
+  "ຕື່ນເຕັ້ນ": "Tʉ̀ʉn-tên",
+  "ຂ້ອຍດີໃຈຫຼາຍ": "Khɔ̂ɔy dǐi-jǎy lǎay.",
+  "ບໍ່ຕ້ອງເປັນຫ່ວງ": "Bɔ̀ɔ tâɔng pěn-hùang.",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ຄອບຄົວ": "khɔ̂ɔp-khúa",
+  "ຫຼາຍ": "lǎay",
+  "ບໍ່": "bɔ̀ɔ",
+  "ຕ້ອງ": "tâɔng"
+ },
+ "suivi": "LEÇON : 60 — Partie D (Raconter et organiser, A2) · Les sentiments\nOBJECTIF : Dire comment tu te sens et pourquoi.\nNOTION : les verbes avec ໃຈ (le cœur)\nVOCAB : Dǐi-jǎy, Sǐa-jǎy, Khīt-hɔ̂ɔt, Jǎy-hȁay, Pěn-hùang, Yȁan, Bʉ̀a, Tʉ̀ʉn-tên\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 61 — Familier ou poli ?"
+}

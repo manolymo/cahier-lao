@@ -1,0 +1,414 @@
+{
+ "num": 63,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Écrire un message",
+ "objective": "Écrire un message poli complet (ouverture, contenu, clôture).",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>(impatience) <small class=\"muted\">(leçon 62)</small></li><li>s&#x27;inquiéter <small class=\"muted\">(leçon 60)</small></li><li>pouvoir <small class=\"muted\">(leçon 56)</small></li><li>le plus <small class=\"muted\">(leçon 49)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ສາ</span> <span class=\"rom\">Sǎa</span> · (impatience)</li><li><span class=\"lo\">ເປັນຫ່ວງ</span> <span class=\"rom\">Pěn-hùang</span> · s&#x27;inquiéter</li><li><span class=\"lo\">ໄດ້</span> <span class=\"rom\">Dâay</span> · pouvoir</li><li><span class=\"lo\">ທີ່ສຸດ</span> <span class=\"rom\">Thīi-sūt</span> · le plus</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Écrire un message poli complet (ouverture, contenu, clôture).</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara écrit à son professeur.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສະບາຍດີອາຈານ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍຂໍອະນຸຍາດພັກມື້ອື່ນຍ້ອນວ່າບໍ່ສະບາຍ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂໍອະໄພນຳ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ດ້ວຍຄວາມນັບຖື ຄລາຣາ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Sā-bǎay-dǐi ǎa-jǎan.</span><br><span class=\"rom\">Khɔ̂ɔy khɔ̌ɔ á-nū-nyâat phāk mʉ̂ʉ-ʉ̀ʉn nyȍɔn-wāa bɔ̀ɔ-sā-bǎay.</span><br><span class=\"rom\">Khɔ̌ɔ á-pháy nám.</span><br><span class=\"rom\">Dûay khwáam nāp-thʉ̌ʉ, Clara.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Bonjour professeur.<br><b>Clara</b> — Je vous demande la permission de m&#x27;absenter demain car je suis malade.<br><b>Clara</b> — Je vous prie de m&#x27;excuser.<br><b>Clara</b> — Respectueusement, Clara.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Pourquoi Clara écrit-elle ?</li></ol><details><summary>Réponses</summary><ol><li>Pour s&#x27;absenter demain, car elle est malade.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ອາຈານ</td><td class=\"rom\">Ǎa-jǎan</td><td>professeur (respectueux)</td><td></td></tr><tr><td class=\"lo\">ຂໍອະນຸຍາດ</td><td class=\"rom\">Khɔ̌ɔ á-nū-nyâat</td><td>demander la permission</td><td></td></tr><tr><td class=\"lo\">ຂໍອະໄພ</td><td class=\"rom\">Khɔ̌ɔ á-pháy</td><td>s&#x27;excuser (soutenu)</td><td></td></tr><tr><td class=\"lo\">ດ້ວຍຄວາມນັບຖື</td><td class=\"rom\">Dûay khwáam nāp-thʉ̌ʉ</td><td>respectueusement</td><td></td></tr><tr><td class=\"lo\">ພັກ</td><td class=\"rom\">Phāk</td><td>s&#x27;absenter, se reposer</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : la structure d'un message poli",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ສະບາຍດີອາຈານ</span> <span class=\"rom\">Sā-bǎay-dǐi ǎa-jǎan</span> = ouverture</li><li><span class=\"lo\">ຂໍອະໄພ</span> <span class=\"rom\">Khɔ̌ɔ á-pháy</span> = excuse</li><li><span class=\"lo\">ດ້ວຍຄວາມນັບຖື</span> <span class=\"rom\">Dûay khwáam nāp-thʉ̌ʉ</span> = clôture</li></ul><details><summary>La règle</summary><p>Ouverture (ສະບາຍດີ + titre), demande avec ຂໍ, justification avec ຍ້ອນວ່າ, excuse (ຂໍອະໄພ), clôture (ດ້ວຍຄວາມນັບຖື).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les formules écrites.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Bonjour professeur.</li><li>Je vous prie de m&#x27;excuser.</li><li>Respectueusement.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ສະບາຍດີອາຈານ</span> <span class=\"rom\">Sā-bǎay-dǐi ǎa-jǎan.</span></li><li><span class=\"lo\">ຂໍອະໄພ</span> <span class=\"rom\">Khɔ̌ɔ á-pháy.</span></li><li><span class=\"lo\">ດ້ວຍຄວາມນັບຖື</span> <span class=\"rom\">Dûay khwáam nāp-thʉ̌ʉ.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris un message poli pour annuler un rendez-vous.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Envoie un message poli en lao à un natif et demande-lui son avis.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>8 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l63-v01",
+   "front": "ອາຈານ",
+   "back": "Ǎa-jǎan · professeur (respectueux)"
+  },
+  {
+   "id": "l63-v02",
+   "front": "ຂໍອະນຸຍາດ",
+   "back": "Khɔ̌ɔ á-nū-nyâat · demander la permission"
+  },
+  {
+   "id": "l63-v03",
+   "front": "ຂໍອະໄພ",
+   "back": "Khɔ̌ɔ á-pháy · s'excuser (soutenu)"
+  },
+  {
+   "id": "l63-v04",
+   "front": "ດ້ວຍຄວາມນັບຖື",
+   "back": "Dûay khwáam nāp-thʉ̌ʉ · respectueusement"
+  },
+  {
+   "id": "l63-v05",
+   "front": "ພັກ",
+   "back": "Phāk · s'absenter, se reposer"
+  },
+  {
+   "id": "l63-p01",
+   "front": "Bonjour professeur.",
+   "back": "ສະບາຍດີອາຈານ · Sā-bǎay-dǐi ǎa-jǎan."
+  },
+  {
+   "id": "l63-p02",
+   "front": "Je vous prie de m'excuser.",
+   "back": "ຂໍອະໄພ · Khɔ̌ɔ á-pháy."
+  },
+  {
+   "id": "l63-p03",
+   "front": "Respectueusement.",
+   "back": "ດ້ວຍຄວາມນັບຖື · Dûay khwáam nāp-thʉ̌ʉ."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ອາຈານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "professeur (respectueux)",
+      "demander la permission",
+      "s'absenter, se reposer",
+      "s'excuser (soutenu)"
+     ],
+     "answer": "professeur (respectueux)",
+     "reveal": "<i>Ǎa-jǎan</i>"
+    },
+    {
+     "audio": [
+      "ຂໍອະນຸຍາດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "demander la permission",
+      "s'excuser (soutenu)",
+      "respectueusement",
+      "s'absenter, se reposer"
+     ],
+     "answer": "demander la permission",
+     "reveal": "<i>Khɔ̌ɔ á-nū-nyâat</i>"
+    },
+    {
+     "audio": [
+      "ຂໍອະໄພ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "s'excuser (soutenu)",
+      "demander la permission",
+      "professeur (respectueux)",
+      "respectueusement"
+     ],
+     "answer": "s'excuser (soutenu)",
+     "reveal": "<i>Khɔ̌ɔ á-pháy</i>"
+    },
+    {
+     "audio": [
+      "ດ້ວຍຄວາມນັບຖື"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "respectueusement",
+      "professeur (respectueux)",
+      "demander la permission",
+      "s'excuser (soutenu)"
+     ],
+     "answer": "respectueusement",
+     "reveal": "<i>Dûay khwáam nāp-thʉ̌ʉ</i>"
+    },
+    {
+     "audio": [
+      "ພັກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "s'absenter, se reposer",
+      "respectueusement",
+      "demander la permission",
+      "professeur (respectueux)"
+     ],
+     "answer": "s'absenter, se reposer",
+     "reveal": "<i>Phāk</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ສະບາຍດີອາຈານ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Bonjour professeur.",
+      "Je vous demande la permission de m'absenter demain car je suis malade.",
+      "Respectueusement, Clara.",
+      "Je vous prie de m'excuser."
+     ],
+     "answer": "Bonjour professeur.",
+     "reveal": "<i>Sā-bǎay-dǐi ǎa-jǎan.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຂໍອະນຸຍາດພັກມື້ອື່ນຍ້ອນວ່າບໍ່ສະບາຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je vous demande la permission de m'absenter demain car je suis malade.",
+      "Je vous prie de m'excuser.",
+      "Bonjour professeur.",
+      "Respectueusement, Clara."
+     ],
+     "answer": "Je vous demande la permission de m'absenter demain car je suis malade.",
+     "reveal": "<i>Khɔ̂ɔy khɔ̌ɔ á-nū-nyâat phāk mʉ̂ʉ-ʉ̀ʉn nyȍɔn-wāa bɔ̀ɔ-sā-bǎay.</i>"
+    },
+    {
+     "audio": [
+      "ຂໍອະໄພນຳ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je vous prie de m'excuser.",
+      "Je vous demande la permission de m'absenter demain car je suis malade.",
+      "Respectueusement, Clara.",
+      "Bonjour professeur."
+     ],
+     "answer": "Je vous prie de m'excuser.",
+     "reveal": "<i>Khɔ̌ɔ á-pháy nám.</i>"
+    },
+    {
+     "audio": [
+      "ດ້ວຍຄວາມນັບຖື ຄລາຣາ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Respectueusement, Clara.",
+      "Je vous prie de m'excuser.",
+      "Je vous demande la permission de m'absenter demain car je suis malade.",
+      "Bonjour professeur."
+     ],
+     "answer": "Respectueusement, Clara.",
+     "reveal": "<i>Dûay khwáam nāp-thʉ̌ʉ, Clara.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ສະບາຍດີອາຈານ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Bonjour professeur.",
+      "Respectueusement.",
+      "Je vous prie de m'excuser."
+     ],
+     "answer": "Bonjour professeur.",
+     "reveal": "<i>Sā-bǎay-dǐi ǎa-jǎan.</i>"
+    },
+    {
+     "audio": [
+      "ຂໍອະໄພ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je vous prie de m'excuser.",
+      "Bonjour professeur.",
+      "Respectueusement."
+     ],
+     "answer": "Je vous prie de m'excuser.",
+     "reveal": "<i>Khɔ̌ɔ á-pháy.</i>"
+    },
+    {
+     "audio": [
+      "ດ້ວຍຄວາມນັບຖື"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Respectueusement.",
+      "Bonjour professeur.",
+      "Je vous prie de m'excuser."
+     ],
+     "answer": "Respectueusement.",
+     "reveal": "<i>Dûay khwáam nāp-thʉ̌ʉ.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ອາຈານ",
+   "rom": "Ǎa-jǎan",
+   "fr": "professeur (respectueux)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍອະນຸຍາດ",
+   "rom": "Khɔ̌ɔ á-nū-nyâat",
+   "fr": "demander la permission",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍອະໄພ",
+   "rom": "Khɔ̌ɔ á-pháy",
+   "fr": "s'excuser (soutenu)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ດ້ວຍຄວາມນັບຖື",
+   "rom": "Dûay khwáam nāp-thʉ̌ʉ",
+   "fr": "respectueusement",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພັກ",
+   "rom": "Phāk",
+   "fr": "s'absenter, se reposer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສະບາຍດີອາຈານ",
+   "rom": "Sā-bǎay-dǐi ǎa-jǎan.",
+   "fr": "Bonjour professeur.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍອະໄພ",
+   "rom": "Khɔ̌ɔ á-pháy.",
+   "fr": "Je vous prie de m'excuser.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ດ້ວຍຄວາມນັບຖື",
+   "rom": "Dûay khwáam nāp-thʉ̌ʉ.",
+   "fr": "Respectueusement.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ສະບາຍດີ",
+    "ອາຈານ"
+   ],
+   "rom": "Sā-bǎay-dǐi ǎa-jǎan.",
+   "fr": "Bonjour professeur."
+  },
+  {
+   "tokens": [
+    "ຂໍ",
+    "ອະໄພ"
+   ],
+   "rom": "Khɔ̌ɔ á-pháy.",
+   "fr": "Je vous prie de m'excuser."
+  },
+  {
+   "tokens": [
+    "ດ້ວຍ",
+    "ຄວາມ",
+    "ນັບຖື"
+   ],
+   "rom": "Dûay khwáam nāp-thʉ̌ʉ.",
+   "fr": "Respectueusement."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ອາຈານ",
+   "rom": "Ǎa-jǎan",
+   "fr": "professeur (respectueux)"
+  },
+  {
+   "lao": "ຂໍອະນຸຍາດ",
+   "rom": "Khɔ̌ɔ á-nū-nyâat",
+   "fr": "demander la permission"
+  },
+  {
+   "lao": "ຂໍອະໄພ",
+   "rom": "Khɔ̌ɔ á-pháy",
+   "fr": "s'excuser (soutenu)"
+  },
+  {
+   "lao": "ດ້ວຍຄວາມນັບຖື",
+   "rom": "Dûay khwáam nāp-thʉ̌ʉ",
+   "fr": "respectueusement"
+  },
+  {
+   "lao": "ພັກ",
+   "rom": "Phāk",
+   "fr": "s'absenter, se reposer"
+  }
+ ],
+ "sounds": {
+  "ສາ": "Sǎa",
+  "ເປັນຫ່ວງ": "Pěn-hùang",
+  "ໄດ້": "Dâay",
+  "ທີ່ສຸດ": "Thīi-sūt",
+  "ສະບາຍດີອາຈານ": "Sā-bǎay-dǐi ǎa-jǎan.",
+  "ຂ້ອຍຂໍອະນຸຍາດພັກມື້ອື່ນຍ້ອນວ່າບໍ່ສະບາຍ": "Khɔ̂ɔy khɔ̌ɔ á-nū-nyâat phāk mʉ̂ʉ-ʉ̀ʉn nyȍɔn-wāa bɔ̀ɔ-sā-bǎay.",
+  "ຂໍອະໄພນຳ": "Khɔ̌ɔ á-pháy nám.",
+  "ດ້ວຍຄວາມນັບຖື ຄລາຣາ": "Dûay khwáam nāp-thʉ̌ʉ, Clara.",
+  "ອາຈານ": "ǎa-jǎan",
+  "ຂໍອະນຸຍາດ": "Khɔ̌ɔ á-nū-nyâat",
+  "ຂໍອະໄພ": "Khɔ̌ɔ á-pháy.",
+  "ດ້ວຍຄວາມນັບຖື": "Dûay khwáam nāp-thʉ̌ʉ.",
+  "ພັກ": "Phāk",
+  "ສະບາຍດີ": "sā-bǎay-dǐi",
+  "ຂໍ": "khɔ̌ɔ",
+  "ອະໄພ": "á-pháy",
+  "ດ້ວຍ": "dûay",
+  "ຄວາມ": "khwáam",
+  "ນັບຖື": "nāp-thʉ̌ʉ"
+ },
+ "suivi": "LEÇON : 63 — Partie D (Raconter et organiser, A2) · Écrire un message\nOBJECTIF : Écrire un message poli complet (ouverture, contenu, clôture).\nNOTION : la structure d'un message poli\nVOCAB : Ǎa-jǎan, Khɔ̌ɔ á-nū-nyâat, Khɔ̌ɔ á-pháy, Dûay khwáam nāp-thʉ̌ʉ, Phāk\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 64 — Lire du vrai"
+}

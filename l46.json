@@ -1,0 +1,493 @@
+{
+ "num": 46,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Inviter et répondre",
+ "objective": "Inviter quelqu'un, accepter, refuser poliment.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>répétez <small class=\"muted\">(leçon 45)</small></li><li>(action en cours) <small class=\"muted\">(leçon 43)</small></li><li>allô <small class=\"muted\">(leçon 39)</small></li><li>moto <small class=\"muted\">(leçon 32)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ເວົ້າອີກເທື່ອໜຶ່ງ</span> <span class=\"rom\">Wȁo ìik-thʉ̄a-nʉ̀ng</span> · répétez</li><li><span class=\"lo\">ຢູ່</span> <span class=\"rom\">Yùu</span> · (action en cours)</li><li><span class=\"lo\">ຮັນໂລ</span> <span class=\"rom\">Hán-lóo</span> · allô</li><li><span class=\"lo\">ລົດຈັກ</span> <span class=\"rom\">Lōt-ják</span> · moto</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Inviter quelqu&#x27;un, accepter, refuser poliment.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Noy invite Clara.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ວັນເສົາໄປກິນປີ້ງນຳກັນບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຢາກໄປແຕ່ບໍ່ຫວ່າງ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ວັນອາທິດເດ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ວັນອາທິດໄດ້ ໄປກັນ!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Wán-sǎo pǎy kǐn pîng nám kǎn bɔ̌ɔ?</span><br><span class=\"rom\">Yȁak pǎy tɛ̀ɛ bɔ̀ɔ wàang.</span><br><span class=\"rom\">Wán-ǎa-thīt dě?</span><br><span class=\"rom\">Wán-ǎa-thīt dâay. Pǎy kǎn!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Samedi, on va manger un barbecue ensemble ?<br><b>Clara</b> — J&#x27;aimerais bien, mais je ne suis pas libre.<br><b>Noy</b> — Et dimanche ?<br><b>Clara</b> — Dimanche, c&#x27;est bon. Allons-y !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Pourquoi Clara refuse-t-elle samedi ?</li><li>Quel jour acceptent-elles ?</li></ol><details><summary>Réponses</summary><ol><li>Elle n&#x27;est pas libre.</li><li>Dimanche.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ນຳກັນບໍ?</td><td class=\"rom\">Nám kǎn bɔ̌ɔ?</td><td>on fait… ensemble ?</td><td></td></tr><tr><td class=\"lo\">ໄປກັນ</td><td class=\"rom\">Pǎy kǎn</td><td>allons-y</td><td></td></tr><tr><td class=\"lo\">ບໍ່ຫວ່າງ</td><td class=\"rom\">Bɔ̀ɔ wàang</td><td>pas libre</td><td></td></tr><tr><td class=\"lo\">ຢາກໄປແຕ່</td><td class=\"rom\">Yȁak pǎy tɛ̀ɛ</td><td>j&#x27;aimerais mais…</td><td></td></tr><tr><td class=\"lo\">ເຊີນ</td><td class=\"rom\">Sɤ́ɤn</td><td>inviter</td><td></td></tr><tr><td class=\"lo\">ຄັ້ງໜ້າ</td><td class=\"rom\">Khȁng-nâa</td><td>la prochaine fois</td><td></td></tr></table></div><p class=\"note\">Un refus direct est impoli. On adoucit avec une excuse et une promesse vague.</p>"
+  },
+  {
+   "title": "Point de langue : proposer avec ກັນ",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ໄປກັນ</span> <span class=\"rom\">Pǎy kǎn</span> = allons-y</li><li><span class=\"lo\">ກິນນຳກັນບໍ?</span> <span class=\"rom\">Kǐn nám kǎn bɔ̌ɔ?</span> = on mange ensemble ?</li><li><span class=\"lo\">ຄັ້ງໜ້າເດີ</span> <span class=\"rom\">Khȁng-nâa dɤ̌ɤ</span> = la prochaine fois, hein</li></ul><p><b>À toi de trouver :</b></p><ol><li>Comment refuser sans dire « non » directement ?</li></ol><details><summary>La règle</summary><p>ກັນ = ensemble, l'un l'autre. Pour refuser poliment, on donne une raison (ບໍ່ຫວ່າງ) et on propose une autre fois (ຄັ້ງໜ້າ), sans « non » sec.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les refus adoucis.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>On va manger ensemble ?</li><li>J&#x27;aimerais, mais je ne suis pas libre.</li><li>Allons-y !</li><li>La prochaine fois.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ໄປກິນນຳກັນບໍ?</span> <span class=\"rom\">Pǎy kǐn nám kǎn bɔ̌ɔ?</span></li><li><span class=\"lo\">ຢາກໄປແຕ່ບໍ່ຫວ່າງ</span> <span class=\"rom\">Yȁak pǎy tɛ̀ɛ bɔ̀ɔ wàang.</span></li><li><span class=\"lo\">ໄປກັນ!</span> <span class=\"rom\">Pǎy kǎn!</span></li><li><span class=\"lo\">ຄັ້ງໜ້າເດີ</span> <span class=\"rom\">Khȁng-nâa dɤ̌ɤ.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris une invitation et deux réponses (accepter / refuser).</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Invite vraiment un natif à faire quelque chose avec toi, en lao.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>10 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l46-v01",
+   "front": "ນຳກັນບໍ?",
+   "back": "Nám kǎn bɔ̌ɔ? · on fait… ensemble ?"
+  },
+  {
+   "id": "l46-v02",
+   "front": "ໄປກັນ",
+   "back": "Pǎy kǎn · allons-y"
+  },
+  {
+   "id": "l46-v03",
+   "front": "ບໍ່ຫວ່າງ",
+   "back": "Bɔ̀ɔ wàang · pas libre"
+  },
+  {
+   "id": "l46-v04",
+   "front": "ຢາກໄປແຕ່",
+   "back": "Yȁak pǎy tɛ̀ɛ · j'aimerais mais…"
+  },
+  {
+   "id": "l46-v05",
+   "front": "ເຊີນ",
+   "back": "Sɤ́ɤn · inviter"
+  },
+  {
+   "id": "l46-v06",
+   "front": "ຄັ້ງໜ້າ",
+   "back": "Khȁng-nâa · la prochaine fois"
+  },
+  {
+   "id": "l46-p01",
+   "front": "On va manger ensemble ?",
+   "back": "ໄປກິນນຳກັນບໍ? · Pǎy kǐn nám kǎn bɔ̌ɔ?"
+  },
+  {
+   "id": "l46-p02",
+   "front": "J'aimerais, mais je ne suis pas libre.",
+   "back": "ຢາກໄປແຕ່ບໍ່ຫວ່າງ · Yȁak pǎy tɛ̀ɛ bɔ̀ɔ wàang."
+  },
+  {
+   "id": "l46-p03",
+   "front": "Allons-y !",
+   "back": "ໄປກັນ! · Pǎy kǎn!"
+  },
+  {
+   "id": "l46-p04",
+   "front": "La prochaine fois.",
+   "back": "ຄັ້ງໜ້າເດີ · Khȁng-nâa dɤ̌ɤ."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ນຳກັນບໍ?"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "on fait… ensemble ?",
+      "pas libre",
+      "inviter",
+      "la prochaine fois"
+     ],
+     "answer": "on fait… ensemble ?",
+     "reveal": "<i>Nám kǎn bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ໄປກັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "allons-y",
+      "pas libre",
+      "j'aimerais mais…",
+      "inviter"
+     ],
+     "answer": "allons-y",
+     "reveal": "<i>Pǎy kǎn</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ຫວ່າງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pas libre",
+      "on fait… ensemble ?",
+      "allons-y",
+      "inviter"
+     ],
+     "answer": "pas libre",
+     "reveal": "<i>Bɔ̀ɔ wàang</i>"
+    },
+    {
+     "audio": [
+      "ຢາກໄປແຕ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "j'aimerais mais…",
+      "pas libre",
+      "on fait… ensemble ?",
+      "inviter"
+     ],
+     "answer": "j'aimerais mais…",
+     "reveal": "<i>Yȁak pǎy tɛ̀ɛ</i>"
+    },
+    {
+     "audio": [
+      "ເຊີນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "inviter",
+      "j'aimerais mais…",
+      "on fait… ensemble ?",
+      "la prochaine fois"
+     ],
+     "answer": "inviter",
+     "reveal": "<i>Sɤ́ɤn</i>"
+    },
+    {
+     "audio": [
+      "ຄັ້ງໜ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "la prochaine fois",
+      "on fait… ensemble ?",
+      "pas libre",
+      "inviter"
+     ],
+     "answer": "la prochaine fois",
+     "reveal": "<i>Khȁng-nâa</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ວັນເສົາໄປກິນປີ້ງນຳກັນບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Samedi, on va manger un barbecue ensemble ?",
+      "J'aimerais bien, mais je ne suis pas libre.",
+      "Dimanche, c'est bon. Allons-y !",
+      "Et dimanche ?"
+     ],
+     "answer": "Samedi, on va manger un barbecue ensemble ?",
+     "reveal": "<i>Wán-sǎo pǎy kǐn pîng nám kǎn bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຢາກໄປແຕ່ບໍ່ຫວ່າງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "J'aimerais bien, mais je ne suis pas libre.",
+      "Et dimanche ?",
+      "Samedi, on va manger un barbecue ensemble ?",
+      "Dimanche, c'est bon. Allons-y !"
+     ],
+     "answer": "J'aimerais bien, mais je ne suis pas libre.",
+     "reveal": "<i>Yȁak pǎy tɛ̀ɛ bɔ̀ɔ wàang.</i>"
+    },
+    {
+     "audio": [
+      "ວັນອາທິດເດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Et dimanche ?",
+      "Dimanche, c'est bon. Allons-y !",
+      "J'aimerais bien, mais je ne suis pas libre.",
+      "Samedi, on va manger un barbecue ensemble ?"
+     ],
+     "answer": "Et dimanche ?",
+     "reveal": "<i>Wán-ǎa-thīt dě?</i>"
+    },
+    {
+     "audio": [
+      "ວັນອາທິດໄດ້ ໄປກັນ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Dimanche, c'est bon. Allons-y !",
+      "Samedi, on va manger un barbecue ensemble ?",
+      "Et dimanche ?",
+      "J'aimerais bien, mais je ne suis pas libre."
+     ],
+     "answer": "Dimanche, c'est bon. Allons-y !",
+     "reveal": "<i>Wán-ǎa-thīt dâay. Pǎy kǎn!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ໄປກິນນຳກັນບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "On va manger ensemble ?",
+      "Allons-y !",
+      "J'aimerais, mais je ne suis pas libre.",
+      "La prochaine fois."
+     ],
+     "answer": "On va manger ensemble ?",
+     "reveal": "<i>Pǎy kǐn nám kǎn bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຢາກໄປແຕ່ບໍ່ຫວ່າງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "J'aimerais, mais je ne suis pas libre.",
+      "La prochaine fois.",
+      "Allons-y !",
+      "On va manger ensemble ?"
+     ],
+     "answer": "J'aimerais, mais je ne suis pas libre.",
+     "reveal": "<i>Yȁak pǎy tɛ̀ɛ bɔ̀ɔ wàang.</i>"
+    },
+    {
+     "audio": [
+      "ໄປກັນ!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Allons-y !",
+      "La prochaine fois.",
+      "On va manger ensemble ?",
+      "J'aimerais, mais je ne suis pas libre."
+     ],
+     "answer": "Allons-y !",
+     "reveal": "<i>Pǎy kǎn!</i>"
+    },
+    {
+     "audio": [
+      "ຄັ້ງໜ້າເດີ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "La prochaine fois.",
+      "Allons-y !",
+      "On va manger ensemble ?",
+      "J'aimerais, mais je ne suis pas libre."
+     ],
+     "answer": "La prochaine fois.",
+     "reveal": "<i>Khȁng-nâa dɤ̌ɤ.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ນຳກັນບໍ?",
+   "rom": "Nám kǎn bɔ̌ɔ?",
+   "fr": "on fait… ensemble ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄປກັນ",
+   "rom": "Pǎy kǎn",
+   "fr": "allons-y",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ຫວ່າງ",
+   "rom": "Bɔ̀ɔ wàang",
+   "fr": "pas libre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຢາກໄປແຕ່",
+   "rom": "Yȁak pǎy tɛ̀ɛ",
+   "fr": "j'aimerais mais…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຊີນ",
+   "rom": "Sɤ́ɤn",
+   "fr": "inviter",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄັ້ງໜ້າ",
+   "rom": "Khȁng-nâa",
+   "fr": "la prochaine fois",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄປກິນນຳກັນບໍ?",
+   "rom": "Pǎy kǐn nám kǎn bɔ̌ɔ?",
+   "fr": "On va manger ensemble ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຢາກໄປແຕ່ບໍ່ຫວ່າງ",
+   "rom": "Yȁak pǎy tɛ̀ɛ bɔ̀ɔ wàang.",
+   "fr": "J'aimerais, mais je ne suis pas libre.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄປກັນ!",
+   "rom": "Pǎy kǎn!",
+   "fr": "Allons-y !",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄັ້ງໜ້າເດີ",
+   "rom": "Khȁng-nâa dɤ̌ɤ.",
+   "fr": "La prochaine fois.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ໄປ",
+    "ກິນ",
+    "ນຳ",
+    "ກັນ",
+    "ບໍ"
+   ],
+   "rom": "Pǎy kǐn nám kǎn bɔ̌ɔ?",
+   "fr": "On va manger ensemble ?"
+  },
+  {
+   "tokens": [
+    "ຢາກ",
+    "ໄປ",
+    "ແຕ່",
+    "ບໍ່",
+    "ຫວ່າງ"
+   ],
+   "rom": "Yȁak pǎy tɛ̀ɛ bɔ̀ɔ wàang.",
+   "fr": "J'aimerais, mais je ne suis pas libre."
+  },
+  {
+   "tokens": [
+    "ໄປ",
+    "ກັນ"
+   ],
+   "rom": "Pǎy kǎn!",
+   "fr": "Allons-y !"
+  },
+  {
+   "tokens": [
+    "ຄັ້ງໜ້າ",
+    "ເດີ"
+   ],
+   "rom": "Khȁng-nâa dɤ̌ɤ.",
+   "fr": "La prochaine fois."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ນຳກັນບໍ?",
+   "rom": "Nám kǎn bɔ̌ɔ?",
+   "fr": "on fait… ensemble ?"
+  },
+  {
+   "lao": "ໄປກັນ",
+   "rom": "Pǎy kǎn",
+   "fr": "allons-y"
+  },
+  {
+   "lao": "ບໍ່ຫວ່າງ",
+   "rom": "Bɔ̀ɔ wàang",
+   "fr": "pas libre"
+  },
+  {
+   "lao": "ຢາກໄປແຕ່",
+   "rom": "Yȁak pǎy tɛ̀ɛ",
+   "fr": "j'aimerais mais…"
+  },
+  {
+   "lao": "ເຊີນ",
+   "rom": "Sɤ́ɤn",
+   "fr": "inviter"
+  },
+  {
+   "lao": "ຄັ້ງໜ້າ",
+   "rom": "Khȁng-nâa",
+   "fr": "la prochaine fois"
+  }
+ ],
+ "sounds": {
+  "ເວົ້າອີກເທື່ອໜຶ່ງ": "Wȁo ìik-thʉ̄a-nʉ̀ng",
+  "ຢູ່": "Yùu",
+  "ຮັນໂລ": "Hán-lóo",
+  "ລົດຈັກ": "Lōt-ják",
+  "ວັນເສົາໄປກິນປີ້ງນຳກັນບໍ": "Wán-sǎo pǎy kǐn pîng nám kǎn bɔ̌ɔ?",
+  "ຢາກໄປແຕ່ບໍ່ຫວ່າງ": "Yȁak pǎy tɛ̀ɛ bɔ̀ɔ wàang.",
+  "ວັນອາທິດເດ": "Wán-ǎa-thīt dě?",
+  "ວັນອາທິດໄດ້ ໄປກັນ": "Wán-ǎa-thīt dâay. Pǎy kǎn!",
+  "ນຳກັນບໍ": "Nám kǎn bɔ̌ɔ?",
+  "ໄປກັນ": "Pǎy kǎn!",
+  "ບໍ່ຫວ່າງ": "Bɔ̀ɔ wàang",
+  "ຢາກໄປແຕ່": "Yȁak pǎy tɛ̀ɛ",
+  "ເຊີນ": "Sɤ́ɤn",
+  "ຄັ້ງໜ້າ": "khȁng-nâa",
+  "ກິນນຳກັນບໍ": "Kǐn nám kǎn bɔ̌ɔ?",
+  "ຄັ້ງໜ້າເດີ": "Khȁng-nâa dɤ̌ɤ.",
+  "ໄປກິນນຳກັນບໍ": "Pǎy kǐn nám kǎn bɔ̌ɔ?",
+  "ໄປ": "pǎy",
+  "ກິນ": "kǐn",
+  "ນຳ": "nám",
+  "ກັນ": "kǎn",
+  "ບໍ": "bɔ̌ɔ",
+  "ຢາກ": "yȁak",
+  "ແຕ່": "tɛ̀ɛ",
+  "ບໍ່": "bɔ̀ɔ",
+  "ຫວ່າງ": "wàang",
+  "ເດີ": "dɤ̌ɤ"
+ },
+ "suivi": "LEÇON : 46 — Partie D (Raconter et organiser, A2) · Inviter et répondre\nOBJECTIF : Inviter quelqu'un, accepter, refuser poliment.\nNOTION : proposer avec ກັນ\nVOCAB : Nám kǎn bɔ̌ɔ?, Pǎy kǎn, Bɔ̀ɔ wàang, Yȁak pǎy tɛ̀ɛ, Sɤ́ɤn, Khȁng-nâa\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 47 — Prendre rendez-vous"
+}

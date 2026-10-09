@@ -1,0 +1,530 @@
+{
+ "num": 50,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Chez le médecin",
+ "objective": "Expliquer tes symptômes et leur durée, comprendre une consigne.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>plus… (que) <small class=\"muted\">(leçon 49)</small></li><li>se faire couper les cheveux <small class=\"muted\">(leçon 47)</small></li><li>maintenant, tout de suite <small class=\"muted\">(leçon 43)</small></li><li>saison des pluies <small class=\"muted\">(leçon 36)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ກວ່າ</span> <span class=\"rom\">Kwàa</span> · plus… (que)</li><li><span class=\"lo\">ຕັດຜົມ</span> <span class=\"rom\">Tát phǒm</span> · se faire couper les cheveux</li><li><span class=\"lo\">ດຽວນີ້</span> <span class=\"rom\">Dǐaw-nȉi</span> · maintenant, tout de suite</li><li><span class=\"lo\">ລະດູຝົນ</span> <span class=\"rom\">Lā-dǔu-fǒn</span> · saison des pluies</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Expliquer tes symptômes et leur durée, comprendre une consigne.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara consulte un médecin.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ທ່ານໝໍ</span><div><span class=\"lo\">ເປັນຫຍັງ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຈັບຄໍແລະໄອ</span></div></div><div class=\"line\"><span class=\"who\">ທ່ານໝໍ</span><div><span class=\"lo\">ເປັນມາດົນປານໃດແລ້ວ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສາມມື້ແລ້ວ</span></div></div><div class=\"line\"><span class=\"who\">ທ່ານໝໍ</span><div><span class=\"lo\">ກິນຢານີ້ມື້ລະສາມເທື່ອຫຼັງອາຫານ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Pěn nyǎng?</span><br><span class=\"rom\">Jép khɔ́ɔ lɛ́ ǎy.</span><br><span class=\"rom\">Pěn máa dǒn pǎan-dǎy lɛ̏ɛw?</span><br><span class=\"rom\">Sǎam mʉ̂ʉ lɛ̏ɛw.</span><br><span class=\"rom\">Kǐn yǎa nȉi mʉ̂ʉ lā sǎam thʉ̄a lǎng ǎa-hǎan.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Le médecin</b> — Qu&#x27;est-ce qui ne va pas ?<br><b>Clara</b> — J&#x27;ai mal à la gorge et je tousse.<br><b>Le médecin</b> — Depuis combien de temps ?<br><b>Clara</b> — Trois jours.<br><b>Le médecin</b> — Prenez ce médicament trois fois par jour après les repas.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quels sont les symptômes ?</li><li>Depuis quand ?</li><li>Quelle consigne ?</li></ol><details><summary>Réponses</summary><ol><li>Mal à la gorge et toux.</li><li>Trois jours.</li><li>Le médicament 3 fois par jour après les repas.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ເຈັບຄໍ</td><td class=\"rom\">Jép khɔ́ɔ</td><td>mal à la gorge</td><td></td></tr><tr><td class=\"lo\">ໄອ</td><td class=\"rom\">Ǎy</td><td>tousser</td><td></td></tr><tr><td class=\"lo\">ດົນປານໃດ</td><td class=\"rom\">Dǒn pǎan-dǎy</td><td>combien de temps ?</td><td></td></tr><tr><td class=\"lo\">ມາ ແລ້ວ</td><td class=\"rom\">Máa… lɛ̏ɛw</td><td>depuis…</td><td></td></tr><tr><td class=\"lo\">ມື້ລະສາມເທື່ອ</td><td class=\"rom\">Mʉ̂ʉ lā sǎam thʉ̄a</td><td>trois fois par jour</td><td></td></tr><tr><td class=\"lo\">ຫຼັງອາຫານ</td><td class=\"rom\">Lǎng ǎa-hǎan</td><td>après le repas</td><td></td></tr><tr><td class=\"lo\">ກ່ອນອາຫານ</td><td class=\"rom\">Kɔ̀ɔn ǎa-hǎan</td><td>avant le repas</td><td></td></tr><tr><td class=\"lo\">ໃບສັ່ງຢາ</td><td class=\"rom\">Bǎy-sàng-yǎa</td><td>ordonnance</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : la durée",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ເປັນມາສາມມື້ແລ້ວ</span> <span class=\"rom\">Pěn máa sǎam mʉ̂ʉ lɛ̏ɛw</span> = c&#x27;est depuis trois jours</li><li><span class=\"lo\">ຮຽນມາສອງປີແລ້ວ</span> <span class=\"rom\">Hían máa sɔ̌ɔng pǐi lɛ̏ɛw</span> = j&#x27;étudie depuis deux ans</li></ul><p><b>À toi de trouver :</b></p><ol><li>Comment exprime-t-on « depuis » ?</li></ol><details><summary>La règle</summary><p>Verbe + ມາ + durée + ແລ້ວ = faire quelque chose depuis… ລະ = par (ມື້ລະ = par jour).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les durées et les fréquences.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>J&#x27;ai mal à la gorge.</li><li>Depuis trois jours.</li><li>Trois fois par jour.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້ອຍເຈັບຄໍ</span> <span class=\"rom\">Khɔ̂ɔy jép khɔ́ɔ.</span></li><li><span class=\"lo\">ສາມມື້ແລ້ວ</span> <span class=\"rom\">Sǎam mʉ̂ʉ lɛ̏ɛw.</span></li><li><span class=\"lo\">ມື້ລະສາມເທື່ອ</span> <span class=\"rom\">Mʉ̂ʉ lā sǎam thʉ̄a.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris ce que tu dirais au médecin pour un rhume.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Joue une consultation complète avec un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>11 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l50-v01",
+   "front": "ເຈັບຄໍ",
+   "back": "Jép khɔ́ɔ · mal à la gorge"
+  },
+  {
+   "id": "l50-v02",
+   "front": "ໄອ",
+   "back": "Ǎy · tousser"
+  },
+  {
+   "id": "l50-v03",
+   "front": "ດົນປານໃດ",
+   "back": "Dǒn pǎan-dǎy · combien de temps ?"
+  },
+  {
+   "id": "l50-v04",
+   "front": "ມາ ແລ້ວ",
+   "back": "Máa… lɛ̏ɛw · depuis…"
+  },
+  {
+   "id": "l50-v05",
+   "front": "ມື້ລະສາມເທື່ອ",
+   "back": "Mʉ̂ʉ lā sǎam thʉ̄a · trois fois par jour"
+  },
+  {
+   "id": "l50-v06",
+   "front": "ຫຼັງອາຫານ",
+   "back": "Lǎng ǎa-hǎan · après le repas"
+  },
+  {
+   "id": "l50-v07",
+   "front": "ກ່ອນອາຫານ",
+   "back": "Kɔ̀ɔn ǎa-hǎan · avant le repas"
+  },
+  {
+   "id": "l50-v08",
+   "front": "ໃບສັ່ງຢາ",
+   "back": "Bǎy-sàng-yǎa · ordonnance"
+  },
+  {
+   "id": "l50-p01",
+   "front": "J'ai mal à la gorge.",
+   "back": "ຂ້ອຍເຈັບຄໍ · Khɔ̂ɔy jép khɔ́ɔ."
+  },
+  {
+   "id": "l50-p02",
+   "front": "Depuis trois jours.",
+   "back": "ສາມມື້ແລ້ວ · Sǎam mʉ̂ʉ lɛ̏ɛw."
+  },
+  {
+   "id": "l50-p03",
+   "front": "Trois fois par jour.",
+   "back": "ມື້ລະສາມເທື່ອ · Mʉ̂ʉ lā sǎam thʉ̄a."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ເຈັບຄໍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mal à la gorge",
+      "combien de temps ?",
+      "trois fois par jour",
+      "après le repas"
+     ],
+     "answer": "mal à la gorge",
+     "reveal": "<i>Jép khɔ́ɔ</i>"
+    },
+    {
+     "audio": [
+      "ໄອ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "tousser",
+      "combien de temps ?",
+      "depuis…",
+      "ordonnance"
+     ],
+     "answer": "tousser",
+     "reveal": "<i>Ǎy</i>"
+    },
+    {
+     "audio": [
+      "ດົນປານໃດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "combien de temps ?",
+      "ordonnance",
+      "mal à la gorge",
+      "depuis…"
+     ],
+     "answer": "combien de temps ?",
+     "reveal": "<i>Dǒn pǎan-dǎy</i>"
+    },
+    {
+     "audio": [
+      "ມາ ແລ້ວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "depuis…",
+      "tousser",
+      "mal à la gorge",
+      "après le repas"
+     ],
+     "answer": "depuis…",
+     "reveal": "<i>Máa… lɛ̏ɛw</i>"
+    },
+    {
+     "audio": [
+      "ມື້ລະສາມເທື່ອ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "trois fois par jour",
+      "tousser",
+      "mal à la gorge",
+      "après le repas"
+     ],
+     "answer": "trois fois par jour",
+     "reveal": "<i>Mʉ̂ʉ lā sǎam thʉ̄a</i>"
+    },
+    {
+     "audio": [
+      "ຫຼັງອາຫານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "après le repas",
+      "avant le repas",
+      "combien de temps ?",
+      "depuis…"
+     ],
+     "answer": "après le repas",
+     "reveal": "<i>Lǎng ǎa-hǎan</i>"
+    },
+    {
+     "audio": [
+      "ກ່ອນອາຫານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "avant le repas",
+      "depuis…",
+      "après le repas",
+      "tousser"
+     ],
+     "answer": "avant le repas",
+     "reveal": "<i>Kɔ̀ɔn ǎa-hǎan</i>"
+    },
+    {
+     "audio": [
+      "ໃບສັ່ງຢາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ordonnance",
+      "tousser",
+      "après le repas",
+      "avant le repas"
+     ],
+     "answer": "ordonnance",
+     "reveal": "<i>Bǎy-sàng-yǎa</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເປັນຫຍັງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Qu'est-ce qui ne va pas ?",
+      "Prenez ce médicament trois fois par jour après les repas.",
+      "J'ai mal à la gorge et je tousse.",
+      "Depuis combien de temps ?"
+     ],
+     "answer": "Qu'est-ce qui ne va pas ?",
+     "reveal": "<i>Pěn nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ເຈັບຄໍແລະໄອ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "J'ai mal à la gorge et je tousse.",
+      "Trois jours.",
+      "Prenez ce médicament trois fois par jour après les repas.",
+      "Qu'est-ce qui ne va pas ?"
+     ],
+     "answer": "J'ai mal à la gorge et je tousse.",
+     "reveal": "<i>Jép khɔ́ɔ lɛ́ ǎy.</i>"
+    },
+    {
+     "audio": [
+      "ເປັນມາດົນປານໃດແລ້ວ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Depuis combien de temps ?",
+      "Qu'est-ce qui ne va pas ?",
+      "Trois jours.",
+      "J'ai mal à la gorge et je tousse."
+     ],
+     "answer": "Depuis combien de temps ?",
+     "reveal": "<i>Pěn máa dǒn pǎan-dǎy lɛ̏ɛw?</i>"
+    },
+    {
+     "audio": [
+      "ສາມມື້ແລ້ວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Trois jours.",
+      "Prenez ce médicament trois fois par jour après les repas.",
+      "Qu'est-ce qui ne va pas ?",
+      "Depuis combien de temps ?"
+     ],
+     "answer": "Trois jours.",
+     "reveal": "<i>Sǎam mʉ̂ʉ lɛ̏ɛw.</i>"
+    },
+    {
+     "audio": [
+      "ກິນຢານີ້ມື້ລະສາມເທື່ອຫຼັງອາຫານ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Prenez ce médicament trois fois par jour après les repas.",
+      "Depuis combien de temps ?",
+      "Trois jours.",
+      "Qu'est-ce qui ne va pas ?"
+     ],
+     "answer": "Prenez ce médicament trois fois par jour après les repas.",
+     "reveal": "<i>Kǐn yǎa nȉi mʉ̂ʉ lā sǎam thʉ̄a lǎng ǎa-hǎan.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້ອຍເຈັບຄໍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "J'ai mal à la gorge.",
+      "Depuis trois jours.",
+      "Trois fois par jour."
+     ],
+     "answer": "J'ai mal à la gorge.",
+     "reveal": "<i>Khɔ̂ɔy jép khɔ́ɔ.</i>"
+    },
+    {
+     "audio": [
+      "ສາມມື້ແລ້ວ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Depuis trois jours.",
+      "J'ai mal à la gorge.",
+      "Trois fois par jour."
+     ],
+     "answer": "Depuis trois jours.",
+     "reveal": "<i>Sǎam mʉ̂ʉ lɛ̏ɛw.</i>"
+    },
+    {
+     "audio": [
+      "ມື້ລະສາມເທື່ອ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Trois fois par jour.",
+      "Depuis trois jours.",
+      "J'ai mal à la gorge."
+     ],
+     "answer": "Trois fois par jour.",
+     "reveal": "<i>Mʉ̂ʉ lā sǎam thʉ̄a.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ເຈັບຄໍ",
+   "rom": "Jép khɔ́ɔ",
+   "fr": "mal à la gorge",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄອ",
+   "rom": "Ǎy",
+   "fr": "tousser",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ດົນປານໃດ",
+   "rom": "Dǒn pǎan-dǎy",
+   "fr": "combien de temps ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມາ ແລ້ວ",
+   "rom": "Máa… lɛ̏ɛw",
+   "fr": "depuis…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມື້ລະສາມເທື່ອ",
+   "rom": "Mʉ̂ʉ lā sǎam thʉ̄a",
+   "fr": "trois fois par jour",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫຼັງອາຫານ",
+   "rom": "Lǎng ǎa-hǎan",
+   "fr": "après le repas",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກ່ອນອາຫານ",
+   "rom": "Kɔ̀ɔn ǎa-hǎan",
+   "fr": "avant le repas",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃບສັ່ງຢາ",
+   "rom": "Bǎy-sàng-yǎa",
+   "fr": "ordonnance",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍເຈັບຄໍ",
+   "rom": "Khɔ̂ɔy jép khɔ́ɔ.",
+   "fr": "J'ai mal à la gorge.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສາມມື້ແລ້ວ",
+   "rom": "Sǎam mʉ̂ʉ lɛ̏ɛw.",
+   "fr": "Depuis trois jours.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມື້ລະສາມເທື່ອ",
+   "rom": "Mʉ̂ʉ lā sǎam thʉ̄a.",
+   "fr": "Trois fois par jour.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ເຈັບ",
+    "ຄໍ"
+   ],
+   "rom": "Khɔ̂ɔy jép khɔ́ɔ.",
+   "fr": "J'ai mal à la gorge."
+  },
+  {
+   "tokens": [
+    "ສາມ",
+    "ມື້",
+    "ແລ້ວ"
+   ],
+   "rom": "Sǎam mʉ̂ʉ lɛ̏ɛw.",
+   "fr": "Depuis trois jours."
+  },
+  {
+   "tokens": [
+    "ມື້",
+    "ລະ",
+    "ສາມ",
+    "ເທື່ອ"
+   ],
+   "rom": "Mʉ̂ʉ lā sǎam thʉ̄a.",
+   "fr": "Trois fois par jour."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ເຈັບຄໍ",
+   "rom": "Jép khɔ́ɔ",
+   "fr": "mal à la gorge"
+  },
+  {
+   "lao": "ໄອ",
+   "rom": "Ǎy",
+   "fr": "tousser"
+  },
+  {
+   "lao": "ດົນປານໃດ",
+   "rom": "Dǒn pǎan-dǎy",
+   "fr": "combien de temps ?"
+  },
+  {
+   "lao": "ມາ ແລ້ວ",
+   "rom": "Máa… lɛ̏ɛw",
+   "fr": "depuis…"
+  },
+  {
+   "lao": "ມື້ລະສາມເທື່ອ",
+   "rom": "Mʉ̂ʉ lā sǎam thʉ̄a",
+   "fr": "trois fois par jour"
+  },
+  {
+   "lao": "ຫຼັງອາຫານ",
+   "rom": "Lǎng ǎa-hǎan",
+   "fr": "après le repas"
+  },
+  {
+   "lao": "ກ່ອນອາຫານ",
+   "rom": "Kɔ̀ɔn ǎa-hǎan",
+   "fr": "avant le repas"
+  },
+  {
+   "lao": "ໃບສັ່ງຢາ",
+   "rom": "Bǎy-sàng-yǎa",
+   "fr": "ordonnance"
+  }
+ ],
+ "sounds": {
+  "ກວ່າ": "Kwàa",
+  "ຕັດຜົມ": "Tát phǒm",
+  "ດຽວນີ້": "Dǐaw-nȉi",
+  "ລະດູຝົນ": "Lā-dǔu-fǒn",
+  "ເປັນຫຍັງ": "Pěn nyǎng?",
+  "ເຈັບຄໍແລະໄອ": "Jép khɔ́ɔ lɛ́ ǎy.",
+  "ເປັນມາດົນປານໃດແລ້ວ": "Pěn máa dǒn pǎan-dǎy lɛ̏ɛw?",
+  "ສາມມື້ແລ້ວ": "Sǎam mʉ̂ʉ lɛ̏ɛw.",
+  "ກິນຢານີ້ມື້ລະສາມເທື່ອຫຼັງອາຫານ": "Kǐn yǎa nȉi mʉ̂ʉ lā sǎam thʉ̄a lǎng ǎa-hǎan.",
+  "ເຈັບຄໍ": "Jép khɔ́ɔ",
+  "ໄອ": "Ǎy",
+  "ດົນປານໃດ": "Dǒn pǎan-dǎy",
+  "ມາ ແລ້ວ": "Máa… lɛ̏ɛw",
+  "ມື້ລະສາມເທື່ອ": "Mʉ̂ʉ lā sǎam thʉ̄a.",
+  "ຫຼັງອາຫານ": "Lǎng ǎa-hǎan",
+  "ກ່ອນອາຫານ": "Kɔ̀ɔn ǎa-hǎan",
+  "ໃບສັ່ງຢາ": "Bǎy-sàng-yǎa",
+  "ເປັນມາສາມມື້ແລ້ວ": "Pěn máa sǎam mʉ̂ʉ lɛ̏ɛw",
+  "ຮຽນມາສອງປີແລ້ວ": "Hían máa sɔ̌ɔng pǐi lɛ̏ɛw",
+  "ຂ້ອຍເຈັບຄໍ": "Khɔ̂ɔy jép khɔ́ɔ.",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ເຈັບ": "jép",
+  "ຄໍ": "khɔ́ɔ",
+  "ສາມ": "sǎam",
+  "ມື້": "mʉ̂ʉ",
+  "ແລ້ວ": "lɛ̏ɛw",
+  "ລະ": "lā",
+  "ເທື່ອ": "thʉ̄a"
+ },
+ "suivi": "LEÇON : 50 — Partie D (Raconter et organiser, A2) · Chez le médecin\nOBJECTIF : Expliquer tes symptômes et leur durée, comprendre une consigne.\nNOTION : la durée\nVOCAB : Jép khɔ́ɔ, Ǎy, Dǒn pǎan-dǎy, Máa… lɛ̏ɛw, Mʉ̂ʉ lā sǎam thʉ̄a, Lǎng ǎa-hǎan, Kɔ̀ɔn ǎa-hǎan, Bǎy-sàng-yǎa\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 51 — Le logement"
+}

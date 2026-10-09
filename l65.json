@@ -1,0 +1,253 @@
+{
+ "num": 65,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Bilan A2",
+ "objective": "Faire le point sur les 4 compétences du niveau A2.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>entrée <small class=\"muted\">(leçon 64)</small></li><li>(n&#x27;est-ce pas, connivence) <small class=\"muted\">(leçon 62)</small></li><li>bonne année <small class=\"muted\">(leçon 58)</small></li><li>loyer <small class=\"muted\">(leçon 51)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ທາງເຂົ້າ</span> <span class=\"rom\">Tháang-khâo</span> · entrée</li><li><span class=\"lo\">ເນາະ</span> <span class=\"rom\">Nɔ̄</span> · (n&#x27;est-ce pas, connivence)</li><li><span class=\"lo\">ສະບາຍດີປີໃໝ່</span> <span class=\"rom\">Sā-bǎay-dǐi pǐi-mày</span> · bonne année</li><li><span class=\"lo\">ຄ່າເຊົ່າ</span> <span class=\"rom\">Khāa sāo</span> · loyer</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Faire le point sur les 4 compétences du niveau A2.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara raconte ses six mois au Laos.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ຢູ່ລາວມາດົນປານໃດແລ້ວ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຫົກເດືອນແລ້ວ ໄດ້ຮຽນຫຼາຍຢ່າງ</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ປີໜ້າຈະຢູ່ຕໍ່ບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຖ້າໄດ້ວຽກໃໝ່ກໍຈະຢູ່ຕໍ່</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Yùu láaw máa dǒn pǎan-dǎy lɛ̏ɛw?</span><br><span class=\"rom\">Hōk dʉ̌an lɛ̏ɛw. Dâay hían lǎay yàang.</span><br><span class=\"rom\">Pǐi-nâa já yùu tɔ̀ɔ bɔ̌ɔ?</span><br><span class=\"rom\">Thâa dâay wîak mày kɔ̂ɔ já yùu tɔ̀ɔ.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>M. Somsak</b> — Tu es au Laos depuis combien de temps ?<br><b>Clara</b> — Six mois. J&#x27;ai appris beaucoup de choses.<br><b>M. Somsak</b> — L&#x27;année prochaine, tu restes ?<br><b>Clara</b> — Si j&#x27;ai un nouveau travail, je resterai.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Depuis quand Clara est-elle au Laos ?</li><li>Va-t-elle rester ?</li></ol><details><summary>Réponses</summary><ol><li>Six mois.</li><li>Si elle trouve un nouveau travail.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຕໍ່</td><td class=\"rom\">Tɔ̀ɔ</td><td>continuer, encore</td><td></td></tr><tr><td class=\"lo\">ຢູ່ຕໍ່</td><td class=\"rom\">Yùu tɔ̀ɔ</td><td>rester</td><td></td></tr><tr><td class=\"lo\">ຫຼາຍຢ່າງ</td><td class=\"rom\">Lǎay yàang</td><td>beaucoup de choses</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : révision A2",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ມື້ວານ ໄດ້</span> <span class=\"rom\">Mʉ̂ʉ-wáan… dâay</span> = passé</li><li><span class=\"lo\">ຈະ</span> <span class=\"rom\">Já…</span> = futur</li><li><span class=\"lo\">ກຳລັງ ຢູ່</span> <span class=\"rom\">Kǎm-láng… yùu</span> = en cours</li><li><span class=\"lo\">ຖ້າ ກໍ</span> <span class=\"rom\">Thâa… kɔ̂ɔ</span> = condition</li></ul><p><b>À toi de trouver :</b></p><ol><li>Rappelle la règle de chaque structure.</li></ol><details><summary>La règle</summary><p>Bilan : temps (ໄດ້, ແລ້ວ, ຈະ, ກຳລັງ, ເຄີຍ), conditions, causes, comparaisons, discours rapporté, registres. Fais le test /test dans le projet.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> le dialogue d&#x27;une traite.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Depuis combien de temps ?</li><li>Si j&#x27;ai du travail, je resterai.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ມາດົນປານໃດແລ້ວ?</span> <span class=\"rom\">Máa dǒn pǎan-dǎy lɛ̏ɛw?</span></li><li><span class=\"lo\">ຖ້າໄດ້ວຽກກໍຈະຢູ່ຕໍ່</span> <span class=\"rom\">Thâa dâay wîak kɔ̂ɔ já yùu tɔ̀ɔ.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris un texte de 15 phrases sur ton apprentissage du lao (passé, présent, futur).</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Fais le test de fin de niveau A2 et une conversation de 10 minutes avec un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>5 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l65-v01",
+   "front": "ຕໍ່",
+   "back": "Tɔ̀ɔ · continuer, encore"
+  },
+  {
+   "id": "l65-v02",
+   "front": "ຢູ່ຕໍ່",
+   "back": "Yùu tɔ̀ɔ · rester"
+  },
+  {
+   "id": "l65-v03",
+   "front": "ຫຼາຍຢ່າງ",
+   "back": "Lǎay yàang · beaucoup de choses"
+  },
+  {
+   "id": "l65-p01",
+   "front": "Depuis combien de temps ?",
+   "back": "ມາດົນປານໃດແລ້ວ? · Máa dǒn pǎan-dǎy lɛ̏ɛw?"
+  },
+  {
+   "id": "l65-p02",
+   "front": "Si j'ai du travail, je resterai.",
+   "back": "ຖ້າໄດ້ວຽກກໍຈະຢູ່ຕໍ່ · Thâa dâay wîak kɔ̂ɔ já yùu tɔ̀ɔ."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຢູ່ລາວມາດົນປານໃດແລ້ວ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu es au Laos depuis combien de temps ?",
+      "Si j'ai un nouveau travail, je resterai.",
+      "Six mois. J'ai appris beaucoup de choses.",
+      "L'année prochaine, tu restes ?"
+     ],
+     "answer": "Tu es au Laos depuis combien de temps ?",
+     "reveal": "<i>Yùu láaw máa dǒn pǎan-dǎy lɛ̏ɛw?</i>"
+    },
+    {
+     "audio": [
+      "ຫົກເດືອນແລ້ວ ໄດ້ຮຽນຫຼາຍຢ່າງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Six mois. J'ai appris beaucoup de choses.",
+      "Tu es au Laos depuis combien de temps ?",
+      "Si j'ai un nouveau travail, je resterai.",
+      "L'année prochaine, tu restes ?"
+     ],
+     "answer": "Six mois. J'ai appris beaucoup de choses.",
+     "reveal": "<i>Hōk dʉ̌an lɛ̏ɛw. Dâay hían lǎay yàang.</i>"
+    },
+    {
+     "audio": [
+      "ປີໜ້າຈະຢູ່ຕໍ່ບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "L'année prochaine, tu restes ?",
+      "Si j'ai un nouveau travail, je resterai.",
+      "Six mois. J'ai appris beaucoup de choses.",
+      "Tu es au Laos depuis combien de temps ?"
+     ],
+     "answer": "L'année prochaine, tu restes ?",
+     "reveal": "<i>Pǐi-nâa já yùu tɔ̀ɔ bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຖ້າໄດ້ວຽກໃໝ່ກໍຈະຢູ່ຕໍ່"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Si j'ai un nouveau travail, je resterai.",
+      "L'année prochaine, tu restes ?",
+      "Tu es au Laos depuis combien de temps ?",
+      "Six mois. J'ai appris beaucoup de choses."
+     ],
+     "answer": "Si j'ai un nouveau travail, je resterai.",
+     "reveal": "<i>Thâa dâay wîak mày kɔ̂ɔ já yùu tɔ̀ɔ.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຕໍ່",
+   "rom": "Tɔ̀ɔ",
+   "fr": "continuer, encore",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຢູ່ຕໍ່",
+   "rom": "Yùu tɔ̀ɔ",
+   "fr": "rester",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫຼາຍຢ່າງ",
+   "rom": "Lǎay yàang",
+   "fr": "beaucoup de choses",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມາດົນປານໃດແລ້ວ?",
+   "rom": "Máa dǒn pǎan-dǎy lɛ̏ɛw?",
+   "fr": "Depuis combien de temps ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຖ້າໄດ້ວຽກກໍຈະຢູ່ຕໍ່",
+   "rom": "Thâa dâay wîak kɔ̂ɔ já yùu tɔ̀ɔ.",
+   "fr": "Si j'ai du travail, je resterai.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ມາ",
+    "ດົນ",
+    "ປານໃດ",
+    "ແລ້ວ"
+   ],
+   "rom": "Máa dǒn pǎan-dǎy lɛ̏ɛw?",
+   "fr": "Depuis combien de temps ?"
+  },
+  {
+   "tokens": [
+    "ຖ້າ",
+    "ໄດ້",
+    "ວຽກ",
+    "ກໍ",
+    "ຈະ",
+    "ຢູ່",
+    "ຕໍ່"
+   ],
+   "rom": "Thâa dâay wîak kɔ̂ɔ já yùu tɔ̀ɔ.",
+   "fr": "Si j'ai du travail, je resterai."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຕໍ່",
+   "rom": "Tɔ̀ɔ",
+   "fr": "continuer, encore"
+  },
+  {
+   "lao": "ຢູ່ຕໍ່",
+   "rom": "Yùu tɔ̀ɔ",
+   "fr": "rester"
+  },
+  {
+   "lao": "ຫຼາຍຢ່າງ",
+   "rom": "Lǎay yàang",
+   "fr": "beaucoup de choses"
+  }
+ ],
+ "sounds": {
+  "ທາງເຂົ້າ": "Tháang-khâo",
+  "ເນາະ": "Nɔ̄",
+  "ສະບາຍດີປີໃໝ່": "Sā-bǎay-dǐi pǐi-mày",
+  "ຄ່າເຊົ່າ": "Khāa sāo",
+  "ຢູ່ລາວມາດົນປານໃດແລ້ວ": "Yùu láaw máa dǒn pǎan-dǎy lɛ̏ɛw?",
+  "ຫົກເດືອນແລ້ວ ໄດ້ຮຽນຫຼາຍຢ່າງ": "Hōk dʉ̌an lɛ̏ɛw. Dâay hían lǎay yàang.",
+  "ປີໜ້າຈະຢູ່ຕໍ່ບໍ": "Pǐi-nâa já yùu tɔ̀ɔ bɔ̌ɔ?",
+  "ຖ້າໄດ້ວຽກໃໝ່ກໍຈະຢູ່ຕໍ່": "Thâa dâay wîak mày kɔ̂ɔ já yùu tɔ̀ɔ.",
+  "ຕໍ່": "tɔ̀ɔ",
+  "ຢູ່ຕໍ່": "Yùu tɔ̀ɔ",
+  "ຫຼາຍຢ່າງ": "Lǎay yàang",
+  "ມື້ວານ ໄດ້": "Mʉ̂ʉ-wáan… dâay",
+  "ຈະ": "já",
+  "ກຳລັງ ຢູ່": "Kǎm-láng… yùu",
+  "ຖ້າ ກໍ": "Thâa… kɔ̂ɔ",
+  "ມາດົນປານໃດແລ້ວ": "Máa dǒn pǎan-dǎy lɛ̏ɛw?",
+  "ຖ້າໄດ້ວຽກກໍຈະຢູ່ຕໍ່": "Thâa dâay wîak kɔ̂ɔ já yùu tɔ̀ɔ.",
+  "ມາ": "máa",
+  "ດົນ": "dǒn",
+  "ປານໃດ": "pǎan-dǎy",
+  "ແລ້ວ": "lɛ̏ɛw",
+  "ຖ້າ": "thâa",
+  "ໄດ້": "dâay",
+  "ວຽກ": "wîak",
+  "ກໍ": "kɔ̂ɔ",
+  "ຢູ່": "yùu"
+ },
+ "suivi": "LEÇON : 65 — Partie D (Raconter et organiser, A2) · Bilan A2\nOBJECTIF : Faire le point sur les 4 compétences du niveau A2.\nNOTION : révision A2\nVOCAB : Tɔ̀ɔ, Yùu tɔ̀ɔ, Lǎay yàang\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 66 — Je pense que…"
+}

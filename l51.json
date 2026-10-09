@@ -1,0 +1,543 @@
+{
+ "num": 51,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Le logement",
+ "objective": "Décrire un logement et poser des questions pour louer.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>tousser <small class=\"muted\">(leçon 50)</small></li><li>dire que <small class=\"muted\">(leçon 48)</small></li><li>deux fois <small class=\"muted\">(leçon 44)</small></li><li>pantalon <small class=\"muted\">(leçon 37)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ໄອ</span> <span class=\"rom\">Ǎy</span> · tousser</li><li><span class=\"lo\">ບອກວ່າ</span> <span class=\"rom\">Bɔ̏ɔk wāa</span> · dire que</li><li><span class=\"lo\">ສອງເທື່ອ</span> <span class=\"rom\">Sɔ̌ɔng thʉ̄a</span> · deux fois</li><li><span class=\"lo\">ໂສ້ງ</span> <span class=\"rom\">Sôong</span> · pantalon</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Décrire un logement et poser des questions pour louer.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara visite un appartement.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຫ້ອງນີ້ມີແອບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ພະນັກງານ</span><div><span class=\"lo\">ມີ ມີຫ້ອງນ້ຳນຳ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຄ່າເຊົ່າເດືອນລະເທົ່າໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ພະນັກງານ</span><div><span class=\"lo\">ສອງລ້ານກີບ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ລວມຄ່າໄຟບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ພະນັກງານ</span><div><span class=\"lo\">ບໍ່ລວມ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Hɔ̂ɔng nȉi míi ɛ̌ɛ bɔ̌ɔ?</span><br><span class=\"rom\">Míi. Míi hɔ̂ɔng-nȁam nám.</span><br><span class=\"rom\">Khāa sāo dʉ̌an lā thāo-dǎy?</span><br><span class=\"rom\">Sɔ̌ɔng lȁan kȉip.</span><br><span class=\"rom\">Lúam khāa fáy bɔ̌ɔ?</span><br><span class=\"rom\">Bɔ̀ɔ lúam.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Cette chambre a la clim ?<br><b>L&#x27;employé</b> — Oui. Et une salle de bain.<br><b>Clara</b> — Le loyer est de combien par mois ?<br><b>L&#x27;employé</b> — Deux millions de kips.<br><b>Clara</b> — Électricité comprise ?<br><b>L&#x27;employé</b> — Non.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que contient la chambre ?</li><li>Quel est le loyer ?</li></ol><details><summary>Réponses</summary><ol><li>La clim et une salle de bain.</li><li>2 millions de kips, électricité non comprise.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ເຊົ່າ</td><td class=\"rom\">Sāo</td><td>louer</td><td></td></tr><tr><td class=\"lo\">ຄ່າເຊົ່າ</td><td class=\"rom\">Khāa sāo</td><td>loyer</td><td></td></tr><tr><td class=\"lo\">ແອ</td><td class=\"rom\">Ɛ̌ɛ</td><td>climatisation</td><td></td></tr><tr><td class=\"lo\">ຫ້ອງນ້ຳ</td><td class=\"rom\">Hɔ̂ɔng-nȁam</td><td>salle de bain</td><td></td></tr><tr><td class=\"lo\">ຫ້ອງນອນ</td><td class=\"rom\">Hɔ̂ɔng-nɔ́ɔn</td><td>chambre</td><td></td></tr><tr><td class=\"lo\">ລວມ</td><td class=\"rom\">Lúam</td><td>compris, inclure</td><td></td></tr><tr><td class=\"lo\">ຄ່າໄຟ</td><td class=\"rom\">Khāa fáy</td><td>électricité (facture)</td><td></td></tr><tr><td class=\"lo\">ຄ່ານ້ຳ</td><td class=\"rom\">Khāa nȁam</td><td>eau (facture)</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : ມີ pour décrire",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ມີສອງຫ້ອງນອນ</span> <span class=\"rom\">Míi sɔ̌ɔng hɔ̂ɔng-nɔ́ɔn</span> = il y a deux chambres</li><li><span class=\"lo\">ບໍ່ມີແອ</span> <span class=\"rom\">Bɔ̀ɔ míi ɛ̌ɛ</span> = il n&#x27;y a pas de clim</li></ul><p><b>À toi de trouver :</b></p><ol><li>Comment décris-tu ce qu&#x27;il y a dans un logement ?</li></ol><details><summary>La règle</summary><p>ມີ + élément (+ nombre + classificateur) décrit ce que contient un lieu.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les nombres et ລວມ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Il y a la clim ?</li><li>Le loyer est de combien ?</li><li>Électricité comprise ?</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ມີແອບໍ?</span> <span class=\"rom\">Míi ɛ̌ɛ bɔ̌ɔ?</span></li><li><span class=\"lo\">ຄ່າເຊົ່າເທົ່າໃດ?</span> <span class=\"rom\">Khāa sāo thāo-dǎy?</span></li><li><span class=\"lo\">ລວມຄ່າໄຟບໍ?</span> <span class=\"rom\">Lúam khāa fáy bɔ̌ɔ?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Décris ton logement idéal en 5 phrases.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Joue avec un natif la visite d&#x27;un logement.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>11 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l51-v01",
+   "front": "ເຊົ່າ",
+   "back": "Sāo · louer"
+  },
+  {
+   "id": "l51-v02",
+   "front": "ຄ່າເຊົ່າ",
+   "back": "Khāa sāo · loyer"
+  },
+  {
+   "id": "l51-v03",
+   "front": "ແອ",
+   "back": "Ɛ̌ɛ · climatisation"
+  },
+  {
+   "id": "l51-v04",
+   "front": "ຫ້ອງນ້ຳ",
+   "back": "Hɔ̂ɔng-nȁam · salle de bain"
+  },
+  {
+   "id": "l51-v05",
+   "front": "ຫ້ອງນອນ",
+   "back": "Hɔ̂ɔng-nɔ́ɔn · chambre"
+  },
+  {
+   "id": "l51-v06",
+   "front": "ລວມ",
+   "back": "Lúam · compris, inclure"
+  },
+  {
+   "id": "l51-v07",
+   "front": "ຄ່າໄຟ",
+   "back": "Khāa fáy · électricité (facture)"
+  },
+  {
+   "id": "l51-v08",
+   "front": "ຄ່ານ້ຳ",
+   "back": "Khāa nȁam · eau (facture)"
+  },
+  {
+   "id": "l51-p01",
+   "front": "Il y a la clim ?",
+   "back": "ມີແອບໍ? · Míi ɛ̌ɛ bɔ̌ɔ?"
+  },
+  {
+   "id": "l51-p02",
+   "front": "Le loyer est de combien ?",
+   "back": "ຄ່າເຊົ່າເທົ່າໃດ? · Khāa sāo thāo-dǎy?"
+  },
+  {
+   "id": "l51-p03",
+   "front": "Électricité comprise ?",
+   "back": "ລວມຄ່າໄຟບໍ? · Lúam khāa fáy bɔ̌ɔ?"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ເຊົ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "louer",
+      "climatisation",
+      "salle de bain",
+      "électricité (facture)"
+     ],
+     "answer": "louer",
+     "reveal": "<i>Sāo</i>"
+    },
+    {
+     "audio": [
+      "ຄ່າເຊົ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "loyer",
+      "salle de bain",
+      "climatisation",
+      "louer"
+     ],
+     "answer": "loyer",
+     "reveal": "<i>Khāa sāo</i>"
+    },
+    {
+     "audio": [
+      "ແອ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "climatisation",
+      "eau (facture)",
+      "loyer",
+      "salle de bain"
+     ],
+     "answer": "climatisation",
+     "reveal": "<i>Ɛ̌ɛ</i>"
+    },
+    {
+     "audio": [
+      "ຫ້ອງນ້ຳ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "salle de bain",
+      "louer",
+      "chambre",
+      "loyer"
+     ],
+     "answer": "salle de bain",
+     "reveal": "<i>Hɔ̂ɔng-nȁam</i>"
+    },
+    {
+     "audio": [
+      "ຫ້ອງນອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "chambre",
+      "climatisation",
+      "eau (facture)",
+      "salle de bain"
+     ],
+     "answer": "chambre",
+     "reveal": "<i>Hɔ̂ɔng-nɔ́ɔn</i>"
+    },
+    {
+     "audio": [
+      "ລວມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "compris, inclure",
+      "loyer",
+      "louer",
+      "salle de bain"
+     ],
+     "answer": "compris, inclure",
+     "reveal": "<i>Lúam</i>"
+    },
+    {
+     "audio": [
+      "ຄ່າໄຟ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "électricité (facture)",
+      "climatisation",
+      "louer",
+      "chambre"
+     ],
+     "answer": "électricité (facture)",
+     "reveal": "<i>Khāa fáy</i>"
+    },
+    {
+     "audio": [
+      "ຄ່ານ້ຳ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "eau (facture)",
+      "compris, inclure",
+      "électricité (facture)",
+      "salle de bain"
+     ],
+     "answer": "eau (facture)",
+     "reveal": "<i>Khāa nȁam</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຫ້ອງນີ້ມີແອບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Cette chambre a la clim ?",
+      "Électricité comprise ?",
+      "Oui. Et une salle de bain.",
+      "Le loyer est de combien par mois ?"
+     ],
+     "answer": "Cette chambre a la clim ?",
+     "reveal": "<i>Hɔ̂ɔng nȉi míi ɛ̌ɛ bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ມີ ມີຫ້ອງນ້ຳນຳ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oui. Et une salle de bain.",
+      "Deux millions de kips.",
+      "Le loyer est de combien par mois ?",
+      "Non."
+     ],
+     "answer": "Oui. Et une salle de bain.",
+     "reveal": "<i>Míi. Míi hɔ̂ɔng-nȁam nám.</i>"
+    },
+    {
+     "audio": [
+      "ຄ່າເຊົ່າເດືອນລະເທົ່າໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Le loyer est de combien par mois ?",
+      "Deux millions de kips.",
+      "Non.",
+      "Électricité comprise ?"
+     ],
+     "answer": "Le loyer est de combien par mois ?",
+     "reveal": "<i>Khāa sāo dʉ̌an lā thāo-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ສອງລ້ານກີບ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Deux millions de kips.",
+      "Cette chambre a la clim ?",
+      "Le loyer est de combien par mois ?",
+      "Électricité comprise ?"
+     ],
+     "answer": "Deux millions de kips.",
+     "reveal": "<i>Sɔ̌ɔng lȁan kȉip.</i>"
+    },
+    {
+     "audio": [
+      "ລວມຄ່າໄຟບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Électricité comprise ?",
+      "Le loyer est de combien par mois ?",
+      "Cette chambre a la clim ?",
+      "Deux millions de kips."
+     ],
+     "answer": "Électricité comprise ?",
+     "reveal": "<i>Lúam khāa fáy bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ລວມ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Non.",
+      "Électricité comprise ?",
+      "Oui. Et une salle de bain.",
+      "Cette chambre a la clim ?"
+     ],
+     "answer": "Non.",
+     "reveal": "<i>Bɔ̀ɔ lúam.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ມີແອບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il y a la clim ?",
+      "Électricité comprise ?",
+      "Le loyer est de combien ?"
+     ],
+     "answer": "Il y a la clim ?",
+     "reveal": "<i>Míi ɛ̌ɛ bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຄ່າເຊົ່າເທົ່າໃດ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Le loyer est de combien ?",
+      "Électricité comprise ?",
+      "Il y a la clim ?"
+     ],
+     "answer": "Le loyer est de combien ?",
+     "reveal": "<i>Khāa sāo thāo-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ລວມຄ່າໄຟບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Électricité comprise ?",
+      "Il y a la clim ?",
+      "Le loyer est de combien ?"
+     ],
+     "answer": "Électricité comprise ?",
+     "reveal": "<i>Lúam khāa fáy bɔ̌ɔ?</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ເຊົ່າ",
+   "rom": "Sāo",
+   "fr": "louer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄ່າເຊົ່າ",
+   "rom": "Khāa sāo",
+   "fr": "loyer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແອ",
+   "rom": "Ɛ̌ɛ",
+   "fr": "climatisation",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫ້ອງນ້ຳ",
+   "rom": "Hɔ̂ɔng-nȁam",
+   "fr": "salle de bain",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫ້ອງນອນ",
+   "rom": "Hɔ̂ɔng-nɔ́ɔn",
+   "fr": "chambre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລວມ",
+   "rom": "Lúam",
+   "fr": "compris, inclure",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄ່າໄຟ",
+   "rom": "Khāa fáy",
+   "fr": "électricité (facture)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄ່ານ້ຳ",
+   "rom": "Khāa nȁam",
+   "fr": "eau (facture)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມີແອບໍ?",
+   "rom": "Míi ɛ̌ɛ bɔ̌ɔ?",
+   "fr": "Il y a la clim ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄ່າເຊົ່າເທົ່າໃດ?",
+   "rom": "Khāa sāo thāo-dǎy?",
+   "fr": "Le loyer est de combien ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລວມຄ່າໄຟບໍ?",
+   "rom": "Lúam khāa fáy bɔ̌ɔ?",
+   "fr": "Électricité comprise ?",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ມີ",
+    "ແອ",
+    "ບໍ"
+   ],
+   "rom": "Míi ɛ̌ɛ bɔ̌ɔ?",
+   "fr": "Il y a la clim ?"
+  },
+  {
+   "tokens": [
+    "ຄ່າ",
+    "ເຊົ່າ",
+    "ເທົ່າໃດ"
+   ],
+   "rom": "Khāa sāo thāo-dǎy?",
+   "fr": "Le loyer est de combien ?"
+  },
+  {
+   "tokens": [
+    "ລວມ",
+    "ຄ່າ",
+    "ໄຟ",
+    "ບໍ"
+   ],
+   "rom": "Lúam khāa fáy bɔ̌ɔ?",
+   "fr": "Électricité comprise ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ເຊົ່າ",
+   "rom": "Sāo",
+   "fr": "louer"
+  },
+  {
+   "lao": "ຄ່າເຊົ່າ",
+   "rom": "Khāa sāo",
+   "fr": "loyer"
+  },
+  {
+   "lao": "ແອ",
+   "rom": "Ɛ̌ɛ",
+   "fr": "climatisation"
+  },
+  {
+   "lao": "ຫ້ອງນ້ຳ",
+   "rom": "Hɔ̂ɔng-nȁam",
+   "fr": "salle de bain"
+  },
+  {
+   "lao": "ຫ້ອງນອນ",
+   "rom": "Hɔ̂ɔng-nɔ́ɔn",
+   "fr": "chambre"
+  },
+  {
+   "lao": "ລວມ",
+   "rom": "Lúam",
+   "fr": "compris, inclure"
+  },
+  {
+   "lao": "ຄ່າໄຟ",
+   "rom": "Khāa fáy",
+   "fr": "électricité (facture)"
+  },
+  {
+   "lao": "ຄ່ານ້ຳ",
+   "rom": "Khāa nȁam",
+   "fr": "eau (facture)"
+  }
+ ],
+ "sounds": {
+  "ໄອ": "Ǎy",
+  "ບອກວ່າ": "Bɔ̏ɔk wāa",
+  "ສອງເທື່ອ": "Sɔ̌ɔng thʉ̄a",
+  "ໂສ້ງ": "Sôong",
+  "ຫ້ອງນີ້ມີແອບໍ": "Hɔ̂ɔng nȉi míi ɛ̌ɛ bɔ̌ɔ?",
+  "ມີ ມີຫ້ອງນ້ຳນຳ": "Míi. Míi hɔ̂ɔng-nȁam nám.",
+  "ຄ່າເຊົ່າເດືອນລະເທົ່າໃດ": "Khāa sāo dʉ̌an lā thāo-dǎy?",
+  "ສອງລ້ານກີບ": "Sɔ̌ɔng lȁan kȉip.",
+  "ລວມຄ່າໄຟບໍ": "Lúam khāa fáy bɔ̌ɔ?",
+  "ບໍ່ລວມ": "Bɔ̀ɔ lúam.",
+  "ເຊົ່າ": "sāo",
+  "ຄ່າເຊົ່າ": "Khāa sāo",
+  "ແອ": "ɛ̌ɛ",
+  "ຫ້ອງນ້ຳ": "Hɔ̂ɔng-nȁam",
+  "ຫ້ອງນອນ": "Hɔ̂ɔng-nɔ́ɔn",
+  "ລວມ": "lúam",
+  "ຄ່າໄຟ": "Khāa fáy",
+  "ຄ່ານ້ຳ": "Khāa nȁam",
+  "ມີສອງຫ້ອງນອນ": "Míi sɔ̌ɔng hɔ̂ɔng-nɔ́ɔn",
+  "ບໍ່ມີແອ": "Bɔ̀ɔ míi ɛ̌ɛ",
+  "ມີແອບໍ": "Míi ɛ̌ɛ bɔ̌ɔ?",
+  "ຄ່າເຊົ່າເທົ່າໃດ": "Khāa sāo thāo-dǎy?",
+  "ມີ": "míi",
+  "ບໍ": "bɔ̌ɔ",
+  "ຄ່າ": "khāa",
+  "ເທົ່າໃດ": "thāo-dǎy",
+  "ໄຟ": "fáy"
+ },
+ "suivi": "LEÇON : 51 — Partie D (Raconter et organiser, A2) · Le logement\nOBJECTIF : Décrire un logement et poser des questions pour louer.\nNOTION : ມີ pour décrire\nVOCAB : Sāo, Khāa sāo, Ɛ̌ɛ, Hɔ̂ɔng-nȁam, Hɔ̂ɔng-nɔ́ɔn, Lúam, Khāa fáy, Khāa nȁam\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 52 — Travail et études"
+}

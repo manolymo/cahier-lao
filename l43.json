@@ -1,0 +1,462 @@
+{
+ "num": 43,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "En ce moment",
+ "objective": "Dire ce que tu es en train de faire.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>la semaine prochaine <small class=\"muted\">(leçon 42)</small></li><li>tous les jours <small class=\"muted\">(leçon 40)</small></li><li>froid <small class=\"muted\">(leçon 36)</small></li><li>minute <small class=\"muted\">(leçon 29)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ອາທິດໜ້າ</span> <span class=\"rom\">Ǎa-thīt-nâa</span> · la semaine prochaine</li><li><span class=\"lo\">ທຸກມື້</span> <span class=\"rom\">Thūk-mʉ̂ʉ</span> · tous les jours</li><li><span class=\"lo\">ໜາວ</span> <span class=\"rom\">Nǎaw</span> · froid</li><li><span class=\"lo\">ນາທີ</span> <span class=\"rom\">Náa-thíi</span> · minute</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Dire ce que tu es en train de faire.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Noy appelle Clara.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເຮັດຫຍັງຢູ່?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ກຳລັງເຮັດກິນຢູ່</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເຮັດຫຍັງກິນ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແກງໜໍ່ໄມ້ ມາກິນນຳບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ໄປດຽວນີ້ເລີຍ!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Hēt nyǎng yùu?</span><br><span class=\"rom\">Kǎm-láng hēt-kǐn yùu.</span><br><span class=\"rom\">Hēt nyǎng kǐn?</span><br><span class=\"rom\">Kɛ̌ɛng nɔ̀ɔ-mȁy. Máa kǐn nám bɔ̌ɔ?</span><br><span class=\"rom\">Pǎy dǐaw-nȉi lɤ́ɤy!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Tu fais quoi ?<br><b>Clara</b> — Je suis en train de cuisiner.<br><b>Noy</b> — Tu prépares quoi ?<br><b>Clara</b> — Une soupe de pousses de bambou. Tu viens manger ?<br><b>Noy</b> — J&#x27;arrive tout de suite !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que fait Clara ?</li></ol><details><summary>Réponses</summary><ol><li>Elle cuisine une soupe de pousses de bambou.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ກຳລັງ</td><td class=\"rom\">Kǎm-láng</td><td>être en train de</td><td></td></tr><tr><td class=\"lo\">ຢູ່</td><td class=\"rom\">Yùu</td><td>(action en cours)</td><td></td></tr><tr><td class=\"lo\">ເຮັດກິນ</td><td class=\"rom\">Hēt-kǐn</td><td>cuisiner</td><td></td></tr><tr><td class=\"lo\">ແກງ</td><td class=\"rom\">Kɛ̌ɛng</td><td>soupe</td><td></td></tr><tr><td class=\"lo\">ໜໍ່ໄມ້</td><td class=\"rom\">Nɔ̀ɔ-mȁy</td><td>pousse de bambou</td><td></td></tr><tr><td class=\"lo\">ດຽວນີ້</td><td class=\"rom\">Dǐaw-nȉi</td><td>maintenant, tout de suite</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : l'action en cours",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ກຳລັງກິນ</span> <span class=\"rom\">Kǎm-láng kǐn</span> = je suis en train de manger</li><li><span class=\"lo\">ເຮັດຫຍັງຢູ່?</span> <span class=\"rom\">Hēt nyǎng yùu?</span> = tu fais quoi (en ce moment) ?</li><li><span class=\"lo\">ກຳລັງອ່ານປຶ້ມຢູ່</span> <span class=\"rom\">Kǎm-láng àan pɤ̂m yùu</span> = je suis en train de lire</li></ul><p><b>À toi de trouver :</b></p><ol><li>Où se placent ກຳລັງ et ຢູ່ ?</li></ol><details><summary>La règle</summary><p>ກຳລັງ avant le verbe et/ou ຢູ່ en fin de phrase indiquent l'action en cours.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> ກຳລັງ et ຢູ່.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Tu fais quoi ?</li><li>Je suis en train de cuisiner.</li><li>J&#x27;arrive tout de suite !</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເຮັດຫຍັງຢູ່?</span> <span class=\"rom\">Hēt nyǎng yùu?</span></li><li><span class=\"lo\">ກຳລັງເຮັດກິນຢູ່</span> <span class=\"rom\">Kǎm-láng hēt-kǐn yùu.</span></li><li><span class=\"lo\">ໄປດຽວນີ້ເລີຍ!</span> <span class=\"rom\">Pǎy dǐaw-nȉi lɤ́ɤy!</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Décris ce que font 4 personnes autour de toi en ce moment.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Fais un appel vidéo et décris ce que tu es en train de faire.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>9 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l43-v01",
+   "front": "ກຳລັງ",
+   "back": "Kǎm-láng · être en train de"
+  },
+  {
+   "id": "l43-v02",
+   "front": "ຢູ່",
+   "back": "Yùu · (action en cours)"
+  },
+  {
+   "id": "l43-v03",
+   "front": "ເຮັດກິນ",
+   "back": "Hēt-kǐn · cuisiner"
+  },
+  {
+   "id": "l43-v04",
+   "front": "ແກງ",
+   "back": "Kɛ̌ɛng · soupe"
+  },
+  {
+   "id": "l43-v05",
+   "front": "ໜໍ່ໄມ້",
+   "back": "Nɔ̀ɔ-mȁy · pousse de bambou"
+  },
+  {
+   "id": "l43-v06",
+   "front": "ດຽວນີ້",
+   "back": "Dǐaw-nȉi · maintenant, tout de suite"
+  },
+  {
+   "id": "l43-p01",
+   "front": "Tu fais quoi ?",
+   "back": "ເຮັດຫຍັງຢູ່? · Hēt nyǎng yùu?"
+  },
+  {
+   "id": "l43-p02",
+   "front": "Je suis en train de cuisiner.",
+   "back": "ກຳລັງເຮັດກິນຢູ່ · Kǎm-láng hēt-kǐn yùu."
+  },
+  {
+   "id": "l43-p03",
+   "front": "J'arrive tout de suite !",
+   "back": "ໄປດຽວນີ້ເລີຍ! · Pǎy dǐaw-nȉi lɤ́ɤy!"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ກຳລັງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "être en train de",
+      "cuisiner",
+      "pousse de bambou",
+      "maintenant, tout de suite"
+     ],
+     "answer": "être en train de",
+     "reveal": "<i>Kǎm-láng</i>"
+    },
+    {
+     "audio": [
+      "ຢູ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "(action en cours)",
+      "soupe",
+      "pousse de bambou",
+      "être en train de"
+     ],
+     "answer": "(action en cours)",
+     "reveal": "<i>Yùu</i>"
+    },
+    {
+     "audio": [
+      "ເຮັດກິນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "cuisiner",
+      "(action en cours)",
+      "être en train de",
+      "soupe"
+     ],
+     "answer": "cuisiner",
+     "reveal": "<i>Hēt-kǐn</i>"
+    },
+    {
+     "audio": [
+      "ແກງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "soupe",
+      "être en train de",
+      "maintenant, tout de suite",
+      "pousse de bambou"
+     ],
+     "answer": "soupe",
+     "reveal": "<i>Kɛ̌ɛng</i>"
+    },
+    {
+     "audio": [
+      "ໜໍ່ໄມ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pousse de bambou",
+      "(action en cours)",
+      "être en train de",
+      "soupe"
+     ],
+     "answer": "pousse de bambou",
+     "reveal": "<i>Nɔ̀ɔ-mȁy</i>"
+    },
+    {
+     "audio": [
+      "ດຽວນີ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "maintenant, tout de suite",
+      "soupe",
+      "être en train de",
+      "cuisiner"
+     ],
+     "answer": "maintenant, tout de suite",
+     "reveal": "<i>Dǐaw-nȉi</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເຮັດຫຍັງຢູ່?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu fais quoi ?",
+      "Je suis en train de cuisiner.",
+      "Une soupe de pousses de bambou. Tu viens manger ?",
+      "J'arrive tout de suite !"
+     ],
+     "answer": "Tu fais quoi ?",
+     "reveal": "<i>Hēt nyǎng yùu?</i>"
+    },
+    {
+     "audio": [
+      "ກຳລັງເຮັດກິນຢູ່"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je suis en train de cuisiner.",
+      "J'arrive tout de suite !",
+      "Tu prépares quoi ?",
+      "Une soupe de pousses de bambou. Tu viens manger ?"
+     ],
+     "answer": "Je suis en train de cuisiner.",
+     "reveal": "<i>Kǎm-láng hēt-kǐn yùu.</i>"
+    },
+    {
+     "audio": [
+      "ເຮັດຫຍັງກິນ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu prépares quoi ?",
+      "J'arrive tout de suite !",
+      "Une soupe de pousses de bambou. Tu viens manger ?",
+      "Tu fais quoi ?"
+     ],
+     "answer": "Tu prépares quoi ?",
+     "reveal": "<i>Hēt nyǎng kǐn?</i>"
+    },
+    {
+     "audio": [
+      "ແກງໜໍ່ໄມ້ ມາກິນນຳບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Une soupe de pousses de bambou. Tu viens manger ?",
+      "Tu fais quoi ?",
+      "J'arrive tout de suite !",
+      "Tu prépares quoi ?"
+     ],
+     "answer": "Une soupe de pousses de bambou. Tu viens manger ?",
+     "reveal": "<i>Kɛ̌ɛng nɔ̀ɔ-mȁy. Máa kǐn nám bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ໄປດຽວນີ້ເລີຍ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "J'arrive tout de suite !",
+      "Une soupe de pousses de bambou. Tu viens manger ?",
+      "Tu fais quoi ?",
+      "Tu prépares quoi ?"
+     ],
+     "answer": "J'arrive tout de suite !",
+     "reveal": "<i>Pǎy dǐaw-nȉi lɤ́ɤy!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເຮັດຫຍັງຢູ່?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tu fais quoi ?",
+      "Je suis en train de cuisiner.",
+      "J'arrive tout de suite !"
+     ],
+     "answer": "Tu fais quoi ?",
+     "reveal": "<i>Hēt nyǎng yùu?</i>"
+    },
+    {
+     "audio": [
+      "ກຳລັງເຮັດກິນຢູ່"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je suis en train de cuisiner.",
+      "Tu fais quoi ?",
+      "J'arrive tout de suite !"
+     ],
+     "answer": "Je suis en train de cuisiner.",
+     "reveal": "<i>Kǎm-láng hēt-kǐn yùu.</i>"
+    },
+    {
+     "audio": [
+      "ໄປດຽວນີ້ເລີຍ!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "J'arrive tout de suite !",
+      "Tu fais quoi ?",
+      "Je suis en train de cuisiner."
+     ],
+     "answer": "J'arrive tout de suite !",
+     "reveal": "<i>Pǎy dǐaw-nȉi lɤ́ɤy!</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ກຳລັງ",
+   "rom": "Kǎm-láng",
+   "fr": "être en train de",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຢູ່",
+   "rom": "Yùu",
+   "fr": "(action en cours)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຮັດກິນ",
+   "rom": "Hēt-kǐn",
+   "fr": "cuisiner",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແກງ",
+   "rom": "Kɛ̌ɛng",
+   "fr": "soupe",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໜໍ່ໄມ້",
+   "rom": "Nɔ̀ɔ-mȁy",
+   "fr": "pousse de bambou",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ດຽວນີ້",
+   "rom": "Dǐaw-nȉi",
+   "fr": "maintenant, tout de suite",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຮັດຫຍັງຢູ່?",
+   "rom": "Hēt nyǎng yùu?",
+   "fr": "Tu fais quoi ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກຳລັງເຮັດກິນຢູ່",
+   "rom": "Kǎm-láng hēt-kǐn yùu.",
+   "fr": "Je suis en train de cuisiner.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄປດຽວນີ້ເລີຍ!",
+   "rom": "Pǎy dǐaw-nȉi lɤ́ɤy!",
+   "fr": "J'arrive tout de suite !",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ເຮັດ",
+    "ຫຍັງ",
+    "ຢູ່"
+   ],
+   "rom": "Hēt nyǎng yùu?",
+   "fr": "Tu fais quoi ?"
+  },
+  {
+   "tokens": [
+    "ກຳລັງ",
+    "ເຮັດກິນ",
+    "ຢູ່"
+   ],
+   "rom": "Kǎm-láng hēt-kǐn yùu.",
+   "fr": "Je suis en train de cuisiner."
+  },
+  {
+   "tokens": [
+    "ໄປ",
+    "ດຽວນີ້",
+    "ເລີຍ"
+   ],
+   "rom": "Pǎy dǐaw-nȉi lɤ́ɤy!",
+   "fr": "J'arrive tout de suite !"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ກຳລັງ",
+   "rom": "Kǎm-láng",
+   "fr": "être en train de"
+  },
+  {
+   "lao": "ຢູ່",
+   "rom": "Yùu",
+   "fr": "(action en cours)"
+  },
+  {
+   "lao": "ເຮັດກິນ",
+   "rom": "Hēt-kǐn",
+   "fr": "cuisiner"
+  },
+  {
+   "lao": "ແກງ",
+   "rom": "Kɛ̌ɛng",
+   "fr": "soupe"
+  },
+  {
+   "lao": "ໜໍ່ໄມ້",
+   "rom": "Nɔ̀ɔ-mȁy",
+   "fr": "pousse de bambou"
+  },
+  {
+   "lao": "ດຽວນີ້",
+   "rom": "Dǐaw-nȉi",
+   "fr": "maintenant, tout de suite"
+  }
+ ],
+ "sounds": {
+  "ອາທິດໜ້າ": "Ǎa-thīt-nâa",
+  "ທຸກມື້": "Thūk-mʉ̂ʉ",
+  "ໜາວ": "Nǎaw",
+  "ນາທີ": "Náa-thíi",
+  "ເຮັດຫຍັງຢູ່": "Hēt nyǎng yùu?",
+  "ກຳລັງເຮັດກິນຢູ່": "Kǎm-láng hēt-kǐn yùu.",
+  "ເຮັດຫຍັງກິນ": "Hēt nyǎng kǐn?",
+  "ແກງໜໍ່ໄມ້ ມາກິນນຳບໍ": "Kɛ̌ɛng nɔ̀ɔ-mȁy. Máa kǐn nám bɔ̌ɔ?",
+  "ໄປດຽວນີ້ເລີຍ": "Pǎy dǐaw-nȉi lɤ́ɤy!",
+  "ກຳລັງ": "kǎm-láng",
+  "ຢູ່": "yùu",
+  "ເຮັດກິນ": "hēt-kǐn",
+  "ແກງ": "Kɛ̌ɛng",
+  "ໜໍ່ໄມ້": "Nɔ̀ɔ-mȁy",
+  "ດຽວນີ້": "dǐaw-nȉi",
+  "ກຳລັງກິນ": "Kǎm-láng kǐn",
+  "ກຳລັງອ່ານປຶ້ມຢູ່": "Kǎm-láng àan pɤ̂m yùu",
+  "ເຮັດ": "hēt",
+  "ຫຍັງ": "nyǎng",
+  "ໄປ": "pǎy",
+  "ເລີຍ": "lɤ́ɤy"
+ },
+ "suivi": "LEÇON : 43 — Partie D (Raconter et organiser, A2) · En ce moment\nOBJECTIF : Dire ce que tu es en train de faire.\nNOTION : l'action en cours\nVOCAB : Kǎm-láng, Yùu, Hēt-kǐn, Kɛ̌ɛng, Nɔ̀ɔ-mȁy, Dǐaw-nȉi\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 44 — Tu as déjà… ?"
+}

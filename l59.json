@@ -1,0 +1,555 @@
+{
+ "num": 59,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Cuisiner",
+ "objective": "Expliquer une recette simple étape par étape.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>je souhaite que <small class=\"muted\">(leçon 58)</small></li><li>enseigner <small class=\"muted\">(leçon 56)</small></li><li>travailler <small class=\"muted\">(leçon 52)</small></li><li>parlez lentement, svp <small class=\"muted\">(leçon 45)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຂໍໃຫ້</span> <span class=\"rom\">Khɔ̌ɔ hây</span> · je souhaite que</li><li><span class=\"lo\">ສອນ</span> <span class=\"rom\">Sɔ̌ɔn</span> · enseigner</li><li><span class=\"lo\">ເຮັດວຽກ</span> <span class=\"rom\">Hēt-wîak</span> · travailler</li><li><span class=\"lo\">ເວົ້າຊ້າໆແດ່</span> <span class=\"rom\">Wȁo sȁa-sȁa dɛ̀ɛ</span> · parlez lentement, svp</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Expliquer une recette simple étape par étape.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Mme Boua apprend le larb à Clara.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ທຳອິດສັບຊີ້ນໃຫ້ລະອຽດ</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ແລ້ວຂົ້ວເຂົ້າໃຫ້ຫອມ</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ໃສ່ນ້ຳປາ ໝາກນາວ ແລະໝາກເຜັດ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໃສ່ຜັກຫຍັງແດ່?</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ຜັກບົ່ວແລະຜັກຫອມ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Thám-ít sāp sȋin hây lā-ȉat.</span><br><span class=\"rom\">Lɛ̏ɛw khûa khâo hây hɔ̌ɔm.</span><br><span class=\"rom\">Sày nȁam-pǎa, mȁak-náaw, lɛ́ mȁak-phēt.</span><br><span class=\"rom\">Sày phāk nyǎng dɛ̀ɛ?</span><br><span class=\"rom\">Phāk bùa lɛ́ phāk hɔ̌ɔm.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Mme Boua</b> — D&#x27;abord, hache la viande finement.<br><b>Mme Boua</b> — Puis fais griller le riz pour qu&#x27;il sente bon.<br><b>Mme Boua</b> — Ajoute sauce de poisson, citron vert et piment.<br><b>Clara</b> — On met quelles herbes ?<br><b>Mme Boua</b> — De l&#x27;oignon vert et de la coriandre.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quelle est la première étape ?</li><li>Quels ingrédients ajoute-t-on ?</li></ol><details><summary>Réponses</summary><ol><li>Hacher la viande finement.</li><li>Sauce de poisson, citron vert, piment, herbes.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ສັບ</td><td class=\"rom\">Sāp</td><td>hacher</td><td></td></tr><tr><td class=\"lo\">ຂົ້ວ</td><td class=\"rom\">Khûa</td><td>griller à sec, faire sauter</td><td></td></tr><tr><td class=\"lo\">ໃສ່</td><td class=\"rom\">Sày</td><td>mettre, ajouter</td><td></td></tr><tr><td class=\"lo\">ນ້ຳປາ</td><td class=\"rom\">Nȁam-pǎa</td><td>sauce de poisson</td><td></td></tr><tr><td class=\"lo\">ໝາກນາວ</td><td class=\"rom\">Mȁak-náaw</td><td>citron vert</td><td></td></tr><tr><td class=\"lo\">ໝາກເຜັດ</td><td class=\"rom\">Mȁak-phēt</td><td>piment</td><td></td></tr><tr><td class=\"lo\">ຫອມ</td><td class=\"rom\">Hɔ̌ɔm</td><td>parfumé</td><td></td></tr><tr><td class=\"lo\">ລະອຽດ</td><td class=\"rom\">Lā-ȉat</td><td>fin, minutieux</td><td></td></tr><tr><td class=\"lo\">ຜັກບົ່ວ</td><td class=\"rom\">Phāk bùa</td><td>oignon vert</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : l'impératif et l'ordre des étapes",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ໃສ່ນ້ຳປາ</span> <span class=\"rom\">Sày nȁam-pǎa</span> = mets la sauce de poisson</li><li><span class=\"lo\">ສັບໃຫ້ລະອຽດ</span> <span class=\"rom\">Sāp hây lā-ȉat</span> = hache finement</li></ul><p><b>À toi de trouver :</b></p><ol><li>Comment donne-t-on un ordre ?</li></ol><details><summary>La règle</summary><p>L'impératif = le verbe seul. Verbe + ໃຫ້ + adjectif = faire de façon à ce que (ສັບໃຫ້ລະອຽດ = hacher finement).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les verbes de cuisine.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>D&#x27;abord, hache la viande.</li><li>Ajoute du citron vert.</li><li>C&#x27;est parfumé !</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ທຳອິດສັບຊີ້ນ</span> <span class=\"rom\">Thám-ít sāp sȋin.</span></li><li><span class=\"lo\">ໃສ່ໝາກນາວ</span> <span class=\"rom\">Sày mȁak-náaw.</span></li><li><span class=\"lo\">ຫອມແທ້!</span> <span class=\"rom\">Hɔ̌ɔm thɛ̏ɛ!</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris la recette de ton plat préféré en 6 étapes.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Cuisine un plat lao avec un natif en suivant ses consignes en lao.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>12 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l59-v01",
+   "front": "ສັບ",
+   "back": "Sāp · hacher"
+  },
+  {
+   "id": "l59-v02",
+   "front": "ຂົ້ວ",
+   "back": "Khûa · griller à sec, faire sauter"
+  },
+  {
+   "id": "l59-v03",
+   "front": "ໃສ່",
+   "back": "Sày · mettre, ajouter"
+  },
+  {
+   "id": "l59-v04",
+   "front": "ນ້ຳປາ",
+   "back": "Nȁam-pǎa · sauce de poisson"
+  },
+  {
+   "id": "l59-v05",
+   "front": "ໝາກນາວ",
+   "back": "Mȁak-náaw · citron vert"
+  },
+  {
+   "id": "l59-v06",
+   "front": "ໝາກເຜັດ",
+   "back": "Mȁak-phēt · piment"
+  },
+  {
+   "id": "l59-v07",
+   "front": "ຫອມ",
+   "back": "Hɔ̌ɔm · parfumé"
+  },
+  {
+   "id": "l59-v08",
+   "front": "ລະອຽດ",
+   "back": "Lā-ȉat · fin, minutieux"
+  },
+  {
+   "id": "l59-v09",
+   "front": "ຜັກບົ່ວ",
+   "back": "Phāk bùa · oignon vert"
+  },
+  {
+   "id": "l59-p01",
+   "front": "D'abord, hache la viande.",
+   "back": "ທຳອິດສັບຊີ້ນ · Thám-ít sāp sȋin."
+  },
+  {
+   "id": "l59-p02",
+   "front": "Ajoute du citron vert.",
+   "back": "ໃສ່ໝາກນາວ · Sày mȁak-náaw."
+  },
+  {
+   "id": "l59-p03",
+   "front": "C'est parfumé !",
+   "back": "ຫອມແທ້! · Hɔ̌ɔm thɛ̏ɛ!"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ສັບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "hacher",
+      "fin, minutieux",
+      "griller à sec, faire sauter",
+      "sauce de poisson"
+     ],
+     "answer": "hacher",
+     "reveal": "<i>Sāp</i>"
+    },
+    {
+     "audio": [
+      "ຂົ້ວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "griller à sec, faire sauter",
+      "sauce de poisson",
+      "fin, minutieux",
+      "parfumé"
+     ],
+     "answer": "griller à sec, faire sauter",
+     "reveal": "<i>Khûa</i>"
+    },
+    {
+     "audio": [
+      "ໃສ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mettre, ajouter",
+      "parfumé",
+      "hacher",
+      "sauce de poisson"
+     ],
+     "answer": "mettre, ajouter",
+     "reveal": "<i>Sày</i>"
+    },
+    {
+     "audio": [
+      "ນ້ຳປາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "sauce de poisson",
+      "parfumé",
+      "fin, minutieux",
+      "piment"
+     ],
+     "answer": "sauce de poisson",
+     "reveal": "<i>Nȁam-pǎa</i>"
+    },
+    {
+     "audio": [
+      "ໝາກນາວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "citron vert",
+      "parfumé",
+      "fin, minutieux",
+      "griller à sec, faire sauter"
+     ],
+     "answer": "citron vert",
+     "reveal": "<i>Mȁak-náaw</i>"
+    },
+    {
+     "audio": [
+      "ໝາກເຜັດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "piment",
+      "oignon vert",
+      "griller à sec, faire sauter",
+      "parfumé"
+     ],
+     "answer": "piment",
+     "reveal": "<i>Mȁak-phēt</i>"
+    },
+    {
+     "audio": [
+      "ຫອມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "parfumé",
+      "griller à sec, faire sauter",
+      "citron vert",
+      "hacher"
+     ],
+     "answer": "parfumé",
+     "reveal": "<i>Hɔ̌ɔm</i>"
+    },
+    {
+     "audio": [
+      "ລະອຽດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "fin, minutieux",
+      "piment",
+      "griller à sec, faire sauter",
+      "citron vert"
+     ],
+     "answer": "fin, minutieux",
+     "reveal": "<i>Lā-ȉat</i>"
+    },
+    {
+     "audio": [
+      "ຜັກບົ່ວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "oignon vert",
+      "griller à sec, faire sauter",
+      "mettre, ajouter",
+      "piment"
+     ],
+     "answer": "oignon vert",
+     "reveal": "<i>Phāk bùa</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ທຳອິດສັບຊີ້ນໃຫ້ລະອຽດ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "D'abord, hache la viande finement.",
+      "On met quelles herbes ?",
+      "De l'oignon vert et de la coriandre.",
+      "Puis fais griller le riz pour qu'il sente bon."
+     ],
+     "answer": "D'abord, hache la viande finement.",
+     "reveal": "<i>Thám-ít sāp sȋin hây lā-ȉat.</i>"
+    },
+    {
+     "audio": [
+      "ແລ້ວຂົ້ວເຂົ້າໃຫ້ຫອມ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Puis fais griller le riz pour qu'il sente bon.",
+      "On met quelles herbes ?",
+      "Ajoute sauce de poisson, citron vert et piment.",
+      "De l'oignon vert et de la coriandre."
+     ],
+     "answer": "Puis fais griller le riz pour qu'il sente bon.",
+     "reveal": "<i>Lɛ̏ɛw khûa khâo hây hɔ̌ɔm.</i>"
+    },
+    {
+     "audio": [
+      "ໃສ່ນ້ຳປາ ໝາກນາວ ແລະໝາກເຜັດ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Ajoute sauce de poisson, citron vert et piment.",
+      "D'abord, hache la viande finement.",
+      "De l'oignon vert et de la coriandre.",
+      "On met quelles herbes ?"
+     ],
+     "answer": "Ajoute sauce de poisson, citron vert et piment.",
+     "reveal": "<i>Sày nȁam-pǎa, mȁak-náaw, lɛ́ mȁak-phēt.</i>"
+    },
+    {
+     "audio": [
+      "ໃສ່ຜັກຫຍັງແດ່?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "On met quelles herbes ?",
+      "Ajoute sauce de poisson, citron vert et piment.",
+      "D'abord, hache la viande finement.",
+      "Puis fais griller le riz pour qu'il sente bon."
+     ],
+     "answer": "On met quelles herbes ?",
+     "reveal": "<i>Sày phāk nyǎng dɛ̀ɛ?</i>"
+    },
+    {
+     "audio": [
+      "ຜັກບົ່ວແລະຜັກຫອມ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "De l'oignon vert et de la coriandre.",
+      "D'abord, hache la viande finement.",
+      "Ajoute sauce de poisson, citron vert et piment.",
+      "On met quelles herbes ?"
+     ],
+     "answer": "De l'oignon vert et de la coriandre.",
+     "reveal": "<i>Phāk bùa lɛ́ phāk hɔ̌ɔm.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ທຳອິດສັບຊີ້ນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "D'abord, hache la viande.",
+      "C'est parfumé !",
+      "Ajoute du citron vert."
+     ],
+     "answer": "D'abord, hache la viande.",
+     "reveal": "<i>Thám-ít sāp sȋin.</i>"
+    },
+    {
+     "audio": [
+      "ໃສ່ໝາກນາວ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Ajoute du citron vert.",
+      "C'est parfumé !",
+      "D'abord, hache la viande."
+     ],
+     "answer": "Ajoute du citron vert.",
+     "reveal": "<i>Sày mȁak-náaw.</i>"
+    },
+    {
+     "audio": [
+      "ຫອມແທ້!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est parfumé !",
+      "D'abord, hache la viande.",
+      "Ajoute du citron vert."
+     ],
+     "answer": "C'est parfumé !",
+     "reveal": "<i>Hɔ̌ɔm thɛ̏ɛ!</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ສັບ",
+   "rom": "Sāp",
+   "fr": "hacher",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂົ້ວ",
+   "rom": "Khûa",
+   "fr": "griller à sec, faire sauter",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃສ່",
+   "rom": "Sày",
+   "fr": "mettre, ajouter",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນ້ຳປາ",
+   "rom": "Nȁam-pǎa",
+   "fr": "sauce de poisson",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໝາກນາວ",
+   "rom": "Mȁak-náaw",
+   "fr": "citron vert",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໝາກເຜັດ",
+   "rom": "Mȁak-phēt",
+   "fr": "piment",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫອມ",
+   "rom": "Hɔ̌ɔm",
+   "fr": "parfumé",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລະອຽດ",
+   "rom": "Lā-ȉat",
+   "fr": "fin, minutieux",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຜັກບົ່ວ",
+   "rom": "Phāk bùa",
+   "fr": "oignon vert",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທຳອິດສັບຊີ້ນ",
+   "rom": "Thám-ít sāp sȋin.",
+   "fr": "D'abord, hache la viande.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃສ່ໝາກນາວ",
+   "rom": "Sày mȁak-náaw.",
+   "fr": "Ajoute du citron vert.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫອມແທ້!",
+   "rom": "Hɔ̌ɔm thɛ̏ɛ!",
+   "fr": "C'est parfumé !",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ທຳອິດ",
+    "ສັບ",
+    "ຊີ້ນ"
+   ],
+   "rom": "Thám-ít sāp sȋin.",
+   "fr": "D'abord, hache la viande."
+  },
+  {
+   "tokens": [
+    "ໃສ່",
+    "ໝາກນາວ"
+   ],
+   "rom": "Sày mȁak-náaw.",
+   "fr": "Ajoute du citron vert."
+  },
+  {
+   "tokens": [
+    "ຫອມ",
+    "ແທ້"
+   ],
+   "rom": "Hɔ̌ɔm thɛ̏ɛ!",
+   "fr": "C'est parfumé !"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ສັບ",
+   "rom": "Sāp",
+   "fr": "hacher"
+  },
+  {
+   "lao": "ຂົ້ວ",
+   "rom": "Khûa",
+   "fr": "griller à sec, faire sauter"
+  },
+  {
+   "lao": "ໃສ່",
+   "rom": "Sày",
+   "fr": "mettre, ajouter"
+  },
+  {
+   "lao": "ນ້ຳປາ",
+   "rom": "Nȁam-pǎa",
+   "fr": "sauce de poisson"
+  },
+  {
+   "lao": "ໝາກນາວ",
+   "rom": "Mȁak-náaw",
+   "fr": "citron vert"
+  },
+  {
+   "lao": "ໝາກເຜັດ",
+   "rom": "Mȁak-phēt",
+   "fr": "piment"
+  },
+  {
+   "lao": "ຫອມ",
+   "rom": "Hɔ̌ɔm",
+   "fr": "parfumé"
+  },
+  {
+   "lao": "ລະອຽດ",
+   "rom": "Lā-ȉat",
+   "fr": "fin, minutieux"
+  },
+  {
+   "lao": "ຜັກບົ່ວ",
+   "rom": "Phāk bùa",
+   "fr": "oignon vert"
+  }
+ ],
+ "sounds": {
+  "ຂໍໃຫ້": "Khɔ̌ɔ hây",
+  "ສອນ": "Sɔ̌ɔn",
+  "ເຮັດວຽກ": "Hēt-wîak",
+  "ເວົ້າຊ້າໆແດ່": "Wȁo sȁa-sȁa dɛ̀ɛ",
+  "ທຳອິດສັບຊີ້ນໃຫ້ລະອຽດ": "Thám-ít sāp sȋin hây lā-ȉat.",
+  "ແລ້ວຂົ້ວເຂົ້າໃຫ້ຫອມ": "Lɛ̏ɛw khûa khâo hây hɔ̌ɔm.",
+  "ໃສ່ນ້ຳປາ ໝາກນາວ ແລະໝາກເຜັດ": "Sày nȁam-pǎa, mȁak-náaw, lɛ́ mȁak-phēt.",
+  "ໃສ່ຜັກຫຍັງແດ່": "Sày phāk nyǎng dɛ̀ɛ?",
+  "ຜັກບົ່ວແລະຜັກຫອມ": "Phāk bùa lɛ́ phāk hɔ̌ɔm.",
+  "ສັບ": "sāp",
+  "ຂົ້ວ": "Khûa",
+  "ໃສ່": "sày",
+  "ນ້ຳປາ": "Nȁam-pǎa",
+  "ໝາກນາວ": "mȁak-náaw",
+  "ໝາກເຜັດ": "Mȁak-phēt",
+  "ຫອມ": "hɔ̌ɔm",
+  "ລະອຽດ": "Lā-ȉat",
+  "ຜັກບົ່ວ": "Phāk bùa",
+  "ໃສ່ນ້ຳປາ": "Sày nȁam-pǎa",
+  "ສັບໃຫ້ລະອຽດ": "Sāp hây lā-ȉat",
+  "ທຳອິດສັບຊີ້ນ": "Thám-ít sāp sȋin.",
+  "ໃສ່ໝາກນາວ": "Sày mȁak-náaw.",
+  "ຫອມແທ້": "Hɔ̌ɔm thɛ̏ɛ!",
+  "ທຳອິດ": "thám-ít",
+  "ຊີ້ນ": "sȋin",
+  "ແທ້": "thɛ̏ɛ"
+ },
+ "suivi": "LEÇON : 59 — Partie D (Raconter et organiser, A2) · Cuisiner\nOBJECTIF : Expliquer une recette simple étape par étape.\nNOTION : l'impératif et l'ordre des étapes\nVOCAB : Sāp, Khûa, Sày, Nȁam-pǎa, Mȁak-náaw, Mȁak-phēt, Hɔ̌ɔm, Lā-ȉat, Phāk bùa\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 60 — Les sentiments"
+}

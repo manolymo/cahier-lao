@@ -1,0 +1,514 @@
+{
+ "num": 64,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Lire du vrai",
+ "objective": "Lire une affiche, une annonce ou un menu réel.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>professeur (respectueux) <small class=\"muted\">(leçon 63)</small></li><li>moi (le petit-enfant, poli) <small class=\"muted\">(leçon 61)</small></li><li>partir <small class=\"muted\">(leçon 57)</small></li><li>mal à la gorge <small class=\"muted\">(leçon 50)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ອາຈານ</span> <span class=\"rom\">Ǎa-jǎan</span> · professeur (respectueux)</li><li><span class=\"lo\">ຫຼານ</span> <span class=\"rom\">Lǎan</span> · moi (le petit-enfant, poli)</li><li><span class=\"lo\">ອອກ</span> <span class=\"rom\">Ɔ̏ɔk</span> · partir</li><li><span class=\"lo\">ເຈັບຄໍ</span> <span class=\"rom\">Jép khɔ́ɔ</span> · mal à la gorge</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Lire une affiche, une annonce ou un menu réel.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara lit les panneaux dans la rue.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ປ້າຍນີ້ຂຽນວ່າແນວໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຫ້າມຈອດລົດ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແລ້ວອັນນັ້ນເດ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເປີດທຸກມື້ ແປດໂມງເຊົ້າຫາຫ້າໂມງແລງ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Pâay nȉi khǐan wāa nɛ́ɛw-dǎy?</span><br><span class=\"rom\">Hâam jȍɔt lōt.</span><br><span class=\"rom\">Lɛ̏ɛw ǎn nȁn dě?</span><br><span class=\"rom\">Pɤ̏ɤt thūk-mʉ̂ʉ, pɛ̏ɛt móong sȁo hǎa hâa móong lɛ́ɛng.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Ce panneau, qu&#x27;est-ce qu&#x27;il dit ?<br><b>Noy</b> — Interdiction de stationner.<br><b>Clara</b> — Et celui-là ?<br><b>Noy</b> — Ouvert tous les jours de 8 h à 17 h.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que dit le premier panneau ?</li><li>Quels sont les horaires ?</li></ol><details><summary>Réponses</summary><ol><li>Interdiction de stationner.</li><li>Tous les jours de 8 h à 17 h.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ປ້າຍ</td><td class=\"rom\">Pâay</td><td>panneau</td><td></td></tr><tr><td class=\"lo\">ຫ້າມ</td><td class=\"rom\">Hâam</td><td>interdit</td><td></td></tr><tr><td class=\"lo\">ເປີດ</td><td class=\"rom\">Pɤ̏ɤt</td><td>ouvert, ouvrir</td><td></td></tr><tr><td class=\"lo\">ປິດ</td><td class=\"rom\">Pít</td><td>fermé, fermer</td><td></td></tr><tr><td class=\"lo\">ທາງເຂົ້າ</td><td class=\"rom\">Tháang-khâo</td><td>entrée</td><td></td></tr><tr><td class=\"lo\">ທາງອອກ</td><td class=\"rom\">Tháang-ɔ̏ɔk</td><td>sortie</td><td></td></tr><tr><td class=\"lo\">ຫ້ອງນ້ຳ</td><td class=\"rom\">Hɔ̂ɔng-nȁam</td><td>toilettes</td><td></td></tr><tr><td class=\"lo\">ລາຄາ</td><td class=\"rom\">Láa-khǎa</td><td>prix</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : lire vite",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຫ້າມສູບຢາ</span> <span class=\"rom\">Hâam sȕup-yǎa</span> = défense de fumer</li><li><span class=\"lo\">ທາງອອກ</span> <span class=\"rom\">Tháang-ɔ̏ɔk</span> = sortie</li></ul><details><summary>La règle</summary><p>Pour lire vite, repère d'abord les mots connus et les chiffres, puis devine le reste par le contexte.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les mots des panneaux.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Qu&#x27;est-ce qu&#x27;il dit, ce panneau ?</li><li>Ouvert tous les jours.</li><li>Où est la sortie ?</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ປ້າຍນີ້ຂຽນວ່າແນວໃດ?</span> <span class=\"rom\">Pâay nȉi khǐan wāa nɛ́ɛw-dǎy?</span></li><li><span class=\"lo\">ເປີດທຸກມື້</span> <span class=\"rom\">Pɤ̏ɤt thūk-mʉ̂ʉ.</span></li><li><span class=\"lo\">ທາງອອກຢູ່ໃສ?</span> <span class=\"rom\">Tháang-ɔ̏ɔk yùu sǎy?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Trouve 5 photos de panneaux lao en ligne et traduis-les.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Lis un vrai menu ou une affiche lao (photo) et explique-la à un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>11 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l64-v01",
+   "front": "ປ້າຍ",
+   "back": "Pâay · panneau"
+  },
+  {
+   "id": "l64-v02",
+   "front": "ຫ້າມ",
+   "back": "Hâam · interdit"
+  },
+  {
+   "id": "l64-v03",
+   "front": "ເປີດ",
+   "back": "Pɤ̏ɤt · ouvert, ouvrir"
+  },
+  {
+   "id": "l64-v04",
+   "front": "ປິດ",
+   "back": "Pít · fermé, fermer"
+  },
+  {
+   "id": "l64-v05",
+   "front": "ທາງເຂົ້າ",
+   "back": "Tháang-khâo · entrée"
+  },
+  {
+   "id": "l64-v06",
+   "front": "ທາງອອກ",
+   "back": "Tháang-ɔ̏ɔk · sortie"
+  },
+  {
+   "id": "l64-v07",
+   "front": "ຫ້ອງນ້ຳ",
+   "back": "Hɔ̂ɔng-nȁam · toilettes"
+  },
+  {
+   "id": "l64-v08",
+   "front": "ລາຄາ",
+   "back": "Láa-khǎa · prix"
+  },
+  {
+   "id": "l64-p01",
+   "front": "Qu'est-ce qu'il dit, ce panneau ?",
+   "back": "ປ້າຍນີ້ຂຽນວ່າແນວໃດ? · Pâay nȉi khǐan wāa nɛ́ɛw-dǎy?"
+  },
+  {
+   "id": "l64-p02",
+   "front": "Ouvert tous les jours.",
+   "back": "ເປີດທຸກມື້ · Pɤ̏ɤt thūk-mʉ̂ʉ."
+  },
+  {
+   "id": "l64-p03",
+   "front": "Où est la sortie ?",
+   "back": "ທາງອອກຢູ່ໃສ? · Tháang-ɔ̏ɔk yùu sǎy?"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ປ້າຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "panneau",
+      "interdit",
+      "entrée",
+      "toilettes"
+     ],
+     "answer": "panneau",
+     "reveal": "<i>Pâay</i>"
+    },
+    {
+     "audio": [
+      "ຫ້າມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "interdit",
+      "ouvert, ouvrir",
+      "prix",
+      "fermé, fermer"
+     ],
+     "answer": "interdit",
+     "reveal": "<i>Hâam</i>"
+    },
+    {
+     "audio": [
+      "ເປີດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ouvert, ouvrir",
+      "entrée",
+      "panneau",
+      "interdit"
+     ],
+     "answer": "ouvert, ouvrir",
+     "reveal": "<i>Pɤ̏ɤt</i>"
+    },
+    {
+     "audio": [
+      "ປິດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "fermé, fermer",
+      "entrée",
+      "sortie",
+      "panneau"
+     ],
+     "answer": "fermé, fermer",
+     "reveal": "<i>Pít</i>"
+    },
+    {
+     "audio": [
+      "ທາງເຂົ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "entrée",
+      "prix",
+      "interdit",
+      "panneau"
+     ],
+     "answer": "entrée",
+     "reveal": "<i>Tháang-khâo</i>"
+    },
+    {
+     "audio": [
+      "ທາງອອກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "sortie",
+      "fermé, fermer",
+      "toilettes",
+      "panneau"
+     ],
+     "answer": "sortie",
+     "reveal": "<i>Tháang-ɔ̏ɔk</i>"
+    },
+    {
+     "audio": [
+      "ຫ້ອງນ້ຳ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "toilettes",
+      "sortie",
+      "ouvert, ouvrir",
+      "entrée"
+     ],
+     "answer": "toilettes",
+     "reveal": "<i>Hɔ̂ɔng-nȁam</i>"
+    },
+    {
+     "audio": [
+      "ລາຄາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "prix",
+      "sortie",
+      "toilettes",
+      "fermé, fermer"
+     ],
+     "answer": "prix",
+     "reveal": "<i>Láa-khǎa</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ປ້າຍນີ້ຂຽນວ່າແນວໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Ce panneau, qu'est-ce qu'il dit ?",
+      "Ouvert tous les jours de 8 h à 17 h.",
+      "Et celui-là ?",
+      "Interdiction de stationner."
+     ],
+     "answer": "Ce panneau, qu'est-ce qu'il dit ?",
+     "reveal": "<i>Pâay nȉi khǐan wāa nɛ́ɛw-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ຫ້າມຈອດລົດ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Interdiction de stationner.",
+      "Ce panneau, qu'est-ce qu'il dit ?",
+      "Et celui-là ?",
+      "Ouvert tous les jours de 8 h à 17 h."
+     ],
+     "answer": "Interdiction de stationner.",
+     "reveal": "<i>Hâam jȍɔt lōt.</i>"
+    },
+    {
+     "audio": [
+      "ແລ້ວອັນນັ້ນເດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Et celui-là ?",
+      "Ce panneau, qu'est-ce qu'il dit ?",
+      "Ouvert tous les jours de 8 h à 17 h.",
+      "Interdiction de stationner."
+     ],
+     "answer": "Et celui-là ?",
+     "reveal": "<i>Lɛ̏ɛw ǎn nȁn dě?</i>"
+    },
+    {
+     "audio": [
+      "ເປີດທຸກມື້ ແປດໂມງເຊົ້າຫາຫ້າໂມງແລງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Ouvert tous les jours de 8 h à 17 h.",
+      "Interdiction de stationner.",
+      "Ce panneau, qu'est-ce qu'il dit ?",
+      "Et celui-là ?"
+     ],
+     "answer": "Ouvert tous les jours de 8 h à 17 h.",
+     "reveal": "<i>Pɤ̏ɤt thūk-mʉ̂ʉ, pɛ̏ɛt móong sȁo hǎa hâa móong lɛ́ɛng.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ປ້າຍນີ້ຂຽນວ່າແນວໃດ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Qu'est-ce qu'il dit, ce panneau ?",
+      "Où est la sortie ?",
+      "Ouvert tous les jours."
+     ],
+     "answer": "Qu'est-ce qu'il dit, ce panneau ?",
+     "reveal": "<i>Pâay nȉi khǐan wāa nɛ́ɛw-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ເປີດທຸກມື້"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Ouvert tous les jours.",
+      "Qu'est-ce qu'il dit, ce panneau ?",
+      "Où est la sortie ?"
+     ],
+     "answer": "Ouvert tous les jours.",
+     "reveal": "<i>Pɤ̏ɤt thūk-mʉ̂ʉ.</i>"
+    },
+    {
+     "audio": [
+      "ທາງອອກຢູ່ໃສ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Où est la sortie ?",
+      "Qu'est-ce qu'il dit, ce panneau ?",
+      "Ouvert tous les jours."
+     ],
+     "answer": "Où est la sortie ?",
+     "reveal": "<i>Tháang-ɔ̏ɔk yùu sǎy?</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ປ້າຍ",
+   "rom": "Pâay",
+   "fr": "panneau",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫ້າມ",
+   "rom": "Hâam",
+   "fr": "interdit",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເປີດ",
+   "rom": "Pɤ̏ɤt",
+   "fr": "ouvert, ouvrir",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ປິດ",
+   "rom": "Pít",
+   "fr": "fermé, fermer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທາງເຂົ້າ",
+   "rom": "Tháang-khâo",
+   "fr": "entrée",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທາງອອກ",
+   "rom": "Tháang-ɔ̏ɔk",
+   "fr": "sortie",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫ້ອງນ້ຳ",
+   "rom": "Hɔ̂ɔng-nȁam",
+   "fr": "toilettes",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລາຄາ",
+   "rom": "Láa-khǎa",
+   "fr": "prix",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ປ້າຍນີ້ຂຽນວ່າແນວໃດ?",
+   "rom": "Pâay nȉi khǐan wāa nɛ́ɛw-dǎy?",
+   "fr": "Qu'est-ce qu'il dit, ce panneau ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເປີດທຸກມື້",
+   "rom": "Pɤ̏ɤt thūk-mʉ̂ʉ.",
+   "fr": "Ouvert tous les jours.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທາງອອກຢູ່ໃສ?",
+   "rom": "Tháang-ɔ̏ɔk yùu sǎy?",
+   "fr": "Où est la sortie ?",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ປ້າຍ",
+    "ນີ້",
+    "ຂຽນ",
+    "ວ່າ",
+    "ແນວໃດ"
+   ],
+   "rom": "Pâay nȉi khǐan wāa nɛ́ɛw-dǎy?",
+   "fr": "Qu'est-ce qu'il dit, ce panneau ?"
+  },
+  {
+   "tokens": [
+    "ເປີດ",
+    "ທຸກມື້"
+   ],
+   "rom": "Pɤ̏ɤt thūk-mʉ̂ʉ.",
+   "fr": "Ouvert tous les jours."
+  },
+  {
+   "tokens": [
+    "ທາງອອກ",
+    "ຢູ່",
+    "ໃສ"
+   ],
+   "rom": "Tháang-ɔ̏ɔk yùu sǎy?",
+   "fr": "Où est la sortie ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ປ້າຍ",
+   "rom": "Pâay",
+   "fr": "panneau"
+  },
+  {
+   "lao": "ຫ້າມ",
+   "rom": "Hâam",
+   "fr": "interdit"
+  },
+  {
+   "lao": "ເປີດ",
+   "rom": "Pɤ̏ɤt",
+   "fr": "ouvert, ouvrir"
+  },
+  {
+   "lao": "ປິດ",
+   "rom": "Pít",
+   "fr": "fermé, fermer"
+  },
+  {
+   "lao": "ທາງເຂົ້າ",
+   "rom": "Tháang-khâo",
+   "fr": "entrée"
+  },
+  {
+   "lao": "ທາງອອກ",
+   "rom": "Tháang-ɔ̏ɔk",
+   "fr": "sortie"
+  },
+  {
+   "lao": "ຫ້ອງນ້ຳ",
+   "rom": "Hɔ̂ɔng-nȁam",
+   "fr": "toilettes"
+  },
+  {
+   "lao": "ລາຄາ",
+   "rom": "Láa-khǎa",
+   "fr": "prix"
+  }
+ ],
+ "sounds": {
+  "ອາຈານ": "Ǎa-jǎan",
+  "ຫຼານ": "Lǎan",
+  "ອອກ": "Ɔ̏ɔk",
+  "ເຈັບຄໍ": "Jép khɔ́ɔ",
+  "ປ້າຍນີ້ຂຽນວ່າແນວໃດ": "Pâay nȉi khǐan wāa nɛ́ɛw-dǎy?",
+  "ຫ້າມຈອດລົດ": "Hâam jȍɔt lōt.",
+  "ແລ້ວອັນນັ້ນເດ": "Lɛ̏ɛw ǎn nȁn dě?",
+  "ເປີດທຸກມື້ ແປດໂມງເຊົ້າຫາຫ້າໂມງແລງ": "Pɤ̏ɤt thūk-mʉ̂ʉ, pɛ̏ɛt móong sȁo hǎa hâa móong lɛ́ɛng.",
+  "ປ້າຍ": "pâay",
+  "ຫ້າມ": "Hâam",
+  "ເປີດ": "pɤ̏ɤt",
+  "ປິດ": "Pít",
+  "ທາງເຂົ້າ": "Tháang-khâo",
+  "ທາງອອກ": "tháang-ɔ̏ɔk",
+  "ຫ້ອງນ້ຳ": "Hɔ̂ɔng-nȁam",
+  "ລາຄາ": "Láa-khǎa",
+  "ຫ້າມສູບຢາ": "Hâam sȕup-yǎa",
+  "ເປີດທຸກມື້": "Pɤ̏ɤt thūk-mʉ̂ʉ.",
+  "ທາງອອກຢູ່ໃສ": "Tháang-ɔ̏ɔk yùu sǎy?",
+  "ນີ້": "nȉi",
+  "ຂຽນ": "khǐan",
+  "ວ່າ": "wāa",
+  "ແນວໃດ": "nɛ́ɛw-dǎy",
+  "ທຸກມື້": "thūk-mʉ̂ʉ",
+  "ຢູ່": "yùu",
+  "ໃສ": "sǎy"
+ },
+ "suivi": "LEÇON : 64 — Partie D (Raconter et organiser, A2) · Lire du vrai\nOBJECTIF : Lire une affiche, une annonce ou un menu réel.\nNOTION : lire vite\nVOCAB : Pâay, Hâam, Pɤ̏ɤt, Pít, Tháang-khâo, Tháang-ɔ̏ɔk, Hɔ̂ɔng-nȁam, Láa-khǎa\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 65 — Bilan A2"
+}

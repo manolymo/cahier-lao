@@ -1,0 +1,463 @@
+{
+ "num": 62,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Les particules de fin de phrase",
+ "objective": "Adoucir, insister ou te plaindre avec les particules.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>oui (poli) <small class=\"muted\">(leçon 61)</small></li><li>piment <small class=\"muted\">(leçon 59)</small></li><li>la plupart du temps <small class=\"muted\">(leçon 55)</small></li><li>que (discours rapporté) <small class=\"muted\">(leçon 48)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ເຈົ້າ</span> <span class=\"rom\">Jâo</span> · oui (poli)</li><li><span class=\"lo\">ໝາກເຜັດ</span> <span class=\"rom\">Mȁak-phēt</span> · piment</li><li><span class=\"lo\">ສ່ວນຫຼາຍ</span> <span class=\"rom\">Sùan-lǎay</span> · la plupart du temps</li><li><span class=\"lo\">ວ່າ</span> <span class=\"rom\">Wāa</span> · que (discours rapporté)</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Adoucir, insister ou te plaindre avec les particules.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Une journée chargée chez Noy.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ມາຊ່ວຍແດ່ເດີ</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຖ້າແປັບໜຶ່ງເດີ້</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ໄວໆແດ່ສາ!</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ມາແລ້ວເດ້!</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ພວກເຈົ້າມ່ວນເນາະ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Máa sūay dɛ̀ɛ dɤ̌ɤ.</span><br><span class=\"rom\">Thâa pɛ́p nʉ̀ng dɤ̂ɤ.</span><br><span class=\"rom\">Wáy-wáy dɛ̀ɛ sǎa!</span><br><span class=\"rom\">Máa lɛ̏ɛw dê!</span><br><span class=\"rom\">Phûak-jâo mūan nɔ̄.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Viens m&#x27;aider, s&#x27;il te plaît.<br><b>Kèo</b> — Attends une minute.<br><b>Noy</b> — Dépêche-toi donc !<br><b>Kèo</b> — J&#x27;arrive, voilà !<br><b>Clara</b> — Vous êtes drôles, vous.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que demande Noy ?</li></ol><details><summary>Réponses</summary><ol><li>De l&#x27;aide, rapidement.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ເດີ</td><td class=\"rom\">Dɤ̌ɤ</td><td>(adoucit, « hein »)</td><td></td></tr><tr><td class=\"lo\">ແດ່</td><td class=\"rom\">Dɛ̀ɛ</td><td>(s&#x27;il te plaît)</td><td></td></tr><tr><td class=\"lo\">ເນາະ</td><td class=\"rom\">Nɔ̄</td><td>(n&#x27;est-ce pas, connivence)</td><td></td></tr><tr><td class=\"lo\">ເດ້</td><td class=\"rom\">Dê</td><td>(insistance)</td><td></td></tr><tr><td class=\"lo\">ສາ</td><td class=\"rom\">Sǎa</td><td>(impatience)</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ແປັບໜຶ່ງ</td><td class=\"rom\">Pɛ́p nʉ̀ng</td><td>un instant</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les particules",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ໄປເດີ</span> <span class=\"rom\">Pǎy dɤ̌ɤ</span> = j&#x27;y vais, hein</li><li><span class=\"lo\">ແຊບເນາະ</span> <span class=\"rom\">Sɛ̂ɛp nɔ̄</span> = c&#x27;est bon, hein ?</li><li><span class=\"lo\">ໄວໆແດ່</span> <span class=\"rom\">Wáy-wáy dɛ̀ɛ</span> = vite, s&#x27;il te plaît</li></ul><p><b>À toi de trouver :</b></p><ol><li>Que change la particule au sens de la phrase ?</li></ol><details><summary>La règle</summary><p>Les particules de fin de phrase ne changent pas le sens mais le ton : douceur (ເດີ, ແດ່), connivence (ເນາະ), insistance (ເດ້), impatience (ສາ). [À VÉRIFIER : usages exacts avec un natif]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les particules en fin de phrase et l&#x27;intonation.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Viens m&#x27;aider, s&#x27;il te plaît.</li><li>C&#x27;est bon, hein ?</li><li>Un instant.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ມາຊ່ວຍແດ່ເດີ</span> <span class=\"rom\">Máa sūay dɛ̀ɛ dɤ̌ɤ.</span></li><li><span class=\"lo\">ແຊບເນາະ</span> <span class=\"rom\">Sɛ̂ɛp nɔ̄.</span></li><li><span class=\"lo\">ແປັບໜຶ່ງ</span> <span class=\"rom\">Pɛ́p nʉ̀ng.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris 5 phrases et ajoute la particule qui convient.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Observe un natif parler 10 minutes et note toutes les particules entendues.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>9 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l62-v01",
+   "front": "ເດີ",
+   "back": "Dɤ̌ɤ · (adoucit, « hein »)"
+  },
+  {
+   "id": "l62-v02",
+   "front": "ແດ່",
+   "back": "Dɛ̀ɛ · (s'il te plaît)"
+  },
+  {
+   "id": "l62-v03",
+   "front": "ເນາະ",
+   "back": "Nɔ̄ · (n'est-ce pas, connivence)"
+  },
+  {
+   "id": "l62-v04",
+   "front": "ເດ້",
+   "back": "Dê · (insistance)"
+  },
+  {
+   "id": "l62-v05",
+   "front": "ສາ",
+   "back": "Sǎa · (impatience)"
+  },
+  {
+   "id": "l62-v06",
+   "front": "ແປັບໜຶ່ງ",
+   "back": "Pɛ́p nʉ̀ng · un instant"
+  },
+  {
+   "id": "l62-p01",
+   "front": "Viens m'aider, s'il te plaît.",
+   "back": "ມາຊ່ວຍແດ່ເດີ · Máa sūay dɛ̀ɛ dɤ̌ɤ."
+  },
+  {
+   "id": "l62-p02",
+   "front": "C'est bon, hein ?",
+   "back": "ແຊບເນາະ · Sɛ̂ɛp nɔ̄."
+  },
+  {
+   "id": "l62-p03",
+   "front": "Un instant.",
+   "back": "ແປັບໜຶ່ງ · Pɛ́p nʉ̀ng."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ເດີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "(adoucit, « hein »)",
+      "(s'il te plaît)",
+      "un instant",
+      "(n'est-ce pas, connivence)"
+     ],
+     "answer": "(adoucit, « hein »)",
+     "reveal": "<i>Dɤ̌ɤ</i>"
+    },
+    {
+     "audio": [
+      "ແດ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "(s'il te plaît)",
+      "(impatience)",
+      "un instant",
+      "(n'est-ce pas, connivence)"
+     ],
+     "answer": "(s'il te plaît)",
+     "reveal": "<i>Dɛ̀ɛ</i>"
+    },
+    {
+     "audio": [
+      "ເນາະ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "(n'est-ce pas, connivence)",
+      "(impatience)",
+      "(s'il te plaît)",
+      "un instant"
+     ],
+     "answer": "(n'est-ce pas, connivence)",
+     "reveal": "<i>Nɔ̄</i>"
+    },
+    {
+     "audio": [
+      "ເດ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "(insistance)",
+      "(impatience)",
+      "un instant",
+      "(adoucit, « hein »)"
+     ],
+     "answer": "(insistance)",
+     "reveal": "<i>Dê</i>"
+    },
+    {
+     "audio": [
+      "ສາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "(impatience)",
+      "(n'est-ce pas, connivence)",
+      "un instant",
+      "(s'il te plaît)"
+     ],
+     "answer": "(impatience)",
+     "reveal": "<i>Sǎa</i>"
+    },
+    {
+     "audio": [
+      "ແປັບໜຶ່ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "un instant",
+      "(adoucit, « hein »)",
+      "(n'est-ce pas, connivence)",
+      "(insistance)"
+     ],
+     "answer": "un instant",
+     "reveal": "<i>Pɛ́p nʉ̀ng</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ມາຊ່ວຍແດ່ເດີ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Viens m'aider, s'il te plaît.",
+      "Attends une minute.",
+      "Vous êtes drôles, vous.",
+      "Dépêche-toi donc !"
+     ],
+     "answer": "Viens m'aider, s'il te plaît.",
+     "reveal": "<i>Máa sūay dɛ̀ɛ dɤ̌ɤ.</i>"
+    },
+    {
+     "audio": [
+      "ຖ້າແປັບໜຶ່ງເດີ້"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Attends une minute.",
+      "Dépêche-toi donc !",
+      "Viens m'aider, s'il te plaît.",
+      "Vous êtes drôles, vous."
+     ],
+     "answer": "Attends une minute.",
+     "reveal": "<i>Thâa pɛ́p nʉ̀ng dɤ̂ɤ.</i>"
+    },
+    {
+     "audio": [
+      "ໄວໆແດ່ສາ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Dépêche-toi donc !",
+      "Viens m'aider, s'il te plaît.",
+      "Vous êtes drôles, vous.",
+      "Attends une minute."
+     ],
+     "answer": "Dépêche-toi donc !",
+     "reveal": "<i>Wáy-wáy dɛ̀ɛ sǎa!</i>"
+    },
+    {
+     "audio": [
+      "ມາແລ້ວເດ້!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "J'arrive, voilà !",
+      "Dépêche-toi donc !",
+      "Vous êtes drôles, vous.",
+      "Viens m'aider, s'il te plaît."
+     ],
+     "answer": "J'arrive, voilà !",
+     "reveal": "<i>Máa lɛ̏ɛw dê!</i>"
+    },
+    {
+     "audio": [
+      "ພວກເຈົ້າມ່ວນເນາະ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Vous êtes drôles, vous.",
+      "Viens m'aider, s'il te plaît.",
+      "J'arrive, voilà !",
+      "Dépêche-toi donc !"
+     ],
+     "answer": "Vous êtes drôles, vous.",
+     "reveal": "<i>Phûak-jâo mūan nɔ̄.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ມາຊ່ວຍແດ່ເດີ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Viens m'aider, s'il te plaît.",
+      "C'est bon, hein ?",
+      "Un instant."
+     ],
+     "answer": "Viens m'aider, s'il te plaît.",
+     "reveal": "<i>Máa sūay dɛ̀ɛ dɤ̌ɤ.</i>"
+    },
+    {
+     "audio": [
+      "ແຊບເນາະ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est bon, hein ?",
+      "Viens m'aider, s'il te plaît.",
+      "Un instant."
+     ],
+     "answer": "C'est bon, hein ?",
+     "reveal": "<i>Sɛ̂ɛp nɔ̄.</i>"
+    },
+    {
+     "audio": [
+      "ແປັບໜຶ່ງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Un instant.",
+      "Viens m'aider, s'il te plaît.",
+      "C'est bon, hein ?"
+     ],
+     "answer": "Un instant.",
+     "reveal": "<i>Pɛ́p nʉ̀ng.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ເດີ",
+   "rom": "Dɤ̌ɤ",
+   "fr": "(adoucit, « hein »)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແດ່",
+   "rom": "Dɛ̀ɛ",
+   "fr": "(s'il te plaît)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເນາະ",
+   "rom": "Nɔ̄",
+   "fr": "(n'est-ce pas, connivence)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເດ້",
+   "rom": "Dê",
+   "fr": "(insistance)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສາ",
+   "rom": "Sǎa",
+   "fr": "(impatience)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແປັບໜຶ່ງ",
+   "rom": "Pɛ́p nʉ̀ng",
+   "fr": "un instant",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມາຊ່ວຍແດ່ເດີ",
+   "rom": "Máa sūay dɛ̀ɛ dɤ̌ɤ.",
+   "fr": "Viens m'aider, s'il te plaît.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແຊບເນາະ",
+   "rom": "Sɛ̂ɛp nɔ̄.",
+   "fr": "C'est bon, hein ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແປັບໜຶ່ງ",
+   "rom": "Pɛ́p nʉ̀ng.",
+   "fr": "Un instant.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ມາ",
+    "ຊ່ວຍ",
+    "ແດ່",
+    "ເດີ"
+   ],
+   "rom": "Máa sūay dɛ̀ɛ dɤ̌ɤ.",
+   "fr": "Viens m'aider, s'il te plaît."
+  },
+  {
+   "tokens": [
+    "ແຊບ",
+    "ເນາະ"
+   ],
+   "rom": "Sɛ̂ɛp nɔ̄.",
+   "fr": "C'est bon, hein ?"
+  },
+  {
+   "tokens": [
+    "ແປັບ",
+    "ໜຶ່ງ"
+   ],
+   "rom": "Pɛ́p nʉ̀ng.",
+   "fr": "Un instant."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ເດີ",
+   "rom": "Dɤ̌ɤ",
+   "fr": "(adoucit, « hein »)"
+  },
+  {
+   "lao": "ແດ່",
+   "rom": "Dɛ̀ɛ",
+   "fr": "(s'il te plaît)"
+  },
+  {
+   "lao": "ເນາະ",
+   "rom": "Nɔ̄",
+   "fr": "(n'est-ce pas, connivence)"
+  },
+  {
+   "lao": "ເດ້",
+   "rom": "Dê",
+   "fr": "(insistance)"
+  },
+  {
+   "lao": "ສາ",
+   "rom": "Sǎa",
+   "fr": "(impatience)"
+  },
+  {
+   "lao": "ແປັບໜຶ່ງ",
+   "rom": "Pɛ́p nʉ̀ng",
+   "fr": "un instant"
+  }
+ ],
+ "sounds": {
+  "ເຈົ້າ": "Jâo",
+  "ໝາກເຜັດ": "Mȁak-phēt",
+  "ສ່ວນຫຼາຍ": "Sùan-lǎay",
+  "ວ່າ": "Wāa",
+  "ມາຊ່ວຍແດ່ເດີ": "Máa sūay dɛ̀ɛ dɤ̌ɤ.",
+  "ຖ້າແປັບໜຶ່ງເດີ້": "Thâa pɛ́p nʉ̀ng dɤ̂ɤ.",
+  "ໄວໆແດ່ສາ": "Wáy-wáy dɛ̀ɛ sǎa!",
+  "ມາແລ້ວເດ້": "Máa lɛ̏ɛw dê!",
+  "ພວກເຈົ້າມ່ວນເນາະ": "Phûak-jâo mūan nɔ̄.",
+  "ເດີ": "dɤ̌ɤ",
+  "ແດ່": "dɛ̀ɛ",
+  "ເນາະ": "nɔ̄",
+  "ເດ້": "Dê",
+  "ສາ": "Sǎa",
+  "ແປັບໜຶ່ງ": "Pɛ́p nʉ̀ng.",
+  "ໄປເດີ": "Pǎy dɤ̌ɤ",
+  "ແຊບເນາະ": "Sɛ̂ɛp nɔ̄.",
+  "ໄວໆແດ່": "Wáy-wáy dɛ̀ɛ",
+  "ມາ": "máa",
+  "ຊ່ວຍ": "sūay",
+  "ແຊບ": "sɛ̂ɛp",
+  "ແປັບ": "pɛ́p",
+  "ໜຶ່ງ": "nʉ̀ng"
+ },
+ "suivi": "LEÇON : 62 — Partie D (Raconter et organiser, A2) · Les particules de fin de phrase\nOBJECTIF : Adoucir, insister ou te plaindre avec les particules.\nNOTION : les particules\nVOCAB : Dɤ̌ɤ, Dɛ̀ɛ, Nɔ̄, Dê, Sǎa, Pɛ́p nʉ̀ng\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 63 — Écrire un message"
+}

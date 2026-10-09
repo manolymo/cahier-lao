@@ -1,0 +1,409 @@
+{
+ "num": 53,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Pourquoi ? Parce que…",
+ "objective": "Justifier un choix avec une cause.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>pour, afin de <small class=\"muted\">(leçon 52)</small></li><li>après le repas <small class=\"muted\">(leçon 50)</small></li><li>allons-y <small class=\"muted\">(leçon 46)</small></li><li>allô <small class=\"muted\">(leçon 39)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ເພື່ອ</span> <span class=\"rom\">Phʉ̄a</span> · pour, afin de</li><li><span class=\"lo\">ຫຼັງອາຫານ</span> <span class=\"rom\">Lǎng ǎa-hǎan</span> · après le repas</li><li><span class=\"lo\">ໄປກັນ</span> <span class=\"rom\">Pǎy kǎn</span> · allons-y</li><li><span class=\"lo\">ຮັນໂລ</span> <span class=\"rom\">Hán-lóo</span> · allô</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Justifier un choix avec une cause.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Noy demande pourquoi Clara aime Vientiane.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເປັນຫຍັງເຈົ້າມັກວຽງຈັນ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຍ້ອນວ່າຄົນໃຈດີແລະອາຫານແຊບ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ບໍ່ມັກຫຍັງບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ບໍ່ມັກລະດູຮ້ອນເພາະວ່າຮ້ອນໂພດ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Pěn-nyǎng jâo māk wíang-jǎn?</span><br><span class=\"rom\">Nyȍɔn-wāa khón jǎy-dǐi lɛ́ ǎa-hǎan sɛ̂ɛp.</span><br><span class=\"rom\">Bɔ̀ɔ māk nyǎng bɔ̌ɔ?</span><br><span class=\"rom\">Bɔ̀ɔ māk lā-dǔu-hȍɔn phɔ̄-wāa hȍɔn phôot.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Pourquoi tu aimes Vientiane ?<br><b>Clara</b> — Parce que les gens sont gentils et la nourriture est bonne.<br><b>Noy</b> — Il y a quelque chose que tu n&#x27;aimes pas ?<br><b>Clara</b> — Je n&#x27;aime pas la saison chaude, parce qu&#x27;il fait trop chaud.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Pourquoi Clara aime-t-elle Vientiane ?</li><li>Qu&#x27;est-ce qu&#x27;elle n&#x27;aime pas ?</li></ol><details><summary>Réponses</summary><ol><li>Les gens sont gentils et la nourriture bonne.</li><li>La saison chaude.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ເປັນຫຍັງ</td><td class=\"rom\">Pěn-nyǎng</td><td>pourquoi ?</td><td></td></tr><tr><td class=\"lo\">ຍ້ອນວ່າ</td><td class=\"rom\">Nyȍɔn-wāa</td><td>parce que</td><td></td></tr><tr><td class=\"lo\">ເພາະວ່າ</td><td class=\"rom\">Phɔ̄-wāa</td><td>parce que</td><td></td></tr><tr><td class=\"lo\">ສະນັ້ນ</td><td class=\"rom\">Sā-nȁn</td><td>donc</td><td></td></tr><tr><td class=\"lo\">ລະດູຮ້ອນ</td><td class=\"rom\">Lā-dǔu-hȍɔn</td><td>saison chaude</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : la cause",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ບໍ່ໄປຍ້ອນວ່າຝົນຕົກ</span> <span class=\"rom\">Bɔ̀ɔ pǎy nyȍɔn-wāa fǒn tók</span> = je n&#x27;y vais pas parce qu&#x27;il pleut</li><li><span class=\"lo\">ຝົນຕົກສະນັ້ນບໍ່ໄປ</span> <span class=\"rom\">Fǒn tók sā-nȁn bɔ̀ɔ pǎy</span> = il pleut donc je n&#x27;y vais pas</li></ul><p><b>À toi de trouver :</b></p><ol><li>Quelle différence entre ຍ້ອນວ່າ et ສະນັ້ນ ?</li></ol><details><summary>La règle</summary><p>ຍ້ອນວ່າ / ເພາະວ່າ introduisent la cause ; ສະນັ້ນ introduit la conséquence.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les connecteurs de cause.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Pourquoi ?</li><li>Parce qu&#x27;il fait trop chaud.</li><li>Donc je reste à la maison.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເປັນຫຍັງ?</span> <span class=\"rom\">Pěn-nyǎng?</span></li><li><span class=\"lo\">ຍ້ອນວ່າຮ້ອນໂພດ</span> <span class=\"rom\">Nyȍɔn-wāa hȍɔn phôot.</span></li><li><span class=\"lo\">ສະນັ້ນຢູ່ເຮືອນ</span> <span class=\"rom\">Sā-nȁn yùu hʉ́an.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris 4 phrases avec ຍ້ອນວ່າ et 2 avec ສະນັ້ນ.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Explique à un natif 3 choix de ta vie avec « parce que ».</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>8 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l53-v01",
+   "front": "ເປັນຫຍັງ",
+   "back": "Pěn-nyǎng · pourquoi ?"
+  },
+  {
+   "id": "l53-v02",
+   "front": "ຍ້ອນວ່າ",
+   "back": "Nyȍɔn-wāa · parce que"
+  },
+  {
+   "id": "l53-v03",
+   "front": "ເພາະວ່າ",
+   "back": "Phɔ̄-wāa · parce que"
+  },
+  {
+   "id": "l53-v04",
+   "front": "ສະນັ້ນ",
+   "back": "Sā-nȁn · donc"
+  },
+  {
+   "id": "l53-v05",
+   "front": "ລະດູຮ້ອນ",
+   "back": "Lā-dǔu-hȍɔn · saison chaude"
+  },
+  {
+   "id": "l53-p01",
+   "front": "Pourquoi ?",
+   "back": "ເປັນຫຍັງ? · Pěn-nyǎng?"
+  },
+  {
+   "id": "l53-p02",
+   "front": "Parce qu'il fait trop chaud.",
+   "back": "ຍ້ອນວ່າຮ້ອນໂພດ · Nyȍɔn-wāa hȍɔn phôot."
+  },
+  {
+   "id": "l53-p03",
+   "front": "Donc je reste à la maison.",
+   "back": "ສະນັ້ນຢູ່ເຮືອນ · Sā-nȁn yùu hʉ́an."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ເປັນຫຍັງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pourquoi ?",
+      "parce que",
+      "donc",
+      "parce que"
+     ],
+     "answer": "pourquoi ?",
+     "reveal": "<i>Pěn-nyǎng</i>"
+    },
+    {
+     "audio": [
+      "ຍ້ອນວ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "parce que",
+      "donc",
+      "saison chaude",
+      "pourquoi ?"
+     ],
+     "answer": "parce que",
+     "reveal": "<i>Nyȍɔn-wāa</i>"
+    },
+    {
+     "audio": [
+      "ເພາະວ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "parce que",
+      "pourquoi ?",
+      "donc",
+      "saison chaude"
+     ],
+     "answer": "parce que",
+     "reveal": "<i>Phɔ̄-wāa</i>"
+    },
+    {
+     "audio": [
+      "ສະນັ້ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "donc",
+      "pourquoi ?",
+      "parce que",
+      "saison chaude"
+     ],
+     "answer": "donc",
+     "reveal": "<i>Sā-nȁn</i>"
+    },
+    {
+     "audio": [
+      "ລະດູຮ້ອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "saison chaude",
+      "pourquoi ?",
+      "parce que",
+      "donc"
+     ],
+     "answer": "saison chaude",
+     "reveal": "<i>Lā-dǔu-hȍɔn</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເປັນຫຍັງເຈົ້າມັກວຽງຈັນ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Pourquoi tu aimes Vientiane ?",
+      "Je n'aime pas la saison chaude, parce qu'il fait trop chaud.",
+      "Parce que les gens sont gentils et la nourriture est bonne.",
+      "Il y a quelque chose que tu n'aimes pas ?"
+     ],
+     "answer": "Pourquoi tu aimes Vientiane ?",
+     "reveal": "<i>Pěn-nyǎng jâo māk wíang-jǎn?</i>"
+    },
+    {
+     "audio": [
+      "ຍ້ອນວ່າຄົນໃຈດີແລະອາຫານແຊບ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Parce que les gens sont gentils et la nourriture est bonne.",
+      "Pourquoi tu aimes Vientiane ?",
+      "Je n'aime pas la saison chaude, parce qu'il fait trop chaud.",
+      "Il y a quelque chose que tu n'aimes pas ?"
+     ],
+     "answer": "Parce que les gens sont gentils et la nourriture est bonne.",
+     "reveal": "<i>Nyȍɔn-wāa khón jǎy-dǐi lɛ́ ǎa-hǎan sɛ̂ɛp.</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ມັກຫຍັງບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Il y a quelque chose que tu n'aimes pas ?",
+      "Pourquoi tu aimes Vientiane ?",
+      "Je n'aime pas la saison chaude, parce qu'il fait trop chaud.",
+      "Parce que les gens sont gentils et la nourriture est bonne."
+     ],
+     "answer": "Il y a quelque chose que tu n'aimes pas ?",
+     "reveal": "<i>Bɔ̀ɔ māk nyǎng bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ມັກລະດູຮ້ອນເພາະວ່າຮ້ອນໂພດ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je n'aime pas la saison chaude, parce qu'il fait trop chaud.",
+      "Pourquoi tu aimes Vientiane ?",
+      "Parce que les gens sont gentils et la nourriture est bonne.",
+      "Il y a quelque chose que tu n'aimes pas ?"
+     ],
+     "answer": "Je n'aime pas la saison chaude, parce qu'il fait trop chaud.",
+     "reveal": "<i>Bɔ̀ɔ māk lā-dǔu-hȍɔn phɔ̄-wāa hȍɔn phôot.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເປັນຫຍັງ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Pourquoi ?",
+      "Parce qu'il fait trop chaud.",
+      "Donc je reste à la maison."
+     ],
+     "answer": "Pourquoi ?",
+     "reveal": "<i>Pěn-nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ຍ້ອນວ່າຮ້ອນໂພດ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Parce qu'il fait trop chaud.",
+      "Donc je reste à la maison.",
+      "Pourquoi ?"
+     ],
+     "answer": "Parce qu'il fait trop chaud.",
+     "reveal": "<i>Nyȍɔn-wāa hȍɔn phôot.</i>"
+    },
+    {
+     "audio": [
+      "ສະນັ້ນຢູ່ເຮືອນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Donc je reste à la maison.",
+      "Parce qu'il fait trop chaud.",
+      "Pourquoi ?"
+     ],
+     "answer": "Donc je reste à la maison.",
+     "reveal": "<i>Sā-nȁn yùu hʉ́an.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ເປັນຫຍັງ",
+   "rom": "Pěn-nyǎng",
+   "fr": "pourquoi ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍ້ອນວ່າ",
+   "rom": "Nyȍɔn-wāa",
+   "fr": "parce que",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເພາະວ່າ",
+   "rom": "Phɔ̄-wāa",
+   "fr": "parce que",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສະນັ້ນ",
+   "rom": "Sā-nȁn",
+   "fr": "donc",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລະດູຮ້ອນ",
+   "rom": "Lā-dǔu-hȍɔn",
+   "fr": "saison chaude",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເປັນຫຍັງ?",
+   "rom": "Pěn-nyǎng?",
+   "fr": "Pourquoi ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍ້ອນວ່າຮ້ອນໂພດ",
+   "rom": "Nyȍɔn-wāa hȍɔn phôot.",
+   "fr": "Parce qu'il fait trop chaud.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສະນັ້ນຢູ່ເຮືອນ",
+   "rom": "Sā-nȁn yùu hʉ́an.",
+   "fr": "Donc je reste à la maison.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຍ້ອນວ່າ",
+    "ຮ້ອນ",
+    "ໂພດ"
+   ],
+   "rom": "Nyȍɔn-wāa hȍɔn phôot.",
+   "fr": "Parce qu'il fait trop chaud."
+  },
+  {
+   "tokens": [
+    "ສະນັ້ນ",
+    "ຢູ່",
+    "ເຮືອນ"
+   ],
+   "rom": "Sā-nȁn yùu hʉ́an.",
+   "fr": "Donc je reste à la maison."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ເປັນຫຍັງ",
+   "rom": "Pěn-nyǎng",
+   "fr": "pourquoi ?"
+  },
+  {
+   "lao": "ຍ້ອນວ່າ",
+   "rom": "Nyȍɔn-wāa",
+   "fr": "parce que"
+  },
+  {
+   "lao": "ເພາະວ່າ",
+   "rom": "Phɔ̄-wāa",
+   "fr": "parce que"
+  },
+  {
+   "lao": "ສະນັ້ນ",
+   "rom": "Sā-nȁn",
+   "fr": "donc"
+  },
+  {
+   "lao": "ລະດູຮ້ອນ",
+   "rom": "Lā-dǔu-hȍɔn",
+   "fr": "saison chaude"
+  }
+ ],
+ "sounds": {
+  "ເພື່ອ": "Phʉ̄a",
+  "ຫຼັງອາຫານ": "Lǎng ǎa-hǎan",
+  "ໄປກັນ": "Pǎy kǎn",
+  "ຮັນໂລ": "Hán-lóo",
+  "ເປັນຫຍັງເຈົ້າມັກວຽງຈັນ": "Pěn-nyǎng jâo māk wíang-jǎn?",
+  "ຍ້ອນວ່າຄົນໃຈດີແລະອາຫານແຊບ": "Nyȍɔn-wāa khón jǎy-dǐi lɛ́ ǎa-hǎan sɛ̂ɛp.",
+  "ບໍ່ມັກຫຍັງບໍ": "Bɔ̀ɔ māk nyǎng bɔ̌ɔ?",
+  "ບໍ່ມັກລະດູຮ້ອນເພາະວ່າຮ້ອນໂພດ": "Bɔ̀ɔ māk lā-dǔu-hȍɔn phɔ̄-wāa hȍɔn phôot.",
+  "ເປັນຫຍັງ": "Pěn-nyǎng?",
+  "ຍ້ອນວ່າ": "nyȍɔn-wāa",
+  "ເພາະວ່າ": "Phɔ̄-wāa",
+  "ສະນັ້ນ": "sā-nȁn",
+  "ລະດູຮ້ອນ": "Lā-dǔu-hȍɔn",
+  "ບໍ່ໄປຍ້ອນວ່າຝົນຕົກ": "Bɔ̀ɔ pǎy nyȍɔn-wāa fǒn tók",
+  "ຝົນຕົກສະນັ້ນບໍ່ໄປ": "Fǒn tók sā-nȁn bɔ̀ɔ pǎy",
+  "ຍ້ອນວ່າຮ້ອນໂພດ": "Nyȍɔn-wāa hȍɔn phôot.",
+  "ສະນັ້ນຢູ່ເຮືອນ": "Sā-nȁn yùu hʉ́an.",
+  "ຮ້ອນ": "hȍɔn",
+  "ໂພດ": "phôot",
+  "ຢູ່": "yùu",
+  "ເຮືອນ": "hʉ́an"
+ },
+ "suivi": "LEÇON : 53 — Partie D (Raconter et organiser, A2) · Pourquoi ? Parce que…\nOBJECTIF : Justifier un choix avec une cause.\nNOTION : la cause\nVOCAB : Pěn-nyǎng, Nyȍɔn-wāa, Phɔ̄-wāa, Sā-nȁn, Lā-dǔu-hȍɔn\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 54 — Mais, alors, ensuite"
+}

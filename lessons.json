@@ -286,6 +286,181 @@
    "title": "Bilan A1",
    "phase": "Vie courante",
    "file": "l40.json"
+  },
+  {
+   "id": "l41",
+   "num": 41,
+   "title": "Hier",
+   "phase": "Raconter et organiser",
+   "file": "l41.json"
+  },
+  {
+   "id": "l42",
+   "num": 42,
+   "title": "Demain",
+   "phase": "Raconter et organiser",
+   "file": "l42.json"
+  },
+  {
+   "id": "l43",
+   "num": 43,
+   "title": "En ce moment",
+   "phase": "Raconter et organiser",
+   "file": "l43.json"
+  },
+  {
+   "id": "l44",
+   "num": 44,
+   "title": "Tu as déjà… ?",
+   "phase": "Raconter et organiser",
+   "file": "l44.json"
+  },
+  {
+   "id": "l45",
+   "num": 45,
+   "title": "Stratégies de survie",
+   "phase": "Raconter et organiser",
+   "file": "l45.json"
+  },
+  {
+   "id": "l46",
+   "num": 46,
+   "title": "Inviter et répondre",
+   "phase": "Raconter et organiser",
+   "file": "l46.json"
+  },
+  {
+   "id": "l47",
+   "num": 47,
+   "title": "Prendre rendez-vous",
+   "phase": "Raconter et organiser",
+   "file": "l47.json"
+  },
+  {
+   "id": "l48",
+   "num": 48,
+   "title": "Au téléphone (2)",
+   "phase": "Raconter et organiser",
+   "file": "l48.json"
+  },
+  {
+   "id": "l49",
+   "num": 49,
+   "title": "Au marché",
+   "phase": "Raconter et organiser",
+   "file": "l49.json"
+  },
+  {
+   "id": "l50",
+   "num": 50,
+   "title": "Chez le médecin",
+   "phase": "Raconter et organiser",
+   "file": "l50.json"
+  },
+  {
+   "id": "l51",
+   "num": 51,
+   "title": "Le logement",
+   "phase": "Raconter et organiser",
+   "file": "l51.json"
+  },
+  {
+   "id": "l52",
+   "num": 52,
+   "title": "Travail et études",
+   "phase": "Raconter et organiser",
+   "file": "l52.json"
+  },
+  {
+   "id": "l53",
+   "num": 53,
+   "title": "Pourquoi ? Parce que…",
+   "phase": "Raconter et organiser",
+   "file": "l53.json"
+  },
+  {
+   "id": "l54",
+   "num": 54,
+   "title": "Mais, alors, ensuite",
+   "phase": "Raconter et organiser",
+   "file": "l54.json"
+  },
+  {
+   "id": "l55",
+   "num": 55,
+   "title": "Les fréquences",
+   "phase": "Raconter et organiser",
+   "file": "l55.json"
+  },
+  {
+   "id": "l56",
+   "num": 56,
+   "title": "Savoir, pouvoir, devoir",
+   "phase": "Raconter et organiser",
+   "file": "l56.json"
+  },
+  {
+   "id": "l57",
+   "num": 57,
+   "title": "Voyager au Laos",
+   "phase": "Raconter et organiser",
+   "file": "l57.json"
+  },
+  {
+   "id": "l58",
+   "num": 58,
+   "title": "Les fêtes",
+   "phase": "Raconter et organiser",
+   "file": "l58.json"
+  },
+  {
+   "id": "l59",
+   "num": 59,
+   "title": "Cuisiner",
+   "phase": "Raconter et organiser",
+   "file": "l59.json"
+  },
+  {
+   "id": "l60",
+   "num": 60,
+   "title": "Les sentiments",
+   "phase": "Raconter et organiser",
+   "file": "l60.json"
+  },
+  {
+   "id": "l61",
+   "num": 61,
+   "title": "Familier ou poli ?",
+   "phase": "Raconter et organiser",
+   "file": "l61.json"
+  },
+  {
+   "id": "l62",
+   "num": 62,
+   "title": "Les particules de fin de phrase",
+   "phase": "Raconter et organiser",
+   "file": "l62.json"
+  },
+  {
+   "id": "l63",
+   "num": 63,
+   "title": "Écrire un message",
+   "phase": "Raconter et organiser",
+   "file": "l63.json"
+  },
+  {
+   "id": "l64",
+   "num": 64,
+   "title": "Lire du vrai",
+   "phase": "Raconter et organiser",
+   "file": "l64.json"
+  },
+  {
+   "id": "l65",
+   "num": 65,
+   "title": "Bilan A2",
+   "phase": "Raconter et organiser",
+   "file": "l65.json"
   }
  ]
 }

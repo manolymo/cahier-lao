@@ -1,0 +1,528 @@
+{
+ "num": 54,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Mais, alors, ensuite",
+ "objective": "Raconter une petite histoire en 5 phrases liées.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>pourquoi ? <small class=\"muted\">(leçon 53)</small></li><li>louer <small class=\"muted\">(leçon 51)</small></li><li>rendez-vous ; fixer <small class=\"muted\">(leçon 47)</small></li><li>étudier, apprendre <small class=\"muted\">(leçon 40)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ເປັນຫຍັງ</span> <span class=\"rom\">Pěn-nyǎng</span> · pourquoi ?</li><li><span class=\"lo\">ເຊົ່າ</span> <span class=\"rom\">Sāo</span> · louer</li><li><span class=\"lo\">ນັດ</span> <span class=\"rom\">Nāt</span> · rendez-vous ; fixer</li><li><span class=\"lo\">ຮຽນ</span> <span class=\"rom\">Hían</span> · étudier, apprendre</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Raconter une petite histoire en 5 phrases liées.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Kèo raconte sa journée ratée.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ມື້ວານຂ້ອຍຕື່ນຊ້າ</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ແລ້ວລົດຈັກກໍເປ່</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ແຕ່ໝູ່ມາຊ່ວຍ</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ສຸດທ້າຍກໍຮອດໂຮງຮຽນທັນ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໂຊກດີເນາະ!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Mʉ̂ʉ-wáan khɔ̂ɔy tʉ̀ʉn sȁa.</span><br><span class=\"rom\">Lɛ̏ɛw lōt-ják kɔ̂ɔ pè.</span><br><span class=\"rom\">Tɛ̀ɛ mùu máa sūay.</span><br><span class=\"rom\">Sūt-thȁay kɔ̂ɔ hɔ̂ɔt hóong-hían thán.</span><br><span class=\"rom\">Sôok-dǐi nɔ̄!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Kèo</b> — Hier, je me suis réveillé en retard.<br><b>Kèo</b> — Puis ma moto est tombée en panne.<br><b>Kèo</b> — Mais un ami est venu m&#x27;aider.<br><b>Kèo</b> — Finalement, je suis arrivé à l&#x27;heure à l&#x27;école.<br><b>Clara</b> — Quelle chance !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quels problèmes a eus Kèo ?</li><li>Comment ça s&#x27;est fini ?</li></ol><details><summary>Réponses</summary><ol><li>Réveil en retard et moto en panne.</li><li>Il est arrivé à l&#x27;heure grâce à un ami.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ແລ້ວ</td><td class=\"rom\">Lɛ̏ɛw</td><td>puis</td><td></td></tr><tr><td class=\"lo\">ແຕ່</td><td class=\"rom\">Tɛ̀ɛ</td><td>mais</td><td></td></tr><tr><td class=\"lo\">ກໍ</td><td class=\"rom\">Kɔ̂ɔ</td><td>alors (lien)</td><td></td></tr><tr><td class=\"lo\">ສຸດທ້າຍ</td><td class=\"rom\">Sūt-thȁay</td><td>finalement</td><td></td></tr><tr><td class=\"lo\">ທຳອິດ</td><td class=\"rom\">Thám-ít</td><td>d&#x27;abord</td><td></td></tr><tr><td class=\"lo\">ເປ່</td><td class=\"rom\">Pè</td><td>tomber en panne</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ທັນ</td><td class=\"rom\">Thán</td><td>à temps</td><td></td></tr><tr><td class=\"lo\">ໂຊກດີ</td><td class=\"rom\">Sôok-dǐi</td><td>chance ; bonne chance</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : enchaîner un récit",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ທຳອິດ ແລ້ວ ສຸດທ້າຍ</span> <span class=\"rom\">Thám-ít… lɛ̏ɛw… sūt-thȁay…</span> = d&#x27;abord… puis… finalement…</li></ul><p><b>À toi de trouver :</b></p><ol><li>Quels mots structurent l&#x27;histoire ?</li></ol><details><summary>La règle</summary><p>Pour raconter : ທຳອິດ (d'abord), ແລ້ວ (puis), ແຕ່ (mais), ສຸດທ້າຍ (finalement). ກໍ relie souvent la conséquence.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les mots qui structurent le récit.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>D&#x27;abord, je me suis réveillé en retard.</li><li>Mais un ami m&#x27;a aidé.</li><li>Quelle chance !</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ທຳອິດຂ້ອຍຕື່ນຊ້າ</span> <span class=\"rom\">Thám-ít khɔ̂ɔy tʉ̀ʉn sȁa.</span></li><li><span class=\"lo\">ແຕ່ໝູ່ມາຊ່ວຍ</span> <span class=\"rom\">Tɛ̀ɛ mùu máa sūay.</span></li><li><span class=\"lo\">ໂຊກດີເນາະ!</span> <span class=\"rom\">Sôok-dǐi nɔ̄!</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Raconte une petite mésaventure en 5 phrases liées.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Raconte une anecdote à un natif en utilisant ທຳອິດ, ແລ້ວ, ແຕ່, ສຸດທ້າຍ.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>11 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l54-v01",
+   "front": "ແລ້ວ",
+   "back": "Lɛ̏ɛw · puis"
+  },
+  {
+   "id": "l54-v02",
+   "front": "ແຕ່",
+   "back": "Tɛ̀ɛ · mais"
+  },
+  {
+   "id": "l54-v03",
+   "front": "ກໍ",
+   "back": "Kɔ̂ɔ · alors (lien)"
+  },
+  {
+   "id": "l54-v04",
+   "front": "ສຸດທ້າຍ",
+   "back": "Sūt-thȁay · finalement"
+  },
+  {
+   "id": "l54-v05",
+   "front": "ທຳອິດ",
+   "back": "Thám-ít · d'abord"
+  },
+  {
+   "id": "l54-v06",
+   "front": "ເປ່",
+   "back": "Pè · tomber en panne"
+  },
+  {
+   "id": "l54-v07",
+   "front": "ທັນ",
+   "back": "Thán · à temps"
+  },
+  {
+   "id": "l54-v08",
+   "front": "ໂຊກດີ",
+   "back": "Sôok-dǐi · chance ; bonne chance"
+  },
+  {
+   "id": "l54-p01",
+   "front": "D'abord, je me suis réveillé en retard.",
+   "back": "ທຳອິດຂ້ອຍຕື່ນຊ້າ · Thám-ít khɔ̂ɔy tʉ̀ʉn sȁa."
+  },
+  {
+   "id": "l54-p02",
+   "front": "Mais un ami m'a aidé.",
+   "back": "ແຕ່ໝູ່ມາຊ່ວຍ · Tɛ̀ɛ mùu máa sūay."
+  },
+  {
+   "id": "l54-p03",
+   "front": "Quelle chance !",
+   "back": "ໂຊກດີເນາະ! · Sôok-dǐi nɔ̄!"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ແລ້ວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "puis",
+      "alors (lien)",
+      "finalement",
+      "tomber en panne"
+     ],
+     "answer": "puis",
+     "reveal": "<i>Lɛ̏ɛw</i>"
+    },
+    {
+     "audio": [
+      "ແຕ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mais",
+      "tomber en panne",
+      "alors (lien)",
+      "finalement"
+     ],
+     "answer": "mais",
+     "reveal": "<i>Tɛ̀ɛ</i>"
+    },
+    {
+     "audio": [
+      "ກໍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "alors (lien)",
+      "chance ; bonne chance",
+      "d'abord",
+      "à temps"
+     ],
+     "answer": "alors (lien)",
+     "reveal": "<i>Kɔ̂ɔ</i>"
+    },
+    {
+     "audio": [
+      "ສຸດທ້າຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "finalement",
+      "tomber en panne",
+      "puis",
+      "chance ; bonne chance"
+     ],
+     "answer": "finalement",
+     "reveal": "<i>Sūt-thȁay</i>"
+    },
+    {
+     "audio": [
+      "ທຳອິດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "d'abord",
+      "à temps",
+      "tomber en panne",
+      "puis"
+     ],
+     "answer": "d'abord",
+     "reveal": "<i>Thám-ít</i>"
+    },
+    {
+     "audio": [
+      "ເປ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "tomber en panne",
+      "puis",
+      "finalement",
+      "mais"
+     ],
+     "answer": "tomber en panne",
+     "reveal": "<i>Pè</i>"
+    },
+    {
+     "audio": [
+      "ທັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "à temps",
+      "chance ; bonne chance",
+      "puis",
+      "alors (lien)"
+     ],
+     "answer": "à temps",
+     "reveal": "<i>Thán</i>"
+    },
+    {
+     "audio": [
+      "ໂຊກດີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "chance ; bonne chance",
+      "finalement",
+      "d'abord",
+      "mais"
+     ],
+     "answer": "chance ; bonne chance",
+     "reveal": "<i>Sôok-dǐi</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ມື້ວານຂ້ອຍຕື່ນຊ້າ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Hier, je me suis réveillé en retard.",
+      "Quelle chance !",
+      "Finalement, je suis arrivé à l'heure à l'école.",
+      "Puis ma moto est tombée en panne."
+     ],
+     "answer": "Hier, je me suis réveillé en retard.",
+     "reveal": "<i>Mʉ̂ʉ-wáan khɔ̂ɔy tʉ̀ʉn sȁa.</i>"
+    },
+    {
+     "audio": [
+      "ແລ້ວລົດຈັກກໍເປ່"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Puis ma moto est tombée en panne.",
+      "Quelle chance !",
+      "Hier, je me suis réveillé en retard.",
+      "Finalement, je suis arrivé à l'heure à l'école."
+     ],
+     "answer": "Puis ma moto est tombée en panne.",
+     "reveal": "<i>Lɛ̏ɛw lōt-ják kɔ̂ɔ pè.</i>"
+    },
+    {
+     "audio": [
+      "ແຕ່ໝູ່ມາຊ່ວຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Mais un ami est venu m'aider.",
+      "Hier, je me suis réveillé en retard.",
+      "Finalement, je suis arrivé à l'heure à l'école.",
+      "Puis ma moto est tombée en panne."
+     ],
+     "answer": "Mais un ami est venu m'aider.",
+     "reveal": "<i>Tɛ̀ɛ mùu máa sūay.</i>"
+    },
+    {
+     "audio": [
+      "ສຸດທ້າຍກໍຮອດໂຮງຮຽນທັນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Finalement, je suis arrivé à l'heure à l'école.",
+      "Puis ma moto est tombée en panne.",
+      "Hier, je me suis réveillé en retard.",
+      "Mais un ami est venu m'aider."
+     ],
+     "answer": "Finalement, je suis arrivé à l'heure à l'école.",
+     "reveal": "<i>Sūt-thȁay kɔ̂ɔ hɔ̂ɔt hóong-hían thán.</i>"
+    },
+    {
+     "audio": [
+      "ໂຊກດີເນາະ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Quelle chance !",
+      "Puis ma moto est tombée en panne.",
+      "Hier, je me suis réveillé en retard.",
+      "Finalement, je suis arrivé à l'heure à l'école."
+     ],
+     "answer": "Quelle chance !",
+     "reveal": "<i>Sôok-dǐi nɔ̄!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ທຳອິດຂ້ອຍຕື່ນຊ້າ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "D'abord, je me suis réveillé en retard.",
+      "Quelle chance !",
+      "Mais un ami m'a aidé."
+     ],
+     "answer": "D'abord, je me suis réveillé en retard.",
+     "reveal": "<i>Thám-ít khɔ̂ɔy tʉ̀ʉn sȁa.</i>"
+    },
+    {
+     "audio": [
+      "ແຕ່ໝູ່ມາຊ່ວຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Mais un ami m'a aidé.",
+      "Quelle chance !",
+      "D'abord, je me suis réveillé en retard."
+     ],
+     "answer": "Mais un ami m'a aidé.",
+     "reveal": "<i>Tɛ̀ɛ mùu máa sūay.</i>"
+    },
+    {
+     "audio": [
+      "ໂຊກດີເນາະ!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Quelle chance !",
+      "D'abord, je me suis réveillé en retard.",
+      "Mais un ami m'a aidé."
+     ],
+     "answer": "Quelle chance !",
+     "reveal": "<i>Sôok-dǐi nɔ̄!</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ແລ້ວ",
+   "rom": "Lɛ̏ɛw",
+   "fr": "puis",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແຕ່",
+   "rom": "Tɛ̀ɛ",
+   "fr": "mais",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກໍ",
+   "rom": "Kɔ̂ɔ",
+   "fr": "alors (lien)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສຸດທ້າຍ",
+   "rom": "Sūt-thȁay",
+   "fr": "finalement",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທຳອິດ",
+   "rom": "Thám-ít",
+   "fr": "d'abord",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເປ່",
+   "rom": "Pè",
+   "fr": "tomber en panne",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທັນ",
+   "rom": "Thán",
+   "fr": "à temps",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂຊກດີ",
+   "rom": "Sôok-dǐi",
+   "fr": "chance ; bonne chance",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທຳອິດຂ້ອຍຕື່ນຊ້າ",
+   "rom": "Thám-ít khɔ̂ɔy tʉ̀ʉn sȁa.",
+   "fr": "D'abord, je me suis réveillé en retard.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແຕ່ໝູ່ມາຊ່ວຍ",
+   "rom": "Tɛ̀ɛ mùu máa sūay.",
+   "fr": "Mais un ami m'a aidé.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂຊກດີເນາະ!",
+   "rom": "Sôok-dǐi nɔ̄!",
+   "fr": "Quelle chance !",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ທຳອິດ",
+    "ຂ້ອຍ",
+    "ຕື່ນ",
+    "ຊ້າ"
+   ],
+   "rom": "Thám-ít khɔ̂ɔy tʉ̀ʉn sȁa.",
+   "fr": "D'abord, je me suis réveillé en retard."
+  },
+  {
+   "tokens": [
+    "ແຕ່",
+    "ໝູ່",
+    "ມາ",
+    "ຊ່ວຍ"
+   ],
+   "rom": "Tɛ̀ɛ mùu máa sūay.",
+   "fr": "Mais un ami m'a aidé."
+  },
+  {
+   "tokens": [
+    "ໂຊກດີ",
+    "ເນາະ"
+   ],
+   "rom": "Sôok-dǐi nɔ̄!",
+   "fr": "Quelle chance !"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ແລ້ວ",
+   "rom": "Lɛ̏ɛw",
+   "fr": "puis"
+  },
+  {
+   "lao": "ແຕ່",
+   "rom": "Tɛ̀ɛ",
+   "fr": "mais"
+  },
+  {
+   "lao": "ກໍ",
+   "rom": "Kɔ̂ɔ",
+   "fr": "alors (lien)"
+  },
+  {
+   "lao": "ສຸດທ້າຍ",
+   "rom": "Sūt-thȁay",
+   "fr": "finalement"
+  },
+  {
+   "lao": "ທຳອິດ",
+   "rom": "Thám-ít",
+   "fr": "d'abord"
+  },
+  {
+   "lao": "ເປ່",
+   "rom": "Pè",
+   "fr": "tomber en panne"
+  },
+  {
+   "lao": "ທັນ",
+   "rom": "Thán",
+   "fr": "à temps"
+  },
+  {
+   "lao": "ໂຊກດີ",
+   "rom": "Sôok-dǐi",
+   "fr": "chance ; bonne chance"
+  }
+ ],
+ "sounds": {
+  "ເປັນຫຍັງ": "Pěn-nyǎng",
+  "ເຊົ່າ": "Sāo",
+  "ນັດ": "Nāt",
+  "ຮຽນ": "Hían",
+  "ມື້ວານຂ້ອຍຕື່ນຊ້າ": "Mʉ̂ʉ-wáan khɔ̂ɔy tʉ̀ʉn sȁa.",
+  "ແລ້ວລົດຈັກກໍເປ່": "Lɛ̏ɛw lōt-ják kɔ̂ɔ pè.",
+  "ແຕ່ໝູ່ມາຊ່ວຍ": "Tɛ̀ɛ mùu máa sūay.",
+  "ສຸດທ້າຍກໍຮອດໂຮງຮຽນທັນ": "Sūt-thȁay kɔ̂ɔ hɔ̂ɔt hóong-hían thán.",
+  "ໂຊກດີເນາະ": "Sôok-dǐi nɔ̄!",
+  "ແລ້ວ": "Lɛ̏ɛw",
+  "ແຕ່": "tɛ̀ɛ",
+  "ກໍ": "Kɔ̂ɔ",
+  "ສຸດທ້າຍ": "Sūt-thȁay",
+  "ທຳອິດ": "thám-ít",
+  "ເປ່": "Pè",
+  "ທັນ": "Thán",
+  "ໂຊກດີ": "sôok-dǐi",
+  "ທຳອິດ ແລ້ວ ສຸດທ້າຍ": "Thám-ít… lɛ̏ɛw… sūt-thȁay…",
+  "ທຳອິດຂ້ອຍຕື່ນຊ້າ": "Thám-ít khɔ̂ɔy tʉ̀ʉn sȁa.",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ຕື່ນ": "tʉ̀ʉn",
+  "ຊ້າ": "sȁa",
+  "ໝູ່": "mùu",
+  "ມາ": "máa",
+  "ຊ່ວຍ": "sūay",
+  "ເນາະ": "nɔ̄"
+ },
+ "suivi": "LEÇON : 54 — Partie D (Raconter et organiser, A2) · Mais, alors, ensuite\nOBJECTIF : Raconter une petite histoire en 5 phrases liées.\nNOTION : enchaîner un récit\nVOCAB : Lɛ̏ɛw, Tɛ̀ɛ, Kɔ̂ɔ, Sūt-thȁay, Thám-ít, Pè, Thán, Sôok-dǐi\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 55 — Les fréquences"
+}

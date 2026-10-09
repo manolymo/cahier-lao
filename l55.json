@@ -1,0 +1,505 @@
+{
+ "num": 55,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Les fréquences",
+ "objective": "Dire ce que tu fais souvent, parfois, jamais.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>finalement <small class=\"muted\">(leçon 54)</small></li><li>travailler <small class=\"muted\">(leçon 52)</small></li><li>embouteillage <small class=\"muted\">(leçon 48)</small></li><li>être allé (et revenu) <small class=\"muted\">(leçon 41)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ສຸດທ້າຍ</span> <span class=\"rom\">Sūt-thȁay</span> · finalement</li><li><span class=\"lo\">ເຮັດວຽກ</span> <span class=\"rom\">Hēt-wîak</span> · travailler</li><li><span class=\"lo\">ລົດຕິດ</span> <span class=\"rom\">Lōt tít</span> · embouteillage</li><li><span class=\"lo\">ໄປ ມາ</span> <span class=\"rom\">Pǎy… máa</span> · être allé (et revenu)</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Dire ce que tu fais souvent, parfois, jamais.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Noy et Clara parlent de leurs habitudes.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເຈົ້າເຮັດກິນເອງເລື້ອຍໆບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ບາງເທື່ອ ສ່ວນຫຼາຍກິນຢູ່ນອກ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຂ້ອຍເຮັດກິນທຸກມື້</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍບໍ່ເຄີຍເຮັດລາບ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Jâo hēt-kǐn ěeng lʉ̂ay-lʉ̂ay bɔ̌ɔ?</span><br><span class=\"rom\">Bǎang-thʉ̄a. Sùan-lǎay kǐn yùu nɔ̂ɔk.</span><br><span class=\"rom\">Khɔ̂ɔy hēt-kǐn thūk-mʉ̂ʉ.</span><br><span class=\"rom\">Khɔ̂ɔy bɔ̀ɔ-khɤ́ɤy hēt lâap.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Tu cuisines souvent toi-même ?<br><b>Clara</b> — Parfois. La plupart du temps, je mange dehors.<br><b>Noy</b> — Moi, je cuisine tous les jours.<br><b>Clara</b> — Je n&#x27;ai jamais fait de larb.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Clara cuisine-t-elle souvent ?</li></ol><details><summary>Réponses</summary><ol><li>Parfois ; elle mange surtout dehors.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ສະເໝີ</td><td class=\"rom\">Sā-mɤ̌ɤ</td><td>toujours</td><td></td></tr><tr><td class=\"lo\">ເລື້ອຍໆ</td><td class=\"rom\">Lʉ̂ay-lʉ̂ay</td><td>souvent</td><td></td></tr><tr><td class=\"lo\">ບາງເທື່ອ</td><td class=\"rom\">Bǎang-thʉ̄a</td><td>parfois</td><td></td></tr><tr><td class=\"lo\">ບໍ່ຄ່ອຍ</td><td class=\"rom\">Bɔ̀ɔ-khɔ̄ɔy</td><td>rarement</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ບໍ່ເຄີຍ</td><td class=\"rom\">Bɔ̀ɔ-khɤ́ɤy</td><td>jamais</td><td></td></tr><tr><td class=\"lo\">ທຸກມື້</td><td class=\"rom\">Thūk-mʉ̂ʉ</td><td>tous les jours</td><td></td></tr><tr><td class=\"lo\">ສ່ວນຫຼາຍ</td><td class=\"rom\">Sùan-lǎay</td><td>la plupart du temps</td><td></td></tr><tr><td class=\"lo\">ເອງ</td><td class=\"rom\">Ěeng</td><td>soi-même</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les adverbes de fréquence",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ກິນຢູ່ນອກເລື້ອຍໆ</span> <span class=\"rom\">Kǐn yùu nɔ̂ɔk lʉ̂ay-lʉ̂ay</span> = manger souvent dehors</li><li><span class=\"lo\">ບາງເທື່ອເຮັດກິນ</span> <span class=\"rom\">Bǎang-thʉ̄a hēt-kǐn</span> = parfois je cuisine</li></ul><p><b>À toi de trouver :</b></p><ol><li>Où se placent ces adverbes ?</li></ol><details><summary>La règle</summary><p>ເລື້ອຍໆ et ທຸກມື້ se placent souvent en fin de phrase ; ບາງເທື່ອ et ສ່ວນຫຼາຍ plutôt en début.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les adverbes de fréquence.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Je cuisine parfois.</li><li>Je mange souvent dehors.</li><li>Tous les jours.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ບາງເທື່ອຂ້ອຍເຮັດກິນ</span> <span class=\"rom\">Bǎang-thʉ̄a khɔ̂ɔy hēt-kǐn.</span></li><li><span class=\"lo\">ຂ້ອຍກິນຢູ່ນອກເລື້ອຍໆ</span> <span class=\"rom\">Khɔ̂ɔy kǐn yùu nɔ̂ɔk lʉ̂ay-lʉ̂ay.</span></li><li><span class=\"lo\">ທຸກມື້</span> <span class=\"rom\">Thūk-mʉ̂ʉ.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris 6 habitudes avec des fréquences différentes.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Compare tes habitudes avec celles d&#x27;un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>11 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l55-v01",
+   "front": "ສະເໝີ",
+   "back": "Sā-mɤ̌ɤ · toujours"
+  },
+  {
+   "id": "l55-v02",
+   "front": "ເລື້ອຍໆ",
+   "back": "Lʉ̂ay-lʉ̂ay · souvent"
+  },
+  {
+   "id": "l55-v03",
+   "front": "ບາງເທື່ອ",
+   "back": "Bǎang-thʉ̄a · parfois"
+  },
+  {
+   "id": "l55-v04",
+   "front": "ບໍ່ຄ່ອຍ",
+   "back": "Bɔ̀ɔ-khɔ̄ɔy · rarement"
+  },
+  {
+   "id": "l55-v05",
+   "front": "ບໍ່ເຄີຍ",
+   "back": "Bɔ̀ɔ-khɤ́ɤy · jamais"
+  },
+  {
+   "id": "l55-v06",
+   "front": "ທຸກມື້",
+   "back": "Thūk-mʉ̂ʉ · tous les jours"
+  },
+  {
+   "id": "l55-v07",
+   "front": "ສ່ວນຫຼາຍ",
+   "back": "Sùan-lǎay · la plupart du temps"
+  },
+  {
+   "id": "l55-v08",
+   "front": "ເອງ",
+   "back": "Ěeng · soi-même"
+  },
+  {
+   "id": "l55-p01",
+   "front": "Je cuisine parfois.",
+   "back": "ບາງເທື່ອຂ້ອຍເຮັດກິນ · Bǎang-thʉ̄a khɔ̂ɔy hēt-kǐn."
+  },
+  {
+   "id": "l55-p02",
+   "front": "Je mange souvent dehors.",
+   "back": "ຂ້ອຍກິນຢູ່ນອກເລື້ອຍໆ · Khɔ̂ɔy kǐn yùu nɔ̂ɔk lʉ̂ay-lʉ̂ay."
+  },
+  {
+   "id": "l55-p03",
+   "front": "Tous les jours.",
+   "back": "ທຸກມື້ · Thūk-mʉ̂ʉ."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ສະເໝີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "toujours",
+      "rarement",
+      "la plupart du temps",
+      "soi-même"
+     ],
+     "answer": "toujours",
+     "reveal": "<i>Sā-mɤ̌ɤ</i>"
+    },
+    {
+     "audio": [
+      "ເລື້ອຍໆ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "souvent",
+      "toujours",
+      "la plupart du temps",
+      "rarement"
+     ],
+     "answer": "souvent",
+     "reveal": "<i>Lʉ̂ay-lʉ̂ay</i>"
+    },
+    {
+     "audio": [
+      "ບາງເທື່ອ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "parfois",
+      "toujours",
+      "tous les jours",
+      "jamais"
+     ],
+     "answer": "parfois",
+     "reveal": "<i>Bǎang-thʉ̄a</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ຄ່ອຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "rarement",
+      "la plupart du temps",
+      "toujours",
+      "tous les jours"
+     ],
+     "answer": "rarement",
+     "reveal": "<i>Bɔ̀ɔ-khɔ̄ɔy</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ເຄີຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "jamais",
+      "toujours",
+      "souvent",
+      "parfois"
+     ],
+     "answer": "jamais",
+     "reveal": "<i>Bɔ̀ɔ-khɤ́ɤy</i>"
+    },
+    {
+     "audio": [
+      "ທຸກມື້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "tous les jours",
+      "toujours",
+      "jamais",
+      "la plupart du temps"
+     ],
+     "answer": "tous les jours",
+     "reveal": "<i>Thūk-mʉ̂ʉ</i>"
+    },
+    {
+     "audio": [
+      "ສ່ວນຫຼາຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "la plupart du temps",
+      "soi-même",
+      "rarement",
+      "souvent"
+     ],
+     "answer": "la plupart du temps",
+     "reveal": "<i>Sùan-lǎay</i>"
+    },
+    {
+     "audio": [
+      "ເອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "soi-même",
+      "la plupart du temps",
+      "parfois",
+      "souvent"
+     ],
+     "answer": "soi-même",
+     "reveal": "<i>Ěeng</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເຈົ້າເຮັດກິນເອງເລື້ອຍໆບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu cuisines souvent toi-même ?",
+      "Je n'ai jamais fait de larb.",
+      "Moi, je cuisine tous les jours.",
+      "Parfois. La plupart du temps, je mange dehors."
+     ],
+     "answer": "Tu cuisines souvent toi-même ?",
+     "reveal": "<i>Jâo hēt-kǐn ěeng lʉ̂ay-lʉ̂ay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ບາງເທື່ອ ສ່ວນຫຼາຍກິນຢູ່ນອກ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Parfois. La plupart du temps, je mange dehors.",
+      "Tu cuisines souvent toi-même ?",
+      "Je n'ai jamais fait de larb.",
+      "Moi, je cuisine tous les jours."
+     ],
+     "answer": "Parfois. La plupart du temps, je mange dehors.",
+     "reveal": "<i>Bǎang-thʉ̄a. Sùan-lǎay kǐn yùu nɔ̂ɔk.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍເຮັດກິນທຸກມື້"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Moi, je cuisine tous les jours.",
+      "Tu cuisines souvent toi-même ?",
+      "Je n'ai jamais fait de larb.",
+      "Parfois. La plupart du temps, je mange dehors."
+     ],
+     "answer": "Moi, je cuisine tous les jours.",
+     "reveal": "<i>Khɔ̂ɔy hēt-kǐn thūk-mʉ̂ʉ.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍບໍ່ເຄີຍເຮັດລາບ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je n'ai jamais fait de larb.",
+      "Parfois. La plupart du temps, je mange dehors.",
+      "Tu cuisines souvent toi-même ?",
+      "Moi, je cuisine tous les jours."
+     ],
+     "answer": "Je n'ai jamais fait de larb.",
+     "reveal": "<i>Khɔ̂ɔy bɔ̀ɔ-khɤ́ɤy hēt lâap.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ບາງເທື່ອຂ້ອຍເຮັດກິນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je cuisine parfois.",
+      "Tous les jours.",
+      "Je mange souvent dehors."
+     ],
+     "answer": "Je cuisine parfois.",
+     "reveal": "<i>Bǎang-thʉ̄a khɔ̂ɔy hēt-kǐn.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍກິນຢູ່ນອກເລື້ອຍໆ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je mange souvent dehors.",
+      "Tous les jours.",
+      "Je cuisine parfois."
+     ],
+     "answer": "Je mange souvent dehors.",
+     "reveal": "<i>Khɔ̂ɔy kǐn yùu nɔ̂ɔk lʉ̂ay-lʉ̂ay.</i>"
+    },
+    {
+     "audio": [
+      "ທຸກມື້"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tous les jours.",
+      "Je mange souvent dehors.",
+      "Je cuisine parfois."
+     ],
+     "answer": "Tous les jours.",
+     "reveal": "<i>Thūk-mʉ̂ʉ.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ສະເໝີ",
+   "rom": "Sā-mɤ̌ɤ",
+   "fr": "toujours",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເລື້ອຍໆ",
+   "rom": "Lʉ̂ay-lʉ̂ay",
+   "fr": "souvent",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບາງເທື່ອ",
+   "rom": "Bǎang-thʉ̄a",
+   "fr": "parfois",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ຄ່ອຍ",
+   "rom": "Bɔ̀ɔ-khɔ̄ɔy",
+   "fr": "rarement",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ເຄີຍ",
+   "rom": "Bɔ̀ɔ-khɤ́ɤy",
+   "fr": "jamais",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທຸກມື້",
+   "rom": "Thūk-mʉ̂ʉ",
+   "fr": "tous les jours",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສ່ວນຫຼາຍ",
+   "rom": "Sùan-lǎay",
+   "fr": "la plupart du temps",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເອງ",
+   "rom": "Ěeng",
+   "fr": "soi-même",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບາງເທື່ອຂ້ອຍເຮັດກິນ",
+   "rom": "Bǎang-thʉ̄a khɔ̂ɔy hēt-kǐn.",
+   "fr": "Je cuisine parfois.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍກິນຢູ່ນອກເລື້ອຍໆ",
+   "rom": "Khɔ̂ɔy kǐn yùu nɔ̂ɔk lʉ̂ay-lʉ̂ay.",
+   "fr": "Je mange souvent dehors.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທຸກມື້",
+   "rom": "Thūk-mʉ̂ʉ.",
+   "fr": "Tous les jours.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ບາງເທື່ອ",
+    "ຂ້ອຍ",
+    "ເຮັດກິນ"
+   ],
+   "rom": "Bǎang-thʉ̄a khɔ̂ɔy hēt-kǐn.",
+   "fr": "Je cuisine parfois."
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ກິນ",
+    "ຢູ່",
+    "ນອກ",
+    "ເລື້ອຍໆ"
+   ],
+   "rom": "Khɔ̂ɔy kǐn yùu nɔ̂ɔk lʉ̂ay-lʉ̂ay.",
+   "fr": "Je mange souvent dehors."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ສະເໝີ",
+   "rom": "Sā-mɤ̌ɤ",
+   "fr": "toujours"
+  },
+  {
+   "lao": "ເລື້ອຍໆ",
+   "rom": "Lʉ̂ay-lʉ̂ay",
+   "fr": "souvent"
+  },
+  {
+   "lao": "ບາງເທື່ອ",
+   "rom": "Bǎang-thʉ̄a",
+   "fr": "parfois"
+  },
+  {
+   "lao": "ບໍ່ຄ່ອຍ",
+   "rom": "Bɔ̀ɔ-khɔ̄ɔy",
+   "fr": "rarement"
+  },
+  {
+   "lao": "ບໍ່ເຄີຍ",
+   "rom": "Bɔ̀ɔ-khɤ́ɤy",
+   "fr": "jamais"
+  },
+  {
+   "lao": "ທຸກມື້",
+   "rom": "Thūk-mʉ̂ʉ",
+   "fr": "tous les jours"
+  },
+  {
+   "lao": "ສ່ວນຫຼາຍ",
+   "rom": "Sùan-lǎay",
+   "fr": "la plupart du temps"
+  },
+  {
+   "lao": "ເອງ",
+   "rom": "Ěeng",
+   "fr": "soi-même"
+  }
+ ],
+ "sounds": {
+  "ສຸດທ້າຍ": "Sūt-thȁay",
+  "ເຮັດວຽກ": "Hēt-wîak",
+  "ລົດຕິດ": "Lōt tít",
+  "ໄປ ມາ": "Pǎy… máa",
+  "ເຈົ້າເຮັດກິນເອງເລື້ອຍໆບໍ": "Jâo hēt-kǐn ěeng lʉ̂ay-lʉ̂ay bɔ̌ɔ?",
+  "ບາງເທື່ອ ສ່ວນຫຼາຍກິນຢູ່ນອກ": "Bǎang-thʉ̄a. Sùan-lǎay kǐn yùu nɔ̂ɔk.",
+  "ຂ້ອຍເຮັດກິນທຸກມື້": "Khɔ̂ɔy hēt-kǐn thūk-mʉ̂ʉ.",
+  "ຂ້ອຍບໍ່ເຄີຍເຮັດລາບ": "Khɔ̂ɔy bɔ̀ɔ-khɤ́ɤy hēt lâap.",
+  "ສະເໝີ": "Sā-mɤ̌ɤ",
+  "ເລື້ອຍໆ": "lʉ̂ay-lʉ̂ay",
+  "ບາງເທື່ອ": "bǎang-thʉ̄a",
+  "ບໍ່ຄ່ອຍ": "Bɔ̀ɔ-khɔ̄ɔy",
+  "ບໍ່ເຄີຍ": "Bɔ̀ɔ-khɤ́ɤy",
+  "ທຸກມື້": "Thūk-mʉ̂ʉ.",
+  "ສ່ວນຫຼາຍ": "Sùan-lǎay",
+  "ເອງ": "Ěeng",
+  "ກິນຢູ່ນອກເລື້ອຍໆ": "Kǐn yùu nɔ̂ɔk lʉ̂ay-lʉ̂ay",
+  "ບາງເທື່ອເຮັດກິນ": "Bǎang-thʉ̄a hēt-kǐn",
+  "ບາງເທື່ອຂ້ອຍເຮັດກິນ": "Bǎang-thʉ̄a khɔ̂ɔy hēt-kǐn.",
+  "ຂ້ອຍກິນຢູ່ນອກເລື້ອຍໆ": "Khɔ̂ɔy kǐn yùu nɔ̂ɔk lʉ̂ay-lʉ̂ay.",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ເຮັດກິນ": "hēt-kǐn",
+  "ກິນ": "kǐn",
+  "ຢູ່": "yùu",
+  "ນອກ": "nɔ̂ɔk"
+ },
+ "suivi": "LEÇON : 55 — Partie D (Raconter et organiser, A2) · Les fréquences\nOBJECTIF : Dire ce que tu fais souvent, parfois, jamais.\nNOTION : les adverbes de fréquence\nVOCAB : Sā-mɤ̌ɤ, Lʉ̂ay-lʉ̂ay, Bǎang-thʉ̄a, Bɔ̀ɔ-khɔ̄ɔy, Bɔ̀ɔ-khɤ́ɤy, Thūk-mʉ̂ʉ, Sùan-lǎay, Ěeng\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 56 — Savoir, pouvoir, devoir"
+}

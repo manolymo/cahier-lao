@@ -1,0 +1,454 @@
+{
+ "num": 49,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Au marché",
+ "objective": "Marchander, comparer les prix et les produits.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>que (discours rapporté) <small class=\"muted\">(leçon 48)</small></li><li>inviter <small class=\"muted\">(leçon 46)</small></li><li>jouer au foot <small class=\"muted\">(leçon 42)</small></li><li>voisin <small class=\"muted\">(leçon 35)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ວ່າ</span> <span class=\"rom\">Wāa</span> · que (discours rapporté)</li><li><span class=\"lo\">ເຊີນ</span> <span class=\"rom\">Sɤ́ɤn</span> · inviter</li><li><span class=\"lo\">ຫຼິ້ນບານ</span> <span class=\"rom\">Lîn bǎan</span> · jouer au foot</li><li><span class=\"lo\">ເພື່ອນບ້ານ</span> <span class=\"rom\">Phʉ̄an-bâan</span> · voisin</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Marchander, comparer les prix et les produits.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara au marché du matin.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໝາກມ່ວງໃສແຊບກວ່າ?</span></div></div><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ອັນນີ້ຫວານທີ່ສຸດ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແຕ່ແພງທີ່ສຸດຄືກັນ!</span></div></div><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ເອົາສອງກິໂລຫຼຸດໃຫ້</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຕົກລົງ!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Mȁak-mūang sǎy sɛ̂ɛp kwàa?</span><br><span class=\"rom\">Ǎn nȉi wǎan thīi-sūt.</span><br><span class=\"rom\">Tɛ̀ɛ phɛ́ɛng thīi-sūt khʉ́ʉ-kǎn!</span><br><span class=\"rom\">Ǎo sɔ̌ɔng kī-lóo lūt hây.</span><br><span class=\"rom\">Tók-lóng!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Quelles mangues sont les meilleures ?<br><b>La vendeuse</b> — Celles-ci sont les plus sucrées.<br><b>Clara</b> — Mais aussi les plus chères !<br><b>La vendeuse</b> — Si tu en prends deux kilos, je baisse.<br><b>Clara</b> — Marché conclu !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quelles mangues sont les plus sucrées ?</li><li>À quelle condition elle baisse le prix ?</li></ol><details><summary>Réponses</summary><ol><li>Celles que montre la vendeuse.</li><li>Si Clara en prend deux kilos.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ກວ່າ</td><td class=\"rom\">Kwàa</td><td>plus… (que)</td><td></td></tr><tr><td class=\"lo\">ທີ່ສຸດ</td><td class=\"rom\">Thīi-sūt</td><td>le plus</td><td></td></tr><tr><td class=\"lo\">ຕົກລົງ</td><td class=\"rom\">Tók-lóng</td><td>d&#x27;accord, marché conclu</td><td></td></tr><tr><td class=\"lo\">ຫຼຸດໃຫ້</td><td class=\"rom\">Lūt hây</td><td>faire une réduction</td><td></td></tr><tr><td class=\"lo\">ສົດ</td><td class=\"rom\">Sōt</td><td>frais</td><td></td></tr><tr><td class=\"lo\">ຜັກ</td><td class=\"rom\">Phāk</td><td>légume</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : comparatif et superlatif",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຫວານກວ່າ</span> <span class=\"rom\">Wǎan kwàa</span> = plus sucré</li><li><span class=\"lo\">ຫວານທີ່ສຸດ</span> <span class=\"rom\">Wǎan thīi-sūt</span> = le plus sucré</li><li><span class=\"lo\">ແພງກວ່າອັນນັ້ນ</span> <span class=\"rom\">Phɛ́ɛng kwàa ǎn nȁn</span> = plus cher que celui-là</li></ul><p><b>À toi de trouver :</b></p><ol><li>Quelle différence entre ກວ່າ et ທີ່ສຸດ ?</li></ol><details><summary>La règle</summary><p>Adjectif + ກວ່າ = plus… ; adjectif + ທີ່ສຸດ = le plus…</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> ກວ່າ et ທີ່ສຸດ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Lesquelles sont les meilleures ?</li><li>Les plus sucrées.</li><li>Marché conclu !</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ອັນໃດແຊບກວ່າ?</span> <span class=\"rom\">Ǎn dǎy sɛ̂ɛp kwàa?</span></li><li><span class=\"lo\">ຫວານທີ່ສຸດ</span> <span class=\"rom\">Wǎan thīi-sūt.</span></li><li><span class=\"lo\">ຕົກລົງ!</span> <span class=\"rom\">Tók-lóng!</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Compare 3 fruits en lao (prix, goût, taille).</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Fais tes courses au marché asiatique en lao ou joue la scène avec un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>9 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l49-v01",
+   "front": "ກວ່າ",
+   "back": "Kwàa · plus… (que)"
+  },
+  {
+   "id": "l49-v02",
+   "front": "ທີ່ສຸດ",
+   "back": "Thīi-sūt · le plus"
+  },
+  {
+   "id": "l49-v03",
+   "front": "ຕົກລົງ",
+   "back": "Tók-lóng · d'accord, marché conclu"
+  },
+  {
+   "id": "l49-v04",
+   "front": "ຫຼຸດໃຫ້",
+   "back": "Lūt hây · faire une réduction"
+  },
+  {
+   "id": "l49-v05",
+   "front": "ສົດ",
+   "back": "Sōt · frais"
+  },
+  {
+   "id": "l49-v06",
+   "front": "ຜັກ",
+   "back": "Phāk · légume"
+  },
+  {
+   "id": "l49-p01",
+   "front": "Lesquelles sont les meilleures ?",
+   "back": "ອັນໃດແຊບກວ່າ? · Ǎn dǎy sɛ̂ɛp kwàa?"
+  },
+  {
+   "id": "l49-p02",
+   "front": "Les plus sucrées.",
+   "back": "ຫວານທີ່ສຸດ · Wǎan thīi-sūt."
+  },
+  {
+   "id": "l49-p03",
+   "front": "Marché conclu !",
+   "back": "ຕົກລົງ! · Tók-lóng!"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ກວ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "plus… (que)",
+      "légume",
+      "le plus",
+      "frais"
+     ],
+     "answer": "plus… (que)",
+     "reveal": "<i>Kwàa</i>"
+    },
+    {
+     "audio": [
+      "ທີ່ສຸດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "le plus",
+      "d'accord, marché conclu",
+      "faire une réduction",
+      "légume"
+     ],
+     "answer": "le plus",
+     "reveal": "<i>Thīi-sūt</i>"
+    },
+    {
+     "audio": [
+      "ຕົກລົງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "d'accord, marché conclu",
+      "légume",
+      "frais",
+      "faire une réduction"
+     ],
+     "answer": "d'accord, marché conclu",
+     "reveal": "<i>Tók-lóng</i>"
+    },
+    {
+     "audio": [
+      "ຫຼຸດໃຫ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "faire une réduction",
+      "frais",
+      "plus… (que)",
+      "d'accord, marché conclu"
+     ],
+     "answer": "faire une réduction",
+     "reveal": "<i>Lūt hây</i>"
+    },
+    {
+     "audio": [
+      "ສົດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "frais",
+      "le plus",
+      "légume",
+      "plus… (que)"
+     ],
+     "answer": "frais",
+     "reveal": "<i>Sōt</i>"
+    },
+    {
+     "audio": [
+      "ຜັກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "légume",
+      "le plus",
+      "faire une réduction",
+      "frais"
+     ],
+     "answer": "légume",
+     "reveal": "<i>Phāk</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ໝາກມ່ວງໃສແຊບກວ່າ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Quelles mangues sont les meilleures ?",
+      "Mais aussi les plus chères !",
+      "Marché conclu !",
+      "Si tu en prends deux kilos, je baisse."
+     ],
+     "answer": "Quelles mangues sont les meilleures ?",
+     "reveal": "<i>Mȁak-mūang sǎy sɛ̂ɛp kwàa?</i>"
+    },
+    {
+     "audio": [
+      "ອັນນີ້ຫວານທີ່ສຸດ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Celles-ci sont les plus sucrées.",
+      "Marché conclu !",
+      "Mais aussi les plus chères !",
+      "Si tu en prends deux kilos, je baisse."
+     ],
+     "answer": "Celles-ci sont les plus sucrées.",
+     "reveal": "<i>Ǎn nȉi wǎan thīi-sūt.</i>"
+    },
+    {
+     "audio": [
+      "ແຕ່ແພງທີ່ສຸດຄືກັນ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Mais aussi les plus chères !",
+      "Marché conclu !",
+      "Quelles mangues sont les meilleures ?",
+      "Si tu en prends deux kilos, je baisse."
+     ],
+     "answer": "Mais aussi les plus chères !",
+     "reveal": "<i>Tɛ̀ɛ phɛ́ɛng thīi-sūt khʉ́ʉ-kǎn!</i>"
+    },
+    {
+     "audio": [
+      "ເອົາສອງກິໂລຫຼຸດໃຫ້"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Si tu en prends deux kilos, je baisse.",
+      "Celles-ci sont les plus sucrées.",
+      "Marché conclu !",
+      "Quelles mangues sont les meilleures ?"
+     ],
+     "answer": "Si tu en prends deux kilos, je baisse.",
+     "reveal": "<i>Ǎo sɔ̌ɔng kī-lóo lūt hây.</i>"
+    },
+    {
+     "audio": [
+      "ຕົກລົງ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Marché conclu !",
+      "Celles-ci sont les plus sucrées.",
+      "Quelles mangues sont les meilleures ?",
+      "Mais aussi les plus chères !"
+     ],
+     "answer": "Marché conclu !",
+     "reveal": "<i>Tók-lóng!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ອັນໃດແຊບກວ່າ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Lesquelles sont les meilleures ?",
+      "Marché conclu !",
+      "Les plus sucrées."
+     ],
+     "answer": "Lesquelles sont les meilleures ?",
+     "reveal": "<i>Ǎn dǎy sɛ̂ɛp kwàa?</i>"
+    },
+    {
+     "audio": [
+      "ຫວານທີ່ສຸດ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Les plus sucrées.",
+      "Marché conclu !",
+      "Lesquelles sont les meilleures ?"
+     ],
+     "answer": "Les plus sucrées.",
+     "reveal": "<i>Wǎan thīi-sūt.</i>"
+    },
+    {
+     "audio": [
+      "ຕົກລົງ!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Marché conclu !",
+      "Les plus sucrées.",
+      "Lesquelles sont les meilleures ?"
+     ],
+     "answer": "Marché conclu !",
+     "reveal": "<i>Tók-lóng!</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ກວ່າ",
+   "rom": "Kwàa",
+   "fr": "plus… (que)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທີ່ສຸດ",
+   "rom": "Thīi-sūt",
+   "fr": "le plus",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕົກລົງ",
+   "rom": "Tók-lóng",
+   "fr": "d'accord, marché conclu",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫຼຸດໃຫ້",
+   "rom": "Lūt hây",
+   "fr": "faire une réduction",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສົດ",
+   "rom": "Sōt",
+   "fr": "frais",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຜັກ",
+   "rom": "Phāk",
+   "fr": "légume",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອັນໃດແຊບກວ່າ?",
+   "rom": "Ǎn dǎy sɛ̂ɛp kwàa?",
+   "fr": "Lesquelles sont les meilleures ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫວານທີ່ສຸດ",
+   "rom": "Wǎan thīi-sūt.",
+   "fr": "Les plus sucrées.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕົກລົງ!",
+   "rom": "Tók-lóng!",
+   "fr": "Marché conclu !",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ອັນ",
+    "ໃດ",
+    "ແຊບ",
+    "ກວ່າ"
+   ],
+   "rom": "Ǎn dǎy sɛ̂ɛp kwàa?",
+   "fr": "Lesquelles sont les meilleures ?"
+  },
+  {
+   "tokens": [
+    "ຫວານ",
+    "ທີ່ສຸດ"
+   ],
+   "rom": "Wǎan thīi-sūt.",
+   "fr": "Les plus sucrées."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ກວ່າ",
+   "rom": "Kwàa",
+   "fr": "plus… (que)"
+  },
+  {
+   "lao": "ທີ່ສຸດ",
+   "rom": "Thīi-sūt",
+   "fr": "le plus"
+  },
+  {
+   "lao": "ຕົກລົງ",
+   "rom": "Tók-lóng",
+   "fr": "d'accord, marché conclu"
+  },
+  {
+   "lao": "ຫຼຸດໃຫ້",
+   "rom": "Lūt hây",
+   "fr": "faire une réduction"
+  },
+  {
+   "lao": "ສົດ",
+   "rom": "Sōt",
+   "fr": "frais"
+  },
+  {
+   "lao": "ຜັກ",
+   "rom": "Phāk",
+   "fr": "légume"
+  }
+ ],
+ "sounds": {
+  "ວ່າ": "Wāa",
+  "ເຊີນ": "Sɤ́ɤn",
+  "ຫຼິ້ນບານ": "Lîn bǎan",
+  "ເພື່ອນບ້ານ": "Phʉ̄an-bâan",
+  "ໝາກມ່ວງໃສແຊບກວ່າ": "Mȁak-mūang sǎy sɛ̂ɛp kwàa?",
+  "ອັນນີ້ຫວານທີ່ສຸດ": "Ǎn nȉi wǎan thīi-sūt.",
+  "ແຕ່ແພງທີ່ສຸດຄືກັນ": "Tɛ̀ɛ phɛ́ɛng thīi-sūt khʉ́ʉ-kǎn!",
+  "ເອົາສອງກິໂລຫຼຸດໃຫ້": "Ǎo sɔ̌ɔng kī-lóo lūt hây.",
+  "ຕົກລົງ": "Tók-lóng",
+  "ກວ່າ": "kwàa",
+  "ທີ່ສຸດ": "thīi-sūt",
+  "ຫຼຸດໃຫ້": "Lūt hây",
+  "ສົດ": "Sōt",
+  "ຜັກ": "Phāk",
+  "ຫວານກວ່າ": "Wǎan kwàa",
+  "ຫວານທີ່ສຸດ": "Wǎan thīi-sūt.",
+  "ແພງກວ່າອັນນັ້ນ": "Phɛ́ɛng kwàa ǎn nȁn",
+  "ອັນໃດແຊບກວ່າ": "Ǎn dǎy sɛ̂ɛp kwàa?",
+  "ອັນ": "ǎn",
+  "ໃດ": "dǎy",
+  "ແຊບ": "sɛ̂ɛp",
+  "ຫວານ": "wǎan"
+ },
+ "suivi": "LEÇON : 49 — Partie D (Raconter et organiser, A2) · Au marché\nOBJECTIF : Marchander, comparer les prix et les produits.\nNOTION : comparatif et superlatif\nVOCAB : Kwàa, Thīi-sūt, Tók-lóng, Lūt hây, Sōt, Phāk\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 50 — Chez le médecin"
+}

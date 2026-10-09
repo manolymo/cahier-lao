@@ -1,0 +1,556 @@
+{
+ "num": 42,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Demain",
+ "objective": "Annoncer tes projets pour demain et le week-end.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>déjà ; c&#x27;est fait <small class=\"muted\">(leçon 41)</small></li><li>dire à, prévenir <small class=\"muted\">(leçon 39)</small></li><li>jardin <small class=\"muted\">(leçon 35)</small></li><li>combien d&#x27;années ? <small class=\"muted\">(leçon 28)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ແລ້ວ</span> <span class=\"rom\">Lɛ̏ɛw</span> · déjà ; c&#x27;est fait</li><li><span class=\"lo\">ບອກ</span> <span class=\"rom\">Bɔ̏ɔk</span> · dire à, prévenir</li><li><span class=\"lo\">ສວນ</span> <span class=\"rom\">Sǔan</span> · jardin</li><li><span class=\"lo\">ຈັກປີ</span> <span class=\"rom\">Ják pǐi</span> · combien d&#x27;années ?</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Annoncer tes projets pour demain et le week-end.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Kèo parle de ses projets.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ມື້ອື່ນເຈົ້າຈະເຮັດຫຍັງ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຂ້ອຍຈະໄປຫຼິ້ນບານກັບໝູ່</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແລ້ວອາທິດໜ້າເດ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຈະໄປທ່ຽວຫຼວງພະບາງ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ອິດສາແທ້!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Mʉ̂ʉ-ʉ̀ʉn jâo já hēt nyǎng?</span><br><span class=\"rom\">Khɔ̂ɔy já pǎy lîn bǎan kǎp mùu.</span><br><span class=\"rom\">Lɛ̏ɛw ǎa-thīt-nâa dě?</span><br><span class=\"rom\">Já pǎy thìaw lǔang-phā-báang.</span><br><span class=\"rom\">Ít-sǎa thɛ̏ɛ!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Demain, tu vas faire quoi ?<br><b>Kèo</b> — Je vais jouer au foot avec des amis.<br><b>Clara</b> — Et la semaine prochaine ?<br><b>Kèo</b> — Je vais visiter Luang Prabang.<br><b>Clara</b> — Je suis jalouse !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que fait Kèo demain ?</li><li>Et la semaine prochaine ?</li></ol><details><summary>Réponses</summary><ol><li>Il joue au foot avec des amis.</li><li>Il va visiter Luang Prabang.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ມື້ອື່ນ</td><td class=\"rom\">Mʉ̂ʉ-ʉ̀ʉn</td><td>demain</td><td></td></tr><tr><td class=\"lo\">ອາທິດໜ້າ</td><td class=\"rom\">Ǎa-thīt-nâa</td><td>la semaine prochaine</td><td></td></tr><tr><td class=\"lo\">ປີໜ້າ</td><td class=\"rom\">Pǐi-nâa</td><td>l&#x27;année prochaine</td><td></td></tr><tr><td class=\"lo\">ຈະ</td><td class=\"rom\">Já</td><td>(futur) aller faire</td><td></td></tr><tr><td class=\"lo\">ຫຼິ້ນບານ</td><td class=\"rom\">Lîn bǎan</td><td>jouer au foot</td><td></td></tr><tr><td class=\"lo\">ໄປທ່ຽວ</td><td class=\"rom\">Pǎy-thìaw</td><td>se promener, voyager</td><td></td></tr><tr><td class=\"lo\">ອິດສາ</td><td class=\"rom\">Ít-sǎa</td><td>jaloux, envieux</td><td></td></tr><tr><td class=\"lo\">ແຜນ</td><td class=\"rom\">Phɛ̌ɛn</td><td>projet, plan</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : le futur avec ຈະ",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຂ້ອຍຈະໄປ</span> <span class=\"rom\">Khɔ̂ɔy já pǎy</span> = je vais y aller</li><li><span class=\"lo\">ມື້ອື່ນຈະຝົນຕົກ</span> <span class=\"rom\">Mʉ̂ʉ-ʉ̀ʉn já fǒn tók</span> = demain il va pleuvoir</li><li><span class=\"lo\">ເຈົ້າຈະເຮັດຫຍັງ?</span> <span class=\"rom\">Jâo já hēt nyǎng?</span> = tu vas faire quoi ?</li></ul><p><b>À toi de trouver :</b></p><ol><li>Où se place ຈະ ?</li></ol><details><summary>La règle</summary><p>ຈະ se place juste avant le verbe et marque le futur ou l'intention.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> ຈະ avant le verbe.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Tu vas faire quoi demain ?</li><li>Je vais voyager.</li><li>La semaine prochaine.</li><li>Je suis jalouse !</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ມື້ອື່ນເຈົ້າຈະເຮັດຫຍັງ?</span> <span class=\"rom\">Mʉ̂ʉ-ʉ̀ʉn jâo já hēt nyǎng?</span></li><li><span class=\"lo\">ຂ້ອຍຈະໄປທ່ຽວ</span> <span class=\"rom\">Khɔ̂ɔy já pǎy-thìaw.</span></li><li><span class=\"lo\">ອາທິດໜ້າ</span> <span class=\"rom\">Ǎa-thīt-nâa.</span></li><li><span class=\"lo\">ອິດສາແທ້!</span> <span class=\"rom\">Ít-sǎa thɛ̏ɛ!</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris tes projets pour la semaine prochaine en 5 phrases.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Parle de tes projets du mois avec un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>12 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l42-v01",
+   "front": "ມື້ອື່ນ",
+   "back": "Mʉ̂ʉ-ʉ̀ʉn · demain"
+  },
+  {
+   "id": "l42-v02",
+   "front": "ອາທິດໜ້າ",
+   "back": "Ǎa-thīt-nâa · la semaine prochaine"
+  },
+  {
+   "id": "l42-v03",
+   "front": "ປີໜ້າ",
+   "back": "Pǐi-nâa · l'année prochaine"
+  },
+  {
+   "id": "l42-v04",
+   "front": "ຈະ",
+   "back": "Já · (futur) aller faire"
+  },
+  {
+   "id": "l42-v05",
+   "front": "ຫຼິ້ນບານ",
+   "back": "Lîn bǎan · jouer au foot"
+  },
+  {
+   "id": "l42-v06",
+   "front": "ໄປທ່ຽວ",
+   "back": "Pǎy-thìaw · se promener, voyager"
+  },
+  {
+   "id": "l42-v07",
+   "front": "ອິດສາ",
+   "back": "Ít-sǎa · jaloux, envieux"
+  },
+  {
+   "id": "l42-v08",
+   "front": "ແຜນ",
+   "back": "Phɛ̌ɛn · projet, plan"
+  },
+  {
+   "id": "l42-p01",
+   "front": "Tu vas faire quoi demain ?",
+   "back": "ມື້ອື່ນເຈົ້າຈະເຮັດຫຍັງ? · Mʉ̂ʉ-ʉ̀ʉn jâo já hēt nyǎng?"
+  },
+  {
+   "id": "l42-p02",
+   "front": "Je vais voyager.",
+   "back": "ຂ້ອຍຈະໄປທ່ຽວ · Khɔ̂ɔy já pǎy-thìaw."
+  },
+  {
+   "id": "l42-p03",
+   "front": "La semaine prochaine.",
+   "back": "ອາທິດໜ້າ · Ǎa-thīt-nâa."
+  },
+  {
+   "id": "l42-p04",
+   "front": "Je suis jalouse !",
+   "back": "ອິດສາແທ້! · Ít-sǎa thɛ̏ɛ!"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ມື້ອື່ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "demain",
+      "jaloux, envieux",
+      "l'année prochaine",
+      "(futur) aller faire"
+     ],
+     "answer": "demain",
+     "reveal": "<i>Mʉ̂ʉ-ʉ̀ʉn</i>"
+    },
+    {
+     "audio": [
+      "ອາທິດໜ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "la semaine prochaine",
+      "se promener, voyager",
+      "demain",
+      "projet, plan"
+     ],
+     "answer": "la semaine prochaine",
+     "reveal": "<i>Ǎa-thīt-nâa</i>"
+    },
+    {
+     "audio": [
+      "ປີໜ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "l'année prochaine",
+      "(futur) aller faire",
+      "la semaine prochaine",
+      "se promener, voyager"
+     ],
+     "answer": "l'année prochaine",
+     "reveal": "<i>Pǐi-nâa</i>"
+    },
+    {
+     "audio": [
+      "ຈະ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "(futur) aller faire",
+      "l'année prochaine",
+      "demain",
+      "jouer au foot"
+     ],
+     "answer": "(futur) aller faire",
+     "reveal": "<i>Já</i>"
+    },
+    {
+     "audio": [
+      "ຫຼິ້ນບານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "jouer au foot",
+      "jaloux, envieux",
+      "projet, plan",
+      "se promener, voyager"
+     ],
+     "answer": "jouer au foot",
+     "reveal": "<i>Lîn bǎan</i>"
+    },
+    {
+     "audio": [
+      "ໄປທ່ຽວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "se promener, voyager",
+      "jouer au foot",
+      "(futur) aller faire",
+      "l'année prochaine"
+     ],
+     "answer": "se promener, voyager",
+     "reveal": "<i>Pǎy-thìaw</i>"
+    },
+    {
+     "audio": [
+      "ອິດສາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "jaloux, envieux",
+      "projet, plan",
+      "la semaine prochaine",
+      "jouer au foot"
+     ],
+     "answer": "jaloux, envieux",
+     "reveal": "<i>Ít-sǎa</i>"
+    },
+    {
+     "audio": [
+      "ແຜນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "projet, plan",
+      "jaloux, envieux",
+      "la semaine prochaine",
+      "(futur) aller faire"
+     ],
+     "answer": "projet, plan",
+     "reveal": "<i>Phɛ̌ɛn</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ມື້ອື່ນເຈົ້າຈະເຮັດຫຍັງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Demain, tu vas faire quoi ?",
+      "Je suis jalouse !",
+      "Je vais visiter Luang Prabang.",
+      "Je vais jouer au foot avec des amis."
+     ],
+     "answer": "Demain, tu vas faire quoi ?",
+     "reveal": "<i>Mʉ̂ʉ-ʉ̀ʉn jâo já hēt nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຈະໄປຫຼິ້ນບານກັບໝູ່"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je vais jouer au foot avec des amis.",
+      "Je suis jalouse !",
+      "Demain, tu vas faire quoi ?",
+      "Et la semaine prochaine ?"
+     ],
+     "answer": "Je vais jouer au foot avec des amis.",
+     "reveal": "<i>Khɔ̂ɔy já pǎy lîn bǎan kǎp mùu.</i>"
+    },
+    {
+     "audio": [
+      "ແລ້ວອາທິດໜ້າເດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Et la semaine prochaine ?",
+      "Je vais jouer au foot avec des amis.",
+      "Je vais visiter Luang Prabang.",
+      "Demain, tu vas faire quoi ?"
+     ],
+     "answer": "Et la semaine prochaine ?",
+     "reveal": "<i>Lɛ̏ɛw ǎa-thīt-nâa dě?</i>"
+    },
+    {
+     "audio": [
+      "ຈະໄປທ່ຽວຫຼວງພະບາງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je vais visiter Luang Prabang.",
+      "Et la semaine prochaine ?",
+      "Je suis jalouse !",
+      "Demain, tu vas faire quoi ?"
+     ],
+     "answer": "Je vais visiter Luang Prabang.",
+     "reveal": "<i>Já pǎy thìaw lǔang-phā-báang.</i>"
+    },
+    {
+     "audio": [
+      "ອິດສາແທ້!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je suis jalouse !",
+      "Je vais visiter Luang Prabang.",
+      "Et la semaine prochaine ?",
+      "Demain, tu vas faire quoi ?"
+     ],
+     "answer": "Je suis jalouse !",
+     "reveal": "<i>Ít-sǎa thɛ̏ɛ!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ມື້ອື່ນເຈົ້າຈະເຮັດຫຍັງ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tu vas faire quoi demain ?",
+      "Je vais voyager.",
+      "La semaine prochaine.",
+      "Je suis jalouse !"
+     ],
+     "answer": "Tu vas faire quoi demain ?",
+     "reveal": "<i>Mʉ̂ʉ-ʉ̀ʉn jâo já hēt nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຈະໄປທ່ຽວ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je vais voyager.",
+      "Je suis jalouse !",
+      "Tu vas faire quoi demain ?",
+      "La semaine prochaine."
+     ],
+     "answer": "Je vais voyager.",
+     "reveal": "<i>Khɔ̂ɔy já pǎy-thìaw.</i>"
+    },
+    {
+     "audio": [
+      "ອາທິດໜ້າ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "La semaine prochaine.",
+      "Tu vas faire quoi demain ?",
+      "Je suis jalouse !",
+      "Je vais voyager."
+     ],
+     "answer": "La semaine prochaine.",
+     "reveal": "<i>Ǎa-thīt-nâa.</i>"
+    },
+    {
+     "audio": [
+      "ອິດສາແທ້!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je suis jalouse !",
+      "Tu vas faire quoi demain ?",
+      "Je vais voyager.",
+      "La semaine prochaine."
+     ],
+     "answer": "Je suis jalouse !",
+     "reveal": "<i>Ít-sǎa thɛ̏ɛ!</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ມື້ອື່ນ",
+   "rom": "Mʉ̂ʉ-ʉ̀ʉn",
+   "fr": "demain",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອາທິດໜ້າ",
+   "rom": "Ǎa-thīt-nâa",
+   "fr": "la semaine prochaine",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ປີໜ້າ",
+   "rom": "Pǐi-nâa",
+   "fr": "l'année prochaine",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈະ",
+   "rom": "Já",
+   "fr": "(futur) aller faire",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫຼິ້ນບານ",
+   "rom": "Lîn bǎan",
+   "fr": "jouer au foot",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄປທ່ຽວ",
+   "rom": "Pǎy-thìaw",
+   "fr": "se promener, voyager",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອິດສາ",
+   "rom": "Ít-sǎa",
+   "fr": "jaloux, envieux",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແຜນ",
+   "rom": "Phɛ̌ɛn",
+   "fr": "projet, plan",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມື້ອື່ນເຈົ້າຈະເຮັດຫຍັງ?",
+   "rom": "Mʉ̂ʉ-ʉ̀ʉn jâo já hēt nyǎng?",
+   "fr": "Tu vas faire quoi demain ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຈະໄປທ່ຽວ",
+   "rom": "Khɔ̂ɔy já pǎy-thìaw.",
+   "fr": "Je vais voyager.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອາທິດໜ້າ",
+   "rom": "Ǎa-thīt-nâa.",
+   "fr": "La semaine prochaine.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອິດສາແທ້!",
+   "rom": "Ít-sǎa thɛ̏ɛ!",
+   "fr": "Je suis jalouse !",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ມື້ອື່ນ",
+    "ເຈົ້າ",
+    "ຈະ",
+    "ເຮັດ",
+    "ຫຍັງ"
+   ],
+   "rom": "Mʉ̂ʉ-ʉ̀ʉn jâo já hēt nyǎng?",
+   "fr": "Tu vas faire quoi demain ?"
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຈະ",
+    "ໄປທ່ຽວ"
+   ],
+   "rom": "Khɔ̂ɔy já pǎy-thìaw.",
+   "fr": "Je vais voyager."
+  },
+  {
+   "tokens": [
+    "ອິດສາ",
+    "ແທ້"
+   ],
+   "rom": "Ít-sǎa thɛ̏ɛ!",
+   "fr": "Je suis jalouse !"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ມື້ອື່ນ",
+   "rom": "Mʉ̂ʉ-ʉ̀ʉn",
+   "fr": "demain"
+  },
+  {
+   "lao": "ອາທິດໜ້າ",
+   "rom": "Ǎa-thīt-nâa",
+   "fr": "la semaine prochaine"
+  },
+  {
+   "lao": "ປີໜ້າ",
+   "rom": "Pǐi-nâa",
+   "fr": "l'année prochaine"
+  },
+  {
+   "lao": "ຈະ",
+   "rom": "Já",
+   "fr": "(futur) aller faire"
+  },
+  {
+   "lao": "ຫຼິ້ນບານ",
+   "rom": "Lîn bǎan",
+   "fr": "jouer au foot"
+  },
+  {
+   "lao": "ໄປທ່ຽວ",
+   "rom": "Pǎy-thìaw",
+   "fr": "se promener, voyager"
+  },
+  {
+   "lao": "ອິດສາ",
+   "rom": "Ít-sǎa",
+   "fr": "jaloux, envieux"
+  },
+  {
+   "lao": "ແຜນ",
+   "rom": "Phɛ̌ɛn",
+   "fr": "projet, plan"
+  }
+ ],
+ "sounds": {
+  "ແລ້ວ": "Lɛ̏ɛw",
+  "ບອກ": "Bɔ̏ɔk",
+  "ສວນ": "Sǔan",
+  "ຈັກປີ": "Ják pǐi",
+  "ມື້ອື່ນເຈົ້າຈະເຮັດຫຍັງ": "Mʉ̂ʉ-ʉ̀ʉn jâo já hēt nyǎng?",
+  "ຂ້ອຍຈະໄປຫຼິ້ນບານກັບໝູ່": "Khɔ̂ɔy já pǎy lîn bǎan kǎp mùu.",
+  "ແລ້ວອາທິດໜ້າເດ": "Lɛ̏ɛw ǎa-thīt-nâa dě?",
+  "ຈະໄປທ່ຽວຫຼວງພະບາງ": "Já pǎy thìaw lǔang-phā-báang.",
+  "ອິດສາແທ້": "Ít-sǎa thɛ̏ɛ!",
+  "ມື້ອື່ນ": "mʉ̂ʉ-ʉ̀ʉn",
+  "ອາທິດໜ້າ": "Ǎa-thīt-nâa.",
+  "ປີໜ້າ": "Pǐi-nâa",
+  "ຈະ": "já",
+  "ຫຼິ້ນບານ": "Lîn bǎan",
+  "ໄປທ່ຽວ": "pǎy-thìaw",
+  "ອິດສາ": "ít-sǎa",
+  "ແຜນ": "Phɛ̌ɛn",
+  "ຂ້ອຍຈະໄປ": "Khɔ̂ɔy já pǎy",
+  "ມື້ອື່ນຈະຝົນຕົກ": "Mʉ̂ʉ-ʉ̀ʉn já fǒn tók",
+  "ເຈົ້າຈະເຮັດຫຍັງ": "Jâo já hēt nyǎng?",
+  "ຂ້ອຍຈະໄປທ່ຽວ": "Khɔ̂ɔy já pǎy-thìaw.",
+  "ເຈົ້າ": "jâo",
+  "ເຮັດ": "hēt",
+  "ຫຍັງ": "nyǎng",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ແທ້": "thɛ̏ɛ"
+ },
+ "suivi": "LEÇON : 42 — Partie D (Raconter et organiser, A2) · Demain\nOBJECTIF : Annoncer tes projets pour demain et le week-end.\nNOTION : le futur avec ຈະ\nVOCAB : Mʉ̂ʉ-ʉ̀ʉn, Ǎa-thīt-nâa, Pǐi-nâa, Já, Lîn bǎan, Pǎy-thìaw, Ít-sǎa, Phɛ̌ɛn\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 43 — En ce moment"
+}

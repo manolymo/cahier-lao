@@ -1,0 +1,468 @@
+{
+ "num": 56,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Savoir, pouvoir, devoir",
+ "objective": "Dire ce que tu sais faire, peux faire ou dois faire.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>souvent <small class=\"muted\">(leçon 55)</small></li><li>saison chaude <small class=\"muted\">(leçon 53)</small></li><li>plus… (que) <small class=\"muted\">(leçon 49)</small></li><li>la semaine prochaine <small class=\"muted\">(leçon 42)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ເລື້ອຍໆ</span> <span class=\"rom\">Lʉ̂ay-lʉ̂ay</span> · souvent</li><li><span class=\"lo\">ລະດູຮ້ອນ</span> <span class=\"rom\">Lā-dǔu-hȍɔn</span> · saison chaude</li><li><span class=\"lo\">ກວ່າ</span> <span class=\"rom\">Kwàa</span> · plus… (que)</li><li><span class=\"lo\">ອາທິດໜ້າ</span> <span class=\"rom\">Ǎa-thīt-nâa</span> · la semaine prochaine</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Dire ce que tu sais faire, peux faire ou dois faire.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara apprend à conduire une moto.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ເອື້ອຍຂີ່ລົດຈັກເປັນບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຍັງບໍ່ເປັນ</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຕ້ອງຮຽນເດີ ຢູ່ລາວຕ້ອງຂີ່ເປັນ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ມື້ອື່ນສອນຂ້ອຍໄດ້ບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ໄດ້ສະບາຍ!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Ʉ̂ay khìi lōt-ják pěn bɔ̌ɔ?</span><br><span class=\"rom\">Nyáng bɔ̀ɔ pěn.</span><br><span class=\"rom\">Tâɔng hían dɤ̌ɤ. Yùu láaw tâɔng khìi pěn.</span><br><span class=\"rom\">Mʉ̂ʉ-ʉ̀ʉn sɔ̌ɔn khɔ̂ɔy dâay bɔ̌ɔ?</span><br><span class=\"rom\">Dâay sā-bǎay!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Kèo</b> — Tu sais conduire une moto ?<br><b>Clara</b> — Pas encore.<br><b>Kèo</b> — Il faut apprendre. Au Laos, il faut savoir en conduire.<br><b>Clara</b> — Tu peux m&#x27;apprendre demain ?<br><b>Kèo</b> — Bien sûr, sans problème !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Clara sait-elle conduire une moto ?</li><li>Que propose-t-elle ?</li></ol><details><summary>Réponses</summary><ol><li>Pas encore.</li><li>Que Kèo lui apprenne demain.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ເປັນ</td><td class=\"rom\">Pěn</td><td>savoir (habileté apprise)</td><td></td></tr><tr><td class=\"lo\">ໄດ້</td><td class=\"rom\">Dâay</td><td>pouvoir</td><td></td></tr><tr><td class=\"lo\">ຕ້ອງ</td><td class=\"rom\">Tâɔng</td><td>devoir, falloir</td><td></td></tr><tr><td class=\"lo\">ສອນ</td><td class=\"rom\">Sɔ̌ɔn</td><td>enseigner</td><td></td></tr><tr><td class=\"lo\">ຂີ່ລົດຈັກ</td><td class=\"rom\">Khìi lōt-ják</td><td>conduire une moto</td><td></td></tr><tr><td class=\"lo\">ໄດ້ສະບາຍ</td><td class=\"rom\">Dâay sā-bǎay</td><td>sans problème</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : ເປັນ, ໄດ້, ຕ້ອງ",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ລອຍນ້ຳເປັນ</span> <span class=\"rom\">Lɔ́ɔy-nȁam pěn</span> = savoir nager</li><li><span class=\"lo\">ມາໄດ້</span> <span class=\"rom\">Máa dâay</span> = pouvoir venir</li><li><span class=\"lo\">ຕ້ອງໄປ</span> <span class=\"rom\">Tâɔng pǎy</span> = devoir y aller</li></ul><p><b>À toi de trouver :</b></p><ol><li>Où se placent ເປັນ et ໄດ້ ? Et ຕ້ອງ ?</li></ol><details><summary>La règle</summary><p>ເປັນ (savoir faire) et ໄດ້ (pouvoir) se placent APRÈS le verbe ; ຕ້ອງ (devoir) AVANT.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> la place de ເປັນ, ໄດ້, ຕ້ອງ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Tu sais conduire une moto ?</li><li>Je dois y aller.</li><li>Tu peux venir ?</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂີ່ລົດຈັກເປັນບໍ?</span> <span class=\"rom\">Khìi lōt-ják pěn bɔ̌ɔ?</span></li><li><span class=\"lo\">ຂ້ອຍຕ້ອງໄປ</span> <span class=\"rom\">Khɔ̂ɔy tâɔng pǎy.</span></li><li><span class=\"lo\">ມາໄດ້ບໍ?</span> <span class=\"rom\">Máa dâay bɔ̌ɔ?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris 3 choses que tu sais faire, 3 que tu peux faire cette semaine, 3 que tu dois faire.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Parle de tes compétences avec un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>9 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l56-v01",
+   "front": "ເປັນ",
+   "back": "Pěn · savoir (habileté apprise)"
+  },
+  {
+   "id": "l56-v02",
+   "front": "ໄດ້",
+   "back": "Dâay · pouvoir"
+  },
+  {
+   "id": "l56-v03",
+   "front": "ຕ້ອງ",
+   "back": "Tâɔng · devoir, falloir"
+  },
+  {
+   "id": "l56-v04",
+   "front": "ສອນ",
+   "back": "Sɔ̌ɔn · enseigner"
+  },
+  {
+   "id": "l56-v05",
+   "front": "ຂີ່ລົດຈັກ",
+   "back": "Khìi lōt-ják · conduire une moto"
+  },
+  {
+   "id": "l56-v06",
+   "front": "ໄດ້ສະບາຍ",
+   "back": "Dâay sā-bǎay · sans problème"
+  },
+  {
+   "id": "l56-p01",
+   "front": "Tu sais conduire une moto ?",
+   "back": "ຂີ່ລົດຈັກເປັນບໍ? · Khìi lōt-ják pěn bɔ̌ɔ?"
+  },
+  {
+   "id": "l56-p02",
+   "front": "Je dois y aller.",
+   "back": "ຂ້ອຍຕ້ອງໄປ · Khɔ̂ɔy tâɔng pǎy."
+  },
+  {
+   "id": "l56-p03",
+   "front": "Tu peux venir ?",
+   "back": "ມາໄດ້ບໍ? · Máa dâay bɔ̌ɔ?"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ເປັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "savoir (habileté apprise)",
+      "enseigner",
+      "devoir, falloir",
+      "pouvoir"
+     ],
+     "answer": "savoir (habileté apprise)",
+     "reveal": "<i>Pěn</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pouvoir",
+      "enseigner",
+      "devoir, falloir",
+      "conduire une moto"
+     ],
+     "answer": "pouvoir",
+     "reveal": "<i>Dâay</i>"
+    },
+    {
+     "audio": [
+      "ຕ້ອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "devoir, falloir",
+      "conduire une moto",
+      "savoir (habileté apprise)",
+      "pouvoir"
+     ],
+     "answer": "devoir, falloir",
+     "reveal": "<i>Tâɔng</i>"
+    },
+    {
+     "audio": [
+      "ສອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "enseigner",
+      "pouvoir",
+      "savoir (habileté apprise)",
+      "sans problème"
+     ],
+     "answer": "enseigner",
+     "reveal": "<i>Sɔ̌ɔn</i>"
+    },
+    {
+     "audio": [
+      "ຂີ່ລົດຈັກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "conduire une moto",
+      "savoir (habileté apprise)",
+      "devoir, falloir",
+      "enseigner"
+     ],
+     "answer": "conduire une moto",
+     "reveal": "<i>Khìi lōt-ják</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້ສະບາຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "sans problème",
+      "savoir (habileté apprise)",
+      "enseigner",
+      "conduire une moto"
+     ],
+     "answer": "sans problème",
+     "reveal": "<i>Dâay sā-bǎay</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເອື້ອຍຂີ່ລົດຈັກເປັນບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu sais conduire une moto ?",
+      "Bien sûr, sans problème !",
+      "Il faut apprendre. Au Laos, il faut savoir en conduire.",
+      "Tu peux m'apprendre demain ?"
+     ],
+     "answer": "Tu sais conduire une moto ?",
+     "reveal": "<i>Ʉ̂ay khìi lōt-ják pěn bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຍັງບໍ່ເປັນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Pas encore.",
+      "Bien sûr, sans problème !",
+      "Tu peux m'apprendre demain ?",
+      "Tu sais conduire une moto ?"
+     ],
+     "answer": "Pas encore.",
+     "reveal": "<i>Nyáng bɔ̀ɔ pěn.</i>"
+    },
+    {
+     "audio": [
+      "ຕ້ອງຮຽນເດີ ຢູ່ລາວຕ້ອງຂີ່ເປັນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Il faut apprendre. Au Laos, il faut savoir en conduire.",
+      "Bien sûr, sans problème !",
+      "Tu peux m'apprendre demain ?",
+      "Pas encore."
+     ],
+     "answer": "Il faut apprendre. Au Laos, il faut savoir en conduire.",
+     "reveal": "<i>Tâɔng hían dɤ̌ɤ. Yùu láaw tâɔng khìi pěn.</i>"
+    },
+    {
+     "audio": [
+      "ມື້ອື່ນສອນຂ້ອຍໄດ້ບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu peux m'apprendre demain ?",
+      "Tu sais conduire une moto ?",
+      "Il faut apprendre. Au Laos, il faut savoir en conduire.",
+      "Bien sûr, sans problème !"
+     ],
+     "answer": "Tu peux m'apprendre demain ?",
+     "reveal": "<i>Mʉ̂ʉ-ʉ̀ʉn sɔ̌ɔn khɔ̂ɔy dâay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້ສະບາຍ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Bien sûr, sans problème !",
+      "Il faut apprendre. Au Laos, il faut savoir en conduire.",
+      "Pas encore.",
+      "Tu sais conduire une moto ?"
+     ],
+     "answer": "Bien sûr, sans problème !",
+     "reveal": "<i>Dâay sā-bǎay!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂີ່ລົດຈັກເປັນບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tu sais conduire une moto ?",
+      "Tu peux venir ?",
+      "Je dois y aller."
+     ],
+     "answer": "Tu sais conduire une moto ?",
+     "reveal": "<i>Khìi lōt-ják pěn bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຕ້ອງໄປ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je dois y aller.",
+      "Tu peux venir ?",
+      "Tu sais conduire une moto ?"
+     ],
+     "answer": "Je dois y aller.",
+     "reveal": "<i>Khɔ̂ɔy tâɔng pǎy.</i>"
+    },
+    {
+     "audio": [
+      "ມາໄດ້ບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tu peux venir ?",
+      "Je dois y aller.",
+      "Tu sais conduire une moto ?"
+     ],
+     "answer": "Tu peux venir ?",
+     "reveal": "<i>Máa dâay bɔ̌ɔ?</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ເປັນ",
+   "rom": "Pěn",
+   "fr": "savoir (habileté apprise)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄດ້",
+   "rom": "Dâay",
+   "fr": "pouvoir",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕ້ອງ",
+   "rom": "Tâɔng",
+   "fr": "devoir, falloir",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສອນ",
+   "rom": "Sɔ̌ɔn",
+   "fr": "enseigner",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂີ່ລົດຈັກ",
+   "rom": "Khìi lōt-ják",
+   "fr": "conduire une moto",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄດ້ສະບາຍ",
+   "rom": "Dâay sā-bǎay",
+   "fr": "sans problème",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂີ່ລົດຈັກເປັນບໍ?",
+   "rom": "Khìi lōt-ják pěn bɔ̌ɔ?",
+   "fr": "Tu sais conduire une moto ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຕ້ອງໄປ",
+   "rom": "Khɔ̂ɔy tâɔng pǎy.",
+   "fr": "Je dois y aller.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມາໄດ້ບໍ?",
+   "rom": "Máa dâay bɔ̌ɔ?",
+   "fr": "Tu peux venir ?",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂີ່",
+    "ລົດຈັກ",
+    "ເປັນ",
+    "ບໍ"
+   ],
+   "rom": "Khìi lōt-ják pěn bɔ̌ɔ?",
+   "fr": "Tu sais conduire une moto ?"
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຕ້ອງ",
+    "ໄປ"
+   ],
+   "rom": "Khɔ̂ɔy tâɔng pǎy.",
+   "fr": "Je dois y aller."
+  },
+  {
+   "tokens": [
+    "ມາ",
+    "ໄດ້",
+    "ບໍ"
+   ],
+   "rom": "Máa dâay bɔ̌ɔ?",
+   "fr": "Tu peux venir ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ເປັນ",
+   "rom": "Pěn",
+   "fr": "savoir (habileté apprise)"
+  },
+  {
+   "lao": "ໄດ້",
+   "rom": "Dâay",
+   "fr": "pouvoir"
+  },
+  {
+   "lao": "ຕ້ອງ",
+   "rom": "Tâɔng",
+   "fr": "devoir, falloir"
+  },
+  {
+   "lao": "ສອນ",
+   "rom": "Sɔ̌ɔn",
+   "fr": "enseigner"
+  },
+  {
+   "lao": "ຂີ່ລົດຈັກ",
+   "rom": "Khìi lōt-ják",
+   "fr": "conduire une moto"
+  },
+  {
+   "lao": "ໄດ້ສະບາຍ",
+   "rom": "Dâay sā-bǎay",
+   "fr": "sans problème"
+  }
+ ],
+ "sounds": {
+  "ເລື້ອຍໆ": "Lʉ̂ay-lʉ̂ay",
+  "ລະດູຮ້ອນ": "Lā-dǔu-hȍɔn",
+  "ກວ່າ": "Kwàa",
+  "ອາທິດໜ້າ": "Ǎa-thīt-nâa",
+  "ເອື້ອຍຂີ່ລົດຈັກເປັນບໍ": "Ʉ̂ay khìi lōt-ják pěn bɔ̌ɔ?",
+  "ຍັງບໍ່ເປັນ": "Nyáng bɔ̀ɔ pěn.",
+  "ຕ້ອງຮຽນເດີ ຢູ່ລາວຕ້ອງຂີ່ເປັນ": "Tâɔng hían dɤ̌ɤ. Yùu láaw tâɔng khìi pěn.",
+  "ມື້ອື່ນສອນຂ້ອຍໄດ້ບໍ": "Mʉ̂ʉ-ʉ̀ʉn sɔ̌ɔn khɔ̂ɔy dâay bɔ̌ɔ?",
+  "ໄດ້ສະບາຍ": "Dâay sā-bǎay",
+  "ເປັນ": "pěn",
+  "ໄດ້": "dâay",
+  "ຕ້ອງ": "tâɔng",
+  "ສອນ": "Sɔ̌ɔn",
+  "ຂີ່ລົດຈັກ": "Khìi lōt-ják",
+  "ລອຍນ້ຳເປັນ": "Lɔ́ɔy-nȁam pěn",
+  "ມາໄດ້": "Máa dâay",
+  "ຕ້ອງໄປ": "Tâɔng pǎy",
+  "ຂີ່ລົດຈັກເປັນບໍ": "Khìi lōt-ják pěn bɔ̌ɔ?",
+  "ຂ້ອຍຕ້ອງໄປ": "Khɔ̂ɔy tâɔng pǎy.",
+  "ມາໄດ້ບໍ": "Máa dâay bɔ̌ɔ?",
+  "ຂີ່": "khìi",
+  "ລົດຈັກ": "lōt-ják",
+  "ບໍ": "bɔ̌ɔ",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ໄປ": "pǎy",
+  "ມາ": "máa"
+ },
+ "suivi": "LEÇON : 56 — Partie D (Raconter et organiser, A2) · Savoir, pouvoir, devoir\nOBJECTIF : Dire ce que tu sais faire, peux faire ou dois faire.\nNOTION : ເປັນ, ໄດ້, ຕ້ອງ\nVOCAB : Pěn, Dâay, Tâɔng, Sɔ̌ɔn, Khìi lōt-ják, Dâay sā-bǎay\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 57 — Voyager au Laos"
+}

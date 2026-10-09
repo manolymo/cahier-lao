@@ -1,0 +1,460 @@
+{
+ "num": 48,
+ "phase": "Partie D · Raconter et organiser",
+ "title": "Au téléphone (2)",
+ "objective": "Mener un appel complet et rapporter ce qu'on t'a dit.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>appeler pour prévenir <small class=\"muted\">(leçon 47)</small></li><li>parlez lentement, svp <small class=\"muted\">(leçon 45)</small></li><li>amusant, sympa <small class=\"muted\">(leçon 41)</small></li><li>livre, cahier <small class=\"muted\">(leçon 34)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ໂທບອກ</span> <span class=\"rom\">Thóo bɔ̏ɔk</span> · appeler pour prévenir</li><li><span class=\"lo\">ເວົ້າຊ້າໆແດ່</span> <span class=\"rom\">Wȁo sȁa-sȁa dɛ̀ɛ</span> · parlez lentement, svp</li><li><span class=\"lo\">ມ່ວນ</span> <span class=\"rom\">Mūan</span> · amusant, sympa</li><li><span class=\"lo\">ປຶ້ມ</span> <span class=\"rom\">Pɤ̂m</span> · livre, cahier</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Mener un appel complet et rapporter ce qu&#x27;on t&#x27;a dit.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara rapporte un appel à Noy.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ແມ່ໂທມາວ່າແນວໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ລາວບອກວ່າຈະກັບມາຊ້າ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເປັນຫຍັງ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ລາວວ່າລົດຕິດຫຼາຍ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Mɛ̄ɛ thóo máa wāa nɛ́ɛw-dǎy?</span><br><span class=\"rom\">Láaw bɔ̏ɔk wāa já kǎp máa sȁa.</span><br><span class=\"rom\">Pěn nyǎng?</span><br><span class=\"rom\">Láaw wāa lōt tít lǎay.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Maman a appelé, elle a dit quoi ?<br><b>Clara</b> — Elle a dit qu&#x27;elle rentrerait tard.<br><b>Noy</b> — Pourquoi ?<br><b>Clara</b> — Elle dit qu&#x27;il y a beaucoup de bouchons.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que dit Mme Boua ?</li></ol><details><summary>Réponses</summary><ol><li>Qu&#x27;elle rentrera tard à cause des bouchons.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ວ່າ</td><td class=\"rom\">Wāa</td><td>que (discours rapporté)</td><td></td></tr><tr><td class=\"lo\">ບອກວ່າ</td><td class=\"rom\">Bɔ̏ɔk wāa</td><td>dire que</td><td></td></tr><tr><td class=\"lo\">ຖາມວ່າ</td><td class=\"rom\">Thǎam wāa</td><td>demander si</td><td></td></tr><tr><td class=\"lo\">ລົດຕິດ</td><td class=\"rom\">Lōt tít</td><td>embouteillage</td><td></td></tr><tr><td class=\"lo\">ຊ້າ</td><td class=\"rom\">Sȁa</td><td>tard, en retard</td><td></td></tr><tr><td class=\"lo\">ຝາກບອກ</td><td class=\"rom\">Fȁak bɔ̏ɔk</td><td>transmettre un message</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : le discours rapporté avec ວ່າ",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ລາວບອກວ່າ</span> <span class=\"rom\">Láaw bɔ̏ɔk wāa…</span> = il/elle a dit que…</li><li><span class=\"lo\">ຂ້ອຍຄິດວ່າ</span> <span class=\"rom\">Khɔ̂ɔy khīt wāa…</span> = je pense que…</li></ul><p><b>À toi de trouver :</b></p><ol><li>Que fait ວ່າ dans ces phrases ?</li></ol><details><summary>La règle</summary><p>ວ່າ introduit ce que quelqu'un dit, pense ou demande, comme « que » en français.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> ວ່າ après les verbes de parole.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Elle a dit qu&#x27;elle rentrerait tard.</li><li>Il a demandé si tu viens.</li><li>Il y a des bouchons.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ລາວບອກວ່າຈະກັບມາຊ້າ</span> <span class=\"rom\">Láaw bɔ̏ɔk wāa já kǎp máa sȁa.</span></li><li><span class=\"lo\">ລາວຖາມວ່າເຈົ້າມາບໍ</span> <span class=\"rom\">Láaw thǎam wāa jâo máa bɔ̌ɔ.</span></li><li><span class=\"lo\">ລົດຕິດ</span> <span class=\"rom\">Lōt tít.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Rapporte en lao 3 choses qu&#x27;on t&#x27;a dites aujourd&#x27;hui.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Après un appel avec un natif, raconte-le à quelqu&#x27;un d&#x27;autre en lao.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>9 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l48-v01",
+   "front": "ວ່າ",
+   "back": "Wāa · que (discours rapporté)"
+  },
+  {
+   "id": "l48-v02",
+   "front": "ບອກວ່າ",
+   "back": "Bɔ̏ɔk wāa · dire que"
+  },
+  {
+   "id": "l48-v03",
+   "front": "ຖາມວ່າ",
+   "back": "Thǎam wāa · demander si"
+  },
+  {
+   "id": "l48-v04",
+   "front": "ລົດຕິດ",
+   "back": "Lōt tít · embouteillage"
+  },
+  {
+   "id": "l48-v05",
+   "front": "ຊ້າ",
+   "back": "Sȁa · tard, en retard"
+  },
+  {
+   "id": "l48-v06",
+   "front": "ຝາກບອກ",
+   "back": "Fȁak bɔ̏ɔk · transmettre un message"
+  },
+  {
+   "id": "l48-p01",
+   "front": "Elle a dit qu'elle rentrerait tard.",
+   "back": "ລາວບອກວ່າຈະກັບມາຊ້າ · Láaw bɔ̏ɔk wāa já kǎp máa sȁa."
+  },
+  {
+   "id": "l48-p02",
+   "front": "Il a demandé si tu viens.",
+   "back": "ລາວຖາມວ່າເຈົ້າມາບໍ · Láaw thǎam wāa jâo máa bɔ̌ɔ."
+  },
+  {
+   "id": "l48-p03",
+   "front": "Il y a des bouchons.",
+   "back": "ລົດຕິດ · Lōt tít."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ວ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "que (discours rapporté)",
+      "demander si",
+      "embouteillage",
+      "transmettre un message"
+     ],
+     "answer": "que (discours rapporté)",
+     "reveal": "<i>Wāa</i>"
+    },
+    {
+     "audio": [
+      "ບອກວ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "dire que",
+      "embouteillage",
+      "transmettre un message",
+      "que (discours rapporté)"
+     ],
+     "answer": "dire que",
+     "reveal": "<i>Bɔ̏ɔk wāa</i>"
+    },
+    {
+     "audio": [
+      "ຖາມວ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "demander si",
+      "que (discours rapporté)",
+      "embouteillage",
+      "tard, en retard"
+     ],
+     "answer": "demander si",
+     "reveal": "<i>Thǎam wāa</i>"
+    },
+    {
+     "audio": [
+      "ລົດຕິດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "embouteillage",
+      "que (discours rapporté)",
+      "tard, en retard",
+      "dire que"
+     ],
+     "answer": "embouteillage",
+     "reveal": "<i>Lōt tít</i>"
+    },
+    {
+     "audio": [
+      "ຊ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "tard, en retard",
+      "demander si",
+      "dire que",
+      "transmettre un message"
+     ],
+     "answer": "tard, en retard",
+     "reveal": "<i>Sȁa</i>"
+    },
+    {
+     "audio": [
+      "ຝາກບອກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "transmettre un message",
+      "que (discours rapporté)",
+      "demander si",
+      "dire que"
+     ],
+     "answer": "transmettre un message",
+     "reveal": "<i>Fȁak bɔ̏ɔk</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ແມ່ໂທມາວ່າແນວໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Maman a appelé, elle a dit quoi ?",
+      "Pourquoi ?",
+      "Elle a dit qu'elle rentrerait tard.",
+      "Elle dit qu'il y a beaucoup de bouchons."
+     ],
+     "answer": "Maman a appelé, elle a dit quoi ?",
+     "reveal": "<i>Mɛ̄ɛ thóo máa wāa nɛ́ɛw-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ລາວບອກວ່າຈະກັບມາຊ້າ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Elle a dit qu'elle rentrerait tard.",
+      "Pourquoi ?",
+      "Elle dit qu'il y a beaucoup de bouchons.",
+      "Maman a appelé, elle a dit quoi ?"
+     ],
+     "answer": "Elle a dit qu'elle rentrerait tard.",
+     "reveal": "<i>Láaw bɔ̏ɔk wāa já kǎp máa sȁa.</i>"
+    },
+    {
+     "audio": [
+      "ເປັນຫຍັງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Pourquoi ?",
+      "Elle dit qu'il y a beaucoup de bouchons.",
+      "Maman a appelé, elle a dit quoi ?",
+      "Elle a dit qu'elle rentrerait tard."
+     ],
+     "answer": "Pourquoi ?",
+     "reveal": "<i>Pěn nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ລາວວ່າລົດຕິດຫຼາຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Elle dit qu'il y a beaucoup de bouchons.",
+      "Elle a dit qu'elle rentrerait tard.",
+      "Pourquoi ?",
+      "Maman a appelé, elle a dit quoi ?"
+     ],
+     "answer": "Elle dit qu'il y a beaucoup de bouchons.",
+     "reveal": "<i>Láaw wāa lōt tít lǎay.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ລາວບອກວ່າຈະກັບມາຊ້າ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Elle a dit qu'elle rentrerait tard.",
+      "Il a demandé si tu viens.",
+      "Il y a des bouchons."
+     ],
+     "answer": "Elle a dit qu'elle rentrerait tard.",
+     "reveal": "<i>Láaw bɔ̏ɔk wāa já kǎp máa sȁa.</i>"
+    },
+    {
+     "audio": [
+      "ລາວຖາມວ່າເຈົ້າມາບໍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il a demandé si tu viens.",
+      "Il y a des bouchons.",
+      "Elle a dit qu'elle rentrerait tard."
+     ],
+     "answer": "Il a demandé si tu viens.",
+     "reveal": "<i>Láaw thǎam wāa jâo máa bɔ̌ɔ.</i>"
+    },
+    {
+     "audio": [
+      "ລົດຕິດ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il y a des bouchons.",
+      "Elle a dit qu'elle rentrerait tard.",
+      "Il a demandé si tu viens."
+     ],
+     "answer": "Il y a des bouchons.",
+     "reveal": "<i>Lōt tít.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ວ່າ",
+   "rom": "Wāa",
+   "fr": "que (discours rapporté)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບອກວ່າ",
+   "rom": "Bɔ̏ɔk wāa",
+   "fr": "dire que",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຖາມວ່າ",
+   "rom": "Thǎam wāa",
+   "fr": "demander si",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລົດຕິດ",
+   "rom": "Lōt tít",
+   "fr": "embouteillage",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊ້າ",
+   "rom": "Sȁa",
+   "fr": "tard, en retard",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຝາກບອກ",
+   "rom": "Fȁak bɔ̏ɔk",
+   "fr": "transmettre un message",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລາວບອກວ່າຈະກັບມາຊ້າ",
+   "rom": "Láaw bɔ̏ɔk wāa já kǎp máa sȁa.",
+   "fr": "Elle a dit qu'elle rentrerait tard.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລາວຖາມວ່າເຈົ້າມາບໍ",
+   "rom": "Láaw thǎam wāa jâo máa bɔ̌ɔ.",
+   "fr": "Il a demandé si tu viens.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລົດຕິດ",
+   "rom": "Lōt tít.",
+   "fr": "Il y a des bouchons.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ລາວ",
+    "ບອກ",
+    "ວ່າ",
+    "ຈະ",
+    "ກັບ",
+    "ມາ",
+    "ຊ້າ"
+   ],
+   "rom": "Láaw bɔ̏ɔk wāa já kǎp máa sȁa.",
+   "fr": "Elle a dit qu'elle rentrerait tard."
+  },
+  {
+   "tokens": [
+    "ລາວ",
+    "ຖາມ",
+    "ວ່າ",
+    "ເຈົ້າ",
+    "ມາ",
+    "ບໍ"
+   ],
+   "rom": "Láaw thǎam wāa jâo máa bɔ̌ɔ.",
+   "fr": "Il a demandé si tu viens."
+  },
+  {
+   "tokens": [
+    "ລົດ",
+    "ຕິດ"
+   ],
+   "rom": "Lōt tít.",
+   "fr": "Il y a des bouchons."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ວ່າ",
+   "rom": "Wāa",
+   "fr": "que (discours rapporté)"
+  },
+  {
+   "lao": "ບອກວ່າ",
+   "rom": "Bɔ̏ɔk wāa",
+   "fr": "dire que"
+  },
+  {
+   "lao": "ຖາມວ່າ",
+   "rom": "Thǎam wāa",
+   "fr": "demander si"
+  },
+  {
+   "lao": "ລົດຕິດ",
+   "rom": "Lōt tít",
+   "fr": "embouteillage"
+  },
+  {
+   "lao": "ຊ້າ",
+   "rom": "Sȁa",
+   "fr": "tard, en retard"
+  },
+  {
+   "lao": "ຝາກບອກ",
+   "rom": "Fȁak bɔ̏ɔk",
+   "fr": "transmettre un message"
+  }
+ ],
+ "sounds": {
+  "ໂທບອກ": "Thóo bɔ̏ɔk",
+  "ເວົ້າຊ້າໆແດ່": "Wȁo sȁa-sȁa dɛ̀ɛ",
+  "ມ່ວນ": "Mūan",
+  "ປຶ້ມ": "Pɤ̂m",
+  "ແມ່ໂທມາວ່າແນວໃດ": "Mɛ̄ɛ thóo máa wāa nɛ́ɛw-dǎy?",
+  "ລາວບອກວ່າຈະກັບມາຊ້າ": "Láaw bɔ̏ɔk wāa já kǎp máa sȁa.",
+  "ເປັນຫຍັງ": "Pěn nyǎng?",
+  "ລາວວ່າລົດຕິດຫຼາຍ": "Láaw wāa lōt tít lǎay.",
+  "ວ່າ": "wāa",
+  "ບອກວ່າ": "Bɔ̏ɔk wāa",
+  "ຖາມວ່າ": "Thǎam wāa",
+  "ລົດຕິດ": "Lōt tít.",
+  "ຊ້າ": "sȁa",
+  "ຝາກບອກ": "Fȁak bɔ̏ɔk",
+  "ລາວບອກວ່າ": "Láaw bɔ̏ɔk wāa…",
+  "ຂ້ອຍຄິດວ່າ": "Khɔ̂ɔy khīt wāa…",
+  "ລາວຖາມວ່າເຈົ້າມາບໍ": "Láaw thǎam wāa jâo máa bɔ̌ɔ.",
+  "ລາວ": "láaw",
+  "ບອກ": "bɔ̏ɔk",
+  "ຈະ": "já",
+  "ກັບ": "kǎp",
+  "ມາ": "máa",
+  "ຖາມ": "thǎam",
+  "ເຈົ້າ": "jâo",
+  "ບໍ": "bɔ̌ɔ",
+  "ລົດ": "lōt",
+  "ຕິດ": "tít"
+ },
+ "suivi": "LEÇON : 48 — Partie D (Raconter et organiser, A2) · Au téléphone (2)\nOBJECTIF : Mener un appel complet et rapporter ce qu'on t'a dit.\nNOTION : le discours rapporté avec ວ່າ\nVOCAB : Wāa, Bɔ̏ɔk wāa, Thǎam wāa, Lōt tít, Sȁa, Fȁak bɔ̏ɔk\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 49 — Au marché"
+}
