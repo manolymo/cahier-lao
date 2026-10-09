@@ -92,6 +92,16 @@ p { margin: .5em 0; }
 .lrow:hover { border-color: var(--indigo); }
 .lnum { font: 700 1.3rem var(--f-display); color: var(--indigo); font-variant-numeric: tabular-nums; }
 .ltitle { font-weight: 600; min-width: 0; } .ltitle small { display: block; font-weight: 400; color: var(--muted); font-size: .85rem; }
+.part { display: grid; gap: 10px; margin-top: 10px; }
+.part-head { padding: 6px 2px 2px; border-top: 2px solid var(--line); padding-top: 14px; }
+.lplan { background: var(--surface); border: 1px dashed var(--line); border-radius: var(--r); padding: 0; margin: 0; }
+.lplan summary { display: grid; grid-template-columns: 3rem 1fr auto; gap: 12px; align-items: center; padding: 12px 14px; cursor: pointer; list-style: none; color: var(--ink); font-weight: 400; }
+.lplan summary::-webkit-details-marker { display: none; }
+.lplan .lnum { color: var(--muted); }
+.lplan dl { margin: 0; padding: 0 14px 14px calc(3rem + 26px); display: grid; gap: 2px; font-size: .9rem; }
+.lplan dt { font: 600 .7rem var(--f-body); text-transform: uppercase; letter-spacing: .07em; color: var(--accent); margin-top: 6px; }
+.lplan dd { margin: 0; }
+@media (max-width: 480px) { .lplan dl { padding-left: 14px; } }
 .toc { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 4px; margin: 12px 0 0; scrollbar-width: thin; }
 .toc a { flex: none; font-size: .8rem; text-decoration: none; color: var(--muted); border: 1px solid var(--line); border-radius: 99px; padding: 3px 11px; }
 .sec { padding-top: 22px; margin-top: 20px; border-top: 1px dashed var(--line); scroll-margin-top: 80px; }

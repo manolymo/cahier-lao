@@ -1,0 +1,1047 @@
+{
+ "parts": [
+  {
+   "key": "A",
+   "title": "Fondations",
+   "level": "A0",
+   "goal": "Entendre et produire tous les sons du lao avant d'apprendre à les écrire en détail.",
+   "lessons": [
+    {
+     "num": 0,
+     "title": "L'alphabet lao",
+     "task": "Reconnaître à l'oreille les 27 consonnes et les voyelles de base",
+     "notion": "Les 27 consonnes avec leur mot-clé, réparties en 3 classes ; voyelles courtes et longues autour de ອ",
+     "vocab": "Les mots-clés de l'alphabet"
+    },
+    {
+     "num": 1,
+     "title": "Les 6 tons · Saluer",
+     "task": "Saluer, remercier, s'excuser",
+     "notion": "Les 6 tons de Vientiane, paires minimales khaa",
+     "vocab": "ສະບາຍດີ, ຂອບໃຈ, ຂໍໂທດ, ບໍ່ເປັນຫຍັງ, ເຈົ້າ / ແມ່ນ"
+    },
+    {
+     "num": 2,
+     "title": "Voyelles courtes et longues · Se présenter",
+     "task": "Dire son prénom, demander celui de l'autre",
+     "notion": "La durée des voyelles change le sens ; « je m'appelle »",
+     "vocab": "ຂ້ອຍ, ເຈົ້າ, ຊື່, ແມ່ນຫຍັງ ; enchanté"
+    },
+    {
+     "num": 3,
+     "title": "Consonnes aspirées · D'où viens-tu ?",
+     "task": "Dire sa nationalité et où on habite",
+     "notion": "k/kh, p/ph, t/th ; « personne » devant un pays",
+     "vocab": "ຄົນລາວ, ຄົນຝຣັ່ງ, ປະເທດ, ຢູ່"
+    },
+    {
+     "num": 4,
+     "title": "ng, ny et les pronoms",
+     "task": "Parler de soi et d'un tiers, poliment ou entre amis",
+     "notion": "Pronoms personnels et leur registre ; particules de politesse",
+     "vocab": "ຂ້ອຍ, ເຈົ້າ, ລາວ, ພວກເຮົາ, ເດີ [À VÉRIFIER]"
+    },
+    {
+     "num": 5,
+     "title": "Bilan sons et tons · Questions oui/non",
+     "task": "Tenir un échange de 2 minutes avec un natif",
+     "notion": "Question avec ບໍ, ແມ່ນບໍ, ແລ້ວບໍ ; négation ບໍ່",
+     "vocab": "ແມ່ນ, ບໍ່ແມ່ນ, ແລ້ວ, ຍັງ"
+    }
+   ]
+  },
+  {
+   "key": "B",
+   "title": "Lire et écrire",
+   "level": "A0→A1",
+   "goal": "Lire et écrire n'importe quel mot, et savoir pourquoi il a tel ton.",
+   "lessons": [
+    {
+     "num": 6,
+     "title": "Consonnes de classe moyenne (1)",
+     "task": "Lire et écrire 10 mots connus",
+     "notion": "ກ ຈ ດ ຕ + voyelles າ ີ ູ ; ordre des traits",
+     "vocab": "Objets de la maison"
+    },
+    {
+     "num": 7,
+     "title": "Consonnes de classe moyenne (2)",
+     "task": "Écrire son prénom en lao",
+     "notion": "ບ ປ ຢ ອ ; ອ comme support de voyelle",
+     "vocab": "Prénoms lao courants"
+    },
+    {
+     "num": 8,
+     "title": "Consonnes de classe haute",
+     "task": "Lire des étiquettes simples",
+     "notion": "ຂ ສ ຖ ຜ ຝ ຫ",
+     "vocab": "Les boissons"
+    },
+    {
+     "num": 9,
+     "title": "Consonnes de classe basse (1)",
+     "task": "Lire des noms de plats",
+     "notion": "ຄ ງ ຊ ຍ ທ ນ ພ",
+     "vocab": "La nourriture"
+    },
+    {
+     "num": 10,
+     "title": "Consonnes de classe basse (2)",
+     "task": "Lire des noms de lieux",
+     "notion": "ຟ ມ ຣ ລ ວ ຮ",
+     "vocab": "La ville"
+    },
+    {
+     "num": 11,
+     "title": "Syllabes vivantes et mortes",
+     "task": "Classer des mots selon leur type de syllabe",
+     "notion": "Voyelle longue ou courte + finale sonore ou sourde",
+     "vocab": "Les animaux"
+    },
+    {
+     "num": 12,
+     "title": "Le ton sans marque",
+     "task": "Deviner le ton de mots inconnus",
+     "notion": "Classe de consonne × type de syllabe → ton",
+     "vocab": "Les couleurs"
+    },
+    {
+     "num": 13,
+     "title": "La marque ່",
+     "task": "Lire des phrases du quotidien",
+     "notion": "Effet de ່ selon la classe",
+     "vocab": "Les verbes du quotidien"
+    },
+    {
+     "num": 14,
+     "title": "La marque ້",
+     "task": "Lire un court message",
+     "notion": "Effet de ້ selon la classe ; marques rares ໋ et ໊",
+     "vocab": "Les émotions"
+    },
+    {
+     "num": 15,
+     "title": "Le ຫ muet et les lettres jointes",
+     "task": "Lire des mots en ຜ, ໜ, ໝ, ຫງ, ຫຍ, ຫຼ, ຫວ",
+     "notion": "ຫ qui change la classe d'une consonne basse",
+     "vocab": "La famille"
+    },
+    {
+     "num": 16,
+     "title": "Voyelles composées",
+     "task": "Lire des noms de fruits",
+     "notion": "ເ-ຍ, ເ-ືອ, -ົວ et leurs formes courtes",
+     "vocab": "Les fruits"
+    },
+    {
+     "num": 17,
+     "title": "Voyelles spéciales et signes",
+     "task": "Lire un panneau et un menu",
+     "notion": "ໄ ໃ ເ-ົາ -ຳ ; ໆ (répétition) et ຯ (abréviation)",
+     "vocab": "Au restaurant"
+    },
+    {
+     "num": 18,
+     "title": "Les consonnes finales",
+     "task": "Écrire une liste de courses",
+     "notion": "Les 8 finales et leur prononciation",
+     "vocab": "Les courses"
+    },
+    {
+     "num": 19,
+     "title": "Taper en lao",
+     "task": "Écrire un SMS à un ami",
+     "notion": "Clavier lao, ponctuation, espaces entre les phrases et non entre les mots",
+     "vocab": "Messages"
+    },
+    {
+     "num": 20,
+     "title": "Bilan lecture et écriture",
+     "task": "Lire un texte court à voix haute sans romanisation",
+     "notion": "Révision des règles de ton",
+     "vocab": "Toute la partie"
+    }
+   ]
+  },
+  {
+   "key": "C",
+   "title": "Vie courante",
+   "level": "A1",
+   "goal": "Se débrouiller dans toutes les situations simples du quotidien.",
+   "lessons": [
+    {
+     "num": 21,
+     "title": "Les nombres 0 à 100",
+     "task": "Donner un numéro de téléphone",
+     "notion": "Formation des nombres ; chiffres lao ໑ ໒ ໓",
+     "vocab": "Nombres"
+    },
+    {
+     "num": 22,
+     "title": "Combien ça coûte ?",
+     "task": "Acheter un objet et payer",
+     "notion": "Les grands nombres ; la monnaie (kip)",
+     "vocab": "ເທົ່າໃດ, ແພງ, ຖືກ"
+    },
+    {
+     "num": 23,
+     "title": "Les classificateurs",
+     "task": "Commander « deux cafés, une assiette »",
+     "notion": "Nom + nombre + classificateur",
+     "vocab": "ໂຕ, ຄົນ, ອັນ, ຈອກ, ຈານ [À VÉRIFIER]"
+    },
+    {
+     "num": 24,
+     "title": "Au restaurant",
+     "task": "Commander un repas et demander l'addition",
+     "notion": "Demande polie (ຂໍ…)",
+     "vocab": "Plats courants, ແຊບ, ເຜັດ"
+    },
+    {
+     "num": 25,
+     "title": "Goûts et préférences",
+     "task": "Dire ce qu'on aime ou pas",
+     "notion": "Verbes d'aimer, intensifs (ຫຼາຍ, ແທ້)",
+     "vocab": "Aliments, saveurs"
+    },
+    {
+     "num": 26,
+     "title": "La famille (1)",
+     "task": "Présenter sa famille proche",
+     "notion": "Termes de parenté selon l'âge (aîné ou cadet)",
+     "vocab": "ພໍ່, ແມ່, ອ້າຍ, ເອື້ອຍ, ນ້ອງ"
+    },
+    {
+     "num": 27,
+     "title": "La famille (2)",
+     "task": "Parler de ses grands-parents, oncles et tantes",
+     "notion": "Lignée paternelle et maternelle : des mots différents",
+     "vocab": "ປູ່, ຍ່າ, ຕາ, ຍາຍ [À VÉRIFIER]"
+    },
+    {
+     "num": 28,
+     "title": "L'âge et la hiérarchie",
+     "task": "Demander l'âge et s'adresser correctement à quelqu'un",
+     "notion": "Termes d'adresse (grand frère, tante…) avec des inconnus",
+     "vocab": "ອາຍຸ, ປີ, termes d'adresse"
+    },
+    {
+     "num": 29,
+     "title": "L'heure",
+     "task": "Fixer une heure de rendez-vous",
+     "notion": "Le découpage lao de la journée [À VÉRIFIER]",
+     "vocab": "ໂມງ, ເຊົ້າ, ບ່າຍ, ແລງ"
+    },
+    {
+     "num": 30,
+     "title": "Jours, mois, dates",
+     "task": "Dire sa date de naissance",
+     "notion": "Calendrier ; ordinal avec ທີ",
+     "vocab": "Jours, mois"
+    },
+    {
+     "num": 31,
+     "title": "Où est… ?",
+     "task": "Demander son chemin",
+     "notion": "Prépositions de lieu",
+     "vocab": "ໃສ, ຊ້າຍ, ຂວາ, ກົງໄປ"
+    },
+    {
+     "num": 32,
+     "title": "Les transports",
+     "task": "Prendre un tuk-tuk et négocier",
+     "notion": "Verbes de mouvement (ໄປ, ມາ) en série",
+     "vocab": "Moyens de transport"
+    },
+    {
+     "num": 33,
+     "title": "Ma journée",
+     "task": "Décrire sa routine",
+     "notion": "Verbes en série ; séquence (ແລ້ວ…)",
+     "vocab": "Verbes du quotidien"
+    },
+    {
+     "num": 34,
+     "title": "À qui est-ce ?",
+     "task": "Parler de ses affaires",
+     "notion": "La possession avec ຂອງ",
+     "vocab": "Objets personnels"
+    },
+    {
+     "num": 35,
+     "title": "Décrire",
+     "task": "Décrire une personne et un lieu",
+     "notion": "Adjectifs après le nom ; redoublement",
+     "vocab": "Adjectifs courants"
+    },
+    {
+     "num": 36,
+     "title": "La météo",
+     "task": "Parler du temps qu'il fait",
+     "notion": "Phrases sans sujet",
+     "vocab": "ຝົນ, ຮ້ອນ, ໜາວ"
+    },
+    {
+     "num": 37,
+     "title": "Vêtements et couleurs",
+     "task": "Acheter un vêtement à sa taille",
+     "notion": "Comparaison simple",
+     "vocab": "Vêtements, couleurs"
+    },
+    {
+     "num": 38,
+     "title": "Le corps et la santé",
+     "task": "Dire où on a mal",
+     "notion": "ເຈັບ + partie du corps",
+     "vocab": "Corps, symptômes simples"
+    },
+    {
+     "num": 39,
+     "title": "Au téléphone (1)",
+     "task": "Appeler et laisser un message simple",
+     "notion": "Formules d'appel",
+     "vocab": "Allô, rappeler"
+    },
+    {
+     "num": 40,
+     "title": "Bilan A1",
+     "task": "Test sur les 4 compétences",
+     "notion": "Révision générale",
+     "vocab": "Toute la partie"
+    }
+   ]
+  },
+  {
+   "key": "D",
+   "title": "Raconter et organiser",
+   "level": "A2",
+   "goal": "Sortir du présent, raconter, prévoir, gérer les imprévus.",
+   "lessons": [
+    {
+     "num": 41,
+     "title": "Hier",
+     "task": "Raconter sa journée d'hier",
+     "notion": "Le passé sans conjugaison : ໄດ້, ແລ້ວ, marqueurs de temps",
+     "vocab": "ມື້ວານ, ອາທິດກ່ອນ"
+    },
+    {
+     "num": 42,
+     "title": "Demain",
+     "task": "Annoncer ses projets du week-end",
+     "notion": "Le futur avec ຈະ",
+     "vocab": "ມື້ອື່ນ, ອາທິດໜ້າ"
+    },
+    {
+     "num": 43,
+     "title": "En ce moment",
+     "task": "Dire ce qu'on est en train de faire",
+     "notion": "L'action en cours avec ກຳລັງ",
+     "vocab": "Activités"
+    },
+    {
+     "num": 44,
+     "title": "Tu as déjà… ?",
+     "task": "Parler de ses expériences",
+     "notion": "ເຄີຍ ; « jamais »",
+     "vocab": "Voyages, plats"
+    },
+    {
+     "num": 45,
+     "title": "Stratégies de survie",
+     "task": "Faire répéter, ralentir, reformuler",
+     "notion": "Formules pour demander de l'aide dans la conversation",
+     "vocab": "ເວົ້າຊ້າໆ, ເວົ້າອີກເທື່ອໜຶ່ງ [À VÉRIFIER]"
+    },
+    {
+     "num": 46,
+     "title": "Inviter et répondre",
+     "task": "Inviter, accepter, refuser poliment",
+     "notion": "Proposer avec ກັນ, refuser sans froisser",
+     "vocab": "Sorties"
+    },
+    {
+     "num": 47,
+     "title": "Prendre rendez-vous",
+     "task": "Fixer, déplacer, annuler un rendez-vous",
+     "notion": "Conditions avec ຖ້າ… ກໍ",
+     "vocab": "Agenda"
+    },
+    {
+     "num": 48,
+     "title": "Au téléphone (2)",
+     "task": "Mener un appel complet",
+     "notion": "Discours rapporté simple avec ວ່າ",
+     "vocab": "Appels"
+    },
+    {
+     "num": 49,
+     "title": "Au marché",
+     "task": "Marchander",
+     "notion": "Comparatif ກວ່າ, superlatif ທີ່ສຸດ",
+     "vocab": "Fruits, légumes, quantités"
+    },
+    {
+     "num": 50,
+     "title": "Chez le médecin",
+     "task": "Expliquer ses symptômes et comprendre une consigne",
+     "notion": "Durée (ມາ… ແລ້ວ)",
+     "vocab": "Santé, pharmacie"
+    },
+    {
+     "num": 51,
+     "title": "Le logement",
+     "task": "Décrire et louer un logement",
+     "notion": "Existence avec ມີ",
+     "vocab": "Pièces, meubles"
+    },
+    {
+     "num": 52,
+     "title": "Travail et études",
+     "task": "Parler de son métier",
+     "notion": "Pour, afin de (ເພື່ອ)",
+     "vocab": "Métiers"
+    },
+    {
+     "num": 53,
+     "title": "Pourquoi ? Parce que…",
+     "task": "Justifier un choix",
+     "notion": "Cause : ຍ້ອນ, ເພາະວ່າ",
+     "vocab": "Connecteurs"
+    },
+    {
+     "num": 54,
+     "title": "Mais, alors, ensuite",
+     "task": "Raconter une petite histoire en 5 phrases",
+     "notion": "Enchaîner les idées : ແຕ່, ກໍ, ແລ້ວ",
+     "vocab": "Connecteurs"
+    },
+    {
+     "num": 55,
+     "title": "Les fréquences",
+     "task": "Dire ce qu'on fait souvent, parfois, jamais",
+     "notion": "Adverbes de fréquence",
+     "vocab": "ສະເໝີ, ບາງເທື່ອ"
+    },
+    {
+     "num": 56,
+     "title": "Savoir, pouvoir, devoir",
+     "task": "Dire ce qu'on sait faire ou doit faire",
+     "notion": "ເປັນ, ໄດ້, ຕ້ອງ",
+     "vocab": "Compétences"
+    },
+    {
+     "num": 57,
+     "title": "Voyager au Laos",
+     "task": "Organiser un trajet Vientiane → Luang Prabang",
+     "notion": "Révision des structures du voyage",
+     "vocab": "Bus, hôtel, billets"
+    },
+    {
+     "num": 58,
+     "title": "Les fêtes",
+     "task": "Souhaiter une bonne fête, participer à un baci",
+     "notion": "Formules de vœux",
+     "vocab": "ບຸນປີໃໝ່, ບາສີ"
+    },
+    {
+     "num": 59,
+     "title": "Cuisiner",
+     "task": "Expliquer une recette (larb, salade de papaye)",
+     "notion": "L'impératif et l'ordre des étapes",
+     "vocab": "Ustensiles, gestes"
+    },
+    {
+     "num": 60,
+     "title": "Les sentiments",
+     "task": "Dire comment on se sent et pourquoi",
+     "notion": "Verbes d'état avec ໃຈ",
+     "vocab": "ດີໃຈ, ເສຍໃຈ, ຄິດຮອດ"
+    },
+    {
+     "num": 61,
+     "title": "Familier ou poli ?",
+     "task": "Adapter son message à un ami ou à un aîné",
+     "notion": "Registres ; mots très familiers à connaître sans les utiliser",
+     "vocab": "Pronoms familiers"
+    },
+    {
+     "num": 62,
+     "title": "Les particules de fin de phrase",
+     "task": "Adoucir, insister, se plaindre",
+     "notion": "ເດີ, ເນາະ, ເດ້, ແຫຼະ [À VÉRIFIER]",
+     "vocab": "Particules"
+    },
+    {
+     "num": 63,
+     "title": "Écrire un message",
+     "task": "Écrire un mail ou un message vocal simple",
+     "notion": "Ouvrir et fermer un message poli",
+     "vocab": "Formules écrites"
+    },
+    {
+     "num": 64,
+     "title": "Lire du vrai",
+     "task": "Lire une affiche, une annonce, un menu réel",
+     "notion": "Lecture rapide",
+     "vocab": "Signalétique"
+    },
+    {
+     "num": 65,
+     "title": "Bilan A2",
+     "task": "Test sur les 4 compétences",
+     "notion": "Révision générale",
+     "vocab": "Toute la partie"
+    }
+   ]
+  },
+  {
+   "key": "E",
+   "title": "S'exprimer (cours en lao)",
+   "level": "B1",
+   "goal": "Exprimer sa pensée et comprendre des contenus authentiques simples. Les explications passent en lao.",
+   "lessons": [
+    {
+     "num": 66,
+     "title": "Je pense que…",
+     "task": "Donner son avis sur un film",
+     "notion": "ຄິດວ່າ, ເຫັນວ່າ + proposition",
+     "vocab": "Loisirs"
+    },
+    {
+     "num": 67,
+     "title": "D'accord, pas d'accord",
+     "task": "Exprimer son accord et son désaccord poliment",
+     "notion": "Formules d'accord et de désaccord adoucies",
+     "vocab": "Opinions"
+    },
+    {
+     "num": 68,
+     "title": "Raconter une histoire",
+     "task": "Raconter un souvenir avec début, milieu, fin",
+     "notion": "Ordre du récit, connecteurs temporels",
+     "vocab": "Souvenirs"
+    },
+    {
+     "num": 69,
+     "title": "Mon enfance",
+     "task": "Comparer avant et maintenant",
+     "notion": "« Avant », « autrefois », « désormais »",
+     "vocab": "Enfance"
+    },
+    {
+     "num": 70,
+     "title": "Un problème",
+     "task": "Expliquer une panne ou un souci et demander de l'aide",
+     "notion": "Faire faire avec ໃຫ້ (causatif)",
+     "vocab": "Services"
+    },
+    {
+     "num": 71,
+     "title": "Réclamer",
+     "task": "Faire une réclamation polie",
+     "notion": "Le passif avec ຖືກ et ໂດນ",
+     "vocab": "Achats, administration"
+    },
+    {
+     "num": 72,
+     "title": "Il a dit que…",
+     "task": "Rapporter une conversation",
+     "notion": "Discours rapporté complet",
+     "vocab": "Nouvelles"
+    },
+    {
+     "num": 73,
+     "title": "Conseiller",
+     "task": "Donner un conseil",
+     "notion": "« Tu devrais », « mieux vaut »",
+     "vocab": "Vie quotidienne"
+    },
+    {
+     "num": 74,
+     "title": "Hypothèses",
+     "task": "Dire ce qu'on ferait si…",
+     "notion": "Conditions irréelles",
+     "vocab": "Rêves, projets"
+    },
+    {
+     "num": 75,
+     "title": "Relations",
+     "task": "Parler de ses amis, de son couple, de conflits",
+     "notion": "Expressions des relations",
+     "vocab": "Relations"
+    },
+    {
+     "num": 76,
+     "title": "La pagode",
+     "task": "Se comporter et parler correctement à la pagode",
+     "notion": "Introduction au vocabulaire bouddhiste",
+     "vocab": "Bouddhisme"
+    },
+    {
+     "num": 77,
+     "title": "S'adresser à un moine",
+     "task": "Saluer, offrir, remercier un moine",
+     "notion": "Premiers mots du registre religieux [À VÉRIFIER]",
+     "vocab": "Bouddhisme"
+    },
+    {
+     "num": 78,
+     "title": "Travail (2)",
+     "task": "Passer un entretien simple",
+     "notion": "Parler de ses compétences et expériences",
+     "vocab": "Emploi"
+    },
+    {
+     "num": 79,
+     "title": "L'argent",
+     "task": "Gérer une situation à la banque",
+     "notion": "Vocabulaire administratif courant",
+     "vocab": "Banque"
+    },
+    {
+     "num": 80,
+     "title": "La ville et la campagne",
+     "task": "Comparer deux modes de vie",
+     "notion": "Comparaisons nuancées",
+     "vocab": "Société"
+    },
+    {
+     "num": 81,
+     "title": "Les particules d'attitude",
+     "task": "Faire passer une émotion par la fin de phrase",
+     "notion": "Particules expressives avancées",
+     "vocab": "Conversation"
+    },
+    {
+     "num": 82,
+     "title": "Écouter une chanson",
+     "task": "Comprendre et chanter une chanson lao",
+     "notion": "Langue des chansons",
+     "vocab": "Musique"
+    },
+    {
+     "num": 83,
+     "title": "Regarder une vidéo",
+     "task": "Résumer une vidéo courte",
+     "notion": "Prendre des notes à l'oral",
+     "vocab": "Médias"
+    },
+    {
+     "num": 84,
+     "title": "Lire un article simple",
+     "task": "Résumer un article de presse facile",
+     "notion": "Lecture globale",
+     "vocab": "Actualité"
+    },
+    {
+     "num": 85,
+     "title": "Écrire un message formel",
+     "task": "Écrire à une administration ou un professeur",
+     "notion": "Formules écrites polies",
+     "vocab": "Écrit formel"
+    },
+    {
+     "num": 86,
+     "title": "L'histoire du Laos",
+     "task": "Présenter un fait historique",
+     "notion": "Le récit au passé lointain",
+     "vocab": "Histoire"
+    },
+    {
+     "num": 87,
+     "title": "Géographie et régions",
+     "task": "Présenter une région du Laos",
+     "notion": "Description de lieux",
+     "vocab": "Provinces"
+    },
+    {
+     "num": 88,
+     "title": "Lao et thaï",
+     "task": "Repérer les mots proches et les faux amis",
+     "notion": "Différences de vocabulaire et d'écriture",
+     "vocab": "Langues"
+    },
+    {
+     "num": 89,
+     "title": "Improviser",
+     "task": "Tenir 10 minutes sur un sujet tiré au hasard",
+     "notion": "Stratégies pour gagner du temps en parlant",
+     "vocab": "Tout sujet"
+    },
+    {
+     "num": 90,
+     "title": "Bilan B1",
+     "task": "Test sur les 4 compétences",
+     "notion": "Révision générale",
+     "vocab": "Toute la partie"
+    }
+   ]
+  },
+  {
+   "key": "F",
+   "title": "Argumenter",
+   "level": "B2",
+   "goal": "Débattre, nuancer et suivre les natifs à vitesse réelle.",
+   "lessons": [
+    {
+     "num": 91,
+     "title": "Structurer un argument",
+     "task": "Défendre une position en 3 arguments",
+     "notion": "Premièrement, ensuite, enfin ; conclure",
+     "vocab": "Débat"
+    },
+    {
+     "num": 92,
+     "title": "Nuancer",
+     "task": "Exprimer le doute et la probabilité",
+     "notion": "« Peut-être », « sans doute », « il semble que »",
+     "vocab": "Opinions"
+    },
+    {
+     "num": 93,
+     "title": "Concession et opposition",
+     "task": "Reconnaître un point puis le contester",
+     "notion": "« Bien que », « même si », « pourtant »",
+     "vocab": "Débat"
+    },
+    {
+     "num": 94,
+     "title": "Cause et conséquence",
+     "task": "Expliquer un phénomène de société",
+     "notion": "Chaînes causales",
+     "vocab": "Société"
+    },
+    {
+     "num": 95,
+     "title": "L'actualité",
+     "task": "Commenter une information du jour",
+     "notion": "Vocabulaire de la presse",
+     "vocab": "Presse"
+    },
+    {
+     "num": 96,
+     "title": "La radio et la télé",
+     "task": "Comprendre un journal télévisé",
+     "notion": "Langue des médias, nombres rapides",
+     "vocab": "Médias"
+    },
+    {
+     "num": 97,
+     "title": "Les expressions imagées (1)",
+     "task": "Comprendre et placer 10 expressions courantes",
+     "notion": "Expressions avec ໃຈ",
+     "vocab": "Expressions"
+    },
+    {
+     "num": 98,
+     "title": "Les expressions imagées (2)",
+     "task": "Idem avec le corps et les animaux",
+     "notion": "Images et métaphores lao",
+     "vocab": "Expressions"
+    },
+    {
+     "num": 99,
+     "title": "L'humour",
+     "task": "Comprendre une blague et un jeu de mots",
+     "notion": "Jeux sur les tons et les doubles sens",
+     "vocab": "Humour"
+    },
+    {
+     "num": 100,
+     "title": "Les sous-entendus",
+     "task": "Comprendre ce qui n'est pas dit",
+     "notion": "Politesse indirecte, refus implicites",
+     "vocab": "Communication"
+    },
+    {
+     "num": 101,
+     "title": "Parler vite",
+     "task": "Suivre une conversation à plusieurs",
+     "notion": "Contractions et formes rapides de l'oral",
+     "vocab": "Oral natif"
+    },
+    {
+     "num": 102,
+     "title": "Les dialectes",
+     "task": "Reconnaître le lao de Luang Prabang et du Sud",
+     "notion": "Variations régionales",
+     "vocab": "Dialectes"
+    },
+    {
+     "num": 103,
+     "title": "L'Isan et le lao",
+     "task": "Comprendre un locuteur d'Isan",
+     "notion": "Proximités et différences",
+     "vocab": "Langues"
+    },
+    {
+     "num": 104,
+     "title": "Économie du quotidien",
+     "task": "Discuter prix, salaires, commerce",
+     "notion": "Chiffres et pourcentages",
+     "vocab": "Économie"
+    },
+    {
+     "num": 105,
+     "title": "Environnement",
+     "task": "Débattre d'un sujet écologique",
+     "notion": "Vocabulaire abstrait",
+     "vocab": "Environnement"
+    },
+    {
+     "num": 106,
+     "title": "Éducation",
+     "task": "Comparer deux systèmes scolaires",
+     "notion": "Comparaison argumentée",
+     "vocab": "Éducation"
+    },
+    {
+     "num": 107,
+     "title": "Santé publique",
+     "task": "Expliquer un traitement ou une prévention",
+     "notion": "Langue de l'explication",
+     "vocab": "Santé"
+    },
+    {
+     "num": 108,
+     "title": "Technologie",
+     "task": "Parler des réseaux sociaux",
+     "notion": "Emprunts et néologismes",
+     "vocab": "Numérique"
+    },
+    {
+     "num": 109,
+     "title": "Traditions en mouvement",
+     "task": "Discuter des traditions et de leur évolution",
+     "notion": "Nuancer un jugement culturel",
+     "vocab": "Culture"
+    },
+    {
+     "num": 110,
+     "title": "Lire un texte long",
+     "task": "Résumer un article complet",
+     "notion": "Lecture fine, mots de liaison écrits",
+     "vocab": "Presse"
+    },
+    {
+     "num": 111,
+     "title": "Écrire un texte argumenté",
+     "task": "Rédiger 300 mots sur un sujet de société",
+     "notion": "Plan et connecteurs écrits",
+     "vocab": "Écrit"
+    },
+    {
+     "num": 112,
+     "title": "Négocier",
+     "task": "Négocier un accord gagnant-gagnant",
+     "notion": "Proposer, concéder, conclure",
+     "vocab": "Travail"
+    },
+    {
+     "num": 113,
+     "title": "Présenter en public",
+     "task": "Faire une présentation de 5 minutes",
+     "notion": "Discours organisé",
+     "vocab": "Prise de parole"
+    },
+    {
+     "num": 114,
+     "title": "Films et séries",
+     "task": "Analyser une scène de film lao",
+     "notion": "Langue familière et argot",
+     "vocab": "Cinéma"
+    },
+    {
+     "num": 115,
+     "title": "Bilan B2",
+     "task": "Test sur les 4 compétences",
+     "notion": "Révision générale",
+     "vocab": "Toute la partie"
+    }
+   ]
+  },
+  {
+   "key": "G",
+   "title": "Maîtriser",
+   "level": "C1",
+   "goal": "Passer d'un registre à l'autre sans effort et parler de tout, sans préparation.",
+   "lessons": [
+    {
+     "num": 116,
+     "title": "Le registre soutenu",
+     "task": "Transformer un message familier en message officiel",
+     "notion": "Vocabulaire soutenu et emprunts au pali-sanskrit",
+     "vocab": "Registres"
+    },
+    {
+     "num": 117,
+     "title": "Le registre religieux",
+     "task": "Comprendre une cérémonie bouddhiste",
+     "notion": "Vocabulaire réservé aux moines",
+     "vocab": "Bouddhisme"
+    },
+    {
+     "num": 118,
+     "title": "Le baci (discours)",
+     "task": "Prononcer des vœux lors d'un baci",
+     "notion": "Formules cérémonielles",
+     "vocab": "Cérémonies"
+    },
+    {
+     "num": 119,
+     "title": "Mariages",
+     "task": "Comprendre et participer à un mariage",
+     "notion": "Formules de félicitations et de bénédiction",
+     "vocab": "Cérémonies"
+    },
+    {
+     "num": 120,
+     "title": "Funérailles",
+     "task": "Présenter ses condoléances",
+     "notion": "Langue du deuil, tact",
+     "vocab": "Cérémonies"
+    },
+    {
+     "num": 121,
+     "title": "Les proverbes (1)",
+     "task": "Comprendre et utiliser 10 proverbes",
+     "notion": "Structure des proverbes",
+     "vocab": "Sagesse populaire"
+    },
+    {
+     "num": 122,
+     "title": "Les proverbes (2)",
+     "task": "Placer un proverbe dans une conversation",
+     "notion": "Usage en contexte",
+     "vocab": "Sagesse populaire"
+    },
+    {
+     "num": 123,
+     "title": "Les contes",
+     "task": "Raconter un conte traditionnel",
+     "notion": "Langue du conte",
+     "vocab": "Littérature orale"
+    },
+    {
+     "num": 124,
+     "title": "La poésie",
+     "task": "Lire et comprendre un poème",
+     "notion": "Rimes et rythme en lao",
+     "vocab": "Littérature"
+    },
+    {
+     "num": 125,
+     "title": "Les chants traditionnels",
+     "task": "Comprendre le lam (chant alterné)",
+     "notion": "Langue du chant",
+     "vocab": "Musique"
+    },
+    {
+     "num": 126,
+     "title": "La littérature moderne",
+     "task": "Commenter un extrait de roman ou de nouvelle",
+     "notion": "Lecture littéraire",
+     "vocab": "Littérature"
+    },
+    {
+     "num": 127,
+     "title": "L'écrit administratif",
+     "task": "Rédiger une lettre officielle complète",
+     "notion": "Conventions de l'écrit officiel",
+     "vocab": "Administration"
+    },
+    {
+     "num": 128,
+     "title": "Le discours public",
+     "task": "Prononcer un discours de 10 minutes",
+     "notion": "Rhétorique et rythme",
+     "vocab": "Prise de parole"
+    },
+    {
+     "num": 129,
+     "title": "Interpréter",
+     "task": "Traduire à l'oral entre français et lao",
+     "notion": "Passage d'une langue à l'autre",
+     "vocab": "Médiation"
+    },
+    {
+     "num": 130,
+     "title": "Parler aux enfants",
+     "task": "Adapter sa langue à un enfant",
+     "notion": "Registre enfantin",
+     "vocab": "Famille"
+    },
+    {
+     "num": 131,
+     "title": "Parler aux anciens",
+     "task": "Parler avec un grand-parent de l'histoire familiale",
+     "notion": "Déférence et vocabulaire ancien",
+     "vocab": "Famille"
+    },
+    {
+     "num": 132,
+     "title": "Argot et langue des jeunes",
+     "task": "Comprendre une conversation de jeunes et les réseaux",
+     "notion": "Argot actuel [À VÉRIFIER avec des jeunes natifs]",
+     "vocab": "Culture jeune"
+    },
+    {
+     "num": 133,
+     "title": "Les sciences",
+     "task": "Expliquer un phénomène scientifique simple",
+     "notion": "Vocabulaire technique",
+     "vocab": "Sciences"
+    },
+    {
+     "num": 134,
+     "title": "Le droit et la politique",
+     "task": "Comprendre un texte institutionnel",
+     "notion": "Vocabulaire institutionnel",
+     "vocab": "Institutions"
+    },
+    {
+     "num": 135,
+     "title": "Les affaires",
+     "task": "Mener une réunion de travail",
+     "notion": "Langue professionnelle",
+     "vocab": "Travail"
+    },
+    {
+     "num": 136,
+     "title": "Improvisation (1)",
+     "task": "Parler 15 minutes sur un sujet tiré au hasard",
+     "notion": "Fluidité",
+     "vocab": "Tout sujet"
+    },
+    {
+     "num": 137,
+     "title": "Improvisation (2)",
+     "task": "Débattre sans préparation",
+     "notion": "Fluidité et nuance",
+     "vocab": "Tout sujet"
+    },
+    {
+     "num": 138,
+     "title": "S'adapter à l'interlocuteur",
+     "task": "Passer d'un registre à l'autre dans une même scène",
+     "notion": "Synthèse des registres",
+     "vocab": "Registres"
+    },
+    {
+     "num": 139,
+     "title": "Projet final",
+     "task": "Produire un contenu complet en lao (vidéo, texte ou podcast)",
+     "notion": "Synthèse",
+     "vocab": "Libre"
+    },
+    {
+     "num": 140,
+     "title": "Bilan C1",
+     "task": "Test final sur les 4 compétences",
+     "notion": "Révision générale",
+     "vocab": "Tout le parcours"
+    }
+   ]
+  }
+ ]
+}

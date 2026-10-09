@@ -46,7 +46,7 @@
   idb.keys().then((k) => { momKeys = new Set(k || []); }).catch(() => {});
 
   /* ---------------- contenu ---------------- */
-  let LESSONS = [], AUDIO = {}, TONE_TEXTS = new Set();
+  let LESSONS = [], AUDIO = {}, TONE_TEXTS = new Set(), PROGRAMME = null;
   function clean(s) { return String(s).replace(/[…!?.,«»"]/g, " ").replace(/\s+/g, " ").trim(); }
   function hashKey(s) { let h = 5381; for (let i = 0; i < s.length; i++) h = ((h << 5) + h + s.charCodeAt(i)) >>> 0; return "a" + h.toString(16); }
   function lessonById(id) { return LESSONS.find((l) => l.id === id); }
@@ -171,9 +171,19 @@
   RENDER.lecons = function (o) {
     const v = $("#v-lecons"); const id = o.id;
     if (!id) {
-      v.innerHTML = `<div class="stack"><div><p class="eyebrow">Parcours</p><h2>Leçons</h2></div>` +
-        LESSONS.map((l) => `<button class="lrow" data-id="${l.id}"><span class="lnum">${String(l.num).padStart(2, "0")}</span><span class="ltitle">${esc(l.title)}<small>${esc(l.phase)}</small></span><span class="chip ${S.done[l.id] ? "done" : ""}">${S.done[l.id] ? "Faite" : "À faire"}</span></button>`).join("") +
-        `<p class="muted" style="font-size:.88rem">Les nouvelles leçons arrivent ici dès que Claude les publie.</p></div>`;
+      const written = new Map(LESSONS.map((l) => [l.num, l]));
+      const row = (x) => {
+        const l = written.get(x.num);
+        if (l) return `<button class="lrow" data-id="${l.id}"><span class="lnum">${String(x.num).padStart(2, "0")}</span><span class="ltitle">${esc(l.title)}<small>${esc(x.task)}</small></span><span class="chip ${S.done[l.id] ? "done" : ""}">${S.done[l.id] ? "Faite" : "À faire"}</span></button>`;
+        return `<details class="lplan"><summary><span class="lnum">${String(x.num).padStart(2, "0")}</span><span class="ltitle">${esc(x.title)}<small>${esc(x.task)}</small></span><span class="chip">À venir</span></summary>
+          <dl><dt>Tâche finale</dt><dd>${esc(x.task)}</dd><dt>Notion de langue</dt><dd>${esc(x.notion)}</dd><dt>Vocabulaire / thème</dt><dd>${esc(x.vocab)}</dd></dl></details>`;
+      };
+      const parts = PROGRAMME ? PROGRAMME.parts : [{ key: "", title: "Leçons", level: "", goal: "", lessons: LESSONS.map((l) => ({ num: l.num, title: l.title, task: l.phase || "" })) }];
+      const nWritten = LESSONS.length, nAll = parts.reduce((a, p) => a + p.lessons.length, 0);
+      v.innerHTML = `<div class="stack"><div><p class="eyebrow">Parcours complet</p><h2>Leçons</h2>
+        <p class="lead" style="margin-bottom:0">${nWritten} leçon${nWritten > 1 ? "s" : ""} rédigée${nWritten > 1 ? "s" : ""} sur ${nAll}. Les autres affichent leur fiche (tâche, notion, vocabulaire) en attendant d'être écrites.</p></div>` +
+        parts.map((p) => `<section class="part"><div class="part-head"><p class="eyebrow">Partie ${esc(p.key)} · ${esc(p.level)}</p><h3>${esc(p.title)}</h3>${p.goal ? `<p class="muted" style="margin:2px 0 0">${esc(p.goal)}</p>` : ""}</div>
+          <div class="stack" style="gap:8px">${p.lessons.map(row).join("")}</div></section>`).join("") + `</div>`;
       $$(".lrow", v).forEach((b) => b.addEventListener("click", () => { S.lastLesson = b.dataset.id; save(); RENDER.lecons({ id: b.dataset.id }); window.scrollTo(0, 0); }));
       return;
     }
@@ -571,7 +581,8 @@
   async function boot() {
     renderStreak();
     try {
-      const [idx, audio] = await Promise.all([loadJSON("lessons.json"), loadJSON("sounds.json").catch(() => ({}))]);
+      const [idx, audio, prog] = await Promise.all([loadJSON("lessons.json"), loadJSON("sounds.json").catch(() => ({})), loadJSON("programme.json").catch(() => null)]);
+      PROGRAMME = prog;
       AUDIO = audio;
       LESSONS = (await Promise.all(idx.lessons.map((x) => loadJSON(x.file).then((d) => Object.assign({ id: x.id, num: x.num }, d))))).sort((a, b) => a.num - b.num);
     } catch (e) { $("#v-accueil").innerHTML = `<div class="panel">Impossible de charger les leçons. Vérifie ta connexion puis recharge.</div>`; return; }
