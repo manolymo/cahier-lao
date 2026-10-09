@@ -4933,5 +4933,1509 @@
  "a2837a120": {
   "text": "ໝາກມ່ວງໃສແຊບກວ່າ",
   "f": "audio/f/a2837a120.mp3"
+ },
+ "a16c23d2b": {
+  "text": "ກະທຽມ",
+  "f": "audio/f/a16c23d2b.mp3"
+ },
+ "a9908bdba": {
+  "text": "ການຄິດຮອດບ້ານ",
+  "f": "audio/f/a9908bdba.mp3"
+ },
+ "aef2efeb5": {
+  "text": "ການຮຽນ",
+  "f": "audio/f/aef2efeb5.mp3"
+ },
+ "abc65932": {
+  "text": "ກາບ",
+  "f": "audio/f/abc65932.mp3"
+ },
+ "a5a23a9df": {
+  "text": "ກາບສາມເທື່ອ ແລ້ວນັ່ງພັບພຽບ",
+  "f": "audio/f/a5a23a9df.mp3"
+ },
+ "a59880ea4": {
+  "text": "ກ່ອນເຂົ້າໄປຕ້ອງຖອດເກີບ",
+  "f": "audio/f/a59880ea4.mp3"
+ },
+ "aae7011e": {
+  "text": "ກ່ຽວກັບ",
+  "f": "audio/f/aae7011e.mp3"
+ },
+ "ac673cd67": {
+  "text": "ກ່ຽວກັບຄວາມຮັກແລະການຄິດຮອດບ້ານ",
+  "f": "audio/f/ac673cd67.mp3"
+ },
+ "abc65c41": {
+  "text": "ກ້າ",
+  "f": "audio/f/abc65c41.mp3"
+ },
+ "a1cffb4c8": {
+  "text": "ກໍມີເຫດຜົນເນາະ ແຕ່ທະເລມ່ວນກວ່າ",
+  "f": "audio/f/a1cffb4c8.mp3"
+ },
+ "a1119c4f0": {
+  "text": "ຂອບໃຈທີ່ເຂົ້າໃຈ",
+  "f": "audio/f/a1119c4f0.mp3"
+ },
+ "a84927b28": {
+  "text": "ຂ່າວ",
+  "f": "audio/f/a84927b28.mp3"
+ },
+ "ae6db5e1e": {
+  "text": "ຂ່າວເວົ້າວ່າແນວໃດ",
+  "f": "audio/f/ae6db5e1e.mp3"
+ },
+ "a432ffac1": {
+  "text": "ຂ້ອຍຄິດວ່າມ່ວນດີ ແຕ່ຍາວໂພດ",
+  "f": "audio/f/a432ffac1.mp3"
+ },
+ "aecc27317": {
+  "text": "ຂ້ອຍຈະຊື້ເຮືອນ",
+  "f": "audio/f/aecc27317.mp3"
+ },
+ "aef1e5bce": {
+  "text": "ຂ້ອຍຈະພາພໍ່ແມ່ໄປທ່ຽວຮອບໂລກ",
+  "f": "audio/f/aef1e5bce.mp3"
+ },
+ "a2379dfb6": {
+  "text": "ຂ້ອຍຈະໄປທຳບຸນ",
+  "f": "audio/f/a2379dfb6.mp3"
+ },
+ "a87f8ec7e": {
+  "text": "ຂ້ອຍຕ້ອງກາບພະບໍ",
+  "f": "audio/f/a87f8ec7e.mp3"
+ },
+ "a4c2cabf9": {
+  "text": "ຂ້ອຍຖືກເກັບເງິນສອງເທື່ອ",
+  "f": "audio/f/a4c2cabf9.mp3"
+ },
+ "a3b541387": {
+  "text": "ຂ້ອຍບອກວ່າບໍ່ ແຕ່ຂ້ອຍໃຈຮ້າຍແທ້",
+  "f": "audio/f/a3b541387.mp3"
+ },
+ "a1279e811": {
+  "text": "ຂ້ອຍບໍ່ກ້າຕອບ",
+  "f": "audio/f/a1279e811.mp3"
+ },
+ "a7edc61b": {
+  "text": "ຂ້ອຍບໍ່ຄ່ອຍເຫັນດີປານໃດ ໄປພູດີກວ່າ",
+  "f": "audio/f/a7edc61b.mp3"
+ },
+ "ad95959ff": {
+  "text": "ຂ້ອຍບໍ່ຮູ້ວ່າຈະຮຽນຫຍັງດີ",
+  "f": "audio/f/ad95959ff.mp3"
+ },
+ "a4703cc66": {
+  "text": "ຂ້ອຍມີປະສົບການ ປີ",
+  "f": "audio/f/a4703cc66.mp3"
+ },
+ "a1d59b666": {
+  "text": "ຂ້ອຍຢາກເປີດບັນຊີ",
+  "f": "audio/f/a1d59b666.mp3"
+ },
+ "a2aa77f61": {
+  "text": "ຂ້ອຍຢາກແລກເງິນເອີໂຣ",
+  "f": "audio/f/a2aa77f61.mp3"
+ },
+ "aefc63745": {
+  "text": "ຂ້ອຍເກັ່ງຂຶ້ນ",
+  "f": "audio/f/aefc63745.mp3"
+ },
+ "afde7a04c": {
+  "text": "ຂ້ອຍເກືອບຮ້ອງໄຫ້",
+  "f": "audio/f/afde7a04c.mp3"
+ },
+ "ae106e32d": {
+  "text": "ຂ້ອຍເຂົ້າໃຈຫຼາຍຂຶ້ນ",
+  "f": "audio/f/ae106e32d.mp3"
+ },
+ "afbf79f35": {
+  "text": "ຂ້ອຍເຂົ້າໃຈຫຼາຍຂຶ້ນ ແຕ່ຍັງເວົ້າຊ້າຢູ່",
+  "f": "audio/f/afbf79f35.mp3"
+ },
+ "ac0785acb": {
+  "text": "ຂ້ອຍເປັນຄູມາຫ້າປີແລ້ວ",
+  "f": "audio/f/ac0785acb.mp3"
+ },
+ "aebf86ec8": {
+  "text": "ຂ້ອຍເຫັນດີ",
+  "f": "audio/f/aebf86ec8.mp3"
+ },
+ "a3e31c01e": {
+  "text": "ຂ້ອຍເຫັນວ່າຕອນຈົບເສົ້າຫຼາຍ",
+  "f": "audio/f/a3e31c01e.mp3"
+ },
+ "a81f3346e": {
+  "text": "ຂ້າພະເຈົ້າ",
+  "f": "audio/f/a81f3346e.mp3"
+ },
+ "ab493c7c8": {
+  "text": "ຂ້າພະເຈົ້າຂໍສະເໜີ",
+  "f": "audio/f/ab493c7c8.mp3"
+ },
+ "a90e8c93": {
+  "text": "ຂ້າພະເຈົ້າຂໍສະເໜີຕໍ່ວີຊາຕື່ມອີກໜຶ່ງປີ",
+  "f": "audio/f/a90e8c93.mp3"
+ },
+ "af363b4cc": {
+  "text": "ຂໍຄິດເບິ່ງກ່ອນ",
+  "f": "audio/f/af363b4cc.mp3"
+ },
+ "a2ec9d9e8": {
+  "text": "ຂໍຄິດແປັບໜຶ່ງ",
+  "f": "audio/f/a2ec9d9e8.mp3"
+ },
+ "a34cd4a99": {
+  "text": "ຂໍສະແດງຄວາມນັບຖື",
+  "f": "audio/f/a34cd4a99.mp3"
+ },
+ "a860c64db": {
+  "text": "ຂໍເປີດບັນຊີ",
+  "f": "audio/f/a860c64db.mp3"
+ },
+ "a814cd84b": {
+  "text": "ຂໍແຕ່ງງານ",
+  "f": "audio/f/a814cd84b.mp3"
+ },
+ "ad366e255": {
+  "text": "ຂໍໂທດ ຂ້ອຍຖືກເກັບເງິນສອງເທື່ອ",
+  "f": "audio/f/ad366e255.mp3"
+ },
+ "abc66489": {
+  "text": "ຄວນ",
+  "f": "audio/f/abc66489.mp3"
+ },
+ "aefcd9ce6": {
+  "text": "ຄວາມສາມາດ",
+  "f": "audio/f/aefcd9ce6.mp3"
+ },
+ "aa411d206": {
+  "text": "ຄວາມສຸກ",
+  "f": "audio/f/aa411d206.mp3"
+ },
+ "aa411e223": {
+  "text": "ຄວາມຮັກ",
+  "f": "audio/f/aa411e223.mp3"
+ },
+ "a491797e6": {
+  "text": "ຄວາມເຂົ້າໃຈ",
+  "f": "audio/f/a491797e6.mp3"
+ },
+ "a2c7bd35c": {
+  "text": "ຄວາມເຂົ້າໃຈກັນສຳຄັນ",
+  "f": "audio/f/a2c7bd35c.mp3"
+ },
+ "a16f934ac": {
+  "text": "ຄະແນນ",
+  "f": "audio/f/a16f934ac.mp3"
+ },
+ "a16fa59d6": {
+  "text": "ຄຳຢືມ",
+  "f": "audio/f/a16fa59d6.mp3"
+ },
+ "abc66631": {
+  "text": "ຄິດ",
+  "f": "audio/f/abc66631.mp3"
+ },
+ "af64fcf72": {
+  "text": "ຄິດວ່າ",
+  "f": "audio/f/af64fcf72.mp3"
+ },
+ "a11ae528e": {
+  "text": "ຄິດຮອດບ້ານ",
+  "f": "audio/f/a11ae528e.mp3"
+ },
+ "a5b5800": {
+  "text": "ຄື",
+  "f": "audio/f/a5b5800.mp3"
+ },
+ "abc66699": {
+  "text": "ຄືນ",
+  "f": "audio/f/abc66699.mp3"
+ },
+ "a16fc60a2": {
+  "text": "ຄືນດີ",
+  "f": "audio/f/a16fc60a2.mp3"
+ },
+ "ad84da50a": {
+  "text": "ຄືນດີກັນແລ້ວບໍ",
+  "f": "audio/f/ad84da50a.mp3"
+ },
+ "a2ba8144d": {
+  "text": "ຄືນດີແລ້ວ ພວກເຮົາລົມກັນດົນ",
+  "f": "audio/f/a2ba8144d.mp3"
+ },
+ "ac7b061ed": {
+  "text": "ຄືນເງິນ",
+  "f": "audio/f/ac7b061ed.mp3"
+ },
+ "ab07f682c": {
+  "text": "ຄືນເງິນໃຫ້ໄດ້ບໍ",
+  "f": "audio/f/ab07f682c.mp3"
+ },
+ "a16fca2e1": {
+  "text": "ຄືວ່າ",
+  "f": "audio/f/a16fca2e1.mp3"
+ },
+ "a52146e89": {
+  "text": "ຄືວ່າ ສຳລັບຂ້ອຍ ອາຫານລາວແມ່ນ",
+  "f": "audio/f/a52146e89.mp3"
+ },
+ "aca507196": {
+  "text": "ຄືເກົ່າ",
+  "f": "audio/f/aca507196.mp3"
+ },
+ "acca62698": {
+  "text": "ຄຸເຂົ່າ",
+  "f": "audio/f/acca62698.mp3"
+ },
+ "ad115321a": {
+  "text": "ຄົນໜຸ່ມ",
+  "f": "audio/f/ad115321a.mp3"
+ },
+ "a2455fc27": {
+  "text": "ຄົນໜຸ່ມຍ້າຍໄປເມືອງຫຼາຍບໍ",
+  "f": "audio/f/a2455fc27.mp3"
+ },
+ "a84939811": {
+  "text": "ຄ້າຍ",
+  "f": "audio/f/a84939811.mp3"
+ },
+ "af355909c": {
+  "text": "ຄ້າຍກັນ",
+  "f": "audio/f/af355909c.mp3"
+ },
+ "ad6f032a2": {
+  "text": "ຄ້າຍກັນຫຼາຍ",
+  "f": "audio/f/ad6f032a2.mp3"
+ },
+ "abc67423": {
+  "text": "ງຽບ",
+  "f": "audio/f/abc67423.mp3"
+ },
+ "adc5701eb": {
+  "text": "ງຽບກວ່າຫຼາຍ",
+  "f": "audio/f/adc5701eb.mp3"
+ },
+ "a11619020": {
+  "text": "ຈະໃຫ້ຊ່າງສ້ອມ",
+  "f": "audio/f/a11619020.mp3"
+ },
+ "aff67157a": {
+  "text": "ຈັງຫັນ",
+  "f": "audio/f/aff67157a.mp3"
+ },
+ "a1742d04c": {
+  "text": "ຈຳວັດ",
+  "f": "audio/f/a1742d04c.mp3"
+ },
+ "abc677b9": {
+  "text": "ຈຸດ",
+  "f": "audio/f/abc677b9.mp3"
+ },
+ "afd8aab74": {
+  "text": "ຈຸດອ່ອນ",
+  "f": "audio/f/afd8aab74.mp3"
+ },
+ "affed3963": {
+  "text": "ຈຸດແຂງ",
+  "f": "audio/f/affed3963.mp3"
+ },
+ "a83dda361": {
+  "text": "ຈຸດແຂງຂອງຂ້ອຍແມ່ນ",
+  "f": "audio/f/a83dda361.mp3"
+ },
+ "a7144146": {
+  "text": "ຈຸດແຂງຂອງຂ້ອຍແມ່ນຄວາມອົດທົນ",
+  "f": "audio/f/a7144146.mp3"
+ },
+ "abc67f75": {
+  "text": "ຊາດ",
+  "f": "audio/f/abc67f75.mp3"
+ },
+ "a4a19b9c": {
+  "text": "ຊື່ສຽງ",
+  "f": "audio/f/a4a19b9c.mp3"
+ },
+ "a42e88c3f": {
+  "text": "ຊ່ວຍ ໃຫ້ແດ່",
+  "f": "audio/f/a42e88c3f.mp3"
+ },
+ "a8496de10": {
+  "text": "ຊ່າງ",
+  "f": "audio/f/a8496de10.mp3"
+ },
+ "a5b3a665b": {
+  "text": "ຍັງ ຄືເກົ່າ",
+  "f": "audio/f/a5b3a665b.mp3"
+ },
+ "abc68c4b": {
+  "text": "ຍາວ",
+  "f": "audio/f/abc68c4b.mp3"
+ },
+ "a8498877a": {
+  "text": "ຍ້າຍ",
+  "f": "audio/f/a8498877a.mp3"
+ },
+ "abc6a95f": {
+  "text": "ດອນ",
+  "f": "audio/f/abc6a95f.mp3"
+ },
+ "abc6a9d1": {
+  "text": "ດັງ",
+  "f": "audio/f/abc6a9d1.mp3"
+ },
+ "a1baa06d0": {
+  "text": "ດີກວ່າ",
+  "f": "audio/f/a1baa06d0.mp3"
+ },
+ "ab0104f68": {
+  "text": "ດີສຳລັບເສດຖະກິດ",
+  "f": "audio/f/ab0104f68.mp3"
+ },
+ "add5066a3": {
+  "text": "ດີສຳລັບເສດຖະກິດເນາະ",
+  "f": "audio/f/add5066a3.mp3"
+ },
+ "a9c0a20a5": {
+  "text": "ດີເທົ່າກັນ",
+  "f": "audio/f/a9c0a20a5.mp3"
+ },
+ "abbf4533b": {
+  "text": "ດີແລ້ວ ຄວາມເຂົ້າໃຈກັນສຳຄັນ",
+  "f": "audio/f/abbf4533b.mp3"
+ },
+ "a18acec19": {
+  "text": "ດຽວນີ້ປ່ຽນໄປຫຼາຍບໍ",
+  "f": "audio/f/a18acec19.mp3"
+ },
+ "abc6ada0": {
+  "text": "ຕອນ",
+  "f": "audio/f/abc6ada0.mp3"
+ },
+ "a1d7b0edd": {
+  "text": "ຕອນຈົບ",
+  "f": "audio/f/a1d7b0edd.mp3"
+ },
+ "acce6270c": {
+  "text": "ຕອນນັ້ນ",
+  "f": "audio/f/acce6270c.mp3"
+ },
+ "ac065b988": {
+  "text": "ຕອນນັ້ນຂ້ອຍອາຍຸຊາວປີ",
+  "f": "audio/f/ac065b988.mp3"
+ },
+ "a89ce5e55": {
+  "text": "ຕອນເຊົ້າພະຈະຍ່າງມາບິນທະບາດ",
+  "f": "audio/f/a89ce5e55.mp3"
+ },
+ "aaae37aa7": {
+  "text": "ຕອນເປັນເດັກນ້ອຍ",
+  "f": "audio/f/aaae37aa7.mp3"
+ },
+ "abc6ada1": {
+  "text": "ຕອບ",
+  "f": "audio/f/abc6ada1.mp3"
+ },
+ "a1d7c20e2": {
+  "text": "ຕອບວ່າ",
+  "f": "audio/f/a1d7c20e2.mp3"
+ },
+ "abc6ae4d": {
+  "text": "ຕາມ",
+  "f": "audio/f/abc6ae4d.mp3"
+ },
+ "acab35852": {
+  "text": "ຕາມຄວາມຄິດຂອງຂ້ອຍ",
+  "f": "audio/f/acab35852.mp3"
+ },
+ "a7552adac": {
+  "text": "ຕາມຄວາມຄິດຂອງຂ້ອຍຍາວໂພດ",
+  "f": "audio/f/a7552adac.mp3"
+ },
+ "a5b5a2d": {
+  "text": "ຕຳ",
+  "f": "audio/f/a5b5a2d.mp3"
+ },
+ "a1e80ff90": {
+  "text": "ຕົວເອງ",
+  "f": "audio/f/a1e80ff90.mp3"
+ },
+ "a849ce63b": {
+  "text": "ຕ່າງ",
+  "f": "audio/f/a849ce63b.mp3"
+ },
+ "ad9b2686": {
+  "text": "ຕ່າງກັນ",
+  "f": "audio/f/ad9b2686.mp3"
+ },
+ "af8021926": {
+  "text": "ຕ່າງກັນໜ້ອຍໜຶ່ງ",
+  "f": "audio/f/af8021926.mp3"
+ },
+ "a4c60066b": {
+  "text": "ຕ້ອງກາບບໍ",
+  "f": "audio/f/a4c60066b.mp3"
+ },
+ "a290171de": {
+  "text": "ຕ້ອງຖອດເກີບ",
+  "f": "audio/f/a290171de.mp3"
+ },
+ "a50341feb": {
+  "text": "ຕ້ອງເວົ້າຫຍັງບໍ",
+  "f": "audio/f/a50341feb.mp3"
+ },
+ "ac6a912ad": {
+  "text": "ຕ້ອງໃຊ້ເອກະສານຫຍັງແດ່",
+  "f": "audio/f/ac6a912ad.mp3"
+ },
+ "a1ae57127": {
+  "text": "ຕໍ່ວີຊາ",
+  "f": "audio/f/a1ae57127.mp3"
+ },
+ "abc6b1dc": {
+  "text": "ຖອດ",
+  "f": "audio/f/abc6b1dc.mp3"
+ },
+ "a199a7d4c": {
+  "text": "ຖອດເກີບ",
+  "f": "audio/f/a199a7d4c.mp3"
+ },
+ "a19f51135": {
+  "text": "ຖອນເງິນ",
+  "f": "audio/f/a19f51135.mp3"
+ },
+ "a3aa3c916": {
+  "text": "ຖາມວ່າ ບໍ",
+  "f": "audio/f/a3aa3c916.mp3"
+ },
+ "a4bafdeb0": {
+  "text": "ຖືກຕຳຫຼວດຈັບ",
+  "f": "audio/f/a4bafdeb0.mp3"
+ },
+ "ab41f3fd3": {
+  "text": "ຖືກເກັບເງິນ",
+  "f": "audio/f/ab41f3fd3.mp3"
+ },
+ "a2078eeb9": {
+  "text": "ຖືກເລກ",
+  "f": "audio/f/a2078eeb9.mp3"
+ },
+ "a219b4c2e": {
+  "text": "ຖ້າ ຈະ",
+  "f": "audio/f/a219b4c2e.mp3"
+ },
+ "a1a76b345": {
+  "text": "ຖ້າຂ້ອຍມີເງິນ",
+  "f": "audio/f/a1a76b345.mp3"
+ },
+ "a973acdfe": {
+  "text": "ຖ້າຂ້ອຍມີເງິນຫຼາຍ ຂ້ອຍຈະຊື້ເຮືອນຢູ່ລາວ",
+  "f": "audio/f/a973acdfe.mp3"
+ },
+ "a15ca8603": {
+  "text": "ຖ້າຖືກເລກ ເຈົ້າຈະເຮັດຫຍັງ",
+  "f": "audio/f/a15ca8603.mp3"
+ },
+ "a39a5714d": {
+  "text": "ຖ້າມີເງິນຈະຊື້ເຮືອນ",
+  "f": "audio/f/a39a5714d.mp3"
+ },
+ "a98e03dc9": {
+  "text": "ທັນໃດນັ້ນ",
+  "f": "audio/f/a98e03dc9.mp3"
+ },
+ "a86e49d4d": {
+  "text": "ທາດຫຼວງສ້າງຂຶ້ນຫຼາຍຮ້ອຍປີມາແລ້ວ",
+  "f": "audio/f/a86e49d4d.mp3"
+ },
+ "a185203bc": {
+  "text": "ທຳນອງ",
+  "f": "audio/f/a185203bc.mp3"
+ },
+ "a1852097a": {
+  "text": "ທຳບຸນ",
+  "f": "audio/f/a1852097a.mp3"
+ },
+ "afd8d443c": {
+  "text": "ທຳອິດຂ້ອຍອາຍ ບໍ່ກ້າຕອບ",
+  "f": "audio/f/afd8d443c.mp3"
+ },
+ "a2eb0f37c": {
+  "text": "ທຳອິດຕຳໝາກເຜັດກັບກະທຽມ ແລ້ວໃສ່ໝາກຫຸ່ງ",
+  "f": "audio/f/a2eb0f37c.mp3"
+ },
+ "a849e0088": {
+  "text": "ທ່ຽວ",
+  "f": "audio/f/a849e0088.mp3"
+ },
+ "aa40fe066": {
+  "text": "ນັກທ່ອງທ່ຽວ",
+  "f": "audio/f/aa40fe066.mp3"
+ },
+ "a447b3c22": {
+  "text": "ນັກທ່ອງທ່ຽວເພີ່ມຂຶ້ນຫຼາຍ",
+  "f": "audio/f/a447b3c22.mp3"
+ },
+ "a87d56db": {
+  "text": "ນັກຮ້ອງ",
+  "f": "audio/f/a87d56db.mp3"
+ },
+ "a2b65933c": {
+  "text": "ນັ່ງພັບພຽບ",
+  "f": "audio/f/a2b65933c.mp3"
+ },
+ "a849ed685": {
+  "text": "ນຸ່ງ",
+  "f": "audio/f/a849ed685.mp3"
+ },
+ "abef09354": {
+  "text": "ນຸ່ງສິ້ນແລະເສື້ອແຂນຍາວ",
+  "f": "audio/f/abef09354.mp3"
+ },
+ "a28d8d88b": {
+  "text": "ນ້ຳຕົກ",
+  "f": "audio/f/a28d8d88b.mp3"
+ },
+ "a5b5acb": {
+  "text": "ນໍ",
+  "f": "audio/f/a5b5acb.mp3"
+ },
+ "abc6c364": {
+  "text": "ບັດ",
+  "f": "audio/f/abc6c364.mp3"
+ },
+ "a18873028": {
+  "text": "ບັນຊີ",
+  "f": "audio/f/a18873028.mp3"
+ },
+ "a18873466": {
+  "text": "ບັນຫາ",
+  "f": "audio/f/a18873466.mp3"
+ },
+ "a21a666b3": {
+  "text": "ບິນທະບາດ",
+  "f": "audio/f/a21a666b3.mp3"
+ },
+ "a90ddc33a": {
+  "text": "ບ້ານນອກ",
+  "f": "audio/f/a90ddc33a.mp3"
+ },
+ "a2b44608f": {
+  "text": "ບໍ່ ຄື",
+  "f": "audio/f/a2b44608f.mp3"
+ },
+ "ace239c40": {
+  "text": "ບໍ່ ເທົ່າ",
+  "f": "audio/f/ace239c40.mp3"
+ },
+ "a2b819c58": {
+  "text": "ບໍ່ຄວນ",
+  "f": "audio/f/a2b819c58.mp3"
+ },
+ "a4e507097": {
+  "text": "ບໍ່ຄ່ອຍ ປານໃດ",
+  "f": "audio/f/a4e507097.mp3"
+ },
+ "ad5fcd015": {
+  "text": "ບໍ່ຄ່ອຍເຫັນດີປານໃດ",
+  "f": "audio/f/ad5fcd015.mp3"
+ },
+ "a10513ee4": {
+  "text": "ບໍ່ຕ້ອງເວົ້າ ພະຈະໃຫ້ພອນ",
+  "f": "audio/f/a10513ee4.mp3"
+ },
+ "a484045d6": {
+  "text": "ບໍ່ສະດວກເທົ່າ",
+  "f": "audio/f/a484045d6.mp3"
+ },
+ "a908371a3": {
+  "text": "ບໍ່ເປັນຫຍັງ ເຈົ້າເກັ່ງຂຶ້ນແທ້",
+  "f": "audio/f/a908371a3.mp3"
+ },
+ "aea2776d2": {
+  "text": "ບໍ່ເຫັນດີ",
+  "f": "audio/f/aea2776d2.mp3"
+ },
+ "a425f2bb": {
+  "text": "ປະສົບການ",
+  "f": "audio/f/a425f2bb.mp3"
+ },
+ "aa8e1e8d7": {
+  "text": "ປະຫວັດສາດ",
+  "f": "audio/f/aa8e1e8d7.mp3"
+ },
+ "a482d9830": {
+  "text": "ປີໜ້າເຮົາໄປທ່ຽວທະເລເນາະ",
+  "f": "audio/f/a482d9830.mp3"
+ },
+ "a84a031fe": {
+  "text": "ປ່ຽນ",
+  "f": "audio/f/a84a031fe.mp3"
+ },
+ "aa0071a84": {
+  "text": "ປ່ຽນຫຼາຍ ແຕ່ຄົນຍັງໃຈດີຄືເກົ່າ",
+  "f": "audio/f/aa0071a84.mp3"
+ },
+ "a448cb9e3": {
+  "text": "ປ່ຽນໄປຫຼາຍ",
+  "f": "audio/f/a448cb9e3.mp3"
+ },
+ "a2e4af9d4": {
+  "text": "ຜິດກັນ",
+  "f": "audio/f/a2e4af9d4.mp3"
+ },
+ "abc6d02c": {
+  "text": "ຝັນ",
+  "f": "audio/f/abc6d02c.mp3"
+ },
+ "a3ec43989": {
+  "text": "ຝາກເງິນ",
+  "f": "audio/f/a3ec43989.mp3"
+ },
+ "aa256c498": {
+  "text": "ພວກເຮົາຂີ່ລົດຖີບໄປໂຮງຮຽນ",
+  "f": "audio/f/aa256c498.mp3"
+ },
+ "abc6d3e9": {
+  "text": "ພອນ",
+  "f": "audio/f/abc6d3e9.mp3"
+ },
+ "a5b5b53": {
+  "text": "ພະ",
+  "f": "audio/f/a5b5b53.mp3"
+ },
+ "a78dd5e48": {
+  "text": "ພະຈັງຫັນ",
+  "f": "audio/f/a78dd5e48.mp3"
+ },
+ "a62c6a7e0": {
+  "text": "ພະຈຳວັດຢູ່ວັດນີ້",
+  "f": "audio/f/a62c6a7e0.mp3"
+ },
+ "a18cf543f": {
+  "text": "ພະສົງ",
+  "f": "audio/f/a18cf543f.mp3"
+ },
+ "a609f5430": {
+  "text": "ພະເຈົ້າແຜ່ນດິນ",
+  "f": "audio/f/a609f5430.mp3"
+ },
+ "af749dae8": {
+  "text": "ພະເຈົ້າໄຊເສດຖາໃຫ້ສ້າງ",
+  "f": "audio/f/af749dae8.mp3"
+ },
+ "a18cfb1ae": {
+  "text": "ພະແນກ",
+  "f": "audio/f/a18cfb1ae.mp3"
+ },
+ "a235218e": {
+  "text": "ພະໃຫ້ພອນ",
+  "f": "audio/f/a235218e.mp3"
+ },
+ "a5b5b55": {
+  "text": "ພາ",
+  "f": "audio/f/a5b5b55.mp3"
+ },
+ "a32c6aef0": {
+  "text": "ພາກກາງ",
+  "f": "audio/f/a32c6aef0.mp3"
+ },
+ "a8bbfe056": {
+  "text": "ພາກເໜືອ",
+  "f": "audio/f/a8bbfe056.mp3"
+ },
+ "a5636e0e9": {
+  "text": "ພາກເໜືອມີພູຫຼາຍ",
+  "f": "audio/f/a5636e0e9.mp3"
+ },
+ "a32c7c437": {
+  "text": "ພາກໃຕ້",
+  "f": "audio/f/a32c7c437.mp3"
+ },
+ "a1056a037": {
+  "text": "ພາກໃຕ້ມີຫຍັງໜ້າທ່ຽວ",
+  "f": "audio/f/a1056a037.mp3"
+ },
+ "a32ddfd4c": {
+  "text": "ພາສາໄທ",
+  "f": "audio/f/a32ddfd4c.mp3"
+ },
+ "a5b5b70": {
+  "text": "ພໍ",
+  "f": "audio/f/a5b5b70.mp3"
+ },
+ "a34d2f906": {
+  "text": "ພໍແລ້ວ",
+  "f": "audio/f/a34d2f906.mp3"
+ },
+ "af06b897e": {
+  "text": "ພໍແລ້ວແຫຼະ",
+  "f": "audio/f/af06b897e.mp3"
+ },
+ "ab95f960d": {
+  "text": "ມັກຄອມພິວເຕີ",
+  "f": "audio/f/ab95f960d.mp3"
+ },
+ "aaf96b791": {
+  "text": "ມາເບິ່ງໃຫ້ແດ່ໄດ້ບໍ",
+  "f": "audio/f/aaf96b791.mp3"
+ },
+ "a39e9dd4e": {
+  "text": "ມາແລ້ວ",
+  "f": "audio/f/a39e9dd4e.mp3"
+ },
+ "ada84e935": {
+  "text": "ມີ ເຊັ່ນຄຳວ່າ ບໍ່ ພາສາໄທແມ່ນ ໄມ່",
+  "f": "audio/f/ada84e935.mp3"
+ },
+ "ab00241b": {
+  "text": "ມີ ແລ້ວແລກເງິນເອີໂຣໄດ້ບໍ",
+  "f": "audio/f/ab00241b.mp3"
+ },
+ "aa53b8c2e": {
+  "text": "ມີຄຳທີ່ຕ່າງກັນບໍ",
+  "f": "audio/f/aa53b8c2e.mp3"
+ },
+ "a501ff340": {
+  "text": "ມີສີ່ພັນດອນແລະນ້ຳຕົກງາມໆ",
+  "f": "audio/f/a501ff340.mp3"
+ },
+ "a583f4fc5": {
+  "text": "ມີຫຍັງໜ້າທ່ຽວ",
+  "f": "audio/f/a583f4fc5.mp3"
+ },
+ "a40c13f4a": {
+  "text": "ມີເຫດຜົນ",
+  "f": "audio/f/a40c13f4a.mp3"
+ },
+ "ab3863114": {
+  "text": "ມີໜັງສືຜ່ານແດນບໍ",
+  "f": "audio/f/ab3863114.mp3"
+ },
+ "afee3b180": {
+  "text": "ມື້ນີ້ໜັງສືພິມລົງຂ່າວກ່ຽວກັບລົດໄຟລາວ-ຈີນ",
+  "f": "audio/f/afee3b180.mp3"
+ },
+ "acc03a33c": {
+  "text": "ມື້ອື່ນຈະໃຫ້ຊ່າງໄປສ້ອມໃຫ້",
+  "f": "audio/f/acc03a33c.mp3"
+ },
+ "a837e0107": {
+  "text": "ມື້ໜຶ່ງ",
+  "f": "audio/f/a837e0107.mp3"
+ },
+ "a9d94329a": {
+  "text": "ມື້ໜຶ່ງພໍ່ສົມສັກມາຂໍຂ້ອຍແຕ່ງງານ",
+  "f": "audio/f/a9d94329a.mp3"
+ },
+ "a368b0635": {
+  "text": "ມ່ວນແທ້ນໍ",
+  "f": "audio/f/a368b0635.mp3"
+ },
+ "ad1c3870b": {
+  "text": "ຢູ່ບ້ານນອກງຽບກວ່າໃນເມືອງຫຼາຍ",
+  "f": "audio/f/ad1c3870b.mp3"
+ },
+ "abbb9f55b": {
+  "text": "ລອງ ເບິ່ງ",
+  "f": "audio/f/abbb9f55b.mp3"
+ },
+ "afd249c9b": {
+  "text": "ລອງລົມກັບພໍ່ເບິ່ງ",
+  "f": "audio/f/afd249c9b.mp3"
+ },
+ "a7a182dfc": {
+  "text": "ລອງລົມເບິ່ງ",
+  "f": "audio/f/a7a182dfc.mp3"
+ },
+ "a194da0f9": {
+  "text": "ລະດັບ",
+  "f": "audio/f/a194da0f9.mp3"
+ },
+ "a4778b136": {
+  "text": "ລາຄາສູງຂຶ້ນ",
+  "f": "audio/f/a4778b136.mp3"
+ },
+ "a564e46ba": {
+  "text": "ລາວຖາມວ່າຂ້ອຍໃຈຮ້າຍບໍ",
+  "f": "audio/f/a564e46ba.mp3"
+ },
+ "a26c61778": {
+  "text": "ລາວຖາມວ່າຂ້ອຍໄປບໍ",
+  "f": "audio/f/a26c61778.mp3"
+ },
+ "abf070b6a": {
+  "text": "ລາວບອກວ່າລາວຫຍຸ້ງ",
+  "f": "audio/f/abf070b6a.mp3"
+ },
+ "afb88b5d9": {
+  "text": "ລາວບອກໃຫ້ຂ້ອຍລໍ",
+  "f": "audio/f/afb88b5d9.mp3"
+ },
+ "ad448a69": {
+  "text": "ລາວເປັນຄົນດີ",
+  "f": "audio/f/ad448a69.mp3"
+ },
+ "abbe0350f": {
+  "text": "ລົງຂ່າວ",
+  "f": "audio/f/abbe0350f.mp3"
+ },
+ "a43c86cde": {
+  "text": "ລົດຖີບ",
+  "f": "audio/f/a43c86cde.mp3"
+ },
+ "a43cf33f1": {
+  "text": "ລົມກັນ",
+  "f": "audio/f/a43cf33f1.mp3"
+ },
+ "ad362a26a": {
+  "text": "ລ້ານຊ້າງ",
+  "f": "audio/f/ad362a26a.mp3"
+ },
+ "a5b5c57": {
+  "text": "ລໍ",
+  "f": "audio/f/a5b5c57.mp3"
+ },
+ "a47f49838": {
+  "text": "ວິດີໂອ",
+  "f": "audio/f/a47f49838.mp3"
+ },
+ "aaa2d2a22": {
+  "text": "ສອນຂ້ອຍຮ້ອງແດ່",
+  "f": "audio/f/aaa2d2a22.mp3"
+ },
+ "a19a81a1b": {
+  "text": "ສະດວກ",
+  "f": "audio/f/a19a81a1b.mp3"
+ },
+ "a2430a9d0": {
+  "text": "ສະຕະວັດ",
+  "f": "audio/f/a2430a9d0.mp3"
+ },
+ "a4eb86938": {
+  "text": "ສະຫຼຸບ",
+  "f": "audio/f/a4eb86938.mp3"
+ },
+ "a6311aace": {
+  "text": "ສະຫຼຸບແລ້ວ",
+  "f": "audio/f/a6311aace.mp3"
+ },
+ "a19a8dc50": {
+  "text": "ສະເໜີ",
+  "f": "audio/f/a19a8dc50.mp3"
+ },
+ "a19a8d71b": {
+  "text": "ສະແດງ",
+  "f": "audio/f/a19a8d71b.mp3"
+ },
+ "a52367c73": {
+  "text": "ສະໝັກວຽກ",
+  "f": "audio/f/a52367c73.mp3"
+ },
+ "afe2150cf": {
+  "text": "ສັນຍາລັກ",
+  "f": "audio/f/afe2150cf.mp3"
+ },
+ "a84a80950": {
+  "text": "ສາທຸ",
+  "f": "audio/f/a84a80950.mp3"
+ },
+ "a19a97c90": {
+  "text": "ສຳຄັນ",
+  "f": "audio/f/a19a97c90.mp3"
+ },
+ "a19aa08f2": {
+  "text": "ສຳລັບ",
+  "f": "audio/f/a19aa08f2.mp3"
+ },
+ "a88bea117": {
+  "text": "ສຳລັບຂ້ອຍ",
+  "f": "audio/f/a88bea117.mp3"
+ },
+ "a31096f26": {
+  "text": "ສິ່ງທີ່",
+  "f": "audio/f/a31096f26.mp3"
+ },
+ "a4f2d1f4a": {
+  "text": "ສືບຕໍ່",
+  "f": "audio/f/a4f2d1f4a.mp3"
+ },
+ "a7eca26e0": {
+  "text": "ສຸດທ້າຍກໍຕົກລົງ",
+  "f": "audio/f/a7eca26e0.mp3"
+ },
+ "abc7086f": {
+  "text": "ສູງ",
+  "f": "audio/f/abc7086f.mp3"
+ },
+ "a4f798818": {
+  "text": "ສົມມຸດ",
+  "f": "audio/f/a4f798818.mp3"
+ },
+ "a93b9fbf9": {
+  "text": "ສົມມຸດວ່າ",
+  "f": "audio/f/a93b9fbf9.mp3"
+ },
+ "a8ceb33de": {
+  "text": "ສົມມຸດວ່າເຮົາໄປນຳກັນເດ",
+  "f": "audio/f/a8ceb33de.mp3"
+ },
+ "a84a86de6": {
+  "text": "ສ້ອມ",
+  "f": "audio/f/a84a86de6.mp3"
+ },
+ "a84a86e71": {
+  "text": "ສ້າງ",
+  "f": "audio/f/a84a86e71.mp3"
+ },
+ "aa9a721fb": {
+  "text": "ສ້າງຂຶ້ນຫຼາຍຮ້ອຍປີມາແລ້ວ",
+  "f": "audio/f/aa9a721fb.mp3"
+ },
+ "a19a79ee5": {
+  "text": "ຫຍຸ້ງ",
+  "f": "audio/f/a19a79ee5.mp3"
+ },
+ "a51d17a0a": {
+  "text": "ຫົວຂໍ້",
+  "f": "audio/f/a51d17a0a.mp3"
+ },
+ "aab518453": {
+  "text": "ຫົວຂໍ້ແມ່ນ ອາຫານ ເວົ້າສາມນາທີ",
+  "f": "audio/f/aab518453.mp3"
+ },
+ "a51d2f849": {
+  "text": "ຫົວໜ້າ",
+  "f": "audio/f/a51d2f849.mp3"
+ },
+ "a10ef7dcb": {
+  "text": "ຫຼັງຈາກນັ້ນ",
+  "f": "audio/f/a10ef7dcb.mp3"
+ },
+ "a40b2a696": {
+  "text": "ຫຼາຍ ເພາະໃນເມືອງມີວຽກຫຼາຍກວ່າ",
+  "f": "audio/f/a40b2a696.mp3"
+ },
+ "a735ab305": {
+  "text": "ຫຼາຍຂຶ້ນ",
+  "f": "audio/f/a735ab305.mp3"
+ },
+ "a8f92c5df": {
+  "text": "ຫຼຸດລົງ",
+  "f": "audio/f/a8f92c5df.mp3"
+ },
+ "a171f22ba": {
+  "text": "ຫ້າມຊີ້ຕີນໃສ່ພະ",
+  "f": "audio/f/a171f22ba.mp3"
+ },
+ "a19deedde": {
+  "text": "ອັດຕາ",
+  "f": "audio/f/a19deedde.mp3"
+ },
+ "a866ab568": {
+  "text": "ອາກາດເປັນແນວໃດ",
+  "f": "audio/f/a866ab568.mp3"
+ },
+ "abc71451": {
+  "text": "ອາຍ",
+  "f": "audio/f/abc71451.mp3"
+ },
+ "a1012a829": {
+  "text": "ອານາຈັກ",
+  "f": "audio/f/a1012a829.mp3"
+ },
+ "a521bc9ac": {
+  "text": "ອີກຢ່າງໜຶ່ງ",
+  "f": "audio/f/a521bc9ac.mp3"
+ },
+ "a5671b6ec": {
+  "text": "ອົດທົນ",
+  "f": "audio/f/a5671b6ec.mp3"
+ },
+ "a57cd86c2": {
+  "text": "ຮອບໂລກ",
+  "f": "audio/f/a57cd86c2.mp3"
+ },
+ "a58072070": {
+  "text": "ຮັກກັນ",
+  "f": "audio/f/a58072070.mp3"
+ },
+ "a76bd8d1a": {
+  "text": "ຮຽນເຖິງ",
+  "f": "audio/f/a76bd8d1a.mp3"
+ },
+ "abf516c1e": {
+  "text": "ຮຽນເຖິງຫົວໜ້າ",
+  "f": "audio/f/abf516c1e.mp3"
+ },
+ "a3de06067": {
+  "text": "ຮຽນເຖິງຫົວໜ້າພະແນກ",
+  "f": "audio/f/a3de06067.mp3"
+ },
+ "a84aa9f50": {
+  "text": "ຮ້ອງ",
+  "f": "audio/f/a84aa9f50.mp3"
+ },
+ "a94068474": {
+  "text": "ຮ້ອງຮຽນ",
+  "f": "audio/f/a94068474.mp3"
+ },
+ "a9406ccf5": {
+  "text": "ຮ້ອງເພງ",
+  "f": "audio/f/a9406ccf5.mp3"
+ },
+ "a9406dfe8": {
+  "text": "ຮ້ອງໄຫ້",
+  "f": "audio/f/a9406dfe8.mp3"
+ },
+ "a1603d624": {
+  "text": "ຮ້ອນກວ່າ",
+  "f": "audio/f/a1603d624.mp3"
+ },
+ "a33f03d39": {
+  "text": "ຮ້ອນກວ່າພາກເໜືອ ພາກເໜືອມີພູຫຼາຍ",
+  "f": "audio/f/a33f03d39.mp3"
+ },
+ "a84b34c71": {
+  "text": "ເກັບ",
+  "f": "audio/f/a84b34c71.mp3"
+ },
+ "a15cc73c5": {
+  "text": "ເກັບເງິນ",
+  "f": "audio/f/a15cc73c5.mp3"
+ },
+ "a159cbe1c": {
+  "text": "ເກັ່ງ ເຂົ້າໃຈໝົດເລີຍ",
+  "f": "audio/f/a159cbe1c.mp3"
+ },
+ "a1b1d0524": {
+  "text": "ເກືອບ",
+  "f": "audio/f/a1b1d0524.mp3"
+ },
+ "a5c7a0821": {
+  "text": "ເຂົາສອນເຮັດຕຳໝາກຫຸ່ງ",
+  "f": "audio/f/a5c7a0821.mp3"
+ },
+ "a59221f28": {
+  "text": "ເຂົ້າໃຈ",
+  "f": "audio/f/a59221f28.mp3"
+ },
+ "a4288d9f0": {
+  "text": "ເຂົ້າໃຈເກືອບໝົດ ຄ້າຍກັນຫຼາຍ",
+  "f": "audio/f/a4288d9f0.mp3"
+ },
+ "a6f38dcf4": {
+  "text": "ເຂົ້າໃຈໝົດ",
+  "f": "audio/f/a6f38dcf4.mp3"
+ },
+ "af1dd0d7b": {
+  "text": "ເຂົ້າໃຈໝົດເລີຍ",
+  "f": "audio/f/af1dd0d7b.mp3"
+ },
+ "a3d86b62a": {
+  "text": "ເງິນເດືອນ",
+  "f": "audio/f/a3d86b62a.mp3"
+ },
+ "aa2f87acd": {
+  "text": "ເຈົ້າກັບແຟນຄືນດີກັນແລ້ວບໍ",
+  "f": "audio/f/aa2f87acd.mp3"
+ },
+ "a4b427747": {
+  "text": "ເຈົ້າຄວນ",
+  "f": "audio/f/a4b427747.mp3"
+ },
+ "a72cfa7a1": {
+  "text": "ເຈົ້າຄວນພັກຜ່ອນ",
+  "f": "audio/f/a72cfa7a1.mp3"
+ },
+ "a2bbf1a3d": {
+  "text": "ເຈົ້າຄວນຮຽນສິ່ງທີ່ເຈົ້າມັກ",
+  "f": "audio/f/a2bbf1a3d.mp3"
+ },
+ "a72a42350": {
+  "text": "ເຈົ້າຄິດວ່າໜັງເລື່ອງນີ້ເປັນແນວໃດ",
+  "f": "audio/f/a72a42350.mp3"
+ },
+ "ad04b6ba7": {
+  "text": "ເຈົ້າຄິດແນວໃດ",
+  "f": "audio/f/ad04b6ba7.mp3"
+ },
+ "a60efdac6": {
+  "text": "ເຈົ້າມັກຫຍັງ",
+  "f": "audio/f/a60efdac6.mp3"
+ },
+ "ae810293f": {
+  "text": "ເຈົ້າມີຈຸດອ່ອນຫຍັງບໍ",
+  "f": "audio/f/ae810293f.mp3"
+ },
+ "a77940dd4": {
+  "text": "ເຈົ້າເຂົ້າໃຈພາສາໄທບໍ",
+  "f": "audio/f/a77940dd4.mp3"
+ },
+ "a1b21de81": {
+  "text": "ເຊັ່ນ",
+  "f": "audio/f/a1b21de81.mp3"
+ },
+ "aca864687": {
+  "text": "ເດັກນ້ອຍ",
+  "f": "audio/f/aca864687.mp3"
+ },
+ "a84b3a18c": {
+  "text": "ເຕັມ",
+  "f": "audio/f/a84b3a18c.mp3"
+ },
+ "a84b3a616": {
+  "text": "ເຖິງ",
+  "f": "audio/f/a84b3a616.mp3"
+ },
+ "a1b292a11": {
+  "text": "ເທົ່າ",
+  "f": "audio/f/a1b292a11.mp3"
+ },
+ "a5e8a1db0": {
+  "text": "ເນື້ອເພງ",
+  "f": "audio/f/a5e8a1db0.mp3"
+ },
+ "a5cd49767": {
+  "text": "ເບິ່ງວິດີໂອນີ້ແລ້ວເລົ່າໃຫ້ຟັງແດ່",
+  "f": "audio/f/a5cd49767.mp3"
+ },
+ "a70f7e97a": {
+  "text": "ເປັນສັນຍາລັກຂອງຊາດ",
+  "f": "audio/f/a70f7e97a.mp3"
+ },
+ "a61de6eb8": {
+  "text": "ເປັນສັນຍາລັກຂອງຊາດລາວ",
+  "f": "audio/f/a61de6eb8.mp3"
+ },
+ "acbe00d41": {
+  "text": "ເປັນຫຍັງຢາກເຮັດວຽກຢູ່ນີ້",
+  "f": "audio/f/acbe00d41.mp3"
+ },
+ "af15b892c": {
+  "text": "ເປີດບັນຊີ",
+  "f": "audio/f/af15b892c.mp3"
+ },
+ "a28f0a6b8": {
+  "text": "ເປີດແລ້ວແຕ່ບໍ່ເຢັນ",
+  "f": "audio/f/a28f0a6b8.mp3"
+ },
+ "abc7628a": {
+  "text": "ເພງ",
+  "f": "audio/f/abc7628a.mp3"
+ },
+ "ad7e7c913": {
+  "text": "ເພງນີ້ດັງຫຼາຍ",
+  "f": "audio/f/ad7e7c913.mp3"
+ },
+ "a4e4f8bb4": {
+  "text": "ເພງນີ້ດັງຫຼາຍຢູ່ລາວ",
+  "f": "audio/f/a4e4f8bb4.mp3"
+ },
+ "a7190666e": {
+  "text": "ເພາະວ່າໂຮງຮຽນນີ້ມີຊື່ສຽງດີ",
+  "f": "audio/f/a7190666e.mp3"
+ },
+ "a2fd2b19b": {
+  "text": "ເພີ່ມຂຶ້ນ",
+  "f": "audio/f/a2fd2b19b.mp3"
+ },
+ "a28bc1b26": {
+  "text": "ເພື່ອນສະໜິດ",
+  "f": "audio/f/a28bc1b26.mp3"
+ },
+ "a81499f9d": {
+  "text": "ເລື່ອງ",
+  "f": "audio/f/a81499f9d.mp3"
+ },
+ "adfcda2aa": {
+  "text": "ເລື່ອງນີ້ເວົ້າກ່ຽວກັບ",
+  "f": "audio/f/adfcda2aa.mp3"
+ },
+ "a1b30d75f": {
+  "text": "ເລົ່າ",
+  "f": "audio/f/a1b30d75f.mp3"
+ },
+ "a246b1700": {
+  "text": "ເລົ່າກ່ຽວກັບຕົວເອງແດ່",
+  "f": "audio/f/a246b1700.mp3"
+ },
+ "af9f27b4d": {
+  "text": "ເລົ່າໃຫ້ຟັງ",
+  "f": "audio/f/af9f27b4d.mp3"
+ },
+ "a3859872b": {
+  "text": "ເວົ້າກ່ຽວກັບຫຍັງ",
+  "f": "audio/f/a3859872b.mp3"
+ },
+ "a43c2e230": {
+  "text": "ເວົ້າກ່ຽວກັບອາຫານ",
+  "f": "audio/f/a43c2e230.mp3"
+ },
+ "a4119cf76": {
+  "text": "ເວົ້າງ່າຍໆ",
+  "f": "audio/f/a4119cf76.mp3"
+ },
+ "abc7641c": {
+  "text": "ເສຍ",
+  "f": "audio/f/abc7641c.mp3"
+ },
+ "a25e952d2": {
+  "text": "ເສດຖະກິດ",
+  "f": "audio/f/a25e952d2.mp3"
+ },
+ "a1b339565": {
+  "text": "ເສົ້າ",
+  "f": "audio/f/a1b339565.mp3"
+ },
+ "a81b21d63": {
+  "text": "ເຫັນດີ",
+  "f": "audio/f/a81b21d63.mp3"
+ },
+ "ab7f62bbb": {
+  "text": "ເຫັນວ່າ",
+  "f": "audio/f/ab7f62bbb.mp3"
+ },
+ "ab9488b58": {
+  "text": "ເອກະສານ",
+  "f": "audio/f/ab9488b58.mp3"
+ },
+ "a3054b5ca": {
+  "text": "ເອີ ຂໍຄິດແປັບໜຶ່ງ",
+  "f": "audio/f/a3054b5ca.mp3"
+ },
+ "a1b35200c": {
+  "text": "ເອີໂຣ",
+  "f": "audio/f/a1b35200c.mp3"
+ },
+ "a26f36d1f": {
+  "text": "ເອົາອີກຈອກບໍ",
+  "f": "audio/f/a26f36d1f.mp3"
+ },
+ "ae229fb5c": {
+  "text": "ເອົາອີກຈອກບໍເດ້",
+  "f": "audio/f/ae229fb5c.mp3"
+ },
+ "a1364624b": {
+  "text": "ເຮົາຄຸເຂົ່າແລ້ວໃສ່ເຂົ້າໜຽວໃສ່ບາດ",
+  "f": "audio/f/a1364624b.mp3"
+ },
+ "abc7632f": {
+  "text": "ແຂງ",
+  "f": "audio/f/abc7632f.mp3"
+ },
+ "a84b3dbb6": {
+  "text": "ແຂວງ",
+  "f": "audio/f/a84b3dbb6.mp3"
+ },
+ "ad3327df2": {
+  "text": "ແຕ່ກ່ອນ",
+  "f": "audio/f/ad3327df2.mp3"
+ },
+ "a35d71061": {
+  "text": "ແຕ່ກ່ອນ ດຽວນີ້",
+  "f": "audio/f/a35d71061.mp3"
+ },
+ "adb23ae58": {
+  "text": "ແຕ່ກ່ອນວຽງຈັນບໍ່ມີລົດຫຼາຍຄືດຽວນີ້",
+  "f": "audio/f/adb23ae58.mp3"
+ },
+ "a885fb520": {
+  "text": "ແຕ່ພໍ່ຢາກໃຫ້ຂ້ອຍເປັນທ່ານໝໍ",
+  "f": "audio/f/a885fb520.mp3"
+ },
+ "aa74f65dc": {
+  "text": "ແຕ່ສຸດທ້າຍກໍຕົກລົງ ແລະຢູ່ນຳກັນມາສາມສິບປີແລ້ວ",
+  "f": "audio/f/aa74f65dc.mp3"
+ },
+ "ac703e85a": {
+  "text": "ແທ້ບໍ ຂໍເບິ່ງໃບບິນແດ່",
+  "f": "audio/f/ac703e85a.mp3"
+ },
+ "a1b3c267b": {
+  "text": "ແນະນຳ",
+  "f": "audio/f/a1b3c267b.mp3"
+ },
+ "adbb86e74": {
+  "text": "ແປດເຕັມສິບ",
+  "f": "audio/f/adbb86e74.mp3"
+ },
+ "abc766fe": {
+  "text": "ແຟນ",
+  "f": "audio/f/abc766fe.mp3"
+ },
+ "a31d0c730": {
+  "text": "ແຟນຂ້ອຍບອກວ່າລາວຫຍຸ້ງຫຼາຍ",
+  "f": "audio/f/a31d0c730.mp3"
+ },
+ "af1ce124f": {
+  "text": "ແມ່ນ ຂ້ອຍເກືອບຮ້ອງໄຫ້",
+  "f": "audio/f/af1ce124f.mp3"
+ },
+ "ab23472ec": {
+  "text": "ແມ່ນ ລາວເປັນຄົນດີ",
+  "f": "audio/f/ab23472ec.mp3"
+ },
+ "a67052656": {
+  "text": "ແມ່ນ ອາກາດກໍດີກວ່າ ແຕ່ບໍ່ສະດວກເທົ່າ",
+  "f": "audio/f/a67052656.mp3"
+ },
+ "ac6c8b49": {
+  "text": "ແມ່ນຢູ່ ແຕ່",
+  "f": "audio/f/ac6c8b49.mp3"
+ },
+ "af8dca5c9": {
+  "text": "ແມ່ນຢູ່ແຕ່",
+  "f": "audio/f/af8dca5c9.mp3"
+ },
+ "a83aea2c3": {
+  "text": "ແມ່ນແລ້ວ ຂໍອະໄພ ຈະຄືນເງິນໃຫ້",
+  "f": "audio/f/a83aea2c3.mp3"
+ },
+ "ac1b8601c": {
+  "text": "ແມ່ໃຫ້ຂ້ອຍໄປຕະຫຼາດ",
+  "f": "audio/f/ac1b8601c.mp3"
+ },
+ "abc767ac": {
+  "text": "ແລກ",
+  "f": "audio/f/abc767ac.mp3"
+ },
+ "af3a1b480": {
+  "text": "ແລກເງິນ",
+  "f": "audio/f/af3a1b480.mp3"
+ },
+ "a4a4d1090": {
+  "text": "ແລ້ວລາວຖາມວ່າຂ້ອຍໃຈຮ້າຍບໍ",
+  "f": "audio/f/a4a4d1090.mp3"
+ },
+ "aa272c04e": {
+  "text": "ແລ້ວເຈົ້າຕອບວ່າແນວໃດ",
+  "f": "audio/f/aa272c04e.mp3"
+ },
+ "a2d8f8e3a": {
+  "text": "ແລ້ວແມ່ຕອບວ່າແນວໃດ",
+  "f": "audio/f/a2d8f8e3a.mp3"
+ },
+ "a84b48cfd": {
+  "text": "ແຫຼະ",
+  "f": "audio/f/a84b48cfd.mp3"
+ },
+ "a83a8cec0": {
+  "text": "ແອເສຍແລ້ວ",
+  "f": "audio/f/a83a8cec0.mp3"
+ },
+ "a7bd3acd2": {
+  "text": "ແອເສຍແລ້ວ ຊ່ວຍມາເບິ່ງໃຫ້ແດ່ໄດ້ບໍ",
+  "f": "audio/f/a7bd3acd2.mp3"
+ },
+ "a45177aeb": {
+  "text": "ໂດຍລວມແລ້ວ",
+  "f": "audio/f/a45177aeb.mp3"
+ },
+ "a8e178803": {
+  "text": "ໂດຍລວມແລ້ວໃຫ້ຈັກຄະແນນ",
+  "f": "audio/f/a8e178803.mp3"
+ },
+ "abc769d4": {
+  "text": "ໂດນ",
+  "f": "audio/f/abc769d4.mp3"
+ },
+ "ad1220f2b": {
+  "text": "ໂດນຂີ້ລັກ",
+  "f": "audio/f/ad1220f2b.mp3"
+ },
+ "ad6a89e5f": {
+  "text": "ໂອເຄ ຂໍຄິດເບິ່ງກ່ອນ",
+  "f": "audio/f/ad6a89e5f.mp3"
+ },
+ "ae726d97": {
+  "text": "ໂອ້ຍ ອີກຈອກດຽວສາ",
+  "f": "audio/f/ae726d97.mp3"
+ },
+ "a5b6001": {
+  "text": "ໃນ",
+  "f": "audio/f/a5b6001.mp3"
+ },
+ "a4ff55a77": {
+  "text": "ໃນສະຕະວັດທີສິບຫົກ",
+  "f": "audio/f/a4ff55a77.mp3"
+ },
+ "a75fc19ad": {
+  "text": "ໃນເມືອງ",
+  "f": "audio/f/a75fc19ad.mp3"
+ },
+ "ac1a46190": {
+  "text": "ໃນເມືອງມີວຽກຫຼາຍກວ່າ",
+  "f": "audio/f/ac1a46190.mp3"
+ },
+ "a1b6089a9": {
+  "text": "ໃບບິນ",
+  "f": "audio/f/a1b6089a9.mp3"
+ },
+ "a879f20f0": {
+  "text": "ໃຜສ້າງ",
+  "f": "audio/f/a879f20f0.mp3"
+ },
+ "a4883288d": {
+  "text": "ໃຜເປັນຄົນສ້າງ",
+  "f": "audio/f/a4883288d.mp3"
+ },
+ "a88ac237a": {
+  "text": "ໃສ່ບາດ",
+  "f": "audio/f/a88ac237a.mp3"
+ },
+ "a888135bb": {
+  "text": "ໃຫ້ ໄປ",
+  "f": "audio/f/a888135bb.mp3"
+ },
+ "a3c6267a8": {
+  "text": "ໃຫ້ຊ່າງສ້ອມ",
+  "f": "audio/f/a3c6267a8.mp3"
+ },
+ "a88bed8c0": {
+  "text": "ໃຫ້ພອນ",
+  "f": "audio/f/a88bed8c0.mp3"
+ },
+ "a73210de6": {
+  "text": "ໄດ້ ອັດຕາມື້ນີ້ຢູ່ໜ້າຈໍ",
+  "f": "audio/f/a73210de6.mp3"
+ },
+ "a565eed2f": {
+  "text": "ໄປດີກວ່າ",
+  "f": "audio/f/a565eed2f.mp3"
+ },
+ "a7343e9c0": {
+  "text": "ໄປຫາທ່ານໝໍດີກວ່າ",
+  "f": "audio/f/a7343e9c0.mp3"
+ },
+ "a1b7a8ce4": {
+  "text": "ໄວ້ໃຈ",
+  "f": "audio/f/a1b7a8ce4.mp3"
+ },
+ "a7faa3977": {
+  "text": "ໜັງສືຜ່ານແດນ",
+  "f": "audio/f/a7faa3977.mp3"
+ },
+ "afb0f70ad": {
+  "text": "ໜັງສືພິມ",
+  "f": "audio/f/afb0f70ad.mp3"
+ },
+ "aab43d1d4": {
+  "text": "ໜຶ່ງປີແລ້ວ ຄິດວ່າພາສາລາວຂອງເຈົ້າເປັນແນວໃດ",
+  "f": "audio/f/aab43d1d4.mp3"
+ },
+ "ac521986a": {
+  "text": "ໜ້າກິນ",
+  "f": "audio/f/ac521986a.mp3"
+ },
+ "a69611e5f": {
+  "text": "ໜ້າທ່ຽວ",
+  "f": "audio/f/a69611e5f.mp3"
+ },
+ "abc7e1b1": {
+  "text": "ໝົດ",
+  "f": "audio/f/abc7e1b1.mp3"
  }
 }
