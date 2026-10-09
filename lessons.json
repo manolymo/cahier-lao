@@ -1,6 +1,13 @@
 {
  "lessons": [
   {
+   "id": "l00",
+   "num": 0,
+   "title": "L'alphabet lao",
+   "phase": "Partie A · Fondations",
+   "file": "l00.json"
+  },
+  {
    "id": "l01",
    "num": 1,
    "title": "Les tons + saluer maman",

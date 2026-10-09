@@ -1,0 +1,861 @@
+{
+ "num": 0,
+ "phase": "Partie A · Fondations",
+ "title": "L'alphabet lao",
+ "objective": "Reconnaître à l'oreille et à l'œil les 27 consonnes et les voyelles de base.",
+ "sections": [
+  {
+   "title": "Objectif",
+   "html": "<p>Reconnaître à l'oreille et à l'œil les 27 consonnes et les voyelles de base du lao. Cette leçon est un <b>panorama</b> : on écoute, on repère, on ne cherche pas encore à tout mémoriser. Chaque lettre sera reprise en détail dans la Partie B.</p>"
+  },
+  {
+   "title": "Comment s'écrit le lao",
+   "html": "<ul><li>On écrit de gauche à droite, <b>sans espace entre les mots</b>. L'espace sépare plutôt les phrases.</li>\n<li>La base de chaque syllabe est une <b>consonne</b>. Les voyelles se placent autour d'elle : avant, après, au-dessus ou en dessous.</li>\n<li>Pour montrer une voyelle seule, on l'écrit autour de <span class=\"lo\">ອ</span>, une consonne muette qui sert de support : <span class=\"lo\">ອາ</span> = « aa ».</li>\n<li>Les consonnes sont rangées en <b>3 classes</b> : moyenne, haute, basse. La classe sert à calculer le ton d'un mot. Pour l'instant, retiens juste qu'elle existe.</li>\n<li>Comme en français « a comme Anatole », chaque consonne a un <b>mot-clé</b> : <span class=\"lo\">ກ</span> se récite <span class=\"lo\">ກໍ ໄກ່</span>, « k comme poule ».</li></ul>\n<p class=\"note\">Touche une lettre ou un mot souligné pour l'entendre.</p>"
+  },
+  {
+   "title": "Consonnes de classe moyenne (8)",
+   "html": "<div class=\"tbl\"><table><tr><th>Lettre</th><th>Son</th><th>Mot-clé</th><th>Sens</th></tr><tr><td class=\"lo\" data-t=\"ກໍ ໄກ່\" style=\"font-size:1.8rem\">ກ</td><td><b>k</b></td><td><span class=\"lo\" data-t=\"ໄກ່\">ໄກ່</span> <span class=\"rom\">kay</span></td><td>poule</td></tr><tr><td class=\"lo\" data-t=\"ຈໍ ຈອກ\" style=\"font-size:1.8rem\">ຈ</td><td><b>j</b></td><td><span class=\"lo\" data-t=\"ຈອກ\">ຈອກ</span> <span class=\"rom\">jɔɔk</span></td><td>verre</td></tr><tr><td class=\"lo\" data-t=\"ດໍ ເດັກ\" style=\"font-size:1.8rem\">ດ</td><td><b>d</b></td><td><span class=\"lo\" data-t=\"ເດັກ\">ເດັກ</span> <span class=\"rom\">dek</span></td><td>enfant</td></tr><tr><td class=\"lo\" data-t=\"ຕໍ ຕາ\" style=\"font-size:1.8rem\">ຕ</td><td><b>t</b></td><td><span class=\"lo\" data-t=\"ຕາ\">ຕາ</span> <span class=\"rom\">taa</span></td><td>œil</td></tr><tr><td class=\"lo\" data-t=\"ບໍ ແບ້\" style=\"font-size:1.8rem\">ບ</td><td><b>b</b></td><td><span class=\"lo\" data-t=\"ແບ້\">ແບ້</span> <span class=\"rom\">bɛɛ</span></td><td>chèvre</td></tr><tr><td class=\"lo\" data-t=\"ປໍ ປາ\" style=\"font-size:1.8rem\">ປ</td><td><b>p</b></td><td><span class=\"lo\" data-t=\"ປາ\">ປາ</span> <span class=\"rom\">paa</span></td><td>poisson</td></tr><tr><td class=\"lo\" data-t=\"ຢໍ ຢາ\" style=\"font-size:1.8rem\">ຢ</td><td><b>y</b></td><td><span class=\"lo\" data-t=\"ຢາ\">ຢາ</span> <span class=\"rom\">yaa</span></td><td>médicament</td></tr><tr><td class=\"lo\" data-t=\"ອໍ ໂອ\" style=\"font-size:1.8rem\">ອ</td><td><b>ʔ (support muet)</b></td><td><span class=\"lo\" data-t=\"ໂອ\">ໂອ</span> <span class=\"rom\">oo</span></td><td>bol</td></tr></table></div>"
+  },
+  {
+   "title": "Consonnes de classe haute (6)",
+   "html": "<div class=\"tbl\"><table><tr><th>Lettre</th><th>Son</th><th>Mot-clé</th><th>Sens</th></tr><tr><td class=\"lo\" data-t=\"ຂໍ ໄຂ່\" style=\"font-size:1.8rem\">ຂ</td><td><b>kh</b></td><td><span class=\"lo\" data-t=\"ໄຂ່\">ໄຂ່</span> <span class=\"rom\">khay</span></td><td>œuf</td></tr><tr><td class=\"lo\" data-t=\"ສໍ ເສືອ\" style=\"font-size:1.8rem\">ສ</td><td><b>s</b></td><td><span class=\"lo\" data-t=\"ເສືອ\">ເສືອ</span> <span class=\"rom\">sʉa</span></td><td>tigre</td></tr><tr><td class=\"lo\" data-t=\"ຖໍ ຖົງ\" style=\"font-size:1.8rem\">ຖ</td><td><b>th</b></td><td><span class=\"lo\" data-t=\"ຖົງ\">ຖົງ</span> <span class=\"rom\">thong</span></td><td>sac</td></tr><tr><td class=\"lo\" data-t=\"ຜໍ ເຜິ້ງ\" style=\"font-size:1.8rem\">ຜ</td><td><b>ph</b></td><td><span class=\"lo\" data-t=\"ເຜິ້ງ\">ເຜິ້ງ</span> <span class=\"rom\">phɤng</span></td><td>abeille</td></tr><tr><td class=\"lo\" data-t=\"ຝໍ ຝົນ\" style=\"font-size:1.8rem\">ຝ</td><td><b>f</b></td><td><span class=\"lo\" data-t=\"ຝົນ\">ຝົນ</span> <span class=\"rom\">fon</span></td><td>pluie</td></tr><tr><td class=\"lo\" data-t=\"ຫໍ ຫ່ານ\" style=\"font-size:1.8rem\">ຫ</td><td><b>h</b></td><td><span class=\"lo\" data-t=\"ຫ່ານ\">ຫ່ານ</span> <span class=\"rom\">haan</span></td><td>oie</td></tr></table></div>"
+  },
+  {
+   "title": "Consonnes de classe basse (13)",
+   "html": "<div class=\"tbl\"><table><tr><th>Lettre</th><th>Son</th><th>Mot-clé</th><th>Sens</th></tr><tr><td class=\"lo\" data-t=\"ຄໍ ຄວາຍ\" style=\"font-size:1.8rem\">ຄ</td><td><b>kh</b></td><td><span class=\"lo\" data-t=\"ຄວາຍ\">ຄວາຍ</span> <span class=\"rom\">khwaay</span></td><td>buffle</td></tr><tr><td class=\"lo\" data-t=\"ງໍ ງົວ\" style=\"font-size:1.8rem\">ງ</td><td><b>ng</b></td><td><span class=\"lo\" data-t=\"ງົວ\">ງົວ</span> <span class=\"rom\">ngua</span></td><td>bœuf</td></tr><tr><td class=\"lo\" data-t=\"ຊໍ ຊ້າງ\" style=\"font-size:1.8rem\">ຊ</td><td><b>s</b></td><td><span class=\"lo\" data-t=\"ຊ້າງ\">ຊ້າງ</span> <span class=\"rom\">saang</span></td><td>éléphant</td></tr><tr><td class=\"lo\" data-t=\"ຍໍ ຍຸງ\" style=\"font-size:1.8rem\">ຍ</td><td><b>ny</b></td><td><span class=\"lo\" data-t=\"ຍຸງ\">ຍຸງ</span> <span class=\"rom\">nyung</span></td><td>moustique</td></tr><tr><td class=\"lo\" data-t=\"ທໍ ທຸງ\" style=\"font-size:1.8rem\">ທ</td><td><b>th</b></td><td><span class=\"lo\" data-t=\"ທຸງ\">ທຸງ</span> <span class=\"rom\">thung</span></td><td>drapeau</td></tr><tr><td class=\"lo\" data-t=\"ນໍ ນົກ\" style=\"font-size:1.8rem\">ນ</td><td><b>n</b></td><td><span class=\"lo\" data-t=\"ນົກ\">ນົກ</span> <span class=\"rom\">nok</span></td><td>oiseau</td></tr><tr><td class=\"lo\" data-t=\"ພໍ ພູ\" style=\"font-size:1.8rem\">ພ</td><td><b>ph</b></td><td><span class=\"lo\" data-t=\"ພູ\">ພູ</span> <span class=\"rom\">phuu</span></td><td>montagne</td></tr><tr><td class=\"lo\" data-t=\"ຟໍ ໄຟ\" style=\"font-size:1.8rem\">ຟ</td><td><b>f</b></td><td><span class=\"lo\" data-t=\"ໄຟ\">ໄຟ</span> <span class=\"rom\">fay</span></td><td>feu</td></tr><tr><td class=\"lo\" data-t=\"ມໍ ແມວ\" style=\"font-size:1.8rem\">ມ</td><td><b>m</b></td><td><span class=\"lo\" data-t=\"ແມວ\">ແມວ</span> <span class=\"rom\">mɛɛw</span></td><td>chat</td></tr><tr><td class=\"lo\" data-t=\"ຣໍ ຣົດ\" style=\"font-size:1.8rem\">ຣ</td><td><b>r (souvent dit l)</b></td><td><span class=\"lo\" data-t=\"ຣົດ\">ຣົດ</span> <span class=\"rom\">rot</span></td><td>voiture</td></tr><tr><td class=\"lo\" data-t=\"ລໍ ລີງ\" style=\"font-size:1.8rem\">ລ</td><td><b>l</b></td><td><span class=\"lo\" data-t=\"ລີງ\">ລີງ</span> <span class=\"rom\">ling</span></td><td>singe</td></tr><tr><td class=\"lo\" data-t=\"ວໍ ວີ\" style=\"font-size:1.8rem\">ວ</td><td><b>w</b></td><td><span class=\"lo\" data-t=\"ວີ\">ວີ</span> <span class=\"rom\">wii</span></td><td>éventail</td></tr><tr><td class=\"lo\" data-t=\"ຮໍ ເຮືອນ\" style=\"font-size:1.8rem\">ຮ</td><td><b>h</b></td><td><span class=\"lo\" data-t=\"ເຮືອນ\">ເຮືອນ</span> <span class=\"rom\">hʉan</span></td><td>maison</td></tr></table></div><p class=\"note\">Plusieurs lettres ont le même son (<span class=\"lo\">ຂ</span> et <span class=\"lo\">ຄ</span> = kh ; <span class=\"lo\">ສ</span> et <span class=\"lo\">ຊ</span> = s ; <span class=\"lo\">ຖ</span> et <span class=\"lo\">ທ</span> = th ; <span class=\"lo\">ຜ</span> et <span class=\"lo\">ພ</span> = ph ; <span class=\"lo\">ຝ</span> et <span class=\"lo\">ຟ</span> = f ; <span class=\"lo\">ຫ</span> et <span class=\"lo\">ຮ</span> = h). Ce n'est pas un doublon : la classe change le ton du mot.</p>"
+  },
+  {
+   "title": "Les sons à ne pas confondre",
+   "html": "<p>Le piège n°1 pour un francophone : le <b>souffle</b>. Mets ta main devant la bouche.</p>\n<div class=\"tbl\"><table><tr><th>Sans souffle</th><th>Avec souffle</th><th>Sonore</th></tr>\n<tr><td><span class=\"lo\" data-t=\"ກໍ ໄກ່\">ກ</span> k</td><td><span class=\"lo\" data-t=\"ຄໍ ຄວາຍ\">ຄ</span> <span class=\"lo\" data-t=\"ຂໍ ໄຂ່\">ຂ</span> kh</td><td>—</td></tr>\n<tr><td><span class=\"lo\" data-t=\"ຕໍ ຕາ\">ຕ</span> t</td><td><span class=\"lo\" data-t=\"ທໍ ທຸງ\">ທ</span> <span class=\"lo\" data-t=\"ຖໍ ຖົງ\">ຖ</span> th</td><td><span class=\"lo\" data-t=\"ດໍ ເດັກ\">ດ</span> d</td></tr>\n<tr><td><span class=\"lo\" data-t=\"ປໍ ປາ\">ປ</span> p</td><td><span class=\"lo\" data-t=\"ພໍ ພູ\">ພ</span> <span class=\"lo\" data-t=\"ຜໍ ເຜິ້ງ\">ຜ</span> ph</td><td><span class=\"lo\" data-t=\"ບໍ ແບ້\">ບ</span> b</td></tr>\n<tr><td><span class=\"lo\" data-t=\"ຈໍ ຈອກ\">ຈ</span> j (entre tch et dj)</td><td>—</td><td>—</td></tr></table></div>\n<ul><li><b>k, t, p</b> sans souffle : comme en français. <b>kh, th, ph</b> : avec un petit souffle d'air. <i>ph</i> n'est jamais « f », <i>th</i> n'est pas le « th » anglais.</li>\n<li><span class=\"lo\" data-t=\"ງໍ ງົວ\">ງ</span> <b>ng</b> : le son final de « parking », mais en début de mot.</li>\n<li><span class=\"lo\" data-t=\"ຍໍ ຍຸງ\">ຍ</span> <b>ny</b> : le « gn » d'« agneau ».</li></ul>"
+  },
+  {
+   "title": "Les voyelles simples",
+   "html": "<p>Chaque voyelle existe en version <b>courte</b> et <b>longue</b>. La durée change le sens du mot : c'est aussi important que le ton.</p><div class=\"tbl\"><table><tr><th>Courte</th><th></th><th>Longue</th><th></th><th>Son proche en français</th></tr><tr><td class=\"lo\" style=\"font-size:1.6rem\">ອະ</td><td class=\"rom\">a</td><td class=\"lo\" style=\"font-size:1.6rem\">ອາ</td><td class=\"rom\">aa</td><td>a</td></tr><tr><td class=\"lo\" style=\"font-size:1.6rem\">ອິ</td><td class=\"rom\">i</td><td class=\"lo\" style=\"font-size:1.6rem\">ອີ</td><td class=\"rom\">ii</td><td>i</td></tr><tr><td class=\"lo\" style=\"font-size:1.6rem\">ອຶ</td><td class=\"rom\">ʉ</td><td class=\"lo\" style=\"font-size:1.6rem\">ອື</td><td class=\"rom\">ʉʉ</td><td>« eu » sans arrondir les lèvres</td></tr><tr><td class=\"lo\" style=\"font-size:1.6rem\">ອຸ</td><td class=\"rom\">u</td><td class=\"lo\" style=\"font-size:1.6rem\">ອູ</td><td class=\"rom\">uu</td><td>ou</td></tr><tr><td class=\"lo\" style=\"font-size:1.6rem\">ເອະ</td><td class=\"rom\">e</td><td class=\"lo\" style=\"font-size:1.6rem\">ເອ</td><td class=\"rom\">ee</td><td>é</td></tr><tr><td class=\"lo\" style=\"font-size:1.6rem\">ແອະ</td><td class=\"rom\">ɛ</td><td class=\"lo\" style=\"font-size:1.6rem\">ແອ</td><td class=\"rom\">ɛɛ</td><td>è</td></tr><tr><td class=\"lo\" style=\"font-size:1.6rem\">ໂອະ</td><td class=\"rom\">o</td><td class=\"lo\" style=\"font-size:1.6rem\">ໂອ</td><td class=\"rom\">oo</td><td>ô fermé</td></tr><tr><td class=\"lo\" style=\"font-size:1.6rem\">ເອາະ</td><td class=\"rom\">ɔ</td><td class=\"lo\" style=\"font-size:1.6rem\">ອໍ</td><td class=\"rom\">ɔɔ</td><td>o ouvert (porte)</td></tr><tr><td class=\"lo\" style=\"font-size:1.6rem\">ເອິ</td><td class=\"rom\">ɤ</td><td class=\"lo\" style=\"font-size:1.6rem\">ເອີ</td><td class=\"rom\">ɤɤ</td><td>« e » de « le », lèvres étirées</td></tr></table></div><p class=\"note\">Nouveaux symboles de romanisation : <span class=\"rom\">ʉ</span> (« eu » sans arrondir les lèvres) et <span class=\"rom\">ɤ</span> (un « e » de « le », lèvres étirées).</p>"
+  },
+  {
+   "title": "Diphtongues et voyelles spéciales",
+   "html": "<div class=\"tbl\"><table><tr><th>Voyelle</th><th>Son</th><th>Comment</th></tr><tr><td class=\"lo\" style=\"font-size:1.6rem\">ເອຍ</td><td class=\"rom\">ia</td><td>i + a glissé</td></tr><tr><td class=\"lo\" style=\"font-size:1.6rem\">ເອືອ</td><td class=\"rom\">ʉa</td><td>ʉ + a</td></tr><tr><td class=\"lo\" style=\"font-size:1.6rem\">ອົວ</td><td class=\"rom\">ua</td><td>ou + a</td></tr><tr><td class=\"lo\" style=\"font-size:1.6rem\">ໄອ</td><td class=\"rom\">ay</td><td>aïe</td></tr><tr><td class=\"lo\" style=\"font-size:1.6rem\">ໃອ</td><td class=\"rom\">ay</td><td>aïe (même son, autre graphie)</td></tr><tr><td class=\"lo\" style=\"font-size:1.6rem\">ເອົາ</td><td class=\"rom\">ao</td><td>aou</td></tr><tr><td class=\"lo\" style=\"font-size:1.6rem\">ອຳ</td><td class=\"rom\">am</td><td>am</td></tr></table></div>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices : <b>Quelle consonne ?</b>, <b>Courte ou longue ?</b> et <b>Avec ou sans souffle ?</b>. Fais-les jusqu'à 80 % avant de passer à la leçon 1.</p>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Récite les 27 consonnes avec leur mot-clé en t'aidant du tableau, puis sans le tableau pour la classe moyenne. Si tu as un natif près de toi, fais-lui écouter ta récitation.</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l00-c01",
+   "front": "ກ",
+   "back": "k · ໄກ່ (kay, poule) · classe moyenne"
+  },
+  {
+   "id": "l00-c02",
+   "front": "ຈ",
+   "back": "j · ຈອກ (jɔɔk, verre) · classe moyenne"
+  },
+  {
+   "id": "l00-c03",
+   "front": "ດ",
+   "back": "d · ເດັກ (dek, enfant) · classe moyenne"
+  },
+  {
+   "id": "l00-c04",
+   "front": "ຕ",
+   "back": "t · ຕາ (taa, œil) · classe moyenne"
+  },
+  {
+   "id": "l00-c05",
+   "front": "ບ",
+   "back": "b · ແບ້ (bɛɛ, chèvre) · classe moyenne"
+  },
+  {
+   "id": "l00-c06",
+   "front": "ປ",
+   "back": "p · ປາ (paa, poisson) · classe moyenne"
+  },
+  {
+   "id": "l00-c07",
+   "front": "ຢ",
+   "back": "y · ຢາ (yaa, médicament) · classe moyenne"
+  },
+  {
+   "id": "l00-c08",
+   "front": "ອ",
+   "back": "ʔ (support muet) · ໂອ (oo, bol) · classe moyenne"
+  },
+  {
+   "id": "l00-c09",
+   "front": "ຂ",
+   "back": "kh · ໄຂ່ (khay, œuf) · classe haute"
+  },
+  {
+   "id": "l00-c10",
+   "front": "ສ",
+   "back": "s · ເສືອ (sʉa, tigre) · classe haute"
+  },
+  {
+   "id": "l00-c11",
+   "front": "ຖ",
+   "back": "th · ຖົງ (thong, sac) · classe haute"
+  },
+  {
+   "id": "l00-c12",
+   "front": "ຜ",
+   "back": "ph · ເຜິ້ງ (phɤng, abeille) · classe haute"
+  },
+  {
+   "id": "l00-c13",
+   "front": "ຝ",
+   "back": "f · ຝົນ (fon, pluie) · classe haute"
+  },
+  {
+   "id": "l00-c14",
+   "front": "ຫ",
+   "back": "h · ຫ່ານ (haan, oie) · classe haute"
+  },
+  {
+   "id": "l00-c15",
+   "front": "ຄ",
+   "back": "kh · ຄວາຍ (khwaay, buffle) · classe basse"
+  },
+  {
+   "id": "l00-c16",
+   "front": "ງ",
+   "back": "ng · ງົວ (ngua, bœuf) · classe basse"
+  },
+  {
+   "id": "l00-c17",
+   "front": "ຊ",
+   "back": "s · ຊ້າງ (saang, éléphant) · classe basse"
+  },
+  {
+   "id": "l00-c18",
+   "front": "ຍ",
+   "back": "ny · ຍຸງ (nyung, moustique) · classe basse"
+  },
+  {
+   "id": "l00-c19",
+   "front": "ທ",
+   "back": "th · ທຸງ (thung, drapeau) · classe basse"
+  },
+  {
+   "id": "l00-c20",
+   "front": "ນ",
+   "back": "n · ນົກ (nok, oiseau) · classe basse"
+  },
+  {
+   "id": "l00-c21",
+   "front": "ພ",
+   "back": "ph · ພູ (phuu, montagne) · classe basse"
+  },
+  {
+   "id": "l00-c22",
+   "front": "ຟ",
+   "back": "f · ໄຟ (fay, feu) · classe basse"
+  },
+  {
+   "id": "l00-c23",
+   "front": "ມ",
+   "back": "m · ແມວ (mɛɛw, chat) · classe basse"
+  },
+  {
+   "id": "l00-c24",
+   "front": "ຣ",
+   "back": "r (souvent dit l) · ຣົດ (rot, voiture) · classe basse"
+  },
+  {
+   "id": "l00-c25",
+   "front": "ລ",
+   "back": "l · ລີງ (ling, singe) · classe basse"
+  },
+  {
+   "id": "l00-c26",
+   "front": "ວ",
+   "back": "w · ວີ (wii, éventail) · classe basse"
+  },
+  {
+   "id": "l00-c27",
+   "front": "ຮ",
+   "back": "h · ເຮືອນ (hʉan, maison) · classe basse"
+  },
+  {
+   "id": "l00-v01",
+   "front": "ອະ / ອາ",
+   "back": "a (courte) / aa (longue) · a"
+  },
+  {
+   "id": "l00-v02",
+   "front": "ອິ / ອີ",
+   "back": "i (courte) / ii (longue) · i"
+  },
+  {
+   "id": "l00-v03",
+   "front": "ອຶ / ອື",
+   "back": "ʉ (courte) / ʉʉ (longue) · « eu » sans arrondir les lèvres"
+  },
+  {
+   "id": "l00-v04",
+   "front": "ອຸ / ອູ",
+   "back": "u (courte) / uu (longue) · ou"
+  },
+  {
+   "id": "l00-v05",
+   "front": "ເອະ / ເອ",
+   "back": "e (courte) / ee (longue) · é"
+  },
+  {
+   "id": "l00-v06",
+   "front": "ແອະ / ແອ",
+   "back": "ɛ (courte) / ɛɛ (longue) · è"
+  },
+  {
+   "id": "l00-v07",
+   "front": "ໂອະ / ໂອ",
+   "back": "o (courte) / oo (longue) · ô fermé"
+  },
+  {
+   "id": "l00-v08",
+   "front": "ເອາະ / ອໍ",
+   "back": "ɔ (courte) / ɔɔ (longue) · o ouvert (porte)"
+  },
+  {
+   "id": "l00-v09",
+   "front": "ເອິ / ເອີ",
+   "back": "ɤ (courte) / ɤɤ (longue) · « e » de « le », lèvres étirées"
+  },
+  {
+   "id": "l00-d01",
+   "front": "ເອຍ",
+   "back": "ia · i + a glissé"
+  },
+  {
+   "id": "l00-d02",
+   "front": "ເອືອ",
+   "back": "ʉa · ʉ + a"
+  },
+  {
+   "id": "l00-d03",
+   "front": "ອົວ",
+   "back": "ua · ou + a"
+  },
+  {
+   "id": "l00-d04",
+   "front": "ໄອ",
+   "back": "ay · aïe"
+  },
+  {
+   "id": "l00-d05",
+   "front": "ໃອ",
+   "back": "ay · aïe (même son, autre graphie)"
+  },
+  {
+   "id": "l00-d06",
+   "front": "ເອົາ",
+   "back": "ao · aou"
+  },
+  {
+   "id": "l00-d07",
+   "front": "ອຳ",
+   "back": "am · am"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Quelle consonne ?",
+   "subtitle": "Écoute la lettre et son mot-clé",
+   "instructions": "Tu entends une consonne récitée avec son mot-clé. Trouve la lettre.",
+   "questions": [
+    {
+     "audio": [
+      "ອໍ ໂອ"
+     ],
+     "prompt": "Quelle consonne entends-tu ?",
+     "options": [
+      "ອ",
+      "ປ",
+      "ຖ",
+      "ຍ"
+     ],
+     "answer": "ອ",
+     "reveal": "<b>ອ</b> = ʔ (support muet) · <i>oo</i>, bol"
+    },
+    {
+     "audio": [
+      "ທໍ ທຸງ"
+     ],
+     "prompt": "Quelle consonne entends-tu ?",
+     "options": [
+      "ທ",
+      "ຍ",
+      "ກ",
+      "ປ"
+     ],
+     "answer": "ທ",
+     "reveal": "<b>ທ</b> = th · <i>thung</i>, drapeau"
+    },
+    {
+     "audio": [
+      "ຍໍ ຍຸງ"
+     ],
+     "prompt": "Quelle consonne entends-tu ?",
+     "options": [
+      "ຍ",
+      "ດ",
+      "ຄ",
+      "ສ"
+     ],
+     "answer": "ຍ",
+     "reveal": "<b>ຍ</b> = ny · <i>nyung</i>, moustique"
+    },
+    {
+     "audio": [
+      "ບໍ ແບ້"
+     ],
+     "prompt": "Quelle consonne entends-tu ?",
+     "options": [
+      "ບ",
+      "ອ",
+      "ຢ",
+      "ຂ"
+     ],
+     "answer": "ບ",
+     "reveal": "<b>ບ</b> = b · <i>bɛɛ</i>, chèvre"
+    },
+    {
+     "audio": [
+      "ຜໍ ເຜິ້ງ"
+     ],
+     "prompt": "Quelle consonne entends-tu ?",
+     "options": [
+      "ຜ",
+      "ນ",
+      "ຈ",
+      "ກ"
+     ],
+     "answer": "ຜ",
+     "reveal": "<b>ຜ</b> = ph · <i>phɤng</i>, abeille"
+    },
+    {
+     "audio": [
+      "ນໍ ນົກ"
+     ],
+     "prompt": "Quelle consonne entends-tu ?",
+     "options": [
+      "ນ",
+      "ຢ",
+      "ຟ",
+      "ຕ"
+     ],
+     "answer": "ນ",
+     "reveal": "<b>ນ</b> = n · <i>nok</i>, oiseau"
+    },
+    {
+     "audio": [
+      "ງໍ ງົວ"
+     ],
+     "prompt": "Quelle consonne entends-tu ?",
+     "options": [
+      "ງ",
+      "ອ",
+      "ຍ",
+      "ທ"
+     ],
+     "answer": "ງ",
+     "reveal": "<b>ງ</b> = ng · <i>ngua</i>, bœuf"
+    },
+    {
+     "audio": [
+      "ວໍ ວີ"
+     ],
+     "prompt": "Quelle consonne entends-tu ?",
+     "options": [
+      "ວ",
+      "ງ",
+      "ຂ",
+      "ຝ"
+     ],
+     "answer": "ວ",
+     "reveal": "<b>ວ</b> = w · <i>wii</i>, éventail"
+    },
+    {
+     "audio": [
+      "ດໍ ເດັກ"
+     ],
+     "prompt": "Quelle consonne entends-tu ?",
+     "options": [
+      "ດ",
+      "ຊ",
+      "ຣ",
+      "ຫ"
+     ],
+     "answer": "ດ",
+     "reveal": "<b>ດ</b> = d · <i>dek</i>, enfant"
+    },
+    {
+     "audio": [
+      "ກໍ ໄກ່"
+     ],
+     "prompt": "Quelle consonne entends-tu ?",
+     "options": [
+      "ກ",
+      "ຊ",
+      "ອ",
+      "ຝ"
+     ],
+     "answer": "ກ",
+     "reveal": "<b>ກ</b> = k · <i>kay</i>, poule"
+    },
+    {
+     "audio": [
+      "ພໍ ພູ"
+     ],
+     "prompt": "Quelle consonne entends-tu ?",
+     "options": [
+      "ພ",
+      "ຢ",
+      "ນ",
+      "ຖ"
+     ],
+     "answer": "ພ",
+     "reveal": "<b>ພ</b> = ph · <i>phuu</i>, montagne"
+    },
+    {
+     "audio": [
+      "ຂໍ ໄຂ່"
+     ],
+     "prompt": "Quelle consonne entends-tu ?",
+     "options": [
+      "ຂ",
+      "ຕ",
+      "ດ",
+      "ຊ"
+     ],
+     "answer": "ຂ",
+     "reveal": "<b>ຂ</b> = kh · <i>khay</i>, œuf"
+    }
+   ]
+  },
+  {
+   "title": "Courte ou longue ?",
+   "subtitle": "La durée des voyelles",
+   "instructions": "Écoute seulement la durée de la voyelle.",
+   "questions": [
+    {
+     "audio": [
+      "ອາ"
+     ],
+     "prompt": "Voyelle courte ou longue ?",
+     "options": [
+      "Courte",
+      "Longue"
+     ],
+     "fixed": true,
+     "answer": "Longue",
+     "reveal": "ອະ = a (courte) · ອາ = aa (longue)"
+    },
+    {
+     "audio": [
+      "ອິ"
+     ],
+     "prompt": "Voyelle courte ou longue ?",
+     "options": [
+      "Courte",
+      "Longue"
+     ],
+     "fixed": true,
+     "answer": "Courte",
+     "reveal": "ອິ = i (courte) · ອີ = ii (longue)"
+    },
+    {
+     "audio": [
+      "ອໍ"
+     ],
+     "prompt": "Voyelle courte ou longue ?",
+     "options": [
+      "Courte",
+      "Longue"
+     ],
+     "fixed": true,
+     "answer": "Longue",
+     "reveal": "ເອາະ = ɔ (courte) · ອໍ = ɔɔ (longue)"
+    },
+    {
+     "audio": [
+      "ອະ"
+     ],
+     "prompt": "Voyelle courte ou longue ?",
+     "options": [
+      "Courte",
+      "Longue"
+     ],
+     "fixed": true,
+     "answer": "Courte",
+     "reveal": "ອະ = a (courte) · ອາ = aa (longue)"
+    },
+    {
+     "audio": [
+      "ໂອ"
+     ],
+     "prompt": "Voyelle courte ou longue ?",
+     "options": [
+      "Courte",
+      "Longue"
+     ],
+     "fixed": true,
+     "answer": "Longue",
+     "reveal": "ໂອະ = o (courte) · ໂອ = oo (longue)"
+    },
+    {
+     "audio": [
+      "ແອ"
+     ],
+     "prompt": "Voyelle courte ou longue ?",
+     "options": [
+      "Courte",
+      "Longue"
+     ],
+     "fixed": true,
+     "answer": "Longue",
+     "reveal": "ແອະ = ɛ (courte) · ແອ = ɛɛ (longue)"
+    },
+    {
+     "audio": [
+      "ເອີ"
+     ],
+     "prompt": "Voyelle courte ou longue ?",
+     "options": [
+      "Courte",
+      "Longue"
+     ],
+     "fixed": true,
+     "answer": "Longue",
+     "reveal": "ເອິ = ɤ (courte) · ເອີ = ɤɤ (longue)"
+    },
+    {
+     "audio": [
+      "ເອະ"
+     ],
+     "prompt": "Voyelle courte ou longue ?",
+     "options": [
+      "Courte",
+      "Longue"
+     ],
+     "fixed": true,
+     "answer": "Courte",
+     "reveal": "ເອະ = e (courte) · ເອ = ee (longue)"
+    },
+    {
+     "audio": [
+      "ແອະ"
+     ],
+     "prompt": "Voyelle courte ou longue ?",
+     "options": [
+      "Courte",
+      "Longue"
+     ],
+     "fixed": true,
+     "answer": "Courte",
+     "reveal": "ແອະ = ɛ (courte) · ແອ = ɛɛ (longue)"
+    },
+    {
+     "audio": [
+      "ອູ"
+     ],
+     "prompt": "Voyelle courte ou longue ?",
+     "options": [
+      "Courte",
+      "Longue"
+     ],
+     "fixed": true,
+     "answer": "Longue",
+     "reveal": "ອຸ = u (courte) · ອູ = uu (longue)"
+    },
+    {
+     "audio": [
+      "ອື"
+     ],
+     "prompt": "Voyelle courte ou longue ?",
+     "options": [
+      "Courte",
+      "Longue"
+     ],
+     "fixed": true,
+     "answer": "Longue",
+     "reveal": "ອຶ = ʉ (courte) · ອື = ʉʉ (longue)"
+    },
+    {
+     "audio": [
+      "ໂອະ"
+     ],
+     "prompt": "Voyelle courte ou longue ?",
+     "options": [
+      "Courte",
+      "Longue"
+     ],
+     "fixed": true,
+     "answer": "Courte",
+     "reveal": "ໂອະ = o (courte) · ໂອ = oo (longue)"
+    }
+   ]
+  },
+  {
+   "title": "Avec ou sans souffle ?",
+   "subtitle": "k / kh, t / th, p / ph, b, d",
+   "instructions": "Écoute la première consonne du mot-clé : y a-t-il un petit souffle d'air ?",
+   "questions": [
+    {
+     "audio": [
+      "ກໍ ໄກ່"
+     ],
+     "prompt": "La consonne est…",
+     "options": [
+      "Sans souffle",
+      "Avec souffle",
+      "Sonore (b, d)"
+     ],
+     "fixed": true,
+     "answer": "Sans souffle",
+     "reveal": "<b>ກ</b> · ໄກ່"
+    },
+    {
+     "audio": [
+      "ຄໍ ຄວາຍ"
+     ],
+     "prompt": "La consonne est…",
+     "options": [
+      "Sans souffle",
+      "Avec souffle",
+      "Sonore (b, d)"
+     ],
+     "fixed": true,
+     "answer": "Avec souffle",
+     "reveal": "<b>ຄ</b> · ຄວາຍ"
+    },
+    {
+     "audio": [
+      "ຂໍ ໄຂ່"
+     ],
+     "prompt": "La consonne est…",
+     "options": [
+      "Sans souffle",
+      "Avec souffle",
+      "Sonore (b, d)"
+     ],
+     "fixed": true,
+     "answer": "Avec souffle",
+     "reveal": "<b>ຂ</b> · ໄຂ່"
+    },
+    {
+     "audio": [
+      "ຕໍ ຕາ"
+     ],
+     "prompt": "La consonne est…",
+     "options": [
+      "Sans souffle",
+      "Avec souffle",
+      "Sonore (b, d)"
+     ],
+     "fixed": true,
+     "answer": "Sans souffle",
+     "reveal": "<b>ຕ</b> · ຕາ"
+    },
+    {
+     "audio": [
+      "ທໍ ທຸງ"
+     ],
+     "prompt": "La consonne est…",
+     "options": [
+      "Sans souffle",
+      "Avec souffle",
+      "Sonore (b, d)"
+     ],
+     "fixed": true,
+     "answer": "Avec souffle",
+     "reveal": "<b>ທ</b> · ທຸງ"
+    },
+    {
+     "audio": [
+      "ຖໍ ຖົງ"
+     ],
+     "prompt": "La consonne est…",
+     "options": [
+      "Sans souffle",
+      "Avec souffle",
+      "Sonore (b, d)"
+     ],
+     "fixed": true,
+     "answer": "Avec souffle",
+     "reveal": "<b>ຖ</b> · ຖົງ"
+    },
+    {
+     "audio": [
+      "ດໍ ເດັກ"
+     ],
+     "prompt": "La consonne est…",
+     "options": [
+      "Sans souffle",
+      "Avec souffle",
+      "Sonore (b, d)"
+     ],
+     "fixed": true,
+     "answer": "Sonore (b, d)",
+     "reveal": "<b>ດ</b> · ເດັກ"
+    },
+    {
+     "audio": [
+      "ປໍ ປາ"
+     ],
+     "prompt": "La consonne est…",
+     "options": [
+      "Sans souffle",
+      "Avec souffle",
+      "Sonore (b, d)"
+     ],
+     "fixed": true,
+     "answer": "Sans souffle",
+     "reveal": "<b>ປ</b> · ປາ"
+    },
+    {
+     "audio": [
+      "ພໍ ພູ"
+     ],
+     "prompt": "La consonne est…",
+     "options": [
+      "Sans souffle",
+      "Avec souffle",
+      "Sonore (b, d)"
+     ],
+     "fixed": true,
+     "answer": "Avec souffle",
+     "reveal": "<b>ພ</b> · ພູ"
+    },
+    {
+     "audio": [
+      "ຜໍ ເຜິ້ງ"
+     ],
+     "prompt": "La consonne est…",
+     "options": [
+      "Sans souffle",
+      "Avec souffle",
+      "Sonore (b, d)"
+     ],
+     "fixed": true,
+     "answer": "Avec souffle",
+     "reveal": "<b>ຜ</b> · ເຜິ້ງ"
+    },
+    {
+     "audio": [
+      "ບໍ ແບ້"
+     ],
+     "prompt": "La consonne est…",
+     "options": [
+      "Sans souffle",
+      "Avec souffle",
+      "Sonore (b, d)"
+     ],
+     "fixed": true,
+     "answer": "Sonore (b, d)",
+     "reveal": "<b>ບ</b> · ແບ້"
+    },
+    {
+     "audio": [
+      "ຈໍ ຈອກ"
+     ],
+     "prompt": "La consonne est…",
+     "options": [
+      "Sans souffle",
+      "Avec souffle",
+      "Sonore (b, d)"
+     ],
+     "fixed": true,
+     "answer": "Sans souffle",
+     "reveal": "<b>ຈ</b> · ຈອກ"
+    }
+   ]
+  }
+ ],
+ "sounds": {
+  "ກໍ ໄກ່": "ກ ໄກ່",
+  "ໄກ່": "kay",
+  "ຈໍ ຈອກ": "ຈ ຈອກ",
+  "ຈອກ": "jɔɔk",
+  "ດໍ ເດັກ": "ດ ເດັກ",
+  "ເດັກ": "dek",
+  "ຕໍ ຕາ": "ຕ ຕາ",
+  "ຕາ": "taa",
+  "ບໍ ແບ້": "ບ ແບ້",
+  "ແບ້": "bɛɛ",
+  "ປໍ ປາ": "ປ ປາ",
+  "ປາ": "paa",
+  "ຢໍ ຢາ": "ຢ ຢາ",
+  "ຢາ": "yaa",
+  "ອໍ ໂອ": "ອ ໂອ",
+  "ໂອ": "oo",
+  "ຂໍ ໄຂ່": "ຂ ໄຂ່",
+  "ໄຂ່": "khay",
+  "ສໍ ເສືອ": "ສ ເສືອ",
+  "ເສືອ": "sʉa",
+  "ຖໍ ຖົງ": "ຖ ຖົງ",
+  "ຖົງ": "thong",
+  "ຜໍ ເຜິ້ງ": "ຜ ເຜິ້ງ",
+  "ເຜິ້ງ": "phɤng",
+  "ຝໍ ຝົນ": "ຝ ຝົນ",
+  "ຝົນ": "fon",
+  "ຫໍ ຫ່ານ": "ຫ ຫ່ານ",
+  "ຫ່ານ": "haan",
+  "ຄໍ ຄວາຍ": "ຄ ຄວາຍ",
+  "ຄວາຍ": "khwaay",
+  "ງໍ ງົວ": "ງ ງົວ",
+  "ງົວ": "ngua",
+  "ຊໍ ຊ້າງ": "ຊ ຊ້າງ",
+  "ຊ້າງ": "saang",
+  "ຍໍ ຍຸງ": "ຍ ຍຸງ",
+  "ຍຸງ": "nyung",
+  "ທໍ ທຸງ": "ທ ທຸງ",
+  "ທຸງ": "thung",
+  "ນໍ ນົກ": "ນ ນົກ",
+  "ນົກ": "nok",
+  "ພໍ ພູ": "ພ ພູ",
+  "ພູ": "phuu",
+  "ຟໍ ໄຟ": "ຟ ໄຟ",
+  "ໄຟ": "fay",
+  "ມໍ ແມວ": "ມ ແມວ",
+  "ແມວ": "mɛɛw",
+  "ຣໍ ຣົດ": "ຣ ຣົດ",
+  "ຣົດ": "rot",
+  "ລໍ ລີງ": "ລ ລີງ",
+  "ລີງ": "ling",
+  "ວໍ ວີ": "ວ ວີ",
+  "ວີ": "wii",
+  "ຮໍ ເຮືອນ": "ຮ ເຮືອນ",
+  "ເຮືອນ": "hʉan",
+  "ອະ": "a",
+  "ອາ": "aa",
+  "ອິ": "i",
+  "ອີ": "ii",
+  "ອຶ": "ʉ",
+  "ອື": "ʉʉ",
+  "ອຸ": "u",
+  "ອູ": "uu",
+  "ເອະ": "e",
+  "ເອ": "ee",
+  "ແອະ": "ɛ",
+  "ແອ": "ɛɛ",
+  "ໂອະ": "o",
+  "ເອາະ": "ɔ",
+  "ອໍ": "ɔɔ",
+  "ເອິ": "ɤ",
+  "ເອີ": "ɤɤ",
+  "ເອຍ": "ia",
+  "ເອືອ": "ʉa",
+  "ອົວ": "ua",
+  "ໄອ": "ay",
+  "ໃອ": "ay",
+  "ເອົາ": "ao",
+  "ອຳ": "am"
+ },
+ "suivi": "LEÇON : 0 — Partie A (Fondations) · L'alphabet lao\nACQUIS : 27 consonnes et mots-clés, 3 classes (moyenne 8, haute 6, basse 13), voyelles courtes/longues, diphtongues ia ʉa ua, voyelles spéciales ໄ ໃ ເ-ົາ -ຳ\nROMANISATION : ajout de ʉ et ɤ\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 1 — Les 6 tons · Saluer"
+}

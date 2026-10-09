@@ -46,7 +46,7 @@
   idb.keys().then((k) => { momKeys = new Set(k || []); }).catch(() => {});
 
   /* ---------------- contenu ---------------- */
-  let LESSONS = [], AUDIO = {};
+  let LESSONS = [], AUDIO = {}, TONE_TEXTS = new Set();
   function clean(s) { return String(s).replace(/[…!?.,«»"]/g, " ").replace(/\s+/g, " ").trim(); }
   function hashKey(s) { let h = 5381; for (let i = 0; i < s.length; i++) h = ((h << 5) + h + s.charCodeAt(i)) >>> 0; return "a" + h.toString(16); }
   function lessonById(id) { return LESSONS.find((l) => l.id === id); }
@@ -63,6 +63,9 @@
     }
     const e = AUDIO[k]; if (!e) return null;
     const other = S.voice === "f" ? "m" : "f";
+    // syllabes isolées des exercices de tons : la voix naturelle les lit avec une chute finale
+    // qui masque le ton ; on prend la synthèse aux contours calibrés tant que maman n'a pas enregistré
+    if (TONE_TEXTS.has(clean(text)) && e.synth) return e.synth;
     return e[S.voice] || e[other] || e.synth || null;
   }
   let playToken = 0;
@@ -84,7 +87,7 @@
   }
   document.addEventListener("click", (e) => { const el = e.target.closest(".say"); if (el) play(el.dataset.t || el.textContent, false, el); });
   function decorate(root) {
-    $$(".line .lo, td.lo, .sec li .lo, .sec p .lo", root).forEach((el) => { if (isLao(el.textContent) && el.textContent.trim() !== "ໆ") { el.classList.add("say"); el.setAttribute("role", "button"); el.tabIndex = 0; } });
+    $$(".line .lo, td.lo, .sec td .lo, .sec li .lo, .sec p .lo", root).forEach((el) => { if (isLao(el.textContent) && el.textContent.trim() !== "ໆ") { el.classList.add("say"); el.setAttribute("role", "button"); el.tabIndex = 0; } });
   }
   document.addEventListener("keydown", (e) => { const el = e.target.closest && e.target.closest(".say"); if (el && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); el.click(); } });
 
@@ -572,6 +575,7 @@
       AUDIO = audio;
       LESSONS = (await Promise.all(idx.lessons.map((x) => loadJSON(x.file).then((d) => Object.assign({ id: x.id, num: x.num }, d))))).sort((a, b) => a.num - b.num);
     } catch (e) { $("#v-accueil").innerHTML = `<div class="panel">Impossible de charger les leçons. Vérifie ta connexion puis recharge.</div>`; return; }
+    LESSONS.forEach((l) => (l.speak || []).forEach((x) => { if (x.kind === "tone") TONE_TEXTS.add(clean(x.lao)); }));
     updateDueDot();
     const v = (location.hash || "#accueil").slice(1); go(VIEWS.includes(v) ? v : "accueil");
     const origRenderSpeak = renderSpeak; // étalonnage du ton moyen en tâche de fond
