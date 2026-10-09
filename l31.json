@@ -19,7 +19,7 @@
   },
   {
    "title": "Dialogue",
-   "html": "<p class=\"muted\">Clara se perd en ville.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂໍໂທດ ທະນາຄານຢູ່ໃສ?</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ກົງໄປ ແລ້ວລ້ຽວຊ້າຍ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໄກບໍ?</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ບໍ່ໄກ ຍ່າງຫ້ານາທີ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຢູ່ຂ້າງຕະຫຼາດບໍ?</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ແມ່ນແລ້ວ ຢູ່ຕໍ່ໜ້າຕະຫຼາດ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Khɔ̌ɔ-thôot, thā-náa-kháan yùu sǎy?</span><br><span class=\"rom\">Kóng-pǎy, lɛ̏ɛw lȉaw sȁay.</span><br><span class=\"rom\">Kǎy bɔ̌ɔ?</span><br><span class=\"rom\">Bɔ̀ɔ kǎy. Nyāang hâa náa-thíi.</span><br><span class=\"rom\">Yùu khâang tā-lȁat bɔ̌ɔ?</span><br><span class=\"rom\">Mɛ̄ɛn lɛ̏ɛw. Yùu tɔ̀ɔ-nâa tā-lȁat.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Pardon, où est la banque ?<br><b>X</b> — Tout droit, puis à gauche.<br><b>Clara</b> — C&#x27;est loin ?<br><b>X</b> — Non. Cinq minutes à pied.<br><b>Clara</b> — C&#x27;est à côté du marché ?<br><b>X</b> — Oui. En face du marché.</p></details>"
+   "html": "<p class=\"muted\">Clara se perd en ville.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂໍໂທດ ທະນາຄານຢູ່ໃສ?</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ກົງໄປ ແລ້ວລ້ຽວຊ້າຍ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໄກບໍ?</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ບໍ່ໄກ ຍ່າງຫ້ານາທີ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຢູ່ຂ້າງຕະຫຼາດບໍ?</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ແມ່ນແລ້ວ ຢູ່ຕໍ່ໜ້າຕະຫຼາດ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Khɔ̌ɔ-thôot, thā-náa-kháan yùu sǎy?</span><br><span class=\"rom\">Kóng-pǎy, lɛ̏ɛw lȉaw sȁay.</span><br><span class=\"rom\">Kǎy bɔ̌ɔ?</span><br><span class=\"rom\">Bɔ̀ɔ kǎy. Nyāang hâa náa-thíi.</span><br><span class=\"rom\">Yùu khâang tá-lȁat bɔ̌ɔ?</span><br><span class=\"rom\">Mɛ̄ɛn lɛ̏ɛw. Yùu tɔ̀ɔ-nâa tá-lȁat.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Pardon, où est la banque ?<br><b>X</b> — Tout droit, puis à gauche.<br><b>Clara</b> — C&#x27;est loin ?<br><b>X</b> — Non. Cinq minutes à pied.<br><b>Clara</b> — C&#x27;est à côté du marché ?<br><b>X</b> — Oui. En face du marché.</p></details>"
   },
   {
    "title": "Compréhension",
@@ -31,7 +31,7 @@
   },
   {
    "title": "Point de langue : les prépositions de lieu",
-   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຢູ່ຂ້າງຕະຫຼາດ</span> <span class=\"rom\">Yùu khâang tā-lȁat</span> = à côté du marché</li><li><span class=\"lo\">ຢູ່ຕໍ່ໜ້າວັດ</span> <span class=\"rom\">Yùu tɔ̀ɔ-nâa wāt</span> = en face du temple</li><li><span class=\"lo\">ຢູ່ໃນເຮືອນ</span> <span class=\"rom\">Yùu nǎy hʉ́an</span> = dans la maison</li></ul><p><b>À toi de trouver :</b></p><ol><li>Quel verbe précède la préposition ?</li></ol><details><summary>La règle</summary><p>Pour situer : ຢູ່ + préposition + lieu. ຂ້າງ (à côté), ຕໍ່ໜ້າ (en face), ໃນ (dans), ເທິງ (sur), ກ້ອງ (sous).</p></details>"
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຢູ່ຂ້າງຕະຫຼາດ</span> <span class=\"rom\">Yùu khâang tá-lȁat</span> = à côté du marché</li><li><span class=\"lo\">ຢູ່ຕໍ່ໜ້າວັດ</span> <span class=\"rom\">Yùu tɔ̀ɔ-nâa wāt</span> = en face du temple</li><li><span class=\"lo\">ຢູ່ໃນເຮືອນ</span> <span class=\"rom\">Yùu nǎy hʉ́an</span> = dans la maison</li></ul><p><b>À toi de trouver :</b></p><ol><li>Quel verbe précède la préposition ?</li></ol><details><summary>La règle</summary><p>Pour situer : ຢູ່ + préposition + lieu. ຂ້າງ (à côté), ຕໍ່ໜ້າ (en face), ໃນ (dans), ເທິງ (sur), ກ້ອງ (sous).</p></details>"
   },
   {
    "title": "Écoute",
@@ -39,7 +39,7 @@
   },
   {
    "title": "Expression orale",
-   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Pardon, où est la banque ?</li><li>Tout droit, puis à gauche.</li><li>C&#x27;est loin ?</li><li>En face du marché.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂໍໂທດ ທະນາຄານຢູ່ໃສ?</span> <span class=\"rom\">Khɔ̌ɔ-thôot, thā-náa-kháan yùu sǎy?</span></li><li><span class=\"lo\">ກົງໄປ ແລ້ວລ້ຽວຊ້າຍ</span> <span class=\"rom\">Kóng-pǎy, lɛ̏ɛw lȉaw sȁay.</span></li><li><span class=\"lo\">ໄກບໍ?</span> <span class=\"rom\">Kǎy bɔ̌ɔ?</span></li><li><span class=\"lo\">ຢູ່ຕໍ່ໜ້າຕະຫຼາດ</span> <span class=\"rom\">Yùu tɔ̀ɔ-nâa tā-lȁat.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Pardon, où est la banque ?</li><li>Tout droit, puis à gauche.</li><li>C&#x27;est loin ?</li><li>En face du marché.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂໍໂທດ ທະນາຄານຢູ່ໃສ?</span> <span class=\"rom\">Khɔ̌ɔ-thôot, thā-náa-kháan yùu sǎy?</span></li><li><span class=\"lo\">ກົງໄປ ແລ້ວລ້ຽວຊ້າຍ</span> <span class=\"rom\">Kóng-pǎy, lɛ̏ɛw lȉaw sȁay.</span></li><li><span class=\"lo\">ໄກບໍ?</span> <span class=\"rom\">Kǎy bɔ̌ɔ?</span></li><li><span class=\"lo\">ຢູ່ຕໍ່ໜ້າຕະຫຼາດ</span> <span class=\"rom\">Yùu tɔ̀ɔ-nâa tá-lȁat.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
   },
   {
    "title": "Expression écrite",
@@ -123,7 +123,7 @@
   {
    "id": "l31-p04",
    "front": "En face du marché.",
-   "back": "ຢູ່ຕໍ່ໜ້າຕະຫຼາດ · Yùu tɔ̀ɔ-nâa tā-lȁat."
+   "back": "ຢູ່ຕໍ່ໜ້າຕະຫຼາດ · Yùu tɔ̀ɔ-nâa tá-lȁat."
   }
  ],
  "listening": [
@@ -348,7 +348,7 @@
       "Oui. En face du marché."
      ],
      "answer": "C'est à côté du marché ?",
-     "reveal": "<i>Yùu khâang tā-lȁat bɔ̌ɔ?</i>"
+     "reveal": "<i>Yùu khâang tá-lȁat bɔ̌ɔ?</i>"
     },
     {
      "audio": [
@@ -362,7 +362,7 @@
       "Pardon, où est la banque ?"
      ],
      "answer": "Oui. En face du marché.",
-     "reveal": "<i>Mɛ̄ɛn lɛ̏ɛw. Yùu tɔ̀ɔ-nâa tā-lȁat.</i>"
+     "reveal": "<i>Mɛ̄ɛn lɛ̏ɛw. Yùu tɔ̀ɔ-nâa tá-lȁat.</i>"
     }
    ]
   },
@@ -425,7 +425,7 @@
       "Pardon, où est la banque ?"
      ],
      "answer": "En face du marché.",
-     "reveal": "<i>Yùu tɔ̀ɔ-nâa tā-lȁat.</i>"
+     "reveal": "<i>Yùu tɔ̀ɔ-nâa tá-lȁat.</i>"
     }
    ]
   }
@@ -511,7 +511,7 @@
   },
   {
    "lao": "ຢູ່ຕໍ່ໜ້າຕະຫຼາດ",
-   "rom": "Yùu tɔ̀ɔ-nâa tā-lȁat.",
+   "rom": "Yùu tɔ̀ɔ-nâa tá-lȁat.",
    "fr": "En face du marché.",
    "kind": "phrase"
   }
@@ -551,7 +551,7 @@
     "ຕໍ່ໜ້າ",
     "ຕະຫຼາດ"
    ],
-   "rom": "Yùu tɔ̀ɔ-nâa tā-lȁat.",
+   "rom": "Yùu tɔ̀ɔ-nâa tá-lȁat.",
    "fr": "En face du marché."
   }
  ],
@@ -616,8 +616,8 @@
   "ກົງໄປ ແລ້ວລ້ຽວຊ້າຍ": "Kóng-pǎy, lɛ̏ɛw lȉaw sȁay.",
   "ໄກບໍ": "Kǎy bɔ̌ɔ?",
   "ບໍ່ໄກ ຍ່າງຫ້ານາທີ": "Bɔ̀ɔ kǎy. Nyāang hâa náa-thíi.",
-  "ຢູ່ຂ້າງຕະຫຼາດບໍ": "Yùu khâang tā-lȁat bɔ̌ɔ?",
-  "ແມ່ນແລ້ວ ຢູ່ຕໍ່ໜ້າຕະຫຼາດ": "Mɛ̄ɛn lɛ̏ɛw. Yùu tɔ̀ɔ-nâa tā-lȁat.",
+  "ຢູ່ຂ້າງຕະຫຼາດບໍ": "Yùu khâang tá-lȁat bɔ̌ɔ?",
+  "ແມ່ນແລ້ວ ຢູ່ຕໍ່ໜ້າຕະຫຼາດ": "Mɛ̄ɛn lɛ̏ɛw. Yùu tɔ̀ɔ-nâa tá-lȁat.",
   "ກົງໄປ": "kóng-pǎy",
   "ລ້ຽວ": "lȉaw",
   "ຊ້າຍ": "sȁay",
@@ -628,10 +628,10 @@
   "ຍ່າງ": "Nyāang",
   "ທະນາຄານ": "thā-náa-kháan",
   "ນາທີ": "Náa-thíi",
-  "ຢູ່ຂ້າງຕະຫຼາດ": "Yùu khâang tā-lȁat",
+  "ຢູ່ຂ້າງຕະຫຼາດ": "Yùu khâang tá-lȁat",
   "ຢູ່ຕໍ່ໜ້າວັດ": "Yùu tɔ̀ɔ-nâa wāt",
   "ຢູ່ໃນເຮືອນ": "Yùu nǎy hʉ́an",
-  "ຢູ່ຕໍ່ໜ້າຕະຫຼາດ": "Yùu tɔ̀ɔ-nâa tā-lȁat.",
+  "ຢູ່ຕໍ່ໜ້າຕະຫຼາດ": "Yùu tɔ̀ɔ-nâa tá-lȁat.",
   "ຂໍໂທດທະນາຄານຢູ່ໃສ": "Khɔ̌ɔ-thôot, thā-náa-kháan yùu sǎy?",
   "ຂໍໂທດ": "khɔ̌ɔ-thôot",
   "ຢູ່": "yùu",
@@ -640,7 +640,7 @@
   "ແລ້ວ": "lɛ̏ɛw",
   "ໄກ": "kǎy",
   "ບໍ": "bɔ̌ɔ",
-  "ຕະຫຼາດ": "tā-lȁat"
+  "ຕະຫຼາດ": "tá-lȁat"
  },
  "suivi": "LEÇON : 31 — Partie C (Vie courante, A1) · Où est… ?\nOBJECTIF : Demander et indiquer un chemin simple.\nNOTION : les prépositions de lieu\nVOCAB : Kóng-pǎy, Lȉaw, Sȁay, Khwǎa, Khâang, Tɔ̀ɔ-nâa, Tháang-lǎng, Nyāang, Thā-náa-kháan, Náa-thíi\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 32 — Les transports"
 }

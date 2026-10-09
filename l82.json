@@ -1,0 +1,486 @@
+{
+ "num": 82,
+ "phase": "Partie E · S'exprimer (cours en lao)",
+ "title": "Écouter une chanson",
+ "objective": "Comprendre et chanter le refrain d'une chanson lao.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>(exclamation, enthousiasme) <small class=\"muted\">(leçon 81)</small></li><li>changer de l&#x27;argent <small class=\"muted\">(leçon 79)</small></li><li>faire confiance <small class=\"muted\">(leçon 75)</small></li><li>timide, gêné <small class=\"muted\">(leçon 68)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ນໍ</span> <span class=\"rom\">Nɔ́ɔ</span> · (exclamation, enthousiasme)</li><li><span class=\"lo\">ແລກເງິນ</span> <span class=\"rom\">Lɛ̂ɛk ngɤ́n</span> · changer de l&#x27;argent</li><li><span class=\"lo\">ໄວ້ໃຈ</span> <span class=\"rom\">Wȁy-jǎy</span> · faire confiance</li><li><span class=\"lo\">ອາຍ</span> <span class=\"rom\">Ǎay</span> · timide, gêné</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Comprendre et chanter le refrain d&#x27;une chanson lao.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Kèo fait écouter une chanson à Clara.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ເພງນີ້ດັງຫຼາຍຢູ່ລາວ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເວົ້າກ່ຽວກັບຫຍັງ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ກ່ຽວກັບຄວາມຮັກແລະການຄິດຮອດບ້ານ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສອນຂ້ອຍຮ້ອງແດ່!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Phéeng nȉi dǎng lǎay yùu láaw.</span><br><span class=\"rom\">Wȁo kìaw-kǎp nyǎng?</span><br><span class=\"rom\">Kìaw-kǎp khwáam hāk lɛ́ kǎan khīt-hɔ̂ɔt bâan.</span><br><span class=\"rom\">Sɔ̌ɔn khɔ̂ɔy hȍɔng dɛ̀ɛ!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Kèo</b> — Cette chanson est très connue au Laos.<br><b>Clara</b> — Elle parle de quoi ?<br><b>Kèo</b> — D&#x27;amour et du mal du pays.<br><b>Clara</b> — Apprends-moi à la chanter !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>De quoi parle la chanson ?</li></ol><details><summary>Réponses</summary><ol><li>D&#x27;amour et du mal du pays.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ເພງ</td><td class=\"rom\">Phéeng</td><td>chanson</td><td></td></tr><tr><td class=\"lo\">ຮ້ອງເພງ</td><td class=\"rom\">Hȍɔng-phéeng</td><td>chanter</td><td></td></tr><tr><td class=\"lo\">ນັກຮ້ອງ</td><td class=\"rom\">Nāk-hȍɔng</td><td>chanteur</td><td></td></tr><tr><td class=\"lo\">ດັງ</td><td class=\"rom\">Dǎng</td><td>célèbre ; fort (son)</td><td></td></tr><tr><td class=\"lo\">ເນື້ອເພງ</td><td class=\"rom\">Nʉ̏a phéeng</td><td>paroles</td><td></td></tr><tr><td class=\"lo\">ຄິດຮອດບ້ານ</td><td class=\"rom\">Khīt-hɔ̂ɔt bâan</td><td>avoir le mal du pays</td><td></td></tr><tr><td class=\"lo\">ທຳນອງ</td><td class=\"rom\">Thám-nɔ́ɔng</td><td>mélodie</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : ການ + verbe",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ການຄິດຮອດບ້ານ</span> <span class=\"rom\">Kǎan khīt-hɔ̂ɔt bâan</span> = le mal du pays</li><li><span class=\"lo\">ການຮຽນ</span> <span class=\"rom\">Kǎan hían</span> = l&#x27;apprentissage, les études</li></ul><p><b>À toi de trouver :</b></p><ol><li>Quelle différence entre ການ et ຄວາມ ?</li></ol><details><summary>La règle</summary><p>ການ + verbe = l'action (ການຮຽນ = les études) ; ຄວາມ + verbe/adjectif = l'état, le sentiment (ຄວາມຮັກ = l'amour).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les paroles du refrain.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Elle parle de quoi ?</li><li>Apprends-moi à la chanter.</li><li>Cette chanson est très connue.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເວົ້າກ່ຽວກັບຫຍັງ?</span> <span class=\"rom\">Wȁo kìaw-kǎp nyǎng?</span></li><li><span class=\"lo\">ສອນຂ້ອຍຮ້ອງແດ່</span> <span class=\"rom\">Sɔ̌ɔn khɔ̂ɔy hȍɔng dɛ̀ɛ.</span></li><li><span class=\"lo\">ເພງນີ້ດັງຫຼາຍ</span> <span class=\"rom\">Phéeng nȉi dǎng lǎay.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Recopie le refrain d&#x27;une chanson lao et traduis-le.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Choisis une chanson lao populaire, apprends le refrain et chante-le à un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>10 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l82-v01",
+   "front": "ເພງ",
+   "back": "Phéeng · chanson"
+  },
+  {
+   "id": "l82-v02",
+   "front": "ຮ້ອງເພງ",
+   "back": "Hȍɔng-phéeng · chanter"
+  },
+  {
+   "id": "l82-v03",
+   "front": "ນັກຮ້ອງ",
+   "back": "Nāk-hȍɔng · chanteur"
+  },
+  {
+   "id": "l82-v04",
+   "front": "ດັງ",
+   "back": "Dǎng · célèbre ; fort (son)"
+  },
+  {
+   "id": "l82-v05",
+   "front": "ເນື້ອເພງ",
+   "back": "Nʉ̏a phéeng · paroles"
+  },
+  {
+   "id": "l82-v06",
+   "front": "ຄິດຮອດບ້ານ",
+   "back": "Khīt-hɔ̂ɔt bâan · avoir le mal du pays"
+  },
+  {
+   "id": "l82-v07",
+   "front": "ທຳນອງ",
+   "back": "Thám-nɔ́ɔng · mélodie"
+  },
+  {
+   "id": "l82-p01",
+   "front": "Elle parle de quoi ?",
+   "back": "ເວົ້າກ່ຽວກັບຫຍັງ? · Wȁo kìaw-kǎp nyǎng?"
+  },
+  {
+   "id": "l82-p02",
+   "front": "Apprends-moi à la chanter.",
+   "back": "ສອນຂ້ອຍຮ້ອງແດ່ · Sɔ̌ɔn khɔ̂ɔy hȍɔng dɛ̀ɛ."
+  },
+  {
+   "id": "l82-p03",
+   "front": "Cette chanson est très connue.",
+   "back": "ເພງນີ້ດັງຫຼາຍ · Phéeng nȉi dǎng lǎay."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ເພງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "chanson",
+      "paroles",
+      "avoir le mal du pays",
+      "célèbre ; fort (son)"
+     ],
+     "answer": "chanson",
+     "reveal": "<i>Phéeng</i>"
+    },
+    {
+     "audio": [
+      "ຮ້ອງເພງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "chanter",
+      "célèbre ; fort (son)",
+      "mélodie",
+      "chanson"
+     ],
+     "answer": "chanter",
+     "reveal": "<i>Hȍɔng-phéeng</i>"
+    },
+    {
+     "audio": [
+      "ນັກຮ້ອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "chanteur",
+      "chanson",
+      "avoir le mal du pays",
+      "paroles"
+     ],
+     "answer": "chanteur",
+     "reveal": "<i>Nāk-hȍɔng</i>"
+    },
+    {
+     "audio": [
+      "ດັງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "célèbre ; fort (son)",
+      "chanson",
+      "chanteur",
+      "paroles"
+     ],
+     "answer": "célèbre ; fort (son)",
+     "reveal": "<i>Dǎng</i>"
+    },
+    {
+     "audio": [
+      "ເນື້ອເພງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "paroles",
+      "chanson",
+      "mélodie",
+      "avoir le mal du pays"
+     ],
+     "answer": "paroles",
+     "reveal": "<i>Nʉ̏a phéeng</i>"
+    },
+    {
+     "audio": [
+      "ຄິດຮອດບ້ານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "avoir le mal du pays",
+      "chanteur",
+      "célèbre ; fort (son)",
+      "chanter"
+     ],
+     "answer": "avoir le mal du pays",
+     "reveal": "<i>Khīt-hɔ̂ɔt bâan</i>"
+    },
+    {
+     "audio": [
+      "ທຳນອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mélodie",
+      "paroles",
+      "chanter",
+      "célèbre ; fort (son)"
+     ],
+     "answer": "mélodie",
+     "reveal": "<i>Thám-nɔ́ɔng</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເພງນີ້ດັງຫຼາຍຢູ່ລາວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Cette chanson est très connue au Laos.",
+      "Elle parle de quoi ?",
+      "Apprends-moi à la chanter !",
+      "D'amour et du mal du pays."
+     ],
+     "answer": "Cette chanson est très connue au Laos.",
+     "reveal": "<i>Phéeng nȉi dǎng lǎay yùu láaw.</i>"
+    },
+    {
+     "audio": [
+      "ເວົ້າກ່ຽວກັບຫຍັງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Elle parle de quoi ?",
+      "Apprends-moi à la chanter !",
+      "Cette chanson est très connue au Laos.",
+      "D'amour et du mal du pays."
+     ],
+     "answer": "Elle parle de quoi ?",
+     "reveal": "<i>Wȁo kìaw-kǎp nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ກ່ຽວກັບຄວາມຮັກແລະການຄິດຮອດບ້ານ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "D'amour et du mal du pays.",
+      "Cette chanson est très connue au Laos.",
+      "Apprends-moi à la chanter !",
+      "Elle parle de quoi ?"
+     ],
+     "answer": "D'amour et du mal du pays.",
+     "reveal": "<i>Kìaw-kǎp khwáam hāk lɛ́ kǎan khīt-hɔ̂ɔt bâan.</i>"
+    },
+    {
+     "audio": [
+      "ສອນຂ້ອຍຮ້ອງແດ່!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Apprends-moi à la chanter !",
+      "Cette chanson est très connue au Laos.",
+      "D'amour et du mal du pays.",
+      "Elle parle de quoi ?"
+     ],
+     "answer": "Apprends-moi à la chanter !",
+     "reveal": "<i>Sɔ̌ɔn khɔ̂ɔy hȍɔng dɛ̀ɛ!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເວົ້າກ່ຽວກັບຫຍັງ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Elle parle de quoi ?",
+      "Apprends-moi à la chanter.",
+      "Cette chanson est très connue."
+     ],
+     "answer": "Elle parle de quoi ?",
+     "reveal": "<i>Wȁo kìaw-kǎp nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ສອນຂ້ອຍຮ້ອງແດ່"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Apprends-moi à la chanter.",
+      "Elle parle de quoi ?",
+      "Cette chanson est très connue."
+     ],
+     "answer": "Apprends-moi à la chanter.",
+     "reveal": "<i>Sɔ̌ɔn khɔ̂ɔy hȍɔng dɛ̀ɛ.</i>"
+    },
+    {
+     "audio": [
+      "ເພງນີ້ດັງຫຼາຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Cette chanson est très connue.",
+      "Elle parle de quoi ?",
+      "Apprends-moi à la chanter."
+     ],
+     "answer": "Cette chanson est très connue.",
+     "reveal": "<i>Phéeng nȉi dǎng lǎay.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ເພງ",
+   "rom": "Phéeng",
+   "fr": "chanson",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຮ້ອງເພງ",
+   "rom": "Hȍɔng-phéeng",
+   "fr": "chanter",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນັກຮ້ອງ",
+   "rom": "Nāk-hȍɔng",
+   "fr": "chanteur",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ດັງ",
+   "rom": "Dǎng",
+   "fr": "célèbre ; fort (son)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເນື້ອເພງ",
+   "rom": "Nʉ̏a phéeng",
+   "fr": "paroles",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄິດຮອດບ້ານ",
+   "rom": "Khīt-hɔ̂ɔt bâan",
+   "fr": "avoir le mal du pays",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທຳນອງ",
+   "rom": "Thám-nɔ́ɔng",
+   "fr": "mélodie",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເວົ້າກ່ຽວກັບຫຍັງ?",
+   "rom": "Wȁo kìaw-kǎp nyǎng?",
+   "fr": "Elle parle de quoi ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສອນຂ້ອຍຮ້ອງແດ່",
+   "rom": "Sɔ̌ɔn khɔ̂ɔy hȍɔng dɛ̀ɛ.",
+   "fr": "Apprends-moi à la chanter.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເພງນີ້ດັງຫຼາຍ",
+   "rom": "Phéeng nȉi dǎng lǎay.",
+   "fr": "Cette chanson est très connue.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ເວົ້າ",
+    "ກ່ຽວກັບ",
+    "ຫຍັງ"
+   ],
+   "rom": "Wȁo kìaw-kǎp nyǎng?",
+   "fr": "Elle parle de quoi ?"
+  },
+  {
+   "tokens": [
+    "ສອນ",
+    "ຂ້ອຍ",
+    "ຮ້ອງ",
+    "ແດ່"
+   ],
+   "rom": "Sɔ̌ɔn khɔ̂ɔy hȍɔng dɛ̀ɛ.",
+   "fr": "Apprends-moi à la chanter."
+  },
+  {
+   "tokens": [
+    "ເພງ",
+    "ນີ້",
+    "ດັງ",
+    "ຫຼາຍ"
+   ],
+   "rom": "Phéeng nȉi dǎng lǎay.",
+   "fr": "Cette chanson est très connue."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ເພງ",
+   "rom": "Phéeng",
+   "fr": "chanson"
+  },
+  {
+   "lao": "ຮ້ອງເພງ",
+   "rom": "Hȍɔng-phéeng",
+   "fr": "chanter"
+  },
+  {
+   "lao": "ນັກຮ້ອງ",
+   "rom": "Nāk-hȍɔng",
+   "fr": "chanteur"
+  },
+  {
+   "lao": "ດັງ",
+   "rom": "Dǎng",
+   "fr": "célèbre ; fort (son)"
+  },
+  {
+   "lao": "ເນື້ອເພງ",
+   "rom": "Nʉ̏a phéeng",
+   "fr": "paroles"
+  },
+  {
+   "lao": "ຄິດຮອດບ້ານ",
+   "rom": "Khīt-hɔ̂ɔt bâan",
+   "fr": "avoir le mal du pays"
+  },
+  {
+   "lao": "ທຳນອງ",
+   "rom": "Thám-nɔ́ɔng",
+   "fr": "mélodie"
+  }
+ ],
+ "sounds": {
+  "ນໍ": "Nɔ́ɔ",
+  "ແລກເງິນ": "Lɛ̂ɛk ngɤ́n",
+  "ໄວ້ໃຈ": "Wȁy-jǎy",
+  "ອາຍ": "Ǎay",
+  "ເພງນີ້ດັງຫຼາຍຢູ່ລາວ": "Phéeng nȉi dǎng lǎay yùu láaw.",
+  "ເວົ້າກ່ຽວກັບຫຍັງ": "Wȁo kìaw-kǎp nyǎng?",
+  "ກ່ຽວກັບຄວາມຮັກແລະການຄິດຮອດບ້ານ": "Kìaw-kǎp khwáam hāk lɛ́ kǎan khīt-hɔ̂ɔt bâan.",
+  "ສອນຂ້ອຍຮ້ອງແດ່": "Sɔ̌ɔn khɔ̂ɔy hȍɔng dɛ̀ɛ.",
+  "ເພງ": "phéeng",
+  "ຮ້ອງເພງ": "Hȍɔng-phéeng",
+  "ນັກຮ້ອງ": "Nāk-hȍɔng",
+  "ດັງ": "dǎng",
+  "ເນື້ອເພງ": "Nʉ̏a phéeng",
+  "ຄິດຮອດບ້ານ": "Khīt-hɔ̂ɔt bâan",
+  "ທຳນອງ": "Thám-nɔ́ɔng",
+  "ການຄິດຮອດບ້ານ": "Kǎan khīt-hɔ̂ɔt bâan",
+  "ການຮຽນ": "Kǎan hían",
+  "ເພງນີ້ດັງຫຼາຍ": "Phéeng nȉi dǎng lǎay.",
+  "ເວົ້າ": "wȁo",
+  "ກ່ຽວກັບ": "kìaw-kǎp",
+  "ຫຍັງ": "nyǎng",
+  "ສອນ": "sɔ̌ɔn",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ຮ້ອງ": "hȍɔng",
+  "ແດ່": "dɛ̀ɛ",
+  "ນີ້": "nȉi",
+  "ຫຼາຍ": "lǎay"
+ },
+ "suivi": "LEÇON : 82 — Partie E (S'exprimer (cours en lao), B1) · Écouter une chanson\nOBJECTIF : Comprendre et chanter le refrain d'une chanson lao.\nNOTION : ການ + verbe\nVOCAB : Phéeng, Hȍɔng-phéeng, Nāk-hȍɔng, Dǎng, Nʉ̏a phéeng, Khīt-hɔ̂ɔt bâan, Thám-nɔ́ɔng\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 83 — Regarder une vidéo"
+}

@@ -1,0 +1,515 @@
+{
+ "num": 76,
+ "phase": "Partie E · S'exprimer (cours en lao)",
+ "title": "La pagode",
+ "objective": "Se comporter et parler correctement à la pagode.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>compréhension <small class=\"muted\">(leçon 75)</small></li><li>ce que <small class=\"muted\">(leçon 73)</small></li><li>maintenant <small class=\"muted\">(leçon 69)</small></li><li>(insistance) <small class=\"muted\">(leçon 62)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຄວາມເຂົ້າໃຈ</span> <span class=\"rom\">Khwáam khâo-jǎy</span> · compréhension</li><li><span class=\"lo\">ສິ່ງທີ່</span> <span class=\"rom\">Sìng thīi</span> · ce que</li><li><span class=\"lo\">ດຽວນີ້</span> <span class=\"rom\">Dǐaw-nȉi</span> · maintenant</li><li><span class=\"lo\">ເດ້</span> <span class=\"rom\">Dê</span> · (insistance)</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Se comporter et parler correctement à la pagode.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Mme Boua emmène Clara au temple.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ກ່ອນເຂົ້າໄປຕ້ອງຖອດເກີບ</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ນຸ່ງສິ້ນແລະເສື້ອແຂນຍາວ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍຕ້ອງກາບພະບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ກາບສາມເທື່ອ ແລ້ວນັ່ງພັບພຽບ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Kɔ̀ɔn khâo pǎy tâɔng thȍɔt kɤ̏ɤp.</span><br><span class=\"rom\">Nūng sîn lɛ́ sʉ̂a khɛ̌ɛn nyáaw.</span><br><span class=\"rom\">Khɔ̂ɔy tâɔng kȁap phā bɔ̌ɔ?</span><br><span class=\"rom\">Kȁap sǎam thʉ̄a. Lɛ̏ɛw nāng phāp phîap.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Mme Boua</b> — Avant d&#x27;entrer, il faut enlever ses chaussures.<br><b>Mme Boua</b> — On porte un sinh et des manches longues.<br><b>Clara</b> — Je dois me prosterner devant le Bouddha ?<br><b>Mme Boua</b> — Trois fois. Puis on s&#x27;assoit les jambes repliées sur le côté.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que faut-il faire avant d&#x27;entrer ?</li><li>Combien de fois se prosterne-t-on ?</li></ol><details><summary>Réponses</summary><ol><li>Enlever ses chaussures.</li><li>Trois fois.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ວັດ</td><td class=\"rom\">Wāt</td><td>pagode, temple</td><td></td></tr><tr><td class=\"lo\">ພະ</td><td class=\"rom\">Phā</td><td>Bouddha ; moine</td><td></td></tr><tr><td class=\"lo\">ຖອດເກີບ</td><td class=\"rom\">Thȍɔt kɤ̏ɤp</td><td>enlever ses chaussures</td><td></td></tr><tr><td class=\"lo\">ກາບ</td><td class=\"rom\">Kȁap</td><td>se prosterner</td><td></td></tr><tr><td class=\"lo\">ນັ່ງພັບພຽບ</td><td class=\"rom\">Nāng phāp phîap</td><td>s&#x27;asseoir jambes repliées</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ທຳບຸນ</td><td class=\"rom\">Thám-bǔn</td><td>faire des mérites</td><td></td></tr><tr><td class=\"lo\">ໃສ່ບາດ</td><td class=\"rom\">Sāy-bȁat</td><td>faire l&#x27;offrande aux moines</td><td></td></tr><tr><td class=\"lo\">ນຸ່ງ</td><td class=\"rom\">Nūng</td><td>porter (vêtement)</td><td></td></tr></table></div><p class=\"note\">Les femmes ne doivent jamais toucher un moine ni lui tendre directement un objet : on le pose devant lui ou on passe par un homme.</p>"
+  },
+  {
+   "title": "Point de langue : les consignes avec ຕ້ອງ et ຫ້າມ",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຕ້ອງຖອດເກີບ</span> <span class=\"rom\">Tâɔng thȍɔt kɤ̏ɤp</span> = il faut enlever ses chaussures</li><li><span class=\"lo\">ຫ້າມຊີ້ຕີນໃສ່ພະ</span> <span class=\"rom\">Hâam sȉi tǐin sày phā</span> = interdit de pointer les pieds vers le Bouddha</li></ul><details><summary>La règle</summary><p>ຕ້ອງ = obligation, ຫ້າມ = interdiction. À la pagode : pas de pieds pointés vers le Bouddha ou les moines, tête toujours plus basse qu'eux.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les consignes.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Il faut enlever ses chaussures.</li><li>Je dois me prosterner ?</li><li>Je vais faire des mérites.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຕ້ອງຖອດເກີບ</span> <span class=\"rom\">Tâɔng thȍɔt kɤ̏ɤp.</span></li><li><span class=\"lo\">ຕ້ອງກາບບໍ?</span> <span class=\"rom\">Tâɔng kȁap bɔ̌ɔ?</span></li><li><span class=\"lo\">ຂ້ອຍຈະໄປທຳບຸນ</span> <span class=\"rom\">Khɔ̂ɔy já pǎy thám-bǔn.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris les 5 règles de comportement à la pagode.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Visite une pagode lao (en France il y en a) ou explique les règles à un natif pour vérification.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>11 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l76-v01",
+   "front": "ວັດ",
+   "back": "Wāt · pagode, temple"
+  },
+  {
+   "id": "l76-v02",
+   "front": "ພະ",
+   "back": "Phā · Bouddha ; moine"
+  },
+  {
+   "id": "l76-v03",
+   "front": "ຖອດເກີບ",
+   "back": "Thȍɔt kɤ̏ɤp · enlever ses chaussures"
+  },
+  {
+   "id": "l76-v04",
+   "front": "ກາບ",
+   "back": "Kȁap · se prosterner"
+  },
+  {
+   "id": "l76-v05",
+   "front": "ນັ່ງພັບພຽບ",
+   "back": "Nāng phāp phîap · s'asseoir jambes repliées"
+  },
+  {
+   "id": "l76-v06",
+   "front": "ທຳບຸນ",
+   "back": "Thám-bǔn · faire des mérites"
+  },
+  {
+   "id": "l76-v07",
+   "front": "ໃສ່ບາດ",
+   "back": "Sāy-bȁat · faire l'offrande aux moines"
+  },
+  {
+   "id": "l76-v08",
+   "front": "ນຸ່ງ",
+   "back": "Nūng · porter (vêtement)"
+  },
+  {
+   "id": "l76-p01",
+   "front": "Il faut enlever ses chaussures.",
+   "back": "ຕ້ອງຖອດເກີບ · Tâɔng thȍɔt kɤ̏ɤp."
+  },
+  {
+   "id": "l76-p02",
+   "front": "Je dois me prosterner ?",
+   "back": "ຕ້ອງກາບບໍ? · Tâɔng kȁap bɔ̌ɔ?"
+  },
+  {
+   "id": "l76-p03",
+   "front": "Je vais faire des mérites.",
+   "back": "ຂ້ອຍຈະໄປທຳບຸນ · Khɔ̂ɔy já pǎy thám-bǔn."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ວັດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pagode, temple",
+      "se prosterner",
+      "faire des mérites",
+      "Bouddha ; moine"
+     ],
+     "answer": "pagode, temple",
+     "reveal": "<i>Wāt</i>"
+    },
+    {
+     "audio": [
+      "ພະ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "Bouddha ; moine",
+      "faire l'offrande aux moines",
+      "enlever ses chaussures",
+      "pagode, temple"
+     ],
+     "answer": "Bouddha ; moine",
+     "reveal": "<i>Phā</i>"
+    },
+    {
+     "audio": [
+      "ຖອດເກີບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "enlever ses chaussures",
+      "s'asseoir jambes repliées",
+      "faire des mérites",
+      "faire l'offrande aux moines"
+     ],
+     "answer": "enlever ses chaussures",
+     "reveal": "<i>Thȍɔt kɤ̏ɤp</i>"
+    },
+    {
+     "audio": [
+      "ກາບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "se prosterner",
+      "faire des mérites",
+      "porter (vêtement)",
+      "pagode, temple"
+     ],
+     "answer": "se prosterner",
+     "reveal": "<i>Kȁap</i>"
+    },
+    {
+     "audio": [
+      "ນັ່ງພັບພຽບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "s'asseoir jambes repliées",
+      "faire l'offrande aux moines",
+      "se prosterner",
+      "Bouddha ; moine"
+     ],
+     "answer": "s'asseoir jambes repliées",
+     "reveal": "<i>Nāng phāp phîap</i>"
+    },
+    {
+     "audio": [
+      "ທຳບຸນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "faire des mérites",
+      "porter (vêtement)",
+      "faire l'offrande aux moines",
+      "enlever ses chaussures"
+     ],
+     "answer": "faire des mérites",
+     "reveal": "<i>Thám-bǔn</i>"
+    },
+    {
+     "audio": [
+      "ໃສ່ບາດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "faire l'offrande aux moines",
+      "pagode, temple",
+      "s'asseoir jambes repliées",
+      "se prosterner"
+     ],
+     "answer": "faire l'offrande aux moines",
+     "reveal": "<i>Sāy-bȁat</i>"
+    },
+    {
+     "audio": [
+      "ນຸ່ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "porter (vêtement)",
+      "enlever ses chaussures",
+      "Bouddha ; moine",
+      "faire l'offrande aux moines"
+     ],
+     "answer": "porter (vêtement)",
+     "reveal": "<i>Nūng</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ກ່ອນເຂົ້າໄປຕ້ອງຖອດເກີບ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Avant d'entrer, il faut enlever ses chaussures.",
+      "Trois fois. Puis on s'assoit les jambes repliées sur le côté.",
+      "On porte un sinh et des manches longues.",
+      "Je dois me prosterner devant le Bouddha ?"
+     ],
+     "answer": "Avant d'entrer, il faut enlever ses chaussures.",
+     "reveal": "<i>Kɔ̀ɔn khâo pǎy tâɔng thȍɔt kɤ̏ɤp.</i>"
+    },
+    {
+     "audio": [
+      "ນຸ່ງສິ້ນແລະເສື້ອແຂນຍາວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "On porte un sinh et des manches longues.",
+      "Je dois me prosterner devant le Bouddha ?",
+      "Avant d'entrer, il faut enlever ses chaussures.",
+      "Trois fois. Puis on s'assoit les jambes repliées sur le côté."
+     ],
+     "answer": "On porte un sinh et des manches longues.",
+     "reveal": "<i>Nūng sîn lɛ́ sʉ̂a khɛ̌ɛn nyáaw.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຕ້ອງກາບພະບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je dois me prosterner devant le Bouddha ?",
+      "On porte un sinh et des manches longues.",
+      "Trois fois. Puis on s'assoit les jambes repliées sur le côté.",
+      "Avant d'entrer, il faut enlever ses chaussures."
+     ],
+     "answer": "Je dois me prosterner devant le Bouddha ?",
+     "reveal": "<i>Khɔ̂ɔy tâɔng kȁap phā bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ກາບສາມເທື່ອ ແລ້ວນັ່ງພັບພຽບ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Trois fois. Puis on s'assoit les jambes repliées sur le côté.",
+      "Je dois me prosterner devant le Bouddha ?",
+      "On porte un sinh et des manches longues.",
+      "Avant d'entrer, il faut enlever ses chaussures."
+     ],
+     "answer": "Trois fois. Puis on s'assoit les jambes repliées sur le côté.",
+     "reveal": "<i>Kȁap sǎam thʉ̄a. Lɛ̏ɛw nāng phāp phîap.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຕ້ອງຖອດເກີບ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il faut enlever ses chaussures.",
+      "Je dois me prosterner ?",
+      "Je vais faire des mérites."
+     ],
+     "answer": "Il faut enlever ses chaussures.",
+     "reveal": "<i>Tâɔng thȍɔt kɤ̏ɤp.</i>"
+    },
+    {
+     "audio": [
+      "ຕ້ອງກາບບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je dois me prosterner ?",
+      "Il faut enlever ses chaussures.",
+      "Je vais faire des mérites."
+     ],
+     "answer": "Je dois me prosterner ?",
+     "reveal": "<i>Tâɔng kȁap bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຈະໄປທຳບຸນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je vais faire des mérites.",
+      "Il faut enlever ses chaussures.",
+      "Je dois me prosterner ?"
+     ],
+     "answer": "Je vais faire des mérites.",
+     "reveal": "<i>Khɔ̂ɔy já pǎy thám-bǔn.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ວັດ",
+   "rom": "Wāt",
+   "fr": "pagode, temple",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພະ",
+   "rom": "Phā",
+   "fr": "Bouddha ; moine",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຖອດເກີບ",
+   "rom": "Thȍɔt kɤ̏ɤp",
+   "fr": "enlever ses chaussures",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກາບ",
+   "rom": "Kȁap",
+   "fr": "se prosterner",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນັ່ງພັບພຽບ",
+   "rom": "Nāng phāp phîap",
+   "fr": "s'asseoir jambes repliées",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທຳບຸນ",
+   "rom": "Thám-bǔn",
+   "fr": "faire des mérites",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃສ່ບາດ",
+   "rom": "Sāy-bȁat",
+   "fr": "faire l'offrande aux moines",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນຸ່ງ",
+   "rom": "Nūng",
+   "fr": "porter (vêtement)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕ້ອງຖອດເກີບ",
+   "rom": "Tâɔng thȍɔt kɤ̏ɤp.",
+   "fr": "Il faut enlever ses chaussures.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕ້ອງກາບບໍ?",
+   "rom": "Tâɔng kȁap bɔ̌ɔ?",
+   "fr": "Je dois me prosterner ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຈະໄປທຳບຸນ",
+   "rom": "Khɔ̂ɔy já pǎy thám-bǔn.",
+   "fr": "Je vais faire des mérites.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຕ້ອງ",
+    "ຖອດ",
+    "ເກີບ"
+   ],
+   "rom": "Tâɔng thȍɔt kɤ̏ɤp.",
+   "fr": "Il faut enlever ses chaussures."
+  },
+  {
+   "tokens": [
+    "ຕ້ອງ",
+    "ກາບ",
+    "ບໍ"
+   ],
+   "rom": "Tâɔng kȁap bɔ̌ɔ?",
+   "fr": "Je dois me prosterner ?"
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຈະ",
+    "ໄປ",
+    "ທຳບຸນ"
+   ],
+   "rom": "Khɔ̂ɔy já pǎy thám-bǔn.",
+   "fr": "Je vais faire des mérites."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ວັດ",
+   "rom": "Wāt",
+   "fr": "pagode, temple"
+  },
+  {
+   "lao": "ພະ",
+   "rom": "Phā",
+   "fr": "Bouddha ; moine"
+  },
+  {
+   "lao": "ຖອດເກີບ",
+   "rom": "Thȍɔt kɤ̏ɤp",
+   "fr": "enlever ses chaussures"
+  },
+  {
+   "lao": "ກາບ",
+   "rom": "Kȁap",
+   "fr": "se prosterner"
+  },
+  {
+   "lao": "ນັ່ງພັບພຽບ",
+   "rom": "Nāng phāp phîap",
+   "fr": "s'asseoir jambes repliées"
+  },
+  {
+   "lao": "ທຳບຸນ",
+   "rom": "Thám-bǔn",
+   "fr": "faire des mérites"
+  },
+  {
+   "lao": "ໃສ່ບາດ",
+   "rom": "Sāy-bȁat",
+   "fr": "faire l'offrande aux moines"
+  },
+  {
+   "lao": "ນຸ່ງ",
+   "rom": "Nūng",
+   "fr": "porter (vêtement)"
+  }
+ ],
+ "sounds": {
+  "ຄວາມເຂົ້າໃຈ": "Khwáam khâo-jǎy",
+  "ສິ່ງທີ່": "Sìng thīi",
+  "ດຽວນີ້": "Dǐaw-nȉi",
+  "ເດ້": "Dê",
+  "ກ່ອນເຂົ້າໄປຕ້ອງຖອດເກີບ": "Kɔ̀ɔn khâo pǎy tâɔng thȍɔt kɤ̏ɤp.",
+  "ນຸ່ງສິ້ນແລະເສື້ອແຂນຍາວ": "Nūng sîn lɛ́ sʉ̂a khɛ̌ɛn nyáaw.",
+  "ຂ້ອຍຕ້ອງກາບພະບໍ": "Khɔ̂ɔy tâɔng kȁap phā bɔ̌ɔ?",
+  "ກາບສາມເທື່ອ ແລ້ວນັ່ງພັບພຽບ": "Kȁap sǎam thʉ̄a. Lɛ̏ɛw nāng phāp phîap.",
+  "ວັດ": "Wāt",
+  "ພະ": "Phā",
+  "ຖອດເກີບ": "Thȍɔt kɤ̏ɤp",
+  "ກາບ": "kȁap",
+  "ນັ່ງພັບພຽບ": "Nāng phāp phîap",
+  "ທຳບຸນ": "thám-bǔn",
+  "ໃສ່ບາດ": "Sāy-bȁat",
+  "ນຸ່ງ": "Nūng",
+  "ຕ້ອງຖອດເກີບ": "Tâɔng thȍɔt kɤ̏ɤp.",
+  "ຫ້າມຊີ້ຕີນໃສ່ພະ": "Hâam sȉi tǐin sày phā",
+  "ຕ້ອງກາບບໍ": "Tâɔng kȁap bɔ̌ɔ?",
+  "ຂ້ອຍຈະໄປທຳບຸນ": "Khɔ̂ɔy já pǎy thám-bǔn.",
+  "ຕ້ອງ": "tâɔng",
+  "ຖອດ": "thȍɔt",
+  "ເກີບ": "kɤ̏ɤp",
+  "ບໍ": "bɔ̌ɔ",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ຈະ": "já",
+  "ໄປ": "pǎy"
+ },
+ "suivi": "LEÇON : 76 — Partie E (S'exprimer (cours en lao), B1) · La pagode\nOBJECTIF : Se comporter et parler correctement à la pagode.\nNOTION : les consignes avec ຕ້ອງ et ຫ້າມ\nVOCAB : Wāt, Phā, Thȍɔt kɤ̏ɤp, Kȁap, Nāng phāp phîap, Thám-bǔn, Sāy-bȁat, Nūng\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 77 — S'adresser à un moine"
+}

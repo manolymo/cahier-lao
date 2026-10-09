@@ -1,0 +1,454 @@
+{
+ "num": 74,
+ "phase": "Partie E · S'exprimer (cours en lao)",
+ "title": "Hypothèses",
+ "objective": "Dire ce que tu ferais si…",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>essaie de… <small class=\"muted\">(leçon 73)</small></li><li>ticket, facture <small class=\"muted\">(leçon 71)</small></li><li>mieux <small class=\"muted\">(leçon 67)</small></li><li>excité <small class=\"muted\">(leçon 60)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ລອງ ເບິ່ງ</span> <span class=\"rom\">Lɔ́ɔng… bɤ̀ng</span> · essaie de…</li><li><span class=\"lo\">ໃບບິນ</span> <span class=\"rom\">Bǎy-bǐn</span> · ticket, facture</li><li><span class=\"lo\">ດີກວ່າ</span> <span class=\"rom\">Dǐi kwàa</span> · mieux</li><li><span class=\"lo\">ຕື່ນເຕັ້ນ</span> <span class=\"rom\">Tʉ̀ʉn-tên</span> · excité</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Dire ce que tu ferais si…</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Rêves de loterie au café.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຖ້າຖືກເລກ ເຈົ້າຈະເຮັດຫຍັງ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຖ້າຂ້ອຍມີເງິນຫຼາຍ ຂ້ອຍຈະຊື້ເຮືອນຢູ່ລາວ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຂ້ອຍຈະພາພໍ່ແມ່ໄປທ່ຽວຮອບໂລກ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສົມມຸດວ່າເຮົາໄປນຳກັນເດ?</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Thâa thʉ̀ʉk lêek, jâo já hēt nyǎng?</span><br><span class=\"rom\">Thâa khɔ̂ɔy míi ngɤ́n lǎay, khɔ̂ɔy já sȕu hʉ́an yùu láaw.</span><br><span class=\"rom\">Khɔ̂ɔy já pháa phɔ̄ɔ mɛ̄ɛ pǎy thìaw hɔ̂ɔp lôok.</span><br><span class=\"rom\">Sǒm-mūt wāa háo pǎy nám kǎn dě?</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Si tu gagnais à la loterie, tu ferais quoi ?<br><b>Clara</b> — Si j&#x27;avais beaucoup d&#x27;argent, j&#x27;achèterais une maison au Laos.<br><b>Noy</b> — Moi, j&#x27;emmènerais mes parents faire le tour du monde.<br><b>Clara</b> — Et si on partait ensemble ?</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que ferait Clara ?</li><li>Et Noy ?</li></ol><details><summary>Réponses</summary><ol><li>Acheter une maison au Laos.</li><li>Emmener ses parents faire le tour du monde.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຖ້າ ຈະ</td><td class=\"rom\">Thâa… já</td><td>si… alors (hypothèse)</td><td></td></tr><tr><td class=\"lo\">ສົມມຸດວ່າ</td><td class=\"rom\">Sǒm-mūt wāa</td><td>supposons que</td><td></td></tr><tr><td class=\"lo\">ຖືກເລກ</td><td class=\"rom\">Thʉ̀ʉk lêek</td><td>gagner à la loterie</td><td></td></tr><tr><td class=\"lo\">ພາ</td><td class=\"rom\">Pháa</td><td>emmener</td><td></td></tr><tr><td class=\"lo\">ຮອບໂລກ</td><td class=\"rom\">Hɔ̂ɔp lôok</td><td>tour du monde</td><td></td></tr><tr><td class=\"lo\">ຝັນ</td><td class=\"rom\">Fǎn</td><td>rêver</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les hypothèses",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຖ້າມີເງິນຈະຊື້ເຮືອນ</span> <span class=\"rom\">Thâa míi ngɤ́n já sȕu hʉ́an</span> = si j&#x27;avais de l&#x27;argent, j&#x27;achèterais une maison</li><li><span class=\"lo\">ສົມມຸດວ່າ</span> <span class=\"rom\">Sǒm-mūt wāa…</span> = supposons que…</li></ul><p><b>À toi de trouver :</b></p><ol><li>Le lao distingue-t-il « si j&#x27;ai » et « si j&#x27;avais » ?</li></ol><details><summary>La règle</summary><p>Le lao n'a pas de conditionnel : ຖ້າ… ຈະ… couvre le réel et l'hypothétique. Le contexte (ou ສົມມຸດວ່າ) montre que c'est imaginaire.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> ຖ້າ et ຈະ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Si j&#x27;avais de l&#x27;argent…</li><li>J&#x27;achèterais une maison.</li><li>Supposons que…</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຖ້າຂ້ອຍມີເງິນ</span> <span class=\"rom\">Thâa khɔ̂ɔy míi ngɤ́n…</span></li><li><span class=\"lo\">ຂ້ອຍຈະຊື້ເຮືອນ</span> <span class=\"rom\">Khɔ̂ɔy já sȕu hʉ́an.</span></li><li><span class=\"lo\">ສົມມຸດວ່າ</span> <span class=\"rom\">Sǒm-mūt wāa…</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris 5 phrases « Si j&#x27;étais… je… ».</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Joue avec un natif à « Qu&#x27;est-ce que tu ferais si… ».</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>9 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l74-v01",
+   "front": "ຖ້າ ຈະ",
+   "back": "Thâa… já · si… alors (hypothèse)"
+  },
+  {
+   "id": "l74-v02",
+   "front": "ສົມມຸດວ່າ",
+   "back": "Sǒm-mūt wāa · supposons que"
+  },
+  {
+   "id": "l74-v03",
+   "front": "ຖືກເລກ",
+   "back": "Thʉ̀ʉk lêek · gagner à la loterie"
+  },
+  {
+   "id": "l74-v04",
+   "front": "ພາ",
+   "back": "Pháa · emmener"
+  },
+  {
+   "id": "l74-v05",
+   "front": "ຮອບໂລກ",
+   "back": "Hɔ̂ɔp lôok · tour du monde"
+  },
+  {
+   "id": "l74-v06",
+   "front": "ຝັນ",
+   "back": "Fǎn · rêver"
+  },
+  {
+   "id": "l74-p01",
+   "front": "Si j'avais de l'argent…",
+   "back": "ຖ້າຂ້ອຍມີເງິນ · Thâa khɔ̂ɔy míi ngɤ́n…"
+  },
+  {
+   "id": "l74-p02",
+   "front": "J'achèterais une maison.",
+   "back": "ຂ້ອຍຈະຊື້ເຮືອນ · Khɔ̂ɔy já sȕu hʉ́an."
+  },
+  {
+   "id": "l74-p03",
+   "front": "Supposons que…",
+   "back": "ສົມມຸດວ່າ · Sǒm-mūt wāa…"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຖ້າ ຈະ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "si… alors (hypothèse)",
+      "rêver",
+      "supposons que",
+      "tour du monde"
+     ],
+     "answer": "si… alors (hypothèse)",
+     "reveal": "<i>Thâa… já</i>"
+    },
+    {
+     "audio": [
+      "ສົມມຸດວ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "supposons que",
+      "emmener",
+      "rêver",
+      "si… alors (hypothèse)"
+     ],
+     "answer": "supposons que",
+     "reveal": "<i>Sǒm-mūt wāa</i>"
+    },
+    {
+     "audio": [
+      "ຖືກເລກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "gagner à la loterie",
+      "supposons que",
+      "tour du monde",
+      "emmener"
+     ],
+     "answer": "gagner à la loterie",
+     "reveal": "<i>Thʉ̀ʉk lêek</i>"
+    },
+    {
+     "audio": [
+      "ພາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "emmener",
+      "si… alors (hypothèse)",
+      "rêver",
+      "supposons que"
+     ],
+     "answer": "emmener",
+     "reveal": "<i>Pháa</i>"
+    },
+    {
+     "audio": [
+      "ຮອບໂລກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "tour du monde",
+      "si… alors (hypothèse)",
+      "rêver",
+      "supposons que"
+     ],
+     "answer": "tour du monde",
+     "reveal": "<i>Hɔ̂ɔp lôok</i>"
+    },
+    {
+     "audio": [
+      "ຝັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "rêver",
+      "si… alors (hypothèse)",
+      "supposons que",
+      "gagner à la loterie"
+     ],
+     "answer": "rêver",
+     "reveal": "<i>Fǎn</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຖ້າຖືກເລກ ເຈົ້າຈະເຮັດຫຍັງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Si tu gagnais à la loterie, tu ferais quoi ?",
+      "Moi, j'emmènerais mes parents faire le tour du monde.",
+      "Si j'avais beaucoup d'argent, j'achèterais une maison au Laos.",
+      "Et si on partait ensemble ?"
+     ],
+     "answer": "Si tu gagnais à la loterie, tu ferais quoi ?",
+     "reveal": "<i>Thâa thʉ̀ʉk lêek, jâo já hēt nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ຖ້າຂ້ອຍມີເງິນຫຼາຍ ຂ້ອຍຈະຊື້ເຮືອນຢູ່ລາວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Si j'avais beaucoup d'argent, j'achèterais une maison au Laos.",
+      "Si tu gagnais à la loterie, tu ferais quoi ?",
+      "Et si on partait ensemble ?",
+      "Moi, j'emmènerais mes parents faire le tour du monde."
+     ],
+     "answer": "Si j'avais beaucoup d'argent, j'achèterais une maison au Laos.",
+     "reveal": "<i>Thâa khɔ̂ɔy míi ngɤ́n lǎay, khɔ̂ɔy já sȕu hʉ́an yùu láaw.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຈະພາພໍ່ແມ່ໄປທ່ຽວຮອບໂລກ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Moi, j'emmènerais mes parents faire le tour du monde.",
+      "Si j'avais beaucoup d'argent, j'achèterais une maison au Laos.",
+      "Et si on partait ensemble ?",
+      "Si tu gagnais à la loterie, tu ferais quoi ?"
+     ],
+     "answer": "Moi, j'emmènerais mes parents faire le tour du monde.",
+     "reveal": "<i>Khɔ̂ɔy já pháa phɔ̄ɔ mɛ̄ɛ pǎy thìaw hɔ̂ɔp lôok.</i>"
+    },
+    {
+     "audio": [
+      "ສົມມຸດວ່າເຮົາໄປນຳກັນເດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Et si on partait ensemble ?",
+      "Si tu gagnais à la loterie, tu ferais quoi ?",
+      "Moi, j'emmènerais mes parents faire le tour du monde.",
+      "Si j'avais beaucoup d'argent, j'achèterais une maison au Laos."
+     ],
+     "answer": "Et si on partait ensemble ?",
+     "reveal": "<i>Sǒm-mūt wāa háo pǎy nám kǎn dě?</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຖ້າຂ້ອຍມີເງິນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Si j'avais de l'argent…",
+      "J'achèterais une maison.",
+      "Supposons que…"
+     ],
+     "answer": "Si j'avais de l'argent…",
+     "reveal": "<i>Thâa khɔ̂ɔy míi ngɤ́n…</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຈະຊື້ເຮືອນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "J'achèterais une maison.",
+      "Si j'avais de l'argent…",
+      "Supposons que…"
+     ],
+     "answer": "J'achèterais une maison.",
+     "reveal": "<i>Khɔ̂ɔy já sȕu hʉ́an.</i>"
+    },
+    {
+     "audio": [
+      "ສົມມຸດວ່າ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Supposons que…",
+      "Si j'avais de l'argent…",
+      "J'achèterais une maison."
+     ],
+     "answer": "Supposons que…",
+     "reveal": "<i>Sǒm-mūt wāa…</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຖ້າ ຈະ",
+   "rom": "Thâa… já",
+   "fr": "si… alors (hypothèse)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສົມມຸດວ່າ",
+   "rom": "Sǒm-mūt wāa",
+   "fr": "supposons que",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຖືກເລກ",
+   "rom": "Thʉ̀ʉk lêek",
+   "fr": "gagner à la loterie",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພາ",
+   "rom": "Pháa",
+   "fr": "emmener",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຮອບໂລກ",
+   "rom": "Hɔ̂ɔp lôok",
+   "fr": "tour du monde",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຝັນ",
+   "rom": "Fǎn",
+   "fr": "rêver",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຖ້າຂ້ອຍມີເງິນ",
+   "rom": "Thâa khɔ̂ɔy míi ngɤ́n…",
+   "fr": "Si j'avais de l'argent…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຈະຊື້ເຮືອນ",
+   "rom": "Khɔ̂ɔy já sȕu hʉ́an.",
+   "fr": "J'achèterais une maison.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສົມມຸດວ່າ",
+   "rom": "Sǒm-mūt wāa…",
+   "fr": "Supposons que…",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຖ້າ",
+    "ຂ້ອຍ",
+    "ມີ",
+    "ເງິນ"
+   ],
+   "rom": "Thâa khɔ̂ɔy míi ngɤ́n…",
+   "fr": "Si j'avais de l'argent…"
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຈະ",
+    "ຊື້",
+    "ເຮືອນ"
+   ],
+   "rom": "Khɔ̂ɔy já sȕu hʉ́an.",
+   "fr": "J'achèterais une maison."
+  },
+  {
+   "tokens": [
+    "ສົມມຸດ",
+    "ວ່າ"
+   ],
+   "rom": "Sǒm-mūt wāa…",
+   "fr": "Supposons que…"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຖ້າ ຈະ",
+   "rom": "Thâa… já",
+   "fr": "si… alors (hypothèse)"
+  },
+  {
+   "lao": "ສົມມຸດວ່າ",
+   "rom": "Sǒm-mūt wāa",
+   "fr": "supposons que"
+  },
+  {
+   "lao": "ຖືກເລກ",
+   "rom": "Thʉ̀ʉk lêek",
+   "fr": "gagner à la loterie"
+  },
+  {
+   "lao": "ພາ",
+   "rom": "Pháa",
+   "fr": "emmener"
+  },
+  {
+   "lao": "ຮອບໂລກ",
+   "rom": "Hɔ̂ɔp lôok",
+   "fr": "tour du monde"
+  },
+  {
+   "lao": "ຝັນ",
+   "rom": "Fǎn",
+   "fr": "rêver"
+  }
+ ],
+ "sounds": {
+  "ລອງ ເບິ່ງ": "Lɔ́ɔng… bɤ̀ng",
+  "ໃບບິນ": "Bǎy-bǐn",
+  "ດີກວ່າ": "Dǐi kwàa",
+  "ຕື່ນເຕັ້ນ": "Tʉ̀ʉn-tên",
+  "ຖ້າຖືກເລກ ເຈົ້າຈະເຮັດຫຍັງ": "Thâa thʉ̀ʉk lêek, jâo já hēt nyǎng?",
+  "ຖ້າຂ້ອຍມີເງິນຫຼາຍ ຂ້ອຍຈະຊື້ເຮືອນຢູ່ລາວ": "Thâa khɔ̂ɔy míi ngɤ́n lǎay, khɔ̂ɔy já sȕu hʉ́an yùu láaw.",
+  "ຂ້ອຍຈະພາພໍ່ແມ່ໄປທ່ຽວຮອບໂລກ": "Khɔ̂ɔy já pháa phɔ̄ɔ mɛ̄ɛ pǎy thìaw hɔ̂ɔp lôok.",
+  "ສົມມຸດວ່າເຮົາໄປນຳກັນເດ": "Sǒm-mūt wāa háo pǎy nám kǎn dě?",
+  "ຖ້າ ຈະ": "Thâa… já",
+  "ສົມມຸດວ່າ": "Sǒm-mūt wāa…",
+  "ຖືກເລກ": "Thʉ̀ʉk lêek",
+  "ພາ": "Pháa",
+  "ຮອບໂລກ": "Hɔ̂ɔp lôok",
+  "ຝັນ": "Fǎn",
+  "ຖ້າມີເງິນຈະຊື້ເຮືອນ": "Thâa míi ngɤ́n já sȕu hʉ́an",
+  "ຖ້າຂ້ອຍມີເງິນ": "Thâa khɔ̂ɔy míi ngɤ́n…",
+  "ຂ້ອຍຈະຊື້ເຮືອນ": "Khɔ̂ɔy já sȕu hʉ́an.",
+  "ຖ້າ": "thâa",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ມີ": "míi",
+  "ເງິນ": "ngɤ́n",
+  "ຈະ": "já",
+  "ຊື້": "sȕu",
+  "ເຮືອນ": "hʉ́an",
+  "ສົມມຸດ": "sǒm-mūt",
+  "ວ່າ": "wāa"
+ },
+ "suivi": "LEÇON : 74 — Partie E (S'exprimer (cours en lao), B1) · Hypothèses\nOBJECTIF : Dire ce que tu ferais si…\nNOTION : les hypothèses\nVOCAB : Thâa… já, Sǒm-mūt wāa, Thʉ̀ʉk lêek, Pháa, Hɔ̂ɔp lôok, Fǎn\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 75 — Relations"
+}

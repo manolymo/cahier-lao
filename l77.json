@@ -1,0 +1,491 @@
+{
+ "num": 77,
+ "phase": "Partie E · S'exprimer (cours en lao)",
+ "title": "S'adresser à un moine",
+ "objective": "Saluer, offrir et remercier un moine avec le vocabulaire approprié.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>enlever ses chaussures <small class=\"muted\">(leçon 76)</small></li><li>tour du monde <small class=\"muted\">(leçon 74)</small></li><li>problème <small class=\"muted\">(leçon 70)</small></li><li>s&#x27;absenter, se reposer <small class=\"muted\">(leçon 63)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຖອດເກີບ</span> <span class=\"rom\">Thȍɔt kɤ̏ɤp</span> · enlever ses chaussures</li><li><span class=\"lo\">ຮອບໂລກ</span> <span class=\"rom\">Hɔ̂ɔp lôok</span> · tour du monde</li><li><span class=\"lo\">ບັນຫາ</span> <span class=\"rom\">Bǎn-hǎa</span> · problème</li><li><span class=\"lo\">ພັກ</span> <span class=\"rom\">Phāk</span> · s&#x27;absenter, se reposer</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Saluer, offrir et remercier un moine avec le vocabulaire approprié.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara fait l&#x27;offrande du matin.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ຕອນເຊົ້າພະຈະຍ່າງມາບິນທະບາດ</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ເຮົາຄຸເຂົ່າແລ້ວໃສ່ເຂົ້າໜຽວໃສ່ບາດ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຕ້ອງເວົ້າຫຍັງບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ບໍ່ຕ້ອງເວົ້າ ພະຈະໃຫ້ພອນ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Tɔ̌ɔn-sȁo phā já nyāang máa bǐn-thā-bȁat.</span><br><span class=\"rom\">Háo khū-khào lɛ̏ɛw sày khâo-nǐaw sày bȁat.</span><br><span class=\"rom\">Tâɔng wȁo nyǎng bɔ̌ɔ?</span><br><span class=\"rom\">Bɔ̀ɔ tâɔng wȁo. Phā já hây phɔ́ɔn.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Mme Boua</b> — Le matin, les moines passent pour l&#x27;aumône.<br><b>Mme Boua</b> — On s&#x27;agenouille et on met du riz gluant dans le bol.<br><b>Clara</b> — Il faut dire quelque chose ?<br><b>Mme Boua</b> — Pas besoin de parler. Le moine donne sa bénédiction.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que fait-on le matin ?</li><li>Faut-il parler ?</li></ol><details><summary>Réponses</summary><ol><li>L&#x27;offrande de riz gluant aux moines.</li><li>Non, le moine bénit.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ພະສົງ</td><td class=\"rom\">Phā-sǒng</td><td>moine (collectif)</td><td></td></tr><tr><td class=\"lo\">ບິນທະບາດ</td><td class=\"rom\">Bǐn-thā-bȁat</td><td>quête de l&#x27;aumône</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ໃສ່ບາດ</td><td class=\"rom\">Sāy-bȁat</td><td>donner l&#x27;aumône</td><td></td></tr><tr><td class=\"lo\">ຄຸເຂົ່າ</td><td class=\"rom\">Khū-khào</td><td>s&#x27;agenouiller</td><td></td></tr><tr><td class=\"lo\">ໃຫ້ພອນ</td><td class=\"rom\">Hây phɔ́ɔn</td><td>bénir</td><td></td></tr><tr><td class=\"lo\">ສາທຸ</td><td class=\"rom\">Sǎa-thū</td><td>« sathou » (amen)</td><td></td></tr><tr><td class=\"lo\">ຈັງຫັນ</td><td class=\"rom\">Jǎng-hǎn</td><td>repas (d&#x27;un moine)</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ຈຳວັດ</td><td class=\"rom\">Jǎm-wāt</td><td>résider (moine)</td><td>[À VÉRIFIER]</td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : le vocabulaire réservé aux moines",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ພະຈັງຫັນ</span> <span class=\"rom\">Phā jǎng-hǎn</span> = le moine mange</li><li><span class=\"lo\">ພະຈຳວັດຢູ່ວັດນີ້</span> <span class=\"rom\">Phā jǎm-wāt yùu wāt nȉi</span> = le moine réside dans ce temple</li></ul><p><b>À toi de trouver :</b></p><ol><li>Pourquoi utilise-t-on d&#x27;autres verbes pour les moines ?</li></ol><details><summary>La règle</summary><p>Pour les moines, certains verbes courants sont remplacés par des verbes respectueux (ຈັງຫັນ pour manger, ຈຳວັດ pour résider…). On dit ສາທຸ en réponse à une bénédiction. [À VÉRIFIER entièrement avec un natif pratiquant]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> ສາທຸ en fin de bénédiction.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Le moine donne sa bénédiction.</li><li>Sathou.</li><li>On s&#x27;agenouille.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ພະໃຫ້ພອນ</span> <span class=\"rom\">Phā hây phɔ́ɔn.</span></li><li><span class=\"lo\">ສາທຸ</span> <span class=\"rom\">Sǎa-thū.</span></li><li><span class=\"lo\">ຄຸເຂົ່າ</span> <span class=\"rom\">Khū-khào.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Décris le déroulé de l&#x27;offrande du matin en 6 phrases.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Demande à un aîné lao comment il parle aux moines et compare avec la leçon.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>11 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l77-v01",
+   "front": "ພະສົງ",
+   "back": "Phā-sǒng · moine (collectif)"
+  },
+  {
+   "id": "l77-v02",
+   "front": "ບິນທະບາດ",
+   "back": "Bǐn-thā-bȁat · quête de l'aumône"
+  },
+  {
+   "id": "l77-v03",
+   "front": "ໃສ່ບາດ",
+   "back": "Sāy-bȁat · donner l'aumône"
+  },
+  {
+   "id": "l77-v04",
+   "front": "ຄຸເຂົ່າ",
+   "back": "Khū-khào · s'agenouiller"
+  },
+  {
+   "id": "l77-v05",
+   "front": "ໃຫ້ພອນ",
+   "back": "Hây phɔ́ɔn · bénir"
+  },
+  {
+   "id": "l77-v06",
+   "front": "ສາທຸ",
+   "back": "Sǎa-thū · « sathou » (amen)"
+  },
+  {
+   "id": "l77-v07",
+   "front": "ຈັງຫັນ",
+   "back": "Jǎng-hǎn · repas (d'un moine)"
+  },
+  {
+   "id": "l77-v08",
+   "front": "ຈຳວັດ",
+   "back": "Jǎm-wāt · résider (moine)"
+  },
+  {
+   "id": "l77-p01",
+   "front": "Le moine donne sa bénédiction.",
+   "back": "ພະໃຫ້ພອນ · Phā hây phɔ́ɔn."
+  },
+  {
+   "id": "l77-p02",
+   "front": "Sathou.",
+   "back": "ສາທຸ · Sǎa-thū."
+  },
+  {
+   "id": "l77-p03",
+   "front": "On s'agenouille.",
+   "back": "ຄຸເຂົ່າ · Khū-khào."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ພະສົງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "moine (collectif)",
+      "s'agenouiller",
+      "repas (d'un moine)",
+      "bénir"
+     ],
+     "answer": "moine (collectif)",
+     "reveal": "<i>Phā-sǒng</i>"
+    },
+    {
+     "audio": [
+      "ບິນທະບາດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "quête de l'aumône",
+      "bénir",
+      "moine (collectif)",
+      "« sathou » (amen)"
+     ],
+     "answer": "quête de l'aumône",
+     "reveal": "<i>Bǐn-thā-bȁat</i>"
+    },
+    {
+     "audio": [
+      "ໃສ່ບາດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "donner l'aumône",
+      "repas (d'un moine)",
+      "quête de l'aumône",
+      "résider (moine)"
+     ],
+     "answer": "donner l'aumône",
+     "reveal": "<i>Sāy-bȁat</i>"
+    },
+    {
+     "audio": [
+      "ຄຸເຂົ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "s'agenouiller",
+      "moine (collectif)",
+      "« sathou » (amen)",
+      "repas (d'un moine)"
+     ],
+     "answer": "s'agenouiller",
+     "reveal": "<i>Khū-khào</i>"
+    },
+    {
+     "audio": [
+      "ໃຫ້ພອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "bénir",
+      "quête de l'aumône",
+      "donner l'aumône",
+      "moine (collectif)"
+     ],
+     "answer": "bénir",
+     "reveal": "<i>Hây phɔ́ɔn</i>"
+    },
+    {
+     "audio": [
+      "ສາທຸ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "« sathou » (amen)",
+      "bénir",
+      "s'agenouiller",
+      "repas (d'un moine)"
+     ],
+     "answer": "« sathou » (amen)",
+     "reveal": "<i>Sǎa-thū</i>"
+    },
+    {
+     "audio": [
+      "ຈັງຫັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "repas (d'un moine)",
+      "quête de l'aumône",
+      "bénir",
+      "moine (collectif)"
+     ],
+     "answer": "repas (d'un moine)",
+     "reveal": "<i>Jǎng-hǎn</i>"
+    },
+    {
+     "audio": [
+      "ຈຳວັດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "résider (moine)",
+      "quête de l'aumône",
+      "moine (collectif)",
+      "bénir"
+     ],
+     "answer": "résider (moine)",
+     "reveal": "<i>Jǎm-wāt</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຕອນເຊົ້າພະຈະຍ່າງມາບິນທະບາດ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Le matin, les moines passent pour l'aumône.",
+      "Pas besoin de parler. Le moine donne sa bénédiction.",
+      "Il faut dire quelque chose ?",
+      "On s'agenouille et on met du riz gluant dans le bol."
+     ],
+     "answer": "Le matin, les moines passent pour l'aumône.",
+     "reveal": "<i>Tɔ̌ɔn-sȁo phā já nyāang máa bǐn-thā-bȁat.</i>"
+    },
+    {
+     "audio": [
+      "ເຮົາຄຸເຂົ່າແລ້ວໃສ່ເຂົ້າໜຽວໃສ່ບາດ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "On s'agenouille et on met du riz gluant dans le bol.",
+      "Il faut dire quelque chose ?",
+      "Le matin, les moines passent pour l'aumône.",
+      "Pas besoin de parler. Le moine donne sa bénédiction."
+     ],
+     "answer": "On s'agenouille et on met du riz gluant dans le bol.",
+     "reveal": "<i>Háo khū-khào lɛ̏ɛw sày khâo-nǐaw sày bȁat.</i>"
+    },
+    {
+     "audio": [
+      "ຕ້ອງເວົ້າຫຍັງບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Il faut dire quelque chose ?",
+      "Le matin, les moines passent pour l'aumône.",
+      "On s'agenouille et on met du riz gluant dans le bol.",
+      "Pas besoin de parler. Le moine donne sa bénédiction."
+     ],
+     "answer": "Il faut dire quelque chose ?",
+     "reveal": "<i>Tâɔng wȁo nyǎng bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ຕ້ອງເວົ້າ ພະຈະໃຫ້ພອນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Pas besoin de parler. Le moine donne sa bénédiction.",
+      "Le matin, les moines passent pour l'aumône.",
+      "On s'agenouille et on met du riz gluant dans le bol.",
+      "Il faut dire quelque chose ?"
+     ],
+     "answer": "Pas besoin de parler. Le moine donne sa bénédiction.",
+     "reveal": "<i>Bɔ̀ɔ tâɔng wȁo. Phā já hây phɔ́ɔn.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ພະໃຫ້ພອນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Le moine donne sa bénédiction.",
+      "Sathou.",
+      "On s'agenouille."
+     ],
+     "answer": "Le moine donne sa bénédiction.",
+     "reveal": "<i>Phā hây phɔ́ɔn.</i>"
+    },
+    {
+     "audio": [
+      "ສາທຸ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Sathou.",
+      "On s'agenouille.",
+      "Le moine donne sa bénédiction."
+     ],
+     "answer": "Sathou.",
+     "reveal": "<i>Sǎa-thū.</i>"
+    },
+    {
+     "audio": [
+      "ຄຸເຂົ່າ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "On s'agenouille.",
+      "Le moine donne sa bénédiction.",
+      "Sathou."
+     ],
+     "answer": "On s'agenouille.",
+     "reveal": "<i>Khū-khào.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ພະສົງ",
+   "rom": "Phā-sǒng",
+   "fr": "moine (collectif)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບິນທະບາດ",
+   "rom": "Bǐn-thā-bȁat",
+   "fr": "quête de l'aumône",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃສ່ບາດ",
+   "rom": "Sāy-bȁat",
+   "fr": "donner l'aumône",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄຸເຂົ່າ",
+   "rom": "Khū-khào",
+   "fr": "s'agenouiller",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃຫ້ພອນ",
+   "rom": "Hây phɔ́ɔn",
+   "fr": "bénir",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສາທຸ",
+   "rom": "Sǎa-thū",
+   "fr": "« sathou » (amen)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈັງຫັນ",
+   "rom": "Jǎng-hǎn",
+   "fr": "repas (d'un moine)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈຳວັດ",
+   "rom": "Jǎm-wāt",
+   "fr": "résider (moine)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພະໃຫ້ພອນ",
+   "rom": "Phā hây phɔ́ɔn.",
+   "fr": "Le moine donne sa bénédiction.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສາທຸ",
+   "rom": "Sǎa-thū.",
+   "fr": "Sathou.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄຸເຂົ່າ",
+   "rom": "Khū-khào.",
+   "fr": "On s'agenouille.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ພະ",
+    "ໃຫ້",
+    "ພອນ"
+   ],
+   "rom": "Phā hây phɔ́ɔn.",
+   "fr": "Le moine donne sa bénédiction."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ພະສົງ",
+   "rom": "Phā-sǒng",
+   "fr": "moine (collectif)"
+  },
+  {
+   "lao": "ບິນທະບາດ",
+   "rom": "Bǐn-thā-bȁat",
+   "fr": "quête de l'aumône"
+  },
+  {
+   "lao": "ໃສ່ບາດ",
+   "rom": "Sāy-bȁat",
+   "fr": "donner l'aumône"
+  },
+  {
+   "lao": "ຄຸເຂົ່າ",
+   "rom": "Khū-khào",
+   "fr": "s'agenouiller"
+  },
+  {
+   "lao": "ໃຫ້ພອນ",
+   "rom": "Hây phɔ́ɔn",
+   "fr": "bénir"
+  },
+  {
+   "lao": "ສາທຸ",
+   "rom": "Sǎa-thū",
+   "fr": "« sathou » (amen)"
+  },
+  {
+   "lao": "ຈັງຫັນ",
+   "rom": "Jǎng-hǎn",
+   "fr": "repas (d'un moine)"
+  },
+  {
+   "lao": "ຈຳວັດ",
+   "rom": "Jǎm-wāt",
+   "fr": "résider (moine)"
+  }
+ ],
+ "sounds": {
+  "ຖອດເກີບ": "Thȍɔt kɤ̏ɤp",
+  "ຮອບໂລກ": "Hɔ̂ɔp lôok",
+  "ບັນຫາ": "Bǎn-hǎa",
+  "ພັກ": "Phāk",
+  "ຕອນເຊົ້າພະຈະຍ່າງມາບິນທະບາດ": "Tɔ̌ɔn-sȁo phā já nyāang máa bǐn-thā-bȁat.",
+  "ເຮົາຄຸເຂົ່າແລ້ວໃສ່ເຂົ້າໜຽວໃສ່ບາດ": "Háo khū-khào lɛ̏ɛw sày khâo-nǐaw sày bȁat.",
+  "ຕ້ອງເວົ້າຫຍັງບໍ": "Tâɔng wȁo nyǎng bɔ̌ɔ?",
+  "ບໍ່ຕ້ອງເວົ້າ ພະຈະໃຫ້ພອນ": "Bɔ̀ɔ tâɔng wȁo. Phā já hây phɔ́ɔn.",
+  "ພະສົງ": "Phā-sǒng",
+  "ບິນທະບາດ": "Bǐn-thā-bȁat",
+  "ໃສ່ບາດ": "Sāy-bȁat",
+  "ຄຸເຂົ່າ": "Khū-khào.",
+  "ໃຫ້ພອນ": "Hây phɔ́ɔn",
+  "ສາທຸ": "Sǎa-thū.",
+  "ຈັງຫັນ": "Jǎng-hǎn",
+  "ຈຳວັດ": "Jǎm-wāt",
+  "ພະຈັງຫັນ": "Phā jǎng-hǎn",
+  "ພະຈຳວັດຢູ່ວັດນີ້": "Phā jǎm-wāt yùu wāt nȉi",
+  "ພະໃຫ້ພອນ": "Phā hây phɔ́ɔn.",
+  "ພະ": "phā",
+  "ໃຫ້": "hây",
+  "ພອນ": "phɔ́ɔn"
+ },
+ "suivi": "LEÇON : 77 — Partie E (S'exprimer (cours en lao), B1) · S'adresser à un moine\nOBJECTIF : Saluer, offrir et remercier un moine avec le vocabulaire approprié.\nNOTION : le vocabulaire réservé aux moines\nVOCAB : Phā-sǒng, Bǐn-thā-bȁat, Sāy-bȁat, Khū-khào, Hây phɔ́ɔn, Sǎa-thū, Jǎng-hǎn, Jǎm-wāt\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 78 — Travail (2)"
+}

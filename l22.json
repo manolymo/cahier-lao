@@ -19,7 +19,7 @@
   },
   {
    "title": "Dialogue",
-   "html": "<p class=\"muted\">Clara achète un sac au marché.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ກະເປົານີ້ເທົ່າໃດ?</span><span class=\"rom\">Kā-pǎo nȉi thāo-dǎy?</span></div></div><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ຫ້າສິບພັນກີບ</span><span class=\"rom\">Hâa-sīp-phán kȉip.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແພງໂພດ! ຫຼຸດໄດ້ບໍ?</span><span class=\"rom\">Phɛ́ɛng phôot! Lūt dâay bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ສີ່ສິບພັນກໍໄດ້</span><span class=\"rom\">Sìi-sīp phán kɔ̂ɔ dâay.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໂອເຄ ເອົາ</span><span class=\"rom\">Ǒo-khéé, ǎo.</span></div></div><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ຂອບໃຈເດີເອື້ອຍ</span><span class=\"rom\">Khɔ̏ɔp-jǎy dɤ̌ɤ ʉ̂ay.</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Combien coûte ce sac ?<br><b>La vendeuse</b> — Cinquante mille kips.<br><b>Clara</b> — C&#x27;est trop cher ! Vous pouvez baisser ?<br><b>La vendeuse</b> — Quarante mille, d&#x27;accord.<br><b>Clara</b> — OK, je le prends.<br><b>La vendeuse</b> — Merci !</p></details>"
+   "html": "<p class=\"muted\">Clara achète un sac au marché.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ກະເປົານີ້ເທົ່າໃດ?</span><span class=\"rom\">Ká-pǎo nȉi thāo-dǎy?</span></div></div><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ຫ້າສິບພັນກີບ</span><span class=\"rom\">Hâa-sīp-phán kȉip.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແພງໂພດ! ຫຼຸດໄດ້ບໍ?</span><span class=\"rom\">Phɛ́ɛng phôot! Lūt dâay bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ສີ່ສິບພັນກໍໄດ້</span><span class=\"rom\">Sìi-sīp phán kɔ̂ɔ dâay.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໂອເຄ ເອົາ</span><span class=\"rom\">Ǒo-khéé, ǎo.</span></div></div><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ຂອບໃຈເດີເອື້ອຍ</span><span class=\"rom\">Khɔ̏ɔp-jǎy dɤ̌ɤ ʉ̂ay.</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Combien coûte ce sac ?<br><b>La vendeuse</b> — Cinquante mille kips.<br><b>Clara</b> — C&#x27;est trop cher ! Vous pouvez baisser ?<br><b>La vendeuse</b> — Quarante mille, d&#x27;accord.<br><b>Clara</b> — OK, je le prends.<br><b>La vendeuse</b> — Merci !</p></details>"
   },
   {
    "title": "Compréhension",
@@ -27,7 +27,7 @@
   },
   {
    "title": "Vocabulaire et blocs",
-   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ເທົ່າໃດ</td><td class=\"rom\">Thāo-dǎy</td><td>combien ?</td><td></td></tr><tr><td class=\"lo\">ພັນ</td><td class=\"rom\">Phán</td><td>mille</td><td></td></tr><tr><td class=\"lo\">ສິບພັນ</td><td class=\"rom\">Sīp-phán</td><td>dix mille</td><td>on compte en milliers</td></tr><tr><td class=\"lo\">ແສນ</td><td class=\"rom\">Sɛ̌ɛn</td><td>cent mille</td><td></td></tr><tr><td class=\"lo\">ລ້ານ</td><td class=\"rom\">Lȁan</td><td>million</td><td></td></tr><tr><td class=\"lo\">ກີບ</td><td class=\"rom\">Kȉip</td><td>kip</td><td></td></tr><tr><td class=\"lo\">ແພງ</td><td class=\"rom\">Phɛ́ɛng</td><td>cher</td><td></td></tr><tr><td class=\"lo\">ຖືກ</td><td class=\"rom\">Thʉ̀ʉk</td><td>bon marché</td><td></td></tr><tr><td class=\"lo\">ຫຼຸດ</td><td class=\"rom\">Lūt</td><td>baisser (le prix)</td><td></td></tr><tr><td class=\"lo\">ກະເປົາ</td><td class=\"rom\">Kā-pǎo</td><td>sac</td><td></td></tr><tr><td class=\"lo\">ຈ່າຍ</td><td class=\"rom\">Jàay</td><td>payer</td><td></td></tr></table></div><p class=\"note\">Au marché, négocier est normal pour les objets et les vêtements, beaucoup moins pour la nourriture. Souris, reste léger.</p>"
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ເທົ່າໃດ</td><td class=\"rom\">Thāo-dǎy</td><td>combien ?</td><td></td></tr><tr><td class=\"lo\">ພັນ</td><td class=\"rom\">Phán</td><td>mille</td><td></td></tr><tr><td class=\"lo\">ສິບພັນ</td><td class=\"rom\">Sīp-phán</td><td>dix mille</td><td>on compte en milliers</td></tr><tr><td class=\"lo\">ແສນ</td><td class=\"rom\">Sɛ̌ɛn</td><td>cent mille</td><td></td></tr><tr><td class=\"lo\">ລ້ານ</td><td class=\"rom\">Lȁan</td><td>million</td><td></td></tr><tr><td class=\"lo\">ກີບ</td><td class=\"rom\">Kȉip</td><td>kip</td><td></td></tr><tr><td class=\"lo\">ແພງ</td><td class=\"rom\">Phɛ́ɛng</td><td>cher</td><td></td></tr><tr><td class=\"lo\">ຖືກ</td><td class=\"rom\">Thʉ̀ʉk</td><td>bon marché</td><td></td></tr><tr><td class=\"lo\">ຫຼຸດ</td><td class=\"rom\">Lūt</td><td>baisser (le prix)</td><td></td></tr><tr><td class=\"lo\">ກະເປົາ</td><td class=\"rom\">Ká-pǎo</td><td>sac</td><td></td></tr><tr><td class=\"lo\">ຈ່າຍ</td><td class=\"rom\">Jàay</td><td>payer</td><td></td></tr></table></div><p class=\"note\">Au marché, négocier est normal pour les objets et les vêtements, beaucoup moins pour la nourriture. Souris, reste léger.</p>"
   },
   {
    "title": "Point de langue : les grands nombres",
@@ -103,7 +103,7 @@
   {
    "id": "l22-v10",
    "front": "ກະເປົາ",
-   "back": "Kā-pǎo · sac"
+   "back": "Ká-pǎo · sac"
   },
   {
    "id": "l22-v11",
@@ -275,7 +275,7 @@
       "dix mille"
      ],
      "answer": "sac",
-     "reveal": "<i>Kā-pǎo</i>"
+     "reveal": "<i>Ká-pǎo</i>"
     },
     {
      "audio": [
@@ -311,7 +311,7 @@
       "Cinquante mille kips."
      ],
      "answer": "Combien coûte ce sac ?",
-     "reveal": "<i>Kā-pǎo nȉi thāo-dǎy?</i>"
+     "reveal": "<i>Ká-pǎo nȉi thāo-dǎy?</i>"
     },
     {
      "audio": [
@@ -506,7 +506,7 @@
   },
   {
    "lao": "ກະເປົາ",
-   "rom": "Kā-pǎo",
+   "rom": "Ká-pǎo",
    "fr": "sac",
    "kind": "phrase"
   },
@@ -608,7 +608,7 @@
   },
   {
    "lao": "ກະເປົາ",
-   "rom": "Kā-pǎo",
+   "rom": "Ká-pǎo",
    "fr": "sac"
   },
   {
@@ -622,7 +622,7 @@
   "ໄດ້ຮັບ": "Dâay-hāp",
   "ຫຼານ": "Lǎan",
   "ຫ້າ": "Hâa",
-  "ກະເປົານີ້ເທົ່າໃດ": "Kā-pǎo nȉi thāo-dǎy?",
+  "ກະເປົານີ້ເທົ່າໃດ": "Ká-pǎo nȉi thāo-dǎy?",
   "ຫ້າສິບພັນກີບ": "Hâa-sīp-phán kȉip.",
   "ແພງໂພດ ຫຼຸດໄດ້ບໍ": "Phɛ́ɛng phôot! Lūt dâay bɔ̌ɔ?",
   "ສີ່ສິບພັນກໍໄດ້": "Sìi-sīp phán kɔ̂ɔ dâay.",
@@ -637,7 +637,7 @@
   "ແພງ": "phɛ́ɛng",
   "ຖືກ": "Thʉ̀ʉk",
   "ຫຼຸດ": "lūt",
-  "ກະເປົາ": "Kā-pǎo",
+  "ກະເປົາ": "Ká-pǎo",
   "ຈ່າຍ": "Jàay",
   "ຫ້າພັນ": "Hâa-phán",
   "ຫ້າສິບພັນ": "Hâa-sīp-phán",
@@ -648,5 +648,5 @@
   "ໄດ້": "dâay",
   "ບໍ": "bɔ̌ɔ"
  },
- "suivi": "LEÇON : 22 — Partie C (Vie courante, A1) · Combien ça coûte ?\nOBJECTIF : Demander un prix, comprendre les grands nombres en kips et payer.\nNOTION : les grands nombres\nVOCAB : Thāo-dǎy, Phán, Sīp-phán, Sɛ̌ɛn, Lȁan, Kȉip, Phɛ́ɛng, Thʉ̀ʉk, Lūt, Kā-pǎo, Jàay\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 23 — Les classificateurs"
+ "suivi": "LEÇON : 22 — Partie C (Vie courante, A1) · Combien ça coûte ?\nOBJECTIF : Demander un prix, comprendre les grands nombres en kips et payer.\nNOTION : les grands nombres\nVOCAB : Thāo-dǎy, Phán, Sīp-phán, Sɛ̌ɛn, Lȁan, Kȉip, Phɛ́ɛng, Thʉ̀ʉk, Lūt, Ká-pǎo, Jàay\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 23 — Les classificateurs"
 }

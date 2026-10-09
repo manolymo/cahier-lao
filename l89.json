@@ -1,0 +1,509 @@
+{
+ "num": 89,
+ "phase": "Partie E · S'exprimer (cours en lao)",
+ "title": "Improviser",
+ "objective": "Tenir 10 minutes sur un sujet tiré au hasard, avec des stratégies pour gagner du temps.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>être différent <small class=\"muted\">(leçon 88)</small></li><li>siècle <small class=\"muted\">(leçon 86)</small></li><li>célèbre ; fort (son) <small class=\"muted\">(leçon 82)</small></li><li>se disputer, être en froid <small class=\"muted\">(leçon 75)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຕ່າງກັນ</span> <span class=\"rom\">Tàang kǎn</span> · être différent</li><li><span class=\"lo\">ສະຕະວັດ</span> <span class=\"rom\">Sā-tá-wāt</span> · siècle</li><li><span class=\"lo\">ດັງ</span> <span class=\"rom\">Dǎng</span> · célèbre ; fort (son)</li><li><span class=\"lo\">ຜິດກັນ</span> <span class=\"rom\">Phīt kǎn</span> · se disputer, être en froid</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Tenir 10 minutes sur un sujet tiré au hasard, avec des stratégies pour gagner du temps.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Jeu de conversation entre amis.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຫົວຂໍ້ແມ່ນ«ອາຫານ» ເວົ້າສາມນາທີ!</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເອີ ຂໍຄິດແປັບໜຶ່ງ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຄືວ່າ ສຳລັບຂ້ອຍ ອາຫານລາວແມ່ນ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ສືບຕໍ່!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Hǔa-khɔ̂ɔ mɛ̄ɛn« ǎa-hǎan». Wȁo sǎam náa-thíi!</span><br><span class=\"rom\">ɤ̌ɤ… khɔ̌ɔ khīt pɛ́p nʉ̀ng.</span><br><span class=\"rom\">Khʉ́ʉ wāa… sǎm-láp khɔ̂ɔy, ǎa-hǎan láaw mɛ̄ɛn…</span><br><span class=\"rom\">Sʉ̄p-tɔ̀ɔ!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Le sujet, c&#x27;est « la nourriture ». Parle trois minutes !<br><b>Clara</b> — Euh… laisse-moi réfléchir un instant.<br><b>Clara</b> — Disons que… pour moi, la cuisine lao, c&#x27;est…<br><b>Noy</b> — Continue !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quel est le sujet ?</li><li>Comment Clara gagne-t-elle du temps ?</li></ol><details><summary>Réponses</summary><ol><li>La nourriture.</li><li>Avec ເອີ, ຂໍຄິດແປັບໜຶ່ງ, ຄືວ່າ.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຫົວຂໍ້</td><td class=\"rom\">Hǔa-khɔ̂ɔ</td><td>sujet, thème</td><td></td></tr><tr><td class=\"lo\">ເອີ</td><td class=\"rom\">ɤ̌ɤ</td><td>euh</td><td></td></tr><tr><td class=\"lo\">ຂໍຄິດແປັບໜຶ່ງ</td><td class=\"rom\">Khɔ̌ɔ khīt pɛ́p nʉ̀ng</td><td>laisse-moi réfléchir</td><td></td></tr><tr><td class=\"lo\">ຄືວ່າ</td><td class=\"rom\">Khʉ́ʉ wāa</td><td>c&#x27;est-à-dire, disons que</td><td></td></tr><tr><td class=\"lo\">ສຳລັບຂ້ອຍ</td><td class=\"rom\">Sǎm-láp khɔ̂ɔy</td><td>pour moi</td><td></td></tr><tr><td class=\"lo\">ສືບຕໍ່</td><td class=\"rom\">Sʉ̄p-tɔ̀ɔ</td><td>continuer</td><td></td></tr><tr><td class=\"lo\">ອີກຢ່າງໜຶ່ງ</td><td class=\"rom\">Ìik yàang nʉ̀ng</td><td>autre chose</td><td></td></tr><tr><td class=\"lo\">ເວົ້າງ່າຍໆ</td><td class=\"rom\">Wȁo ngāay-ngāay</td><td>pour faire simple</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les mots pour gagner du temps",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ເອີ</span> <span class=\"rom\">ɤ̌ɤ…</span> = euh…</li><li><span class=\"lo\">ຄືວ່າ</span> <span class=\"rom\">Khʉ́ʉ wāa…</span> = disons que…</li><li><span class=\"lo\">ເວົ້າງ່າຍໆ</span> <span class=\"rom\">Wȁo ngāay-ngāay…</span> = pour faire simple…</li></ul><details><summary>La règle</summary><p>Les « mots de remplissage » te donnent du temps sans silence : ເອີ, ຄືວ່າ, ຂໍຄິດແປັບໜຶ່ງ, ເວົ້າງ່າຍໆ, ອີກຢ່າງໜຶ່ງ.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les hésitations naturelles des natifs.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Laisse-moi réfléchir.</li><li>Disons que…</li><li>Pour moi…</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂໍຄິດແປັບໜຶ່ງ</span> <span class=\"rom\">Khɔ̌ɔ khīt pɛ́p nʉ̀ng.</span></li><li><span class=\"lo\">ຄືວ່າ</span> <span class=\"rom\">Khʉ́ʉ wāa…</span></li><li><span class=\"lo\">ສຳລັບຂ້ອຍ</span> <span class=\"rom\">Sǎm-láp khɔ̂ɔy…</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Prépare 5 sujets et écris pour chacun 3 idées en lao.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Joue avec un natif : chacun tire un sujet et parle 5 minutes sans s&#x27;arrêter.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>11 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l89-v01",
+   "front": "ຫົວຂໍ້",
+   "back": "Hǔa-khɔ̂ɔ · sujet, thème"
+  },
+  {
+   "id": "l89-v02",
+   "front": "ເອີ",
+   "back": "ɤ̌ɤ · euh"
+  },
+  {
+   "id": "l89-v03",
+   "front": "ຂໍຄິດແປັບໜຶ່ງ",
+   "back": "Khɔ̌ɔ khīt pɛ́p nʉ̀ng · laisse-moi réfléchir"
+  },
+  {
+   "id": "l89-v04",
+   "front": "ຄືວ່າ",
+   "back": "Khʉ́ʉ wāa · c'est-à-dire, disons que"
+  },
+  {
+   "id": "l89-v05",
+   "front": "ສຳລັບຂ້ອຍ",
+   "back": "Sǎm-láp khɔ̂ɔy · pour moi"
+  },
+  {
+   "id": "l89-v06",
+   "front": "ສືບຕໍ່",
+   "back": "Sʉ̄p-tɔ̀ɔ · continuer"
+  },
+  {
+   "id": "l89-v07",
+   "front": "ອີກຢ່າງໜຶ່ງ",
+   "back": "Ìik yàang nʉ̀ng · autre chose"
+  },
+  {
+   "id": "l89-v08",
+   "front": "ເວົ້າງ່າຍໆ",
+   "back": "Wȁo ngāay-ngāay · pour faire simple"
+  },
+  {
+   "id": "l89-p01",
+   "front": "Laisse-moi réfléchir.",
+   "back": "ຂໍຄິດແປັບໜຶ່ງ · Khɔ̌ɔ khīt pɛ́p nʉ̀ng."
+  },
+  {
+   "id": "l89-p02",
+   "front": "Disons que…",
+   "back": "ຄືວ່າ · Khʉ́ʉ wāa…"
+  },
+  {
+   "id": "l89-p03",
+   "front": "Pour moi…",
+   "back": "ສຳລັບຂ້ອຍ · Sǎm-láp khɔ̂ɔy…"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຫົວຂໍ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "sujet, thème",
+      "pour moi",
+      "continuer",
+      "laisse-moi réfléchir"
+     ],
+     "answer": "sujet, thème",
+     "reveal": "<i>Hǔa-khɔ̂ɔ</i>"
+    },
+    {
+     "audio": [
+      "ເອີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "euh",
+      "continuer",
+      "sujet, thème",
+      "pour moi"
+     ],
+     "answer": "euh",
+     "reveal": "<i>ɤ̌ɤ</i>"
+    },
+    {
+     "audio": [
+      "ຂໍຄິດແປັບໜຶ່ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "laisse-moi réfléchir",
+      "c'est-à-dire, disons que",
+      "euh",
+      "continuer"
+     ],
+     "answer": "laisse-moi réfléchir",
+     "reveal": "<i>Khɔ̌ɔ khīt pɛ́p nʉ̀ng</i>"
+    },
+    {
+     "audio": [
+      "ຄືວ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "c'est-à-dire, disons que",
+      "continuer",
+      "euh",
+      "pour faire simple"
+     ],
+     "answer": "c'est-à-dire, disons que",
+     "reveal": "<i>Khʉ́ʉ wāa</i>"
+    },
+    {
+     "audio": [
+      "ສຳລັບຂ້ອຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pour moi",
+      "euh",
+      "laisse-moi réfléchir",
+      "autre chose"
+     ],
+     "answer": "pour moi",
+     "reveal": "<i>Sǎm-láp khɔ̂ɔy</i>"
+    },
+    {
+     "audio": [
+      "ສືບຕໍ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "continuer",
+      "autre chose",
+      "sujet, thème",
+      "c'est-à-dire, disons que"
+     ],
+     "answer": "continuer",
+     "reveal": "<i>Sʉ̄p-tɔ̀ɔ</i>"
+    },
+    {
+     "audio": [
+      "ອີກຢ່າງໜຶ່ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "autre chose",
+      "laisse-moi réfléchir",
+      "c'est-à-dire, disons que",
+      "euh"
+     ],
+     "answer": "autre chose",
+     "reveal": "<i>Ìik yàang nʉ̀ng</i>"
+    },
+    {
+     "audio": [
+      "ເວົ້າງ່າຍໆ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pour faire simple",
+      "pour moi",
+      "c'est-à-dire, disons que",
+      "laisse-moi réfléchir"
+     ],
+     "answer": "pour faire simple",
+     "reveal": "<i>Wȁo ngāay-ngāay</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຫົວຂໍ້ແມ່ນ«ອາຫານ» ເວົ້າສາມນາທີ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Le sujet, c'est « la nourriture ». Parle trois minutes !",
+      "Euh… laisse-moi réfléchir un instant.",
+      "Disons que… pour moi, la cuisine lao, c'est…",
+      "Continue !"
+     ],
+     "answer": "Le sujet, c'est « la nourriture ». Parle trois minutes !",
+     "reveal": "<i>Hǔa-khɔ̂ɔ mɛ̄ɛn« ǎa-hǎan». Wȁo sǎam náa-thíi!</i>"
+    },
+    {
+     "audio": [
+      "ເອີ ຂໍຄິດແປັບໜຶ່ງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Euh… laisse-moi réfléchir un instant.",
+      "Disons que… pour moi, la cuisine lao, c'est…",
+      "Le sujet, c'est « la nourriture ». Parle trois minutes !",
+      "Continue !"
+     ],
+     "answer": "Euh… laisse-moi réfléchir un instant.",
+     "reveal": "<i>ɤ̌ɤ… khɔ̌ɔ khīt pɛ́p nʉ̀ng.</i>"
+    },
+    {
+     "audio": [
+      "ຄືວ່າ ສຳລັບຂ້ອຍ ອາຫານລາວແມ່ນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Disons que… pour moi, la cuisine lao, c'est…",
+      "Continue !",
+      "Le sujet, c'est « la nourriture ». Parle trois minutes !",
+      "Euh… laisse-moi réfléchir un instant."
+     ],
+     "answer": "Disons que… pour moi, la cuisine lao, c'est…",
+     "reveal": "<i>Khʉ́ʉ wāa… sǎm-láp khɔ̂ɔy, ǎa-hǎan láaw mɛ̄ɛn…</i>"
+    },
+    {
+     "audio": [
+      "ສືບຕໍ່!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Continue !",
+      "Disons que… pour moi, la cuisine lao, c'est…",
+      "Euh… laisse-moi réfléchir un instant.",
+      "Le sujet, c'est « la nourriture ». Parle trois minutes !"
+     ],
+     "answer": "Continue !",
+     "reveal": "<i>Sʉ̄p-tɔ̀ɔ!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂໍຄິດແປັບໜຶ່ງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Laisse-moi réfléchir.",
+      "Disons que…",
+      "Pour moi…"
+     ],
+     "answer": "Laisse-moi réfléchir.",
+     "reveal": "<i>Khɔ̌ɔ khīt pɛ́p nʉ̀ng.</i>"
+    },
+    {
+     "audio": [
+      "ຄືວ່າ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Disons que…",
+      "Laisse-moi réfléchir.",
+      "Pour moi…"
+     ],
+     "answer": "Disons que…",
+     "reveal": "<i>Khʉ́ʉ wāa…</i>"
+    },
+    {
+     "audio": [
+      "ສຳລັບຂ້ອຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Pour moi…",
+      "Disons que…",
+      "Laisse-moi réfléchir."
+     ],
+     "answer": "Pour moi…",
+     "reveal": "<i>Sǎm-láp khɔ̂ɔy…</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຫົວຂໍ້",
+   "rom": "Hǔa-khɔ̂ɔ",
+   "fr": "sujet, thème",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເອີ",
+   "rom": "ɤ̌ɤ",
+   "fr": "euh",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍຄິດແປັບໜຶ່ງ",
+   "rom": "Khɔ̌ɔ khīt pɛ́p nʉ̀ng",
+   "fr": "laisse-moi réfléchir",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄືວ່າ",
+   "rom": "Khʉ́ʉ wāa",
+   "fr": "c'est-à-dire, disons que",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສຳລັບຂ້ອຍ",
+   "rom": "Sǎm-láp khɔ̂ɔy",
+   "fr": "pour moi",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສືບຕໍ່",
+   "rom": "Sʉ̄p-tɔ̀ɔ",
+   "fr": "continuer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອີກຢ່າງໜຶ່ງ",
+   "rom": "Ìik yàang nʉ̀ng",
+   "fr": "autre chose",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເວົ້າງ່າຍໆ",
+   "rom": "Wȁo ngāay-ngāay",
+   "fr": "pour faire simple",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍຄິດແປັບໜຶ່ງ",
+   "rom": "Khɔ̌ɔ khīt pɛ́p nʉ̀ng.",
+   "fr": "Laisse-moi réfléchir.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄືວ່າ",
+   "rom": "Khʉ́ʉ wāa…",
+   "fr": "Disons que…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສຳລັບຂ້ອຍ",
+   "rom": "Sǎm-láp khɔ̂ɔy…",
+   "fr": "Pour moi…",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂໍ",
+    "ຄິດ",
+    "ແປັບ",
+    "ໜຶ່ງ"
+   ],
+   "rom": "Khɔ̌ɔ khīt pɛ́p nʉ̀ng.",
+   "fr": "Laisse-moi réfléchir."
+  },
+  {
+   "tokens": [
+    "ຄື",
+    "ວ່າ"
+   ],
+   "rom": "Khʉ́ʉ wāa…",
+   "fr": "Disons que…"
+  },
+  {
+   "tokens": [
+    "ສຳລັບ",
+    "ຂ້ອຍ"
+   ],
+   "rom": "Sǎm-láp khɔ̂ɔy…",
+   "fr": "Pour moi…"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຫົວຂໍ້",
+   "rom": "Hǔa-khɔ̂ɔ",
+   "fr": "sujet, thème"
+  },
+  {
+   "lao": "ເອີ",
+   "rom": "ɤ̌ɤ",
+   "fr": "euh"
+  },
+  {
+   "lao": "ຂໍຄິດແປັບໜຶ່ງ",
+   "rom": "Khɔ̌ɔ khīt pɛ́p nʉ̀ng",
+   "fr": "laisse-moi réfléchir"
+  },
+  {
+   "lao": "ຄືວ່າ",
+   "rom": "Khʉ́ʉ wāa",
+   "fr": "c'est-à-dire, disons que"
+  },
+  {
+   "lao": "ສຳລັບຂ້ອຍ",
+   "rom": "Sǎm-láp khɔ̂ɔy",
+   "fr": "pour moi"
+  },
+  {
+   "lao": "ສືບຕໍ່",
+   "rom": "Sʉ̄p-tɔ̀ɔ",
+   "fr": "continuer"
+  },
+  {
+   "lao": "ອີກຢ່າງໜຶ່ງ",
+   "rom": "Ìik yàang nʉ̀ng",
+   "fr": "autre chose"
+  },
+  {
+   "lao": "ເວົ້າງ່າຍໆ",
+   "rom": "Wȁo ngāay-ngāay",
+   "fr": "pour faire simple"
+  }
+ ],
+ "sounds": {
+  "ຕ່າງກັນ": "Tàang kǎn",
+  "ສະຕະວັດ": "Sā-tá-wāt",
+  "ດັງ": "Dǎng",
+  "ຜິດກັນ": "Phīt kǎn",
+  "ຫົວຂໍ້ແມ່ນ ອາຫານ ເວົ້າສາມນາທີ": "Hǔa-khɔ̂ɔ mɛ̄ɛn« ǎa-hǎan». Wȁo sǎam náa-thíi!",
+  "ເອີ ຂໍຄິດແປັບໜຶ່ງ": "ɤ̌ɤ… khɔ̌ɔ khīt pɛ́p nʉ̀ng.",
+  "ຄືວ່າ ສຳລັບຂ້ອຍ ອາຫານລາວແມ່ນ": "Khʉ́ʉ wāa… sǎm-láp khɔ̂ɔy, ǎa-hǎan láaw mɛ̄ɛn…",
+  "ສືບຕໍ່": "Sʉ̄p-tɔ̀ɔ",
+  "ຫົວຂໍ້": "Hǔa-khɔ̂ɔ",
+  "ເອີ": "ɤ̌ɤ…",
+  "ຂໍຄິດແປັບໜຶ່ງ": "Khɔ̌ɔ khīt pɛ́p nʉ̀ng.",
+  "ຄືວ່າ": "Khʉ́ʉ wāa…",
+  "ສຳລັບຂ້ອຍ": "Sǎm-láp khɔ̂ɔy…",
+  "ອີກຢ່າງໜຶ່ງ": "Ìik yàang nʉ̀ng",
+  "ເວົ້າງ່າຍໆ": "Wȁo ngāay-ngāay…",
+  "ຂໍ": "khɔ̌ɔ",
+  "ຄິດ": "khīt",
+  "ແປັບ": "pɛ́p",
+  "ໜຶ່ງ": "nʉ̀ng",
+  "ຄື": "khʉ́ʉ",
+  "ວ່າ": "wāa",
+  "ສຳລັບ": "sǎm-láp",
+  "ຂ້ອຍ": "khɔ̂ɔy"
+ },
+ "suivi": "LEÇON : 89 — Partie E (S'exprimer (cours en lao), B1) · Improviser\nOBJECTIF : Tenir 10 minutes sur un sujet tiré au hasard, avec des stratégies pour gagner du temps.\nNOTION : les mots pour gagner du temps\nVOCAB : Hǔa-khɔ̂ɔ, ɤ̌ɤ, Khɔ̌ɔ khīt pɛ́p nʉ̀ng, Khʉ́ʉ wāa, Sǎm-láp khɔ̂ɔy, Sʉ̄p-tɔ̀ɔ, Ìik yàang nʉ̀ng, Wȁo ngāay-ngāay\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 90 — Bilan B1"
+}

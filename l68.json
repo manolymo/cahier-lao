@@ -1,0 +1,526 @@
+{
+ "num": 68,
+ "phase": "Partie E · S'exprimer (cours en lao)",
+ "title": "Raconter une histoire",
+ "objective": "Raconter un souvenir avec un début, un milieu et une fin.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>mieux <small class=\"muted\">(leçon 67)</small></li><li>beaucoup de choses <small class=\"muted\">(leçon 65)</small></li><li>je (très familier, vulgaire) <small class=\"muted\">(leçon 61)</small></li><li>finalement <small class=\"muted\">(leçon 54)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ດີກວ່າ</span> <span class=\"rom\">Dǐi kwàa</span> · mieux</li><li><span class=\"lo\">ຫຼາຍຢ່າງ</span> <span class=\"rom\">Lǎay yàang</span> · beaucoup de choses</li><li><span class=\"lo\">ກູ</span> <span class=\"rom\">Kǔu</span> · je (très familier, vulgaire)</li><li><span class=\"lo\">ສຸດທ້າຍ</span> <span class=\"rom\">Sūt-thȁay</span> · finalement</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Raconter un souvenir avec un début, un milieu et une fin.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Mme Boua raconte son mariage.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ຕອນນັ້ນຂ້ອຍອາຍຸຊາວປີ</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ມື້ໜຶ່ງພໍ່ສົມສັກມາຂໍຂ້ອຍແຕ່ງງານ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແລ້ວແມ່ຕອບວ່າແນວໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ທຳອິດຂ້ອຍອາຍ ບໍ່ກ້າຕອບ</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ແຕ່ສຸດທ້າຍກໍຕົກລົງ ແລະຢູ່ນຳກັນມາສາມສິບປີແລ້ວ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Tɔ̌ɔn nȁn khɔ̂ɔy ǎa-nyū sáaw pǐi.</span><br><span class=\"rom\">Mʉ̂ʉ nʉ̀ng phɔ̄ɔ sǒm-sāk máa khɔ̌ɔ khɔ̂ɔy tɛ̀ɛng-ngáan.</span><br><span class=\"rom\">Lɛ̏ɛw mɛ̄ɛ tɔ̏ɔp wāa nɛ́ɛw-dǎy?</span><br><span class=\"rom\">Thám-ít khɔ̂ɔy ǎay, bɔ̀ɔ kâa tɔ̏ɔp.</span><br><span class=\"rom\">Tɛ̀ɛ sūt-thȁay kɔ̂ɔ tók-lóng. Lɛ́ yùu nám kǎn máa sǎam-sīp pǐi lɛ̏ɛw.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Mme Boua</b> — À l&#x27;époque, j&#x27;avais vingt ans.<br><b>Mme Boua</b> — Un jour, Somsak est venu demander ma main.<br><b>Clara</b> — Et vous avez répondu quoi ?<br><b>Mme Boua</b> — D&#x27;abord, j&#x27;étais timide, je n&#x27;osais pas répondre.<br><b>Mme Boua</b> — Mais finalement j&#x27;ai accepté. Et ça fait trente ans qu&#x27;on est ensemble.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quel âge avait Mme Boua ?</li><li>Comment a-t-elle réagi d&#x27;abord ?</li></ol><details><summary>Réponses</summary><ol><li>Vingt ans.</li><li>Elle était timide, n&#x27;osait pas répondre.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຕອນນັ້ນ</td><td class=\"rom\">Tɔ̌ɔn nȁn</td><td>à l&#x27;époque, à ce moment-là</td><td></td></tr><tr><td class=\"lo\">ມື້ໜຶ່ງ</td><td class=\"rom\">Mʉ̂ʉ nʉ̀ng</td><td>un jour</td><td></td></tr><tr><td class=\"lo\">ຂໍແຕ່ງງານ</td><td class=\"rom\">Khɔ̌ɔ tɛ̀ɛng-ngáan</td><td>demander en mariage</td><td></td></tr><tr><td class=\"lo\">ອາຍ</td><td class=\"rom\">Ǎay</td><td>timide, gêné</td><td></td></tr><tr><td class=\"lo\">ກ້າ</td><td class=\"rom\">Kâa</td><td>oser</td><td></td></tr><tr><td class=\"lo\">ສຸດທ້າຍ</td><td class=\"rom\">Sūt-thȁay</td><td>finalement</td><td></td></tr><tr><td class=\"lo\">ຫຼັງຈາກນັ້ນ</td><td class=\"rom\">Lǎng-jȁak nȁn</td><td>après ça</td><td></td></tr><tr><td class=\"lo\">ທັນໃດນັ້ນ</td><td class=\"rom\">Thán-dǎy nȁn</td><td>soudain</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les connecteurs du récit",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ມື້ໜຶ່ງ</span> <span class=\"rom\">Mʉ̂ʉ nʉ̀ng…</span> = un jour…</li><li><span class=\"lo\">ຫຼັງຈາກນັ້ນ</span> <span class=\"rom\">Lǎng-jȁak nȁn…</span> = après ça…</li><li><span class=\"lo\">ທັນໃດນັ້ນ</span> <span class=\"rom\">Thán-dǎy nȁn…</span> = soudain…</li></ul><p><b>À toi de trouver :</b></p><ol><li>Quels mots marquent les étapes de l&#x27;histoire ?</li></ol><details><summary>La règle</summary><p>Un récit se structure avec : ຕອນນັ້ນ (cadre), ມື້ໜຶ່ງ (déclencheur), ທັນໃດນັ້ນ (événement), ຫຼັງຈາກນັ້ນ (suite), ສຸດທ້າຍ (fin).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les connecteurs temporels.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Un jour…</li><li>Je n&#x27;osais pas répondre.</li><li>Finalement, j&#x27;ai accepté.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ມື້ໜຶ່ງ</span> <span class=\"rom\">Mʉ̂ʉ nʉ̀ng…</span></li><li><span class=\"lo\">ຂ້ອຍບໍ່ກ້າຕອບ</span> <span class=\"rom\">Khɔ̂ɔy bɔ̀ɔ kâa tɔ̏ɔp.</span></li><li><span class=\"lo\">ສຸດທ້າຍກໍຕົກລົງ</span> <span class=\"rom\">Sūt-thȁay kɔ̂ɔ tók-lóng.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Raconte un souvenir marquant en 10 phrases avec les connecteurs.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Demande à un aîné lao de te raconter un souvenir, puis raconte-le à ton tour.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>11 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l68-v01",
+   "front": "ຕອນນັ້ນ",
+   "back": "Tɔ̌ɔn nȁn · à l'époque, à ce moment-là"
+  },
+  {
+   "id": "l68-v02",
+   "front": "ມື້ໜຶ່ງ",
+   "back": "Mʉ̂ʉ nʉ̀ng · un jour"
+  },
+  {
+   "id": "l68-v03",
+   "front": "ຂໍແຕ່ງງານ",
+   "back": "Khɔ̌ɔ tɛ̀ɛng-ngáan · demander en mariage"
+  },
+  {
+   "id": "l68-v04",
+   "front": "ອາຍ",
+   "back": "Ǎay · timide, gêné"
+  },
+  {
+   "id": "l68-v05",
+   "front": "ກ້າ",
+   "back": "Kâa · oser"
+  },
+  {
+   "id": "l68-v06",
+   "front": "ສຸດທ້າຍ",
+   "back": "Sūt-thȁay · finalement"
+  },
+  {
+   "id": "l68-v07",
+   "front": "ຫຼັງຈາກນັ້ນ",
+   "back": "Lǎng-jȁak nȁn · après ça"
+  },
+  {
+   "id": "l68-v08",
+   "front": "ທັນໃດນັ້ນ",
+   "back": "Thán-dǎy nȁn · soudain"
+  },
+  {
+   "id": "l68-p01",
+   "front": "Un jour…",
+   "back": "ມື້ໜຶ່ງ · Mʉ̂ʉ nʉ̀ng…"
+  },
+  {
+   "id": "l68-p02",
+   "front": "Je n'osais pas répondre.",
+   "back": "ຂ້ອຍບໍ່ກ້າຕອບ · Khɔ̂ɔy bɔ̀ɔ kâa tɔ̏ɔp."
+  },
+  {
+   "id": "l68-p03",
+   "front": "Finalement, j'ai accepté.",
+   "back": "ສຸດທ້າຍກໍຕົກລົງ · Sūt-thȁay kɔ̂ɔ tók-lóng."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຕອນນັ້ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "à l'époque, à ce moment-là",
+      "soudain",
+      "après ça",
+      "oser"
+     ],
+     "answer": "à l'époque, à ce moment-là",
+     "reveal": "<i>Tɔ̌ɔn nȁn</i>"
+    },
+    {
+     "audio": [
+      "ມື້ໜຶ່ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "un jour",
+      "finalement",
+      "timide, gêné",
+      "après ça"
+     ],
+     "answer": "un jour",
+     "reveal": "<i>Mʉ̂ʉ nʉ̀ng</i>"
+    },
+    {
+     "audio": [
+      "ຂໍແຕ່ງງານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "demander en mariage",
+      "à l'époque, à ce moment-là",
+      "timide, gêné",
+      "oser"
+     ],
+     "answer": "demander en mariage",
+     "reveal": "<i>Khɔ̌ɔ tɛ̀ɛng-ngáan</i>"
+    },
+    {
+     "audio": [
+      "ອາຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "timide, gêné",
+      "après ça",
+      "un jour",
+      "à l'époque, à ce moment-là"
+     ],
+     "answer": "timide, gêné",
+     "reveal": "<i>Ǎay</i>"
+    },
+    {
+     "audio": [
+      "ກ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "oser",
+      "soudain",
+      "après ça",
+      "un jour"
+     ],
+     "answer": "oser",
+     "reveal": "<i>Kâa</i>"
+    },
+    {
+     "audio": [
+      "ສຸດທ້າຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "finalement",
+      "oser",
+      "à l'époque, à ce moment-là",
+      "timide, gêné"
+     ],
+     "answer": "finalement",
+     "reveal": "<i>Sūt-thȁay</i>"
+    },
+    {
+     "audio": [
+      "ຫຼັງຈາກນັ້ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "après ça",
+      "un jour",
+      "oser",
+      "à l'époque, à ce moment-là"
+     ],
+     "answer": "après ça",
+     "reveal": "<i>Lǎng-jȁak nȁn</i>"
+    },
+    {
+     "audio": [
+      "ທັນໃດນັ້ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "soudain",
+      "timide, gêné",
+      "après ça",
+      "finalement"
+     ],
+     "answer": "soudain",
+     "reveal": "<i>Thán-dǎy nȁn</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຕອນນັ້ນຂ້ອຍອາຍຸຊາວປີ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "À l'époque, j'avais vingt ans.",
+      "Et vous avez répondu quoi ?",
+      "Mais finalement j'ai accepté. Et ça fait trente ans qu'on est ensemble.",
+      "D'abord, j'étais timide, je n'osais pas répondre."
+     ],
+     "answer": "À l'époque, j'avais vingt ans.",
+     "reveal": "<i>Tɔ̌ɔn nȁn khɔ̂ɔy ǎa-nyū sáaw pǐi.</i>"
+    },
+    {
+     "audio": [
+      "ມື້ໜຶ່ງພໍ່ສົມສັກມາຂໍຂ້ອຍແຕ່ງງານ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Un jour, Somsak est venu demander ma main.",
+      "Mais finalement j'ai accepté. Et ça fait trente ans qu'on est ensemble.",
+      "Et vous avez répondu quoi ?",
+      "D'abord, j'étais timide, je n'osais pas répondre."
+     ],
+     "answer": "Un jour, Somsak est venu demander ma main.",
+     "reveal": "<i>Mʉ̂ʉ nʉ̀ng phɔ̄ɔ sǒm-sāk máa khɔ̌ɔ khɔ̂ɔy tɛ̀ɛng-ngáan.</i>"
+    },
+    {
+     "audio": [
+      "ແລ້ວແມ່ຕອບວ່າແນວໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Et vous avez répondu quoi ?",
+      "Un jour, Somsak est venu demander ma main.",
+      "D'abord, j'étais timide, je n'osais pas répondre.",
+      "Mais finalement j'ai accepté. Et ça fait trente ans qu'on est ensemble."
+     ],
+     "answer": "Et vous avez répondu quoi ?",
+     "reveal": "<i>Lɛ̏ɛw mɛ̄ɛ tɔ̏ɔp wāa nɛ́ɛw-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ທຳອິດຂ້ອຍອາຍ ບໍ່ກ້າຕອບ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "D'abord, j'étais timide, je n'osais pas répondre.",
+      "Un jour, Somsak est venu demander ma main.",
+      "Mais finalement j'ai accepté. Et ça fait trente ans qu'on est ensemble.",
+      "Et vous avez répondu quoi ?"
+     ],
+     "answer": "D'abord, j'étais timide, je n'osais pas répondre.",
+     "reveal": "<i>Thám-ít khɔ̂ɔy ǎay, bɔ̀ɔ kâa tɔ̏ɔp.</i>"
+    },
+    {
+     "audio": [
+      "ແຕ່ສຸດທ້າຍກໍຕົກລົງ ແລະຢູ່ນຳກັນມາສາມສິບປີແລ້ວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Mais finalement j'ai accepté. Et ça fait trente ans qu'on est ensemble.",
+      "Et vous avez répondu quoi ?",
+      "D'abord, j'étais timide, je n'osais pas répondre.",
+      "À l'époque, j'avais vingt ans."
+     ],
+     "answer": "Mais finalement j'ai accepté. Et ça fait trente ans qu'on est ensemble.",
+     "reveal": "<i>Tɛ̀ɛ sūt-thȁay kɔ̂ɔ tók-lóng. Lɛ́ yùu nám kǎn máa sǎam-sīp pǐi lɛ̏ɛw.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ມື້ໜຶ່ງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Un jour…",
+      "Je n'osais pas répondre.",
+      "Finalement, j'ai accepté."
+     ],
+     "answer": "Un jour…",
+     "reveal": "<i>Mʉ̂ʉ nʉ̀ng…</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍບໍ່ກ້າຕອບ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je n'osais pas répondre.",
+      "Finalement, j'ai accepté.",
+      "Un jour…"
+     ],
+     "answer": "Je n'osais pas répondre.",
+     "reveal": "<i>Khɔ̂ɔy bɔ̀ɔ kâa tɔ̏ɔp.</i>"
+    },
+    {
+     "audio": [
+      "ສຸດທ້າຍກໍຕົກລົງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Finalement, j'ai accepté.",
+      "Un jour…",
+      "Je n'osais pas répondre."
+     ],
+     "answer": "Finalement, j'ai accepté.",
+     "reveal": "<i>Sūt-thȁay kɔ̂ɔ tók-lóng.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຕອນນັ້ນ",
+   "rom": "Tɔ̌ɔn nȁn",
+   "fr": "à l'époque, à ce moment-là",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມື້ໜຶ່ງ",
+   "rom": "Mʉ̂ʉ nʉ̀ng",
+   "fr": "un jour",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍແຕ່ງງານ",
+   "rom": "Khɔ̌ɔ tɛ̀ɛng-ngáan",
+   "fr": "demander en mariage",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອາຍ",
+   "rom": "Ǎay",
+   "fr": "timide, gêné",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກ້າ",
+   "rom": "Kâa",
+   "fr": "oser",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສຸດທ້າຍ",
+   "rom": "Sūt-thȁay",
+   "fr": "finalement",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫຼັງຈາກນັ້ນ",
+   "rom": "Lǎng-jȁak nȁn",
+   "fr": "après ça",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທັນໃດນັ້ນ",
+   "rom": "Thán-dǎy nȁn",
+   "fr": "soudain",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມື້ໜຶ່ງ",
+   "rom": "Mʉ̂ʉ nʉ̀ng…",
+   "fr": "Un jour…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍບໍ່ກ້າຕອບ",
+   "rom": "Khɔ̂ɔy bɔ̀ɔ kâa tɔ̏ɔp.",
+   "fr": "Je n'osais pas répondre.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສຸດທ້າຍກໍຕົກລົງ",
+   "rom": "Sūt-thȁay kɔ̂ɔ tók-lóng.",
+   "fr": "Finalement, j'ai accepté.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ມື້",
+    "ໜຶ່ງ"
+   ],
+   "rom": "Mʉ̂ʉ nʉ̀ng…",
+   "fr": "Un jour…"
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ບໍ່",
+    "ກ້າ",
+    "ຕອບ"
+   ],
+   "rom": "Khɔ̂ɔy bɔ̀ɔ kâa tɔ̏ɔp.",
+   "fr": "Je n'osais pas répondre."
+  },
+  {
+   "tokens": [
+    "ສຸດທ້າຍ",
+    "ກໍ",
+    "ຕົກລົງ"
+   ],
+   "rom": "Sūt-thȁay kɔ̂ɔ tók-lóng.",
+   "fr": "Finalement, j'ai accepté."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຕອນນັ້ນ",
+   "rom": "Tɔ̌ɔn nȁn",
+   "fr": "à l'époque, à ce moment-là"
+  },
+  {
+   "lao": "ມື້ໜຶ່ງ",
+   "rom": "Mʉ̂ʉ nʉ̀ng",
+   "fr": "un jour"
+  },
+  {
+   "lao": "ຂໍແຕ່ງງານ",
+   "rom": "Khɔ̌ɔ tɛ̀ɛng-ngáan",
+   "fr": "demander en mariage"
+  },
+  {
+   "lao": "ອາຍ",
+   "rom": "Ǎay",
+   "fr": "timide, gêné"
+  },
+  {
+   "lao": "ກ້າ",
+   "rom": "Kâa",
+   "fr": "oser"
+  },
+  {
+   "lao": "ສຸດທ້າຍ",
+   "rom": "Sūt-thȁay",
+   "fr": "finalement"
+  },
+  {
+   "lao": "ຫຼັງຈາກນັ້ນ",
+   "rom": "Lǎng-jȁak nȁn",
+   "fr": "après ça"
+  },
+  {
+   "lao": "ທັນໃດນັ້ນ",
+   "rom": "Thán-dǎy nȁn",
+   "fr": "soudain"
+  }
+ ],
+ "sounds": {
+  "ດີກວ່າ": "Dǐi kwàa",
+  "ຫຼາຍຢ່າງ": "Lǎay yàang",
+  "ກູ": "Kǔu",
+  "ສຸດທ້າຍ": "sūt-thȁay",
+  "ຕອນນັ້ນຂ້ອຍອາຍຸຊາວປີ": "Tɔ̌ɔn nȁn khɔ̂ɔy ǎa-nyū sáaw pǐi.",
+  "ມື້ໜຶ່ງພໍ່ສົມສັກມາຂໍຂ້ອຍແຕ່ງງານ": "Mʉ̂ʉ nʉ̀ng phɔ̄ɔ sǒm-sāk máa khɔ̌ɔ khɔ̂ɔy tɛ̀ɛng-ngáan.",
+  "ແລ້ວແມ່ຕອບວ່າແນວໃດ": "Lɛ̏ɛw mɛ̄ɛ tɔ̏ɔp wāa nɛ́ɛw-dǎy?",
+  "ທຳອິດຂ້ອຍອາຍ ບໍ່ກ້າຕອບ": "Thám-ít khɔ̂ɔy ǎay, bɔ̀ɔ kâa tɔ̏ɔp.",
+  "ແຕ່ສຸດທ້າຍກໍຕົກລົງ ແລະຢູ່ນຳກັນມາສາມສິບປີແລ້ວ": "Tɛ̀ɛ sūt-thȁay kɔ̂ɔ tók-lóng. Lɛ́ yùu nám kǎn máa sǎam-sīp pǐi lɛ̏ɛw.",
+  "ຕອນນັ້ນ": "Tɔ̌ɔn nȁn",
+  "ມື້ໜຶ່ງ": "Mʉ̂ʉ nʉ̀ng…",
+  "ຂໍແຕ່ງງານ": "Khɔ̌ɔ tɛ̀ɛng-ngáan",
+  "ອາຍ": "Ǎay",
+  "ກ້າ": "kâa",
+  "ຫຼັງຈາກນັ້ນ": "Lǎng-jȁak nȁn…",
+  "ທັນໃດນັ້ນ": "Thán-dǎy nȁn…",
+  "ຂ້ອຍບໍ່ກ້າຕອບ": "Khɔ̂ɔy bɔ̀ɔ kâa tɔ̏ɔp.",
+  "ສຸດທ້າຍກໍຕົກລົງ": "Sūt-thȁay kɔ̂ɔ tók-lóng.",
+  "ມື້": "mʉ̂ʉ",
+  "ໜຶ່ງ": "nʉ̀ng",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ບໍ່": "bɔ̀ɔ",
+  "ຕອບ": "tɔ̏ɔp",
+  "ກໍ": "kɔ̂ɔ",
+  "ຕົກລົງ": "tók-lóng"
+ },
+ "suivi": "LEÇON : 68 — Partie E (S'exprimer (cours en lao), B1) · Raconter une histoire\nOBJECTIF : Raconter un souvenir avec un début, un milieu et une fin.\nNOTION : les connecteurs du récit\nVOCAB : Tɔ̌ɔn nȁn, Mʉ̂ʉ nʉ̀ng, Khɔ̌ɔ tɛ̀ɛng-ngáan, Ǎay, Kâa, Sūt-thȁay, Lǎng-jȁak nȁn, Thán-dǎy nȁn\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 69 — Mon enfance"
+}

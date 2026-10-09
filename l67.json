@@ -1,0 +1,497 @@
+{
+ "num": 67,
+ "phase": "Partie E · S'exprimer (cours en lao)",
+ "title": "D'accord, pas d'accord",
+ "objective": "Exprimer ton accord et ton désaccord sans froisser.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>plein, sur (note) <small class=\"muted\">(leçon 66)</small></li><li>entrée <small class=\"muted\">(leçon 64)</small></li><li>triste, désolé <small class=\"muted\">(leçon 60)</small></li><li>saison chaude <small class=\"muted\">(leçon 53)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ເຕັມ</span> <span class=\"rom\">Těm</span> · plein, sur (note)</li><li><span class=\"lo\">ທາງເຂົ້າ</span> <span class=\"rom\">Tháang-khâo</span> · entrée</li><li><span class=\"lo\">ເສຍໃຈ</span> <span class=\"rom\">Sǐa-jǎy</span> · triste, désolé</li><li><span class=\"lo\">ລະດູຮ້ອນ</span> <span class=\"rom\">Lā-dǔu-hȍɔn</span> · saison chaude</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Exprimer ton accord et ton désaccord sans froisser.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">La famille discute d&#x27;un projet de voyage.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ປີໜ້າເຮົາໄປທ່ຽວທະເລເນາະ</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ຂ້ອຍເຫັນດີ</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຂ້ອຍບໍ່ຄ່ອຍເຫັນດີປານໃດ ໄປພູດີກວ່າ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ກໍມີເຫດຜົນເນາະ ແຕ່ທະເລມ່ວນກວ່າ</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ໂອເຄ ຂໍຄິດເບິ່ງກ່ອນ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Pǐi-nâa háo pǎy thìaw thā-léé nɔ̄.</span><br><span class=\"rom\">Khɔ̂ɔy hěn-dǐi.</span><br><span class=\"rom\">Khɔ̂ɔy bɔ̀ɔ khɔ̄ɔy hěn-dǐi pǎan-dǎy. Pǎy phúu dǐi kwàa.</span><br><span class=\"rom\">Kɔ̂ɔ míi hēet-phǒn nɔ̄, tɛ̀ɛ thā-léé mūan kwàa.</span><br><span class=\"rom\">Ǒo-khéé, khɔ̌ɔ khīt bɤ̀ng kɔ̀ɔn.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>M. Somsak</b> — L&#x27;an prochain, on va à la mer, d&#x27;accord ?<br><b>Mme Boua</b> — Je suis d&#x27;accord.<br><b>Kèo</b> — Je ne suis pas trop d&#x27;accord. La montagne, c&#x27;est mieux.<br><b>Noy</b> — Ce n&#x27;est pas faux, mais la mer c&#x27;est plus sympa.<br><b>M. Somsak</b> — OK, laissez-moi réfléchir.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Qui n&#x27;est pas d&#x27;accord ?</li><li>Que propose-t-il ?</li></ol><details><summary>Réponses</summary><ol><li>Kèo.</li><li>La montagne plutôt que la mer.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ເຫັນດີ</td><td class=\"rom\">Hěn-dǐi</td><td>être d&#x27;accord</td><td></td></tr><tr><td class=\"lo\">ບໍ່ເຫັນດີ</td><td class=\"rom\">Bɔ̀ɔ hěn-dǐi</td><td>ne pas être d&#x27;accord</td><td></td></tr><tr><td class=\"lo\">ບໍ່ຄ່ອຍເຫັນດີປານໃດ</td><td class=\"rom\">Bɔ̀ɔ khɔ̄ɔy hěn-dǐi pǎan-dǎy</td><td>pas vraiment d&#x27;accord</td><td></td></tr><tr><td class=\"lo\">ມີເຫດຜົນ</td><td class=\"rom\">Míi hēet-phǒn</td><td>c&#x27;est logique, ça se tient</td><td></td></tr><tr><td class=\"lo\">ແມ່ນຢູ່ ແຕ່</td><td class=\"rom\">Mɛ̄ɛn yùu, tɛ̀ɛ</td><td>c&#x27;est vrai, mais…</td><td></td></tr><tr><td class=\"lo\">ຂໍຄິດເບິ່ງກ່ອນ</td><td class=\"rom\">Khɔ̌ɔ khīt bɤ̀ng kɔ̀ɔn</td><td>laisse-moi réfléchir</td><td></td></tr><tr><td class=\"lo\">ດີກວ່າ</td><td class=\"rom\">Dǐi kwàa</td><td>mieux</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : adoucir le désaccord",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ແມ່ນຢູ່ ແຕ່</span> <span class=\"rom\">Mɛ̄ɛn yùu, tɛ̀ɛ…</span> = c&#x27;est vrai, mais…</li><li><span class=\"lo\">ບໍ່ຄ່ອຍ ປານໃດ</span> <span class=\"rom\">Bɔ̀ɔ khɔ̄ɔy… pǎan-dǎy</span> = pas trop…</li></ul><p><b>À toi de trouver :</b></p><ol><li>Pourquoi Kèo ne dit-il pas simplement ບໍ່ເຫັນດີ ?</li></ol><details><summary>La règle</summary><p>On adoucit le désaccord : on reconnaît d'abord l'autre (ແມ່ນຢູ່, ມີເຫດຜົນ), puis on nuance avec ແຕ່ ou ບໍ່ຄ່ອຍ…ປານໃດ.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les formules qui adoucissent.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Je suis d&#x27;accord.</li><li>C&#x27;est vrai, mais…</li><li>Laisse-moi réfléchir.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້ອຍເຫັນດີ</span> <span class=\"rom\">Khɔ̂ɔy hěn-dǐi.</span></li><li><span class=\"lo\">ແມ່ນຢູ່ ແຕ່</span> <span class=\"rom\">Mɛ̄ɛn yùu, tɛ̀ɛ…</span></li><li><span class=\"lo\">ຂໍຄິດເບິ່ງກ່ອນ</span> <span class=\"rom\">Khɔ̌ɔ khīt bɤ̀ng kɔ̀ɔn.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris 3 désaccords polis sur des sujets du quotidien.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Débats d&#x27;un petit sujet (vacances, repas) avec un natif en restant poli.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>10 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l67-v01",
+   "front": "ເຫັນດີ",
+   "back": "Hěn-dǐi · être d'accord"
+  },
+  {
+   "id": "l67-v02",
+   "front": "ບໍ່ເຫັນດີ",
+   "back": "Bɔ̀ɔ hěn-dǐi · ne pas être d'accord"
+  },
+  {
+   "id": "l67-v03",
+   "front": "ບໍ່ຄ່ອຍເຫັນດີປານໃດ",
+   "back": "Bɔ̀ɔ khɔ̄ɔy hěn-dǐi pǎan-dǎy · pas vraiment d'accord"
+  },
+  {
+   "id": "l67-v04",
+   "front": "ມີເຫດຜົນ",
+   "back": "Míi hēet-phǒn · c'est logique, ça se tient"
+  },
+  {
+   "id": "l67-v05",
+   "front": "ແມ່ນຢູ່ ແຕ່",
+   "back": "Mɛ̄ɛn yùu, tɛ̀ɛ · c'est vrai, mais…"
+  },
+  {
+   "id": "l67-v06",
+   "front": "ຂໍຄິດເບິ່ງກ່ອນ",
+   "back": "Khɔ̌ɔ khīt bɤ̀ng kɔ̀ɔn · laisse-moi réfléchir"
+  },
+  {
+   "id": "l67-v07",
+   "front": "ດີກວ່າ",
+   "back": "Dǐi kwàa · mieux"
+  },
+  {
+   "id": "l67-p01",
+   "front": "Je suis d'accord.",
+   "back": "ຂ້ອຍເຫັນດີ · Khɔ̂ɔy hěn-dǐi."
+  },
+  {
+   "id": "l67-p02",
+   "front": "C'est vrai, mais…",
+   "back": "ແມ່ນຢູ່ ແຕ່ · Mɛ̄ɛn yùu, tɛ̀ɛ…"
+  },
+  {
+   "id": "l67-p03",
+   "front": "Laisse-moi réfléchir.",
+   "back": "ຂໍຄິດເບິ່ງກ່ອນ · Khɔ̌ɔ khīt bɤ̀ng kɔ̀ɔn."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ເຫັນດີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "être d'accord",
+      "mieux",
+      "c'est logique, ça se tient",
+      "ne pas être d'accord"
+     ],
+     "answer": "être d'accord",
+     "reveal": "<i>Hěn-dǐi</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ເຫັນດີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ne pas être d'accord",
+      "c'est vrai, mais…",
+      "être d'accord",
+      "mieux"
+     ],
+     "answer": "ne pas être d'accord",
+     "reveal": "<i>Bɔ̀ɔ hěn-dǐi</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ຄ່ອຍເຫັນດີປານໃດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pas vraiment d'accord",
+      "ne pas être d'accord",
+      "être d'accord",
+      "c'est logique, ça se tient"
+     ],
+     "answer": "pas vraiment d'accord",
+     "reveal": "<i>Bɔ̀ɔ khɔ̄ɔy hěn-dǐi pǎan-dǎy</i>"
+    },
+    {
+     "audio": [
+      "ມີເຫດຜົນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "c'est logique, ça se tient",
+      "ne pas être d'accord",
+      "laisse-moi réfléchir",
+      "être d'accord"
+     ],
+     "answer": "c'est logique, ça se tient",
+     "reveal": "<i>Míi hēet-phǒn</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນຢູ່ ແຕ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "c'est vrai, mais…",
+      "c'est logique, ça se tient",
+      "être d'accord",
+      "laisse-moi réfléchir"
+     ],
+     "answer": "c'est vrai, mais…",
+     "reveal": "<i>Mɛ̄ɛn yùu, tɛ̀ɛ</i>"
+    },
+    {
+     "audio": [
+      "ຂໍຄິດເບິ່ງກ່ອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "laisse-moi réfléchir",
+      "être d'accord",
+      "mieux",
+      "pas vraiment d'accord"
+     ],
+     "answer": "laisse-moi réfléchir",
+     "reveal": "<i>Khɔ̌ɔ khīt bɤ̀ng kɔ̀ɔn</i>"
+    },
+    {
+     "audio": [
+      "ດີກວ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mieux",
+      "pas vraiment d'accord",
+      "être d'accord",
+      "c'est logique, ça se tient"
+     ],
+     "answer": "mieux",
+     "reveal": "<i>Dǐi kwàa</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ປີໜ້າເຮົາໄປທ່ຽວທະເລເນາະ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "L'an prochain, on va à la mer, d'accord ?",
+      "Ce n'est pas faux, mais la mer c'est plus sympa.",
+      "Je ne suis pas trop d'accord. La montagne, c'est mieux.",
+      "OK, laissez-moi réfléchir."
+     ],
+     "answer": "L'an prochain, on va à la mer, d'accord ?",
+     "reveal": "<i>Pǐi-nâa háo pǎy thìaw thā-léé nɔ̄.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍເຫັນດີ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je suis d'accord.",
+      "Ce n'est pas faux, mais la mer c'est plus sympa.",
+      "L'an prochain, on va à la mer, d'accord ?",
+      "OK, laissez-moi réfléchir."
+     ],
+     "answer": "Je suis d'accord.",
+     "reveal": "<i>Khɔ̂ɔy hěn-dǐi.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍບໍ່ຄ່ອຍເຫັນດີປານໃດ ໄປພູດີກວ່າ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je ne suis pas trop d'accord. La montagne, c'est mieux.",
+      "Ce n'est pas faux, mais la mer c'est plus sympa.",
+      "L'an prochain, on va à la mer, d'accord ?",
+      "Je suis d'accord."
+     ],
+     "answer": "Je ne suis pas trop d'accord. La montagne, c'est mieux.",
+     "reveal": "<i>Khɔ̂ɔy bɔ̀ɔ khɔ̄ɔy hěn-dǐi pǎan-dǎy. Pǎy phúu dǐi kwàa.</i>"
+    },
+    {
+     "audio": [
+      "ກໍມີເຫດຜົນເນາະ ແຕ່ທະເລມ່ວນກວ່າ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Ce n'est pas faux, mais la mer c'est plus sympa.",
+      "OK, laissez-moi réfléchir.",
+      "L'an prochain, on va à la mer, d'accord ?",
+      "Je suis d'accord."
+     ],
+     "answer": "Ce n'est pas faux, mais la mer c'est plus sympa.",
+     "reveal": "<i>Kɔ̂ɔ míi hēet-phǒn nɔ̄, tɛ̀ɛ thā-léé mūan kwàa.</i>"
+    },
+    {
+     "audio": [
+      "ໂອເຄ ຂໍຄິດເບິ່ງກ່ອນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "OK, laissez-moi réfléchir.",
+      "Ce n'est pas faux, mais la mer c'est plus sympa.",
+      "L'an prochain, on va à la mer, d'accord ?",
+      "Je suis d'accord."
+     ],
+     "answer": "OK, laissez-moi réfléchir.",
+     "reveal": "<i>Ǒo-khéé, khɔ̌ɔ khīt bɤ̀ng kɔ̀ɔn.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້ອຍເຫັນດີ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je suis d'accord.",
+      "Laisse-moi réfléchir.",
+      "C'est vrai, mais…"
+     ],
+     "answer": "Je suis d'accord.",
+     "reveal": "<i>Khɔ̂ɔy hěn-dǐi.</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນຢູ່ ແຕ່"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est vrai, mais…",
+      "Laisse-moi réfléchir.",
+      "Je suis d'accord."
+     ],
+     "answer": "C'est vrai, mais…",
+     "reveal": "<i>Mɛ̄ɛn yùu, tɛ̀ɛ…</i>"
+    },
+    {
+     "audio": [
+      "ຂໍຄິດເບິ່ງກ່ອນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Laisse-moi réfléchir.",
+      "Je suis d'accord.",
+      "C'est vrai, mais…"
+     ],
+     "answer": "Laisse-moi réfléchir.",
+     "reveal": "<i>Khɔ̌ɔ khīt bɤ̀ng kɔ̀ɔn.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ເຫັນດີ",
+   "rom": "Hěn-dǐi",
+   "fr": "être d'accord",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ເຫັນດີ",
+   "rom": "Bɔ̀ɔ hěn-dǐi",
+   "fr": "ne pas être d'accord",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ຄ່ອຍເຫັນດີປານໃດ",
+   "rom": "Bɔ̀ɔ khɔ̄ɔy hěn-dǐi pǎan-dǎy",
+   "fr": "pas vraiment d'accord",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມີເຫດຜົນ",
+   "rom": "Míi hēet-phǒn",
+   "fr": "c'est logique, ça se tient",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແມ່ນຢູ່ ແຕ່",
+   "rom": "Mɛ̄ɛn yùu, tɛ̀ɛ",
+   "fr": "c'est vrai, mais…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍຄິດເບິ່ງກ່ອນ",
+   "rom": "Khɔ̌ɔ khīt bɤ̀ng kɔ̀ɔn",
+   "fr": "laisse-moi réfléchir",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ດີກວ່າ",
+   "rom": "Dǐi kwàa",
+   "fr": "mieux",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍເຫັນດີ",
+   "rom": "Khɔ̂ɔy hěn-dǐi.",
+   "fr": "Je suis d'accord.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແມ່ນຢູ່ ແຕ່",
+   "rom": "Mɛ̄ɛn yùu, tɛ̀ɛ…",
+   "fr": "C'est vrai, mais…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍຄິດເບິ່ງກ່ອນ",
+   "rom": "Khɔ̌ɔ khīt bɤ̀ng kɔ̀ɔn.",
+   "fr": "Laisse-moi réfléchir.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ເຫັນດີ"
+   ],
+   "rom": "Khɔ̂ɔy hěn-dǐi.",
+   "fr": "Je suis d'accord."
+  },
+  {
+   "tokens": [
+    "ແມ່ນ",
+    "ຢູ່",
+    "ແຕ່"
+   ],
+   "rom": "Mɛ̄ɛn yùu, tɛ̀ɛ…",
+   "fr": "C'est vrai, mais…"
+  },
+  {
+   "tokens": [
+    "ຂໍ",
+    "ຄິດ",
+    "ເບິ່ງ",
+    "ກ່ອນ"
+   ],
+   "rom": "Khɔ̌ɔ khīt bɤ̀ng kɔ̀ɔn.",
+   "fr": "Laisse-moi réfléchir."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ເຫັນດີ",
+   "rom": "Hěn-dǐi",
+   "fr": "être d'accord"
+  },
+  {
+   "lao": "ບໍ່ເຫັນດີ",
+   "rom": "Bɔ̀ɔ hěn-dǐi",
+   "fr": "ne pas être d'accord"
+  },
+  {
+   "lao": "ບໍ່ຄ່ອຍເຫັນດີປານໃດ",
+   "rom": "Bɔ̀ɔ khɔ̄ɔy hěn-dǐi pǎan-dǎy",
+   "fr": "pas vraiment d'accord"
+  },
+  {
+   "lao": "ມີເຫດຜົນ",
+   "rom": "Míi hēet-phǒn",
+   "fr": "c'est logique, ça se tient"
+  },
+  {
+   "lao": "ແມ່ນຢູ່ ແຕ່",
+   "rom": "Mɛ̄ɛn yùu, tɛ̀ɛ",
+   "fr": "c'est vrai, mais…"
+  },
+  {
+   "lao": "ຂໍຄິດເບິ່ງກ່ອນ",
+   "rom": "Khɔ̌ɔ khīt bɤ̀ng kɔ̀ɔn",
+   "fr": "laisse-moi réfléchir"
+  },
+  {
+   "lao": "ດີກວ່າ",
+   "rom": "Dǐi kwàa",
+   "fr": "mieux"
+  }
+ ],
+ "sounds": {
+  "ເຕັມ": "Těm",
+  "ທາງເຂົ້າ": "Tháang-khâo",
+  "ເສຍໃຈ": "Sǐa-jǎy",
+  "ລະດູຮ້ອນ": "Lā-dǔu-hȍɔn",
+  "ປີໜ້າເຮົາໄປທ່ຽວທະເລເນາະ": "Pǐi-nâa háo pǎy thìaw thā-léé nɔ̄.",
+  "ຂ້ອຍເຫັນດີ": "Khɔ̂ɔy hěn-dǐi.",
+  "ຂ້ອຍບໍ່ຄ່ອຍເຫັນດີປານໃດ ໄປພູດີກວ່າ": "Khɔ̂ɔy bɔ̀ɔ khɔ̄ɔy hěn-dǐi pǎan-dǎy. Pǎy phúu dǐi kwàa.",
+  "ກໍມີເຫດຜົນເນາະ ແຕ່ທະເລມ່ວນກວ່າ": "Kɔ̂ɔ míi hēet-phǒn nɔ̄, tɛ̀ɛ thā-léé mūan kwàa.",
+  "ໂອເຄ ຂໍຄິດເບິ່ງກ່ອນ": "Ǒo-khéé, khɔ̌ɔ khīt bɤ̀ng kɔ̀ɔn.",
+  "ເຫັນດີ": "hěn-dǐi",
+  "ບໍ່ເຫັນດີ": "Bɔ̀ɔ hěn-dǐi",
+  "ບໍ່ຄ່ອຍເຫັນດີປານໃດ": "Bɔ̀ɔ khɔ̄ɔy hěn-dǐi pǎan-dǎy",
+  "ມີເຫດຜົນ": "Míi hēet-phǒn",
+  "ແມ່ນຢູ່ ແຕ່": "Mɛ̄ɛn yùu, tɛ̀ɛ…",
+  "ຂໍຄິດເບິ່ງກ່ອນ": "Khɔ̌ɔ khīt bɤ̀ng kɔ̀ɔn.",
+  "ດີກວ່າ": "Dǐi kwàa",
+  "ບໍ່ຄ່ອຍ ປານໃດ": "Bɔ̀ɔ khɔ̄ɔy… pǎan-dǎy",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ແມ່ນຢູ່ແຕ່": "Mɛ̄ɛn yùu, tɛ̀ɛ…",
+  "ແມ່ນ": "mɛ̄ɛn",
+  "ຢູ່": "yùu",
+  "ແຕ່": "tɛ̀ɛ",
+  "ຂໍ": "khɔ̌ɔ",
+  "ຄິດ": "khīt",
+  "ເບິ່ງ": "bɤ̀ng",
+  "ກ່ອນ": "kɔ̀ɔn"
+ },
+ "suivi": "LEÇON : 67 — Partie E (S'exprimer (cours en lao), B1) · D'accord, pas d'accord\nOBJECTIF : Exprimer ton accord et ton désaccord sans froisser.\nNOTION : adoucir le désaccord\nVOCAB : Hěn-dǐi, Bɔ̀ɔ hěn-dǐi, Bɔ̀ɔ khɔ̄ɔy hěn-dǐi pǎan-dǎy, Míi hēet-phǒn, Mɛ̄ɛn yùu, tɛ̀ɛ, Khɔ̌ɔ khīt bɤ̀ng kɔ̀ɔn, Dǐi kwàa\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 68 — Raconter une histoire"
+}

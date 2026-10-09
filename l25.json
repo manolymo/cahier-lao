@@ -11,7 +11,7 @@
   },
   {
    "title": "Révision espacée",
-   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>poulet grillé <small class=\"muted\">(leçon 24)</small></li><li>sac <small class=\"muted\">(leçon 22)</small></li><li>viande <small class=\"muted\">(leçon 18)</small></li><li>chat <small class=\"muted\">(leçon 11)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ປີ້ງໄກ່</span> <span class=\"rom\">Pîng-kày</span> · poulet grillé</li><li><span class=\"lo\">ກະເປົາ</span> <span class=\"rom\">Kā-pǎo</span> · sac</li><li><span class=\"lo\">ຊີ້ນ</span> <span class=\"rom\">Sȋin</span> · viande</li><li><span class=\"lo\">ແມວ</span> <span class=\"rom\">Mɛ́ɛw</span> · chat</li></ol></details>"
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>poulet grillé <small class=\"muted\">(leçon 24)</small></li><li>sac <small class=\"muted\">(leçon 22)</small></li><li>viande <small class=\"muted\">(leçon 18)</small></li><li>chat <small class=\"muted\">(leçon 11)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ປີ້ງໄກ່</span> <span class=\"rom\">Pîng-kày</span> · poulet grillé</li><li><span class=\"lo\">ກະເປົາ</span> <span class=\"rom\">Ká-pǎo</span> · sac</li><li><span class=\"lo\">ຊີ້ນ</span> <span class=\"rom\">Sȋin</span> · viande</li><li><span class=\"lo\">ແມວ</span> <span class=\"rom\">Mɛ́ɛw</span> · chat</li></ol></details>"
   },
   {
    "title": "Objectif",
@@ -623,7 +623,7 @@
  ],
  "sounds": {
   "ປີ້ງໄກ່": "Pîng-kày",
-  "ກະເປົາ": "Kā-pǎo",
+  "ກະເປົາ": "Ká-pǎo",
   "ຊີ້ນ": "Sȋin",
   "ແມວ": "Mɛ́ɛw",
   "ເຈົ້າມັກອາຫານລາວບໍ": "Jâo māk ǎa-hǎan láaw bɔ̌ɔ?",

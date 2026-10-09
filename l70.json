@@ -1,0 +1,458 @@
+{
+ "num": 70,
+ "phase": "Partie E · S'exprimer (cours en lao)",
+ "title": "Un problème",
+ "objective": "Expliquer une panne ou un souci et demander de l'aide.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>changer <small class=\"muted\">(leçon 69)</small></li><li>c&#x27;est vrai, mais… <small class=\"muted\">(leçon 67)</small></li><li>s&#x27;excuser (soutenu) <small class=\"muted\">(leçon 63)</small></li><li>pouvoir <small class=\"muted\">(leçon 56)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ປ່ຽນ</span> <span class=\"rom\">Pìan</span> · changer</li><li><span class=\"lo\">ແມ່ນຢູ່ ແຕ່</span> <span class=\"rom\">Mɛ̄ɛn yùu, tɛ̀ɛ</span> · c&#x27;est vrai, mais…</li><li><span class=\"lo\">ຂໍອະໄພ</span> <span class=\"rom\">Khɔ̌ɔ á-pháy</span> · s&#x27;excuser (soutenu)</li><li><span class=\"lo\">ໄດ້</span> <span class=\"rom\">Dâay</span> · pouvoir</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Expliquer une panne ou un souci et demander de l&#x27;aide.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">La clim de Clara est en panne.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແອເສຍແລ້ວ ຊ່ວຍມາເບິ່ງໃຫ້ແດ່ໄດ້ບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ພະນັກງານ</span><div><span class=\"lo\">ເປັນແນວໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເປີດແລ້ວແຕ່ບໍ່ເຢັນ</span></div></div><div class=\"line\"><span class=\"who\">ພະນັກງານ</span><div><span class=\"lo\">ມື້ອື່ນຈະໃຫ້ຊ່າງໄປສ້ອມໃຫ້</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Ɛ̌ɛ sǐa lɛ̏ɛw. Sūay máa bɤ̀ng hây dɛ̀ɛ dâay bɔ̌ɔ?</span><br><span class=\"rom\">Pěn nɛ́ɛw-dǎy?</span><br><span class=\"rom\">Pɤ̏ɤt lɛ̏ɛw tɛ̀ɛ bɔ̀ɔ yěn.</span><br><span class=\"rom\">Mʉ̂ʉ-ʉ̀ʉn já hây sāang pǎy sɔ̂ɔm hây.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — La clim est en panne. Vous pouvez venir voir ?<br><b>L&#x27;employé</b> — Qu&#x27;est-ce qu&#x27;elle a ?<br><b>Clara</b> — Elle s&#x27;allume mais ne refroidit pas.<br><b>L&#x27;employé</b> — Demain, j&#x27;enverrai un technicien la réparer.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quel est le problème ?</li><li>Quelle solution ?</li></ol><details><summary>Réponses</summary><ol><li>La clim s&#x27;allume mais ne refroidit pas.</li><li>Un technicien demain.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ເສຍ</td><td class=\"rom\">Sǐa</td><td>être en panne, cassé</td><td></td></tr><tr><td class=\"lo\">ສ້ອມ</td><td class=\"rom\">Sɔ̂ɔm</td><td>réparer</td><td></td></tr><tr><td class=\"lo\">ຊ່າງ</td><td class=\"rom\">Sāang</td><td>technicien, artisan</td><td></td></tr><tr><td class=\"lo\">ໃຫ້ ໄປ</td><td class=\"rom\">Hây… pǎy</td><td>faire aller, envoyer</td><td></td></tr><tr><td class=\"lo\">ບັນຫາ</td><td class=\"rom\">Bǎn-hǎa</td><td>problème</td><td></td></tr><tr><td class=\"lo\">ຊ່ວຍ ໃຫ້ແດ່</td><td class=\"rom\">Sūay… hây dɛ̀ɛ</td><td>aide-moi à…</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : le causatif avec ໃຫ້",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ໃຫ້ຊ່າງສ້ອມ</span> <span class=\"rom\">Hây sāang sɔ̂ɔm</span> = faire réparer par un technicien</li><li><span class=\"lo\">ແມ່ໃຫ້ຂ້ອຍໄປຕະຫຼາດ</span> <span class=\"rom\">Mɛ̄ɛ hây khɔ̂ɔy pǎy tá-lȁat</span> = maman m&#x27;envoie au marché</li></ul><p><b>À toi de trouver :</b></p><ol><li>Que fait ໃຫ້ entre deux éléments ?</li></ol><details><summary>La règle</summary><p>ໃຫ້ + personne + verbe = faire faire quelque chose à quelqu'un. Après un verbe, ໃຫ້ = pour (le bénéficiaire).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> ໃຫ້ et ses deux sens.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>La clim est en panne.</li><li>Vous pouvez venir voir ?</li><li>Je vais la faire réparer.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ແອເສຍແລ້ວ</span> <span class=\"rom\">Ɛ̌ɛ sǐa lɛ̏ɛw.</span></li><li><span class=\"lo\">ມາເບິ່ງໃຫ້ແດ່ໄດ້ບໍ?</span> <span class=\"rom\">Máa bɤ̀ng hây dɛ̀ɛ dâay bɔ̌ɔ?</span></li><li><span class=\"lo\">ຈະໃຫ້ຊ່າງສ້ອມ</span> <span class=\"rom\">Já hây sāang sɔ̂ɔm.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris un message à un propriétaire pour signaler 2 problèmes.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Joue avec un natif l&#x27;appel à un réparateur.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>9 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l70-v01",
+   "front": "ເສຍ",
+   "back": "Sǐa · être en panne, cassé"
+  },
+  {
+   "id": "l70-v02",
+   "front": "ສ້ອມ",
+   "back": "Sɔ̂ɔm · réparer"
+  },
+  {
+   "id": "l70-v03",
+   "front": "ຊ່າງ",
+   "back": "Sāang · technicien, artisan"
+  },
+  {
+   "id": "l70-v04",
+   "front": "ໃຫ້ ໄປ",
+   "back": "Hây… pǎy · faire aller, envoyer"
+  },
+  {
+   "id": "l70-v05",
+   "front": "ບັນຫາ",
+   "back": "Bǎn-hǎa · problème"
+  },
+  {
+   "id": "l70-v06",
+   "front": "ຊ່ວຍ ໃຫ້ແດ່",
+   "back": "Sūay… hây dɛ̀ɛ · aide-moi à…"
+  },
+  {
+   "id": "l70-p01",
+   "front": "La clim est en panne.",
+   "back": "ແອເສຍແລ້ວ · Ɛ̌ɛ sǐa lɛ̏ɛw."
+  },
+  {
+   "id": "l70-p02",
+   "front": "Vous pouvez venir voir ?",
+   "back": "ມາເບິ່ງໃຫ້ແດ່ໄດ້ບໍ? · Máa bɤ̀ng hây dɛ̀ɛ dâay bɔ̌ɔ?"
+  },
+  {
+   "id": "l70-p03",
+   "front": "Je vais la faire réparer.",
+   "back": "ຈະໃຫ້ຊ່າງສ້ອມ · Já hây sāang sɔ̂ɔm."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ເສຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "être en panne, cassé",
+      "réparer",
+      "faire aller, envoyer",
+      "problème"
+     ],
+     "answer": "être en panne, cassé",
+     "reveal": "<i>Sǐa</i>"
+    },
+    {
+     "audio": [
+      "ສ້ອມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "réparer",
+      "technicien, artisan",
+      "faire aller, envoyer",
+      "être en panne, cassé"
+     ],
+     "answer": "réparer",
+     "reveal": "<i>Sɔ̂ɔm</i>"
+    },
+    {
+     "audio": [
+      "ຊ່າງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "technicien, artisan",
+      "être en panne, cassé",
+      "problème",
+      "aide-moi à…"
+     ],
+     "answer": "technicien, artisan",
+     "reveal": "<i>Sāang</i>"
+    },
+    {
+     "audio": [
+      "ໃຫ້ ໄປ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "faire aller, envoyer",
+      "problème",
+      "être en panne, cassé",
+      "technicien, artisan"
+     ],
+     "answer": "faire aller, envoyer",
+     "reveal": "<i>Hây… pǎy</i>"
+    },
+    {
+     "audio": [
+      "ບັນຫາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "problème",
+      "réparer",
+      "aide-moi à…",
+      "technicien, artisan"
+     ],
+     "answer": "problème",
+     "reveal": "<i>Bǎn-hǎa</i>"
+    },
+    {
+     "audio": [
+      "ຊ່ວຍ ໃຫ້ແດ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "aide-moi à…",
+      "réparer",
+      "problème",
+      "technicien, artisan"
+     ],
+     "answer": "aide-moi à…",
+     "reveal": "<i>Sūay… hây dɛ̀ɛ</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ແອເສຍແລ້ວ ຊ່ວຍມາເບິ່ງໃຫ້ແດ່ໄດ້ບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "La clim est en panne. Vous pouvez venir voir ?",
+      "Qu'est-ce qu'elle a ?",
+      "Elle s'allume mais ne refroidit pas.",
+      "Demain, j'enverrai un technicien la réparer."
+     ],
+     "answer": "La clim est en panne. Vous pouvez venir voir ?",
+     "reveal": "<i>Ɛ̌ɛ sǐa lɛ̏ɛw. Sūay máa bɤ̀ng hây dɛ̀ɛ dâay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ເປັນແນວໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Qu'est-ce qu'elle a ?",
+      "La clim est en panne. Vous pouvez venir voir ?",
+      "Demain, j'enverrai un technicien la réparer.",
+      "Elle s'allume mais ne refroidit pas."
+     ],
+     "answer": "Qu'est-ce qu'elle a ?",
+     "reveal": "<i>Pěn nɛ́ɛw-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ເປີດແລ້ວແຕ່ບໍ່ເຢັນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Elle s'allume mais ne refroidit pas.",
+      "Qu'est-ce qu'elle a ?",
+      "Demain, j'enverrai un technicien la réparer.",
+      "La clim est en panne. Vous pouvez venir voir ?"
+     ],
+     "answer": "Elle s'allume mais ne refroidit pas.",
+     "reveal": "<i>Pɤ̏ɤt lɛ̏ɛw tɛ̀ɛ bɔ̀ɔ yěn.</i>"
+    },
+    {
+     "audio": [
+      "ມື້ອື່ນຈະໃຫ້ຊ່າງໄປສ້ອມໃຫ້"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Demain, j'enverrai un technicien la réparer.",
+      "Elle s'allume mais ne refroidit pas.",
+      "Qu'est-ce qu'elle a ?",
+      "La clim est en panne. Vous pouvez venir voir ?"
+     ],
+     "answer": "Demain, j'enverrai un technicien la réparer.",
+     "reveal": "<i>Mʉ̂ʉ-ʉ̀ʉn já hây sāang pǎy sɔ̂ɔm hây.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ແອເສຍແລ້ວ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "La clim est en panne.",
+      "Vous pouvez venir voir ?",
+      "Je vais la faire réparer."
+     ],
+     "answer": "La clim est en panne.",
+     "reveal": "<i>Ɛ̌ɛ sǐa lɛ̏ɛw.</i>"
+    },
+    {
+     "audio": [
+      "ມາເບິ່ງໃຫ້ແດ່ໄດ້ບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Vous pouvez venir voir ?",
+      "La clim est en panne.",
+      "Je vais la faire réparer."
+     ],
+     "answer": "Vous pouvez venir voir ?",
+     "reveal": "<i>Máa bɤ̀ng hây dɛ̀ɛ dâay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຈະໃຫ້ຊ່າງສ້ອມ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je vais la faire réparer.",
+      "Vous pouvez venir voir ?",
+      "La clim est en panne."
+     ],
+     "answer": "Je vais la faire réparer.",
+     "reveal": "<i>Já hây sāang sɔ̂ɔm.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ເສຍ",
+   "rom": "Sǐa",
+   "fr": "être en panne, cassé",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສ້ອມ",
+   "rom": "Sɔ̂ɔm",
+   "fr": "réparer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊ່າງ",
+   "rom": "Sāang",
+   "fr": "technicien, artisan",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃຫ້ ໄປ",
+   "rom": "Hây… pǎy",
+   "fr": "faire aller, envoyer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບັນຫາ",
+   "rom": "Bǎn-hǎa",
+   "fr": "problème",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊ່ວຍ ໃຫ້ແດ່",
+   "rom": "Sūay… hây dɛ̀ɛ",
+   "fr": "aide-moi à…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແອເສຍແລ້ວ",
+   "rom": "Ɛ̌ɛ sǐa lɛ̏ɛw.",
+   "fr": "La clim est en panne.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມາເບິ່ງໃຫ້ແດ່ໄດ້ບໍ?",
+   "rom": "Máa bɤ̀ng hây dɛ̀ɛ dâay bɔ̌ɔ?",
+   "fr": "Vous pouvez venir voir ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈະໃຫ້ຊ່າງສ້ອມ",
+   "rom": "Já hây sāang sɔ̂ɔm.",
+   "fr": "Je vais la faire réparer.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ແອ",
+    "ເສຍ",
+    "ແລ້ວ"
+   ],
+   "rom": "Ɛ̌ɛ sǐa lɛ̏ɛw.",
+   "fr": "La clim est en panne."
+  },
+  {
+   "tokens": [
+    "ມາ",
+    "ເບິ່ງ",
+    "ໃຫ້",
+    "ແດ່",
+    "ໄດ້",
+    "ບໍ"
+   ],
+   "rom": "Máa bɤ̀ng hây dɛ̀ɛ dâay bɔ̌ɔ?",
+   "fr": "Vous pouvez venir voir ?"
+  },
+  {
+   "tokens": [
+    "ຈະ",
+    "ໃຫ້",
+    "ຊ່າງ",
+    "ສ້ອມ"
+   ],
+   "rom": "Já hây sāang sɔ̂ɔm.",
+   "fr": "Je vais la faire réparer."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ເສຍ",
+   "rom": "Sǐa",
+   "fr": "être en panne, cassé"
+  },
+  {
+   "lao": "ສ້ອມ",
+   "rom": "Sɔ̂ɔm",
+   "fr": "réparer"
+  },
+  {
+   "lao": "ຊ່າງ",
+   "rom": "Sāang",
+   "fr": "technicien, artisan"
+  },
+  {
+   "lao": "ໃຫ້ ໄປ",
+   "rom": "Hây… pǎy",
+   "fr": "faire aller, envoyer"
+  },
+  {
+   "lao": "ບັນຫາ",
+   "rom": "Bǎn-hǎa",
+   "fr": "problème"
+  },
+  {
+   "lao": "ຊ່ວຍ ໃຫ້ແດ່",
+   "rom": "Sūay… hây dɛ̀ɛ",
+   "fr": "aide-moi à…"
+  }
+ ],
+ "sounds": {
+  "ປ່ຽນ": "Pìan",
+  "ແມ່ນຢູ່ ແຕ່": "Mɛ̄ɛn yùu, tɛ̀ɛ",
+  "ຂໍອະໄພ": "Khɔ̌ɔ á-pháy",
+  "ໄດ້": "dâay",
+  "ແອເສຍແລ້ວ ຊ່ວຍມາເບິ່ງໃຫ້ແດ່ໄດ້ບໍ": "Ɛ̌ɛ sǐa lɛ̏ɛw. Sūay máa bɤ̀ng hây dɛ̀ɛ dâay bɔ̌ɔ?",
+  "ເປັນແນວໃດ": "Pěn nɛ́ɛw-dǎy?",
+  "ເປີດແລ້ວແຕ່ບໍ່ເຢັນ": "Pɤ̏ɤt lɛ̏ɛw tɛ̀ɛ bɔ̀ɔ yěn.",
+  "ມື້ອື່ນຈະໃຫ້ຊ່າງໄປສ້ອມໃຫ້": "Mʉ̂ʉ-ʉ̀ʉn já hây sāang pǎy sɔ̂ɔm hây.",
+  "ເສຍ": "sǐa",
+  "ສ້ອມ": "sɔ̂ɔm",
+  "ຊ່າງ": "sāang",
+  "ໃຫ້ ໄປ": "Hây… pǎy",
+  "ບັນຫາ": "Bǎn-hǎa",
+  "ຊ່ວຍ ໃຫ້ແດ່": "Sūay… hây dɛ̀ɛ",
+  "ໃຫ້ຊ່າງສ້ອມ": "Hây sāang sɔ̂ɔm",
+  "ແມ່ໃຫ້ຂ້ອຍໄປຕະຫຼາດ": "Mɛ̄ɛ hây khɔ̂ɔy pǎy tá-lȁat",
+  "ແອເສຍແລ້ວ": "Ɛ̌ɛ sǐa lɛ̏ɛw.",
+  "ມາເບິ່ງໃຫ້ແດ່ໄດ້ບໍ": "Máa bɤ̀ng hây dɛ̀ɛ dâay bɔ̌ɔ?",
+  "ຈະໃຫ້ຊ່າງສ້ອມ": "Já hây sāang sɔ̂ɔm.",
+  "ແອ": "ɛ̌ɛ",
+  "ແລ້ວ": "lɛ̏ɛw",
+  "ມາ": "máa",
+  "ເບິ່ງ": "bɤ̀ng",
+  "ໃຫ້": "hây",
+  "ແດ່": "dɛ̀ɛ",
+  "ບໍ": "bɔ̌ɔ",
+  "ຈະ": "já"
+ },
+ "suivi": "LEÇON : 70 — Partie E (S'exprimer (cours en lao), B1) · Un problème\nOBJECTIF : Expliquer une panne ou un souci et demander de l'aide.\nNOTION : le causatif avec ໃຫ້\nVOCAB : Sǐa, Sɔ̂ɔm, Sāang, Hây… pǎy, Bǎn-hǎa, Sūay… hây dɛ̀ɛ\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 71 — Réclamer"
+}

@@ -19,7 +19,7 @@
   },
   {
    "title": "Dialogue",
-   "html": "<p class=\"muted\">Clara cherche des lieux sur une carte avec Kèo.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຕະຫຼາດຢູ່ໃສ?</span><span class=\"rom\">Tā-lȁat yùu sǎy?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຢູ່ໃກ້ວັດ</span><span class=\"rom\">Yùu kâay wāt.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແລ້ວໂຮງໝໍເດ?</span><span class=\"rom\">Lɛ̏ɛw hóong-mɔ̌ɔ dě?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ໂຮງໝໍຢູ່ໄກ ຕ້ອງຂີ່ລົດ</span><span class=\"rom\">Hóong-mɔ̌ɔ yùu kǎy. Tâɔng khìi lōt.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຮ້ານອາຫານລາວມີບໍ?</span><span class=\"rom\">Hȁan-ǎa-hǎan láaw míi bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ມີຫຼາຍເລີຍ!</span><span class=\"rom\">Míi lǎay lɤ́ɤy!</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Où est le marché ?<br><b>Kèo</b> — Près du temple.<br><b>Clara</b> — Et l&#x27;hôpital ?<br><b>Kèo</b> — L&#x27;hôpital est loin. Il faut prendre un véhicule.<br><b>Clara</b> — Il y a un restaurant lao ?<br><b>Kèo</b> — Plein !</p></details>"
+   "html": "<p class=\"muted\">Clara cherche des lieux sur une carte avec Kèo.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຕະຫຼາດຢູ່ໃສ?</span><span class=\"rom\">Tá-lȁat yùu sǎy?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຢູ່ໃກ້ວັດ</span><span class=\"rom\">Yùu kâay wāt.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແລ້ວໂຮງໝໍເດ?</span><span class=\"rom\">Lɛ̏ɛw hóong-mɔ̌ɔ dě?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ໂຮງໝໍຢູ່ໄກ ຕ້ອງຂີ່ລົດ</span><span class=\"rom\">Hóong-mɔ̌ɔ yùu kǎy. Tâɔng khìi lōt.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຮ້ານອາຫານລາວມີບໍ?</span><span class=\"rom\">Hȁan-ǎa-hǎan láaw míi bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ມີຫຼາຍເລີຍ!</span><span class=\"rom\">Míi lǎay lɤ́ɤy!</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Où est le marché ?<br><b>Kèo</b> — Près du temple.<br><b>Clara</b> — Et l&#x27;hôpital ?<br><b>Kèo</b> — L&#x27;hôpital est loin. Il faut prendre un véhicule.<br><b>Clara</b> — Il y a un restaurant lao ?<br><b>Kèo</b> — Plein !</p></details>"
   },
   {
    "title": "Compréhension",
@@ -27,7 +27,7 @@
   },
   {
    "title": "Vocabulaire et blocs",
-   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຕະຫຼາດ</td><td class=\"rom\">Tā-lȁat</td><td>marché</td><td></td></tr><tr><td class=\"lo\">ວັດ</td><td class=\"rom\">Wāt</td><td>temple, pagode</td><td>ວ</td></tr><tr><td class=\"lo\">ໂຮງໝໍ</td><td class=\"rom\">Hóong-mɔ̌ɔ</td><td>hôpital</td><td>ຮ</td></tr><tr><td class=\"lo\">ຮ້ານອາຫານ</td><td class=\"rom\">Hȁan-ǎa-hǎan</td><td>restaurant</td><td></td></tr><tr><td class=\"lo\">ໃກ້</td><td class=\"rom\">Kâay</td><td>près</td><td></td></tr><tr><td class=\"lo\">ໄກ</td><td class=\"rom\">Kǎy</td><td>loin</td><td></td></tr><tr><td class=\"lo\">ມີ</td><td class=\"rom\">Míi</td><td>il y a ; avoir</td><td>ມ</td></tr><tr><td class=\"lo\">ລົດ</td><td class=\"rom\">Lōt</td><td>véhicule, voiture</td><td>ລ</td></tr><tr><td class=\"lo\">ໄຟ</td><td class=\"rom\">Fáy</td><td>feu ; électricité</td><td>ຟ</td></tr><tr><td class=\"lo\">ເມືອງ</td><td class=\"rom\">Mʉ́ang</td><td>ville</td><td></td></tr></table></div>"
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຕະຫຼາດ</td><td class=\"rom\">Tá-lȁat</td><td>marché</td><td></td></tr><tr><td class=\"lo\">ວັດ</td><td class=\"rom\">Wāt</td><td>temple, pagode</td><td>ວ</td></tr><tr><td class=\"lo\">ໂຮງໝໍ</td><td class=\"rom\">Hóong-mɔ̌ɔ</td><td>hôpital</td><td>ຮ</td></tr><tr><td class=\"lo\">ຮ້ານອາຫານ</td><td class=\"rom\">Hȁan-ǎa-hǎan</td><td>restaurant</td><td></td></tr><tr><td class=\"lo\">ໃກ້</td><td class=\"rom\">Kâay</td><td>près</td><td></td></tr><tr><td class=\"lo\">ໄກ</td><td class=\"rom\">Kǎy</td><td>loin</td><td></td></tr><tr><td class=\"lo\">ມີ</td><td class=\"rom\">Míi</td><td>il y a ; avoir</td><td>ມ</td></tr><tr><td class=\"lo\">ລົດ</td><td class=\"rom\">Lōt</td><td>véhicule, voiture</td><td>ລ</td></tr><tr><td class=\"lo\">ໄຟ</td><td class=\"rom\">Fáy</td><td>feu ; électricité</td><td>ຟ</td></tr><tr><td class=\"lo\">ເມືອງ</td><td class=\"rom\">Mʉ́ang</td><td>ville</td><td></td></tr></table></div>"
   },
   {
    "title": "Point de langue : ມີ, « il y a »",
@@ -39,7 +39,7 @@
   },
   {
    "title": "Expression orale",
-   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Où est le marché ?</li><li>C&#x27;est près du temple.</li><li>C&#x27;est loin.</li><li>Il y a un restaurant ?</li><li>Il n&#x27;y en a pas.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຕະຫຼາດຢູ່ໃສ?</span> <span class=\"rom\">Tā-lȁat yùu sǎy?</span></li><li><span class=\"lo\">ຢູ່ໃກ້ວັດ</span> <span class=\"rom\">Yùu kâay wāt.</span></li><li><span class=\"lo\">ຢູ່ໄກ</span> <span class=\"rom\">Yùu kǎy.</span></li><li><span class=\"lo\">ມີຮ້ານອາຫານບໍ?</span> <span class=\"rom\">Míi hȁan-ǎa-hǎan bɔ̌ɔ?</span></li><li><span class=\"lo\">ບໍ່ມີ</span> <span class=\"rom\">Bɔ̀ɔ-míi.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Où est le marché ?</li><li>C&#x27;est près du temple.</li><li>C&#x27;est loin.</li><li>Il y a un restaurant ?</li><li>Il n&#x27;y en a pas.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຕະຫຼາດຢູ່ໃສ?</span> <span class=\"rom\">Tá-lȁat yùu sǎy?</span></li><li><span class=\"lo\">ຢູ່ໃກ້ວັດ</span> <span class=\"rom\">Yùu kâay wāt.</span></li><li><span class=\"lo\">ຢູ່ໄກ</span> <span class=\"rom\">Yùu kǎy.</span></li><li><span class=\"lo\">ມີຮ້ານອາຫານບໍ?</span> <span class=\"rom\">Míi hȁan-ǎa-hǎan bɔ̌ɔ?</span></li><li><span class=\"lo\">ບໍ່ມີ</span> <span class=\"rom\">Bɔ̀ɔ-míi.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
   },
   {
    "title": "Expression écrite",
@@ -58,7 +58,7 @@
   {
    "id": "l10-v01",
    "front": "ຕະຫຼາດ",
-   "back": "Tā-lȁat · marché"
+   "back": "Tá-lȁat · marché"
   },
   {
    "id": "l10-v02",
@@ -108,7 +108,7 @@
   {
    "id": "l10-p01",
    "front": "Où est le marché ?",
-   "back": "ຕະຫຼາດຢູ່ໃສ? · Tā-lȁat yùu sǎy?"
+   "back": "ຕະຫຼາດຢູ່ໃສ? · Tá-lȁat yùu sǎy?"
   },
   {
    "id": "l10-p02",
@@ -149,7 +149,7 @@
       "temple, pagode"
      ],
      "answer": "marché",
-     "reveal": "<i>Tā-lȁat</i>"
+     "reveal": "<i>Tá-lȁat</i>"
     },
     {
      "audio": [
@@ -297,7 +297,7 @@
       "Et l'hôpital ?"
      ],
      "answer": "Où est le marché ?",
-     "reveal": "<i>Tā-lȁat yùu sǎy?</i>"
+     "reveal": "<i>Tá-lȁat yùu sǎy?</i>"
     },
     {
      "audio": [
@@ -388,7 +388,7 @@
       "Il n'y en a pas."
      ],
      "answer": "Où est le marché ?",
-     "reveal": "<i>Tā-lȁat yùu sǎy?</i>"
+     "reveal": "<i>Tá-lȁat yùu sǎy?</i>"
     },
     {
      "audio": [
@@ -452,7 +452,7 @@
  "speak": [
   {
    "lao": "ຕະຫຼາດ",
-   "rom": "Tā-lȁat",
+   "rom": "Tá-lȁat",
    "fr": "marché",
    "kind": "phrase"
   },
@@ -512,7 +512,7 @@
   },
   {
    "lao": "ຕະຫຼາດຢູ່ໃສ?",
-   "rom": "Tā-lȁat yùu sǎy?",
+   "rom": "Tá-lȁat yùu sǎy?",
    "fr": "Où est le marché ?",
    "kind": "phrase"
   },
@@ -548,7 +548,7 @@
     "ຢູ່",
     "ໃສ"
    ],
-   "rom": "Tā-lȁat yùu sǎy?",
+   "rom": "Tá-lȁat yùu sǎy?",
    "fr": "Où est le marché ?"
   },
   {
@@ -581,7 +581,7 @@
  "write": [
   {
    "lao": "ຕະຫຼາດ",
-   "rom": "Tā-lȁat",
+   "rom": "Tá-lȁat",
    "fr": "marché"
   },
   {
@@ -634,13 +634,13 @@
   "ງົວ": "Ngúa",
   "ອາ": "Ǎa",
   "ຢູ່": "yùu",
-  "ຕະຫຼາດຢູ່ໃສ": "Tā-lȁat yùu sǎy?",
+  "ຕະຫຼາດຢູ່ໃສ": "Tá-lȁat yùu sǎy?",
   "ຢູ່ໃກ້ວັດ": "Yùu kâay wāt.",
   "ແລ້ວໂຮງໝໍເດ": "Lɛ̏ɛw hóong-mɔ̌ɔ dě?",
   "ໂຮງໝໍຢູ່ໄກ ຕ້ອງຂີ່ລົດ": "Hóong-mɔ̌ɔ yùu kǎy. Tâɔng khìi lōt.",
   "ຮ້ານອາຫານລາວມີບໍ": "Hȁan-ǎa-hǎan láaw míi bɔ̌ɔ?",
   "ມີຫຼາຍເລີຍ": "Míi lǎay lɤ́ɤy!",
-  "ຕະຫຼາດ": "tā-lȁat",
+  "ຕະຫຼາດ": "tá-lȁat",
   "ວັດ": "wāt",
   "ໂຮງໝໍ": "Hóong-mɔ̌ɔ",
   "ຮ້ານອາຫານ": "hȁan-ǎa-hǎan",
@@ -657,5 +657,5 @@
   "ໃສ": "sǎy",
   "ບໍ": "bɔ̌ɔ"
  },
- "suivi": "LEÇON : 10 — Partie B (Lire et écrire, A0→A1) · Consonnes de classe basse (2)\nOBJECTIF : Lire ຟ ມ ຣ ລ ວ ຮ et reconnaître des noms de lieux en ville.\nNOTION : ມີ, « il y a »\nVOCAB : Tā-lȁat, Wāt, Hóong-mɔ̌ɔ, Hȁan-ǎa-hǎan, Kâay, Kǎy, Míi, Lōt, Fáy, Mʉ́ang\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 11 — Syllabes vivantes et mortes"
+ "suivi": "LEÇON : 10 — Partie B (Lire et écrire, A0→A1) · Consonnes de classe basse (2)\nOBJECTIF : Lire ຟ ມ ຣ ລ ວ ຮ et reconnaître des noms de lieux en ville.\nNOTION : ມີ, « il y a »\nVOCAB : Tá-lȁat, Wāt, Hóong-mɔ̌ɔ, Hȁan-ǎa-hǎan, Kâay, Kǎy, Míi, Lōt, Fáy, Mʉ́ang\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 11 — Syllabes vivantes et mortes"
 }

@@ -1,0 +1,522 @@
+{
+ "num": 79,
+ "phase": "Partie E · S'exprimer (cours en lao)",
+ "title": "L'argent",
+ "objective": "Gérer une situation à la banque : ouvrir un compte, retirer, changer.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>soi-même <small class=\"muted\">(leçon 78)</small></li><li>faire des mérites <small class=\"muted\">(leçon 76)</small></li><li>discuter <small class=\"muted\">(leçon 72)</small></li><li>beaucoup de choses <small class=\"muted\">(leçon 65)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຕົວເອງ</span> <span class=\"rom\">Tǔa-ěeng</span> · soi-même</li><li><span class=\"lo\">ທຳບຸນ</span> <span class=\"rom\">Thám-bǔn</span> · faire des mérites</li><li><span class=\"lo\">ລົມ</span> <span class=\"rom\">Lóm</span> · discuter</li><li><span class=\"lo\">ຫຼາຍຢ່າງ</span> <span class=\"rom\">Lǎay yàang</span> · beaucoup de choses</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Gérer une situation à la banque : ouvrir un compte, retirer, changer.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara à la banque.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍຢາກເປີດບັນຊີ</span></div></div><div class=\"line\"><span class=\"who\">ພະນັກງານ</span><div><span class=\"lo\">ມີໜັງສືຜ່ານແດນບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ມີ ແລ້ວແລກເງິນເອີໂຣໄດ້ບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ພະນັກງານ</span><div><span class=\"lo\">ໄດ້ ອັດຕາມື້ນີ້ຢູ່ໜ້າຈໍ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Khɔ̂ɔy yȁak pɤ̏ɤt bǎn-síi.</span><br><span class=\"rom\">Míi nǎng-sʉ̌ʉ-phàan-dɛ̌ɛn bɔ̌ɔ?</span><br><span class=\"rom\">Míi. Lɛ̏ɛw lɛ̂ɛk ngɤ́n ɤ̌ɤ-lóo dâay bɔ̌ɔ?</span><br><span class=\"rom\">Dâay. Át-tǎa mʉ̂ʉ-nȉi yùu nâa jɔ̌ɔ.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Je voudrais ouvrir un compte.<br><b>L&#x27;employé</b> — Vous avez votre passeport ?<br><b>Clara</b> — Oui. Et je peux changer des euros ?<br><b>L&#x27;employé</b> — Oui. Le taux du jour est à l&#x27;écran.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que veut faire Clara ?</li></ol><details><summary>Réponses</summary><ol><li>Ouvrir un compte et changer des euros.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ບັນຊີ</td><td class=\"rom\">Bǎn-síi</td><td>compte</td><td></td></tr><tr><td class=\"lo\">ເປີດບັນຊີ</td><td class=\"rom\">Pɤ̏ɤt bǎn-síi</td><td>ouvrir un compte</td><td></td></tr><tr><td class=\"lo\">ຖອນເງິນ</td><td class=\"rom\">Thɔ̌ɔn ngɤ́n</td><td>retirer de l&#x27;argent</td><td></td></tr><tr><td class=\"lo\">ຝາກເງິນ</td><td class=\"rom\">Fȁak ngɤ́n</td><td>déposer de l&#x27;argent</td><td></td></tr><tr><td class=\"lo\">ແລກເງິນ</td><td class=\"rom\">Lɛ̂ɛk ngɤ́n</td><td>changer de l&#x27;argent</td><td></td></tr><tr><td class=\"lo\">ອັດຕາ</td><td class=\"rom\">Át-tǎa</td><td>taux</td><td></td></tr><tr><td class=\"lo\">ໜັງສືຜ່ານແດນ</td><td class=\"rom\">Nǎng-sʉ̌ʉ-phàan-dɛ̌ɛn</td><td>passeport</td><td></td></tr><tr><td class=\"lo\">ບັດ</td><td class=\"rom\">Bāt</td><td>carte</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : le vocabulaire administratif",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຂໍເປີດບັນຊີ</span> <span class=\"rom\">Khɔ̌ɔ pɤ̏ɤt bǎn-síi</span> = demander l&#x27;ouverture d&#x27;un compte</li><li><span class=\"lo\">ຕ້ອງໃຊ້ເອກະສານຫຍັງແດ່?</span> <span class=\"rom\">Tâɔng sȁy ēek-kā-sǎan nyǎng dɛ̀ɛ?</span> = il faut quels documents ?</li></ul><details><summary>La règle</summary><p>Dans l'administration, on utilise des mots plus formels (ເອກະສານ, ໜັງສືຜ່ານແດນ) et la demande polie ຂໍ.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les mots de la banque.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Je voudrais ouvrir un compte.</li><li>Il faut quels documents ?</li><li>Je voudrais changer des euros.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້ອຍຢາກເປີດບັນຊີ</span> <span class=\"rom\">Khɔ̂ɔy yȁak pɤ̏ɤt bǎn-síi.</span></li><li><span class=\"lo\">ຕ້ອງໃຊ້ເອກະສານຫຍັງແດ່?</span> <span class=\"rom\">Tâɔng sȁy ēek-kā-sǎan nyǎng dɛ̀ɛ?</span></li><li><span class=\"lo\">ຂ້ອຍຢາກແລກເງິນເອີໂຣ</span> <span class=\"rom\">Khɔ̂ɔy yȁak lɛ̂ɛk ngɤ́n ɤ̌ɤ-lóo.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris le dialogue d&#x27;un retrait d&#x27;argent qui pose problème.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Joue une scène à la banque avec un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>11 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l79-v01",
+   "front": "ບັນຊີ",
+   "back": "Bǎn-síi · compte"
+  },
+  {
+   "id": "l79-v02",
+   "front": "ເປີດບັນຊີ",
+   "back": "Pɤ̏ɤt bǎn-síi · ouvrir un compte"
+  },
+  {
+   "id": "l79-v03",
+   "front": "ຖອນເງິນ",
+   "back": "Thɔ̌ɔn ngɤ́n · retirer de l'argent"
+  },
+  {
+   "id": "l79-v04",
+   "front": "ຝາກເງິນ",
+   "back": "Fȁak ngɤ́n · déposer de l'argent"
+  },
+  {
+   "id": "l79-v05",
+   "front": "ແລກເງິນ",
+   "back": "Lɛ̂ɛk ngɤ́n · changer de l'argent"
+  },
+  {
+   "id": "l79-v06",
+   "front": "ອັດຕາ",
+   "back": "Át-tǎa · taux"
+  },
+  {
+   "id": "l79-v07",
+   "front": "ໜັງສືຜ່ານແດນ",
+   "back": "Nǎng-sʉ̌ʉ-phàan-dɛ̌ɛn · passeport"
+  },
+  {
+   "id": "l79-v08",
+   "front": "ບັດ",
+   "back": "Bāt · carte"
+  },
+  {
+   "id": "l79-p01",
+   "front": "Je voudrais ouvrir un compte.",
+   "back": "ຂ້ອຍຢາກເປີດບັນຊີ · Khɔ̂ɔy yȁak pɤ̏ɤt bǎn-síi."
+  },
+  {
+   "id": "l79-p02",
+   "front": "Il faut quels documents ?",
+   "back": "ຕ້ອງໃຊ້ເອກະສານຫຍັງແດ່? · Tâɔng sȁy ēek-kā-sǎan nyǎng dɛ̀ɛ?"
+  },
+  {
+   "id": "l79-p03",
+   "front": "Je voudrais changer des euros.",
+   "back": "ຂ້ອຍຢາກແລກເງິນເອີໂຣ · Khɔ̂ɔy yȁak lɛ̂ɛk ngɤ́n ɤ̌ɤ-lóo."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ບັນຊີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "compte",
+      "taux",
+      "déposer de l'argent",
+      "retirer de l'argent"
+     ],
+     "answer": "compte",
+     "reveal": "<i>Bǎn-síi</i>"
+    },
+    {
+     "audio": [
+      "ເປີດບັນຊີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ouvrir un compte",
+      "déposer de l'argent",
+      "retirer de l'argent",
+      "taux"
+     ],
+     "answer": "ouvrir un compte",
+     "reveal": "<i>Pɤ̏ɤt bǎn-síi</i>"
+    },
+    {
+     "audio": [
+      "ຖອນເງິນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "retirer de l'argent",
+      "déposer de l'argent",
+      "taux",
+      "ouvrir un compte"
+     ],
+     "answer": "retirer de l'argent",
+     "reveal": "<i>Thɔ̌ɔn ngɤ́n</i>"
+    },
+    {
+     "audio": [
+      "ຝາກເງິນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "déposer de l'argent",
+      "retirer de l'argent",
+      "compte",
+      "carte"
+     ],
+     "answer": "déposer de l'argent",
+     "reveal": "<i>Fȁak ngɤ́n</i>"
+    },
+    {
+     "audio": [
+      "ແລກເງິນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "changer de l'argent",
+      "passeport",
+      "ouvrir un compte",
+      "retirer de l'argent"
+     ],
+     "answer": "changer de l'argent",
+     "reveal": "<i>Lɛ̂ɛk ngɤ́n</i>"
+    },
+    {
+     "audio": [
+      "ອັດຕາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "taux",
+      "déposer de l'argent",
+      "retirer de l'argent",
+      "carte"
+     ],
+     "answer": "taux",
+     "reveal": "<i>Át-tǎa</i>"
+    },
+    {
+     "audio": [
+      "ໜັງສືຜ່ານແດນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "passeport",
+      "carte",
+      "taux",
+      "retirer de l'argent"
+     ],
+     "answer": "passeport",
+     "reveal": "<i>Nǎng-sʉ̌ʉ-phàan-dɛ̌ɛn</i>"
+    },
+    {
+     "audio": [
+      "ບັດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "carte",
+      "compte",
+      "changer de l'argent",
+      "passeport"
+     ],
+     "answer": "carte",
+     "reveal": "<i>Bāt</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້ອຍຢາກເປີດບັນຊີ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je voudrais ouvrir un compte.",
+      "Vous avez votre passeport ?",
+      "Oui. Le taux du jour est à l'écran.",
+      "Oui. Et je peux changer des euros ?"
+     ],
+     "answer": "Je voudrais ouvrir un compte.",
+     "reveal": "<i>Khɔ̂ɔy yȁak pɤ̏ɤt bǎn-síi.</i>"
+    },
+    {
+     "audio": [
+      "ມີໜັງສືຜ່ານແດນບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Vous avez votre passeport ?",
+      "Oui. Le taux du jour est à l'écran.",
+      "Oui. Et je peux changer des euros ?",
+      "Je voudrais ouvrir un compte."
+     ],
+     "answer": "Vous avez votre passeport ?",
+     "reveal": "<i>Míi nǎng-sʉ̌ʉ-phàan-dɛ̌ɛn bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ມີ ແລ້ວແລກເງິນເອີໂຣໄດ້ບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oui. Et je peux changer des euros ?",
+      "Je voudrais ouvrir un compte.",
+      "Vous avez votre passeport ?",
+      "Oui. Le taux du jour est à l'écran."
+     ],
+     "answer": "Oui. Et je peux changer des euros ?",
+     "reveal": "<i>Míi. Lɛ̏ɛw lɛ̂ɛk ngɤ́n ɤ̌ɤ-lóo dâay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້ ອັດຕາມື້ນີ້ຢູ່ໜ້າຈໍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oui. Le taux du jour est à l'écran.",
+      "Oui. Et je peux changer des euros ?",
+      "Vous avez votre passeport ?",
+      "Je voudrais ouvrir un compte."
+     ],
+     "answer": "Oui. Le taux du jour est à l'écran.",
+     "reveal": "<i>Dâay. Át-tǎa mʉ̂ʉ-nȉi yùu nâa jɔ̌ɔ.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້ອຍຢາກເປີດບັນຊີ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je voudrais ouvrir un compte.",
+      "Je voudrais changer des euros.",
+      "Il faut quels documents ?"
+     ],
+     "answer": "Je voudrais ouvrir un compte.",
+     "reveal": "<i>Khɔ̂ɔy yȁak pɤ̏ɤt bǎn-síi.</i>"
+    },
+    {
+     "audio": [
+      "ຕ້ອງໃຊ້ເອກະສານຫຍັງແດ່?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il faut quels documents ?",
+      "Je voudrais ouvrir un compte.",
+      "Je voudrais changer des euros."
+     ],
+     "answer": "Il faut quels documents ?",
+     "reveal": "<i>Tâɔng sȁy ēek-kā-sǎan nyǎng dɛ̀ɛ?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຢາກແລກເງິນເອີໂຣ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je voudrais changer des euros.",
+      "Je voudrais ouvrir un compte.",
+      "Il faut quels documents ?"
+     ],
+     "answer": "Je voudrais changer des euros.",
+     "reveal": "<i>Khɔ̂ɔy yȁak lɛ̂ɛk ngɤ́n ɤ̌ɤ-lóo.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ບັນຊີ",
+   "rom": "Bǎn-síi",
+   "fr": "compte",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເປີດບັນຊີ",
+   "rom": "Pɤ̏ɤt bǎn-síi",
+   "fr": "ouvrir un compte",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຖອນເງິນ",
+   "rom": "Thɔ̌ɔn ngɤ́n",
+   "fr": "retirer de l'argent",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຝາກເງິນ",
+   "rom": "Fȁak ngɤ́n",
+   "fr": "déposer de l'argent",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແລກເງິນ",
+   "rom": "Lɛ̂ɛk ngɤ́n",
+   "fr": "changer de l'argent",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອັດຕາ",
+   "rom": "Át-tǎa",
+   "fr": "taux",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໜັງສືຜ່ານແດນ",
+   "rom": "Nǎng-sʉ̌ʉ-phàan-dɛ̌ɛn",
+   "fr": "passeport",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບັດ",
+   "rom": "Bāt",
+   "fr": "carte",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຢາກເປີດບັນຊີ",
+   "rom": "Khɔ̂ɔy yȁak pɤ̏ɤt bǎn-síi.",
+   "fr": "Je voudrais ouvrir un compte.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕ້ອງໃຊ້ເອກະສານຫຍັງແດ່?",
+   "rom": "Tâɔng sȁy ēek-kā-sǎan nyǎng dɛ̀ɛ?",
+   "fr": "Il faut quels documents ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຢາກແລກເງິນເອີໂຣ",
+   "rom": "Khɔ̂ɔy yȁak lɛ̂ɛk ngɤ́n ɤ̌ɤ-lóo.",
+   "fr": "Je voudrais changer des euros.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຢາກ",
+    "ເປີດ",
+    "ບັນຊີ"
+   ],
+   "rom": "Khɔ̂ɔy yȁak pɤ̏ɤt bǎn-síi.",
+   "fr": "Je voudrais ouvrir un compte."
+  },
+  {
+   "tokens": [
+    "ຕ້ອງ",
+    "ໃຊ້",
+    "ເອກະສານ",
+    "ຫຍັງ",
+    "ແດ່"
+   ],
+   "rom": "Tâɔng sȁy ēek-kā-sǎan nyǎng dɛ̀ɛ?",
+   "fr": "Il faut quels documents ?"
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຢາກ",
+    "ແລກ",
+    "ເງິນ",
+    "ເອີໂຣ"
+   ],
+   "rom": "Khɔ̂ɔy yȁak lɛ̂ɛk ngɤ́n ɤ̌ɤ-lóo.",
+   "fr": "Je voudrais changer des euros."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ບັນຊີ",
+   "rom": "Bǎn-síi",
+   "fr": "compte"
+  },
+  {
+   "lao": "ເປີດບັນຊີ",
+   "rom": "Pɤ̏ɤt bǎn-síi",
+   "fr": "ouvrir un compte"
+  },
+  {
+   "lao": "ຖອນເງິນ",
+   "rom": "Thɔ̌ɔn ngɤ́n",
+   "fr": "retirer de l'argent"
+  },
+  {
+   "lao": "ຝາກເງິນ",
+   "rom": "Fȁak ngɤ́n",
+   "fr": "déposer de l'argent"
+  },
+  {
+   "lao": "ແລກເງິນ",
+   "rom": "Lɛ̂ɛk ngɤ́n",
+   "fr": "changer de l'argent"
+  },
+  {
+   "lao": "ອັດຕາ",
+   "rom": "Át-tǎa",
+   "fr": "taux"
+  },
+  {
+   "lao": "ໜັງສືຜ່ານແດນ",
+   "rom": "Nǎng-sʉ̌ʉ-phàan-dɛ̌ɛn",
+   "fr": "passeport"
+  },
+  {
+   "lao": "ບັດ",
+   "rom": "Bāt",
+   "fr": "carte"
+  }
+ ],
+ "sounds": {
+  "ຕົວເອງ": "Tǔa-ěeng",
+  "ທຳບຸນ": "Thám-bǔn",
+  "ລົມ": "Lóm",
+  "ຫຼາຍຢ່າງ": "Lǎay yàang",
+  "ຂ້ອຍຢາກເປີດບັນຊີ": "Khɔ̂ɔy yȁak pɤ̏ɤt bǎn-síi.",
+  "ມີໜັງສືຜ່ານແດນບໍ": "Míi nǎng-sʉ̌ʉ-phàan-dɛ̌ɛn bɔ̌ɔ?",
+  "ມີ ແລ້ວແລກເງິນເອີໂຣໄດ້ບໍ": "Míi. Lɛ̏ɛw lɛ̂ɛk ngɤ́n ɤ̌ɤ-lóo dâay bɔ̌ɔ?",
+  "ໄດ້ ອັດຕາມື້ນີ້ຢູ່ໜ້າຈໍ": "Dâay. Át-tǎa mʉ̂ʉ-nȉi yùu nâa jɔ̌ɔ.",
+  "ບັນຊີ": "bǎn-síi",
+  "ເປີດບັນຊີ": "Pɤ̏ɤt bǎn-síi",
+  "ຖອນເງິນ": "Thɔ̌ɔn ngɤ́n",
+  "ຝາກເງິນ": "Fȁak ngɤ́n",
+  "ແລກເງິນ": "Lɛ̂ɛk ngɤ́n",
+  "ອັດຕາ": "Át-tǎa",
+  "ໜັງສືຜ່ານແດນ": "Nǎng-sʉ̌ʉ-phàan-dɛ̌ɛn",
+  "ບັດ": "Bāt",
+  "ຂໍເປີດບັນຊີ": "Khɔ̌ɔ pɤ̏ɤt bǎn-síi",
+  "ຕ້ອງໃຊ້ເອກະສານຫຍັງແດ່": "Tâɔng sȁy ēek-kā-sǎan nyǎng dɛ̀ɛ?",
+  "ຂ້ອຍຢາກແລກເງິນເອີໂຣ": "Khɔ̂ɔy yȁak lɛ̂ɛk ngɤ́n ɤ̌ɤ-lóo.",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ຢາກ": "yȁak",
+  "ເປີດ": "pɤ̏ɤt",
+  "ຕ້ອງ": "tâɔng",
+  "ໃຊ້": "sȁy",
+  "ເອກະສານ": "ēek-kā-sǎan",
+  "ຫຍັງ": "nyǎng",
+  "ແດ່": "dɛ̀ɛ",
+  "ແລກ": "lɛ̂ɛk",
+  "ເງິນ": "ngɤ́n",
+  "ເອີໂຣ": "ɤ̌ɤ-lóo"
+ },
+ "suivi": "LEÇON : 79 — Partie E (S'exprimer (cours en lao), B1) · L'argent\nOBJECTIF : Gérer une situation à la banque : ouvrir un compte, retirer, changer.\nNOTION : le vocabulaire administratif\nVOCAB : Bǎn-síi, Pɤ̏ɤt bǎn-síi, Thɔ̌ɔn ngɤ́n, Fȁak ngɤ́n, Lɛ̂ɛk ngɤ́n, Át-tǎa, Nǎng-sʉ̌ʉ-phàan-dɛ̌ɛn, Bāt\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 80 — La ville et la campagne"
+}

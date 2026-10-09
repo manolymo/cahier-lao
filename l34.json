@@ -27,11 +27,11 @@
   },
   {
    "title": "Vocabulaire et blocs",
-   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຂອງ</td><td class=\"rom\">Khɔ̌ɔng</td><td>de (possession) ; chose</td><td></td></tr><tr><td class=\"lo\">ຂອງໃຜ</td><td class=\"rom\">Khɔ̌ɔng phǎy</td><td>à qui ?</td><td></td></tr><tr><td class=\"lo\">ຂອງຂ້ອຍ</td><td class=\"rom\">Khɔ̌ɔng khɔ̂ɔy</td><td>à moi, le mien</td><td></td></tr><tr><td class=\"lo\">ໂທລະສັບ</td><td class=\"rom\">Thóo-lā-sāp</td><td>téléphone</td><td></td></tr><tr><td class=\"lo\">ກະເປົາ</td><td class=\"rom\">Kā-pǎo</td><td>sac</td><td></td></tr><tr><td class=\"lo\">ກະແຈ</td><td class=\"rom\">Kā-jɛ̌ɛ</td><td>clé</td><td></td></tr><tr><td class=\"lo\">ປຶ້ມ</td><td class=\"rom\">Pɤ̂m</td><td>livre, cahier</td><td></td></tr><tr><td class=\"lo\">ເທິງ</td><td class=\"rom\">Thɤ́ng</td><td>sur</td><td></td></tr><tr><td class=\"lo\">ພຸ້ນ</td><td class=\"rom\">Phȕn</td><td>là-bas (loin)</td><td></td></tr><tr><td class=\"lo\">ເຄື່ອງ</td><td class=\"rom\">Khʉ̄ang</td><td>affaires, objets</td><td></td></tr></table></div>"
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຂອງ</td><td class=\"rom\">Khɔ̌ɔng</td><td>de (possession) ; chose</td><td></td></tr><tr><td class=\"lo\">ຂອງໃຜ</td><td class=\"rom\">Khɔ̌ɔng phǎy</td><td>à qui ?</td><td></td></tr><tr><td class=\"lo\">ຂອງຂ້ອຍ</td><td class=\"rom\">Khɔ̌ɔng khɔ̂ɔy</td><td>à moi, le mien</td><td></td></tr><tr><td class=\"lo\">ໂທລະສັບ</td><td class=\"rom\">Thóo-lā-sāp</td><td>téléphone</td><td></td></tr><tr><td class=\"lo\">ກະເປົາ</td><td class=\"rom\">Ká-pǎo</td><td>sac</td><td></td></tr><tr><td class=\"lo\">ກະແຈ</td><td class=\"rom\">Ká-jɛ̌ɛ</td><td>clé</td><td></td></tr><tr><td class=\"lo\">ປຶ້ມ</td><td class=\"rom\">Pɤ̂m</td><td>livre, cahier</td><td></td></tr><tr><td class=\"lo\">ເທິງ</td><td class=\"rom\">Thɤ́ng</td><td>sur</td><td></td></tr><tr><td class=\"lo\">ພຸ້ນ</td><td class=\"rom\">Phȕn</td><td>là-bas (loin)</td><td></td></tr><tr><td class=\"lo\">ເຄື່ອງ</td><td class=\"rom\">Khʉ̄ang</td><td>affaires, objets</td><td></td></tr></table></div>"
   },
   {
    "title": "Point de langue : la possession avec ຂອງ",
-   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ກະເປົາຂອງຂ້ອຍ</span> <span class=\"rom\">Kā-pǎo khɔ̌ɔng khɔ̂ɔy</span> = mon sac</li><li><span class=\"lo\">ຂອງໃຜ?</span> <span class=\"rom\">Khɔ̌ɔng phǎy?</span> = à qui ?</li><li><span class=\"lo\">ແມ່ນຂອງພໍ່</span> <span class=\"rom\">Mɛ̄ɛn khɔ̌ɔng phɔ̄ɔ</span> = c&#x27;est à papa</li></ul><p><b>À toi de trouver :</b></p><ol><li>Où se place le possesseur ?</li></ol><details><summary>La règle</summary><p>Objet + ຂອງ + possesseur = l'objet de quelqu'un. ຂອງ peut être omis dans les relations proches : ແມ່ຂ້ອຍ = ma mère.</p></details>"
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ກະເປົາຂອງຂ້ອຍ</span> <span class=\"rom\">Ká-pǎo khɔ̌ɔng khɔ̂ɔy</span> = mon sac</li><li><span class=\"lo\">ຂອງໃຜ?</span> <span class=\"rom\">Khɔ̌ɔng phǎy?</span> = à qui ?</li><li><span class=\"lo\">ແມ່ນຂອງພໍ່</span> <span class=\"rom\">Mɛ̄ɛn khɔ̌ɔng phɔ̄ɔ</span> = c&#x27;est à papa</li></ul><p><b>À toi de trouver :</b></p><ol><li>Où se place le possesseur ?</li></ol><details><summary>La règle</summary><p>Objet + ຂອງ + possesseur = l'objet de quelqu'un. ຂອງ peut être omis dans les relations proches : ແມ່ຂ້ອຍ = ma mère.</p></details>"
   },
   {
    "title": "Écoute",
@@ -39,7 +39,7 @@
   },
   {
    "title": "Expression orale",
-   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>À qui est ce sac ?</li><li>C&#x27;est à moi.</li><li>Ce n&#x27;est pas le mien.</li><li>Où sont mes clés ?</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ກະເປົານີ້ແມ່ນຂອງໃຜ?</span> <span class=\"rom\">Kā-pǎo nȉi mɛ̄ɛn khɔ̌ɔng phǎy?</span></li><li><span class=\"lo\">ແມ່ນຂອງຂ້ອຍ</span> <span class=\"rom\">Mɛ̄ɛn khɔ̌ɔng khɔ̂ɔy.</span></li><li><span class=\"lo\">ບໍ່ແມ່ນຂອງຂ້ອຍ</span> <span class=\"rom\">Bɔ̀ɔ mɛ̄ɛn khɔ̌ɔng khɔ̂ɔy.</span></li><li><span class=\"lo\">ກະແຈຂອງຂ້ອຍຢູ່ໃສ?</span> <span class=\"rom\">Kā-jɛ̌ɛ khɔ̌ɔng khɔ̂ɔy yùu sǎy?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>À qui est ce sac ?</li><li>C&#x27;est à moi.</li><li>Ce n&#x27;est pas le mien.</li><li>Où sont mes clés ?</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ກະເປົານີ້ແມ່ນຂອງໃຜ?</span> <span class=\"rom\">Ká-pǎo nȉi mɛ̄ɛn khɔ̌ɔng phǎy?</span></li><li><span class=\"lo\">ແມ່ນຂອງຂ້ອຍ</span> <span class=\"rom\">Mɛ̄ɛn khɔ̌ɔng khɔ̂ɔy.</span></li><li><span class=\"lo\">ບໍ່ແມ່ນຂອງຂ້ອຍ</span> <span class=\"rom\">Bɔ̀ɔ mɛ̄ɛn khɔ̌ɔng khɔ̂ɔy.</span></li><li><span class=\"lo\">ກະແຈຂອງຂ້ອຍຢູ່ໃສ?</span> <span class=\"rom\">Ká-jɛ̌ɛ khɔ̌ɔng khɔ̂ɔy yùu sǎy?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
   },
   {
    "title": "Expression écrite",
@@ -78,12 +78,12 @@
   {
    "id": "l34-v05",
    "front": "ກະເປົາ",
-   "back": "Kā-pǎo · sac"
+   "back": "Ká-pǎo · sac"
   },
   {
    "id": "l34-v06",
    "front": "ກະແຈ",
-   "back": "Kā-jɛ̌ɛ · clé"
+   "back": "Ká-jɛ̌ɛ · clé"
   },
   {
    "id": "l34-v07",
@@ -108,7 +108,7 @@
   {
    "id": "l34-p01",
    "front": "À qui est ce sac ?",
-   "back": "ກະເປົານີ້ແມ່ນຂອງໃຜ? · Kā-pǎo nȉi mɛ̄ɛn khɔ̌ɔng phǎy?"
+   "back": "ກະເປົານີ້ແມ່ນຂອງໃຜ? · Ká-pǎo nȉi mɛ̄ɛn khɔ̌ɔng phǎy?"
   },
   {
    "id": "l34-p02",
@@ -123,7 +123,7 @@
   {
    "id": "l34-p04",
    "front": "Où sont mes clés ?",
-   "back": "ກະແຈຂອງຂ້ອຍຢູ່ໃສ? · Kā-jɛ̌ɛ khɔ̌ɔng khɔ̂ɔy yùu sǎy?"
+   "back": "ກະແຈຂອງຂ້ອຍຢູ່ໃສ? · Ká-jɛ̌ɛ khɔ̌ɔng khɔ̂ɔy yùu sǎy?"
   }
  ],
  "listening": [
@@ -200,7 +200,7 @@
       "clé"
      ],
      "answer": "sac",
-     "reveal": "<i>Kā-pǎo</i>"
+     "reveal": "<i>Ká-pǎo</i>"
     },
     {
      "audio": [
@@ -214,7 +214,7 @@
       "livre, cahier"
      ],
      "answer": "clé",
-     "reveal": "<i>Kā-jɛ̌ɛ</i>"
+     "reveal": "<i>Ká-jɛ̌ɛ</i>"
     },
     {
      "audio": [
@@ -369,7 +369,7 @@
       "Ce n'est pas le mien."
      ],
      "answer": "À qui est ce sac ?",
-     "reveal": "<i>Kā-pǎo nȉi mɛ̄ɛn khɔ̌ɔng phǎy?</i>"
+     "reveal": "<i>Ká-pǎo nȉi mɛ̄ɛn khɔ̌ɔng phǎy?</i>"
     },
     {
      "audio": [
@@ -411,7 +411,7 @@
       "C'est à moi."
      ],
      "answer": "Où sont mes clés ?",
-     "reveal": "<i>Kā-jɛ̌ɛ khɔ̌ɔng khɔ̂ɔy yùu sǎy?</i>"
+     "reveal": "<i>Ká-jɛ̌ɛ khɔ̌ɔng khɔ̂ɔy yùu sǎy?</i>"
     }
    ]
   }
@@ -443,13 +443,13 @@
   },
   {
    "lao": "ກະເປົາ",
-   "rom": "Kā-pǎo",
+   "rom": "Ká-pǎo",
    "fr": "sac",
    "kind": "phrase"
   },
   {
    "lao": "ກະແຈ",
-   "rom": "Kā-jɛ̌ɛ",
+   "rom": "Ká-jɛ̌ɛ",
    "fr": "clé",
    "kind": "phrase"
   },
@@ -479,7 +479,7 @@
   },
   {
    "lao": "ກະເປົານີ້ແມ່ນຂອງໃຜ?",
-   "rom": "Kā-pǎo nȉi mɛ̄ɛn khɔ̌ɔng phǎy?",
+   "rom": "Ká-pǎo nȉi mɛ̄ɛn khɔ̌ɔng phǎy?",
    "fr": "À qui est ce sac ?",
    "kind": "phrase"
   },
@@ -497,7 +497,7 @@
   },
   {
    "lao": "ກະແຈຂອງຂ້ອຍຢູ່ໃສ?",
-   "rom": "Kā-jɛ̌ɛ khɔ̌ɔng khɔ̂ɔy yùu sǎy?",
+   "rom": "Ká-jɛ̌ɛ khɔ̌ɔng khɔ̂ɔy yùu sǎy?",
    "fr": "Où sont mes clés ?",
    "kind": "phrase"
   }
@@ -511,7 +511,7 @@
     "ຂອງ",
     "ໃຜ"
    ],
-   "rom": "Kā-pǎo nȉi mɛ̄ɛn khɔ̌ɔng phǎy?",
+   "rom": "Ká-pǎo nȉi mɛ̄ɛn khɔ̌ɔng phǎy?",
    "fr": "À qui est ce sac ?"
   },
   {
@@ -541,7 +541,7 @@
     "ຢູ່",
     "ໃສ"
    ],
-   "rom": "Kā-jɛ̌ɛ khɔ̌ɔng khɔ̂ɔy yùu sǎy?",
+   "rom": "Ká-jɛ̌ɛ khɔ̌ɔng khɔ̂ɔy yùu sǎy?",
    "fr": "Où sont mes clés ?"
   }
  ],
@@ -568,12 +568,12 @@
   },
   {
    "lao": "ກະເປົາ",
-   "rom": "Kā-pǎo",
+   "rom": "Ká-pǎo",
    "fr": "sac"
   },
   {
    "lao": "ກະແຈ",
-   "rom": "Kā-jɛ̌ɛ",
+   "rom": "Ká-jɛ̌ɛ",
    "fr": "clé"
   },
   {
@@ -611,16 +611,16 @@
   "ຂອງໃຜ": "Khɔ̌ɔng phǎy?",
   "ຂອງຂ້ອຍ": "Khɔ̌ɔng khɔ̂ɔy",
   "ໂທລະສັບ": "Thóo-lā-sāp",
-  "ກະເປົາ": "kā-pǎo",
-  "ກະແຈ": "kā-jɛ̌ɛ",
+  "ກະເປົາ": "ká-pǎo",
+  "ກະແຈ": "ká-jɛ̌ɛ",
   "ປຶ້ມ": "Pɤ̂m",
   "ເທິງ": "Thɤ́ng",
   "ພຸ້ນ": "Phȕn",
   "ເຄື່ອງ": "Khʉ̄ang",
-  "ກະເປົາຂອງຂ້ອຍ": "Kā-pǎo khɔ̌ɔng khɔ̂ɔy",
-  "ກະເປົານີ້ແມ່ນຂອງໃຜ": "Kā-pǎo nȉi mɛ̄ɛn khɔ̌ɔng phǎy?",
+  "ກະເປົາຂອງຂ້ອຍ": "Ká-pǎo khɔ̌ɔng khɔ̂ɔy",
+  "ກະເປົານີ້ແມ່ນຂອງໃຜ": "Ká-pǎo nȉi mɛ̄ɛn khɔ̌ɔng phǎy?",
   "ແມ່ນຂອງຂ້ອຍ": "Mɛ̄ɛn khɔ̌ɔng khɔ̂ɔy.",
-  "ກະແຈຂອງຂ້ອຍຢູ່ໃສ": "Kā-jɛ̌ɛ khɔ̌ɔng khɔ̂ɔy yùu sǎy?",
+  "ກະແຈຂອງຂ້ອຍຢູ່ໃສ": "Ká-jɛ̌ɛ khɔ̌ɔng khɔ̂ɔy yùu sǎy?",
   "ນີ້": "nȉi",
   "ແມ່ນ": "mɛ̄ɛn",
   "ໃຜ": "phǎy",
@@ -629,5 +629,5 @@
   "ຢູ່": "yùu",
   "ໃສ": "sǎy"
  },
- "suivi": "LEÇON : 34 — Partie C (Vie courante, A1) · À qui est-ce ?\nOBJECTIF : Exprimer la possession et parler de tes affaires.\nNOTION : la possession avec ຂອງ\nVOCAB : Khɔ̌ɔng, Khɔ̌ɔng phǎy, Khɔ̌ɔng khɔ̂ɔy, Thóo-lā-sāp, Kā-pǎo, Kā-jɛ̌ɛ, Pɤ̂m, Thɤ́ng, Phȕn, Khʉ̄ang\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 35 — Décrire"
+ "suivi": "LEÇON : 34 — Partie C (Vie courante, A1) · À qui est-ce ?\nOBJECTIF : Exprimer la possession et parler de tes affaires.\nNOTION : la possession avec ຂອງ\nVOCAB : Khɔ̌ɔng, Khɔ̌ɔng phǎy, Khɔ̌ɔng khɔ̂ɔy, Thóo-lā-sāp, Ká-pǎo, Ká-jɛ̌ɛ, Pɤ̂m, Thɤ́ng, Phȕn, Khʉ̄ang\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 35 — Décrire"
 }

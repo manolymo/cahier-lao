@@ -1,0 +1,613 @@
+{
+ "num": 66,
+ "phase": "Partie E · S'exprimer (cours en lao)",
+ "title": "Je pense que…",
+ "objective": "Donner ton avis sur un film ou un livre, et demander celui des autres.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>beaucoup de choses <small class=\"muted\">(leçon 65)</small></li><li>demander la permission <small class=\"muted\">(leçon 63)</small></li><li>fin, minutieux <small class=\"muted\">(leçon 59)</small></li><li>étudiant <small class=\"muted\">(leçon 52)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຫຼາຍຢ່າງ</span> <span class=\"rom\">Lǎay yàang</span> · beaucoup de choses</li><li><span class=\"lo\">ຂໍອະນຸຍາດ</span> <span class=\"rom\">Khɔ̌ɔ á-nū-nyâat</span> · demander la permission</li><li><span class=\"lo\">ລະອຽດ</span> <span class=\"rom\">Lā-ȉat</span> · fin, minutieux</li><li><span class=\"lo\">ນັກສຶກສາ</span> <span class=\"rom\">Nāk-sʉ̄k-sǎa</span> · étudiant</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Donner ton avis sur un film ou un livre, et demander celui des autres.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Noy et Clara sortent du cinéma.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເຈົ້າຄິດວ່າໜັງເລື່ອງນີ້ເປັນແນວໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍຄິດວ່າມ່ວນດີ ແຕ່ຍາວໂພດ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຂ້ອຍເຫັນວ່າຕອນຈົບເສົ້າຫຼາຍ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແມ່ນ ຂ້ອຍເກືອບຮ້ອງໄຫ້</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ໂດຍລວມແລ້ວໃຫ້ຈັກຄະແນນ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແປດເຕັມສິບ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Jâo khīt wāa nǎng lʉ̄ang nȉi pěn nɛ́ɛw-dǎy?</span><br><span class=\"rom\">Khɔ̂ɔy khīt wāa mūan dǐi, tɛ̀ɛ nyáaw phôot.</span><br><span class=\"rom\">Khɔ̂ɔy hěn wāa tɔ̌ɔn jóp sâo lǎay.</span><br><span class=\"rom\">Mɛ̄ɛn. Khɔ̂ɔy kʉ̏ap hȍɔng-hâay.</span><br><span class=\"rom\">Dóoy lúam lɛ̏ɛw hây ják khā-nɛ́ɛn?</span><br><span class=\"rom\">Pɛ̏ɛt těm sīp.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Tu as trouvé ce film comment ?<br><b>Clara</b> — Je pense qu&#x27;il était bien, mais trop long.<br><b>Noy</b> — Moi, je trouve que la fin était très triste.<br><b>Clara</b> — C&#x27;est vrai. J&#x27;ai failli pleurer.<br><b>Noy</b> — Au final, tu lui donnes combien ?<br><b>Clara</b> — Huit sur dix.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Qu&#x27;a pensé Clara du film ?</li><li>Qu&#x27;est-ce qui a ému Noy ?</li><li>Quelle note donne Clara ?</li></ol><details><summary>Réponses</summary><ol><li>Bien mais trop long.</li><li>La fin, très triste.</li><li>8/10.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຄິດວ່າ</td><td class=\"rom\">Khīt wāa</td><td>penser que</td><td></td></tr><tr><td class=\"lo\">ເຫັນວ່າ</td><td class=\"rom\">Hěn wāa</td><td>trouver que, estimer</td><td></td></tr><tr><td class=\"lo\">ຕາມຄວາມຄິດຂອງຂ້ອຍ</td><td class=\"rom\">Tǎam khwáam khīt khɔ̌ɔng khɔ̂ɔy</td><td>à mon avis</td><td></td></tr><tr><td class=\"lo\">ເລື່ອງ</td><td class=\"rom\">Lʉ̄ang</td><td>histoire ; classif. des films</td><td></td></tr><tr><td class=\"lo\">ຕອນຈົບ</td><td class=\"rom\">Tɔ̌ɔn jóp</td><td>la fin</td><td></td></tr><tr><td class=\"lo\">ເສົ້າ</td><td class=\"rom\">Sâo</td><td>triste</td><td></td></tr><tr><td class=\"lo\">ເກືອບ</td><td class=\"rom\">Kʉ̏ap</td><td>presque, faillir</td><td></td></tr><tr><td class=\"lo\">ໂດຍລວມແລ້ວ</td><td class=\"rom\">Dóoy lúam lɛ̏ɛw</td><td>dans l&#x27;ensemble</td><td></td></tr><tr><td class=\"lo\">ຄະແນນ</td><td class=\"rom\">Khā-nɛ́ɛn</td><td>note, points</td><td></td></tr><tr><td class=\"lo\">ເຕັມ</td><td class=\"rom\">Těm</td><td>plein, sur (note)</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : exprimer une opinion",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຂ້ອຍຄິດວ່າ</span> <span class=\"rom\">Khɔ̂ɔy khīt wāa…</span> = je pense que…</li><li><span class=\"lo\">ຕາມຄວາມຄິດຂອງຂ້ອຍ</span> <span class=\"rom\">Tǎam khwáam khīt khɔ̌ɔng khɔ̂ɔy…</span> = à mon avis…</li><li><span class=\"lo\">ເຈົ້າຄິດແນວໃດ?</span> <span class=\"rom\">Jâo khīt nɛ́ɛw-dǎy?</span> = qu&#x27;en penses-tu ?</li></ul><p><b>À toi de trouver :</b></p><ol><li>Quelle différence de nuance entre ຄິດວ່າ et ເຫັນວ່າ ?</li></ol><details><summary>La règle</summary><p>ຄິດວ່າ = penser (opinion), ເຫັນວ່າ = trouver, estimer (jugement à partir de ce qu'on a vu). On demande l'avis avec ຄິດແນວໃດ ?</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les introductions d&#x27;opinion.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Qu&#x27;en penses-tu ?</li><li>À mon avis, c&#x27;était trop long.</li><li>J&#x27;ai failli pleurer.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເຈົ້າຄິດແນວໃດ?</span> <span class=\"rom\">Jâo khīt nɛ́ɛw-dǎy?</span></li><li><span class=\"lo\">ຕາມຄວາມຄິດຂອງຂ້ອຍຍາວໂພດ</span> <span class=\"rom\">Tǎam khwáam khīt khɔ̌ɔng khɔ̂ɔy nyáaw phôot.</span></li><li><span class=\"lo\">ຂ້ອຍເກືອບຮ້ອງໄຫ້</span> <span class=\"rom\">Khɔ̂ɔy kʉ̏ap hȍɔng-hâay.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris une critique de 8 phrases d&#x27;un film que tu as vu.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Donne ton avis sur un film ou une série à un natif et demande le sien.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>13 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l66-v01",
+   "front": "ຄິດວ່າ",
+   "back": "Khīt wāa · penser que"
+  },
+  {
+   "id": "l66-v02",
+   "front": "ເຫັນວ່າ",
+   "back": "Hěn wāa · trouver que, estimer"
+  },
+  {
+   "id": "l66-v03",
+   "front": "ຕາມຄວາມຄິດຂອງຂ້ອຍ",
+   "back": "Tǎam khwáam khīt khɔ̌ɔng khɔ̂ɔy · à mon avis"
+  },
+  {
+   "id": "l66-v04",
+   "front": "ເລື່ອງ",
+   "back": "Lʉ̄ang · histoire ; classif. des films"
+  },
+  {
+   "id": "l66-v05",
+   "front": "ຕອນຈົບ",
+   "back": "Tɔ̌ɔn jóp · la fin"
+  },
+  {
+   "id": "l66-v06",
+   "front": "ເສົ້າ",
+   "back": "Sâo · triste"
+  },
+  {
+   "id": "l66-v07",
+   "front": "ເກືອບ",
+   "back": "Kʉ̏ap · presque, faillir"
+  },
+  {
+   "id": "l66-v08",
+   "front": "ໂດຍລວມແລ້ວ",
+   "back": "Dóoy lúam lɛ̏ɛw · dans l'ensemble"
+  },
+  {
+   "id": "l66-v09",
+   "front": "ຄະແນນ",
+   "back": "Khā-nɛ́ɛn · note, points"
+  },
+  {
+   "id": "l66-v10",
+   "front": "ເຕັມ",
+   "back": "Těm · plein, sur (note)"
+  },
+  {
+   "id": "l66-p01",
+   "front": "Qu'en penses-tu ?",
+   "back": "ເຈົ້າຄິດແນວໃດ? · Jâo khīt nɛ́ɛw-dǎy?"
+  },
+  {
+   "id": "l66-p02",
+   "front": "À mon avis, c'était trop long.",
+   "back": "ຕາມຄວາມຄິດຂອງຂ້ອຍຍາວໂພດ · Tǎam khwáam khīt khɔ̌ɔng khɔ̂ɔy nyáaw phôot."
+  },
+  {
+   "id": "l66-p03",
+   "front": "J'ai failli pleurer.",
+   "back": "ຂ້ອຍເກືອບຮ້ອງໄຫ້ · Khɔ̂ɔy kʉ̏ap hȍɔng-hâay."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຄິດວ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "penser que",
+      "histoire ; classif. des films",
+      "plein, sur (note)",
+      "presque, faillir"
+     ],
+     "answer": "penser que",
+     "reveal": "<i>Khīt wāa</i>"
+    },
+    {
+     "audio": [
+      "ເຫັນວ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "trouver que, estimer",
+      "triste",
+      "presque, faillir",
+      "plein, sur (note)"
+     ],
+     "answer": "trouver que, estimer",
+     "reveal": "<i>Hěn wāa</i>"
+    },
+    {
+     "audio": [
+      "ຕາມຄວາມຄິດຂອງຂ້ອຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "à mon avis",
+      "triste",
+      "plein, sur (note)",
+      "dans l'ensemble"
+     ],
+     "answer": "à mon avis",
+     "reveal": "<i>Tǎam khwáam khīt khɔ̌ɔng khɔ̂ɔy</i>"
+    },
+    {
+     "audio": [
+      "ເລື່ອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "histoire ; classif. des films",
+      "triste",
+      "penser que",
+      "note, points"
+     ],
+     "answer": "histoire ; classif. des films",
+     "reveal": "<i>Lʉ̄ang</i>"
+    },
+    {
+     "audio": [
+      "ຕອນຈົບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "la fin",
+      "plein, sur (note)",
+      "note, points",
+      "dans l'ensemble"
+     ],
+     "answer": "la fin",
+     "reveal": "<i>Tɔ̌ɔn jóp</i>"
+    },
+    {
+     "audio": [
+      "ເສົ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "triste",
+      "dans l'ensemble",
+      "à mon avis",
+      "note, points"
+     ],
+     "answer": "triste",
+     "reveal": "<i>Sâo</i>"
+    },
+    {
+     "audio": [
+      "ເກືອບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "presque, faillir",
+      "trouver que, estimer",
+      "plein, sur (note)",
+      "histoire ; classif. des films"
+     ],
+     "answer": "presque, faillir",
+     "reveal": "<i>Kʉ̏ap</i>"
+    },
+    {
+     "audio": [
+      "ໂດຍລວມແລ້ວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "dans l'ensemble",
+      "à mon avis",
+      "presque, faillir",
+      "note, points"
+     ],
+     "answer": "dans l'ensemble",
+     "reveal": "<i>Dóoy lúam lɛ̏ɛw</i>"
+    },
+    {
+     "audio": [
+      "ຄະແນນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "note, points",
+      "histoire ; classif. des films",
+      "à mon avis",
+      "triste"
+     ],
+     "answer": "note, points",
+     "reveal": "<i>Khā-nɛ́ɛn</i>"
+    },
+    {
+     "audio": [
+      "ເຕັມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "plein, sur (note)",
+      "la fin",
+      "à mon avis",
+      "dans l'ensemble"
+     ],
+     "answer": "plein, sur (note)",
+     "reveal": "<i>Těm</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເຈົ້າຄິດວ່າໜັງເລື່ອງນີ້ເປັນແນວໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu as trouvé ce film comment ?",
+      "Moi, je trouve que la fin était très triste.",
+      "C'est vrai. J'ai failli pleurer.",
+      "Au final, tu lui donnes combien ?"
+     ],
+     "answer": "Tu as trouvé ce film comment ?",
+     "reveal": "<i>Jâo khīt wāa nǎng lʉ̄ang nȉi pěn nɛ́ɛw-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຄິດວ່າມ່ວນດີ ແຕ່ຍາວໂພດ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je pense qu'il était bien, mais trop long.",
+      "Moi, je trouve que la fin était très triste.",
+      "Huit sur dix.",
+      "C'est vrai. J'ai failli pleurer."
+     ],
+     "answer": "Je pense qu'il était bien, mais trop long.",
+     "reveal": "<i>Khɔ̂ɔy khīt wāa mūan dǐi, tɛ̀ɛ nyáaw phôot.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍເຫັນວ່າຕອນຈົບເສົ້າຫຼາຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Moi, je trouve que la fin était très triste.",
+      "Au final, tu lui donnes combien ?",
+      "Tu as trouvé ce film comment ?",
+      "C'est vrai. J'ai failli pleurer."
+     ],
+     "answer": "Moi, je trouve que la fin était très triste.",
+     "reveal": "<i>Khɔ̂ɔy hěn wāa tɔ̌ɔn jóp sâo lǎay.</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນ ຂ້ອຍເກືອບຮ້ອງໄຫ້"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'est vrai. J'ai failli pleurer.",
+      "Au final, tu lui donnes combien ?",
+      "Huit sur dix.",
+      "Je pense qu'il était bien, mais trop long."
+     ],
+     "answer": "C'est vrai. J'ai failli pleurer.",
+     "reveal": "<i>Mɛ̄ɛn. Khɔ̂ɔy kʉ̏ap hȍɔng-hâay.</i>"
+    },
+    {
+     "audio": [
+      "ໂດຍລວມແລ້ວໃຫ້ຈັກຄະແນນ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Au final, tu lui donnes combien ?",
+      "C'est vrai. J'ai failli pleurer.",
+      "Tu as trouvé ce film comment ?",
+      "Je pense qu'il était bien, mais trop long."
+     ],
+     "answer": "Au final, tu lui donnes combien ?",
+     "reveal": "<i>Dóoy lúam lɛ̏ɛw hây ják khā-nɛ́ɛn?</i>"
+    },
+    {
+     "audio": [
+      "ແປດເຕັມສິບ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Huit sur dix.",
+      "Moi, je trouve que la fin était très triste.",
+      "Je pense qu'il était bien, mais trop long.",
+      "Tu as trouvé ce film comment ?"
+     ],
+     "answer": "Huit sur dix.",
+     "reveal": "<i>Pɛ̏ɛt těm sīp.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເຈົ້າຄິດແນວໃດ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Qu'en penses-tu ?",
+      "J'ai failli pleurer.",
+      "À mon avis, c'était trop long."
+     ],
+     "answer": "Qu'en penses-tu ?",
+     "reveal": "<i>Jâo khīt nɛ́ɛw-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ຕາມຄວາມຄິດຂອງຂ້ອຍຍາວໂພດ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "À mon avis, c'était trop long.",
+      "J'ai failli pleurer.",
+      "Qu'en penses-tu ?"
+     ],
+     "answer": "À mon avis, c'était trop long.",
+     "reveal": "<i>Tǎam khwáam khīt khɔ̌ɔng khɔ̂ɔy nyáaw phôot.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍເກືອບຮ້ອງໄຫ້"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "J'ai failli pleurer.",
+      "Qu'en penses-tu ?",
+      "À mon avis, c'était trop long."
+     ],
+     "answer": "J'ai failli pleurer.",
+     "reveal": "<i>Khɔ̂ɔy kʉ̏ap hȍɔng-hâay.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຄິດວ່າ",
+   "rom": "Khīt wāa",
+   "fr": "penser que",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຫັນວ່າ",
+   "rom": "Hěn wāa",
+   "fr": "trouver que, estimer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕາມຄວາມຄິດຂອງຂ້ອຍ",
+   "rom": "Tǎam khwáam khīt khɔ̌ɔng khɔ̂ɔy",
+   "fr": "à mon avis",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເລື່ອງ",
+   "rom": "Lʉ̄ang",
+   "fr": "histoire ; classif. des films",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕອນຈົບ",
+   "rom": "Tɔ̌ɔn jóp",
+   "fr": "la fin",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເສົ້າ",
+   "rom": "Sâo",
+   "fr": "triste",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເກືອບ",
+   "rom": "Kʉ̏ap",
+   "fr": "presque, faillir",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂດຍລວມແລ້ວ",
+   "rom": "Dóoy lúam lɛ̏ɛw",
+   "fr": "dans l'ensemble",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄະແນນ",
+   "rom": "Khā-nɛ́ɛn",
+   "fr": "note, points",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຕັມ",
+   "rom": "Těm",
+   "fr": "plein, sur (note)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຈົ້າຄິດແນວໃດ?",
+   "rom": "Jâo khīt nɛ́ɛw-dǎy?",
+   "fr": "Qu'en penses-tu ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕາມຄວາມຄິດຂອງຂ້ອຍຍາວໂພດ",
+   "rom": "Tǎam khwáam khīt khɔ̌ɔng khɔ̂ɔy nyáaw phôot.",
+   "fr": "À mon avis, c'était trop long.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍເກືອບຮ້ອງໄຫ້",
+   "rom": "Khɔ̂ɔy kʉ̏ap hȍɔng-hâay.",
+   "fr": "J'ai failli pleurer.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ເຈົ້າ",
+    "ຄິດ",
+    "ແນວໃດ"
+   ],
+   "rom": "Jâo khīt nɛ́ɛw-dǎy?",
+   "fr": "Qu'en penses-tu ?"
+  },
+  {
+   "tokens": [
+    "ຕາມ",
+    "ຄວາມ",
+    "ຄິດ",
+    "ຂອງ",
+    "ຂ້ອຍ",
+    "ຍາວ",
+    "ໂພດ"
+   ],
+   "rom": "Tǎam khwáam khīt khɔ̌ɔng khɔ̂ɔy nyáaw phôot.",
+   "fr": "À mon avis, c'était trop long."
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ເກືອບ",
+    "ຮ້ອງໄຫ້"
+   ],
+   "rom": "Khɔ̂ɔy kʉ̏ap hȍɔng-hâay.",
+   "fr": "J'ai failli pleurer."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຄິດວ່າ",
+   "rom": "Khīt wāa",
+   "fr": "penser que"
+  },
+  {
+   "lao": "ເຫັນວ່າ",
+   "rom": "Hěn wāa",
+   "fr": "trouver que, estimer"
+  },
+  {
+   "lao": "ຕາມຄວາມຄິດຂອງຂ້ອຍ",
+   "rom": "Tǎam khwáam khīt khɔ̌ɔng khɔ̂ɔy",
+   "fr": "à mon avis"
+  },
+  {
+   "lao": "ເລື່ອງ",
+   "rom": "Lʉ̄ang",
+   "fr": "histoire ; classif. des films"
+  },
+  {
+   "lao": "ຕອນຈົບ",
+   "rom": "Tɔ̌ɔn jóp",
+   "fr": "la fin"
+  },
+  {
+   "lao": "ເສົ້າ",
+   "rom": "Sâo",
+   "fr": "triste"
+  },
+  {
+   "lao": "ເກືອບ",
+   "rom": "Kʉ̏ap",
+   "fr": "presque, faillir"
+  },
+  {
+   "lao": "ໂດຍລວມແລ້ວ",
+   "rom": "Dóoy lúam lɛ̏ɛw",
+   "fr": "dans l'ensemble"
+  },
+  {
+   "lao": "ຄະແນນ",
+   "rom": "Khā-nɛ́ɛn",
+   "fr": "note, points"
+  },
+  {
+   "lao": "ເຕັມ",
+   "rom": "Těm",
+   "fr": "plein, sur (note)"
+  }
+ ],
+ "sounds": {
+  "ຫຼາຍຢ່າງ": "Lǎay yàang",
+  "ຂໍອະນຸຍາດ": "Khɔ̌ɔ á-nū-nyâat",
+  "ລະອຽດ": "Lā-ȉat",
+  "ນັກສຶກສາ": "Nāk-sʉ̄k-sǎa",
+  "ເຈົ້າຄິດວ່າໜັງເລື່ອງນີ້ເປັນແນວໃດ": "Jâo khīt wāa nǎng lʉ̄ang nȉi pěn nɛ́ɛw-dǎy?",
+  "ຂ້ອຍຄິດວ່າມ່ວນດີ ແຕ່ຍາວໂພດ": "Khɔ̂ɔy khīt wāa mūan dǐi, tɛ̀ɛ nyáaw phôot.",
+  "ຂ້ອຍເຫັນວ່າຕອນຈົບເສົ້າຫຼາຍ": "Khɔ̂ɔy hěn wāa tɔ̌ɔn jóp sâo lǎay.",
+  "ແມ່ນ ຂ້ອຍເກືອບຮ້ອງໄຫ້": "Mɛ̄ɛn. Khɔ̂ɔy kʉ̏ap hȍɔng-hâay.",
+  "ໂດຍລວມແລ້ວໃຫ້ຈັກຄະແນນ": "Dóoy lúam lɛ̏ɛw hây ják khā-nɛ́ɛn?",
+  "ແປດເຕັມສິບ": "Pɛ̏ɛt těm sīp.",
+  "ຄິດວ່າ": "Khīt wāa",
+  "ເຫັນວ່າ": "Hěn wāa",
+  "ຕາມຄວາມຄິດຂອງຂ້ອຍ": "Tǎam khwáam khīt khɔ̌ɔng khɔ̂ɔy…",
+  "ເລື່ອງ": "Lʉ̄ang",
+  "ຕອນຈົບ": "Tɔ̌ɔn jóp",
+  "ເສົ້າ": "Sâo",
+  "ເກືອບ": "kʉ̏ap",
+  "ໂດຍລວມແລ້ວ": "Dóoy lúam lɛ̏ɛw",
+  "ຄະແນນ": "Khā-nɛ́ɛn",
+  "ເຕັມ": "Těm",
+  "ຂ້ອຍຄິດວ່າ": "Khɔ̂ɔy khīt wāa…",
+  "ເຈົ້າຄິດແນວໃດ": "Jâo khīt nɛ́ɛw-dǎy?",
+  "ຕາມຄວາມຄິດຂອງຂ້ອຍຍາວໂພດ": "Tǎam khwáam khīt khɔ̌ɔng khɔ̂ɔy nyáaw phôot.",
+  "ຂ້ອຍເກືອບຮ້ອງໄຫ້": "Khɔ̂ɔy kʉ̏ap hȍɔng-hâay.",
+  "ເຈົ້າ": "jâo",
+  "ຄິດ": "khīt",
+  "ແນວໃດ": "nɛ́ɛw-dǎy",
+  "ຕາມ": "tǎam",
+  "ຄວາມ": "khwáam",
+  "ຂອງ": "khɔ̌ɔng",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ຍາວ": "nyáaw",
+  "ໂພດ": "phôot",
+  "ຮ້ອງໄຫ້": "hȍɔng-hâay"
+ },
+ "suivi": "LEÇON : 66 — Partie E (S'exprimer (cours en lao), B1) · Je pense que…\nOBJECTIF : Donner ton avis sur un film ou un livre, et demander celui des autres.\nNOTION : exprimer une opinion\nVOCAB : Khīt wāa, Hěn wāa, Tǎam khwáam khīt khɔ̌ɔng khɔ̂ɔy, Lʉ̄ang, Tɔ̌ɔn jóp, Sâo, Kʉ̏ap, Dóoy lúam lɛ̏ɛw, Khā-nɛ́ɛn, Těm\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 67 — D'accord, pas d'accord"
+}

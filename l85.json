@@ -1,0 +1,415 @@
+{
+ "num": 85,
+ "phase": "Partie E · S'exprimer (cours en lao)",
+ "title": "Écrire un message formel",
+ "objective": "Écrire à une administration ou à un professeur.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>économie <small class=\"muted\">(leçon 84)</small></li><li>célèbre ; fort (son) <small class=\"muted\">(leçon 82)</small></li><li>soi-même <small class=\"muted\">(leçon 78)</small></li><li>se plaindre <small class=\"muted\">(leçon 71)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ເສດຖະກິດ</span> <span class=\"rom\">Sȅet-thā-kít</span> · économie</li><li><span class=\"lo\">ດັງ</span> <span class=\"rom\">Dǎng</span> · célèbre ; fort (son)</li><li><span class=\"lo\">ຕົວເອງ</span> <span class=\"rom\">Tǔa-ěeng</span> · soi-même</li><li><span class=\"lo\">ຮ້ອງຮຽນ</span> <span class=\"rom\">Hȍɔng-hían</span> · se plaindre</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Écrire à une administration ou à un professeur.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara écrit pour un visa.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຮຽນເຖິງຫົວໜ້າພະແນກ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້າພະເຈົ້າຂໍສະເໜີຕໍ່ວີຊາຕື່ມອີກໜຶ່ງປີ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂໍສະແດງຄວາມນັບຖື</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Hían thɤ̌ng hǔa-nâa phā-nɛ̂ɛk.</span><br><span class=\"rom\">Khâa-phā-jâo khɔ̌ɔ sā-něe tɔ̀ɔ wíi-sáa tʉ̀ʉm ìik nʉ̀ng pǐi.</span><br><span class=\"rom\">Khɔ̌ɔ sā-dɛ̌ɛng khwáam nāp-thʉ̌ʉ.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — À l&#x27;attention du chef de service.<br><b>Clara</b> — Je sollicite le renouvellement de mon visa pour un an.<br><b>Clara</b> — Veuillez agréer mes respectueuses salutations.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que demande Clara ?</li></ol><details><summary>Réponses</summary><ol><li>Le renouvellement de son visa pour un an.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຮຽນເຖິງ</td><td class=\"rom\">Hían thɤ̌ng</td><td>à l&#x27;attention de</td><td></td></tr><tr><td class=\"lo\">ຂ້າພະເຈົ້າ</td><td class=\"rom\">Khâa-phā-jâo</td><td>je (formel, écrit)</td><td></td></tr><tr><td class=\"lo\">ສະເໜີ</td><td class=\"rom\">Sā-něe</td><td>proposer, solliciter</td><td></td></tr><tr><td class=\"lo\">ຕໍ່ວີຊາ</td><td class=\"rom\">Tɔ̀ɔ wíi-sáa</td><td>renouveler un visa</td><td></td></tr><tr><td class=\"lo\">ຫົວໜ້າ</td><td class=\"rom\">Hǔa-nâa</td><td>chef</td><td></td></tr><tr><td class=\"lo\">ພະແນກ</td><td class=\"rom\">Phā-nɛ̂ɛk</td><td>service, département</td><td></td></tr><tr><td class=\"lo\">ຂໍສະແດງຄວາມນັບຖື</td><td class=\"rom\">Khɔ̌ɔ sā-dɛ̌ɛng khwáam nāp-thʉ̌ʉ</td><td>salutations respectueuses</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : le registre écrit formel",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຂ້າພະເຈົ້າ</span> <span class=\"rom\">Khâa-phā-jâo</span> = je (formel)</li><li><span class=\"lo\">ຮຽນເຖິງ</span> <span class=\"rom\">Hían thɤ̌ng</span> = à l&#x27;attention de</li></ul><details><summary>La règle</summary><p>À l'écrit officiel, ຂ້ອຍ devient ຂ້າພະເຈົ້າ, on ouvre par ຮຽນເຖິງ et on clôt par ຂໍສະແດງຄວາມນັບຖື. [À VÉRIFIER avec un modèle officiel]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les formules d&#x27;ouverture et de clôture.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>À l&#x27;attention du directeur.</li><li>Je sollicite…</li><li>Salutations respectueuses.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຮຽນເຖິງຫົວໜ້າ</span> <span class=\"rom\">Hían thɤ̌ng hǔa-nâa.</span></li><li><span class=\"lo\">ຂ້າພະເຈົ້າຂໍສະເໜີ</span> <span class=\"rom\">Khâa-phā-jâo khɔ̌ɔ sā-něe…</span></li><li><span class=\"lo\">ຂໍສະແດງຄວາມນັບຖື</span> <span class=\"rom\">Khɔ̌ɔ sā-dɛ̌ɛng khwáam nāp-thʉ̌ʉ.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris une lettre formelle de 8 lignes pour une demande administrative.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Fais corriger ta lettre formelle par un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>10 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l85-v01",
+   "front": "ຮຽນເຖິງ",
+   "back": "Hían thɤ̌ng · à l'attention de"
+  },
+  {
+   "id": "l85-v02",
+   "front": "ຂ້າພະເຈົ້າ",
+   "back": "Khâa-phā-jâo · je (formel, écrit)"
+  },
+  {
+   "id": "l85-v03",
+   "front": "ສະເໜີ",
+   "back": "Sā-něe · proposer, solliciter"
+  },
+  {
+   "id": "l85-v04",
+   "front": "ຕໍ່ວີຊາ",
+   "back": "Tɔ̀ɔ wíi-sáa · renouveler un visa"
+  },
+  {
+   "id": "l85-v05",
+   "front": "ຫົວໜ້າ",
+   "back": "Hǔa-nâa · chef"
+  },
+  {
+   "id": "l85-v06",
+   "front": "ພະແນກ",
+   "back": "Phā-nɛ̂ɛk · service, département"
+  },
+  {
+   "id": "l85-v07",
+   "front": "ຂໍສະແດງຄວາມນັບຖື",
+   "back": "Khɔ̌ɔ sā-dɛ̌ɛng khwáam nāp-thʉ̌ʉ · salutations respectueuses"
+  },
+  {
+   "id": "l85-p01",
+   "front": "À l'attention du directeur.",
+   "back": "ຮຽນເຖິງຫົວໜ້າ · Hían thɤ̌ng hǔa-nâa."
+  },
+  {
+   "id": "l85-p02",
+   "front": "Je sollicite…",
+   "back": "ຂ້າພະເຈົ້າຂໍສະເໜີ · Khâa-phā-jâo khɔ̌ɔ sā-něe…"
+  },
+  {
+   "id": "l85-p03",
+   "front": "Salutations respectueuses.",
+   "back": "ຂໍສະແດງຄວາມນັບຖື · Khɔ̌ɔ sā-dɛ̌ɛng khwáam nāp-thʉ̌ʉ."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຮຽນເຖິງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "à l'attention de",
+      "renouveler un visa",
+      "salutations respectueuses",
+      "chef"
+     ],
+     "answer": "à l'attention de",
+     "reveal": "<i>Hían thɤ̌ng</i>"
+    },
+    {
+     "audio": [
+      "ຂ້າພະເຈົ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "je (formel, écrit)",
+      "renouveler un visa",
+      "proposer, solliciter",
+      "salutations respectueuses"
+     ],
+     "answer": "je (formel, écrit)",
+     "reveal": "<i>Khâa-phā-jâo</i>"
+    },
+    {
+     "audio": [
+      "ສະເໜີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "proposer, solliciter",
+      "à l'attention de",
+      "salutations respectueuses",
+      "chef"
+     ],
+     "answer": "proposer, solliciter",
+     "reveal": "<i>Sā-něe</i>"
+    },
+    {
+     "audio": [
+      "ຕໍ່ວີຊາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "renouveler un visa",
+      "chef",
+      "proposer, solliciter",
+      "service, département"
+     ],
+     "answer": "renouveler un visa",
+     "reveal": "<i>Tɔ̀ɔ wíi-sáa</i>"
+    },
+    {
+     "audio": [
+      "ຫົວໜ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "chef",
+      "je (formel, écrit)",
+      "salutations respectueuses",
+      "à l'attention de"
+     ],
+     "answer": "chef",
+     "reveal": "<i>Hǔa-nâa</i>"
+    },
+    {
+     "audio": [
+      "ພະແນກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "service, département",
+      "salutations respectueuses",
+      "je (formel, écrit)",
+      "chef"
+     ],
+     "answer": "service, département",
+     "reveal": "<i>Phā-nɛ̂ɛk</i>"
+    },
+    {
+     "audio": [
+      "ຂໍສະແດງຄວາມນັບຖື"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "salutations respectueuses",
+      "à l'attention de",
+      "chef",
+      "service, département"
+     ],
+     "answer": "salutations respectueuses",
+     "reveal": "<i>Khɔ̌ɔ sā-dɛ̌ɛng khwáam nāp-thʉ̌ʉ</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຮຽນເຖິງຫົວໜ້າ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "À l'attention du directeur.",
+      "Je sollicite…",
+      "Salutations respectueuses."
+     ],
+     "answer": "À l'attention du directeur.",
+     "reveal": "<i>Hían thɤ̌ng hǔa-nâa.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້າພະເຈົ້າຂໍສະເໜີ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je sollicite…",
+      "Salutations respectueuses.",
+      "À l'attention du directeur."
+     ],
+     "answer": "Je sollicite…",
+     "reveal": "<i>Khâa-phā-jâo khɔ̌ɔ sā-něe…</i>"
+    },
+    {
+     "audio": [
+      "ຂໍສະແດງຄວາມນັບຖື"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Salutations respectueuses.",
+      "Je sollicite…",
+      "À l'attention du directeur."
+     ],
+     "answer": "Salutations respectueuses.",
+     "reveal": "<i>Khɔ̌ɔ sā-dɛ̌ɛng khwáam nāp-thʉ̌ʉ.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຮຽນເຖິງ",
+   "rom": "Hían thɤ̌ng",
+   "fr": "à l'attention de",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້າພະເຈົ້າ",
+   "rom": "Khâa-phā-jâo",
+   "fr": "je (formel, écrit)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສະເໜີ",
+   "rom": "Sā-něe",
+   "fr": "proposer, solliciter",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕໍ່ວີຊາ",
+   "rom": "Tɔ̀ɔ wíi-sáa",
+   "fr": "renouveler un visa",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫົວໜ້າ",
+   "rom": "Hǔa-nâa",
+   "fr": "chef",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພະແນກ",
+   "rom": "Phā-nɛ̂ɛk",
+   "fr": "service, département",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍສະແດງຄວາມນັບຖື",
+   "rom": "Khɔ̌ɔ sā-dɛ̌ɛng khwáam nāp-thʉ̌ʉ",
+   "fr": "salutations respectueuses",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຮຽນເຖິງຫົວໜ້າ",
+   "rom": "Hían thɤ̌ng hǔa-nâa.",
+   "fr": "À l'attention du directeur.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້າພະເຈົ້າຂໍສະເໜີ",
+   "rom": "Khâa-phā-jâo khɔ̌ɔ sā-něe…",
+   "fr": "Je sollicite…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍສະແດງຄວາມນັບຖື",
+   "rom": "Khɔ̌ɔ sā-dɛ̌ɛng khwáam nāp-thʉ̌ʉ.",
+   "fr": "Salutations respectueuses.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຮຽນ",
+    "ເຖິງ",
+    "ຫົວໜ້າ"
+   ],
+   "rom": "Hían thɤ̌ng hǔa-nâa.",
+   "fr": "À l'attention du directeur."
+  },
+  {
+   "tokens": [
+    "ຂ້າພະເຈົ້າ",
+    "ຂໍ",
+    "ສະເໜີ"
+   ],
+   "rom": "Khâa-phā-jâo khɔ̌ɔ sā-něe…",
+   "fr": "Je sollicite…"
+  },
+  {
+   "tokens": [
+    "ຂໍ",
+    "ສະແດງ",
+    "ຄວາມ",
+    "ນັບຖື"
+   ],
+   "rom": "Khɔ̌ɔ sā-dɛ̌ɛng khwáam nāp-thʉ̌ʉ.",
+   "fr": "Salutations respectueuses."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຮຽນເຖິງ",
+   "rom": "Hían thɤ̌ng",
+   "fr": "à l'attention de"
+  },
+  {
+   "lao": "ຂ້າພະເຈົ້າ",
+   "rom": "Khâa-phā-jâo",
+   "fr": "je (formel, écrit)"
+  },
+  {
+   "lao": "ສະເໜີ",
+   "rom": "Sā-něe",
+   "fr": "proposer, solliciter"
+  },
+  {
+   "lao": "ຕໍ່ວີຊາ",
+   "rom": "Tɔ̀ɔ wíi-sáa",
+   "fr": "renouveler un visa"
+  },
+  {
+   "lao": "ຫົວໜ້າ",
+   "rom": "Hǔa-nâa",
+   "fr": "chef"
+  },
+  {
+   "lao": "ພະແນກ",
+   "rom": "Phā-nɛ̂ɛk",
+   "fr": "service, département"
+  },
+  {
+   "lao": "ຂໍສະແດງຄວາມນັບຖື",
+   "rom": "Khɔ̌ɔ sā-dɛ̌ɛng khwáam nāp-thʉ̌ʉ",
+   "fr": "salutations respectueuses"
+  }
+ ],
+ "sounds": {
+  "ເສດຖະກິດ": "Sȅet-thā-kít",
+  "ດັງ": "Dǎng",
+  "ຕົວເອງ": "Tǔa-ěeng",
+  "ຮ້ອງຮຽນ": "Hȍɔng-hían",
+  "ຮຽນເຖິງຫົວໜ້າພະແນກ": "Hían thɤ̌ng hǔa-nâa phā-nɛ̂ɛk.",
+  "ຂ້າພະເຈົ້າຂໍສະເໜີຕໍ່ວີຊາຕື່ມອີກໜຶ່ງປີ": "Khâa-phā-jâo khɔ̌ɔ sā-něe tɔ̀ɔ wíi-sáa tʉ̀ʉm ìik nʉ̀ng pǐi.",
+  "ຂໍສະແດງຄວາມນັບຖື": "Khɔ̌ɔ sā-dɛ̌ɛng khwáam nāp-thʉ̌ʉ.",
+  "ຮຽນເຖິງ": "Hían thɤ̌ng",
+  "ຂ້າພະເຈົ້າ": "khâa-phā-jâo",
+  "ສະເໜີ": "sā-něe",
+  "ຕໍ່ວີຊາ": "Tɔ̀ɔ wíi-sáa",
+  "ຫົວໜ້າ": "hǔa-nâa",
+  "ພະແນກ": "Phā-nɛ̂ɛk",
+  "ຮຽນເຖິງຫົວໜ້າ": "Hían thɤ̌ng hǔa-nâa.",
+  "ຂ້າພະເຈົ້າຂໍສະເໜີ": "Khâa-phā-jâo khɔ̌ɔ sā-něe…",
+  "ຮຽນ": "hían",
+  "ເຖິງ": "thɤ̌ng",
+  "ຂໍ": "khɔ̌ɔ",
+  "ສະແດງ": "sā-dɛ̌ɛng",
+  "ຄວາມ": "khwáam",
+  "ນັບຖື": "nāp-thʉ̌ʉ"
+ },
+ "suivi": "LEÇON : 85 — Partie E (S'exprimer (cours en lao), B1) · Écrire un message formel\nOBJECTIF : Écrire à une administration ou à un professeur.\nNOTION : le registre écrit formel\nVOCAB : Hían thɤ̌ng, Khâa-phā-jâo, Sā-něe, Tɔ̀ɔ wíi-sáa, Hǔa-nâa, Phā-nɛ̂ɛk, Khɔ̌ɔ sā-dɛ̌ɛng khwáam nāp-thʉ̌ʉ\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 86 — L'histoire du Laos"
+}

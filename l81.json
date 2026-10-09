@@ -1,0 +1,451 @@
+{
+ "num": 81,
+ "phase": "Partie E · S'exprimer (cours en lao)",
+ "title": "Les particules d'attitude",
+ "objective": "Faire passer une émotion par la fin de phrase.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>calme, silencieux <small class=\"muted\">(leçon 80)</small></li><li>point fort <small class=\"muted\">(leçon 78)</small></li><li>rêver <small class=\"muted\">(leçon 74)</small></li><li>c&#x27;est vrai, mais… <small class=\"muted\">(leçon 67)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ງຽບ</span> <span class=\"rom\">Ngîap</span> · calme, silencieux</li><li><span class=\"lo\">ຈຸດແຂງ</span> <span class=\"rom\">Jút khɛ̌ɛng</span> · point fort</li><li><span class=\"lo\">ຝັນ</span> <span class=\"rom\">Fǎn</span> · rêver</li><li><span class=\"lo\">ແມ່ນຢູ່ ແຕ່</span> <span class=\"rom\">Mɛ̄ɛn yùu, tɛ̀ɛ</span> · c&#x27;est vrai, mais…</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Faire passer une émotion par la fin de phrase.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Une soirée entre amis.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ມ່ວນແທ້ນໍ!</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ເອົາອີກຈອກບໍເດ້?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ພໍແລ້ວແຫຼະ</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ໂອ້ຍ ອີກຈອກດຽວສາ!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Mūan thɛ̏ɛ nɔ́ɔ!</span><br><span class=\"rom\">Ǎo ìik jɔ̏ɔk bɔ̌ɔ dê?</span><br><span class=\"rom\">Phɔ́ɔ lɛ̏ɛw lɛ̄.</span><br><span class=\"rom\">Ôoy, ìik jɔ̏ɔk dǐaw sǎa!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Qu&#x27;est-ce qu&#x27;on s&#x27;amuse !<br><b>Kèo</b> — Allez, encore un verre ?<br><b>Clara</b> — Ça suffit, vraiment.<br><b>Kèo</b> — Oh, juste un dernier quoi !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Clara veut-elle encore boire ?</li></ol><details><summary>Réponses</summary><ol><li>Non, elle dit que ça suffit.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ນໍ</td><td class=\"rom\">Nɔ́ɔ</td><td>(exclamation, enthousiasme)</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ເດ້</td><td class=\"rom\">Dê</td><td>(insistance, invitation)</td><td></td></tr><tr><td class=\"lo\">ແຫຼະ</td><td class=\"rom\">Lɛ̄</td><td>(affirmation ferme)</td><td></td></tr><tr><td class=\"lo\">ສາ</td><td class=\"rom\">Sǎa</td><td>(impatience, insistance)</td><td></td></tr><tr><td class=\"lo\">ເນາະ</td><td class=\"rom\">Nɔ̄</td><td>(connivence)</td><td></td></tr><tr><td class=\"lo\">ພໍແລ້ວ</td><td class=\"rom\">Phɔ́ɔ lɛ̏ɛw</td><td>ça suffit</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les particules expressives",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ມ່ວນແທ້ນໍ</span> <span class=\"rom\">Mūan thɛ̏ɛ nɔ́ɔ</span> = c&#x27;est vraiment génial !</li><li><span class=\"lo\">ພໍແລ້ວແຫຼະ</span> <span class=\"rom\">Phɔ́ɔ lɛ̏ɛw lɛ̄</span> = ça suffit, je t&#x27;assure</li></ul><p><b>À toi de trouver :</b></p><ol><li>Quelle émotion porte chaque particule ?</li></ol><details><summary>La règle</summary><p>Les particules donnent la couleur émotionnelle : enthousiasme, insistance, fermeté, impatience. Elles sont typiques de l'oral. [À VÉRIFIER : nuances régionales]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> l&#x27;intonation des particules.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Ça suffit, vraiment.</li><li>Encore un verre ?</li><li>C&#x27;est génial !</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ພໍແລ້ວແຫຼະ</span> <span class=\"rom\">Phɔ́ɔ lɛ̏ɛw lɛ̄.</span></li><li><span class=\"lo\">ເອົາອີກຈອກບໍ?</span> <span class=\"rom\">Ǎo ìik jɔ̏ɔk bɔ̌ɔ?</span></li><li><span class=\"lo\">ມ່ວນແທ້ນໍ!</span> <span class=\"rom\">Mūan thɛ̏ɛ nɔ́ɔ!</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Réécris 5 phrases neutres avec une particule expressive.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Note toutes les particules dans 10 minutes d&#x27;une vidéo lao et demande leur sens à un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>9 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l81-v01",
+   "front": "ນໍ",
+   "back": "Nɔ́ɔ · (exclamation, enthousiasme)"
+  },
+  {
+   "id": "l81-v02",
+   "front": "ເດ້",
+   "back": "Dê · (insistance, invitation)"
+  },
+  {
+   "id": "l81-v03",
+   "front": "ແຫຼະ",
+   "back": "Lɛ̄ · (affirmation ferme)"
+  },
+  {
+   "id": "l81-v04",
+   "front": "ສາ",
+   "back": "Sǎa · (impatience, insistance)"
+  },
+  {
+   "id": "l81-v05",
+   "front": "ເນາະ",
+   "back": "Nɔ̄ · (connivence)"
+  },
+  {
+   "id": "l81-v06",
+   "front": "ພໍແລ້ວ",
+   "back": "Phɔ́ɔ lɛ̏ɛw · ça suffit"
+  },
+  {
+   "id": "l81-p01",
+   "front": "Ça suffit, vraiment.",
+   "back": "ພໍແລ້ວແຫຼະ · Phɔ́ɔ lɛ̏ɛw lɛ̄."
+  },
+  {
+   "id": "l81-p02",
+   "front": "Encore un verre ?",
+   "back": "ເອົາອີກຈອກບໍ? · Ǎo ìik jɔ̏ɔk bɔ̌ɔ?"
+  },
+  {
+   "id": "l81-p03",
+   "front": "C'est génial !",
+   "back": "ມ່ວນແທ້ນໍ! · Mūan thɛ̏ɛ nɔ́ɔ!"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ນໍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "(exclamation, enthousiasme)",
+      "(connivence)",
+      "(affirmation ferme)",
+      "(insistance, invitation)"
+     ],
+     "answer": "(exclamation, enthousiasme)",
+     "reveal": "<i>Nɔ́ɔ</i>"
+    },
+    {
+     "audio": [
+      "ເດ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "(insistance, invitation)",
+      "ça suffit",
+      "(connivence)",
+      "(affirmation ferme)"
+     ],
+     "answer": "(insistance, invitation)",
+     "reveal": "<i>Dê</i>"
+    },
+    {
+     "audio": [
+      "ແຫຼະ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "(affirmation ferme)",
+      "(impatience, insistance)",
+      "(exclamation, enthousiasme)",
+      "(insistance, invitation)"
+     ],
+     "answer": "(affirmation ferme)",
+     "reveal": "<i>Lɛ̄</i>"
+    },
+    {
+     "audio": [
+      "ສາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "(impatience, insistance)",
+      "(insistance, invitation)",
+      "(exclamation, enthousiasme)",
+      "(affirmation ferme)"
+     ],
+     "answer": "(impatience, insistance)",
+     "reveal": "<i>Sǎa</i>"
+    },
+    {
+     "audio": [
+      "ເນາະ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "(connivence)",
+      "ça suffit",
+      "(exclamation, enthousiasme)",
+      "(affirmation ferme)"
+     ],
+     "answer": "(connivence)",
+     "reveal": "<i>Nɔ̄</i>"
+    },
+    {
+     "audio": [
+      "ພໍແລ້ວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ça suffit",
+      "(insistance, invitation)",
+      "(exclamation, enthousiasme)",
+      "(affirmation ferme)"
+     ],
+     "answer": "ça suffit",
+     "reveal": "<i>Phɔ́ɔ lɛ̏ɛw</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ມ່ວນແທ້ນໍ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Qu'est-ce qu'on s'amuse !",
+      "Allez, encore un verre ?",
+      "Oh, juste un dernier quoi !",
+      "Ça suffit, vraiment."
+     ],
+     "answer": "Qu'est-ce qu'on s'amuse !",
+     "reveal": "<i>Mūan thɛ̏ɛ nɔ́ɔ!</i>"
+    },
+    {
+     "audio": [
+      "ເອົາອີກຈອກບໍເດ້?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Allez, encore un verre ?",
+      "Ça suffit, vraiment.",
+      "Qu'est-ce qu'on s'amuse !",
+      "Oh, juste un dernier quoi !"
+     ],
+     "answer": "Allez, encore un verre ?",
+     "reveal": "<i>Ǎo ìik jɔ̏ɔk bɔ̌ɔ dê?</i>"
+    },
+    {
+     "audio": [
+      "ພໍແລ້ວແຫຼະ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Ça suffit, vraiment.",
+      "Oh, juste un dernier quoi !",
+      "Allez, encore un verre ?",
+      "Qu'est-ce qu'on s'amuse !"
+     ],
+     "answer": "Ça suffit, vraiment.",
+     "reveal": "<i>Phɔ́ɔ lɛ̏ɛw lɛ̄.</i>"
+    },
+    {
+     "audio": [
+      "ໂອ້ຍ ອີກຈອກດຽວສາ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oh, juste un dernier quoi !",
+      "Allez, encore un verre ?",
+      "Ça suffit, vraiment.",
+      "Qu'est-ce qu'on s'amuse !"
+     ],
+     "answer": "Oh, juste un dernier quoi !",
+     "reveal": "<i>Ôoy, ìik jɔ̏ɔk dǐaw sǎa!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ພໍແລ້ວແຫຼະ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Ça suffit, vraiment.",
+      "C'est génial !",
+      "Encore un verre ?"
+     ],
+     "answer": "Ça suffit, vraiment.",
+     "reveal": "<i>Phɔ́ɔ lɛ̏ɛw lɛ̄.</i>"
+    },
+    {
+     "audio": [
+      "ເອົາອີກຈອກບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Encore un verre ?",
+      "C'est génial !",
+      "Ça suffit, vraiment."
+     ],
+     "answer": "Encore un verre ?",
+     "reveal": "<i>Ǎo ìik jɔ̏ɔk bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ມ່ວນແທ້ນໍ!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est génial !",
+      "Encore un verre ?",
+      "Ça suffit, vraiment."
+     ],
+     "answer": "C'est génial !",
+     "reveal": "<i>Mūan thɛ̏ɛ nɔ́ɔ!</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ນໍ",
+   "rom": "Nɔ́ɔ",
+   "fr": "(exclamation, enthousiasme)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເດ້",
+   "rom": "Dê",
+   "fr": "(insistance, invitation)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແຫຼະ",
+   "rom": "Lɛ̄",
+   "fr": "(affirmation ferme)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສາ",
+   "rom": "Sǎa",
+   "fr": "(impatience, insistance)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເນາະ",
+   "rom": "Nɔ̄",
+   "fr": "(connivence)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພໍແລ້ວ",
+   "rom": "Phɔ́ɔ lɛ̏ɛw",
+   "fr": "ça suffit",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພໍແລ້ວແຫຼະ",
+   "rom": "Phɔ́ɔ lɛ̏ɛw lɛ̄.",
+   "fr": "Ça suffit, vraiment.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເອົາອີກຈອກບໍ?",
+   "rom": "Ǎo ìik jɔ̏ɔk bɔ̌ɔ?",
+   "fr": "Encore un verre ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມ່ວນແທ້ນໍ!",
+   "rom": "Mūan thɛ̏ɛ nɔ́ɔ!",
+   "fr": "C'est génial !",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ພໍ",
+    "ແລ້ວ",
+    "ແຫຼະ"
+   ],
+   "rom": "Phɔ́ɔ lɛ̏ɛw lɛ̄.",
+   "fr": "Ça suffit, vraiment."
+  },
+  {
+   "tokens": [
+    "ເອົາ",
+    "ອີກ",
+    "ຈອກ",
+    "ບໍ"
+   ],
+   "rom": "Ǎo ìik jɔ̏ɔk bɔ̌ɔ?",
+   "fr": "Encore un verre ?"
+  },
+  {
+   "tokens": [
+    "ມ່ວນ",
+    "ແທ້",
+    "ນໍ"
+   ],
+   "rom": "Mūan thɛ̏ɛ nɔ́ɔ!",
+   "fr": "C'est génial !"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ນໍ",
+   "rom": "Nɔ́ɔ",
+   "fr": "(exclamation, enthousiasme)"
+  },
+  {
+   "lao": "ເດ້",
+   "rom": "Dê",
+   "fr": "(insistance, invitation)"
+  },
+  {
+   "lao": "ແຫຼະ",
+   "rom": "Lɛ̄",
+   "fr": "(affirmation ferme)"
+  },
+  {
+   "lao": "ສາ",
+   "rom": "Sǎa",
+   "fr": "(impatience, insistance)"
+  },
+  {
+   "lao": "ເນາະ",
+   "rom": "Nɔ̄",
+   "fr": "(connivence)"
+  },
+  {
+   "lao": "ພໍແລ້ວ",
+   "rom": "Phɔ́ɔ lɛ̏ɛw",
+   "fr": "ça suffit"
+  }
+ ],
+ "sounds": {
+  "ງຽບ": "Ngîap",
+  "ຈຸດແຂງ": "Jút khɛ̌ɛng",
+  "ຝັນ": "Fǎn",
+  "ແມ່ນຢູ່ ແຕ່": "Mɛ̄ɛn yùu, tɛ̀ɛ",
+  "ມ່ວນແທ້ນໍ": "Mūan thɛ̏ɛ nɔ́ɔ!",
+  "ເອົາອີກຈອກບໍເດ້": "Ǎo ìik jɔ̏ɔk bɔ̌ɔ dê?",
+  "ພໍແລ້ວແຫຼະ": "Phɔ́ɔ lɛ̏ɛw lɛ̄.",
+  "ໂອ້ຍ ອີກຈອກດຽວສາ": "Ôoy, ìik jɔ̏ɔk dǐaw sǎa!",
+  "ນໍ": "nɔ́ɔ",
+  "ເດ້": "Dê",
+  "ແຫຼະ": "lɛ̄",
+  "ສາ": "Sǎa",
+  "ເນາະ": "Nɔ̄",
+  "ພໍແລ້ວ": "Phɔ́ɔ lɛ̏ɛw",
+  "ເອົາອີກຈອກບໍ": "Ǎo ìik jɔ̏ɔk bɔ̌ɔ?",
+  "ພໍ": "phɔ́ɔ",
+  "ແລ້ວ": "lɛ̏ɛw",
+  "ເອົາ": "ǎo",
+  "ອີກ": "ìik",
+  "ຈອກ": "jɔ̏ɔk",
+  "ບໍ": "bɔ̌ɔ",
+  "ມ່ວນ": "mūan",
+  "ແທ້": "thɛ̏ɛ"
+ },
+ "suivi": "LEÇON : 81 — Partie E (S'exprimer (cours en lao), B1) · Les particules d'attitude\nOBJECTIF : Faire passer une émotion par la fin de phrase.\nNOTION : les particules expressives\nVOCAB : Nɔ́ɔ, Dê, Lɛ̄, Sǎa, Nɔ̄, Phɔ́ɔ lɛ̏ɛw\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 82 — Écouter une chanson"
+}

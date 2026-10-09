@@ -25,7 +25,7 @@ def esc(s):
 def toks(s):
     return [t for t in s.split("|") if t != ""]
 
-PUNCT = set("?!.,…")
+PUNCT = set("?!.,…«»-")
 
 def lao(s):
     """« ສະບາຍດີ|ບໍ|? » → texte lao affiché (sans séparateurs, espace entre les phrases)."""
@@ -33,7 +33,9 @@ def lao(s):
     out = ""
     for i, t in enumerate(tl):
         last = i == len(tl) - 1
-        if t in ("?", "!"):
+        if t in ("«", "»", "-"):
+            out += t
+        elif t in ("?", "!"):
             out += t + ("" if last else " ")
         elif t in (".", ",", "…"):
             out += "" if last else " "
@@ -51,7 +53,7 @@ def rom(s):
             if words:
                 words[-1] += t
             continue
-        if t == "_":
+        if t in ("_", "«", "»", "-"):
             continue
         if t == "ໆ" and words:
             words.append(words[-1])

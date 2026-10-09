@@ -1,0 +1,484 @@
+{
+ "num": 73,
+ "phase": "Partie E · S'exprimer (cours en lao)",
+ "title": "Conseiller",
+ "objective": "Donner et demander un conseil.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>petit(e) ami(e) <small class=\"muted\">(leçon 72)</small></li><li>aide-moi à… <small class=\"muted\">(leçon 70)</small></li><li>histoire ; classif. des films <small class=\"muted\">(leçon 66)</small></li><li>citron vert <small class=\"muted\">(leçon 59)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ແຟນ</span> <span class=\"rom\">Fɛ́ɛn</span> · petit(e) ami(e)</li><li><span class=\"lo\">ຊ່ວຍ ໃຫ້ແດ່</span> <span class=\"rom\">Sūay… hây dɛ̀ɛ</span> · aide-moi à…</li><li><span class=\"lo\">ເລື່ອງ</span> <span class=\"rom\">Lʉ̄ang</span> · histoire ; classif. des films</li><li><span class=\"lo\">ໝາກນາວ</span> <span class=\"rom\">Mȁak-náaw</span> · citron vert</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Donner et demander un conseil.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Kèo hésite sur ses études.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຂ້ອຍບໍ່ຮູ້ວ່າຈະຮຽນຫຍັງດີ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຈົ້າມັກຫຍັງ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ມັກຄອມພິວເຕີ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຈົ້າຄວນຮຽນສິ່ງທີ່ເຈົ້າມັກ</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ແຕ່ພໍ່ຢາກໃຫ້ຂ້ອຍເປັນທ່ານໝໍ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ລອງລົມກັບພໍ່ເບິ່ງ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Khɔ̂ɔy bɔ̀ɔ hȕu wāa já hían nyǎng dǐi.</span><br><span class=\"rom\">Jâo māk nyǎng?</span><br><span class=\"rom\">Māk khɔ́ɔm-phíw-tɤ̂ɤ.</span><br><span class=\"rom\">Jâo khúan hían sìng thīi jâo māk.</span><br><span class=\"rom\">Tɛ̀ɛ phɔ̄ɔ yȁak hây khɔ̂ɔy pěn thāan-mɔ̌ɔ.</span><br><span class=\"rom\">Lɔ́ɔng lóm kǎp phɔ̄ɔ bɤ̀ng.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Kèo</b> — Je ne sais pas quoi étudier.<br><b>Clara</b> — Qu&#x27;est-ce que tu aimes ?<br><b>Kèo</b> — J&#x27;aime l&#x27;informatique.<br><b>Clara</b> — Tu devrais étudier ce que tu aimes.<br><b>Kèo</b> — Mais papa veut que je sois médecin.<br><b>Clara</b> — Essaie d&#x27;en parler avec lui.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Qu&#x27;aime Kèo ?</li><li>Que conseille Clara ?</li></ol><details><summary>Réponses</summary><ol><li>L&#x27;informatique.</li><li>D&#x27;étudier ce qu&#x27;il aime et d&#x27;en parler à son père.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຄວນ</td><td class=\"rom\">Khúan</td><td>devoir (conseil), il faudrait</td><td></td></tr><tr><td class=\"lo\">ບໍ່ຄວນ</td><td class=\"rom\">Bɔ̀ɔ khúan</td><td>il ne faudrait pas</td><td></td></tr><tr><td class=\"lo\">ລອງ ເບິ່ງ</td><td class=\"rom\">Lɔ́ɔng… bɤ̀ng</td><td>essaie de…</td><td></td></tr><tr><td class=\"lo\">ດີກວ່າ</td><td class=\"rom\">Dǐi kwàa</td><td>il vaut mieux</td><td></td></tr><tr><td class=\"lo\">ສິ່ງທີ່</td><td class=\"rom\">Sìng thīi</td><td>ce que</td><td></td></tr><tr><td class=\"lo\">ແນະນຳ</td><td class=\"rom\">Nɛ̄-nǎm</td><td>conseiller, recommander</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : donner un conseil",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ເຈົ້າຄວນ</span> <span class=\"rom\">Jâo khúan…</span> = tu devrais…</li><li><span class=\"lo\">ລອງລົມເບິ່ງ</span> <span class=\"rom\">Lɔ́ɔng lóm bɤ̀ng</span> = essaie d&#x27;en parler</li><li><span class=\"lo\">ໄປຫາທ່ານໝໍດີກວ່າ</span> <span class=\"rom\">Pǎy hǎa thāan-mɔ̌ɔ dǐi kwàa</span> = il vaut mieux aller voir un médecin</li></ul><p><b>À toi de trouver :</b></p><ol><li>Quelles structures servent à conseiller ?</li></ol><details><summary>La règle</summary><p>ຄວນ + verbe (tu devrais), ລອງ + verbe + ເບິ່ງ (essaie de), … ດີກວ່າ (il vaut mieux).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> ຄວນ et ລອງ…ເບິ່ງ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Tu devrais te reposer.</li><li>Essaie d&#x27;en parler.</li><li>Il vaut mieux y aller.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເຈົ້າຄວນພັກຜ່ອນ</span> <span class=\"rom\">Jâo khúan phāk-phɔ̀ɔn.</span></li><li><span class=\"lo\">ລອງລົມເບິ່ງ</span> <span class=\"rom\">Lɔ́ɔng lóm bɤ̀ng.</span></li><li><span class=\"lo\">ໄປດີກວ່າ</span> <span class=\"rom\">Pǎy dǐi kwàa.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Donne 5 conseils à un ami qui arrive au Laos.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Demande un conseil à un natif sur un vrai problème et discutez-en.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>9 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l73-v01",
+   "front": "ຄວນ",
+   "back": "Khúan · devoir (conseil), il faudrait"
+  },
+  {
+   "id": "l73-v02",
+   "front": "ບໍ່ຄວນ",
+   "back": "Bɔ̀ɔ khúan · il ne faudrait pas"
+  },
+  {
+   "id": "l73-v03",
+   "front": "ລອງ ເບິ່ງ",
+   "back": "Lɔ́ɔng… bɤ̀ng · essaie de…"
+  },
+  {
+   "id": "l73-v04",
+   "front": "ດີກວ່າ",
+   "back": "Dǐi kwàa · il vaut mieux"
+  },
+  {
+   "id": "l73-v05",
+   "front": "ສິ່ງທີ່",
+   "back": "Sìng thīi · ce que"
+  },
+  {
+   "id": "l73-v06",
+   "front": "ແນະນຳ",
+   "back": "Nɛ̄-nǎm · conseiller, recommander"
+  },
+  {
+   "id": "l73-p01",
+   "front": "Tu devrais te reposer.",
+   "back": "ເຈົ້າຄວນພັກຜ່ອນ · Jâo khúan phāk-phɔ̀ɔn."
+  },
+  {
+   "id": "l73-p02",
+   "front": "Essaie d'en parler.",
+   "back": "ລອງລົມເບິ່ງ · Lɔ́ɔng lóm bɤ̀ng."
+  },
+  {
+   "id": "l73-p03",
+   "front": "Il vaut mieux y aller.",
+   "back": "ໄປດີກວ່າ · Pǎy dǐi kwàa."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຄວນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "devoir (conseil), il faudrait",
+      "ce que",
+      "conseiller, recommander",
+      "il vaut mieux"
+     ],
+     "answer": "devoir (conseil), il faudrait",
+     "reveal": "<i>Khúan</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ຄວນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "il ne faudrait pas",
+      "essaie de…",
+      "il vaut mieux",
+      "devoir (conseil), il faudrait"
+     ],
+     "answer": "il ne faudrait pas",
+     "reveal": "<i>Bɔ̀ɔ khúan</i>"
+    },
+    {
+     "audio": [
+      "ລອງ ເບິ່ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "essaie de…",
+      "il vaut mieux",
+      "devoir (conseil), il faudrait",
+      "conseiller, recommander"
+     ],
+     "answer": "essaie de…",
+     "reveal": "<i>Lɔ́ɔng… bɤ̀ng</i>"
+    },
+    {
+     "audio": [
+      "ດີກວ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "il vaut mieux",
+      "ce que",
+      "devoir (conseil), il faudrait",
+      "essaie de…"
+     ],
+     "answer": "il vaut mieux",
+     "reveal": "<i>Dǐi kwàa</i>"
+    },
+    {
+     "audio": [
+      "ສິ່ງທີ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ce que",
+      "conseiller, recommander",
+      "devoir (conseil), il faudrait",
+      "il ne faudrait pas"
+     ],
+     "answer": "ce que",
+     "reveal": "<i>Sìng thīi</i>"
+    },
+    {
+     "audio": [
+      "ແນະນຳ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "conseiller, recommander",
+      "essaie de…",
+      "ce que",
+      "il ne faudrait pas"
+     ],
+     "answer": "conseiller, recommander",
+     "reveal": "<i>Nɛ̄-nǎm</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້ອຍບໍ່ຮູ້ວ່າຈະຮຽນຫຍັງດີ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je ne sais pas quoi étudier.",
+      "J'aime l'informatique.",
+      "Essaie d'en parler avec lui.",
+      "Tu devrais étudier ce que tu aimes."
+     ],
+     "answer": "Je ne sais pas quoi étudier.",
+     "reveal": "<i>Khɔ̂ɔy bɔ̀ɔ hȕu wāa já hían nyǎng dǐi.</i>"
+    },
+    {
+     "audio": [
+      "ເຈົ້າມັກຫຍັງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Qu'est-ce que tu aimes ?",
+      "Mais papa veut que je sois médecin.",
+      "Tu devrais étudier ce que tu aimes.",
+      "Je ne sais pas quoi étudier."
+     ],
+     "answer": "Qu'est-ce que tu aimes ?",
+     "reveal": "<i>Jâo māk nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ມັກຄອມພິວເຕີ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "J'aime l'informatique.",
+      "Mais papa veut que je sois médecin.",
+      "Qu'est-ce que tu aimes ?",
+      "Tu devrais étudier ce que tu aimes."
+     ],
+     "answer": "J'aime l'informatique.",
+     "reveal": "<i>Māk khɔ́ɔm-phíw-tɤ̂ɤ.</i>"
+    },
+    {
+     "audio": [
+      "ເຈົ້າຄວນຮຽນສິ່ງທີ່ເຈົ້າມັກ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu devrais étudier ce que tu aimes.",
+      "Je ne sais pas quoi étudier.",
+      "J'aime l'informatique.",
+      "Essaie d'en parler avec lui."
+     ],
+     "answer": "Tu devrais étudier ce que tu aimes.",
+     "reveal": "<i>Jâo khúan hían sìng thīi jâo māk.</i>"
+    },
+    {
+     "audio": [
+      "ແຕ່ພໍ່ຢາກໃຫ້ຂ້ອຍເປັນທ່ານໝໍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Mais papa veut que je sois médecin.",
+      "Essaie d'en parler avec lui.",
+      "Qu'est-ce que tu aimes ?",
+      "Tu devrais étudier ce que tu aimes."
+     ],
+     "answer": "Mais papa veut que je sois médecin.",
+     "reveal": "<i>Tɛ̀ɛ phɔ̄ɔ yȁak hây khɔ̂ɔy pěn thāan-mɔ̌ɔ.</i>"
+    },
+    {
+     "audio": [
+      "ລອງລົມກັບພໍ່ເບິ່ງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Essaie d'en parler avec lui.",
+      "Qu'est-ce que tu aimes ?",
+      "Tu devrais étudier ce que tu aimes.",
+      "J'aime l'informatique."
+     ],
+     "answer": "Essaie d'en parler avec lui.",
+     "reveal": "<i>Lɔ́ɔng lóm kǎp phɔ̄ɔ bɤ̀ng.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເຈົ້າຄວນພັກຜ່ອນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tu devrais te reposer.",
+      "Il vaut mieux y aller.",
+      "Essaie d'en parler."
+     ],
+     "answer": "Tu devrais te reposer.",
+     "reveal": "<i>Jâo khúan phāk-phɔ̀ɔn.</i>"
+    },
+    {
+     "audio": [
+      "ລອງລົມເບິ່ງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Essaie d'en parler.",
+      "Il vaut mieux y aller.",
+      "Tu devrais te reposer."
+     ],
+     "answer": "Essaie d'en parler.",
+     "reveal": "<i>Lɔ́ɔng lóm bɤ̀ng.</i>"
+    },
+    {
+     "audio": [
+      "ໄປດີກວ່າ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il vaut mieux y aller.",
+      "Tu devrais te reposer.",
+      "Essaie d'en parler."
+     ],
+     "answer": "Il vaut mieux y aller.",
+     "reveal": "<i>Pǎy dǐi kwàa.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຄວນ",
+   "rom": "Khúan",
+   "fr": "devoir (conseil), il faudrait",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ຄວນ",
+   "rom": "Bɔ̀ɔ khúan",
+   "fr": "il ne faudrait pas",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລອງ ເບິ່ງ",
+   "rom": "Lɔ́ɔng… bɤ̀ng",
+   "fr": "essaie de…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ດີກວ່າ",
+   "rom": "Dǐi kwàa",
+   "fr": "il vaut mieux",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສິ່ງທີ່",
+   "rom": "Sìng thīi",
+   "fr": "ce que",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແນະນຳ",
+   "rom": "Nɛ̄-nǎm",
+   "fr": "conseiller, recommander",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຈົ້າຄວນພັກຜ່ອນ",
+   "rom": "Jâo khúan phāk-phɔ̀ɔn.",
+   "fr": "Tu devrais te reposer.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລອງລົມເບິ່ງ",
+   "rom": "Lɔ́ɔng lóm bɤ̀ng.",
+   "fr": "Essaie d'en parler.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄປດີກວ່າ",
+   "rom": "Pǎy dǐi kwàa.",
+   "fr": "Il vaut mieux y aller.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ເຈົ້າ",
+    "ຄວນ",
+    "ພັກຜ່ອນ"
+   ],
+   "rom": "Jâo khúan phāk-phɔ̀ɔn.",
+   "fr": "Tu devrais te reposer."
+  },
+  {
+   "tokens": [
+    "ລອງ",
+    "ລົມ",
+    "ເບິ່ງ"
+   ],
+   "rom": "Lɔ́ɔng lóm bɤ̀ng.",
+   "fr": "Essaie d'en parler."
+  },
+  {
+   "tokens": [
+    "ໄປ",
+    "ດີ",
+    "ກວ່າ"
+   ],
+   "rom": "Pǎy dǐi kwàa.",
+   "fr": "Il vaut mieux y aller."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຄວນ",
+   "rom": "Khúan",
+   "fr": "devoir (conseil), il faudrait"
+  },
+  {
+   "lao": "ບໍ່ຄວນ",
+   "rom": "Bɔ̀ɔ khúan",
+   "fr": "il ne faudrait pas"
+  },
+  {
+   "lao": "ລອງ ເບິ່ງ",
+   "rom": "Lɔ́ɔng… bɤ̀ng",
+   "fr": "essaie de…"
+  },
+  {
+   "lao": "ດີກວ່າ",
+   "rom": "Dǐi kwàa",
+   "fr": "il vaut mieux"
+  },
+  {
+   "lao": "ສິ່ງທີ່",
+   "rom": "Sìng thīi",
+   "fr": "ce que"
+  },
+  {
+   "lao": "ແນະນຳ",
+   "rom": "Nɛ̄-nǎm",
+   "fr": "conseiller, recommander"
+  }
+ ],
+ "sounds": {
+  "ແຟນ": "Fɛ́ɛn",
+  "ຊ່ວຍ ໃຫ້ແດ່": "Sūay… hây dɛ̀ɛ",
+  "ເລື່ອງ": "Lʉ̄ang",
+  "ໝາກນາວ": "Mȁak-náaw",
+  "ຂ້ອຍບໍ່ຮູ້ວ່າຈະຮຽນຫຍັງດີ": "Khɔ̂ɔy bɔ̀ɔ hȕu wāa já hían nyǎng dǐi.",
+  "ເຈົ້າມັກຫຍັງ": "Jâo māk nyǎng?",
+  "ມັກຄອມພິວເຕີ": "Māk khɔ́ɔm-phíw-tɤ̂ɤ.",
+  "ເຈົ້າຄວນຮຽນສິ່ງທີ່ເຈົ້າມັກ": "Jâo khúan hían sìng thīi jâo māk.",
+  "ແຕ່ພໍ່ຢາກໃຫ້ຂ້ອຍເປັນທ່ານໝໍ": "Tɛ̀ɛ phɔ̄ɔ yȁak hây khɔ̂ɔy pěn thāan-mɔ̌ɔ.",
+  "ລອງລົມກັບພໍ່ເບິ່ງ": "Lɔ́ɔng lóm kǎp phɔ̄ɔ bɤ̀ng.",
+  "ຄວນ": "khúan",
+  "ບໍ່ຄວນ": "Bɔ̀ɔ khúan",
+  "ລອງ ເບິ່ງ": "Lɔ́ɔng… bɤ̀ng",
+  "ດີກວ່າ": "Dǐi kwàa",
+  "ສິ່ງທີ່": "Sìng thīi",
+  "ແນະນຳ": "Nɛ̄-nǎm",
+  "ເຈົ້າຄວນ": "Jâo khúan…",
+  "ລອງລົມເບິ່ງ": "Lɔ́ɔng lóm bɤ̀ng.",
+  "ໄປຫາທ່ານໝໍດີກວ່າ": "Pǎy hǎa thāan-mɔ̌ɔ dǐi kwàa",
+  "ເຈົ້າຄວນພັກຜ່ອນ": "Jâo khúan phāk-phɔ̀ɔn.",
+  "ໄປດີກວ່າ": "Pǎy dǐi kwàa.",
+  "ເຈົ້າ": "jâo",
+  "ພັກຜ່ອນ": "phāk-phɔ̀ɔn",
+  "ລອງ": "lɔ́ɔng",
+  "ລົມ": "lóm",
+  "ເບິ່ງ": "bɤ̀ng",
+  "ໄປ": "pǎy",
+  "ດີ": "dǐi",
+  "ກວ່າ": "kwàa"
+ },
+ "suivi": "LEÇON : 73 — Partie E (S'exprimer (cours en lao), B1) · Conseiller\nOBJECTIF : Donner et demander un conseil.\nNOTION : donner un conseil\nVOCAB : Khúan, Bɔ̀ɔ khúan, Lɔ́ɔng… bɤ̀ng, Dǐi kwàa, Sìng thīi, Nɛ̄-nǎm\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 74 — Hypothèses"
+}

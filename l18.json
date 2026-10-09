@@ -19,7 +19,7 @@
   },
   {
    "title": "Dialogue",
-   "html": "<p class=\"muted\">Clara prépare ses courses avec Noy.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຕ້ອງຊື້ຫຍັງແດ່?</span><span class=\"rom\">Tâɔng sȕu nyǎng dɛ̀ɛ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຂົ້າໜຽວ ໄຂ່ ຜັກ ແລະນົມ</span><span class=\"rom\">Khâo-nǐaw, khày, phāk, lɛ́ nóm.</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຊີ້ນເດ?</span><span class=\"rom\">Sȋin dě?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຊີ້ນໝູໜຶ່ງກິໂລ</span><span class=\"rom\">Sȋin-mǔu nʉ̀ng kī-lóo.</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ໄປຕະຫຼາດນຳກັນບໍ?</span><span class=\"rom\">Pǎy tā-lȁat nám kǎn bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໄປ!</span><span class=\"rom\">Pǎy!</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Il faut acheter quoi ?<br><b>Clara</b> — Du riz gluant, des œufs, des légumes et du lait.<br><b>Noy</b> — Et de la viande ?<br><b>Clara</b> — Un kilo de porc.<br><b>Noy</b> — On va au marché ensemble ?<br><b>Clara</b> — On y va !</p></details>"
+   "html": "<p class=\"muted\">Clara prépare ses courses avec Noy.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຕ້ອງຊື້ຫຍັງແດ່?</span><span class=\"rom\">Tâɔng sȕu nyǎng dɛ̀ɛ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຂົ້າໜຽວ ໄຂ່ ຜັກ ແລະນົມ</span><span class=\"rom\">Khâo-nǐaw, khày, phāk, lɛ́ nóm.</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຊີ້ນເດ?</span><span class=\"rom\">Sȋin dě?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຊີ້ນໝູໜຶ່ງກິໂລ</span><span class=\"rom\">Sȋin-mǔu nʉ̀ng kī-lóo.</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ໄປຕະຫຼາດນຳກັນບໍ?</span><span class=\"rom\">Pǎy tá-lȁat nám kǎn bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໄປ!</span><span class=\"rom\">Pǎy!</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Il faut acheter quoi ?<br><b>Clara</b> — Du riz gluant, des œufs, des légumes et du lait.<br><b>Noy</b> — Et de la viande ?<br><b>Clara</b> — Un kilo de porc.<br><b>Noy</b> — On va au marché ensemble ?<br><b>Clara</b> — On y va !</p></details>"
   },
   {
    "title": "Compréhension",
@@ -39,7 +39,7 @@
   },
   {
    "title": "Expression orale",
-   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Il faut acheter quoi ?</li><li>Un kilo de porc.</li><li>On va au marché ?</li><li>On y va !</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຕ້ອງຊື້ຫຍັງແດ່?</span> <span class=\"rom\">Tâɔng sȕu nyǎng dɛ̀ɛ?</span></li><li><span class=\"lo\">ຊີ້ນໝູໜຶ່ງກິໂລ</span> <span class=\"rom\">Sȋin-mǔu nʉ̀ng kī-lóo.</span></li><li><span class=\"lo\">ໄປຕະຫຼາດບໍ?</span> <span class=\"rom\">Pǎy tā-lȁat bɔ̌ɔ?</span></li><li><span class=\"lo\">ໄປ!</span> <span class=\"rom\">Pǎy!</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Il faut acheter quoi ?</li><li>Un kilo de porc.</li><li>On va au marché ?</li><li>On y va !</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຕ້ອງຊື້ຫຍັງແດ່?</span> <span class=\"rom\">Tâɔng sȕu nyǎng dɛ̀ɛ?</span></li><li><span class=\"lo\">ຊີ້ນໝູໜຶ່ງກິໂລ</span> <span class=\"rom\">Sȋin-mǔu nʉ̀ng kī-lóo.</span></li><li><span class=\"lo\">ໄປຕະຫຼາດບໍ?</span> <span class=\"rom\">Pǎy tá-lȁat bɔ̌ɔ?</span></li><li><span class=\"lo\">ໄປ!</span> <span class=\"rom\">Pǎy!</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
   },
   {
    "title": "Expression écrite",
@@ -118,7 +118,7 @@
   {
    "id": "l18-p03",
    "front": "On va au marché ?",
-   "back": "ໄປຕະຫຼາດບໍ? · Pǎy tā-lȁat bɔ̌ɔ?"
+   "back": "ໄປຕະຫຼາດບໍ? · Pǎy tá-lȁat bɔ̌ɔ?"
   },
   {
    "id": "l18-p04",
@@ -348,7 +348,7 @@
       "Du riz gluant, des œufs, des légumes et du lait."
      ],
      "answer": "On va au marché ensemble ?",
-     "reveal": "<i>Pǎy tā-lȁat nám kǎn bɔ̌ɔ?</i>"
+     "reveal": "<i>Pǎy tá-lȁat nám kǎn bɔ̌ɔ?</i>"
     },
     {
      "audio": [
@@ -411,7 +411,7 @@
       "Il faut acheter quoi ?"
      ],
      "answer": "On va au marché ?",
-     "reveal": "<i>Pǎy tā-lȁat bɔ̌ɔ?</i>"
+     "reveal": "<i>Pǎy tá-lȁat bɔ̌ɔ?</i>"
     },
     {
      "audio": [
@@ -505,7 +505,7 @@
   },
   {
    "lao": "ໄປຕະຫຼາດບໍ?",
-   "rom": "Pǎy tā-lȁat bɔ̌ɔ?",
+   "rom": "Pǎy tá-lȁat bɔ̌ɔ?",
    "fr": "On va au marché ?",
    "kind": "phrase"
   },
@@ -542,7 +542,7 @@
     "ຕະຫຼາດ",
     "ບໍ"
    ],
-   "rom": "Pǎy tā-lȁat bɔ̌ɔ?",
+   "rom": "Pǎy tá-lȁat bɔ̌ɔ?",
    "fr": "On va au marché ?"
   }
  ],
@@ -607,7 +607,7 @@
   "ເຂົ້າໜຽວ ໄຂ່ ຜັກ ແລະນົມ": "Khâo-nǐaw, khày, phāk, lɛ́ nóm.",
   "ຊີ້ນເດ": "Sȋin dě?",
   "ຊີ້ນໝູໜຶ່ງກິໂລ": "Sȋin-mǔu nʉ̀ng kī-lóo.",
-  "ໄປຕະຫຼາດນຳກັນບໍ": "Pǎy tā-lȁat nám kǎn bɔ̌ɔ?",
+  "ໄປຕະຫຼາດນຳກັນບໍ": "Pǎy tá-lȁat nám kǎn bɔ̌ɔ?",
   "ໄປ": "pǎy",
   "ຊື້": "sȕu",
   "ໄຂ່": "Khày",
@@ -621,12 +621,12 @@
   "ນ້ຳປາ": "Nȁam-pǎa",
   "ເດັກ": "Dék",
   "ເມືອງ": "Mʉ́ang",
-  "ໄປຕະຫຼາດບໍ": "Pǎy tā-lȁat bɔ̌ɔ?",
+  "ໄປຕະຫຼາດບໍ": "Pǎy tá-lȁat bɔ̌ɔ?",
   "ຕ້ອງ": "tâɔng",
   "ແດ່": "dɛ̀ɛ",
   "ຊີ້ນໝູ": "sȋin-mǔu",
   "ໜຶ່ງ": "nʉ̀ng",
-  "ຕະຫຼາດ": "tā-lȁat",
+  "ຕະຫຼາດ": "tá-lȁat",
   "ບໍ": "bɔ̌ɔ"
  },
  "suivi": "LEÇON : 18 — Partie B (Lire et écrire, A0→A1) · Les consonnes finales\nOBJECTIF : Lire les 8 consonnes finales et écrire une liste de courses.\nNOTION : les 8 finales\nVOCAB : Sȕu, Khày, Phāk, Nóm, Sȋin, Mǔu, Lɛ́, Kī-lóo, Kʉ̌a, Nȁam-pǎa\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 19 — Taper en lao"

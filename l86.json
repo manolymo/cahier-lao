@@ -1,0 +1,521 @@
+{
+ "num": 86,
+ "phase": "Partie E · S'exprimer (cours en lao)",
+ "title": "L'histoire du Laos",
+ "objective": "Présenter un fait historique simple.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>à l&#x27;attention de <small class=\"muted\">(leçon 85)</small></li><li>vidéo <small class=\"muted\">(leçon 83)</small></li><li>changer de l&#x27;argent <small class=\"muted\">(leçon 79)</small></li><li>occupé <small class=\"muted\">(leçon 72)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຮຽນເຖິງ</span> <span class=\"rom\">Hían thɤ̌ng</span> · à l&#x27;attention de</li><li><span class=\"lo\">ວິດີໂອ</span> <span class=\"rom\">Wī-dǐi-ǒo</span> · vidéo</li><li><span class=\"lo\">ແລກເງິນ</span> <span class=\"rom\">Lɛ̂ɛk ngɤ́n</span> · changer de l&#x27;argent</li><li><span class=\"lo\">ຫຍຸ້ງ</span> <span class=\"rom\">Nyûng</span> · occupé</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Présenter un fait historique simple.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Visite du That Luang avec M. Somsak.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ທາດຫຼວງສ້າງຂຶ້ນຫຼາຍຮ້ອຍປີມາແລ້ວ</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ເປັນສັນຍາລັກຂອງຊາດລາວ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໃຜເປັນຄົນສ້າງ?</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ພະເຈົ້າໄຊເສດຖາໃຫ້ສ້າງ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Thâat-lǔang sâang khʉ̂n lǎay hȍɔy pǐi máa lɛ̏ɛw.</span><br><span class=\"rom\">Pěn sǎn-nyáa-lāk khɔ̌ɔng sâat láaw.</span><br><span class=\"rom\">Phǎy pěn khón sâang?</span><br><span class=\"rom\">Phā-jâo sáy-sȅet-thǎa hây sâang.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>M. Somsak</b> — Le That Luang a été construit il y a plusieurs siècles.<br><b>M. Somsak</b> — C&#x27;est le symbole de la nation lao.<br><b>Clara</b> — Qui l&#x27;a fait construire ?<br><b>M. Somsak</b> — Le roi Setthathirath.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Qu&#x27;est-ce que le That Luang ?</li><li>Qui l&#x27;a fait construire ?</li></ol><details><summary>Réponses</summary><ol><li>Le symbole de la nation lao.</li><li>Le roi Setthathirath.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ປະຫວັດສາດ</td><td class=\"rom\">Pá-wǎt-sȁat</td><td>histoire (discipline)</td><td></td></tr><tr><td class=\"lo\">ສ້າງ</td><td class=\"rom\">Sâang</td><td>construire</td><td></td></tr><tr><td class=\"lo\">ສັນຍາລັກ</td><td class=\"rom\">Sǎn-nyáa-lāk</td><td>symbole</td><td></td></tr><tr><td class=\"lo\">ຊາດ</td><td class=\"rom\">Sâat</td><td>nation</td><td></td></tr><tr><td class=\"lo\">ພະເຈົ້າແຜ່ນດິນ</td><td class=\"rom\">Phā-jâo phɛ̀ɛn-dǐn</td><td>roi</td><td></td></tr><tr><td class=\"lo\">ສະຕະວັດ</td><td class=\"rom\">Sā-tá-wāt</td><td>siècle</td><td></td></tr><tr><td class=\"lo\">ອານາຈັກ</td><td class=\"rom\">Ǎa-náa-ják</td><td>royaume</td><td></td></tr><tr><td class=\"lo\">ລ້ານຊ້າງ</td><td class=\"rom\">Lȁan-sȁang</td><td>Lane Xang (royaume)</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : le récit au passé lointain",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ມາແລ້ວ</span> <span class=\"rom\">Máa lɛ̏ɛw</span> = il y a…</li><li><span class=\"lo\">ໃນສະຕະວັດທີສິບຫົກ</span> <span class=\"rom\">Nǎy sā-tá-wāt thíi sīp-hōk</span> = au XVIe siècle</li></ul><details><summary>La règle</summary><p>Le passé lointain s'exprime avec la date ou la durée (ຫຼາຍຮ້ອຍປີມາແລ້ວ) ; le verbe ne change pas. [Faits historiques À VÉRIFIER]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les dates et les noms propres.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Il a été construit il y a des siècles.</li><li>C&#x27;est le symbole de la nation.</li><li>Qui l&#x27;a construit ?</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ສ້າງຂຶ້ນຫຼາຍຮ້ອຍປີມາແລ້ວ</span> <span class=\"rom\">Sâang khʉ̂n lǎay hȍɔy pǐi máa lɛ̏ɛw.</span></li><li><span class=\"lo\">ເປັນສັນຍາລັກຂອງຊາດ</span> <span class=\"rom\">Pěn sǎn-nyáa-lāk khɔ̌ɔng sâat.</span></li><li><span class=\"lo\">ໃຜສ້າງ?</span> <span class=\"rom\">Phǎy sâang?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Présente un monument lao en 6 phrases.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Demande à un natif de te raconter un épisode de l&#x27;histoire du Laos.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>11 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l86-v01",
+   "front": "ປະຫວັດສາດ",
+   "back": "Pá-wǎt-sȁat · histoire (discipline)"
+  },
+  {
+   "id": "l86-v02",
+   "front": "ສ້າງ",
+   "back": "Sâang · construire"
+  },
+  {
+   "id": "l86-v03",
+   "front": "ສັນຍາລັກ",
+   "back": "Sǎn-nyáa-lāk · symbole"
+  },
+  {
+   "id": "l86-v04",
+   "front": "ຊາດ",
+   "back": "Sâat · nation"
+  },
+  {
+   "id": "l86-v05",
+   "front": "ພະເຈົ້າແຜ່ນດິນ",
+   "back": "Phā-jâo phɛ̀ɛn-dǐn · roi"
+  },
+  {
+   "id": "l86-v06",
+   "front": "ສະຕະວັດ",
+   "back": "Sā-tá-wāt · siècle"
+  },
+  {
+   "id": "l86-v07",
+   "front": "ອານາຈັກ",
+   "back": "Ǎa-náa-ják · royaume"
+  },
+  {
+   "id": "l86-v08",
+   "front": "ລ້ານຊ້າງ",
+   "back": "Lȁan-sȁang · Lane Xang (royaume)"
+  },
+  {
+   "id": "l86-p01",
+   "front": "Il a été construit il y a des siècles.",
+   "back": "ສ້າງຂຶ້ນຫຼາຍຮ້ອຍປີມາແລ້ວ · Sâang khʉ̂n lǎay hȍɔy pǐi máa lɛ̏ɛw."
+  },
+  {
+   "id": "l86-p02",
+   "front": "C'est le symbole de la nation.",
+   "back": "ເປັນສັນຍາລັກຂອງຊາດ · Pěn sǎn-nyáa-lāk khɔ̌ɔng sâat."
+  },
+  {
+   "id": "l86-p03",
+   "front": "Qui l'a construit ?",
+   "back": "ໃຜສ້າງ? · Phǎy sâang?"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ປະຫວັດສາດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "histoire (discipline)",
+      "nation",
+      "royaume",
+      "symbole"
+     ],
+     "answer": "histoire (discipline)",
+     "reveal": "<i>Pá-wǎt-sȁat</i>"
+    },
+    {
+     "audio": [
+      "ສ້າງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "construire",
+      "royaume",
+      "roi",
+      "siècle"
+     ],
+     "answer": "construire",
+     "reveal": "<i>Sâang</i>"
+    },
+    {
+     "audio": [
+      "ສັນຍາລັກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "symbole",
+      "siècle",
+      "roi",
+      "histoire (discipline)"
+     ],
+     "answer": "symbole",
+     "reveal": "<i>Sǎn-nyáa-lāk</i>"
+    },
+    {
+     "audio": [
+      "ຊາດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "nation",
+      "siècle",
+      "symbole",
+      "Lane Xang (royaume)"
+     ],
+     "answer": "nation",
+     "reveal": "<i>Sâat</i>"
+    },
+    {
+     "audio": [
+      "ພະເຈົ້າແຜ່ນດິນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "roi",
+      "royaume",
+      "Lane Xang (royaume)",
+      "nation"
+     ],
+     "answer": "roi",
+     "reveal": "<i>Phā-jâo phɛ̀ɛn-dǐn</i>"
+    },
+    {
+     "audio": [
+      "ສະຕະວັດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "siècle",
+      "construire",
+      "Lane Xang (royaume)",
+      "royaume"
+     ],
+     "answer": "siècle",
+     "reveal": "<i>Sā-tá-wāt</i>"
+    },
+    {
+     "audio": [
+      "ອານາຈັກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "royaume",
+      "symbole",
+      "roi",
+      "siècle"
+     ],
+     "answer": "royaume",
+     "reveal": "<i>Ǎa-náa-ják</i>"
+    },
+    {
+     "audio": [
+      "ລ້ານຊ້າງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "Lane Xang (royaume)",
+      "royaume",
+      "symbole",
+      "construire"
+     ],
+     "answer": "Lane Xang (royaume)",
+     "reveal": "<i>Lȁan-sȁang</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ທາດຫຼວງສ້າງຂຶ້ນຫຼາຍຮ້ອຍປີມາແລ້ວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Le That Luang a été construit il y a plusieurs siècles.",
+      "Qui l'a fait construire ?",
+      "C'est le symbole de la nation lao.",
+      "Le roi Setthathirath."
+     ],
+     "answer": "Le That Luang a été construit il y a plusieurs siècles.",
+     "reveal": "<i>Thâat-lǔang sâang khʉ̂n lǎay hȍɔy pǐi máa lɛ̏ɛw.</i>"
+    },
+    {
+     "audio": [
+      "ເປັນສັນຍາລັກຂອງຊາດລາວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'est le symbole de la nation lao.",
+      "Le That Luang a été construit il y a plusieurs siècles.",
+      "Qui l'a fait construire ?",
+      "Le roi Setthathirath."
+     ],
+     "answer": "C'est le symbole de la nation lao.",
+     "reveal": "<i>Pěn sǎn-nyáa-lāk khɔ̌ɔng sâat láaw.</i>"
+    },
+    {
+     "audio": [
+      "ໃຜເປັນຄົນສ້າງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Qui l'a fait construire ?",
+      "Le That Luang a été construit il y a plusieurs siècles.",
+      "C'est le symbole de la nation lao.",
+      "Le roi Setthathirath."
+     ],
+     "answer": "Qui l'a fait construire ?",
+     "reveal": "<i>Phǎy pěn khón sâang?</i>"
+    },
+    {
+     "audio": [
+      "ພະເຈົ້າໄຊເສດຖາໃຫ້ສ້າງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Le roi Setthathirath.",
+      "Qui l'a fait construire ?",
+      "C'est le symbole de la nation lao.",
+      "Le That Luang a été construit il y a plusieurs siècles."
+     ],
+     "answer": "Le roi Setthathirath.",
+     "reveal": "<i>Phā-jâo sáy-sȅet-thǎa hây sâang.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ສ້າງຂຶ້ນຫຼາຍຮ້ອຍປີມາແລ້ວ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il a été construit il y a des siècles.",
+      "Qui l'a construit ?",
+      "C'est le symbole de la nation."
+     ],
+     "answer": "Il a été construit il y a des siècles.",
+     "reveal": "<i>Sâang khʉ̂n lǎay hȍɔy pǐi máa lɛ̏ɛw.</i>"
+    },
+    {
+     "audio": [
+      "ເປັນສັນຍາລັກຂອງຊາດ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est le symbole de la nation.",
+      "Qui l'a construit ?",
+      "Il a été construit il y a des siècles."
+     ],
+     "answer": "C'est le symbole de la nation.",
+     "reveal": "<i>Pěn sǎn-nyáa-lāk khɔ̌ɔng sâat.</i>"
+    },
+    {
+     "audio": [
+      "ໃຜສ້າງ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Qui l'a construit ?",
+      "Il a été construit il y a des siècles.",
+      "C'est le symbole de la nation."
+     ],
+     "answer": "Qui l'a construit ?",
+     "reveal": "<i>Phǎy sâang?</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ປະຫວັດສາດ",
+   "rom": "Pá-wǎt-sȁat",
+   "fr": "histoire (discipline)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສ້າງ",
+   "rom": "Sâang",
+   "fr": "construire",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສັນຍາລັກ",
+   "rom": "Sǎn-nyáa-lāk",
+   "fr": "symbole",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊາດ",
+   "rom": "Sâat",
+   "fr": "nation",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພະເຈົ້າແຜ່ນດິນ",
+   "rom": "Phā-jâo phɛ̀ɛn-dǐn",
+   "fr": "roi",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສະຕະວັດ",
+   "rom": "Sā-tá-wāt",
+   "fr": "siècle",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອານາຈັກ",
+   "rom": "Ǎa-náa-ják",
+   "fr": "royaume",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລ້ານຊ້າງ",
+   "rom": "Lȁan-sȁang",
+   "fr": "Lane Xang (royaume)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສ້າງຂຶ້ນຫຼາຍຮ້ອຍປີມາແລ້ວ",
+   "rom": "Sâang khʉ̂n lǎay hȍɔy pǐi máa lɛ̏ɛw.",
+   "fr": "Il a été construit il y a des siècles.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເປັນສັນຍາລັກຂອງຊາດ",
+   "rom": "Pěn sǎn-nyáa-lāk khɔ̌ɔng sâat.",
+   "fr": "C'est le symbole de la nation.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃຜສ້າງ?",
+   "rom": "Phǎy sâang?",
+   "fr": "Qui l'a construit ?",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ສ້າງ",
+    "ຂຶ້ນ",
+    "ຫຼາຍ",
+    "ຮ້ອຍ",
+    "ປີ",
+    "ມາ",
+    "ແລ້ວ"
+   ],
+   "rom": "Sâang khʉ̂n lǎay hȍɔy pǐi máa lɛ̏ɛw.",
+   "fr": "Il a été construit il y a des siècles."
+  },
+  {
+   "tokens": [
+    "ເປັນ",
+    "ສັນຍາລັກ",
+    "ຂອງ",
+    "ຊາດ"
+   ],
+   "rom": "Pěn sǎn-nyáa-lāk khɔ̌ɔng sâat.",
+   "fr": "C'est le symbole de la nation."
+  },
+  {
+   "tokens": [
+    "ໃຜ",
+    "ສ້າງ"
+   ],
+   "rom": "Phǎy sâang?",
+   "fr": "Qui l'a construit ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ປະຫວັດສາດ",
+   "rom": "Pá-wǎt-sȁat",
+   "fr": "histoire (discipline)"
+  },
+  {
+   "lao": "ສ້າງ",
+   "rom": "Sâang",
+   "fr": "construire"
+  },
+  {
+   "lao": "ສັນຍາລັກ",
+   "rom": "Sǎn-nyáa-lāk",
+   "fr": "symbole"
+  },
+  {
+   "lao": "ຊາດ",
+   "rom": "Sâat",
+   "fr": "nation"
+  },
+  {
+   "lao": "ພະເຈົ້າແຜ່ນດິນ",
+   "rom": "Phā-jâo phɛ̀ɛn-dǐn",
+   "fr": "roi"
+  },
+  {
+   "lao": "ສະຕະວັດ",
+   "rom": "Sā-tá-wāt",
+   "fr": "siècle"
+  },
+  {
+   "lao": "ອານາຈັກ",
+   "rom": "Ǎa-náa-ják",
+   "fr": "royaume"
+  },
+  {
+   "lao": "ລ້ານຊ້າງ",
+   "rom": "Lȁan-sȁang",
+   "fr": "Lane Xang (royaume)"
+  }
+ ],
+ "sounds": {
+  "ຮຽນເຖິງ": "Hían thɤ̌ng",
+  "ວິດີໂອ": "Wī-dǐi-ǒo",
+  "ແລກເງິນ": "Lɛ̂ɛk ngɤ́n",
+  "ຫຍຸ້ງ": "Nyûng",
+  "ທາດຫຼວງສ້າງຂຶ້ນຫຼາຍຮ້ອຍປີມາແລ້ວ": "Thâat-lǔang sâang khʉ̂n lǎay hȍɔy pǐi máa lɛ̏ɛw.",
+  "ເປັນສັນຍາລັກຂອງຊາດລາວ": "Pěn sǎn-nyáa-lāk khɔ̌ɔng sâat láaw.",
+  "ໃຜເປັນຄົນສ້າງ": "Phǎy pěn khón sâang?",
+  "ພະເຈົ້າໄຊເສດຖາໃຫ້ສ້າງ": "Phā-jâo sáy-sȅet-thǎa hây sâang.",
+  "ປະຫວັດສາດ": "Pá-wǎt-sȁat",
+  "ສ້າງ": "sâang",
+  "ສັນຍາລັກ": "sǎn-nyáa-lāk",
+  "ຊາດ": "sâat",
+  "ພະເຈົ້າແຜ່ນດິນ": "Phā-jâo phɛ̀ɛn-dǐn",
+  "ສະຕະວັດ": "Sā-tá-wāt",
+  "ອານາຈັກ": "Ǎa-náa-ják",
+  "ລ້ານຊ້າງ": "Lȁan-sȁang",
+  "ມາແລ້ວ": "Máa lɛ̏ɛw",
+  "ໃນສະຕະວັດທີສິບຫົກ": "Nǎy sā-tá-wāt thíi sīp-hōk",
+  "ສ້າງຂຶ້ນຫຼາຍຮ້ອຍປີມາແລ້ວ": "Sâang khʉ̂n lǎay hȍɔy pǐi máa lɛ̏ɛw.",
+  "ເປັນສັນຍາລັກຂອງຊາດ": "Pěn sǎn-nyáa-lāk khɔ̌ɔng sâat.",
+  "ໃຜສ້າງ": "Phǎy sâang?",
+  "ຂຶ້ນ": "khʉ̂n",
+  "ຫຼາຍ": "lǎay",
+  "ຮ້ອຍ": "hȍɔy",
+  "ປີ": "pǐi",
+  "ມາ": "máa",
+  "ແລ້ວ": "lɛ̏ɛw",
+  "ເປັນ": "pěn",
+  "ຂອງ": "khɔ̌ɔng",
+  "ໃຜ": "phǎy"
+ },
+ "suivi": "LEÇON : 86 — Partie E (S'exprimer (cours en lao), B1) · L'histoire du Laos\nOBJECTIF : Présenter un fait historique simple.\nNOTION : le récit au passé lointain\nVOCAB : Pá-wǎt-sȁat, Sâang, Sǎn-nyáa-lāk, Sâat, Phā-jâo phɛ̀ɛn-dǐn, Sā-tá-wāt, Ǎa-náa-ják, Lȁan-sȁang\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 87 — Géographie et régions"
+}

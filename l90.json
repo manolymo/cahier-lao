@@ -1,0 +1,179 @@
+{
+ "num": 90,
+ "phase": "Partie E · S'exprimer (cours en lao)",
+ "title": "Bilan B1",
+ "objective": "Faire le point sur les 4 compétences du niveau B1.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>c&#x27;est-à-dire, disons que <small class=\"muted\">(leçon 89)</small></li><li>le Centre <small class=\"muted\">(leçon 87)</small></li><li>raconter (à quelqu&#x27;un) <small class=\"muted\">(leçon 83)</small></li><li>enlever ses chaussures <small class=\"muted\">(leçon 76)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຄືວ່າ</span> <span class=\"rom\">Khʉ́ʉ wāa</span> · c&#x27;est-à-dire, disons que</li><li><span class=\"lo\">ພາກກາງ</span> <span class=\"rom\">Phâak-kǎang</span> · le Centre</li><li><span class=\"lo\">ເລົ່າໃຫ້ຟັງ</span> <span class=\"rom\">Lāo hây fáng</span> · raconter (à quelqu&#x27;un)</li><li><span class=\"lo\">ຖອດເກີບ</span> <span class=\"rom\">Thȍɔt kɤ̏ɤp</span> · enlever ses chaussures</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Faire le point sur les 4 compétences du niveau B1.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara fait un bilan d&#x27;un an au Laos.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ໜຶ່ງປີແລ້ວ ຄິດວ່າພາສາລາວຂອງເຈົ້າເປັນແນວໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍເຂົ້າໃຈຫຼາຍຂຶ້ນ ແຕ່ຍັງເວົ້າຊ້າຢູ່</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ບໍ່ເປັນຫຍັງ ເຈົ້າເກັ່ງຂຶ້ນແທ້</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Nʉ̀ng pǐi lɛ̏ɛw. Khīt wāa pháa-sǎa-láaw khɔ̌ɔng jâo pěn nɛ́ɛw-dǎy?</span><br><span class=\"rom\">Khɔ̂ɔy khâo-jǎy lǎay khʉ̂n, tɛ̀ɛ nyáng wȁo sȁa yùu.</span><br><span class=\"rom\">Bɔ̀ɔ pěn nyǎng. Jâo kèng khʉ̂n thɛ̏ɛ.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Un an déjà. Tu en es où en lao, à ton avis ?<br><b>Clara</b> — Je comprends de plus en plus, mais je parle encore lentement.<br><b>Noy</b> — Pas grave. Tu as vraiment progressé.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Comment Clara juge-t-elle son niveau ?</li></ol><details><summary>Réponses</summary><ol><li>Elle comprend mieux mais parle encore lentement.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຫຼາຍຂຶ້ນ</td><td class=\"rom\">Lǎay khʉ̂n</td><td>de plus en plus</td><td></td></tr><tr><td class=\"lo\">ເກັ່ງຂຶ້ນ</td><td class=\"rom\">Kèng khʉ̂n</td><td>progresser</td><td></td></tr><tr><td class=\"lo\">ລະດັບ</td><td class=\"rom\">Lā-dáp</td><td>niveau</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : révision B1",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຄິດວ່າ</span> <span class=\"rom\">Khīt wāa…</span> = opinion</li><li><span class=\"lo\">ຖືກ</span> <span class=\"rom\">Thʉ̀ʉk…</span> = passif</li><li><span class=\"lo\">ໃຫ້</span> <span class=\"rom\">Hây…</span> = causatif</li><li><span class=\"lo\">ຖ້າ ຈະ</span> <span class=\"rom\">Thâa… já</span> = hypothèse</li></ul><details><summary>La règle</summary><p>Bilan B1 : opinion, accord et désaccord, récit, passif, causatif, discours rapporté, hypothèses, registres. Fais le test /test dans le projet.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> une conversation entière à vitesse normale.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Je comprends de plus en plus.</li><li>J&#x27;ai progressé.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້ອຍເຂົ້າໃຈຫຼາຍຂຶ້ນ</span> <span class=\"rom\">Khɔ̂ɔy khâo-jǎy lǎay khʉ̂n.</span></li><li><span class=\"lo\">ຂ້ອຍເກັ່ງຂຶ້ນ</span> <span class=\"rom\">Khɔ̂ɔy kèng khʉ̂n.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris un texte de 20 phrases sur ton parcours en lao, avec opinion et hypothèses.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Fais le test de fin de niveau B1 et une conversation de 20 minutes avec un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>5 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l90-v01",
+   "front": "ຫຼາຍຂຶ້ນ",
+   "back": "Lǎay khʉ̂n · de plus en plus"
+  },
+  {
+   "id": "l90-v02",
+   "front": "ເກັ່ງຂຶ້ນ",
+   "back": "Kèng khʉ̂n · progresser"
+  },
+  {
+   "id": "l90-v03",
+   "front": "ລະດັບ",
+   "back": "Lā-dáp · niveau"
+  },
+  {
+   "id": "l90-p01",
+   "front": "Je comprends de plus en plus.",
+   "back": "ຂ້ອຍເຂົ້າໃຈຫຼາຍຂຶ້ນ · Khɔ̂ɔy khâo-jǎy lǎay khʉ̂n."
+  },
+  {
+   "id": "l90-p02",
+   "front": "J'ai progressé.",
+   "back": "ຂ້ອຍເກັ່ງຂຶ້ນ · Khɔ̂ɔy kèng khʉ̂n."
+  }
+ ],
+ "listening": [],
+ "speak": [
+  {
+   "lao": "ຫຼາຍຂຶ້ນ",
+   "rom": "Lǎay khʉ̂n",
+   "fr": "de plus en plus",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເກັ່ງຂຶ້ນ",
+   "rom": "Kèng khʉ̂n",
+   "fr": "progresser",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລະດັບ",
+   "rom": "Lā-dáp",
+   "fr": "niveau",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍເຂົ້າໃຈຫຼາຍຂຶ້ນ",
+   "rom": "Khɔ̂ɔy khâo-jǎy lǎay khʉ̂n.",
+   "fr": "Je comprends de plus en plus.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍເກັ່ງຂຶ້ນ",
+   "rom": "Khɔ̂ɔy kèng khʉ̂n.",
+   "fr": "J'ai progressé.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ເຂົ້າໃຈ",
+    "ຫຼາຍ",
+    "ຂຶ້ນ"
+   ],
+   "rom": "Khɔ̂ɔy khâo-jǎy lǎay khʉ̂n.",
+   "fr": "Je comprends de plus en plus."
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ເກັ່ງ",
+    "ຂຶ້ນ"
+   ],
+   "rom": "Khɔ̂ɔy kèng khʉ̂n.",
+   "fr": "J'ai progressé."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຫຼາຍຂຶ້ນ",
+   "rom": "Lǎay khʉ̂n",
+   "fr": "de plus en plus"
+  },
+  {
+   "lao": "ເກັ່ງຂຶ້ນ",
+   "rom": "Kèng khʉ̂n",
+   "fr": "progresser"
+  },
+  {
+   "lao": "ລະດັບ",
+   "rom": "Lā-dáp",
+   "fr": "niveau"
+  }
+ ],
+ "sounds": {
+  "ຄືວ່າ": "Khʉ́ʉ wāa",
+  "ພາກກາງ": "Phâak-kǎang",
+  "ເລົ່າໃຫ້ຟັງ": "Lāo hây fáng",
+  "ຖອດເກີບ": "Thȍɔt kɤ̏ɤp",
+  "ໜຶ່ງປີແລ້ວ ຄິດວ່າພາສາລາວຂອງເຈົ້າເປັນແນວໃດ": "Nʉ̀ng pǐi lɛ̏ɛw. Khīt wāa pháa-sǎa-láaw khɔ̌ɔng jâo pěn nɛ́ɛw-dǎy?",
+  "ຂ້ອຍເຂົ້າໃຈຫຼາຍຂຶ້ນ ແຕ່ຍັງເວົ້າຊ້າຢູ່": "Khɔ̂ɔy khâo-jǎy lǎay khʉ̂n, tɛ̀ɛ nyáng wȁo sȁa yùu.",
+  "ບໍ່ເປັນຫຍັງ ເຈົ້າເກັ່ງຂຶ້ນແທ້": "Bɔ̀ɔ pěn nyǎng. Jâo kèng khʉ̂n thɛ̏ɛ.",
+  "ຫຼາຍຂຶ້ນ": "Lǎay khʉ̂n",
+  "ເກັ່ງຂຶ້ນ": "Kèng khʉ̂n",
+  "ລະດັບ": "Lā-dáp",
+  "ຄິດວ່າ": "Khīt wāa…",
+  "ຖືກ": "Thʉ̀ʉk…",
+  "ໃຫ້": "Hây…",
+  "ຖ້າ ຈະ": "Thâa… já",
+  "ຂ້ອຍເຂົ້າໃຈຫຼາຍຂຶ້ນ": "Khɔ̂ɔy khâo-jǎy lǎay khʉ̂n.",
+  "ຂ້ອຍເກັ່ງຂຶ້ນ": "Khɔ̂ɔy kèng khʉ̂n.",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ເຂົ້າໃຈ": "khâo-jǎy",
+  "ຫຼາຍ": "lǎay",
+  "ຂຶ້ນ": "khʉ̂n",
+  "ເກັ່ງ": "kèng"
+ },
+ "suivi": "LEÇON : 90 — Partie E (S'exprimer (cours en lao), B1) · Bilan B1\nOBJECTIF : Faire le point sur les 4 compétences du niveau B1.\nNOTION : révision B1\nVOCAB : Lǎay khʉ̂n, Kèng khʉ̂n, Lā-dáp\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 91 — Structurer un argument"
+}

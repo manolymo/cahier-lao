@@ -1,0 +1,481 @@
+{
+ "num": 69,
+ "phase": "Partie E · S'exprimer (cours en lao)",
+ "title": "Mon enfance",
+ "objective": "Comparer ta vie d'avant et celle d'aujourd'hui.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>un jour <small class=\"muted\">(leçon 68)</small></li><li>la fin <small class=\"muted\">(leçon 66)</small></li><li>(adoucit, « hein ») <small class=\"muted\">(leçon 62)</small></li><li>rarement <small class=\"muted\">(leçon 55)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ມື້ໜຶ່ງ</span> <span class=\"rom\">Mʉ̂ʉ nʉ̀ng</span> · un jour</li><li><span class=\"lo\">ຕອນຈົບ</span> <span class=\"rom\">Tɔ̌ɔn jóp</span> · la fin</li><li><span class=\"lo\">ເດີ</span> <span class=\"rom\">Dɤ̌ɤ</span> · (adoucit, « hein »)</li><li><span class=\"lo\">ບໍ່ຄ່ອຍ</span> <span class=\"rom\">Bɔ̀ɔ-khɔ̄ɔy</span> · rarement</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Comparer ta vie d&#x27;avant et celle d&#x27;aujourd&#x27;hui.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">M. Somsak parle du Vientiane d&#x27;autrefois.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ແຕ່ກ່ອນວຽງຈັນບໍ່ມີລົດຫຼາຍຄືດຽວນີ້</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ພວກເຮົາຂີ່ລົດຖີບໄປໂຮງຮຽນ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ດຽວນີ້ປ່ຽນໄປຫຼາຍບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ປ່ຽນຫຼາຍ ແຕ່ຄົນຍັງໃຈດີຄືເກົ່າ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Tɛ̀ɛ-kɔ̀ɔn wíang-jǎn bɔ̀ɔ míi lōt lǎay khʉ́ʉ dǐaw-nȉi.</span><br><span class=\"rom\">Phûak-háo khìi lōt-thȉip pǎy hóong-hían.</span><br><span class=\"rom\">Dǐaw-nȉi pìan pǎy lǎay bɔ̌ɔ?</span><br><span class=\"rom\">Pìan lǎay. Tɛ̀ɛ khón nyáng jǎy-dǐi khʉ́ʉ kào.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>M. Somsak</b> — Avant, à Vientiane, il n&#x27;y avait pas autant de voitures qu&#x27;aujourd&#x27;hui.<br><b>M. Somsak</b> — On allait à l&#x27;école à vélo.<br><b>Clara</b> — Ça a beaucoup changé ?<br><b>M. Somsak</b> — Énormément. Mais les gens sont toujours aussi gentils.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Comment allait-on à l&#x27;école ?</li><li>Qu&#x27;est-ce qui n&#x27;a pas changé ?</li></ol><details><summary>Réponses</summary><ol><li>À vélo.</li><li>La gentillesse des gens.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ແຕ່ກ່ອນ</td><td class=\"rom\">Tɛ̀ɛ-kɔ̀ɔn</td><td>avant, autrefois</td><td></td></tr><tr><td class=\"lo\">ດຽວນີ້</td><td class=\"rom\">Dǐaw-nȉi</td><td>maintenant</td><td></td></tr><tr><td class=\"lo\">ຕອນເປັນເດັກນ້ອຍ</td><td class=\"rom\">Tɔ̌ɔn pěn dék-nɔ̏ɔy</td><td>quand j&#x27;étais enfant</td><td></td></tr><tr><td class=\"lo\">ປ່ຽນ</td><td class=\"rom\">Pìan</td><td>changer</td><td></td></tr><tr><td class=\"lo\">ຄືເກົ່າ</td><td class=\"rom\">Khʉ́ʉ kào</td><td>comme avant</td><td></td></tr><tr><td class=\"lo\">ລົດຖີບ</td><td class=\"rom\">Lōt-thȉip</td><td>vélo</td><td></td></tr><tr><td class=\"lo\">ບໍ່ ຄື</td><td class=\"rom\">Bɔ̀ɔ… khʉ́ʉ</td><td>pas autant que</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : avant et maintenant",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ແຕ່ກ່ອນ ດຽວນີ້</span> <span class=\"rom\">Tɛ̀ɛ-kɔ̀ɔn… dǐaw-nȉi…</span> = avant… maintenant…</li><li><span class=\"lo\">ຍັງ ຄືເກົ່າ</span> <span class=\"rom\">Nyáng… khʉ́ʉ kào</span> = toujours… comme avant</li></ul><p><b>À toi de trouver :</b></p><ol><li>Comment opposes-tu avant et maintenant ?</li></ol><details><summary>La règle</summary><p>ແຕ່ກ່ອນ (avant) s'oppose à ດຽວນີ້ (maintenant). ຍັງ…ຄືເກົ່າ = toujours comme avant.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> l&#x27;opposition passé / présent.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Quand j&#x27;étais enfant…</li><li>Ça a beaucoup changé.</li><li>Comme avant.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຕອນເປັນເດັກນ້ອຍ</span> <span class=\"rom\">Tɔ̌ɔn pěn dék-nɔ̏ɔy…</span></li><li><span class=\"lo\">ປ່ຽນໄປຫຼາຍ</span> <span class=\"rom\">Pìan pǎy lǎay.</span></li><li><span class=\"lo\">ຄືເກົ່າ</span> <span class=\"rom\">Khʉ́ʉ kào.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Compare ton enfance et ta vie actuelle en 8 phrases.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Demande à un natif âgé comment était sa ville avant.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>10 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l69-v01",
+   "front": "ແຕ່ກ່ອນ",
+   "back": "Tɛ̀ɛ-kɔ̀ɔn · avant, autrefois"
+  },
+  {
+   "id": "l69-v02",
+   "front": "ດຽວນີ້",
+   "back": "Dǐaw-nȉi · maintenant"
+  },
+  {
+   "id": "l69-v03",
+   "front": "ຕອນເປັນເດັກນ້ອຍ",
+   "back": "Tɔ̌ɔn pěn dék-nɔ̏ɔy · quand j'étais enfant"
+  },
+  {
+   "id": "l69-v04",
+   "front": "ປ່ຽນ",
+   "back": "Pìan · changer"
+  },
+  {
+   "id": "l69-v05",
+   "front": "ຄືເກົ່າ",
+   "back": "Khʉ́ʉ kào · comme avant"
+  },
+  {
+   "id": "l69-v06",
+   "front": "ລົດຖີບ",
+   "back": "Lōt-thȉip · vélo"
+  },
+  {
+   "id": "l69-v07",
+   "front": "ບໍ່ ຄື",
+   "back": "Bɔ̀ɔ… khʉ́ʉ · pas autant que"
+  },
+  {
+   "id": "l69-p01",
+   "front": "Quand j'étais enfant…",
+   "back": "ຕອນເປັນເດັກນ້ອຍ · Tɔ̌ɔn pěn dék-nɔ̏ɔy…"
+  },
+  {
+   "id": "l69-p02",
+   "front": "Ça a beaucoup changé.",
+   "back": "ປ່ຽນໄປຫຼາຍ · Pìan pǎy lǎay."
+  },
+  {
+   "id": "l69-p03",
+   "front": "Comme avant.",
+   "back": "ຄືເກົ່າ · Khʉ́ʉ kào."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ແຕ່ກ່ອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "avant, autrefois",
+      "maintenant",
+      "vélo",
+      "pas autant que"
+     ],
+     "answer": "avant, autrefois",
+     "reveal": "<i>Tɛ̀ɛ-kɔ̀ɔn</i>"
+    },
+    {
+     "audio": [
+      "ດຽວນີ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "maintenant",
+      "vélo",
+      "changer",
+      "quand j'étais enfant"
+     ],
+     "answer": "maintenant",
+     "reveal": "<i>Dǐaw-nȉi</i>"
+    },
+    {
+     "audio": [
+      "ຕອນເປັນເດັກນ້ອຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "quand j'étais enfant",
+      "avant, autrefois",
+      "maintenant",
+      "pas autant que"
+     ],
+     "answer": "quand j'étais enfant",
+     "reveal": "<i>Tɔ̌ɔn pěn dék-nɔ̏ɔy</i>"
+    },
+    {
+     "audio": [
+      "ປ່ຽນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "changer",
+      "vélo",
+      "avant, autrefois",
+      "quand j'étais enfant"
+     ],
+     "answer": "changer",
+     "reveal": "<i>Pìan</i>"
+    },
+    {
+     "audio": [
+      "ຄືເກົ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "comme avant",
+      "changer",
+      "pas autant que",
+      "maintenant"
+     ],
+     "answer": "comme avant",
+     "reveal": "<i>Khʉ́ʉ kào</i>"
+    },
+    {
+     "audio": [
+      "ລົດຖີບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "vélo",
+      "avant, autrefois",
+      "quand j'étais enfant",
+      "pas autant que"
+     ],
+     "answer": "vélo",
+     "reveal": "<i>Lōt-thȉip</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ ຄື"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pas autant que",
+      "quand j'étais enfant",
+      "vélo",
+      "changer"
+     ],
+     "answer": "pas autant que",
+     "reveal": "<i>Bɔ̀ɔ… khʉ́ʉ</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ແຕ່ກ່ອນວຽງຈັນບໍ່ມີລົດຫຼາຍຄືດຽວນີ້"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Avant, à Vientiane, il n'y avait pas autant de voitures qu'aujourd'hui.",
+      "On allait à l'école à vélo.",
+      "Énormément. Mais les gens sont toujours aussi gentils.",
+      "Ça a beaucoup changé ?"
+     ],
+     "answer": "Avant, à Vientiane, il n'y avait pas autant de voitures qu'aujourd'hui.",
+     "reveal": "<i>Tɛ̀ɛ-kɔ̀ɔn wíang-jǎn bɔ̀ɔ míi lōt lǎay khʉ́ʉ dǐaw-nȉi.</i>"
+    },
+    {
+     "audio": [
+      "ພວກເຮົາຂີ່ລົດຖີບໄປໂຮງຮຽນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "On allait à l'école à vélo.",
+      "Ça a beaucoup changé ?",
+      "Avant, à Vientiane, il n'y avait pas autant de voitures qu'aujourd'hui.",
+      "Énormément. Mais les gens sont toujours aussi gentils."
+     ],
+     "answer": "On allait à l'école à vélo.",
+     "reveal": "<i>Phûak-háo khìi lōt-thȉip pǎy hóong-hían.</i>"
+    },
+    {
+     "audio": [
+      "ດຽວນີ້ປ່ຽນໄປຫຼາຍບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Ça a beaucoup changé ?",
+      "Avant, à Vientiane, il n'y avait pas autant de voitures qu'aujourd'hui.",
+      "Énormément. Mais les gens sont toujours aussi gentils.",
+      "On allait à l'école à vélo."
+     ],
+     "answer": "Ça a beaucoup changé ?",
+     "reveal": "<i>Dǐaw-nȉi pìan pǎy lǎay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ປ່ຽນຫຼາຍ ແຕ່ຄົນຍັງໃຈດີຄືເກົ່າ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Énormément. Mais les gens sont toujours aussi gentils.",
+      "On allait à l'école à vélo.",
+      "Avant, à Vientiane, il n'y avait pas autant de voitures qu'aujourd'hui.",
+      "Ça a beaucoup changé ?"
+     ],
+     "answer": "Énormément. Mais les gens sont toujours aussi gentils.",
+     "reveal": "<i>Pìan lǎay. Tɛ̀ɛ khón nyáng jǎy-dǐi khʉ́ʉ kào.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຕອນເປັນເດັກນ້ອຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Quand j'étais enfant…",
+      "Comme avant.",
+      "Ça a beaucoup changé."
+     ],
+     "answer": "Quand j'étais enfant…",
+     "reveal": "<i>Tɔ̌ɔn pěn dék-nɔ̏ɔy…</i>"
+    },
+    {
+     "audio": [
+      "ປ່ຽນໄປຫຼາຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Ça a beaucoup changé.",
+      "Comme avant.",
+      "Quand j'étais enfant…"
+     ],
+     "answer": "Ça a beaucoup changé.",
+     "reveal": "<i>Pìan pǎy lǎay.</i>"
+    },
+    {
+     "audio": [
+      "ຄືເກົ່າ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Comme avant.",
+      "Quand j'étais enfant…",
+      "Ça a beaucoup changé."
+     ],
+     "answer": "Comme avant.",
+     "reveal": "<i>Khʉ́ʉ kào.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ແຕ່ກ່ອນ",
+   "rom": "Tɛ̀ɛ-kɔ̀ɔn",
+   "fr": "avant, autrefois",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ດຽວນີ້",
+   "rom": "Dǐaw-nȉi",
+   "fr": "maintenant",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕອນເປັນເດັກນ້ອຍ",
+   "rom": "Tɔ̌ɔn pěn dék-nɔ̏ɔy",
+   "fr": "quand j'étais enfant",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ປ່ຽນ",
+   "rom": "Pìan",
+   "fr": "changer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄືເກົ່າ",
+   "rom": "Khʉ́ʉ kào",
+   "fr": "comme avant",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລົດຖີບ",
+   "rom": "Lōt-thȉip",
+   "fr": "vélo",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ ຄື",
+   "rom": "Bɔ̀ɔ… khʉ́ʉ",
+   "fr": "pas autant que",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕອນເປັນເດັກນ້ອຍ",
+   "rom": "Tɔ̌ɔn pěn dék-nɔ̏ɔy…",
+   "fr": "Quand j'étais enfant…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ປ່ຽນໄປຫຼາຍ",
+   "rom": "Pìan pǎy lǎay.",
+   "fr": "Ça a beaucoup changé.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄືເກົ່າ",
+   "rom": "Khʉ́ʉ kào.",
+   "fr": "Comme avant.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຕອນ",
+    "ເປັນ",
+    "ເດັກນ້ອຍ"
+   ],
+   "rom": "Tɔ̌ɔn pěn dék-nɔ̏ɔy…",
+   "fr": "Quand j'étais enfant…"
+  },
+  {
+   "tokens": [
+    "ປ່ຽນ",
+    "ໄປ",
+    "ຫຼາຍ"
+   ],
+   "rom": "Pìan pǎy lǎay.",
+   "fr": "Ça a beaucoup changé."
+  },
+  {
+   "tokens": [
+    "ຄື",
+    "ເກົ່າ"
+   ],
+   "rom": "Khʉ́ʉ kào.",
+   "fr": "Comme avant."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ແຕ່ກ່ອນ",
+   "rom": "Tɛ̀ɛ-kɔ̀ɔn",
+   "fr": "avant, autrefois"
+  },
+  {
+   "lao": "ດຽວນີ້",
+   "rom": "Dǐaw-nȉi",
+   "fr": "maintenant"
+  },
+  {
+   "lao": "ຕອນເປັນເດັກນ້ອຍ",
+   "rom": "Tɔ̌ɔn pěn dék-nɔ̏ɔy",
+   "fr": "quand j'étais enfant"
+  },
+  {
+   "lao": "ປ່ຽນ",
+   "rom": "Pìan",
+   "fr": "changer"
+  },
+  {
+   "lao": "ຄືເກົ່າ",
+   "rom": "Khʉ́ʉ kào",
+   "fr": "comme avant"
+  },
+  {
+   "lao": "ລົດຖີບ",
+   "rom": "Lōt-thȉip",
+   "fr": "vélo"
+  },
+  {
+   "lao": "ບໍ່ ຄື",
+   "rom": "Bɔ̀ɔ… khʉ́ʉ",
+   "fr": "pas autant que"
+  }
+ ],
+ "sounds": {
+  "ມື້ໜຶ່ງ": "Mʉ̂ʉ nʉ̀ng",
+  "ຕອນຈົບ": "Tɔ̌ɔn jóp",
+  "ເດີ": "Dɤ̌ɤ",
+  "ບໍ່ຄ່ອຍ": "Bɔ̀ɔ-khɔ̄ɔy",
+  "ແຕ່ກ່ອນວຽງຈັນບໍ່ມີລົດຫຼາຍຄືດຽວນີ້": "Tɛ̀ɛ-kɔ̀ɔn wíang-jǎn bɔ̀ɔ míi lōt lǎay khʉ́ʉ dǐaw-nȉi.",
+  "ພວກເຮົາຂີ່ລົດຖີບໄປໂຮງຮຽນ": "Phûak-háo khìi lōt-thȉip pǎy hóong-hían.",
+  "ດຽວນີ້ປ່ຽນໄປຫຼາຍບໍ": "Dǐaw-nȉi pìan pǎy lǎay bɔ̌ɔ?",
+  "ປ່ຽນຫຼາຍ ແຕ່ຄົນຍັງໃຈດີຄືເກົ່າ": "Pìan lǎay. Tɛ̀ɛ khón nyáng jǎy-dǐi khʉ́ʉ kào.",
+  "ແຕ່ກ່ອນ": "Tɛ̀ɛ-kɔ̀ɔn",
+  "ດຽວນີ້": "Dǐaw-nȉi",
+  "ຕອນເປັນເດັກນ້ອຍ": "Tɔ̌ɔn pěn dék-nɔ̏ɔy…",
+  "ປ່ຽນ": "pìan",
+  "ຄືເກົ່າ": "Khʉ́ʉ kào.",
+  "ລົດຖີບ": "Lōt-thȉip",
+  "ບໍ່ ຄື": "Bɔ̀ɔ… khʉ́ʉ",
+  "ແຕ່ກ່ອນ ດຽວນີ້": "Tɛ̀ɛ-kɔ̀ɔn… dǐaw-nȉi…",
+  "ຍັງ ຄືເກົ່າ": "Nyáng… khʉ́ʉ kào",
+  "ປ່ຽນໄປຫຼາຍ": "Pìan pǎy lǎay.",
+  "ຕອນ": "tɔ̌ɔn",
+  "ເປັນ": "pěn",
+  "ເດັກນ້ອຍ": "dék-nɔ̏ɔy",
+  "ໄປ": "pǎy",
+  "ຫຼາຍ": "lǎay",
+  "ຄື": "khʉ́ʉ",
+  "ເກົ່າ": "kào"
+ },
+ "suivi": "LEÇON : 69 — Partie E (S'exprimer (cours en lao), B1) · Mon enfance\nOBJECTIF : Comparer ta vie d'avant et celle d'aujourd'hui.\nNOTION : avant et maintenant\nVOCAB : Tɛ̀ɛ-kɔ̀ɔn, Dǐaw-nȉi, Tɔ̌ɔn pěn dék-nɔ̏ɔy, Pìan, Khʉ́ʉ kào, Lōt-thȉip, Bɔ̀ɔ… khʉ́ʉ\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 70 — Un problème"
+}

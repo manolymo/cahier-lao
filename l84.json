@@ -1,0 +1,483 @@
+{
+ "num": 84,
+ "phase": "Partie E · S'exprimer (cours en lao)",
+ "title": "Lire un article simple",
+ "objective": "Comprendre et résumer un article de presse facile.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>raconter (à quelqu&#x27;un) <small class=\"muted\">(leçon 83)</small></li><li>(exclamation, enthousiasme) <small class=\"muted\">(leçon 81)</small></li><li>« sathou » (amen) <small class=\"muted\">(leçon 77)</small></li><li>aide-moi à… <small class=\"muted\">(leçon 70)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ເລົ່າໃຫ້ຟັງ</span> <span class=\"rom\">Lāo hây fáng</span> · raconter (à quelqu&#x27;un)</li><li><span class=\"lo\">ນໍ</span> <span class=\"rom\">Nɔ́ɔ</span> · (exclamation, enthousiasme)</li><li><span class=\"lo\">ສາທຸ</span> <span class=\"rom\">Sǎa-thū</span> · « sathou » (amen)</li><li><span class=\"lo\">ຊ່ວຍ ໃຫ້ແດ່</span> <span class=\"rom\">Sūay… hây dɛ̀ɛ</span> · aide-moi à…</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Comprendre et résumer un article de presse facile.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">M. Somsak lit le journal.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ມື້ນີ້ໜັງສືພິມລົງຂ່າວກ່ຽວກັບລົດໄຟລາວ-ຈີນ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ່າວເວົ້າວ່າແນວໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ນັກທ່ອງທ່ຽວເພີ່ມຂຶ້ນຫຼາຍ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ດີສຳລັບເສດຖະກິດເນາະ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Mʉ̂ʉ-nȉi nǎng-sʉ̌ʉ-phím lóng khàaw kìaw-kǎp lōt-fáy láaw- jǐin.</span><br><span class=\"rom\">Khàaw wȁo wāa nɛ́ɛw-dǎy?</span><br><span class=\"rom\">Nāk-thɔ̄ɔng-thìaw phɤ̄ɤm khʉ̂n lǎay.</span><br><span class=\"rom\">Dǐi sǎm-láp sȅet-thā-kít nɔ̄.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>M. Somsak</b> — Aujourd&#x27;hui, le journal parle du train Laos-Chine.<br><b>Clara</b> — Que dit l&#x27;article ?<br><b>M. Somsak</b> — Le nombre de touristes a beaucoup augmenté.<br><b>Clara</b> — C&#x27;est bien pour l&#x27;économie.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>De quoi parle l&#x27;article ?</li></ol><details><summary>Réponses</summary><ol><li>Du train Laos-Chine et de la hausse du tourisme.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ໜັງສືພິມ</td><td class=\"rom\">Nǎng-sʉ̌ʉ-phím</td><td>journal</td><td></td></tr><tr><td class=\"lo\">ຂ່າວ</td><td class=\"rom\">Khàaw</td><td>nouvelle, info</td><td></td></tr><tr><td class=\"lo\">ລົງຂ່າວ</td><td class=\"rom\">Lóng khàaw</td><td>publier une info</td><td></td></tr><tr><td class=\"lo\">ເພີ່ມຂຶ້ນ</td><td class=\"rom\">Phɤ̄ɤm khʉ̂n</td><td>augmenter</td><td></td></tr><tr><td class=\"lo\">ຫຼຸດລົງ</td><td class=\"rom\">Lūt lóng</td><td>diminuer</td><td></td></tr><tr><td class=\"lo\">ເສດຖະກິດ</td><td class=\"rom\">Sȅet-thā-kít</td><td>économie</td><td></td></tr><tr><td class=\"lo\">ນັກທ່ອງທ່ຽວ</td><td class=\"rom\">Nāk-thɔ̄ɔng-thìaw</td><td>touriste</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : augmenter, diminuer",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ເພີ່ມຂຶ້ນ</span> <span class=\"rom\">Phɤ̄ɤm khʉ̂n</span> = augmenter</li><li><span class=\"lo\">ຫຼຸດລົງ</span> <span class=\"rom\">Lūt lóng</span> = diminuer</li><li><span class=\"lo\">ລາຄາສູງຂຶ້ນ</span> <span class=\"rom\">Láa-khǎa sǔung khʉ̂n</span> = les prix montent</li></ul><p><b>À toi de trouver :</b></p><ol><li>Quel rôle jouent ຂຶ້ນ et ລົງ ?</li></ol><details><summary>La règle</summary><p>ຂຶ້ນ (monter) et ລົງ (descendre) après un verbe indiquent une hausse ou une baisse.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les chiffres et les verbes de tendance.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Les prix augmentent.</li><li>Que dit l&#x27;article ?</li><li>C&#x27;est bien pour l&#x27;économie.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ລາຄາສູງຂຶ້ນ</span> <span class=\"rom\">Láa-khǎa sǔung khʉ̂n.</span></li><li><span class=\"lo\">ຂ່າວເວົ້າວ່າແນວໃດ?</span> <span class=\"rom\">Khàaw wȁo wāa nɛ́ɛw-dǎy?</span></li><li><span class=\"lo\">ດີສຳລັບເສດຖະກິດ</span> <span class=\"rom\">Dǐi sǎm-láp sȅet-thā-kít.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Lis un article lao simple en ligne et écris un résumé de 5 phrases.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Explique un article lao à un natif et discutez-en.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>10 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l84-v01",
+   "front": "ໜັງສືພິມ",
+   "back": "Nǎng-sʉ̌ʉ-phím · journal"
+  },
+  {
+   "id": "l84-v02",
+   "front": "ຂ່າວ",
+   "back": "Khàaw · nouvelle, info"
+  },
+  {
+   "id": "l84-v03",
+   "front": "ລົງຂ່າວ",
+   "back": "Lóng khàaw · publier une info"
+  },
+  {
+   "id": "l84-v04",
+   "front": "ເພີ່ມຂຶ້ນ",
+   "back": "Phɤ̄ɤm khʉ̂n · augmenter"
+  },
+  {
+   "id": "l84-v05",
+   "front": "ຫຼຸດລົງ",
+   "back": "Lūt lóng · diminuer"
+  },
+  {
+   "id": "l84-v06",
+   "front": "ເສດຖະກິດ",
+   "back": "Sȅet-thā-kít · économie"
+  },
+  {
+   "id": "l84-v07",
+   "front": "ນັກທ່ອງທ່ຽວ",
+   "back": "Nāk-thɔ̄ɔng-thìaw · touriste"
+  },
+  {
+   "id": "l84-p01",
+   "front": "Les prix augmentent.",
+   "back": "ລາຄາສູງຂຶ້ນ · Láa-khǎa sǔung khʉ̂n."
+  },
+  {
+   "id": "l84-p02",
+   "front": "Que dit l'article ?",
+   "back": "ຂ່າວເວົ້າວ່າແນວໃດ? · Khàaw wȁo wāa nɛ́ɛw-dǎy?"
+  },
+  {
+   "id": "l84-p03",
+   "front": "C'est bien pour l'économie.",
+   "back": "ດີສຳລັບເສດຖະກິດ · Dǐi sǎm-láp sȅet-thā-kít."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ໜັງສືພິມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "journal",
+      "publier une info",
+      "augmenter",
+      "nouvelle, info"
+     ],
+     "answer": "journal",
+     "reveal": "<i>Nǎng-sʉ̌ʉ-phím</i>"
+    },
+    {
+     "audio": [
+      "ຂ່າວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "nouvelle, info",
+      "économie",
+      "publier une info",
+      "touriste"
+     ],
+     "answer": "nouvelle, info",
+     "reveal": "<i>Khàaw</i>"
+    },
+    {
+     "audio": [
+      "ລົງຂ່າວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "publier une info",
+      "journal",
+      "augmenter",
+      "nouvelle, info"
+     ],
+     "answer": "publier une info",
+     "reveal": "<i>Lóng khàaw</i>"
+    },
+    {
+     "audio": [
+      "ເພີ່ມຂຶ້ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "augmenter",
+      "nouvelle, info",
+      "touriste",
+      "économie"
+     ],
+     "answer": "augmenter",
+     "reveal": "<i>Phɤ̄ɤm khʉ̂n</i>"
+    },
+    {
+     "audio": [
+      "ຫຼຸດລົງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "diminuer",
+      "économie",
+      "augmenter",
+      "touriste"
+     ],
+     "answer": "diminuer",
+     "reveal": "<i>Lūt lóng</i>"
+    },
+    {
+     "audio": [
+      "ເສດຖະກິດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "économie",
+      "publier une info",
+      "diminuer",
+      "augmenter"
+     ],
+     "answer": "économie",
+     "reveal": "<i>Sȅet-thā-kít</i>"
+    },
+    {
+     "audio": [
+      "ນັກທ່ອງທ່ຽວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "touriste",
+      "publier une info",
+      "journal",
+      "augmenter"
+     ],
+     "answer": "touriste",
+     "reveal": "<i>Nāk-thɔ̄ɔng-thìaw</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ມື້ນີ້ໜັງສືພິມລົງຂ່າວກ່ຽວກັບລົດໄຟລາວ-ຈີນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Aujourd'hui, le journal parle du train Laos-Chine.",
+      "Le nombre de touristes a beaucoup augmenté.",
+      "Que dit l'article ?",
+      "C'est bien pour l'économie."
+     ],
+     "answer": "Aujourd'hui, le journal parle du train Laos-Chine.",
+     "reveal": "<i>Mʉ̂ʉ-nȉi nǎng-sʉ̌ʉ-phím lóng khàaw kìaw-kǎp lōt-fáy láaw- jǐin.</i>"
+    },
+    {
+     "audio": [
+      "ຂ່າວເວົ້າວ່າແນວໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Que dit l'article ?",
+      "Le nombre de touristes a beaucoup augmenté.",
+      "C'est bien pour l'économie.",
+      "Aujourd'hui, le journal parle du train Laos-Chine."
+     ],
+     "answer": "Que dit l'article ?",
+     "reveal": "<i>Khàaw wȁo wāa nɛ́ɛw-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ນັກທ່ອງທ່ຽວເພີ່ມຂຶ້ນຫຼາຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Le nombre de touristes a beaucoup augmenté.",
+      "C'est bien pour l'économie.",
+      "Aujourd'hui, le journal parle du train Laos-Chine.",
+      "Que dit l'article ?"
+     ],
+     "answer": "Le nombre de touristes a beaucoup augmenté.",
+     "reveal": "<i>Nāk-thɔ̄ɔng-thìaw phɤ̄ɤm khʉ̂n lǎay.</i>"
+    },
+    {
+     "audio": [
+      "ດີສຳລັບເສດຖະກິດເນາະ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'est bien pour l'économie.",
+      "Le nombre de touristes a beaucoup augmenté.",
+      "Aujourd'hui, le journal parle du train Laos-Chine.",
+      "Que dit l'article ?"
+     ],
+     "answer": "C'est bien pour l'économie.",
+     "reveal": "<i>Dǐi sǎm-láp sȅet-thā-kít nɔ̄.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ລາຄາສູງຂຶ້ນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Les prix augmentent.",
+      "Que dit l'article ?",
+      "C'est bien pour l'économie."
+     ],
+     "answer": "Les prix augmentent.",
+     "reveal": "<i>Láa-khǎa sǔung khʉ̂n.</i>"
+    },
+    {
+     "audio": [
+      "ຂ່າວເວົ້າວ່າແນວໃດ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Que dit l'article ?",
+      "C'est bien pour l'économie.",
+      "Les prix augmentent."
+     ],
+     "answer": "Que dit l'article ?",
+     "reveal": "<i>Khàaw wȁo wāa nɛ́ɛw-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ດີສຳລັບເສດຖະກິດ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est bien pour l'économie.",
+      "Que dit l'article ?",
+      "Les prix augmentent."
+     ],
+     "answer": "C'est bien pour l'économie.",
+     "reveal": "<i>Dǐi sǎm-láp sȅet-thā-kít.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ໜັງສືພິມ",
+   "rom": "Nǎng-sʉ̌ʉ-phím",
+   "fr": "journal",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ່າວ",
+   "rom": "Khàaw",
+   "fr": "nouvelle, info",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລົງຂ່າວ",
+   "rom": "Lóng khàaw",
+   "fr": "publier une info",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເພີ່ມຂຶ້ນ",
+   "rom": "Phɤ̄ɤm khʉ̂n",
+   "fr": "augmenter",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫຼຸດລົງ",
+   "rom": "Lūt lóng",
+   "fr": "diminuer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເສດຖະກິດ",
+   "rom": "Sȅet-thā-kít",
+   "fr": "économie",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນັກທ່ອງທ່ຽວ",
+   "rom": "Nāk-thɔ̄ɔng-thìaw",
+   "fr": "touriste",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລາຄາສູງຂຶ້ນ",
+   "rom": "Láa-khǎa sǔung khʉ̂n.",
+   "fr": "Les prix augmentent.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ່າວເວົ້າວ່າແນວໃດ?",
+   "rom": "Khàaw wȁo wāa nɛ́ɛw-dǎy?",
+   "fr": "Que dit l'article ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ດີສຳລັບເສດຖະກິດ",
+   "rom": "Dǐi sǎm-láp sȅet-thā-kít.",
+   "fr": "C'est bien pour l'économie.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ລາຄາ",
+    "ສູງ",
+    "ຂຶ້ນ"
+   ],
+   "rom": "Láa-khǎa sǔung khʉ̂n.",
+   "fr": "Les prix augmentent."
+  },
+  {
+   "tokens": [
+    "ຂ່າວ",
+    "ເວົ້າ",
+    "ວ່າ",
+    "ແນວໃດ"
+   ],
+   "rom": "Khàaw wȁo wāa nɛ́ɛw-dǎy?",
+   "fr": "Que dit l'article ?"
+  },
+  {
+   "tokens": [
+    "ດີ",
+    "ສຳລັບ",
+    "ເສດຖະກິດ"
+   ],
+   "rom": "Dǐi sǎm-láp sȅet-thā-kít.",
+   "fr": "C'est bien pour l'économie."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ໜັງສືພິມ",
+   "rom": "Nǎng-sʉ̌ʉ-phím",
+   "fr": "journal"
+  },
+  {
+   "lao": "ຂ່າວ",
+   "rom": "Khàaw",
+   "fr": "nouvelle, info"
+  },
+  {
+   "lao": "ລົງຂ່າວ",
+   "rom": "Lóng khàaw",
+   "fr": "publier une info"
+  },
+  {
+   "lao": "ເພີ່ມຂຶ້ນ",
+   "rom": "Phɤ̄ɤm khʉ̂n",
+   "fr": "augmenter"
+  },
+  {
+   "lao": "ຫຼຸດລົງ",
+   "rom": "Lūt lóng",
+   "fr": "diminuer"
+  },
+  {
+   "lao": "ເສດຖະກິດ",
+   "rom": "Sȅet-thā-kít",
+   "fr": "économie"
+  },
+  {
+   "lao": "ນັກທ່ອງທ່ຽວ",
+   "rom": "Nāk-thɔ̄ɔng-thìaw",
+   "fr": "touriste"
+  }
+ ],
+ "sounds": {
+  "ເລົ່າໃຫ້ຟັງ": "Lāo hây fáng",
+  "ນໍ": "Nɔ́ɔ",
+  "ສາທຸ": "Sǎa-thū",
+  "ຊ່ວຍ ໃຫ້ແດ່": "Sūay… hây dɛ̀ɛ",
+  "ມື້ນີ້ໜັງສືພິມລົງຂ່າວກ່ຽວກັບລົດໄຟລາວ-ຈີນ": "Mʉ̂ʉ-nȉi nǎng-sʉ̌ʉ-phím lóng khàaw kìaw-kǎp lōt-fáy láaw- jǐin.",
+  "ຂ່າວເວົ້າວ່າແນວໃດ": "Khàaw wȁo wāa nɛ́ɛw-dǎy?",
+  "ນັກທ່ອງທ່ຽວເພີ່ມຂຶ້ນຫຼາຍ": "Nāk-thɔ̄ɔng-thìaw phɤ̄ɤm khʉ̂n lǎay.",
+  "ດີສຳລັບເສດຖະກິດເນາະ": "Dǐi sǎm-láp sȅet-thā-kít nɔ̄.",
+  "ໜັງສືພິມ": "Nǎng-sʉ̌ʉ-phím",
+  "ຂ່າວ": "khàaw",
+  "ລົງຂ່າວ": "Lóng khàaw",
+  "ເພີ່ມຂຶ້ນ": "Phɤ̄ɤm khʉ̂n",
+  "ຫຼຸດລົງ": "Lūt lóng",
+  "ເສດຖະກິດ": "sȅet-thā-kít",
+  "ນັກທ່ອງທ່ຽວ": "Nāk-thɔ̄ɔng-thìaw",
+  "ລາຄາສູງຂຶ້ນ": "Láa-khǎa sǔung khʉ̂n.",
+  "ດີສຳລັບເສດຖະກິດ": "Dǐi sǎm-láp sȅet-thā-kít.",
+  "ລາຄາ": "láa-khǎa",
+  "ສູງ": "sǔung",
+  "ຂຶ້ນ": "khʉ̂n",
+  "ເວົ້າ": "wȁo",
+  "ວ່າ": "wāa",
+  "ແນວໃດ": "nɛ́ɛw-dǎy",
+  "ດີ": "dǐi",
+  "ສຳລັບ": "sǎm-láp"
+ },
+ "suivi": "LEÇON : 84 — Partie E (S'exprimer (cours en lao), B1) · Lire un article simple\nOBJECTIF : Comprendre et résumer un article de presse facile.\nNOTION : augmenter, diminuer\nVOCAB : Nǎng-sʉ̌ʉ-phím, Khàaw, Lóng khàaw, Phɤ̄ɤm khʉ̂n, Lūt lóng, Sȅet-thā-kít, Nāk-thɔ̄ɔng-thìaw\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 85 — Écrire un message formel"
+}

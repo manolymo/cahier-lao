@@ -1,0 +1,486 @@
+{
+ "num": 87,
+ "phase": "Partie E · S'exprimer (cours en lao)",
+ "title": "Géographie et régions",
+ "objective": "Présenter une région du Laos.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>royaume <small class=\"muted\">(leçon 86)</small></li><li>publier une info <small class=\"muted\">(leçon 84)</small></li><li>calme, silencieux <small class=\"muted\">(leçon 80)</small></li><li>conseiller, recommander <small class=\"muted\">(leçon 73)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ອານາຈັກ</span> <span class=\"rom\">Ǎa-náa-ják</span> · royaume</li><li><span class=\"lo\">ລົງຂ່າວ</span> <span class=\"rom\">Lóng khàaw</span> · publier une info</li><li><span class=\"lo\">ງຽບ</span> <span class=\"rom\">Ngîap</span> · calme, silencieux</li><li><span class=\"lo\">ແນະນຳ</span> <span class=\"rom\">Nɛ̄-nǎm</span> · conseiller, recommander</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Présenter une région du Laos.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara prépare un voyage dans le Sud.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ພາກໃຕ້ມີຫຍັງໜ້າທ່ຽວ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ມີສີ່ພັນດອນແລະນ້ຳຕົກງາມໆ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ອາກາດເປັນແນວໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຮ້ອນກວ່າພາກເໜືອ ພາກເໜືອມີພູຫຼາຍ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Phâak-tâay míi nyǎng nâa thìaw?</span><br><span class=\"rom\">Míi sìi-phán dɔ̌ɔn lɛ́ nȁam-tók ngáam ngáam.</span><br><span class=\"rom\">Ǎa-kȁat pěn nɛ́ɛw-dǎy?</span><br><span class=\"rom\">Hȍɔn kwàa phâak-nʉ̌a. Phâak-nʉ̌a míi phúu lǎay.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Qu&#x27;y a-t-il à voir dans le Sud ?<br><b>Noy</b> — Il y a les 4 000 îles et de belles cascades.<br><b>Clara</b> — Et le climat ?<br><b>Noy</b> — Plus chaud que le Nord. Le Nord est montagneux.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Qu&#x27;y a-t-il à voir dans le Sud ?</li><li>Comment est le Nord ?</li></ol><details><summary>Réponses</summary><ol><li>Les 4 000 îles et des cascades.</li><li>Montagneux et plus frais.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ພາກເໜືອ</td><td class=\"rom\">Phâak-nʉ̌a</td><td>le Nord</td><td></td></tr><tr><td class=\"lo\">ພາກໃຕ້</td><td class=\"rom\">Phâak-tâay</td><td>le Sud</td><td></td></tr><tr><td class=\"lo\">ພາກກາງ</td><td class=\"rom\">Phâak-kǎang</td><td>le Centre</td><td></td></tr><tr><td class=\"lo\">ແຂວງ</td><td class=\"rom\">Khwɛ̌ɛng</td><td>province</td><td></td></tr><tr><td class=\"lo\">ນ້ຳຕົກ</td><td class=\"rom\">Nȁam-tók</td><td>cascade</td><td></td></tr><tr><td class=\"lo\">ໜ້າທ່ຽວ</td><td class=\"rom\">Nâa thìaw</td><td>qui vaut le détour</td><td></td></tr><tr><td class=\"lo\">ດອນ</td><td class=\"rom\">Dɔ̌ɔn</td><td>île (de fleuve)</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : ໜ້າ + verbe",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ໜ້າທ່ຽວ</span> <span class=\"rom\">Nâa thìaw</span> = à visiter</li><li><span class=\"lo\">ໜ້າກິນ</span> <span class=\"rom\">Nâa kǐn</span> = appétissant</li><li><span class=\"lo\">ໜ້າຮັກ</span> <span class=\"rom\">Nâa hāk</span> = mignon (à aimer)</li></ul><p><b>À toi de trouver :</b></p><ol><li>Que signifie ໜ້າ devant un verbe ?</li></ol><details><summary>La règle</summary><p>ໜ້າ + verbe = qui donne envie de… (ໜ້າທ່ຽວ, ໜ້າກິນ, ໜ້າຮັກ).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les noms de régions.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Qu&#x27;y a-t-il à voir ?</li><li>Le Nord est montagneux.</li><li>C&#x27;est plus chaud.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ມີຫຍັງໜ້າທ່ຽວ?</span> <span class=\"rom\">Míi nyǎng nâa thìaw?</span></li><li><span class=\"lo\">ພາກເໜືອມີພູຫຼາຍ</span> <span class=\"rom\">Phâak-nʉ̌a míi phúu lǎay.</span></li><li><span class=\"lo\">ຮ້ອນກວ່າ</span> <span class=\"rom\">Hȍɔn kwàa.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Présente une province lao en 8 phrases.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Présente à un natif la région du Laos que tu aimerais visiter.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>10 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l87-v01",
+   "front": "ພາກເໜືອ",
+   "back": "Phâak-nʉ̌a · le Nord"
+  },
+  {
+   "id": "l87-v02",
+   "front": "ພາກໃຕ້",
+   "back": "Phâak-tâay · le Sud"
+  },
+  {
+   "id": "l87-v03",
+   "front": "ພາກກາງ",
+   "back": "Phâak-kǎang · le Centre"
+  },
+  {
+   "id": "l87-v04",
+   "front": "ແຂວງ",
+   "back": "Khwɛ̌ɛng · province"
+  },
+  {
+   "id": "l87-v05",
+   "front": "ນ້ຳຕົກ",
+   "back": "Nȁam-tók · cascade"
+  },
+  {
+   "id": "l87-v06",
+   "front": "ໜ້າທ່ຽວ",
+   "back": "Nâa thìaw · qui vaut le détour"
+  },
+  {
+   "id": "l87-v07",
+   "front": "ດອນ",
+   "back": "Dɔ̌ɔn · île (de fleuve)"
+  },
+  {
+   "id": "l87-p01",
+   "front": "Qu'y a-t-il à voir ?",
+   "back": "ມີຫຍັງໜ້າທ່ຽວ? · Míi nyǎng nâa thìaw?"
+  },
+  {
+   "id": "l87-p02",
+   "front": "Le Nord est montagneux.",
+   "back": "ພາກເໜືອມີພູຫຼາຍ · Phâak-nʉ̌a míi phúu lǎay."
+  },
+  {
+   "id": "l87-p03",
+   "front": "C'est plus chaud.",
+   "back": "ຮ້ອນກວ່າ · Hȍɔn kwàa."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ພາກເໜືອ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "le Nord",
+      "cascade",
+      "qui vaut le détour",
+      "province"
+     ],
+     "answer": "le Nord",
+     "reveal": "<i>Phâak-nʉ̌a</i>"
+    },
+    {
+     "audio": [
+      "ພາກໃຕ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "le Sud",
+      "province",
+      "le Centre",
+      "cascade"
+     ],
+     "answer": "le Sud",
+     "reveal": "<i>Phâak-tâay</i>"
+    },
+    {
+     "audio": [
+      "ພາກກາງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "le Centre",
+      "qui vaut le détour",
+      "île (de fleuve)",
+      "le Nord"
+     ],
+     "answer": "le Centre",
+     "reveal": "<i>Phâak-kǎang</i>"
+    },
+    {
+     "audio": [
+      "ແຂວງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "province",
+      "le Centre",
+      "le Sud",
+      "le Nord"
+     ],
+     "answer": "province",
+     "reveal": "<i>Khwɛ̌ɛng</i>"
+    },
+    {
+     "audio": [
+      "ນ້ຳຕົກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "cascade",
+      "île (de fleuve)",
+      "qui vaut le détour",
+      "le Centre"
+     ],
+     "answer": "cascade",
+     "reveal": "<i>Nȁam-tók</i>"
+    },
+    {
+     "audio": [
+      "ໜ້າທ່ຽວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "qui vaut le détour",
+      "le Nord",
+      "province",
+      "île (de fleuve)"
+     ],
+     "answer": "qui vaut le détour",
+     "reveal": "<i>Nâa thìaw</i>"
+    },
+    {
+     "audio": [
+      "ດອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "île (de fleuve)",
+      "le Centre",
+      "le Sud",
+      "le Nord"
+     ],
+     "answer": "île (de fleuve)",
+     "reveal": "<i>Dɔ̌ɔn</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ພາກໃຕ້ມີຫຍັງໜ້າທ່ຽວ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Qu'y a-t-il à voir dans le Sud ?",
+      "Plus chaud que le Nord. Le Nord est montagneux.",
+      "Et le climat ?",
+      "Il y a les 4 000 îles et de belles cascades."
+     ],
+     "answer": "Qu'y a-t-il à voir dans le Sud ?",
+     "reveal": "<i>Phâak-tâay míi nyǎng nâa thìaw?</i>"
+    },
+    {
+     "audio": [
+      "ມີສີ່ພັນດອນແລະນ້ຳຕົກງາມໆ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Il y a les 4 000 îles et de belles cascades.",
+      "Et le climat ?",
+      "Qu'y a-t-il à voir dans le Sud ?",
+      "Plus chaud que le Nord. Le Nord est montagneux."
+     ],
+     "answer": "Il y a les 4 000 îles et de belles cascades.",
+     "reveal": "<i>Míi sìi-phán dɔ̌ɔn lɛ́ nȁam-tók ngáam ngáam.</i>"
+    },
+    {
+     "audio": [
+      "ອາກາດເປັນແນວໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Et le climat ?",
+      "Il y a les 4 000 îles et de belles cascades.",
+      "Plus chaud que le Nord. Le Nord est montagneux.",
+      "Qu'y a-t-il à voir dans le Sud ?"
+     ],
+     "answer": "Et le climat ?",
+     "reveal": "<i>Ǎa-kȁat pěn nɛ́ɛw-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ຮ້ອນກວ່າພາກເໜືອ ພາກເໜືອມີພູຫຼາຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Plus chaud que le Nord. Le Nord est montagneux.",
+      "Il y a les 4 000 îles et de belles cascades.",
+      "Qu'y a-t-il à voir dans le Sud ?",
+      "Et le climat ?"
+     ],
+     "answer": "Plus chaud que le Nord. Le Nord est montagneux.",
+     "reveal": "<i>Hȍɔn kwàa phâak-nʉ̌a. Phâak-nʉ̌a míi phúu lǎay.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ມີຫຍັງໜ້າທ່ຽວ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Qu'y a-t-il à voir ?",
+      "C'est plus chaud.",
+      "Le Nord est montagneux."
+     ],
+     "answer": "Qu'y a-t-il à voir ?",
+     "reveal": "<i>Míi nyǎng nâa thìaw?</i>"
+    },
+    {
+     "audio": [
+      "ພາກເໜືອມີພູຫຼາຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Le Nord est montagneux.",
+      "C'est plus chaud.",
+      "Qu'y a-t-il à voir ?"
+     ],
+     "answer": "Le Nord est montagneux.",
+     "reveal": "<i>Phâak-nʉ̌a míi phúu lǎay.</i>"
+    },
+    {
+     "audio": [
+      "ຮ້ອນກວ່າ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est plus chaud.",
+      "Qu'y a-t-il à voir ?",
+      "Le Nord est montagneux."
+     ],
+     "answer": "C'est plus chaud.",
+     "reveal": "<i>Hȍɔn kwàa.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ພາກເໜືອ",
+   "rom": "Phâak-nʉ̌a",
+   "fr": "le Nord",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພາກໃຕ້",
+   "rom": "Phâak-tâay",
+   "fr": "le Sud",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພາກກາງ",
+   "rom": "Phâak-kǎang",
+   "fr": "le Centre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແຂວງ",
+   "rom": "Khwɛ̌ɛng",
+   "fr": "province",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນ້ຳຕົກ",
+   "rom": "Nȁam-tók",
+   "fr": "cascade",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໜ້າທ່ຽວ",
+   "rom": "Nâa thìaw",
+   "fr": "qui vaut le détour",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ດອນ",
+   "rom": "Dɔ̌ɔn",
+   "fr": "île (de fleuve)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມີຫຍັງໜ້າທ່ຽວ?",
+   "rom": "Míi nyǎng nâa thìaw?",
+   "fr": "Qu'y a-t-il à voir ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພາກເໜືອມີພູຫຼາຍ",
+   "rom": "Phâak-nʉ̌a míi phúu lǎay.",
+   "fr": "Le Nord est montagneux.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຮ້ອນກວ່າ",
+   "rom": "Hȍɔn kwàa.",
+   "fr": "C'est plus chaud.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ມີ",
+    "ຫຍັງ",
+    "ໜ້າ",
+    "ທ່ຽວ"
+   ],
+   "rom": "Míi nyǎng nâa thìaw?",
+   "fr": "Qu'y a-t-il à voir ?"
+  },
+  {
+   "tokens": [
+    "ພາກເໜືອ",
+    "ມີ",
+    "ພູ",
+    "ຫຼາຍ"
+   ],
+   "rom": "Phâak-nʉ̌a míi phúu lǎay.",
+   "fr": "Le Nord est montagneux."
+  },
+  {
+   "tokens": [
+    "ຮ້ອນ",
+    "ກວ່າ"
+   ],
+   "rom": "Hȍɔn kwàa.",
+   "fr": "C'est plus chaud."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ພາກເໜືອ",
+   "rom": "Phâak-nʉ̌a",
+   "fr": "le Nord"
+  },
+  {
+   "lao": "ພາກໃຕ້",
+   "rom": "Phâak-tâay",
+   "fr": "le Sud"
+  },
+  {
+   "lao": "ພາກກາງ",
+   "rom": "Phâak-kǎang",
+   "fr": "le Centre"
+  },
+  {
+   "lao": "ແຂວງ",
+   "rom": "Khwɛ̌ɛng",
+   "fr": "province"
+  },
+  {
+   "lao": "ນ້ຳຕົກ",
+   "rom": "Nȁam-tók",
+   "fr": "cascade"
+  },
+  {
+   "lao": "ໜ້າທ່ຽວ",
+   "rom": "Nâa thìaw",
+   "fr": "qui vaut le détour"
+  },
+  {
+   "lao": "ດອນ",
+   "rom": "Dɔ̌ɔn",
+   "fr": "île (de fleuve)"
+  }
+ ],
+ "sounds": {
+  "ອານາຈັກ": "Ǎa-náa-ják",
+  "ລົງຂ່າວ": "Lóng khàaw",
+  "ງຽບ": "Ngîap",
+  "ແນະນຳ": "Nɛ̄-nǎm",
+  "ພາກໃຕ້ມີຫຍັງໜ້າທ່ຽວ": "Phâak-tâay míi nyǎng nâa thìaw?",
+  "ມີສີ່ພັນດອນແລະນ້ຳຕົກງາມໆ": "Míi sìi-phán dɔ̌ɔn lɛ́ nȁam-tók ngáam ngáam.",
+  "ອາກາດເປັນແນວໃດ": "Ǎa-kȁat pěn nɛ́ɛw-dǎy?",
+  "ຮ້ອນກວ່າພາກເໜືອ ພາກເໜືອມີພູຫຼາຍ": "Hȍɔn kwàa phâak-nʉ̌a. Phâak-nʉ̌a míi phúu lǎay.",
+  "ພາກເໜືອ": "phâak-nʉ̌a",
+  "ພາກໃຕ້": "Phâak-tâay",
+  "ພາກກາງ": "Phâak-kǎang",
+  "ແຂວງ": "Khwɛ̌ɛng",
+  "ນ້ຳຕົກ": "Nȁam-tók",
+  "ໜ້າທ່ຽວ": "Nâa thìaw",
+  "ດອນ": "Dɔ̌ɔn",
+  "ໜ້າກິນ": "Nâa kǐn",
+  "ໜ້າຮັກ": "Nâa hāk",
+  "ມີຫຍັງໜ້າທ່ຽວ": "Míi nyǎng nâa thìaw?",
+  "ພາກເໜືອມີພູຫຼາຍ": "Phâak-nʉ̌a míi phúu lǎay.",
+  "ຮ້ອນກວ່າ": "Hȍɔn kwàa.",
+  "ມີ": "míi",
+  "ຫຍັງ": "nyǎng",
+  "ໜ້າ": "nâa",
+  "ທ່ຽວ": "thìaw",
+  "ພູ": "phúu",
+  "ຫຼາຍ": "lǎay",
+  "ຮ້ອນ": "hȍɔn",
+  "ກວ່າ": "kwàa"
+ },
+ "suivi": "LEÇON : 87 — Partie E (S'exprimer (cours en lao), B1) · Géographie et régions\nOBJECTIF : Présenter une région du Laos.\nNOTION : ໜ້າ + verbe\nVOCAB : Phâak-nʉ̌a, Phâak-tâay, Phâak-kǎang, Khwɛ̌ɛng, Nȁam-tók, Nâa thìaw, Dɔ̌ɔn\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 88 — Lao et thaï"
+}

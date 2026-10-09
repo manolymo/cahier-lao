@@ -1,0 +1,490 @@
+{
+ "num": 75,
+ "phase": "Partie E · S'exprimer (cours en lao)",
+ "title": "Relations",
+ "objective": "Parler d'amitié, de couple et de conflits.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>tour du monde <small class=\"muted\">(leçon 74)</small></li><li>discuter <small class=\"muted\">(leçon 72)</small></li><li>timide, gêné <small class=\"muted\">(leçon 68)</small></li><li>ouais (familier) <small class=\"muted\">(leçon 61)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຮອບໂລກ</span> <span class=\"rom\">Hɔ̂ɔp lôok</span> · tour du monde</li><li><span class=\"lo\">ລົມ</span> <span class=\"rom\">Lóm</span> · discuter</li><li><span class=\"lo\">ອາຍ</span> <span class=\"rom\">Ǎay</span> · timide, gêné</li><li><span class=\"lo\">ເອີ</span> <span class=\"rom\">ɤ̌ɤ</span> · ouais (familier)</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Parler d&#x27;amitié, de couple et de conflits.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Noy parle de son couple.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຈົ້າກັບແຟນຄືນດີກັນແລ້ວບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຄືນດີແລ້ວ ພວກເຮົາລົມກັນດົນ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ດີແລ້ວ ຄວາມເຂົ້າໃຈກັນສຳຄັນ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ແມ່ນ ລາວເປັນຄົນດີ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Jâo kǎp fɛ́ɛn khʉ́ʉn-dǐi kǎn lɛ̏ɛw bɔ̌ɔ?</span><br><span class=\"rom\">Khʉ́ʉn-dǐi lɛ̏ɛw. Phûak-háo lóm kǎn dǒn.</span><br><span class=\"rom\">Dǐi lɛ̏ɛw. Khwáam khâo-jǎy kǎn sǎm-khán.</span><br><span class=\"rom\">Mɛ̄ɛn. Láaw pěn khón dǐi.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Toi et ton copain, vous vous êtes réconciliés ?<br><b>Noy</b> — Oui. On a longtemps parlé.<br><b>Clara</b> — Tant mieux. Se comprendre, c&#x27;est important.<br><b>Noy</b> — Oui. C&#x27;est quelqu&#x27;un de bien.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Noy et son copain se sont-ils réconciliés ?</li></ol><details><summary>Réponses</summary><ol><li>Oui, après une longue discussion.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຄືນດີ</td><td class=\"rom\">Khʉ́ʉn-dǐi</td><td>se réconcilier</td><td></td></tr><tr><td class=\"lo\">ຜິດກັນ</td><td class=\"rom\">Phīt kǎn</td><td>se disputer, être en froid</td><td></td></tr><tr><td class=\"lo\">ຄວາມເຂົ້າໃຈ</td><td class=\"rom\">Khwáam khâo-jǎy</td><td>compréhension</td><td></td></tr><tr><td class=\"lo\">ໄວ້ໃຈ</td><td class=\"rom\">Wȁy-jǎy</td><td>faire confiance</td><td></td></tr><tr><td class=\"lo\">ເພື່ອນສະໜິດ</td><td class=\"rom\">Phʉ̄an sā-nīt</td><td>ami proche</td><td></td></tr><tr><td class=\"lo\">ສຳຄັນ</td><td class=\"rom\">Sǎm-khán</td><td>important</td><td></td></tr><tr><td class=\"lo\">ກັນ</td><td class=\"rom\">Kǎn</td><td>(réciproque) l&#x27;un l&#x27;autre</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : ກັນ réciproque et ຄວາມ + verbe",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ລົມກັນ</span> <span class=\"rom\">Lóm kǎn</span> = se parler</li><li><span class=\"lo\">ຮັກກັນ</span> <span class=\"rom\">Hāk kǎn</span> = s&#x27;aimer</li><li><span class=\"lo\">ຄວາມຮັກ</span> <span class=\"rom\">Khwáam hāk</span> = l&#x27;amour</li><li><span class=\"lo\">ຄວາມສຸກ</span> <span class=\"rom\">Khwáam sūk</span> = le bonheur</li></ul><p><b>À toi de trouver :</b></p><ol><li>Que fait ກັນ après un verbe ? Et ຄວາມ devant un verbe ?</li></ol><details><summary>La règle</summary><p>Verbe + ກັນ = action réciproque (se parler). ຄວາມ + verbe/adjectif = nom abstrait (ຄວາມຮັກ = l'amour).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> ກັນ et ຄວາມ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Vous vous êtes réconciliés ?</li><li>Se comprendre, c&#x27;est important.</li><li>C&#x27;est quelqu&#x27;un de bien.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຄືນດີກັນແລ້ວບໍ?</span> <span class=\"rom\">Khʉ́ʉn-dǐi kǎn lɛ̏ɛw bɔ̌ɔ?</span></li><li><span class=\"lo\">ຄວາມເຂົ້າໃຈກັນສຳຄັນ</span> <span class=\"rom\">Khwáam khâo-jǎy kǎn sǎm-khán.</span></li><li><span class=\"lo\">ລາວເປັນຄົນດີ</span> <span class=\"rom\">Láaw pěn khón dǐi.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris 6 noms abstraits avec ຄວາມ et utilise-les dans des phrases.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Parle à un natif de ce qui fait une bonne amitié pour vous.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>10 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l75-v01",
+   "front": "ຄືນດີ",
+   "back": "Khʉ́ʉn-dǐi · se réconcilier"
+  },
+  {
+   "id": "l75-v02",
+   "front": "ຜິດກັນ",
+   "back": "Phīt kǎn · se disputer, être en froid"
+  },
+  {
+   "id": "l75-v03",
+   "front": "ຄວາມເຂົ້າໃຈ",
+   "back": "Khwáam khâo-jǎy · compréhension"
+  },
+  {
+   "id": "l75-v04",
+   "front": "ໄວ້ໃຈ",
+   "back": "Wȁy-jǎy · faire confiance"
+  },
+  {
+   "id": "l75-v05",
+   "front": "ເພື່ອນສະໜິດ",
+   "back": "Phʉ̄an sā-nīt · ami proche"
+  },
+  {
+   "id": "l75-v06",
+   "front": "ສຳຄັນ",
+   "back": "Sǎm-khán · important"
+  },
+  {
+   "id": "l75-v07",
+   "front": "ກັນ",
+   "back": "Kǎn · (réciproque) l'un l'autre"
+  },
+  {
+   "id": "l75-p01",
+   "front": "Vous vous êtes réconciliés ?",
+   "back": "ຄືນດີກັນແລ້ວບໍ? · Khʉ́ʉn-dǐi kǎn lɛ̏ɛw bɔ̌ɔ?"
+  },
+  {
+   "id": "l75-p02",
+   "front": "Se comprendre, c'est important.",
+   "back": "ຄວາມເຂົ້າໃຈກັນສຳຄັນ · Khwáam khâo-jǎy kǎn sǎm-khán."
+  },
+  {
+   "id": "l75-p03",
+   "front": "C'est quelqu'un de bien.",
+   "back": "ລາວເປັນຄົນດີ · Láaw pěn khón dǐi."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຄືນດີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "se réconcilier",
+      "ami proche",
+      "se disputer, être en froid",
+      "important"
+     ],
+     "answer": "se réconcilier",
+     "reveal": "<i>Khʉ́ʉn-dǐi</i>"
+    },
+    {
+     "audio": [
+      "ຜິດກັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "se disputer, être en froid",
+      "ami proche",
+      "important",
+      "se réconcilier"
+     ],
+     "answer": "se disputer, être en froid",
+     "reveal": "<i>Phīt kǎn</i>"
+    },
+    {
+     "audio": [
+      "ຄວາມເຂົ້າໃຈ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "compréhension",
+      "se réconcilier",
+      "se disputer, être en froid",
+      "important"
+     ],
+     "answer": "compréhension",
+     "reveal": "<i>Khwáam khâo-jǎy</i>"
+    },
+    {
+     "audio": [
+      "ໄວ້ໃຈ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "faire confiance",
+      "compréhension",
+      "se disputer, être en froid",
+      "ami proche"
+     ],
+     "answer": "faire confiance",
+     "reveal": "<i>Wȁy-jǎy</i>"
+    },
+    {
+     "audio": [
+      "ເພື່ອນສະໜິດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ami proche",
+      "se réconcilier",
+      "compréhension",
+      "faire confiance"
+     ],
+     "answer": "ami proche",
+     "reveal": "<i>Phʉ̄an sā-nīt</i>"
+    },
+    {
+     "audio": [
+      "ສຳຄັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "important",
+      "ami proche",
+      "(réciproque) l'un l'autre",
+      "faire confiance"
+     ],
+     "answer": "important",
+     "reveal": "<i>Sǎm-khán</i>"
+    },
+    {
+     "audio": [
+      "ກັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "(réciproque) l'un l'autre",
+      "se réconcilier",
+      "se disputer, être en froid",
+      "faire confiance"
+     ],
+     "answer": "(réciproque) l'un l'autre",
+     "reveal": "<i>Kǎn</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເຈົ້າກັບແຟນຄືນດີກັນແລ້ວບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Toi et ton copain, vous vous êtes réconciliés ?",
+      "Oui. On a longtemps parlé.",
+      "Oui. C'est quelqu'un de bien.",
+      "Tant mieux. Se comprendre, c'est important."
+     ],
+     "answer": "Toi et ton copain, vous vous êtes réconciliés ?",
+     "reveal": "<i>Jâo kǎp fɛ́ɛn khʉ́ʉn-dǐi kǎn lɛ̏ɛw bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຄືນດີແລ້ວ ພວກເຮົາລົມກັນດົນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oui. On a longtemps parlé.",
+      "Toi et ton copain, vous vous êtes réconciliés ?",
+      "Oui. C'est quelqu'un de bien.",
+      "Tant mieux. Se comprendre, c'est important."
+     ],
+     "answer": "Oui. On a longtemps parlé.",
+     "reveal": "<i>Khʉ́ʉn-dǐi lɛ̏ɛw. Phûak-háo lóm kǎn dǒn.</i>"
+    },
+    {
+     "audio": [
+      "ດີແລ້ວ ຄວາມເຂົ້າໃຈກັນສຳຄັນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tant mieux. Se comprendre, c'est important.",
+      "Toi et ton copain, vous vous êtes réconciliés ?",
+      "Oui. C'est quelqu'un de bien.",
+      "Oui. On a longtemps parlé."
+     ],
+     "answer": "Tant mieux. Se comprendre, c'est important.",
+     "reveal": "<i>Dǐi lɛ̏ɛw. Khwáam khâo-jǎy kǎn sǎm-khán.</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນ ລາວເປັນຄົນດີ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oui. C'est quelqu'un de bien.",
+      "Oui. On a longtemps parlé.",
+      "Toi et ton copain, vous vous êtes réconciliés ?",
+      "Tant mieux. Se comprendre, c'est important."
+     ],
+     "answer": "Oui. C'est quelqu'un de bien.",
+     "reveal": "<i>Mɛ̄ɛn. Láaw pěn khón dǐi.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຄືນດີກັນແລ້ວບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Vous vous êtes réconciliés ?",
+      "Se comprendre, c'est important.",
+      "C'est quelqu'un de bien."
+     ],
+     "answer": "Vous vous êtes réconciliés ?",
+     "reveal": "<i>Khʉ́ʉn-dǐi kǎn lɛ̏ɛw bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຄວາມເຂົ້າໃຈກັນສຳຄັນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Se comprendre, c'est important.",
+      "Vous vous êtes réconciliés ?",
+      "C'est quelqu'un de bien."
+     ],
+     "answer": "Se comprendre, c'est important.",
+     "reveal": "<i>Khwáam khâo-jǎy kǎn sǎm-khán.</i>"
+    },
+    {
+     "audio": [
+      "ລາວເປັນຄົນດີ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est quelqu'un de bien.",
+      "Vous vous êtes réconciliés ?",
+      "Se comprendre, c'est important."
+     ],
+     "answer": "C'est quelqu'un de bien.",
+     "reveal": "<i>Láaw pěn khón dǐi.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຄືນດີ",
+   "rom": "Khʉ́ʉn-dǐi",
+   "fr": "se réconcilier",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຜິດກັນ",
+   "rom": "Phīt kǎn",
+   "fr": "se disputer, être en froid",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄວາມເຂົ້າໃຈ",
+   "rom": "Khwáam khâo-jǎy",
+   "fr": "compréhension",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄວ້ໃຈ",
+   "rom": "Wȁy-jǎy",
+   "fr": "faire confiance",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເພື່ອນສະໜິດ",
+   "rom": "Phʉ̄an sā-nīt",
+   "fr": "ami proche",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສຳຄັນ",
+   "rom": "Sǎm-khán",
+   "fr": "important",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກັນ",
+   "rom": "Kǎn",
+   "fr": "(réciproque) l'un l'autre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄືນດີກັນແລ້ວບໍ?",
+   "rom": "Khʉ́ʉn-dǐi kǎn lɛ̏ɛw bɔ̌ɔ?",
+   "fr": "Vous vous êtes réconciliés ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄວາມເຂົ້າໃຈກັນສຳຄັນ",
+   "rom": "Khwáam khâo-jǎy kǎn sǎm-khán.",
+   "fr": "Se comprendre, c'est important.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລາວເປັນຄົນດີ",
+   "rom": "Láaw pěn khón dǐi.",
+   "fr": "C'est quelqu'un de bien.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຄືນດີ",
+    "ກັນ",
+    "ແລ້ວ",
+    "ບໍ"
+   ],
+   "rom": "Khʉ́ʉn-dǐi kǎn lɛ̏ɛw bɔ̌ɔ?",
+   "fr": "Vous vous êtes réconciliés ?"
+  },
+  {
+   "tokens": [
+    "ຄວາມ",
+    "ເຂົ້າໃຈ",
+    "ກັນ",
+    "ສຳຄັນ"
+   ],
+   "rom": "Khwáam khâo-jǎy kǎn sǎm-khán.",
+   "fr": "Se comprendre, c'est important."
+  },
+  {
+   "tokens": [
+    "ລາວ",
+    "ເປັນ",
+    "ຄົນ",
+    "ດີ"
+   ],
+   "rom": "Láaw pěn khón dǐi.",
+   "fr": "C'est quelqu'un de bien."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຄືນດີ",
+   "rom": "Khʉ́ʉn-dǐi",
+   "fr": "se réconcilier"
+  },
+  {
+   "lao": "ຜິດກັນ",
+   "rom": "Phīt kǎn",
+   "fr": "se disputer, être en froid"
+  },
+  {
+   "lao": "ຄວາມເຂົ້າໃຈ",
+   "rom": "Khwáam khâo-jǎy",
+   "fr": "compréhension"
+  },
+  {
+   "lao": "ໄວ້ໃຈ",
+   "rom": "Wȁy-jǎy",
+   "fr": "faire confiance"
+  },
+  {
+   "lao": "ເພື່ອນສະໜິດ",
+   "rom": "Phʉ̄an sā-nīt",
+   "fr": "ami proche"
+  },
+  {
+   "lao": "ສຳຄັນ",
+   "rom": "Sǎm-khán",
+   "fr": "important"
+  },
+  {
+   "lao": "ກັນ",
+   "rom": "Kǎn",
+   "fr": "(réciproque) l'un l'autre"
+  }
+ ],
+ "sounds": {
+  "ຮອບໂລກ": "Hɔ̂ɔp lôok",
+  "ລົມ": "Lóm",
+  "ອາຍ": "Ǎay",
+  "ເອີ": "ɤ̌ɤ",
+  "ເຈົ້າກັບແຟນຄືນດີກັນແລ້ວບໍ": "Jâo kǎp fɛ́ɛn khʉ́ʉn-dǐi kǎn lɛ̏ɛw bɔ̌ɔ?",
+  "ຄືນດີແລ້ວ ພວກເຮົາລົມກັນດົນ": "Khʉ́ʉn-dǐi lɛ̏ɛw. Phûak-háo lóm kǎn dǒn.",
+  "ດີແລ້ວ ຄວາມເຂົ້າໃຈກັນສຳຄັນ": "Dǐi lɛ̏ɛw. Khwáam khâo-jǎy kǎn sǎm-khán.",
+  "ແມ່ນ ລາວເປັນຄົນດີ": "Mɛ̄ɛn. Láaw pěn khón dǐi.",
+  "ຄືນດີ": "khʉ́ʉn-dǐi",
+  "ຜິດກັນ": "Phīt kǎn",
+  "ຄວາມເຂົ້າໃຈ": "Khwáam khâo-jǎy",
+  "ໄວ້ໃຈ": "Wȁy-jǎy",
+  "ເພື່ອນສະໜິດ": "Phʉ̄an sā-nīt",
+  "ສຳຄັນ": "sǎm-khán",
+  "ກັນ": "kǎn",
+  "ລົມກັນ": "Lóm kǎn",
+  "ຮັກກັນ": "Hāk kǎn",
+  "ຄວາມຮັກ": "Khwáam hāk",
+  "ຄວາມສຸກ": "Khwáam sūk",
+  "ຄືນດີກັນແລ້ວບໍ": "Khʉ́ʉn-dǐi kǎn lɛ̏ɛw bɔ̌ɔ?",
+  "ຄວາມເຂົ້າໃຈກັນສຳຄັນ": "Khwáam khâo-jǎy kǎn sǎm-khán.",
+  "ລາວເປັນຄົນດີ": "Láaw pěn khón dǐi.",
+  "ແລ້ວ": "lɛ̏ɛw",
+  "ບໍ": "bɔ̌ɔ",
+  "ຄວາມ": "khwáam",
+  "ເຂົ້າໃຈ": "khâo-jǎy",
+  "ລາວ": "láaw",
+  "ເປັນ": "pěn",
+  "ຄົນ": "khón",
+  "ດີ": "dǐi"
+ },
+ "suivi": "LEÇON : 75 — Partie E (S'exprimer (cours en lao), B1) · Relations\nOBJECTIF : Parler d'amitié, de couple et de conflits.\nNOTION : ກັນ réciproque et ຄວາມ + verbe\nVOCAB : Khʉ́ʉn-dǐi, Phīt kǎn, Khwáam khâo-jǎy, Wȁy-jǎy, Phʉ̄an sā-nīt, Sǎm-khán, Kǎn\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 76 — La pagode"
+}

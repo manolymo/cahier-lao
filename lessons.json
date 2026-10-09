@@ -461,6 +461,181 @@
    "title": "Bilan A2",
    "phase": "Raconter et organiser",
    "file": "l65.json"
+  },
+  {
+   "id": "l66",
+   "num": 66,
+   "title": "Je pense que…",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l66.json"
+  },
+  {
+   "id": "l67",
+   "num": 67,
+   "title": "D'accord, pas d'accord",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l67.json"
+  },
+  {
+   "id": "l68",
+   "num": 68,
+   "title": "Raconter une histoire",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l68.json"
+  },
+  {
+   "id": "l69",
+   "num": 69,
+   "title": "Mon enfance",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l69.json"
+  },
+  {
+   "id": "l70",
+   "num": 70,
+   "title": "Un problème",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l70.json"
+  },
+  {
+   "id": "l71",
+   "num": 71,
+   "title": "Réclamer",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l71.json"
+  },
+  {
+   "id": "l72",
+   "num": 72,
+   "title": "Il a dit que…",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l72.json"
+  },
+  {
+   "id": "l73",
+   "num": 73,
+   "title": "Conseiller",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l73.json"
+  },
+  {
+   "id": "l74",
+   "num": 74,
+   "title": "Hypothèses",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l74.json"
+  },
+  {
+   "id": "l75",
+   "num": 75,
+   "title": "Relations",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l75.json"
+  },
+  {
+   "id": "l76",
+   "num": 76,
+   "title": "La pagode",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l76.json"
+  },
+  {
+   "id": "l77",
+   "num": 77,
+   "title": "S'adresser à un moine",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l77.json"
+  },
+  {
+   "id": "l78",
+   "num": 78,
+   "title": "Travail (2)",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l78.json"
+  },
+  {
+   "id": "l79",
+   "num": 79,
+   "title": "L'argent",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l79.json"
+  },
+  {
+   "id": "l80",
+   "num": 80,
+   "title": "La ville et la campagne",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l80.json"
+  },
+  {
+   "id": "l81",
+   "num": 81,
+   "title": "Les particules d'attitude",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l81.json"
+  },
+  {
+   "id": "l82",
+   "num": 82,
+   "title": "Écouter une chanson",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l82.json"
+  },
+  {
+   "id": "l83",
+   "num": 83,
+   "title": "Regarder une vidéo",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l83.json"
+  },
+  {
+   "id": "l84",
+   "num": 84,
+   "title": "Lire un article simple",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l84.json"
+  },
+  {
+   "id": "l85",
+   "num": 85,
+   "title": "Écrire un message formel",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l85.json"
+  },
+  {
+   "id": "l86",
+   "num": 86,
+   "title": "L'histoire du Laos",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l86.json"
+  },
+  {
+   "id": "l87",
+   "num": 87,
+   "title": "Géographie et régions",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l87.json"
+  },
+  {
+   "id": "l88",
+   "num": 88,
+   "title": "Lao et thaï",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l88.json"
+  },
+  {
+   "id": "l89",
+   "num": 89,
+   "title": "Improviser",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l89.json"
+  },
+  {
+   "id": "l90",
+   "num": 90,
+   "title": "Bilan B1",
+   "phase": "S'exprimer (cours en lao)",
+   "file": "l90.json"
   }
  ]
 }

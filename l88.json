@@ -1,0 +1,406 @@
+{
+ "num": 88,
+ "phase": "Partie E · S'exprimer (cours en lao)",
+ "title": "Lao et thaï",
+ "objective": "Repérer les mots proches et les faux amis entre lao et thaï.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>province <small class=\"muted\">(leçon 87)</small></li><li>service, département <small class=\"muted\">(leçon 85)</small></li><li>(exclamation, enthousiasme) <small class=\"muted\">(leçon 81)</small></li><li>rêver <small class=\"muted\">(leçon 74)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ແຂວງ</span> <span class=\"rom\">Khwɛ̌ɛng</span> · province</li><li><span class=\"lo\">ພະແນກ</span> <span class=\"rom\">Phā-nɛ̂ɛk</span> · service, département</li><li><span class=\"lo\">ນໍ</span> <span class=\"rom\">Nɔ́ɔ</span> · (exclamation, enthousiasme)</li><li><span class=\"lo\">ຝັນ</span> <span class=\"rom\">Fǎn</span> · rêver</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Repérer les mots proches et les faux amis entre lao et thaï.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Kèo regarde une série thaïe.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຈົ້າເຂົ້າໃຈພາສາໄທບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ເຂົ້າໃຈເກືອບໝົດ ຄ້າຍກັນຫຼາຍ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ມີຄຳທີ່ຕ່າງກັນບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ມີ ເຊັ່ນຄຳວ່າ«ບໍ່»ພາສາໄທແມ່ນ«ໄມ່»</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Jâo khâo-jǎy pháa-sǎa-tháy bɔ̌ɔ?</span><br><span class=\"rom\">Khâo-jǎy kʉ̏ap mōt. Khȁay kǎn lǎay.</span><br><span class=\"rom\">Míi khám thīi tàang kǎn bɔ̌ɔ?</span><br><span class=\"rom\">Míi. Sēn khám wāa« bɔ̀ɔ» pháa-sǎa-tháy mɛ̄ɛn« mày».</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Tu comprends le thaï ?<br><b>Kèo</b> — Presque tout. Ça se ressemble beaucoup.<br><b>Clara</b> — Il y a des mots différents ?<br><b>Kèo</b> — Oui. Par exemple « non » se dit autrement en thaï.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Kèo comprend-il le thaï ?</li></ol><details><summary>Réponses</summary><ol><li>Presque tout.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ພາສາໄທ</td><td class=\"rom\">Pháa-sǎa-tháy</td><td>thaï (langue)</td><td></td></tr><tr><td class=\"lo\">ຄ້າຍກັນ</td><td class=\"rom\">Khȁay kǎn</td><td>se ressembler</td><td></td></tr><tr><td class=\"lo\">ຕ່າງກັນ</td><td class=\"rom\">Tàang kǎn</td><td>être différent</td><td></td></tr><tr><td class=\"lo\">ເຊັ່ນ</td><td class=\"rom\">Sēn</td><td>par exemple</td><td></td></tr><tr><td class=\"lo\">ຄຳຢືມ</td><td class=\"rom\">Khám yʉ̌ʉm</td><td>mot emprunté</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : ressemblances et différences",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຄ້າຍກັນຫຼາຍ</span> <span class=\"rom\">Khȁay kǎn lǎay</span> = très proches</li><li><span class=\"lo\">ຕ່າງກັນໜ້ອຍໜຶ່ງ</span> <span class=\"rom\">Tàang kǎn nɔ̂ɔy nʉ̀ng</span> = un peu différents</li></ul><details><summary>La règle</summary><p>Le lao et le thaï sont très proches à l'oral, avec des alphabets différents et de nombreux mots courants distincts. Ne remplace jamais un mot lao par sa forme thaïe. [Exemples À VÉRIFIER]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les mots proches entre lao et thaï.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Ça se ressemble beaucoup.</li><li>C&#x27;est différent.</li><li>Par exemple…</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຄ້າຍກັນຫຼາຍ</span> <span class=\"rom\">Khȁay kǎn lǎay.</span></li><li><span class=\"lo\">ຕ່າງກັນ</span> <span class=\"rom\">Tàang kǎn.</span></li><li><span class=\"lo\">ເຊັ່ນ</span> <span class=\"rom\">Sēn…</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Fais une liste de 10 mots qui diffèrent entre lao et thaï avec un natif.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Regarde 5 minutes d&#x27;une série thaïe avec un natif lao et note les différences qu&#x27;il relève.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>8 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l88-v01",
+   "front": "ພາສາໄທ",
+   "back": "Pháa-sǎa-tháy · thaï (langue)"
+  },
+  {
+   "id": "l88-v02",
+   "front": "ຄ້າຍກັນ",
+   "back": "Khȁay kǎn · se ressembler"
+  },
+  {
+   "id": "l88-v03",
+   "front": "ຕ່າງກັນ",
+   "back": "Tàang kǎn · être différent"
+  },
+  {
+   "id": "l88-v04",
+   "front": "ເຊັ່ນ",
+   "back": "Sēn · par exemple"
+  },
+  {
+   "id": "l88-v05",
+   "front": "ຄຳຢືມ",
+   "back": "Khám yʉ̌ʉm · mot emprunté"
+  },
+  {
+   "id": "l88-p01",
+   "front": "Ça se ressemble beaucoup.",
+   "back": "ຄ້າຍກັນຫຼາຍ · Khȁay kǎn lǎay."
+  },
+  {
+   "id": "l88-p02",
+   "front": "C'est différent.",
+   "back": "ຕ່າງກັນ · Tàang kǎn."
+  },
+  {
+   "id": "l88-p03",
+   "front": "Par exemple…",
+   "back": "ເຊັ່ນ · Sēn…"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ພາສາໄທ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "thaï (langue)",
+      "se ressembler",
+      "mot emprunté",
+      "par exemple"
+     ],
+     "answer": "thaï (langue)",
+     "reveal": "<i>Pháa-sǎa-tháy</i>"
+    },
+    {
+     "audio": [
+      "ຄ້າຍກັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "se ressembler",
+      "thaï (langue)",
+      "mot emprunté",
+      "être différent"
+     ],
+     "answer": "se ressembler",
+     "reveal": "<i>Khȁay kǎn</i>"
+    },
+    {
+     "audio": [
+      "ຕ່າງກັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "être différent",
+      "thaï (langue)",
+      "mot emprunté",
+      "par exemple"
+     ],
+     "answer": "être différent",
+     "reveal": "<i>Tàang kǎn</i>"
+    },
+    {
+     "audio": [
+      "ເຊັ່ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "par exemple",
+      "se ressembler",
+      "être différent",
+      "thaï (langue)"
+     ],
+     "answer": "par exemple",
+     "reveal": "<i>Sēn</i>"
+    },
+    {
+     "audio": [
+      "ຄຳຢືມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mot emprunté",
+      "être différent",
+      "par exemple",
+      "se ressembler"
+     ],
+     "answer": "mot emprunté",
+     "reveal": "<i>Khám yʉ̌ʉm</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເຈົ້າເຂົ້າໃຈພາສາໄທບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu comprends le thaï ?",
+      "Oui. Par exemple « non » se dit autrement en thaï.",
+      "Presque tout. Ça se ressemble beaucoup.",
+      "Il y a des mots différents ?"
+     ],
+     "answer": "Tu comprends le thaï ?",
+     "reveal": "<i>Jâo khâo-jǎy pháa-sǎa-tháy bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ເຂົ້າໃຈເກືອບໝົດ ຄ້າຍກັນຫຼາຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Presque tout. Ça se ressemble beaucoup.",
+      "Tu comprends le thaï ?",
+      "Oui. Par exemple « non » se dit autrement en thaï.",
+      "Il y a des mots différents ?"
+     ],
+     "answer": "Presque tout. Ça se ressemble beaucoup.",
+     "reveal": "<i>Khâo-jǎy kʉ̏ap mōt. Khȁay kǎn lǎay.</i>"
+    },
+    {
+     "audio": [
+      "ມີຄຳທີ່ຕ່າງກັນບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Il y a des mots différents ?",
+      "Tu comprends le thaï ?",
+      "Oui. Par exemple « non » se dit autrement en thaï.",
+      "Presque tout. Ça se ressemble beaucoup."
+     ],
+     "answer": "Il y a des mots différents ?",
+     "reveal": "<i>Míi khám thīi tàang kǎn bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ມີ ເຊັ່ນຄຳວ່າ«ບໍ່»ພາສາໄທແມ່ນ«ໄມ່»"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oui. Par exemple « non » se dit autrement en thaï.",
+      "Il y a des mots différents ?",
+      "Tu comprends le thaï ?",
+      "Presque tout. Ça se ressemble beaucoup."
+     ],
+     "answer": "Oui. Par exemple « non » se dit autrement en thaï.",
+     "reveal": "<i>Míi. Sēn khám wāa« bɔ̀ɔ» pháa-sǎa-tháy mɛ̄ɛn« mày».</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຄ້າຍກັນຫຼາຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Ça se ressemble beaucoup.",
+      "C'est différent.",
+      "Par exemple…"
+     ],
+     "answer": "Ça se ressemble beaucoup.",
+     "reveal": "<i>Khȁay kǎn lǎay.</i>"
+    },
+    {
+     "audio": [
+      "ຕ່າງກັນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est différent.",
+      "Ça se ressemble beaucoup.",
+      "Par exemple…"
+     ],
+     "answer": "C'est différent.",
+     "reveal": "<i>Tàang kǎn.</i>"
+    },
+    {
+     "audio": [
+      "ເຊັ່ນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Par exemple…",
+      "C'est différent.",
+      "Ça se ressemble beaucoup."
+     ],
+     "answer": "Par exemple…",
+     "reveal": "<i>Sēn…</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ພາສາໄທ",
+   "rom": "Pháa-sǎa-tháy",
+   "fr": "thaï (langue)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄ້າຍກັນ",
+   "rom": "Khȁay kǎn",
+   "fr": "se ressembler",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕ່າງກັນ",
+   "rom": "Tàang kǎn",
+   "fr": "être différent",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຊັ່ນ",
+   "rom": "Sēn",
+   "fr": "par exemple",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄຳຢືມ",
+   "rom": "Khám yʉ̌ʉm",
+   "fr": "mot emprunté",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄ້າຍກັນຫຼາຍ",
+   "rom": "Khȁay kǎn lǎay.",
+   "fr": "Ça se ressemble beaucoup.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕ່າງກັນ",
+   "rom": "Tàang kǎn.",
+   "fr": "C'est différent.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຊັ່ນ",
+   "rom": "Sēn…",
+   "fr": "Par exemple…",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຄ້າຍ",
+    "ກັນ",
+    "ຫຼາຍ"
+   ],
+   "rom": "Khȁay kǎn lǎay.",
+   "fr": "Ça se ressemble beaucoup."
+  },
+  {
+   "tokens": [
+    "ຕ່າງ",
+    "ກັນ"
+   ],
+   "rom": "Tàang kǎn.",
+   "fr": "C'est différent."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ພາສາໄທ",
+   "rom": "Pháa-sǎa-tháy",
+   "fr": "thaï (langue)"
+  },
+  {
+   "lao": "ຄ້າຍກັນ",
+   "rom": "Khȁay kǎn",
+   "fr": "se ressembler"
+  },
+  {
+   "lao": "ຕ່າງກັນ",
+   "rom": "Tàang kǎn",
+   "fr": "être différent"
+  },
+  {
+   "lao": "ເຊັ່ນ",
+   "rom": "Sēn",
+   "fr": "par exemple"
+  },
+  {
+   "lao": "ຄຳຢືມ",
+   "rom": "Khám yʉ̌ʉm",
+   "fr": "mot emprunté"
+  }
+ ],
+ "sounds": {
+  "ແຂວງ": "Khwɛ̌ɛng",
+  "ພະແນກ": "Phā-nɛ̂ɛk",
+  "ນໍ": "Nɔ́ɔ",
+  "ຝັນ": "Fǎn",
+  "ເຈົ້າເຂົ້າໃຈພາສາໄທບໍ": "Jâo khâo-jǎy pháa-sǎa-tháy bɔ̌ɔ?",
+  "ເຂົ້າໃຈເກືອບໝົດ ຄ້າຍກັນຫຼາຍ": "Khâo-jǎy kʉ̏ap mōt. Khȁay kǎn lǎay.",
+  "ມີຄຳທີ່ຕ່າງກັນບໍ": "Míi khám thīi tàang kǎn bɔ̌ɔ?",
+  "ມີ ເຊັ່ນຄຳວ່າ ບໍ່ ພາສາໄທແມ່ນ ໄມ່": "Míi. Sēn khám wāa« bɔ̀ɔ» pháa-sǎa-tháy mɛ̄ɛn« mày».",
+  "ພາສາໄທ": "Pháa-sǎa-tháy",
+  "ຄ້າຍກັນ": "Khȁay kǎn",
+  "ຕ່າງກັນ": "Tàang kǎn.",
+  "ເຊັ່ນ": "Sēn…",
+  "ຄຳຢືມ": "Khám yʉ̌ʉm",
+  "ຄ້າຍກັນຫຼາຍ": "Khȁay kǎn lǎay.",
+  "ຕ່າງກັນໜ້ອຍໜຶ່ງ": "Tàang kǎn nɔ̂ɔy nʉ̀ng",
+  "ຄ້າຍ": "khȁay",
+  "ກັນ": "kǎn",
+  "ຫຼາຍ": "lǎay",
+  "ຕ່າງ": "tàang"
+ },
+ "suivi": "LEÇON : 88 — Partie E (S'exprimer (cours en lao), B1) · Lao et thaï\nOBJECTIF : Repérer les mots proches et les faux amis entre lao et thaï.\nNOTION : ressemblances et différences\nVOCAB : Pháa-sǎa-tháy, Khȁay kǎn, Tàang kǎn, Sēn, Khám yʉ̌ʉm\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 89 — Improviser"
+}

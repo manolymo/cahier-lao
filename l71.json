@@ -1,0 +1,463 @@
+{
+ "num": 71,
+ "phase": "Partie E · S'exprimer (cours en lao)",
+ "title": "Réclamer",
+ "objective": "Faire une réclamation polie et comprendre le passif.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>réparer <small class=\"muted\">(leçon 70)</small></li><li>timide, gêné <small class=\"muted\">(leçon 68)</small></li><li>sortie <small class=\"muted\">(leçon 64)</small></li><li>environ <small class=\"muted\">(leçon 57)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ສ້ອມ</span> <span class=\"rom\">Sɔ̂ɔm</span> · réparer</li><li><span class=\"lo\">ອາຍ</span> <span class=\"rom\">Ǎay</span> · timide, gêné</li><li><span class=\"lo\">ທາງອອກ</span> <span class=\"rom\">Tháang-ɔ̏ɔk</span> · sortie</li><li><span class=\"lo\">ປະມານ</span> <span class=\"rom\">Pá-máan</span> · environ</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Faire une réclamation polie et comprendre le passif.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara a été facturée deux fois.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂໍໂທດ ຂ້ອຍຖືກເກັບເງິນສອງເທື່ອ</span></div></div><div class=\"line\"><span class=\"who\">ພະນັກງານ</span><div><span class=\"lo\">ແທ້ບໍ? ຂໍເບິ່ງໃບບິນແດ່</span></div></div><div class=\"line\"><span class=\"who\">ພະນັກງານ</span><div><span class=\"lo\">ແມ່ນແລ້ວ ຂໍອະໄພ ຈະຄືນເງິນໃຫ້</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂອບໃຈທີ່ເຂົ້າໃຈ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Khɔ̌ɔ-thôot, khɔ̂ɔy thʉ̀ʉk kép ngɤ́n sɔ̌ɔng thʉ̄a.</span><br><span class=\"rom\">Thɛ̏ɛ bɔ̌ɔ? Khɔ̌ɔ bɤ̀ng bǎy-bǐn dɛ̀ɛ.</span><br><span class=\"rom\">Mɛ̄ɛn lɛ̏ɛw, khɔ̌ɔ á-pháy. Já khʉ́ʉn ngɤ́n hây.</span><br><span class=\"rom\">Khɔ̏ɔp-jǎy thīi khâo-jǎy.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Excusez-moi, on m&#x27;a fait payer deux fois.<br><b>L&#x27;employé</b> — Vraiment ? Montrez-moi le ticket, s&#x27;il vous plaît.<br><b>L&#x27;employé</b> — En effet, désolé. Je vous rembourse.<br><b>Clara</b> — Merci de votre compréhension.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quel est le problème ?</li><li>Que fait l&#x27;employé ?</li></ol><details><summary>Réponses</summary><ol><li>Clara a payé deux fois.</li><li>Il vérifie et rembourse.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຖືກ</td><td class=\"rom\">Thʉ̀ʉk</td><td>(passif) subir</td><td></td></tr><tr><td class=\"lo\">ໂດນ</td><td class=\"rom\">Dóon</td><td>(passif familier) se faire</td><td></td></tr><tr><td class=\"lo\">ເກັບເງິນ</td><td class=\"rom\">Kép ngɤ́n</td><td>encaisser</td><td></td></tr><tr><td class=\"lo\">ໃບບິນ</td><td class=\"rom\">Bǎy-bǐn</td><td>ticket, facture</td><td></td></tr><tr><td class=\"lo\">ຄືນເງິນ</td><td class=\"rom\">Khʉ́ʉn ngɤ́n</td><td>rembourser</td><td></td></tr><tr><td class=\"lo\">ຮ້ອງຮຽນ</td><td class=\"rom\">Hȍɔng-hían</td><td>se plaindre</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : le passif avec ຖືກ et ໂດນ",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຖືກເກັບເງິນ</span> <span class=\"rom\">Thʉ̀ʉk kép ngɤ́n</span> = se faire encaisser</li><li><span class=\"lo\">ໂດນຂີ້ລັກ</span> <span class=\"rom\">Dóon khîi-lāk</span> = se faire voler</li><li><span class=\"lo\">ຖືກຕຳຫຼວດຈັບ</span> <span class=\"rom\">Thʉ̀ʉk tǎm-lûat jáp</span> = se faire arrêter par la police</li></ul><p><b>À toi de trouver :</b></p><ol><li>Le passif lao est-il positif ou négatif en général ?</li></ol><details><summary>La règle</summary><p>ຖືກ / ໂດນ + (agent) + verbe = subir une action, souvent désagréable. ໂດນ est plus familier.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> ຖືກ et ໂດນ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>On m&#x27;a fait payer deux fois.</li><li>Vous pouvez me rembourser ?</li><li>Merci de votre compréhension.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້ອຍຖືກເກັບເງິນສອງເທື່ອ</span> <span class=\"rom\">Khɔ̂ɔy thʉ̀ʉk kép ngɤ́n sɔ̌ɔng thʉ̄a.</span></li><li><span class=\"lo\">ຄືນເງິນໃຫ້ໄດ້ບໍ?</span> <span class=\"rom\">Khʉ́ʉn ngɤ́n hây dâay bɔ̌ɔ?</span></li><li><span class=\"lo\">ຂອບໃຈທີ່ເຂົ້າໃຈ</span> <span class=\"rom\">Khɔ̏ɔp-jǎy thīi khâo-jǎy.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris une réclamation polie de 5 phrases.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Joue une réclamation au magasin avec un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>9 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l71-v01",
+   "front": "ຖືກ",
+   "back": "Thʉ̀ʉk · (passif) subir"
+  },
+  {
+   "id": "l71-v02",
+   "front": "ໂດນ",
+   "back": "Dóon · (passif familier) se faire"
+  },
+  {
+   "id": "l71-v03",
+   "front": "ເກັບເງິນ",
+   "back": "Kép ngɤ́n · encaisser"
+  },
+  {
+   "id": "l71-v04",
+   "front": "ໃບບິນ",
+   "back": "Bǎy-bǐn · ticket, facture"
+  },
+  {
+   "id": "l71-v05",
+   "front": "ຄືນເງິນ",
+   "back": "Khʉ́ʉn ngɤ́n · rembourser"
+  },
+  {
+   "id": "l71-v06",
+   "front": "ຮ້ອງຮຽນ",
+   "back": "Hȍɔng-hían · se plaindre"
+  },
+  {
+   "id": "l71-p01",
+   "front": "On m'a fait payer deux fois.",
+   "back": "ຂ້ອຍຖືກເກັບເງິນສອງເທື່ອ · Khɔ̂ɔy thʉ̀ʉk kép ngɤ́n sɔ̌ɔng thʉ̄a."
+  },
+  {
+   "id": "l71-p02",
+   "front": "Vous pouvez me rembourser ?",
+   "back": "ຄືນເງິນໃຫ້ໄດ້ບໍ? · Khʉ́ʉn ngɤ́n hây dâay bɔ̌ɔ?"
+  },
+  {
+   "id": "l71-p03",
+   "front": "Merci de votre compréhension.",
+   "back": "ຂອບໃຈທີ່ເຂົ້າໃຈ · Khɔ̏ɔp-jǎy thīi khâo-jǎy."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຖືກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "(passif) subir",
+      "ticket, facture",
+      "rembourser",
+      "se plaindre"
+     ],
+     "answer": "(passif) subir",
+     "reveal": "<i>Thʉ̀ʉk</i>"
+    },
+    {
+     "audio": [
+      "ໂດນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "(passif familier) se faire",
+      "se plaindre",
+      "rembourser",
+      "(passif) subir"
+     ],
+     "answer": "(passif familier) se faire",
+     "reveal": "<i>Dóon</i>"
+    },
+    {
+     "audio": [
+      "ເກັບເງິນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "encaisser",
+      "(passif) subir",
+      "ticket, facture",
+      "(passif familier) se faire"
+     ],
+     "answer": "encaisser",
+     "reveal": "<i>Kép ngɤ́n</i>"
+    },
+    {
+     "audio": [
+      "ໃບບິນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ticket, facture",
+      "(passif familier) se faire",
+      "rembourser",
+      "se plaindre"
+     ],
+     "answer": "ticket, facture",
+     "reveal": "<i>Bǎy-bǐn</i>"
+    },
+    {
+     "audio": [
+      "ຄືນເງິນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "rembourser",
+      "encaisser",
+      "se plaindre",
+      "(passif familier) se faire"
+     ],
+     "answer": "rembourser",
+     "reveal": "<i>Khʉ́ʉn ngɤ́n</i>"
+    },
+    {
+     "audio": [
+      "ຮ້ອງຮຽນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "se plaindre",
+      "(passif familier) se faire",
+      "ticket, facture",
+      "encaisser"
+     ],
+     "answer": "se plaindre",
+     "reveal": "<i>Hȍɔng-hían</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂໍໂທດ ຂ້ອຍຖືກເກັບເງິນສອງເທື່ອ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Excusez-moi, on m'a fait payer deux fois.",
+      "Vraiment ? Montrez-moi le ticket, s'il vous plaît.",
+      "Merci de votre compréhension.",
+      "En effet, désolé. Je vous rembourse."
+     ],
+     "answer": "Excusez-moi, on m'a fait payer deux fois.",
+     "reveal": "<i>Khɔ̌ɔ-thôot, khɔ̂ɔy thʉ̀ʉk kép ngɤ́n sɔ̌ɔng thʉ̄a.</i>"
+    },
+    {
+     "audio": [
+      "ແທ້ບໍ? ຂໍເບິ່ງໃບບິນແດ່"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Vraiment ? Montrez-moi le ticket, s'il vous plaît.",
+      "En effet, désolé. Je vous rembourse.",
+      "Merci de votre compréhension.",
+      "Excusez-moi, on m'a fait payer deux fois."
+     ],
+     "answer": "Vraiment ? Montrez-moi le ticket, s'il vous plaît.",
+     "reveal": "<i>Thɛ̏ɛ bɔ̌ɔ? Khɔ̌ɔ bɤ̀ng bǎy-bǐn dɛ̀ɛ.</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນແລ້ວ ຂໍອະໄພ ຈະຄືນເງິນໃຫ້"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "En effet, désolé. Je vous rembourse.",
+      "Excusez-moi, on m'a fait payer deux fois.",
+      "Vraiment ? Montrez-moi le ticket, s'il vous plaît.",
+      "Merci de votre compréhension."
+     ],
+     "answer": "En effet, désolé. Je vous rembourse.",
+     "reveal": "<i>Mɛ̄ɛn lɛ̏ɛw, khɔ̌ɔ á-pháy. Já khʉ́ʉn ngɤ́n hây.</i>"
+    },
+    {
+     "audio": [
+      "ຂອບໃຈທີ່ເຂົ້າໃຈ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Merci de votre compréhension.",
+      "En effet, désolé. Je vous rembourse.",
+      "Excusez-moi, on m'a fait payer deux fois.",
+      "Vraiment ? Montrez-moi le ticket, s'il vous plaît."
+     ],
+     "answer": "Merci de votre compréhension.",
+     "reveal": "<i>Khɔ̏ɔp-jǎy thīi khâo-jǎy.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້ອຍຖືກເກັບເງິນສອງເທື່ອ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "On m'a fait payer deux fois.",
+      "Merci de votre compréhension.",
+      "Vous pouvez me rembourser ?"
+     ],
+     "answer": "On m'a fait payer deux fois.",
+     "reveal": "<i>Khɔ̂ɔy thʉ̀ʉk kép ngɤ́n sɔ̌ɔng thʉ̄a.</i>"
+    },
+    {
+     "audio": [
+      "ຄືນເງິນໃຫ້ໄດ້ບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Vous pouvez me rembourser ?",
+      "On m'a fait payer deux fois.",
+      "Merci de votre compréhension."
+     ],
+     "answer": "Vous pouvez me rembourser ?",
+     "reveal": "<i>Khʉ́ʉn ngɤ́n hây dâay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຂອບໃຈທີ່ເຂົ້າໃຈ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Merci de votre compréhension.",
+      "Vous pouvez me rembourser ?",
+      "On m'a fait payer deux fois."
+     ],
+     "answer": "Merci de votre compréhension.",
+     "reveal": "<i>Khɔ̏ɔp-jǎy thīi khâo-jǎy.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຖືກ",
+   "rom": "Thʉ̀ʉk",
+   "fr": "(passif) subir",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂດນ",
+   "rom": "Dóon",
+   "fr": "(passif familier) se faire",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເກັບເງິນ",
+   "rom": "Kép ngɤ́n",
+   "fr": "encaisser",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃບບິນ",
+   "rom": "Bǎy-bǐn",
+   "fr": "ticket, facture",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄືນເງິນ",
+   "rom": "Khʉ́ʉn ngɤ́n",
+   "fr": "rembourser",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຮ້ອງຮຽນ",
+   "rom": "Hȍɔng-hían",
+   "fr": "se plaindre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຖືກເກັບເງິນສອງເທື່ອ",
+   "rom": "Khɔ̂ɔy thʉ̀ʉk kép ngɤ́n sɔ̌ɔng thʉ̄a.",
+   "fr": "On m'a fait payer deux fois.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄືນເງິນໃຫ້ໄດ້ບໍ?",
+   "rom": "Khʉ́ʉn ngɤ́n hây dâay bɔ̌ɔ?",
+   "fr": "Vous pouvez me rembourser ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂອບໃຈທີ່ເຂົ້າໃຈ",
+   "rom": "Khɔ̏ɔp-jǎy thīi khâo-jǎy.",
+   "fr": "Merci de votre compréhension.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຖືກ",
+    "ເກັບ",
+    "ເງິນ",
+    "ສອງ",
+    "ເທື່ອ"
+   ],
+   "rom": "Khɔ̂ɔy thʉ̀ʉk kép ngɤ́n sɔ̌ɔng thʉ̄a.",
+   "fr": "On m'a fait payer deux fois."
+  },
+  {
+   "tokens": [
+    "ຄືນ",
+    "ເງິນ",
+    "ໃຫ້",
+    "ໄດ້",
+    "ບໍ"
+   ],
+   "rom": "Khʉ́ʉn ngɤ́n hây dâay bɔ̌ɔ?",
+   "fr": "Vous pouvez me rembourser ?"
+  },
+  {
+   "tokens": [
+    "ຂອບໃຈ",
+    "ທີ່",
+    "ເຂົ້າໃຈ"
+   ],
+   "rom": "Khɔ̏ɔp-jǎy thīi khâo-jǎy.",
+   "fr": "Merci de votre compréhension."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຖືກ",
+   "rom": "Thʉ̀ʉk",
+   "fr": "(passif) subir"
+  },
+  {
+   "lao": "ໂດນ",
+   "rom": "Dóon",
+   "fr": "(passif familier) se faire"
+  },
+  {
+   "lao": "ເກັບເງິນ",
+   "rom": "Kép ngɤ́n",
+   "fr": "encaisser"
+  },
+  {
+   "lao": "ໃບບິນ",
+   "rom": "Bǎy-bǐn",
+   "fr": "ticket, facture"
+  },
+  {
+   "lao": "ຄືນເງິນ",
+   "rom": "Khʉ́ʉn ngɤ́n",
+   "fr": "rembourser"
+  },
+  {
+   "lao": "ຮ້ອງຮຽນ",
+   "rom": "Hȍɔng-hían",
+   "fr": "se plaindre"
+  }
+ ],
+ "sounds": {
+  "ສ້ອມ": "Sɔ̂ɔm",
+  "ອາຍ": "Ǎay",
+  "ທາງອອກ": "Tháang-ɔ̏ɔk",
+  "ປະມານ": "Pá-máan",
+  "ຂໍໂທດ ຂ້ອຍຖືກເກັບເງິນສອງເທື່ອ": "Khɔ̌ɔ-thôot, khɔ̂ɔy thʉ̀ʉk kép ngɤ́n sɔ̌ɔng thʉ̄a.",
+  "ແທ້ບໍ ຂໍເບິ່ງໃບບິນແດ່": "Thɛ̏ɛ bɔ̌ɔ? Khɔ̌ɔ bɤ̀ng bǎy-bǐn dɛ̀ɛ.",
+  "ແມ່ນແລ້ວ ຂໍອະໄພ ຈະຄືນເງິນໃຫ້": "Mɛ̄ɛn lɛ̏ɛw, khɔ̌ɔ á-pháy. Já khʉ́ʉn ngɤ́n hây.",
+  "ຂອບໃຈທີ່ເຂົ້າໃຈ": "Khɔ̏ɔp-jǎy thīi khâo-jǎy.",
+  "ຖືກ": "thʉ̀ʉk",
+  "ໂດນ": "Dóon",
+  "ເກັບເງິນ": "Kép ngɤ́n",
+  "ໃບບິນ": "Bǎy-bǐn",
+  "ຄືນເງິນ": "Khʉ́ʉn ngɤ́n",
+  "ຮ້ອງຮຽນ": "Hȍɔng-hían",
+  "ຖືກເກັບເງິນ": "Thʉ̀ʉk kép ngɤ́n",
+  "ໂດນຂີ້ລັກ": "Dóon khîi-lāk",
+  "ຖືກຕຳຫຼວດຈັບ": "Thʉ̀ʉk tǎm-lûat jáp",
+  "ຂ້ອຍຖືກເກັບເງິນສອງເທື່ອ": "Khɔ̂ɔy thʉ̀ʉk kép ngɤ́n sɔ̌ɔng thʉ̄a.",
+  "ຄືນເງິນໃຫ້ໄດ້ບໍ": "Khʉ́ʉn ngɤ́n hây dâay bɔ̌ɔ?",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ເກັບ": "kép",
+  "ເງິນ": "ngɤ́n",
+  "ສອງ": "sɔ̌ɔng",
+  "ເທື່ອ": "thʉ̄a",
+  "ຄືນ": "khʉ́ʉn",
+  "ໃຫ້": "hây",
+  "ໄດ້": "dâay",
+  "ບໍ": "bɔ̌ɔ",
+  "ຂອບໃຈ": "khɔ̏ɔp-jǎy",
+  "ທີ່": "thīi",
+  "ເຂົ້າໃຈ": "khâo-jǎy"
+ },
+ "suivi": "LEÇON : 71 — Partie E (S'exprimer (cours en lao), B1) · Réclamer\nOBJECTIF : Faire une réclamation polie et comprendre le passif.\nNOTION : le passif avec ຖືກ et ໂດນ\nVOCAB : Thʉ̀ʉk, Dóon, Kép ngɤ́n, Bǎy-bǐn, Khʉ́ʉn ngɤ́n, Hȍɔng-hían\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 72 — Il a dit que…"
+}

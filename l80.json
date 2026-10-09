@@ -1,0 +1,487 @@
+{
+ "num": 80,
+ "phase": "Partie E · S'exprimer (cours en lao)",
+ "title": "La ville et la campagne",
+ "objective": "Comparer deux modes de vie de façon nuancée.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>passeport <small class=\"muted\">(leçon 79)</small></li><li>repas (d&#x27;un moine) <small class=\"muted\">(leçon 77)</small></li><li>essaie de… <small class=\"muted\">(leçon 73)</small></li><li>note, points <small class=\"muted\">(leçon 66)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ໜັງສືຜ່ານແດນ</span> <span class=\"rom\">Nǎng-sʉ̌ʉ-phàan-dɛ̌ɛn</span> · passeport</li><li><span class=\"lo\">ຈັງຫັນ</span> <span class=\"rom\">Jǎng-hǎn</span> · repas (d&#x27;un moine)</li><li><span class=\"lo\">ລອງ ເບິ່ງ</span> <span class=\"rom\">Lɔ́ɔng… bɤ̀ng</span> · essaie de…</li><li><span class=\"lo\">ຄະແນນ</span> <span class=\"rom\">Khā-nɛ́ɛn</span> · note, points</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Comparer deux modes de vie de façon nuancée.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Week-end au village de M. Somsak.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຢູ່ບ້ານນອກງຽບກວ່າໃນເມືອງຫຼາຍ</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ແມ່ນ ອາກາດກໍດີກວ່າ ແຕ່ບໍ່ສະດວກເທົ່າ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຄົນໜຸ່ມຍ້າຍໄປເມືອງຫຼາຍບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ຫຼາຍ ເພາະໃນເມືອງມີວຽກຫຼາຍກວ່າ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Yùu bâan nɔ̂ɔk ngîap kwàa nǎy mʉ́ang lǎay.</span><br><span class=\"rom\">Mɛ̄ɛn, ǎa-kȁat kɔ̂ɔ dǐi kwàa. Tɛ̀ɛ bɔ̀ɔ sā-dȕak thāo.</span><br><span class=\"rom\">Khón nùm nyȁay pǎy mʉ́ang lǎay bɔ̌ɔ?</span><br><span class=\"rom\">Lǎay. Phɔ̄ nǎy mʉ́ang míi wîak lǎay kwàa.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Au village, c&#x27;est bien plus calme qu&#x27;en ville.<br><b>M. Somsak</b> — Oui, et l&#x27;air est meilleur. Mais c&#x27;est moins pratique.<br><b>Clara</b> — Beaucoup de jeunes partent en ville ?<br><b>M. Somsak</b> — Beaucoup. Parce qu&#x27;en ville il y a plus de travail.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Qu&#x27;est-ce qui est mieux à la campagne ?</li><li>Pourquoi les jeunes partent-ils ?</li></ol><details><summary>Réponses</summary><ol><li>Le calme et l&#x27;air.</li><li>Plus de travail en ville.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ບ້ານນອກ</td><td class=\"rom\">Bâan nɔ̂ɔk</td><td>campagne, village</td><td></td></tr><tr><td class=\"lo\">ໃນເມືອງ</td><td class=\"rom\">Nǎy mʉ́ang</td><td>en ville</td><td></td></tr><tr><td class=\"lo\">ງຽບ</td><td class=\"rom\">Ngîap</td><td>calme, silencieux</td><td></td></tr><tr><td class=\"lo\">ສະດວກ</td><td class=\"rom\">Sā-dȕak</td><td>pratique</td><td></td></tr><tr><td class=\"lo\">ບໍ່ ເທົ່າ</td><td class=\"rom\">Bɔ̀ɔ… thāo</td><td>moins… que</td><td></td></tr><tr><td class=\"lo\">ຍ້າຍ</td><td class=\"rom\">Nyȁay</td><td>déménager</td><td></td></tr><tr><td class=\"lo\">ຄົນໜຸ່ມ</td><td class=\"rom\">Khón nùm</td><td>les jeunes</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : comparaisons nuancées",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ງຽບກວ່າຫຼາຍ</span> <span class=\"rom\">Ngîap kwàa lǎay</span> = beaucoup plus calme</li><li><span class=\"lo\">ບໍ່ສະດວກເທົ່າ</span> <span class=\"rom\">Bɔ̀ɔ sā-dȕak thāo</span> = pas aussi pratique</li><li><span class=\"lo\">ດີເທົ່າກັນ</span> <span class=\"rom\">Dǐi thāo kǎn</span> = aussi bien l&#x27;un que l&#x27;autre</li></ul><p><b>À toi de trouver :</b></p><ol><li>Comment dit-on « moins… que » et « aussi… que » ?</li></ol><details><summary>La règle</summary><p>Adj + ກວ່າ (plus), ບໍ່ + adj + ເທົ່າ (moins / pas autant), adj + ເທົ່າກັນ (autant). ຫຼາຍ après ກວ່າ = beaucoup plus.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> ກວ່າ, ເທົ່າ, ເທົ່າກັນ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>C&#x27;est bien plus calme.</li><li>C&#x27;est moins pratique.</li><li>Il y a plus de travail en ville.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ງຽບກວ່າຫຼາຍ</span> <span class=\"rom\">Ngîap kwàa lǎay.</span></li><li><span class=\"lo\">ບໍ່ສະດວກເທົ່າ</span> <span class=\"rom\">Bɔ̀ɔ sā-dȕak thāo.</span></li><li><span class=\"lo\">ໃນເມືອງມີວຽກຫຼາຍກວ່າ</span> <span class=\"rom\">Nǎy mʉ́ang míi wîak lǎay kwàa.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Compare deux villes que tu connais en 8 phrases nuancées.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Discute avec un natif : ville ou campagne ?</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>10 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l80-v01",
+   "front": "ບ້ານນອກ",
+   "back": "Bâan nɔ̂ɔk · campagne, village"
+  },
+  {
+   "id": "l80-v02",
+   "front": "ໃນເມືອງ",
+   "back": "Nǎy mʉ́ang · en ville"
+  },
+  {
+   "id": "l80-v03",
+   "front": "ງຽບ",
+   "back": "Ngîap · calme, silencieux"
+  },
+  {
+   "id": "l80-v04",
+   "front": "ສະດວກ",
+   "back": "Sā-dȕak · pratique"
+  },
+  {
+   "id": "l80-v05",
+   "front": "ບໍ່ ເທົ່າ",
+   "back": "Bɔ̀ɔ… thāo · moins… que"
+  },
+  {
+   "id": "l80-v06",
+   "front": "ຍ້າຍ",
+   "back": "Nyȁay · déménager"
+  },
+  {
+   "id": "l80-v07",
+   "front": "ຄົນໜຸ່ມ",
+   "back": "Khón nùm · les jeunes"
+  },
+  {
+   "id": "l80-p01",
+   "front": "C'est bien plus calme.",
+   "back": "ງຽບກວ່າຫຼາຍ · Ngîap kwàa lǎay."
+  },
+  {
+   "id": "l80-p02",
+   "front": "C'est moins pratique.",
+   "back": "ບໍ່ສະດວກເທົ່າ · Bɔ̀ɔ sā-dȕak thāo."
+  },
+  {
+   "id": "l80-p03",
+   "front": "Il y a plus de travail en ville.",
+   "back": "ໃນເມືອງມີວຽກຫຼາຍກວ່າ · Nǎy mʉ́ang míi wîak lǎay kwàa."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ບ້ານນອກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "campagne, village",
+      "les jeunes",
+      "pratique",
+      "en ville"
+     ],
+     "answer": "campagne, village",
+     "reveal": "<i>Bâan nɔ̂ɔk</i>"
+    },
+    {
+     "audio": [
+      "ໃນເມືອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "en ville",
+      "pratique",
+      "les jeunes",
+      "moins… que"
+     ],
+     "answer": "en ville",
+     "reveal": "<i>Nǎy mʉ́ang</i>"
+    },
+    {
+     "audio": [
+      "ງຽບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "calme, silencieux",
+      "pratique",
+      "en ville",
+      "campagne, village"
+     ],
+     "answer": "calme, silencieux",
+     "reveal": "<i>Ngîap</i>"
+    },
+    {
+     "audio": [
+      "ສະດວກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pratique",
+      "en ville",
+      "campagne, village",
+      "les jeunes"
+     ],
+     "answer": "pratique",
+     "reveal": "<i>Sā-dȕak</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ ເທົ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "moins… que",
+      "en ville",
+      "déménager",
+      "les jeunes"
+     ],
+     "answer": "moins… que",
+     "reveal": "<i>Bɔ̀ɔ… thāo</i>"
+    },
+    {
+     "audio": [
+      "ຍ້າຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "déménager",
+      "moins… que",
+      "pratique",
+      "campagne, village"
+     ],
+     "answer": "déménager",
+     "reveal": "<i>Nyȁay</i>"
+    },
+    {
+     "audio": [
+      "ຄົນໜຸ່ມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "les jeunes",
+      "pratique",
+      "calme, silencieux",
+      "campagne, village"
+     ],
+     "answer": "les jeunes",
+     "reveal": "<i>Khón nùm</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຢູ່ບ້ານນອກງຽບກວ່າໃນເມືອງຫຼາຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Au village, c'est bien plus calme qu'en ville.",
+      "Beaucoup. Parce qu'en ville il y a plus de travail.",
+      "Beaucoup de jeunes partent en ville ?",
+      "Oui, et l'air est meilleur. Mais c'est moins pratique."
+     ],
+     "answer": "Au village, c'est bien plus calme qu'en ville.",
+     "reveal": "<i>Yùu bâan nɔ̂ɔk ngîap kwàa nǎy mʉ́ang lǎay.</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນ ອາກາດກໍດີກວ່າ ແຕ່ບໍ່ສະດວກເທົ່າ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oui, et l'air est meilleur. Mais c'est moins pratique.",
+      "Beaucoup de jeunes partent en ville ?",
+      "Au village, c'est bien plus calme qu'en ville.",
+      "Beaucoup. Parce qu'en ville il y a plus de travail."
+     ],
+     "answer": "Oui, et l'air est meilleur. Mais c'est moins pratique.",
+     "reveal": "<i>Mɛ̄ɛn, ǎa-kȁat kɔ̂ɔ dǐi kwàa. Tɛ̀ɛ bɔ̀ɔ sā-dȕak thāo.</i>"
+    },
+    {
+     "audio": [
+      "ຄົນໜຸ່ມຍ້າຍໄປເມືອງຫຼາຍບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Beaucoup de jeunes partent en ville ?",
+      "Beaucoup. Parce qu'en ville il y a plus de travail.",
+      "Oui, et l'air est meilleur. Mais c'est moins pratique.",
+      "Au village, c'est bien plus calme qu'en ville."
+     ],
+     "answer": "Beaucoup de jeunes partent en ville ?",
+     "reveal": "<i>Khón nùm nyȁay pǎy mʉ́ang lǎay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຫຼາຍ ເພາະໃນເມືອງມີວຽກຫຼາຍກວ່າ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Beaucoup. Parce qu'en ville il y a plus de travail.",
+      "Au village, c'est bien plus calme qu'en ville.",
+      "Beaucoup de jeunes partent en ville ?",
+      "Oui, et l'air est meilleur. Mais c'est moins pratique."
+     ],
+     "answer": "Beaucoup. Parce qu'en ville il y a plus de travail.",
+     "reveal": "<i>Lǎay. Phɔ̄ nǎy mʉ́ang míi wîak lǎay kwàa.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ງຽບກວ່າຫຼາຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est bien plus calme.",
+      "Il y a plus de travail en ville.",
+      "C'est moins pratique."
+     ],
+     "answer": "C'est bien plus calme.",
+     "reveal": "<i>Ngîap kwàa lǎay.</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ສະດວກເທົ່າ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est moins pratique.",
+      "C'est bien plus calme.",
+      "Il y a plus de travail en ville."
+     ],
+     "answer": "C'est moins pratique.",
+     "reveal": "<i>Bɔ̀ɔ sā-dȕak thāo.</i>"
+    },
+    {
+     "audio": [
+      "ໃນເມືອງມີວຽກຫຼາຍກວ່າ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il y a plus de travail en ville.",
+      "C'est moins pratique.",
+      "C'est bien plus calme."
+     ],
+     "answer": "Il y a plus de travail en ville.",
+     "reveal": "<i>Nǎy mʉ́ang míi wîak lǎay kwàa.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ບ້ານນອກ",
+   "rom": "Bâan nɔ̂ɔk",
+   "fr": "campagne, village",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃນເມືອງ",
+   "rom": "Nǎy mʉ́ang",
+   "fr": "en ville",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ງຽບ",
+   "rom": "Ngîap",
+   "fr": "calme, silencieux",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສະດວກ",
+   "rom": "Sā-dȕak",
+   "fr": "pratique",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ ເທົ່າ",
+   "rom": "Bɔ̀ɔ… thāo",
+   "fr": "moins… que",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍ້າຍ",
+   "rom": "Nyȁay",
+   "fr": "déménager",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄົນໜຸ່ມ",
+   "rom": "Khón nùm",
+   "fr": "les jeunes",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ງຽບກວ່າຫຼາຍ",
+   "rom": "Ngîap kwàa lǎay.",
+   "fr": "C'est bien plus calme.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ສະດວກເທົ່າ",
+   "rom": "Bɔ̀ɔ sā-dȕak thāo.",
+   "fr": "C'est moins pratique.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃນເມືອງມີວຽກຫຼາຍກວ່າ",
+   "rom": "Nǎy mʉ́ang míi wîak lǎay kwàa.",
+   "fr": "Il y a plus de travail en ville.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ງຽບ",
+    "ກວ່າ",
+    "ຫຼາຍ"
+   ],
+   "rom": "Ngîap kwàa lǎay.",
+   "fr": "C'est bien plus calme."
+  },
+  {
+   "tokens": [
+    "ບໍ່",
+    "ສະດວກ",
+    "ເທົ່າ"
+   ],
+   "rom": "Bɔ̀ɔ sā-dȕak thāo.",
+   "fr": "C'est moins pratique."
+  },
+  {
+   "tokens": [
+    "ໃນ",
+    "ເມືອງ",
+    "ມີ",
+    "ວຽກ",
+    "ຫຼາຍ",
+    "ກວ່າ"
+   ],
+   "rom": "Nǎy mʉ́ang míi wîak lǎay kwàa.",
+   "fr": "Il y a plus de travail en ville."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ບ້ານນອກ",
+   "rom": "Bâan nɔ̂ɔk",
+   "fr": "campagne, village"
+  },
+  {
+   "lao": "ໃນເມືອງ",
+   "rom": "Nǎy mʉ́ang",
+   "fr": "en ville"
+  },
+  {
+   "lao": "ງຽບ",
+   "rom": "Ngîap",
+   "fr": "calme, silencieux"
+  },
+  {
+   "lao": "ສະດວກ",
+   "rom": "Sā-dȕak",
+   "fr": "pratique"
+  },
+  {
+   "lao": "ບໍ່ ເທົ່າ",
+   "rom": "Bɔ̀ɔ… thāo",
+   "fr": "moins… que"
+  },
+  {
+   "lao": "ຍ້າຍ",
+   "rom": "Nyȁay",
+   "fr": "déménager"
+  },
+  {
+   "lao": "ຄົນໜຸ່ມ",
+   "rom": "Khón nùm",
+   "fr": "les jeunes"
+  }
+ ],
+ "sounds": {
+  "ໜັງສືຜ່ານແດນ": "Nǎng-sʉ̌ʉ-phàan-dɛ̌ɛn",
+  "ຈັງຫັນ": "Jǎng-hǎn",
+  "ລອງ ເບິ່ງ": "Lɔ́ɔng… bɤ̀ng",
+  "ຄະແນນ": "Khā-nɛ́ɛn",
+  "ຢູ່ບ້ານນອກງຽບກວ່າໃນເມືອງຫຼາຍ": "Yùu bâan nɔ̂ɔk ngîap kwàa nǎy mʉ́ang lǎay.",
+  "ແມ່ນ ອາກາດກໍດີກວ່າ ແຕ່ບໍ່ສະດວກເທົ່າ": "Mɛ̄ɛn, ǎa-kȁat kɔ̂ɔ dǐi kwàa. Tɛ̀ɛ bɔ̀ɔ sā-dȕak thāo.",
+  "ຄົນໜຸ່ມຍ້າຍໄປເມືອງຫຼາຍບໍ": "Khón nùm nyȁay pǎy mʉ́ang lǎay bɔ̌ɔ?",
+  "ຫຼາຍ ເພາະໃນເມືອງມີວຽກຫຼາຍກວ່າ": "Lǎay. Phɔ̄ nǎy mʉ́ang míi wîak lǎay kwàa.",
+  "ບ້ານນອກ": "Bâan nɔ̂ɔk",
+  "ໃນເມືອງ": "Nǎy mʉ́ang",
+  "ງຽບ": "ngîap",
+  "ສະດວກ": "sā-dȕak",
+  "ບໍ່ ເທົ່າ": "Bɔ̀ɔ… thāo",
+  "ຍ້າຍ": "Nyȁay",
+  "ຄົນໜຸ່ມ": "Khón nùm",
+  "ງຽບກວ່າຫຼາຍ": "Ngîap kwàa lǎay.",
+  "ບໍ່ສະດວກເທົ່າ": "Bɔ̀ɔ sā-dȕak thāo.",
+  "ດີເທົ່າກັນ": "Dǐi thāo kǎn",
+  "ໃນເມືອງມີວຽກຫຼາຍກວ່າ": "Nǎy mʉ́ang míi wîak lǎay kwàa.",
+  "ກວ່າ": "kwàa",
+  "ຫຼາຍ": "lǎay",
+  "ບໍ່": "bɔ̀ɔ",
+  "ເທົ່າ": "thāo",
+  "ໃນ": "nǎy",
+  "ເມືອງ": "mʉ́ang",
+  "ມີ": "míi",
+  "ວຽກ": "wîak"
+ },
+ "suivi": "LEÇON : 80 — Partie E (S'exprimer (cours en lao), B1) · La ville et la campagne\nOBJECTIF : Comparer deux modes de vie de façon nuancée.\nNOTION : comparaisons nuancées\nVOCAB : Bâan nɔ̂ɔk, Nǎy mʉ́ang, Ngîap, Sā-dȕak, Bɔ̀ɔ… thāo, Nyȁay, Khón nùm\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 81 — Les particules d'attitude"
+}

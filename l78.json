@@ -1,0 +1,546 @@
+{
+ "num": 78,
+ "phase": "Partie E · S'exprimer (cours en lao)",
+ "title": "Travail (2)",
+ "objective": "Passer un entretien simple : compétences et expériences.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>donner l&#x27;aumône <small class=\"muted\">(leçon 77)</small></li><li>(réciproque) l&#x27;un l&#x27;autre <small class=\"muted\">(leçon 75)</small></li><li>encaisser <small class=\"muted\">(leçon 71)</small></li><li>ouvert, ouvrir <small class=\"muted\">(leçon 64)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ໃສ່ບາດ</span> <span class=\"rom\">Sāy-bȁat</span> · donner l&#x27;aumône</li><li><span class=\"lo\">ກັນ</span> <span class=\"rom\">Kǎn</span> · (réciproque) l&#x27;un l&#x27;autre</li><li><span class=\"lo\">ເກັບເງິນ</span> <span class=\"rom\">Kép ngɤ́n</span> · encaisser</li><li><span class=\"lo\">ເປີດ</span> <span class=\"rom\">Pɤ̏ɤt</span> · ouvert, ouvrir</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Passer un entretien simple : compétences et expériences.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara postule dans une école.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພະນັກງານ</span><div><span class=\"lo\">ເລົ່າກ່ຽວກັບຕົວເອງແດ່</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍເປັນຄູມາຫ້າປີແລ້ວ</span></div></div><div class=\"line\"><span class=\"who\">ພະນັກງານ</span><div><span class=\"lo\">ເປັນຫຍັງຢາກເຮັດວຽກຢູ່ນີ້?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເພາະວ່າໂຮງຮຽນນີ້ມີຊື່ສຽງດີ</span></div></div><div class=\"line\"><span class=\"who\">ພະນັກງານ</span><div><span class=\"lo\">ເຈົ້າມີຈຸດອ່ອນຫຍັງບໍ?</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Lāo kìaw-kǎp tǔa-ěeng dɛ̀ɛ.</span><br><span class=\"rom\">Khɔ̂ɔy pěn khúu máa hâa pǐi lɛ̏ɛw.</span><br><span class=\"rom\">Pěn nyǎng yȁak hēt-wîak yùu nȉi?</span><br><span class=\"rom\">Phɔ̄-wāa hóong-hían nȉi míi sʉ̄ʉ-sǐang dǐi.</span><br><span class=\"rom\">Jâo míi jút ɔ̀ɔn nyǎng bɔ̌ɔ?</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>L&#x27;employé</b> — Parlez-moi de vous.<br><b>Clara</b> — Je suis enseignante depuis cinq ans.<br><b>L&#x27;employé</b> — Pourquoi voulez-vous travailler ici ?<br><b>Clara</b> — Parce que cette école a une bonne réputation.<br><b>L&#x27;employé</b> — Quels sont vos points faibles ?</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Depuis quand Clara enseigne-t-elle ?</li><li>Pourquoi veut-elle cette école ?</li></ol><details><summary>Réponses</summary><ol><li>Cinq ans.</li><li>Bonne réputation.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ສະໝັກວຽກ</td><td class=\"rom\">Sā-māk wîak</td><td>postuler</td><td></td></tr><tr><td class=\"lo\">ປະສົບການ</td><td class=\"rom\">Pá-sǒp-kǎan</td><td>expérience</td><td></td></tr><tr><td class=\"lo\">ຄວາມສາມາດ</td><td class=\"rom\">Khwáam sǎa-mâat</td><td>compétence</td><td></td></tr><tr><td class=\"lo\">ຊື່ສຽງ</td><td class=\"rom\">Sʉ̄ʉ-sǐang</td><td>réputation</td><td></td></tr><tr><td class=\"lo\">ຈຸດແຂງ</td><td class=\"rom\">Jút khɛ̌ɛng</td><td>point fort</td><td></td></tr><tr><td class=\"lo\">ຈຸດອ່ອນ</td><td class=\"rom\">Jút ɔ̀ɔn</td><td>point faible</td><td></td></tr><tr><td class=\"lo\">ເງິນເດືອນ</td><td class=\"rom\">Ngɤ́n-dʉ̌an</td><td>salaire</td><td></td></tr><tr><td class=\"lo\">ຕົວເອງ</td><td class=\"rom\">Tǔa-ěeng</td><td>soi-même</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : parler de soi au travail",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຂ້ອຍມີປະສົບການ ປີ</span> <span class=\"rom\">Khɔ̂ɔy míi pá-sǒp-kǎan… pǐi</span> = j&#x27;ai… ans d&#x27;expérience</li><li><span class=\"lo\">ຈຸດແຂງຂອງຂ້ອຍແມ່ນ</span> <span class=\"rom\">Jút khɛ̌ɛng khɔ̌ɔng khɔ̂ɔy mɛ̄ɛn…</span> = mon point fort est…</li></ul><details><summary>La règle</summary><p>Pour un entretien : présenter son expérience (ມາ…ປີແລ້ວ), ses points forts et ses motivations (ເພາະວ່າ).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les questions classiques d&#x27;entretien.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Je suis enseignante depuis cinq ans.</li><li>Mon point fort, c&#x27;est la patience.</li><li>Parlez-moi de vous.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້ອຍເປັນຄູມາຫ້າປີແລ້ວ</span> <span class=\"rom\">Khɔ̂ɔy pěn khúu máa hâa pǐi lɛ̏ɛw.</span></li><li><span class=\"lo\">ຈຸດແຂງຂອງຂ້ອຍແມ່ນຄວາມອົດທົນ</span> <span class=\"rom\">Jút khɛ̌ɛng khɔ̌ɔng khɔ̂ɔy mɛ̄ɛn khwáam ót-thón.</span></li><li><span class=\"lo\">ເລົ່າກ່ຽວກັບຕົວເອງແດ່</span> <span class=\"rom\">Lāo kìaw-kǎp tǔa-ěeng dɛ̀ɛ.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Prépare tes réponses à 5 questions d&#x27;entretien.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Fais un faux entretien d&#x27;embauche avec un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>11 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l78-v01",
+   "front": "ສະໝັກວຽກ",
+   "back": "Sā-māk wîak · postuler"
+  },
+  {
+   "id": "l78-v02",
+   "front": "ປະສົບການ",
+   "back": "Pá-sǒp-kǎan · expérience"
+  },
+  {
+   "id": "l78-v03",
+   "front": "ຄວາມສາມາດ",
+   "back": "Khwáam sǎa-mâat · compétence"
+  },
+  {
+   "id": "l78-v04",
+   "front": "ຊື່ສຽງ",
+   "back": "Sʉ̄ʉ-sǐang · réputation"
+  },
+  {
+   "id": "l78-v05",
+   "front": "ຈຸດແຂງ",
+   "back": "Jút khɛ̌ɛng · point fort"
+  },
+  {
+   "id": "l78-v06",
+   "front": "ຈຸດອ່ອນ",
+   "back": "Jút ɔ̀ɔn · point faible"
+  },
+  {
+   "id": "l78-v07",
+   "front": "ເງິນເດືອນ",
+   "back": "Ngɤ́n-dʉ̌an · salaire"
+  },
+  {
+   "id": "l78-v08",
+   "front": "ຕົວເອງ",
+   "back": "Tǔa-ěeng · soi-même"
+  },
+  {
+   "id": "l78-p01",
+   "front": "Je suis enseignante depuis cinq ans.",
+   "back": "ຂ້ອຍເປັນຄູມາຫ້າປີແລ້ວ · Khɔ̂ɔy pěn khúu máa hâa pǐi lɛ̏ɛw."
+  },
+  {
+   "id": "l78-p02",
+   "front": "Mon point fort, c'est la patience.",
+   "back": "ຈຸດແຂງຂອງຂ້ອຍແມ່ນຄວາມອົດທົນ · Jút khɛ̌ɛng khɔ̌ɔng khɔ̂ɔy mɛ̄ɛn khwáam ót-thón."
+  },
+  {
+   "id": "l78-p03",
+   "front": "Parlez-moi de vous.",
+   "back": "ເລົ່າກ່ຽວກັບຕົວເອງແດ່ · Lāo kìaw-kǎp tǔa-ěeng dɛ̀ɛ."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ສະໝັກວຽກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "postuler",
+      "salaire",
+      "soi-même",
+      "point fort"
+     ],
+     "answer": "postuler",
+     "reveal": "<i>Sā-māk wîak</i>"
+    },
+    {
+     "audio": [
+      "ປະສົບການ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "expérience",
+      "réputation",
+      "salaire",
+      "soi-même"
+     ],
+     "answer": "expérience",
+     "reveal": "<i>Pá-sǒp-kǎan</i>"
+    },
+    {
+     "audio": [
+      "ຄວາມສາມາດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "compétence",
+      "salaire",
+      "point fort",
+      "point faible"
+     ],
+     "answer": "compétence",
+     "reveal": "<i>Khwáam sǎa-mâat</i>"
+    },
+    {
+     "audio": [
+      "ຊື່ສຽງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "réputation",
+      "salaire",
+      "expérience",
+      "postuler"
+     ],
+     "answer": "réputation",
+     "reveal": "<i>Sʉ̄ʉ-sǐang</i>"
+    },
+    {
+     "audio": [
+      "ຈຸດແຂງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "point fort",
+      "salaire",
+      "réputation",
+      "postuler"
+     ],
+     "answer": "point fort",
+     "reveal": "<i>Jút khɛ̌ɛng</i>"
+    },
+    {
+     "audio": [
+      "ຈຸດອ່ອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "point faible",
+      "soi-même",
+      "expérience",
+      "réputation"
+     ],
+     "answer": "point faible",
+     "reveal": "<i>Jút ɔ̀ɔn</i>"
+    },
+    {
+     "audio": [
+      "ເງິນເດືອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "salaire",
+      "point faible",
+      "point fort",
+      "compétence"
+     ],
+     "answer": "salaire",
+     "reveal": "<i>Ngɤ́n-dʉ̌an</i>"
+    },
+    {
+     "audio": [
+      "ຕົວເອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "soi-même",
+      "compétence",
+      "postuler",
+      "salaire"
+     ],
+     "answer": "soi-même",
+     "reveal": "<i>Tǔa-ěeng</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເລົ່າກ່ຽວກັບຕົວເອງແດ່"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Parlez-moi de vous.",
+      "Pourquoi voulez-vous travailler ici ?",
+      "Je suis enseignante depuis cinq ans.",
+      "Parce que cette école a une bonne réputation."
+     ],
+     "answer": "Parlez-moi de vous.",
+     "reveal": "<i>Lāo kìaw-kǎp tǔa-ěeng dɛ̀ɛ.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍເປັນຄູມາຫ້າປີແລ້ວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je suis enseignante depuis cinq ans.",
+      "Pourquoi voulez-vous travailler ici ?",
+      "Parce que cette école a une bonne réputation.",
+      "Quels sont vos points faibles ?"
+     ],
+     "answer": "Je suis enseignante depuis cinq ans.",
+     "reveal": "<i>Khɔ̂ɔy pěn khúu máa hâa pǐi lɛ̏ɛw.</i>"
+    },
+    {
+     "audio": [
+      "ເປັນຫຍັງຢາກເຮັດວຽກຢູ່ນີ້?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Pourquoi voulez-vous travailler ici ?",
+      "Je suis enseignante depuis cinq ans.",
+      "Parlez-moi de vous.",
+      "Parce que cette école a une bonne réputation."
+     ],
+     "answer": "Pourquoi voulez-vous travailler ici ?",
+     "reveal": "<i>Pěn nyǎng yȁak hēt-wîak yùu nȉi?</i>"
+    },
+    {
+     "audio": [
+      "ເພາະວ່າໂຮງຮຽນນີ້ມີຊື່ສຽງດີ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Parce que cette école a une bonne réputation.",
+      "Pourquoi voulez-vous travailler ici ?",
+      "Parlez-moi de vous.",
+      "Quels sont vos points faibles ?"
+     ],
+     "answer": "Parce que cette école a une bonne réputation.",
+     "reveal": "<i>Phɔ̄-wāa hóong-hían nȉi míi sʉ̄ʉ-sǐang dǐi.</i>"
+    },
+    {
+     "audio": [
+      "ເຈົ້າມີຈຸດອ່ອນຫຍັງບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Quels sont vos points faibles ?",
+      "Pourquoi voulez-vous travailler ici ?",
+      "Parce que cette école a une bonne réputation.",
+      "Parlez-moi de vous."
+     ],
+     "answer": "Quels sont vos points faibles ?",
+     "reveal": "<i>Jâo míi jút ɔ̀ɔn nyǎng bɔ̌ɔ?</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້ອຍເປັນຄູມາຫ້າປີແລ້ວ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je suis enseignante depuis cinq ans.",
+      "Mon point fort, c'est la patience.",
+      "Parlez-moi de vous."
+     ],
+     "answer": "Je suis enseignante depuis cinq ans.",
+     "reveal": "<i>Khɔ̂ɔy pěn khúu máa hâa pǐi lɛ̏ɛw.</i>"
+    },
+    {
+     "audio": [
+      "ຈຸດແຂງຂອງຂ້ອຍແມ່ນຄວາມອົດທົນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Mon point fort, c'est la patience.",
+      "Je suis enseignante depuis cinq ans.",
+      "Parlez-moi de vous."
+     ],
+     "answer": "Mon point fort, c'est la patience.",
+     "reveal": "<i>Jút khɛ̌ɛng khɔ̌ɔng khɔ̂ɔy mɛ̄ɛn khwáam ót-thón.</i>"
+    },
+    {
+     "audio": [
+      "ເລົ່າກ່ຽວກັບຕົວເອງແດ່"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Parlez-moi de vous.",
+      "Mon point fort, c'est la patience.",
+      "Je suis enseignante depuis cinq ans."
+     ],
+     "answer": "Parlez-moi de vous.",
+     "reveal": "<i>Lāo kìaw-kǎp tǔa-ěeng dɛ̀ɛ.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ສະໝັກວຽກ",
+   "rom": "Sā-māk wîak",
+   "fr": "postuler",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ປະສົບການ",
+   "rom": "Pá-sǒp-kǎan",
+   "fr": "expérience",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄວາມສາມາດ",
+   "rom": "Khwáam sǎa-mâat",
+   "fr": "compétence",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊື່ສຽງ",
+   "rom": "Sʉ̄ʉ-sǐang",
+   "fr": "réputation",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈຸດແຂງ",
+   "rom": "Jút khɛ̌ɛng",
+   "fr": "point fort",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈຸດອ່ອນ",
+   "rom": "Jút ɔ̀ɔn",
+   "fr": "point faible",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເງິນເດືອນ",
+   "rom": "Ngɤ́n-dʉ̌an",
+   "fr": "salaire",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕົວເອງ",
+   "rom": "Tǔa-ěeng",
+   "fr": "soi-même",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍເປັນຄູມາຫ້າປີແລ້ວ",
+   "rom": "Khɔ̂ɔy pěn khúu máa hâa pǐi lɛ̏ɛw.",
+   "fr": "Je suis enseignante depuis cinq ans.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈຸດແຂງຂອງຂ້ອຍແມ່ນຄວາມອົດທົນ",
+   "rom": "Jút khɛ̌ɛng khɔ̌ɔng khɔ̂ɔy mɛ̄ɛn khwáam ót-thón.",
+   "fr": "Mon point fort, c'est la patience.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເລົ່າກ່ຽວກັບຕົວເອງແດ່",
+   "rom": "Lāo kìaw-kǎp tǔa-ěeng dɛ̀ɛ.",
+   "fr": "Parlez-moi de vous.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ເປັນ",
+    "ຄູ",
+    "ມາ",
+    "ຫ້າ",
+    "ປີ",
+    "ແລ້ວ"
+   ],
+   "rom": "Khɔ̂ɔy pěn khúu máa hâa pǐi lɛ̏ɛw.",
+   "fr": "Je suis enseignante depuis cinq ans."
+  },
+  {
+   "tokens": [
+    "ຈຸດ",
+    "ແຂງ",
+    "ຂອງ",
+    "ຂ້ອຍ",
+    "ແມ່ນ",
+    "ຄວາມ",
+    "ອົດທົນ"
+   ],
+   "rom": "Jút khɛ̌ɛng khɔ̌ɔng khɔ̂ɔy mɛ̄ɛn khwáam ót-thón.",
+   "fr": "Mon point fort, c'est la patience."
+  },
+  {
+   "tokens": [
+    "ເລົ່າ",
+    "ກ່ຽວກັບ",
+    "ຕົວເອງ",
+    "ແດ່"
+   ],
+   "rom": "Lāo kìaw-kǎp tǔa-ěeng dɛ̀ɛ.",
+   "fr": "Parlez-moi de vous."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ສະໝັກວຽກ",
+   "rom": "Sā-māk wîak",
+   "fr": "postuler"
+  },
+  {
+   "lao": "ປະສົບການ",
+   "rom": "Pá-sǒp-kǎan",
+   "fr": "expérience"
+  },
+  {
+   "lao": "ຄວາມສາມາດ",
+   "rom": "Khwáam sǎa-mâat",
+   "fr": "compétence"
+  },
+  {
+   "lao": "ຊື່ສຽງ",
+   "rom": "Sʉ̄ʉ-sǐang",
+   "fr": "réputation"
+  },
+  {
+   "lao": "ຈຸດແຂງ",
+   "rom": "Jút khɛ̌ɛng",
+   "fr": "point fort"
+  },
+  {
+   "lao": "ຈຸດອ່ອນ",
+   "rom": "Jút ɔ̀ɔn",
+   "fr": "point faible"
+  },
+  {
+   "lao": "ເງິນເດືອນ",
+   "rom": "Ngɤ́n-dʉ̌an",
+   "fr": "salaire"
+  },
+  {
+   "lao": "ຕົວເອງ",
+   "rom": "Tǔa-ěeng",
+   "fr": "soi-même"
+  }
+ ],
+ "sounds": {
+  "ໃສ່ບາດ": "Sāy-bȁat",
+  "ກັນ": "Kǎn",
+  "ເກັບເງິນ": "Kép ngɤ́n",
+  "ເປີດ": "Pɤ̏ɤt",
+  "ເລົ່າກ່ຽວກັບຕົວເອງແດ່": "Lāo kìaw-kǎp tǔa-ěeng dɛ̀ɛ.",
+  "ຂ້ອຍເປັນຄູມາຫ້າປີແລ້ວ": "Khɔ̂ɔy pěn khúu máa hâa pǐi lɛ̏ɛw.",
+  "ເປັນຫຍັງຢາກເຮັດວຽກຢູ່ນີ້": "Pěn nyǎng yȁak hēt-wîak yùu nȉi?",
+  "ເພາະວ່າໂຮງຮຽນນີ້ມີຊື່ສຽງດີ": "Phɔ̄-wāa hóong-hían nȉi míi sʉ̄ʉ-sǐang dǐi.",
+  "ເຈົ້າມີຈຸດອ່ອນຫຍັງບໍ": "Jâo míi jút ɔ̀ɔn nyǎng bɔ̌ɔ?",
+  "ສະໝັກວຽກ": "Sā-māk wîak",
+  "ປະສົບການ": "Pá-sǒp-kǎan",
+  "ຄວາມສາມາດ": "Khwáam sǎa-mâat",
+  "ຊື່ສຽງ": "Sʉ̄ʉ-sǐang",
+  "ຈຸດແຂງ": "Jút khɛ̌ɛng",
+  "ຈຸດອ່ອນ": "Jút ɔ̀ɔn",
+  "ເງິນເດືອນ": "Ngɤ́n-dʉ̌an",
+  "ຕົວເອງ": "tǔa-ěeng",
+  "ຂ້ອຍມີປະສົບການ ປີ": "Khɔ̂ɔy míi pá-sǒp-kǎan… pǐi",
+  "ຈຸດແຂງຂອງຂ້ອຍແມ່ນ": "Jút khɛ̌ɛng khɔ̌ɔng khɔ̂ɔy mɛ̄ɛn…",
+  "ຈຸດແຂງຂອງຂ້ອຍແມ່ນຄວາມອົດທົນ": "Jút khɛ̌ɛng khɔ̌ɔng khɔ̂ɔy mɛ̄ɛn khwáam ót-thón.",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ເປັນ": "pěn",
+  "ຄູ": "khúu",
+  "ມາ": "máa",
+  "ຫ້າ": "hâa",
+  "ປີ": "pǐi",
+  "ແລ້ວ": "lɛ̏ɛw",
+  "ຈຸດ": "jút",
+  "ແຂງ": "khɛ̌ɛng",
+  "ຂອງ": "khɔ̌ɔng",
+  "ແມ່ນ": "mɛ̄ɛn",
+  "ຄວາມ": "khwáam",
+  "ອົດທົນ": "ót-thón",
+  "ເລົ່າ": "lāo",
+  "ກ່ຽວກັບ": "kìaw-kǎp",
+  "ແດ່": "dɛ̀ɛ"
+ },
+ "suivi": "LEÇON : 78 — Partie E (S'exprimer (cours en lao), B1) · Travail (2)\nOBJECTIF : Passer un entretien simple : compétences et expériences.\nNOTION : parler de soi au travail\nVOCAB : Sā-māk wîak, Pá-sǒp-kǎan, Khwáam sǎa-mâat, Sʉ̄ʉ-sǐang, Jút khɛ̌ɛng, Jút ɔ̀ɔn, Ngɤ́n-dʉ̌an, Tǔa-ěeng\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 79 — L'argent"
+}
