@@ -1,0 +1,655 @@
+{
+ "num": 24,
+ "phase": "Partie C · Vie courante",
+ "title": "Au restaurant",
+ "objective": "Commander un repas complet, demander ce qu'on te conseille et payer.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>verre, tasse <small class=\"muted\">(leçon 23)</small></li><li>deux <small class=\"muted\">(leçon 21)</small></li><li>donner ; pour que <small class=\"muted\">(leçon 17)</small></li><li>restaurant <small class=\"muted\">(leçon 10)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຈອກ</span> <span class=\"rom\">Jɔ̏ɔk</span> · verre, tasse</li><li><span class=\"lo\">ສອງ</span> <span class=\"rom\">Sɔ̌ɔng</span> · deux</li><li><span class=\"lo\">ໃຫ້</span> <span class=\"rom\">Hây</span> · donner ; pour que</li><li><span class=\"lo\">ຮ້ານອາຫານ</span> <span class=\"rom\">Hȁan-ǎa-hǎan</span> · restaurant</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Commander un repas complet, demander ce qu&#x27;on te conseille et payer.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara déjeune seule dans un petit restaurant.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ກິນຫຍັງດີເອື້ອຍ?</span><span class=\"rom\">Kǐn nyǎng dǐi ʉ̂ay?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ມີຫຍັງແຊບ?</span><span class=\"rom\">Míi nyǎng sɛ̂ɛp?</span></div></div><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ປີ້ງໄກ່ແຊບຫຼາຍ</span><span class=\"rom\">Pîng-kày sɛ̂ɛp lǎay.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເອົາປີ້ງໄກ່ໜຶ່ງຈານແລະເຂົ້າໜຽວ</span><span class=\"rom\">Ǎo pîng-kày nʉ̀ng jǎan lɛ́ khâo-nǐaw.</span></div></div><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ເອົາເຜັດບໍ?</span><span class=\"rom\">Ǎo phēt bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຜັດໜ້ອຍໜຶ່ງ</span><span class=\"rom\">Phēt nɔ̂ɔy nʉ̀ng.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ນ້ອງ ໄລ່ເງິນແດ່</span><span class=\"rom\">Nɔ̏ɔng, lāy-ngɤ́n dɛ̀ɛ.</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>La vendeuse</b> — Qu&#x27;est-ce que tu manges ?<br><b>Clara</b> — Qu&#x27;est-ce qui est bon ?<br><b>La vendeuse</b> — Le poulet grillé est très bon.<br><b>Clara</b> — Un poulet grillé et du riz gluant.<br><b>La vendeuse</b> — Pimenté ?<br><b>Clara</b> — Un peu pimenté.<br><b>Clara</b> — L&#x27;addition, s&#x27;il vous plaît.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que conseille la serveuse ?</li><li>Comment Clara veut-elle son plat ?</li></ol><details><summary>Réponses</summary><ol><li>Le poulet grillé.</li><li>Un peu pimenté.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຂໍ</td><td class=\"rom\">Khɔ̌ɔ</td><td>je voudrais (poli)</td><td></td></tr><tr><td class=\"lo\">ເອົາ</td><td class=\"rom\">Ǎo</td><td>je prends</td><td></td></tr><tr><td class=\"lo\">ປີ້ງໄກ່</td><td class=\"rom\">Pîng-kày</td><td>poulet grillé</td><td></td></tr><tr><td class=\"lo\">ເມນູ</td><td class=\"rom\">Méé-núu</td><td>menu</td><td></td></tr><tr><td class=\"lo\">ແຊບ</td><td class=\"rom\">Sɛ̂ɛp</td><td>bon, délicieux</td><td></td></tr><tr><td class=\"lo\">ເຜັດ</td><td class=\"rom\">Phēt</td><td>pimenté</td><td></td></tr><tr><td class=\"lo\">ເຜັດໜ້ອຍໜຶ່ງ</td><td class=\"rom\">Phēt nɔ̂ɔy nʉ̀ng</td><td>un peu pimenté</td><td></td></tr><tr><td class=\"lo\">ບໍ່ໃສ່ໝາກເຜັດ</td><td class=\"rom\">Bɔ̀ɔ sày mȁak-phēt</td><td>sans piment</td><td></td></tr><tr><td class=\"lo\">ໄລ່ເງິນ</td><td class=\"rom\">Lāy-ngɤ́n</td><td>l&#x27;addition</td><td></td></tr><tr><td class=\"lo\">ເຝີ</td><td class=\"rom\">Fɤ̌ɤ</td><td>soupe pho</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : la demande polie avec ຂໍ",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຂໍນ້ຳແດ່</span> <span class=\"rom\">Khɔ̌ɔ nȁam dɛ̀ɛ</span> = de l&#x27;eau, s&#x27;il vous plaît</li><li><span class=\"lo\">ຂໍເມນູແດ່</span> <span class=\"rom\">Khɔ̌ɔ méé-núu dɛ̀ɛ</span> = le menu, s&#x27;il vous plaît</li><li><span class=\"lo\">ຂໍໂທດ</span> <span class=\"rom\">Khɔ̌ɔ thôot</span> = pardon (litt. je demande la faute)</li></ul><p><b>À toi de trouver :</b></p><ol><li>Où se place ແດ່ ? Qu&#x27;apporte-t-il ?</li></ol><details><summary>La règle</summary><p>ຂໍ + chose (+ ແດ່) = « je voudrais…, s'il vous plaît ». ແດ່ en fin de phrase adoucit la demande.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les mots ຂໍ et ແດ່ qui encadrent la demande.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Qu&#x27;est-ce qui est bon ?</li><li>Le menu, s&#x27;il vous plaît.</li><li>Sans piment.</li><li>L&#x27;addition, s&#x27;il vous plaît.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ມີຫຍັງແຊບ?</span> <span class=\"rom\">Míi nyǎng sɛ̂ɛp?</span></li><li><span class=\"lo\">ຂໍເມນູແດ່</span> <span class=\"rom\">Khɔ̌ɔ méé-núu dɛ̀ɛ.</span></li><li><span class=\"lo\">ບໍ່ໃສ່ໝາກເຜັດ</span> <span class=\"rom\">Bɔ̀ɔ sày mȁak-phēt.</span></li><li><span class=\"lo\">ໄລ່ເງິນແດ່</span> <span class=\"rom\">Lāy-ngɤ́n dɛ̀ɛ.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris ta commande idéale au restaurant lao en 4 phrases.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Commande un repas complet dans un restaurant lao ou asiatique, en lao.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>14 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l24-v01",
+   "front": "ຂໍ",
+   "back": "Khɔ̌ɔ · je voudrais (poli)"
+  },
+  {
+   "id": "l24-v02",
+   "front": "ເອົາ",
+   "back": "Ǎo · je prends"
+  },
+  {
+   "id": "l24-v03",
+   "front": "ປີ້ງໄກ່",
+   "back": "Pîng-kày · poulet grillé"
+  },
+  {
+   "id": "l24-v04",
+   "front": "ເມນູ",
+   "back": "Méé-núu · menu"
+  },
+  {
+   "id": "l24-v05",
+   "front": "ແຊບ",
+   "back": "Sɛ̂ɛp · bon, délicieux"
+  },
+  {
+   "id": "l24-v06",
+   "front": "ເຜັດ",
+   "back": "Phēt · pimenté"
+  },
+  {
+   "id": "l24-v07",
+   "front": "ເຜັດໜ້ອຍໜຶ່ງ",
+   "back": "Phēt nɔ̂ɔy nʉ̀ng · un peu pimenté"
+  },
+  {
+   "id": "l24-v08",
+   "front": "ບໍ່ໃສ່ໝາກເຜັດ",
+   "back": "Bɔ̀ɔ sày mȁak-phēt · sans piment"
+  },
+  {
+   "id": "l24-v09",
+   "front": "ໄລ່ເງິນ",
+   "back": "Lāy-ngɤ́n · l'addition"
+  },
+  {
+   "id": "l24-v10",
+   "front": "ເຝີ",
+   "back": "Fɤ̌ɤ · soupe pho"
+  },
+  {
+   "id": "l24-p01",
+   "front": "Qu'est-ce qui est bon ?",
+   "back": "ມີຫຍັງແຊບ? · Míi nyǎng sɛ̂ɛp?"
+  },
+  {
+   "id": "l24-p02",
+   "front": "Le menu, s'il vous plaît.",
+   "back": "ຂໍເມນູແດ່ · Khɔ̌ɔ méé-núu dɛ̀ɛ."
+  },
+  {
+   "id": "l24-p03",
+   "front": "Sans piment.",
+   "back": "ບໍ່ໃສ່ໝາກເຜັດ · Bɔ̀ɔ sày mȁak-phēt."
+  },
+  {
+   "id": "l24-p04",
+   "front": "L'addition, s'il vous plaît.",
+   "back": "ໄລ່ເງິນແດ່ · Lāy-ngɤ́n dɛ̀ɛ."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຂໍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "je voudrais (poli)",
+      "un peu pimenté",
+      "soupe pho",
+      "bon, délicieux"
+     ],
+     "answer": "je voudrais (poli)",
+     "reveal": "<i>Khɔ̌ɔ</i>"
+    },
+    {
+     "audio": [
+      "ເອົາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "je prends",
+      "sans piment",
+      "bon, délicieux",
+      "pimenté"
+     ],
+     "answer": "je prends",
+     "reveal": "<i>Ǎo</i>"
+    },
+    {
+     "audio": [
+      "ປີ້ງໄກ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "poulet grillé",
+      "menu",
+      "soupe pho",
+      "sans piment"
+     ],
+     "answer": "poulet grillé",
+     "reveal": "<i>Pîng-kày</i>"
+    },
+    {
+     "audio": [
+      "ເມນູ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "menu",
+      "pimenté",
+      "bon, délicieux",
+      "sans piment"
+     ],
+     "answer": "menu",
+     "reveal": "<i>Méé-núu</i>"
+    },
+    {
+     "audio": [
+      "ແຊບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "bon, délicieux",
+      "soupe pho",
+      "menu",
+      "pimenté"
+     ],
+     "answer": "bon, délicieux",
+     "reveal": "<i>Sɛ̂ɛp</i>"
+    },
+    {
+     "audio": [
+      "ເຜັດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pimenté",
+      "un peu pimenté",
+      "soupe pho",
+      "sans piment"
+     ],
+     "answer": "pimenté",
+     "reveal": "<i>Phēt</i>"
+    },
+    {
+     "audio": [
+      "ເຜັດໜ້ອຍໜຶ່ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "un peu pimenté",
+      "pimenté",
+      "poulet grillé",
+      "bon, délicieux"
+     ],
+     "answer": "un peu pimenté",
+     "reveal": "<i>Phēt nɔ̂ɔy nʉ̀ng</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ໃສ່ໝາກເຜັດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "sans piment",
+      "poulet grillé",
+      "je prends",
+      "bon, délicieux"
+     ],
+     "answer": "sans piment",
+     "reveal": "<i>Bɔ̀ɔ sày mȁak-phēt</i>"
+    },
+    {
+     "audio": [
+      "ໄລ່ເງິນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "l'addition",
+      "un peu pimenté",
+      "sans piment",
+      "pimenté"
+     ],
+     "answer": "l'addition",
+     "reveal": "<i>Lāy-ngɤ́n</i>"
+    },
+    {
+     "audio": [
+      "ເຝີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "soupe pho",
+      "je voudrais (poli)",
+      "sans piment",
+      "je prends"
+     ],
+     "answer": "soupe pho",
+     "reveal": "<i>Fɤ̌ɤ</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ກິນຫຍັງດີເອື້ອຍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Qu'est-ce que tu manges ?",
+      "Un peu pimenté.",
+      "Pimenté ?",
+      "Qu'est-ce qui est bon ?"
+     ],
+     "answer": "Qu'est-ce que tu manges ?",
+     "reveal": "<i>Kǐn nyǎng dǐi ʉ̂ay?</i>"
+    },
+    {
+     "audio": [
+      "ມີຫຍັງແຊບ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Qu'est-ce qui est bon ?",
+      "Qu'est-ce que tu manges ?",
+      "Un poulet grillé et du riz gluant.",
+      "L'addition, s'il vous plaît."
+     ],
+     "answer": "Qu'est-ce qui est bon ?",
+     "reveal": "<i>Míi nyǎng sɛ̂ɛp?</i>"
+    },
+    {
+     "audio": [
+      "ປີ້ງໄກ່ແຊບຫຼາຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Le poulet grillé est très bon.",
+      "Qu'est-ce qui est bon ?",
+      "Qu'est-ce que tu manges ?",
+      "L'addition, s'il vous plaît."
+     ],
+     "answer": "Le poulet grillé est très bon.",
+     "reveal": "<i>Pîng-kày sɛ̂ɛp lǎay.</i>"
+    },
+    {
+     "audio": [
+      "ເອົາປີ້ງໄກ່ໜຶ່ງຈານແລະເຂົ້າໜຽວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Un poulet grillé et du riz gluant.",
+      "L'addition, s'il vous plaît.",
+      "Un peu pimenté.",
+      "Qu'est-ce que tu manges ?"
+     ],
+     "answer": "Un poulet grillé et du riz gluant.",
+     "reveal": "<i>Ǎo pîng-kày nʉ̀ng jǎan lɛ́ khâo-nǐaw.</i>"
+    },
+    {
+     "audio": [
+      "ເອົາເຜັດບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Pimenté ?",
+      "Un poulet grillé et du riz gluant.",
+      "Qu'est-ce qui est bon ?",
+      "Qu'est-ce que tu manges ?"
+     ],
+     "answer": "Pimenté ?",
+     "reveal": "<i>Ǎo phēt bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ເຜັດໜ້ອຍໜຶ່ງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Un peu pimenté.",
+      "L'addition, s'il vous plaît.",
+      "Pimenté ?",
+      "Qu'est-ce qui est bon ?"
+     ],
+     "answer": "Un peu pimenté.",
+     "reveal": "<i>Phēt nɔ̂ɔy nʉ̀ng.</i>"
+    },
+    {
+     "audio": [
+      "ນ້ອງ ໄລ່ເງິນແດ່"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "L'addition, s'il vous plaît.",
+      "Le poulet grillé est très bon.",
+      "Qu'est-ce que tu manges ?",
+      "Qu'est-ce qui est bon ?"
+     ],
+     "answer": "L'addition, s'il vous plaît.",
+     "reveal": "<i>Nɔ̏ɔng, lāy-ngɤ́n dɛ̀ɛ.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ມີຫຍັງແຊບ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Qu'est-ce qui est bon ?",
+      "Le menu, s'il vous plaît.",
+      "Sans piment.",
+      "L'addition, s'il vous plaît."
+     ],
+     "answer": "Qu'est-ce qui est bon ?",
+     "reveal": "<i>Míi nyǎng sɛ̂ɛp?</i>"
+    },
+    {
+     "audio": [
+      "ຂໍເມນູແດ່"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Le menu, s'il vous plaît.",
+      "Sans piment.",
+      "L'addition, s'il vous plaît.",
+      "Qu'est-ce qui est bon ?"
+     ],
+     "answer": "Le menu, s'il vous plaît.",
+     "reveal": "<i>Khɔ̌ɔ méé-núu dɛ̀ɛ.</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ໃສ່ໝາກເຜັດ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Sans piment.",
+      "Le menu, s'il vous plaît.",
+      "L'addition, s'il vous plaît.",
+      "Qu'est-ce qui est bon ?"
+     ],
+     "answer": "Sans piment.",
+     "reveal": "<i>Bɔ̀ɔ sày mȁak-phēt.</i>"
+    },
+    {
+     "audio": [
+      "ໄລ່ເງິນແດ່"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "L'addition, s'il vous plaît.",
+      "Sans piment.",
+      "Qu'est-ce qui est bon ?",
+      "Le menu, s'il vous plaît."
+     ],
+     "answer": "L'addition, s'il vous plaît.",
+     "reveal": "<i>Lāy-ngɤ́n dɛ̀ɛ.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຂໍ",
+   "rom": "Khɔ̌ɔ",
+   "fr": "je voudrais (poli)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເອົາ",
+   "rom": "Ǎo",
+   "fr": "je prends",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ປີ້ງໄກ່",
+   "rom": "Pîng-kày",
+   "fr": "poulet grillé",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເມນູ",
+   "rom": "Méé-núu",
+   "fr": "menu",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແຊບ",
+   "rom": "Sɛ̂ɛp",
+   "fr": "bon, délicieux",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຜັດ",
+   "rom": "Phēt",
+   "fr": "pimenté",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຜັດໜ້ອຍໜຶ່ງ",
+   "rom": "Phēt nɔ̂ɔy nʉ̀ng",
+   "fr": "un peu pimenté",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ໃສ່ໝາກເຜັດ",
+   "rom": "Bɔ̀ɔ sày mȁak-phēt",
+   "fr": "sans piment",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄລ່ເງິນ",
+   "rom": "Lāy-ngɤ́n",
+   "fr": "l'addition",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຝີ",
+   "rom": "Fɤ̌ɤ",
+   "fr": "soupe pho",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມີຫຍັງແຊບ?",
+   "rom": "Míi nyǎng sɛ̂ɛp?",
+   "fr": "Qu'est-ce qui est bon ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍເມນູແດ່",
+   "rom": "Khɔ̌ɔ méé-núu dɛ̀ɛ.",
+   "fr": "Le menu, s'il vous plaît.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ໃສ່ໝາກເຜັດ",
+   "rom": "Bɔ̀ɔ sày mȁak-phēt.",
+   "fr": "Sans piment.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄລ່ເງິນແດ່",
+   "rom": "Lāy-ngɤ́n dɛ̀ɛ.",
+   "fr": "L'addition, s'il vous plaît.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ມີ",
+    "ຫຍັງ",
+    "ແຊບ"
+   ],
+   "rom": "Míi nyǎng sɛ̂ɛp?",
+   "fr": "Qu'est-ce qui est bon ?"
+  },
+  {
+   "tokens": [
+    "ຂໍ",
+    "ເມນູ",
+    "ແດ່"
+   ],
+   "rom": "Khɔ̌ɔ méé-núu dɛ̀ɛ.",
+   "fr": "Le menu, s'il vous plaît."
+  },
+  {
+   "tokens": [
+    "ບໍ່",
+    "ໃສ່",
+    "ໝາກເຜັດ"
+   ],
+   "rom": "Bɔ̀ɔ sày mȁak-phēt.",
+   "fr": "Sans piment."
+  },
+  {
+   "tokens": [
+    "ໄລ່ເງິນ",
+    "ແດ່"
+   ],
+   "rom": "Lāy-ngɤ́n dɛ̀ɛ.",
+   "fr": "L'addition, s'il vous plaît."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຂໍ",
+   "rom": "Khɔ̌ɔ",
+   "fr": "je voudrais (poli)"
+  },
+  {
+   "lao": "ເອົາ",
+   "rom": "Ǎo",
+   "fr": "je prends"
+  },
+  {
+   "lao": "ປີ້ງໄກ່",
+   "rom": "Pîng-kày",
+   "fr": "poulet grillé"
+  },
+  {
+   "lao": "ເມນູ",
+   "rom": "Méé-núu",
+   "fr": "menu"
+  },
+  {
+   "lao": "ແຊບ",
+   "rom": "Sɛ̂ɛp",
+   "fr": "bon, délicieux"
+  },
+  {
+   "lao": "ເຜັດ",
+   "rom": "Phēt",
+   "fr": "pimenté"
+  },
+  {
+   "lao": "ເຜັດໜ້ອຍໜຶ່ງ",
+   "rom": "Phēt nɔ̂ɔy nʉ̀ng",
+   "fr": "un peu pimenté"
+  },
+  {
+   "lao": "ບໍ່ໃສ່ໝາກເຜັດ",
+   "rom": "Bɔ̀ɔ sày mȁak-phēt",
+   "fr": "sans piment"
+  },
+  {
+   "lao": "ໄລ່ເງິນ",
+   "rom": "Lāy-ngɤ́n",
+   "fr": "l'addition"
+  },
+  {
+   "lao": "ເຝີ",
+   "rom": "Fɤ̌ɤ",
+   "fr": "soupe pho"
+  }
+ ],
+ "sounds": {
+  "ຈອກ": "Jɔ̏ɔk",
+  "ສອງ": "Sɔ̌ɔng",
+  "ໃຫ້": "Hây",
+  "ຮ້ານອາຫານ": "Hȁan-ǎa-hǎan",
+  "ກິນຫຍັງດີເອື້ອຍ": "Kǐn nyǎng dǐi ʉ̂ay?",
+  "ມີຫຍັງແຊບ": "Míi nyǎng sɛ̂ɛp?",
+  "ປີ້ງໄກ່ແຊບຫຼາຍ": "Pîng-kày sɛ̂ɛp lǎay.",
+  "ເອົາປີ້ງໄກ່ໜຶ່ງຈານແລະເຂົ້າໜຽວ": "Ǎo pîng-kày nʉ̀ng jǎan lɛ́ khâo-nǐaw.",
+  "ເອົາເຜັດບໍ": "Ǎo phēt bɔ̌ɔ?",
+  "ເຜັດໜ້ອຍໜຶ່ງ": "Phēt nɔ̂ɔy nʉ̀ng",
+  "ນ້ອງ ໄລ່ເງິນແດ່": "Nɔ̏ɔng, lāy-ngɤ́n dɛ̀ɛ.",
+  "ຂໍ": "khɔ̌ɔ",
+  "ເອົາ": "Ǎo",
+  "ປີ້ງໄກ່": "Pîng-kày",
+  "ເມນູ": "méé-núu",
+  "ແຊບ": "sɛ̂ɛp",
+  "ເຜັດ": "Phēt",
+  "ບໍ່ໃສ່ໝາກເຜັດ": "Bɔ̀ɔ sày mȁak-phēt.",
+  "ໄລ່ເງິນ": "lāy-ngɤ́n",
+  "ເຝີ": "Fɤ̌ɤ",
+  "ຂໍນ້ຳແດ່": "Khɔ̌ɔ nȁam dɛ̀ɛ",
+  "ຂໍເມນູແດ່": "Khɔ̌ɔ méé-núu dɛ̀ɛ.",
+  "ຂໍໂທດ": "Khɔ̌ɔ thôot",
+  "ໄລ່ເງິນແດ່": "Lāy-ngɤ́n dɛ̀ɛ.",
+  "ມີ": "míi",
+  "ຫຍັງ": "nyǎng",
+  "ແດ່": "dɛ̀ɛ",
+  "ບໍ່": "bɔ̀ɔ",
+  "ໃສ່": "sày",
+  "ໝາກເຜັດ": "mȁak-phēt"
+ },
+ "suivi": "LEÇON : 24 — Partie C (Vie courante, A1) · Au restaurant\nOBJECTIF : Commander un repas complet, demander ce qu'on te conseille et payer.\nNOTION : la demande polie avec ຂໍ\nVOCAB : Khɔ̌ɔ, Ǎo, Pîng-kày, Méé-núu, Sɛ̂ɛp, Phēt, Phēt nɔ̂ɔy nʉ̀ng, Bɔ̀ɔ sày mȁak-phēt, Lāy-ngɤ́n, Fɤ̌ɤ\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 25 — Goûts et préférences"
+}

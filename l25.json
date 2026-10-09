@@ -1,0 +1,661 @@
+{
+ "num": 25,
+ "phase": "Partie C · Vie courante",
+ "title": "Goûts et préférences",
+ "objective": "Dire ce que tu aimes, ce que tu n'aimes pas, et nuancer (beaucoup, pas trop, vraiment).",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>poulet grillé <small class=\"muted\">(leçon 24)</small></li><li>sac <small class=\"muted\">(leçon 22)</small></li><li>viande <small class=\"muted\">(leçon 18)</small></li><li>chat <small class=\"muted\">(leçon 11)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ປີ້ງໄກ່</span> <span class=\"rom\">Pîng-kày</span> · poulet grillé</li><li><span class=\"lo\">ກະເປົາ</span> <span class=\"rom\">Kā-pǎo</span> · sac</li><li><span class=\"lo\">ຊີ້ນ</span> <span class=\"rom\">Sȋin</span> · viande</li><li><span class=\"lo\">ແມວ</span> <span class=\"rom\">Mɛ́ɛw</span> · chat</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Dire ce que tu aimes, ce que tu n&#x27;aimes pas, et nuancer (beaucoup, pas trop, vraiment).</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Noy et Clara parlent de nourriture.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເຈົ້າມັກອາຫານລາວບໍ?</span><span class=\"rom\">Jâo māk ǎa-hǎan láaw bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ມັກຫຼາຍ! ໂດຍສະເພາະລາບ</span><span class=\"rom\">Māk lǎay! Dóoy-sā-phɔ̄ lâap.</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ມັກປາແດກບໍ?</span><span class=\"rom\">Māk pǎa-dɛ̏ɛk bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ບໍ່ມັກປານໃດ ມັນເຄັມໂພດ</span><span class=\"rom\">Bɔ̀ɔ māk pǎan-dǎy. Mán khém phôot.</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຂ້ອຍມັກແທ້!</span><span class=\"rom\">Khɔ̂ɔy māk thɛ̏ɛ!</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Tu aimes la cuisine lao ?<br><b>Clara</b> — Beaucoup ! Surtout le larb.<br><b>Noy</b> — Tu aimes le padèk ?<br><b>Clara</b> — Pas trop. C&#x27;est trop salé.<br><b>Noy</b> — Moi, j&#x27;adore !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que préfère Clara ?</li><li>Qu&#x27;en pense-t-elle, du padèk ?</li></ol><details><summary>Réponses</summary><ol><li>Le larb.</li><li>Elle n&#x27;aime pas trop, c&#x27;est trop salé.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ມັກ</td><td class=\"rom\">Māk</td><td>aimer</td><td></td></tr><tr><td class=\"lo\">ບໍ່ມັກ</td><td class=\"rom\">Bɔ̀ɔ māk</td><td>ne pas aimer</td><td></td></tr><tr><td class=\"lo\">ມັກຫຼາຍ</td><td class=\"rom\">Māk lǎay</td><td>aimer beaucoup</td><td></td></tr><tr><td class=\"lo\">ບໍ່ມັກປານໃດ</td><td class=\"rom\">Bɔ̀ɔ māk pǎan-dǎy</td><td>pas trop aimer</td><td></td></tr><tr><td class=\"lo\">ໂດຍສະເພາະ</td><td class=\"rom\">Dóoy-sā-phɔ̄</td><td>surtout</td><td></td></tr><tr><td class=\"lo\">ປາແດກ</td><td class=\"rom\">Pǎa-dɛ̏ɛk</td><td>padèk (poisson fermenté)</td><td></td></tr><tr><td class=\"lo\">ເຄັມ</td><td class=\"rom\">Khém</td><td>salé</td><td></td></tr><tr><td class=\"lo\">ຫວານ</td><td class=\"rom\">Wǎan</td><td>sucré</td><td></td></tr><tr><td class=\"lo\">ສົ້ມ</td><td class=\"rom\">Sôm</td><td>acide</td><td></td></tr><tr><td class=\"lo\">ໂພດ</td><td class=\"rom\">Phôot</td><td>trop</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ມັນ</td><td class=\"rom\">Mán</td><td>il, ça (chose)</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les intensifs",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ແຊບຫຼາຍ</span> <span class=\"rom\">Sɛ̂ɛp lǎay</span> = très bon</li><li><span class=\"lo\">ແຊບແທ້</span> <span class=\"rom\">Sɛ̂ɛp thɛ̏ɛ</span> = vraiment bon</li><li><span class=\"lo\">ເຄັມໂພດ</span> <span class=\"rom\">Khém phôot</span> = trop salé</li><li><span class=\"lo\">ບໍ່ຫວານປານໃດ</span> <span class=\"rom\">Bɔ̀ɔ wǎan pǎan-dǎy</span> = pas très sucré</li></ul><p><b>À toi de trouver :</b></p><ol><li>Où se placent les intensifs par rapport à l&#x27;adjectif ?</li></ol><details><summary>La règle</summary><p>Les intensifs se placent après l'adjectif ou le verbe : ຫຼາຍ (très), ແທ້ (vraiment), ໂພດ (trop). ບໍ່…ປານໃດ = pas très.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les petits mots après les adjectifs : ຫຼາຍ, ແທ້, ໂພດ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>J&#x27;aime beaucoup la cuisine lao.</li><li>Pas trop.</li><li>C&#x27;est trop salé.</li><li>Vraiment bon !</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້ອຍມັກອາຫານລາວຫຼາຍ</span> <span class=\"rom\">Khɔ̂ɔy māk ǎa-hǎan láaw lǎay.</span></li><li><span class=\"lo\">ບໍ່ປານໃດ</span> <span class=\"rom\">Bɔ̀ɔ pǎan-dǎy.</span></li><li><span class=\"lo\">ເຄັມໂພດ</span> <span class=\"rom\">Khém phôot.</span></li><li><span class=\"lo\">ແຊບແທ້!</span> <span class=\"rom\">Sɛ̂ɛp thɛ̏ɛ!</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris 5 phrases sur tes goûts alimentaires avec des intensifs.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Discute 3 minutes avec un natif de ce que vous aimez manger.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>15 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l25-v01",
+   "front": "ມັກ",
+   "back": "Māk · aimer"
+  },
+  {
+   "id": "l25-v02",
+   "front": "ບໍ່ມັກ",
+   "back": "Bɔ̀ɔ māk · ne pas aimer"
+  },
+  {
+   "id": "l25-v03",
+   "front": "ມັກຫຼາຍ",
+   "back": "Māk lǎay · aimer beaucoup"
+  },
+  {
+   "id": "l25-v04",
+   "front": "ບໍ່ມັກປານໃດ",
+   "back": "Bɔ̀ɔ māk pǎan-dǎy · pas trop aimer"
+  },
+  {
+   "id": "l25-v05",
+   "front": "ໂດຍສະເພາະ",
+   "back": "Dóoy-sā-phɔ̄ · surtout"
+  },
+  {
+   "id": "l25-v06",
+   "front": "ປາແດກ",
+   "back": "Pǎa-dɛ̏ɛk · padèk (poisson fermenté)"
+  },
+  {
+   "id": "l25-v07",
+   "front": "ເຄັມ",
+   "back": "Khém · salé"
+  },
+  {
+   "id": "l25-v08",
+   "front": "ຫວານ",
+   "back": "Wǎan · sucré"
+  },
+  {
+   "id": "l25-v09",
+   "front": "ສົ້ມ",
+   "back": "Sôm · acide"
+  },
+  {
+   "id": "l25-v10",
+   "front": "ໂພດ",
+   "back": "Phôot · trop"
+  },
+  {
+   "id": "l25-v11",
+   "front": "ມັນ",
+   "back": "Mán · il, ça (chose)"
+  },
+  {
+   "id": "l25-p01",
+   "front": "J'aime beaucoup la cuisine lao.",
+   "back": "ຂ້ອຍມັກອາຫານລາວຫຼາຍ · Khɔ̂ɔy māk ǎa-hǎan láaw lǎay."
+  },
+  {
+   "id": "l25-p02",
+   "front": "Pas trop.",
+   "back": "ບໍ່ປານໃດ · Bɔ̀ɔ pǎan-dǎy."
+  },
+  {
+   "id": "l25-p03",
+   "front": "C'est trop salé.",
+   "back": "ເຄັມໂພດ · Khém phôot."
+  },
+  {
+   "id": "l25-p04",
+   "front": "Vraiment bon !",
+   "back": "ແຊບແທ້! · Sɛ̂ɛp thɛ̏ɛ!"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ມັກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "aimer",
+      "pas trop aimer",
+      "padèk (poisson fermenté)",
+      "sucré"
+     ],
+     "answer": "aimer",
+     "reveal": "<i>Māk</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ມັກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ne pas aimer",
+      "trop",
+      "il, ça (chose)",
+      "acide"
+     ],
+     "answer": "ne pas aimer",
+     "reveal": "<i>Bɔ̀ɔ māk</i>"
+    },
+    {
+     "audio": [
+      "ມັກຫຼາຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "aimer beaucoup",
+      "ne pas aimer",
+      "trop",
+      "aimer"
+     ],
+     "answer": "aimer beaucoup",
+     "reveal": "<i>Māk lǎay</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ມັກປານໃດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pas trop aimer",
+      "ne pas aimer",
+      "salé",
+      "acide"
+     ],
+     "answer": "pas trop aimer",
+     "reveal": "<i>Bɔ̀ɔ māk pǎan-dǎy</i>"
+    },
+    {
+     "audio": [
+      "ໂດຍສະເພາະ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "surtout",
+      "ne pas aimer",
+      "pas trop aimer",
+      "sucré"
+     ],
+     "answer": "surtout",
+     "reveal": "<i>Dóoy-sā-phɔ̄</i>"
+    },
+    {
+     "audio": [
+      "ປາແດກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "padèk (poisson fermenté)",
+      "aimer beaucoup",
+      "il, ça (chose)",
+      "sucré"
+     ],
+     "answer": "padèk (poisson fermenté)",
+     "reveal": "<i>Pǎa-dɛ̏ɛk</i>"
+    },
+    {
+     "audio": [
+      "ເຄັມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "salé",
+      "padèk (poisson fermenté)",
+      "il, ça (chose)",
+      "acide"
+     ],
+     "answer": "salé",
+     "reveal": "<i>Khém</i>"
+    },
+    {
+     "audio": [
+      "ຫວານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "sucré",
+      "pas trop aimer",
+      "il, ça (chose)",
+      "aimer beaucoup"
+     ],
+     "answer": "sucré",
+     "reveal": "<i>Wǎan</i>"
+    },
+    {
+     "audio": [
+      "ສົ້ມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "acide",
+      "pas trop aimer",
+      "aimer",
+      "trop"
+     ],
+     "answer": "acide",
+     "reveal": "<i>Sôm</i>"
+    },
+    {
+     "audio": [
+      "ໂພດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "trop",
+      "aimer beaucoup",
+      "ne pas aimer",
+      "padèk (poisson fermenté)"
+     ],
+     "answer": "trop",
+     "reveal": "<i>Phôot</i>"
+    },
+    {
+     "audio": [
+      "ມັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "il, ça (chose)",
+      "acide",
+      "aimer",
+      "pas trop aimer"
+     ],
+     "answer": "il, ça (chose)",
+     "reveal": "<i>Mán</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເຈົ້າມັກອາຫານລາວບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu aimes la cuisine lao ?",
+      "Tu aimes le padèk ?",
+      "Pas trop. C'est trop salé.",
+      "Moi, j'adore !"
+     ],
+     "answer": "Tu aimes la cuisine lao ?",
+     "reveal": "<i>Jâo māk ǎa-hǎan láaw bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ມັກຫຼາຍ! ໂດຍສະເພາະລາບ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Beaucoup ! Surtout le larb.",
+      "Tu aimes la cuisine lao ?",
+      "Tu aimes le padèk ?",
+      "Moi, j'adore !"
+     ],
+     "answer": "Beaucoup ! Surtout le larb.",
+     "reveal": "<i>Māk lǎay! Dóoy-sā-phɔ̄ lâap.</i>"
+    },
+    {
+     "audio": [
+      "ມັກປາແດກບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu aimes le padèk ?",
+      "Pas trop. C'est trop salé.",
+      "Tu aimes la cuisine lao ?",
+      "Beaucoup ! Surtout le larb."
+     ],
+     "answer": "Tu aimes le padèk ?",
+     "reveal": "<i>Māk pǎa-dɛ̏ɛk bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ມັກປານໃດ ມັນເຄັມໂພດ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Pas trop. C'est trop salé.",
+      "Beaucoup ! Surtout le larb.",
+      "Tu aimes la cuisine lao ?",
+      "Moi, j'adore !"
+     ],
+     "answer": "Pas trop. C'est trop salé.",
+     "reveal": "<i>Bɔ̀ɔ māk pǎan-dǎy. Mán khém phôot.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍມັກແທ້!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Moi, j'adore !",
+      "Pas trop. C'est trop salé.",
+      "Tu aimes la cuisine lao ?",
+      "Tu aimes le padèk ?"
+     ],
+     "answer": "Moi, j'adore !",
+     "reveal": "<i>Khɔ̂ɔy māk thɛ̏ɛ!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້ອຍມັກອາຫານລາວຫຼາຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "J'aime beaucoup la cuisine lao.",
+      "Pas trop.",
+      "Vraiment bon !",
+      "C'est trop salé."
+     ],
+     "answer": "J'aime beaucoup la cuisine lao.",
+     "reveal": "<i>Khɔ̂ɔy māk ǎa-hǎan láaw lǎay.</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ປານໃດ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Pas trop.",
+      "C'est trop salé.",
+      "J'aime beaucoup la cuisine lao.",
+      "Vraiment bon !"
+     ],
+     "answer": "Pas trop.",
+     "reveal": "<i>Bɔ̀ɔ pǎan-dǎy.</i>"
+    },
+    {
+     "audio": [
+      "ເຄັມໂພດ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est trop salé.",
+      "Pas trop.",
+      "Vraiment bon !",
+      "J'aime beaucoup la cuisine lao."
+     ],
+     "answer": "C'est trop salé.",
+     "reveal": "<i>Khém phôot.</i>"
+    },
+    {
+     "audio": [
+      "ແຊບແທ້!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Vraiment bon !",
+      "Pas trop.",
+      "J'aime beaucoup la cuisine lao.",
+      "C'est trop salé."
+     ],
+     "answer": "Vraiment bon !",
+     "reveal": "<i>Sɛ̂ɛp thɛ̏ɛ!</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ມັກ",
+   "rom": "Māk",
+   "fr": "aimer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ມັກ",
+   "rom": "Bɔ̀ɔ māk",
+   "fr": "ne pas aimer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມັກຫຼາຍ",
+   "rom": "Māk lǎay",
+   "fr": "aimer beaucoup",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ມັກປານໃດ",
+   "rom": "Bɔ̀ɔ māk pǎan-dǎy",
+   "fr": "pas trop aimer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂດຍສະເພາະ",
+   "rom": "Dóoy-sā-phɔ̄",
+   "fr": "surtout",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ປາແດກ",
+   "rom": "Pǎa-dɛ̏ɛk",
+   "fr": "padèk (poisson fermenté)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຄັມ",
+   "rom": "Khém",
+   "fr": "salé",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫວານ",
+   "rom": "Wǎan",
+   "fr": "sucré",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສົ້ມ",
+   "rom": "Sôm",
+   "fr": "acide",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂພດ",
+   "rom": "Phôot",
+   "fr": "trop",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມັນ",
+   "rom": "Mán",
+   "fr": "il, ça (chose)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍມັກອາຫານລາວຫຼາຍ",
+   "rom": "Khɔ̂ɔy māk ǎa-hǎan láaw lǎay.",
+   "fr": "J'aime beaucoup la cuisine lao.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ປານໃດ",
+   "rom": "Bɔ̀ɔ pǎan-dǎy.",
+   "fr": "Pas trop.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຄັມໂພດ",
+   "rom": "Khém phôot.",
+   "fr": "C'est trop salé.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແຊບແທ້!",
+   "rom": "Sɛ̂ɛp thɛ̏ɛ!",
+   "fr": "Vraiment bon !",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ມັກ",
+    "ອາຫານ",
+    "ລາວ",
+    "ຫຼາຍ"
+   ],
+   "rom": "Khɔ̂ɔy māk ǎa-hǎan láaw lǎay.",
+   "fr": "J'aime beaucoup la cuisine lao."
+  },
+  {
+   "tokens": [
+    "ບໍ່",
+    "ປານໃດ"
+   ],
+   "rom": "Bɔ̀ɔ pǎan-dǎy.",
+   "fr": "Pas trop."
+  },
+  {
+   "tokens": [
+    "ເຄັມ",
+    "ໂພດ"
+   ],
+   "rom": "Khém phôot.",
+   "fr": "C'est trop salé."
+  },
+  {
+   "tokens": [
+    "ແຊບ",
+    "ແທ້"
+   ],
+   "rom": "Sɛ̂ɛp thɛ̏ɛ!",
+   "fr": "Vraiment bon !"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ມັກ",
+   "rom": "Māk",
+   "fr": "aimer"
+  },
+  {
+   "lao": "ບໍ່ມັກ",
+   "rom": "Bɔ̀ɔ māk",
+   "fr": "ne pas aimer"
+  },
+  {
+   "lao": "ມັກຫຼາຍ",
+   "rom": "Māk lǎay",
+   "fr": "aimer beaucoup"
+  },
+  {
+   "lao": "ບໍ່ມັກປານໃດ",
+   "rom": "Bɔ̀ɔ māk pǎan-dǎy",
+   "fr": "pas trop aimer"
+  },
+  {
+   "lao": "ໂດຍສະເພາະ",
+   "rom": "Dóoy-sā-phɔ̄",
+   "fr": "surtout"
+  },
+  {
+   "lao": "ປາແດກ",
+   "rom": "Pǎa-dɛ̏ɛk",
+   "fr": "padèk (poisson fermenté)"
+  },
+  {
+   "lao": "ເຄັມ",
+   "rom": "Khém",
+   "fr": "salé"
+  },
+  {
+   "lao": "ຫວານ",
+   "rom": "Wǎan",
+   "fr": "sucré"
+  },
+  {
+   "lao": "ສົ້ມ",
+   "rom": "Sôm",
+   "fr": "acide"
+  },
+  {
+   "lao": "ໂພດ",
+   "rom": "Phôot",
+   "fr": "trop"
+  },
+  {
+   "lao": "ມັນ",
+   "rom": "Mán",
+   "fr": "il, ça (chose)"
+  }
+ ],
+ "sounds": {
+  "ປີ້ງໄກ່": "Pîng-kày",
+  "ກະເປົາ": "Kā-pǎo",
+  "ຊີ້ນ": "Sȋin",
+  "ແມວ": "Mɛ́ɛw",
+  "ເຈົ້າມັກອາຫານລາວບໍ": "Jâo māk ǎa-hǎan láaw bɔ̌ɔ?",
+  "ມັກຫຼາຍ ໂດຍສະເພາະລາບ": "Māk lǎay! Dóoy-sā-phɔ̄ lâap.",
+  "ມັກປາແດກບໍ": "Māk pǎa-dɛ̏ɛk bɔ̌ɔ?",
+  "ບໍ່ມັກປານໃດ ມັນເຄັມໂພດ": "Bɔ̀ɔ māk pǎan-dǎy. Mán khém phôot.",
+  "ຂ້ອຍມັກແທ້": "Khɔ̂ɔy māk thɛ̏ɛ!",
+  "ມັກ": "māk",
+  "ບໍ່ມັກ": "Bɔ̀ɔ māk",
+  "ມັກຫຼາຍ": "Māk lǎay",
+  "ບໍ່ມັກປານໃດ": "Bɔ̀ɔ māk pǎan-dǎy",
+  "ໂດຍສະເພາະ": "Dóoy-sā-phɔ̄",
+  "ປາແດກ": "Pǎa-dɛ̏ɛk",
+  "ເຄັມ": "khém",
+  "ຫວານ": "Wǎan",
+  "ສົ້ມ": "Sôm",
+  "ໂພດ": "phôot",
+  "ມັນ": "Mán",
+  "ແຊບຫຼາຍ": "Sɛ̂ɛp lǎay",
+  "ແຊບແທ້": "Sɛ̂ɛp thɛ̏ɛ!",
+  "ເຄັມໂພດ": "Khém phôot.",
+  "ບໍ່ຫວານປານໃດ": "Bɔ̀ɔ wǎan pǎan-dǎy",
+  "ຂ້ອຍມັກອາຫານລາວຫຼາຍ": "Khɔ̂ɔy māk ǎa-hǎan láaw lǎay.",
+  "ບໍ່ປານໃດ": "Bɔ̀ɔ pǎan-dǎy.",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ອາຫານ": "ǎa-hǎan",
+  "ລາວ": "láaw",
+  "ຫຼາຍ": "lǎay",
+  "ບໍ່": "bɔ̀ɔ",
+  "ປານໃດ": "pǎan-dǎy",
+  "ແຊບ": "sɛ̂ɛp",
+  "ແທ້": "thɛ̏ɛ"
+ },
+ "suivi": "LEÇON : 25 — Partie C (Vie courante, A1) · Goûts et préférences\nOBJECTIF : Dire ce que tu aimes, ce que tu n'aimes pas, et nuancer (beaucoup, pas trop, vraiment).\nNOTION : les intensifs\nVOCAB : Māk, Bɔ̀ɔ māk, Māk lǎay, Bɔ̀ɔ māk pǎan-dǎy, Dóoy-sā-phɔ̄, Pǎa-dɛ̏ɛk, Khém, Wǎan, Sôm, Phôot, Mán\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 26 — La famille (1)"
+}

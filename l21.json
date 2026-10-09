@@ -1,0 +1,736 @@
+{
+ "num": 21,
+ "phase": "Partie C · Vie courante",
+ "title": "Les nombres 0 à 100",
+ "objective": "Compter de 0 à 100 et donner un numéro de téléphone.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>phrase <small class=\"muted\">(leçon 20)</small></li><li>sel <small class=\"muted\">(leçon 18)</small></li><li>soupe pho <small class=\"muted\">(leçon 14)</small></li><li>comme ça <small class=\"muted\">(leçon 7)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ປະໂຫຍກ</span> <span class=\"rom\">Pá-nyôok</span> · phrase</li><li><span class=\"lo\">ເກືອ</span> <span class=\"rom\">Kʉ̌a</span> · sel</li><li><span class=\"lo\">ເຝີ</span> <span class=\"rom\">Fɤ̌ɤ</span> · soupe pho</li><li><span class=\"lo\">ແບບນີ້</span> <span class=\"rom\">Bɛ̏ɛp-nȉi</span> · comme ça</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Compter de 0 à 100 et donner un numéro de téléphone.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Noy demande le numéro de Clara.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເບີໂທຂອງເຈົ້າແມ່ນຫຍັງ?</span><span class=\"rom\">Bɤ̌ɤ-thóo khɔ̌ɔng jâo mɛ̄ɛn nyǎng?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສູນຊາວ ຫ້າສີ່ ສາມສອງ</span><span class=\"rom\">Sǔun sáaw, hâa sìi, sǎam sɔ̌ɔng.</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເວົ້າຊ້າໆແດ່</span><span class=\"rom\">Wȁo sȁa-sȁa dɛ̀ɛ.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສູນ ສອງ ສູນ ຫ້າ ສີ່ ສາມ ສອງ</span><span class=\"rom\">Sǔun, sɔ̌ɔng, sǔun, hâa, sìi, sǎam, sɔ̌ɔng.</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ໄດ້ແລ້ວ ຂອບໃຈ</span><span class=\"rom\">Dâay lɛ̏ɛw. Khɔ̏ɔp-jǎy.</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — C&#x27;est quoi ton numéro ?<br><b>Clara</b> — Zéro vingt, cinq quatre, trois deux.<br><b>Noy</b> — Plus lentement, s&#x27;il te plaît.<br><b>Clara</b> — Zéro, deux, zéro, cinq, quatre, trois, deux.<br><b>Noy</b> — C&#x27;est bon. Merci.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que demande Noy ?</li><li>Pourquoi Clara répète-t-elle ?</li></ol><details><summary>Réponses</summary><ol><li>Le numéro de téléphone de Clara.</li><li>Noy lui demande de parler plus lentement.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ສູນ</td><td class=\"rom\">Sǔun</td><td>zéro</td><td></td></tr><tr><td class=\"lo\">ໜຶ່ງ</td><td class=\"rom\">Nʉ̀ng</td><td>un</td><td></td></tr><tr><td class=\"lo\">ສອງ</td><td class=\"rom\">Sɔ̌ɔng</td><td>deux</td><td></td></tr><tr><td class=\"lo\">ສາມ</td><td class=\"rom\">Sǎam</td><td>trois</td><td></td></tr><tr><td class=\"lo\">ສີ່</td><td class=\"rom\">Sìi</td><td>quatre</td><td></td></tr><tr><td class=\"lo\">ຫ້າ</td><td class=\"rom\">Hâa</td><td>cinq</td><td></td></tr><tr><td class=\"lo\">ຫົກ</td><td class=\"rom\">Hōk</td><td>six</td><td></td></tr><tr><td class=\"lo\">ເຈັດ</td><td class=\"rom\">Jét</td><td>sept</td><td></td></tr><tr><td class=\"lo\">ແປດ</td><td class=\"rom\">Pɛ̏ɛt</td><td>huit</td><td></td></tr><tr><td class=\"lo\">ເກົ້າ</td><td class=\"rom\">Kâo</td><td>neuf</td><td></td></tr><tr><td class=\"lo\">ສິບ</td><td class=\"rom\">Sīp</td><td>dix</td><td></td></tr><tr><td class=\"lo\">ຊາວ</td><td class=\"rom\">Sáaw</td><td>vingt</td><td>irrégulier</td></tr><tr><td class=\"lo\">ຮ້ອຍ</td><td class=\"rom\">Hȍɔy</td><td>cent</td><td></td></tr><tr><td class=\"lo\">ເບີໂທ</td><td class=\"rom\">Bɤ̌ɤ-thóo</td><td>numéro de téléphone</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : former les nombres",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ສິບເອັດ</span> <span class=\"rom\">Sīp-ét</span> = 11 (ເອັດ = 1 à la fin)</li><li><span class=\"lo\">ຊາວ</span> <span class=\"rom\">Sáaw</span> = 20</li><li><span class=\"lo\">ຊາວຫ້າ</span> <span class=\"rom\">Sáaw-hâa</span> = 25</li><li><span class=\"lo\">ສາມສິບ</span> <span class=\"rom\">Sǎam-sīp</span> = 30</li><li><span class=\"lo\">ສອງຮ້ອຍ</span> <span class=\"rom\">Sɔ̌ɔng-hȍɔy</span> = 200</li></ul><p><b>À toi de trouver :</b></p><ol><li>Comment dit-on 11 ? Et 21 ?</li><li>Quel nombre est irrégulier ?</li></ol><details><summary>La règle</summary><p>Dizaines = chiffre + ສິບ (ສາມສິບ = 30), sauf 20 = ຊາວ. Le 1 final se dit ເອັດ (ສິບເອັດ = 11, ຊາວເອັດ = 21). On a aussi des chiffres lao : ໐ ໑ ໒ ໓ ໔ ໕ ໖ ໗ ໘ ໙.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les nombres qui se ressemblent : ສີ່ (4) et ສິບ (10).</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>C&#x27;est quoi ton numéro ?</li><li>Plus lentement, s&#x27;il te plaît.</li><li>Vingt-cinq.</li><li>Trente.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເບີໂທຂອງເຈົ້າແມ່ນຫຍັງ?</span> <span class=\"rom\">Bɤ̌ɤ-thóo khɔ̌ɔng jâo mɛ̄ɛn nyǎng?</span></li><li><span class=\"lo\">ເວົ້າຊ້າໆແດ່</span> <span class=\"rom\">Wȁo sȁa-sȁa dɛ̀ɛ.</span></li><li><span class=\"lo\">ຊາວຫ້າ</span> <span class=\"rom\">Sáaw-hâa</span></li><li><span class=\"lo\">ສາມສິບ</span> <span class=\"rom\">Sǎam-sīp</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris en lettres lao : 7, 12, 20, 35, 99.</li><li>Écris ton numéro de téléphone en chiffres lao.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Donne ton numéro de téléphone en lao à un natif, puis note le sien.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>18 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l21-v01",
+   "front": "ສູນ",
+   "back": "Sǔun · zéro"
+  },
+  {
+   "id": "l21-v02",
+   "front": "ໜຶ່ງ",
+   "back": "Nʉ̀ng · un"
+  },
+  {
+   "id": "l21-v03",
+   "front": "ສອງ",
+   "back": "Sɔ̌ɔng · deux"
+  },
+  {
+   "id": "l21-v04",
+   "front": "ສາມ",
+   "back": "Sǎam · trois"
+  },
+  {
+   "id": "l21-v05",
+   "front": "ສີ່",
+   "back": "Sìi · quatre"
+  },
+  {
+   "id": "l21-v06",
+   "front": "ຫ້າ",
+   "back": "Hâa · cinq"
+  },
+  {
+   "id": "l21-v07",
+   "front": "ຫົກ",
+   "back": "Hōk · six"
+  },
+  {
+   "id": "l21-v08",
+   "front": "ເຈັດ",
+   "back": "Jét · sept"
+  },
+  {
+   "id": "l21-v09",
+   "front": "ແປດ",
+   "back": "Pɛ̏ɛt · huit"
+  },
+  {
+   "id": "l21-v10",
+   "front": "ເກົ້າ",
+   "back": "Kâo · neuf"
+  },
+  {
+   "id": "l21-v11",
+   "front": "ສິບ",
+   "back": "Sīp · dix"
+  },
+  {
+   "id": "l21-v12",
+   "front": "ຊາວ",
+   "back": "Sáaw · vingt"
+  },
+  {
+   "id": "l21-v13",
+   "front": "ຮ້ອຍ",
+   "back": "Hȍɔy · cent"
+  },
+  {
+   "id": "l21-v14",
+   "front": "ເບີໂທ",
+   "back": "Bɤ̌ɤ-thóo · numéro de téléphone"
+  },
+  {
+   "id": "l21-p01",
+   "front": "C'est quoi ton numéro ?",
+   "back": "ເບີໂທຂອງເຈົ້າແມ່ນຫຍັງ? · Bɤ̌ɤ-thóo khɔ̌ɔng jâo mɛ̄ɛn nyǎng?"
+  },
+  {
+   "id": "l21-p02",
+   "front": "Plus lentement, s'il te plaît.",
+   "back": "ເວົ້າຊ້າໆແດ່ · Wȁo sȁa-sȁa dɛ̀ɛ."
+  },
+  {
+   "id": "l21-p03",
+   "front": "Vingt-cinq.",
+   "back": "ຊາວຫ້າ · Sáaw-hâa"
+  },
+  {
+   "id": "l21-p04",
+   "front": "Trente.",
+   "back": "ສາມສິບ · Sǎam-sīp"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ສູນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "zéro",
+      "cent",
+      "sept",
+      "huit"
+     ],
+     "answer": "zéro",
+     "reveal": "<i>Sǔun</i>"
+    },
+    {
+     "audio": [
+      "ໜຶ່ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "un",
+      "quatre",
+      "huit",
+      "trois"
+     ],
+     "answer": "un",
+     "reveal": "<i>Nʉ̀ng</i>"
+    },
+    {
+     "audio": [
+      "ສອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "deux",
+      "vingt",
+      "cinq",
+      "zéro"
+     ],
+     "answer": "deux",
+     "reveal": "<i>Sɔ̌ɔng</i>"
+    },
+    {
+     "audio": [
+      "ສາມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "trois",
+      "deux",
+      "six",
+      "huit"
+     ],
+     "answer": "trois",
+     "reveal": "<i>Sǎam</i>"
+    },
+    {
+     "audio": [
+      "ສີ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "quatre",
+      "six",
+      "deux",
+      "vingt"
+     ],
+     "answer": "quatre",
+     "reveal": "<i>Sìi</i>"
+    },
+    {
+     "audio": [
+      "ຫ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "cinq",
+      "six",
+      "zéro",
+      "un"
+     ],
+     "answer": "cinq",
+     "reveal": "<i>Hâa</i>"
+    },
+    {
+     "audio": [
+      "ຫົກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "six",
+      "huit",
+      "un",
+      "zéro"
+     ],
+     "answer": "six",
+     "reveal": "<i>Hōk</i>"
+    },
+    {
+     "audio": [
+      "ເຈັດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "sept",
+      "dix",
+      "numéro de téléphone",
+      "cinq"
+     ],
+     "answer": "sept",
+     "reveal": "<i>Jét</i>"
+    },
+    {
+     "audio": [
+      "ແປດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "huit",
+      "un",
+      "dix",
+      "cinq"
+     ],
+     "answer": "huit",
+     "reveal": "<i>Pɛ̏ɛt</i>"
+    },
+    {
+     "audio": [
+      "ເກົ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "neuf",
+      "dix",
+      "zéro",
+      "huit"
+     ],
+     "answer": "neuf",
+     "reveal": "<i>Kâo</i>"
+    },
+    {
+     "audio": [
+      "ສິບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "dix",
+      "deux",
+      "zéro",
+      "cent"
+     ],
+     "answer": "dix",
+     "reveal": "<i>Sīp</i>"
+    },
+    {
+     "audio": [
+      "ຊາວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "vingt",
+      "six",
+      "quatre",
+      "deux"
+     ],
+     "answer": "vingt",
+     "reveal": "<i>Sáaw</i>"
+    },
+    {
+     "audio": [
+      "ຮ້ອຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "cent",
+      "huit",
+      "quatre",
+      "trois"
+     ],
+     "answer": "cent",
+     "reveal": "<i>Hȍɔy</i>"
+    },
+    {
+     "audio": [
+      "ເບີໂທ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "numéro de téléphone",
+      "dix",
+      "deux",
+      "un"
+     ],
+     "answer": "numéro de téléphone",
+     "reveal": "<i>Bɤ̌ɤ-thóo</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເບີໂທຂອງເຈົ້າແມ່ນຫຍັງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'est quoi ton numéro ?",
+      "Plus lentement, s'il te plaît.",
+      "Zéro, deux, zéro, cinq, quatre, trois, deux.",
+      "Zéro vingt, cinq quatre, trois deux."
+     ],
+     "answer": "C'est quoi ton numéro ?",
+     "reveal": "<i>Bɤ̌ɤ-thóo khɔ̌ɔng jâo mɛ̄ɛn nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ສູນຊາວ ຫ້າສີ່ ສາມສອງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Zéro vingt, cinq quatre, trois deux.",
+      "Plus lentement, s'il te plaît.",
+      "C'est bon. Merci.",
+      "Zéro, deux, zéro, cinq, quatre, trois, deux."
+     ],
+     "answer": "Zéro vingt, cinq quatre, trois deux.",
+     "reveal": "<i>Sǔun sáaw, hâa sìi, sǎam sɔ̌ɔng.</i>"
+    },
+    {
+     "audio": [
+      "ເວົ້າຊ້າໆແດ່"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Plus lentement, s'il te plaît.",
+      "Zéro, deux, zéro, cinq, quatre, trois, deux.",
+      "C'est quoi ton numéro ?",
+      "C'est bon. Merci."
+     ],
+     "answer": "Plus lentement, s'il te plaît.",
+     "reveal": "<i>Wȁo sȁa-sȁa dɛ̀ɛ.</i>"
+    },
+    {
+     "audio": [
+      "ສູນ ສອງ ສູນ ຫ້າ ສີ່ ສາມ ສອງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Zéro, deux, zéro, cinq, quatre, trois, deux.",
+      "Plus lentement, s'il te plaît.",
+      "C'est bon. Merci.",
+      "Zéro vingt, cinq quatre, trois deux."
+     ],
+     "answer": "Zéro, deux, zéro, cinq, quatre, trois, deux.",
+     "reveal": "<i>Sǔun, sɔ̌ɔng, sǔun, hâa, sìi, sǎam, sɔ̌ɔng.</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້ແລ້ວ ຂອບໃຈ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'est bon. Merci.",
+      "Zéro vingt, cinq quatre, trois deux.",
+      "C'est quoi ton numéro ?",
+      "Zéro, deux, zéro, cinq, quatre, trois, deux."
+     ],
+     "answer": "C'est bon. Merci.",
+     "reveal": "<i>Dâay lɛ̏ɛw. Khɔ̏ɔp-jǎy.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເບີໂທຂອງເຈົ້າແມ່ນຫຍັງ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est quoi ton numéro ?",
+      "Trente.",
+      "Vingt-cinq.",
+      "Plus lentement, s'il te plaît."
+     ],
+     "answer": "C'est quoi ton numéro ?",
+     "reveal": "<i>Bɤ̌ɤ-thóo khɔ̌ɔng jâo mɛ̄ɛn nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ເວົ້າຊ້າໆແດ່"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Plus lentement, s'il te plaît.",
+      "Trente.",
+      "C'est quoi ton numéro ?",
+      "Vingt-cinq."
+     ],
+     "answer": "Plus lentement, s'il te plaît.",
+     "reveal": "<i>Wȁo sȁa-sȁa dɛ̀ɛ.</i>"
+    },
+    {
+     "audio": [
+      "ຊາວຫ້າ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Vingt-cinq.",
+      "Plus lentement, s'il te plaît.",
+      "C'est quoi ton numéro ?",
+      "Trente."
+     ],
+     "answer": "Vingt-cinq.",
+     "reveal": "<i>Sáaw-hâa</i>"
+    },
+    {
+     "audio": [
+      "ສາມສິບ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Trente.",
+      "C'est quoi ton numéro ?",
+      "Vingt-cinq.",
+      "Plus lentement, s'il te plaît."
+     ],
+     "answer": "Trente.",
+     "reveal": "<i>Sǎam-sīp</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ສູນ",
+   "rom": "Sǔun",
+   "fr": "zéro",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໜຶ່ງ",
+   "rom": "Nʉ̀ng",
+   "fr": "un",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສອງ",
+   "rom": "Sɔ̌ɔng",
+   "fr": "deux",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສາມ",
+   "rom": "Sǎam",
+   "fr": "trois",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສີ່",
+   "rom": "Sìi",
+   "fr": "quatre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫ້າ",
+   "rom": "Hâa",
+   "fr": "cinq",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫົກ",
+   "rom": "Hōk",
+   "fr": "six",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຈັດ",
+   "rom": "Jét",
+   "fr": "sept",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແປດ",
+   "rom": "Pɛ̏ɛt",
+   "fr": "huit",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເກົ້າ",
+   "rom": "Kâo",
+   "fr": "neuf",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສິບ",
+   "rom": "Sīp",
+   "fr": "dix",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊາວ",
+   "rom": "Sáaw",
+   "fr": "vingt",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຮ້ອຍ",
+   "rom": "Hȍɔy",
+   "fr": "cent",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເບີໂທ",
+   "rom": "Bɤ̌ɤ-thóo",
+   "fr": "numéro de téléphone",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເບີໂທຂອງເຈົ້າແມ່ນຫຍັງ?",
+   "rom": "Bɤ̌ɤ-thóo khɔ̌ɔng jâo mɛ̄ɛn nyǎng?",
+   "fr": "C'est quoi ton numéro ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເວົ້າຊ້າໆແດ່",
+   "rom": "Wȁo sȁa-sȁa dɛ̀ɛ.",
+   "fr": "Plus lentement, s'il te plaît.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊາວຫ້າ",
+   "rom": "Sáaw-hâa",
+   "fr": "Vingt-cinq.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສາມສິບ",
+   "rom": "Sǎam-sīp",
+   "fr": "Trente.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ເບີໂທ",
+    "ຂອງ",
+    "ເຈົ້າ",
+    "ແມ່ນ",
+    "ຫຍັງ"
+   ],
+   "rom": "Bɤ̌ɤ-thóo khɔ̌ɔng jâo mɛ̄ɛn nyǎng?",
+   "fr": "C'est quoi ton numéro ?"
+  },
+  {
+   "tokens": [
+    "ເວົ້າ",
+    "ຊ້າໆ",
+    "ແດ່"
+   ],
+   "rom": "Wȁo sȁa-sȁa dɛ̀ɛ.",
+   "fr": "Plus lentement, s'il te plaît."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ສູນ",
+   "rom": "Sǔun",
+   "fr": "zéro"
+  },
+  {
+   "lao": "ໜຶ່ງ",
+   "rom": "Nʉ̀ng",
+   "fr": "un"
+  },
+  {
+   "lao": "ສອງ",
+   "rom": "Sɔ̌ɔng",
+   "fr": "deux"
+  },
+  {
+   "lao": "ສາມ",
+   "rom": "Sǎam",
+   "fr": "trois"
+  },
+  {
+   "lao": "ສີ່",
+   "rom": "Sìi",
+   "fr": "quatre"
+  },
+  {
+   "lao": "ຫ້າ",
+   "rom": "Hâa",
+   "fr": "cinq"
+  },
+  {
+   "lao": "ຫົກ",
+   "rom": "Hōk",
+   "fr": "six"
+  },
+  {
+   "lao": "ເຈັດ",
+   "rom": "Jét",
+   "fr": "sept"
+  },
+  {
+   "lao": "ແປດ",
+   "rom": "Pɛ̏ɛt",
+   "fr": "huit"
+  },
+  {
+   "lao": "ເກົ້າ",
+   "rom": "Kâo",
+   "fr": "neuf"
+  },
+  {
+   "lao": "ສິບ",
+   "rom": "Sīp",
+   "fr": "dix"
+  },
+  {
+   "lao": "ຊາວ",
+   "rom": "Sáaw",
+   "fr": "vingt"
+  },
+  {
+   "lao": "ຮ້ອຍ",
+   "rom": "Hȍɔy",
+   "fr": "cent"
+  },
+  {
+   "lao": "ເບີໂທ",
+   "rom": "Bɤ̌ɤ-thóo",
+   "fr": "numéro de téléphone"
+  }
+ ],
+ "sounds": {
+  "ປະໂຫຍກ": "Pá-nyôok",
+  "ເກືອ": "Kʉ̌a",
+  "ເຝີ": "Fɤ̌ɤ",
+  "ແບບນີ້": "Bɛ̏ɛp-nȉi",
+  "ເບີໂທຂອງເຈົ້າແມ່ນຫຍັງ": "Bɤ̌ɤ-thóo khɔ̌ɔng jâo mɛ̄ɛn nyǎng?",
+  "ສູນຊາວ ຫ້າສີ່ ສາມສອງ": "Sǔun sáaw, hâa sìi, sǎam sɔ̌ɔng.",
+  "ເວົ້າຊ້າໆແດ່": "Wȁo sȁa-sȁa dɛ̀ɛ.",
+  "ສູນ ສອງ ສູນ ຫ້າ ສີ່ ສາມ ສອງ": "Sǔun, sɔ̌ɔng, sǔun, hâa, sìi, sǎam, sɔ̌ɔng.",
+  "ໄດ້ແລ້ວ ຂອບໃຈ": "Dâay lɛ̏ɛw. Khɔ̏ɔp-jǎy.",
+  "ສູນ": "Sǔun",
+  "ໜຶ່ງ": "Nʉ̀ng",
+  "ສອງ": "Sɔ̌ɔng",
+  "ສາມ": "Sǎam",
+  "ສີ່": "Sìi",
+  "ຫ້າ": "Hâa",
+  "ຫົກ": "Hōk",
+  "ເຈັດ": "Jét",
+  "ແປດ": "Pɛ̏ɛt",
+  "ເກົ້າ": "Kâo",
+  "ສິບ": "Sīp",
+  "ຊາວ": "Sáaw",
+  "ຮ້ອຍ": "Hȍɔy",
+  "ເບີໂທ": "bɤ̌ɤ-thóo",
+  "ສິບເອັດ": "Sīp-ét",
+  "ຊາວຫ້າ": "Sáaw-hâa",
+  "ສາມສິບ": "Sǎam-sīp",
+  "ສອງຮ້ອຍ": "Sɔ̌ɔng-hȍɔy",
+  "ຂອງ": "khɔ̌ɔng",
+  "ເຈົ້າ": "jâo",
+  "ແມ່ນ": "mɛ̄ɛn",
+  "ຫຍັງ": "nyǎng",
+  "ເວົ້າ": "wȁo",
+  "ຊ້າໆ": "sȁa-sȁa",
+  "ແດ່": "dɛ̀ɛ"
+ },
+ "suivi": "LEÇON : 21 — Partie C (Vie courante, A1) · Les nombres 0 à 100\nOBJECTIF : Compter de 0 à 100 et donner un numéro de téléphone.\nNOTION : former les nombres\nVOCAB : Sǔun, Nʉ̀ng, Sɔ̌ɔng, Sǎam, Sìi, Hâa, Hōk, Jét, Pɛ̏ɛt, Kâo, Sīp, Sáaw, Hȍɔy, Bɤ̌ɤ-thóo\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 22 — Combien ça coûte ?"
+}

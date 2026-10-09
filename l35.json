@@ -1,0 +1,617 @@
+{
+ "num": 35,
+ "phase": "Partie C · Vie courante",
+ "title": "Décrire",
+ "objective": "Décrire une personne et un lieu avec des adjectifs.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>livre, cahier <small class=\"muted\">(leçon 34)</small></li><li>monter <small class=\"muted\">(leçon 32)</small></li><li>âge <small class=\"muted\">(leçon 28)</small></li><li>deux <small class=\"muted\">(leçon 21)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ປຶ້ມ</span> <span class=\"rom\">Pɤ̂m</span> · livre, cahier</li><li><span class=\"lo\">ຂຶ້ນ</span> <span class=\"rom\">Khʉ̂n</span> · monter</li><li><span class=\"lo\">ອາຍຸ</span> <span class=\"rom\">Ǎa-nyū</span> · âge</li><li><span class=\"lo\">ສອງ</span> <span class=\"rom\">Sɔ̌ɔng</span> · deux</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Décrire une personne et un lieu avec des adjectifs.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara décrit son nouveau quartier.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເຮືອນໃໝ່ຂອງເຈົ້າເປັນແນວໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ນ້ອຍ ແຕ່ງາມ ມີສວນໃຫຍ່</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເພື່ອນບ້ານເປັນແນວໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໃຈດີຫຼາຍ ແມ່ຕູ້ຂ້າງເຮືອນເວົ້າມ່ວນ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Hʉ́an mày khɔ̌ɔng jâo pěn nɛ́ɛw-dǎy?</span><br><span class=\"rom\">Nɔ̏ɔy tɛ̀ɛ ngáam. Míi sǔan nyày.</span><br><span class=\"rom\">Phʉ̄an-bâan pěn nɛ́ɛw-dǎy?</span><br><span class=\"rom\">Jǎy-dǐi lǎay. Mɛ̄ɛ-tûu khâang hʉ́an wȁo mūan.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Ta nouvelle maison, elle est comment ?<br><b>Clara</b> — Petite mais jolie. Il y a un grand jardin.<br><b>Noy</b> — Et les voisins ?<br><b>Clara</b> — Très gentils. La grand-mère d&#x27;à côté est drôle.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Comment est la maison de Clara ?</li><li>Comment sont les voisins ?</li></ol><details><summary>Réponses</summary><ol><li>Petite mais jolie, avec un grand jardin.</li><li>Très gentils.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ໃຫຍ່</td><td class=\"rom\">Nyày</td><td>grand</td><td></td></tr><tr><td class=\"lo\">ນ້ອຍ</td><td class=\"rom\">Nɔ̏ɔy</td><td>petit</td><td></td></tr><tr><td class=\"lo\">ງາມ</td><td class=\"rom\">Ngáam</td><td>beau, joli</td><td></td></tr><tr><td class=\"lo\">ໃໝ່</td><td class=\"rom\">Mày</td><td>neuf, nouveau</td><td></td></tr><tr><td class=\"lo\">ເກົ່າ</td><td class=\"rom\">Kào</td><td>vieux (objet)</td><td></td></tr><tr><td class=\"lo\">ໃຈດີ</td><td class=\"rom\">Jǎy-dǐi</td><td>gentil</td><td></td></tr><tr><td class=\"lo\">ສວນ</td><td class=\"rom\">Sǔan</td><td>jardin</td><td></td></tr><tr><td class=\"lo\">ເພື່ອນບ້ານ</td><td class=\"rom\">Phʉ̄an-bâan</td><td>voisin</td><td></td></tr><tr><td class=\"lo\">ເປັນແນວໃດ</td><td class=\"rom\">Pěn nɛ́ɛw-dǎy</td><td>comment est… ?</td><td></td></tr><tr><td class=\"lo\">ມ່ວນ</td><td class=\"rom\">Mūan</td><td>amusant, sympa</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : l'adjectif après le nom",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ເຮືອນໃໝ່</span> <span class=\"rom\">Hʉ́an mày</span> = nouvelle maison</li><li><span class=\"lo\">ສວນໃຫຍ່</span> <span class=\"rom\">Sǔan nyày</span> = grand jardin</li><li><span class=\"lo\">ນ້ອຍໆ</span> <span class=\"rom\">Nɔ̏ɔy nɔ̏ɔy</span> = tout petit (redoublement)</li></ul><p><b>À toi de trouver :</b></p><ol><li>Où se place l&#x27;adjectif ? Que fait le redoublement ?</li></ol><details><summary>La règle</summary><p>L'adjectif suit le nom (ເຮືອນໃໝ່). Il sert aussi de verbe : ເຮືອນງາມ = la maison est belle, sans verbe « être ». Redoubler l'adjectif atténue ou intensifie selon le ton de voix.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les adjectifs après les noms.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Elle est comment, ta maison ?</li><li>Petite mais jolie.</li><li>Les voisins sont gentils.</li><li>Il y a un grand jardin.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເຮືອນຂອງເຈົ້າເປັນແນວໃດ?</span> <span class=\"rom\">Hʉ́an khɔ̌ɔng jâo pěn nɛ́ɛw-dǎy?</span></li><li><span class=\"lo\">ນ້ອຍແຕ່ງາມ</span> <span class=\"rom\">Nɔ̏ɔy tɛ̀ɛ ngáam.</span></li><li><span class=\"lo\">ເພື່ອນບ້ານໃຈດີ</span> <span class=\"rom\">Phʉ̄an-bâan jǎy-dǐi.</span></li><li><span class=\"lo\">ມີສວນໃຫຍ່</span> <span class=\"rom\">Míi sǔan nyày.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Décris ta maison et une personne de ta famille en 6 phrases.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Décris ton logement et un proche à un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>14 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l35-v01",
+   "front": "ໃຫຍ່",
+   "back": "Nyày · grand"
+  },
+  {
+   "id": "l35-v02",
+   "front": "ນ້ອຍ",
+   "back": "Nɔ̏ɔy · petit"
+  },
+  {
+   "id": "l35-v03",
+   "front": "ງາມ",
+   "back": "Ngáam · beau, joli"
+  },
+  {
+   "id": "l35-v04",
+   "front": "ໃໝ່",
+   "back": "Mày · neuf, nouveau"
+  },
+  {
+   "id": "l35-v05",
+   "front": "ເກົ່າ",
+   "back": "Kào · vieux (objet)"
+  },
+  {
+   "id": "l35-v06",
+   "front": "ໃຈດີ",
+   "back": "Jǎy-dǐi · gentil"
+  },
+  {
+   "id": "l35-v07",
+   "front": "ສວນ",
+   "back": "Sǔan · jardin"
+  },
+  {
+   "id": "l35-v08",
+   "front": "ເພື່ອນບ້ານ",
+   "back": "Phʉ̄an-bâan · voisin"
+  },
+  {
+   "id": "l35-v09",
+   "front": "ເປັນແນວໃດ",
+   "back": "Pěn nɛ́ɛw-dǎy · comment est… ?"
+  },
+  {
+   "id": "l35-v10",
+   "front": "ມ່ວນ",
+   "back": "Mūan · amusant, sympa"
+  },
+  {
+   "id": "l35-p01",
+   "front": "Elle est comment, ta maison ?",
+   "back": "ເຮືອນຂອງເຈົ້າເປັນແນວໃດ? · Hʉ́an khɔ̌ɔng jâo pěn nɛ́ɛw-dǎy?"
+  },
+  {
+   "id": "l35-p02",
+   "front": "Petite mais jolie.",
+   "back": "ນ້ອຍແຕ່ງາມ · Nɔ̏ɔy tɛ̀ɛ ngáam."
+  },
+  {
+   "id": "l35-p03",
+   "front": "Les voisins sont gentils.",
+   "back": "ເພື່ອນບ້ານໃຈດີ · Phʉ̄an-bâan jǎy-dǐi."
+  },
+  {
+   "id": "l35-p04",
+   "front": "Il y a un grand jardin.",
+   "back": "ມີສວນໃຫຍ່ · Míi sǔan nyày."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ໃຫຍ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "grand",
+      "neuf, nouveau",
+      "beau, joli",
+      "petit"
+     ],
+     "answer": "grand",
+     "reveal": "<i>Nyày</i>"
+    },
+    {
+     "audio": [
+      "ນ້ອຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "petit",
+      "grand",
+      "gentil",
+      "comment est… ?"
+     ],
+     "answer": "petit",
+     "reveal": "<i>Nɔ̏ɔy</i>"
+    },
+    {
+     "audio": [
+      "ງາມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "beau, joli",
+      "amusant, sympa",
+      "petit",
+      "grand"
+     ],
+     "answer": "beau, joli",
+     "reveal": "<i>Ngáam</i>"
+    },
+    {
+     "audio": [
+      "ໃໝ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "neuf, nouveau",
+      "grand",
+      "petit",
+      "voisin"
+     ],
+     "answer": "neuf, nouveau",
+     "reveal": "<i>Mày</i>"
+    },
+    {
+     "audio": [
+      "ເກົ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "vieux (objet)",
+      "comment est… ?",
+      "jardin",
+      "amusant, sympa"
+     ],
+     "answer": "vieux (objet)",
+     "reveal": "<i>Kào</i>"
+    },
+    {
+     "audio": [
+      "ໃຈດີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "gentil",
+      "voisin",
+      "neuf, nouveau",
+      "jardin"
+     ],
+     "answer": "gentil",
+     "reveal": "<i>Jǎy-dǐi</i>"
+    },
+    {
+     "audio": [
+      "ສວນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "jardin",
+      "neuf, nouveau",
+      "amusant, sympa",
+      "comment est… ?"
+     ],
+     "answer": "jardin",
+     "reveal": "<i>Sǔan</i>"
+    },
+    {
+     "audio": [
+      "ເພື່ອນບ້ານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "voisin",
+      "amusant, sympa",
+      "comment est… ?",
+      "petit"
+     ],
+     "answer": "voisin",
+     "reveal": "<i>Phʉ̄an-bâan</i>"
+    },
+    {
+     "audio": [
+      "ເປັນແນວໃດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "comment est… ?",
+      "neuf, nouveau",
+      "gentil",
+      "grand"
+     ],
+     "answer": "comment est… ?",
+     "reveal": "<i>Pěn nɛ́ɛw-dǎy</i>"
+    },
+    {
+     "audio": [
+      "ມ່ວນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "amusant, sympa",
+      "voisin",
+      "jardin",
+      "neuf, nouveau"
+     ],
+     "answer": "amusant, sympa",
+     "reveal": "<i>Mūan</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເຮືອນໃໝ່ຂອງເຈົ້າເປັນແນວໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Ta nouvelle maison, elle est comment ?",
+      "Petite mais jolie. Il y a un grand jardin.",
+      "Très gentils. La grand-mère d'à côté est drôle.",
+      "Et les voisins ?"
+     ],
+     "answer": "Ta nouvelle maison, elle est comment ?",
+     "reveal": "<i>Hʉ́an mày khɔ̌ɔng jâo pěn nɛ́ɛw-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ນ້ອຍ ແຕ່ງາມ ມີສວນໃຫຍ່"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Petite mais jolie. Il y a un grand jardin.",
+      "Très gentils. La grand-mère d'à côté est drôle.",
+      "Ta nouvelle maison, elle est comment ?",
+      "Et les voisins ?"
+     ],
+     "answer": "Petite mais jolie. Il y a un grand jardin.",
+     "reveal": "<i>Nɔ̏ɔy tɛ̀ɛ ngáam. Míi sǔan nyày.</i>"
+    },
+    {
+     "audio": [
+      "ເພື່ອນບ້ານເປັນແນວໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Et les voisins ?",
+      "Petite mais jolie. Il y a un grand jardin.",
+      "Très gentils. La grand-mère d'à côté est drôle.",
+      "Ta nouvelle maison, elle est comment ?"
+     ],
+     "answer": "Et les voisins ?",
+     "reveal": "<i>Phʉ̄an-bâan pěn nɛ́ɛw-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ໃຈດີຫຼາຍ ແມ່ຕູ້ຂ້າງເຮືອນເວົ້າມ່ວນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Très gentils. La grand-mère d'à côté est drôle.",
+      "Petite mais jolie. Il y a un grand jardin.",
+      "Ta nouvelle maison, elle est comment ?",
+      "Et les voisins ?"
+     ],
+     "answer": "Très gentils. La grand-mère d'à côté est drôle.",
+     "reveal": "<i>Jǎy-dǐi lǎay. Mɛ̄ɛ-tûu khâang hʉ́an wȁo mūan.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເຮືອນຂອງເຈົ້າເປັນແນວໃດ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Elle est comment, ta maison ?",
+      "Il y a un grand jardin.",
+      "Petite mais jolie.",
+      "Les voisins sont gentils."
+     ],
+     "answer": "Elle est comment, ta maison ?",
+     "reveal": "<i>Hʉ́an khɔ̌ɔng jâo pěn nɛ́ɛw-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ນ້ອຍແຕ່ງາມ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Petite mais jolie.",
+      "Les voisins sont gentils.",
+      "Il y a un grand jardin.",
+      "Elle est comment, ta maison ?"
+     ],
+     "answer": "Petite mais jolie.",
+     "reveal": "<i>Nɔ̏ɔy tɛ̀ɛ ngáam.</i>"
+    },
+    {
+     "audio": [
+      "ເພື່ອນບ້ານໃຈດີ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Les voisins sont gentils.",
+      "Il y a un grand jardin.",
+      "Elle est comment, ta maison ?",
+      "Petite mais jolie."
+     ],
+     "answer": "Les voisins sont gentils.",
+     "reveal": "<i>Phʉ̄an-bâan jǎy-dǐi.</i>"
+    },
+    {
+     "audio": [
+      "ມີສວນໃຫຍ່"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il y a un grand jardin.",
+      "Petite mais jolie.",
+      "Les voisins sont gentils.",
+      "Elle est comment, ta maison ?"
+     ],
+     "answer": "Il y a un grand jardin.",
+     "reveal": "<i>Míi sǔan nyày.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ໃຫຍ່",
+   "rom": "Nyày",
+   "fr": "grand",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນ້ອຍ",
+   "rom": "Nɔ̏ɔy",
+   "fr": "petit",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ງາມ",
+   "rom": "Ngáam",
+   "fr": "beau, joli",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃໝ່",
+   "rom": "Mày",
+   "fr": "neuf, nouveau",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເກົ່າ",
+   "rom": "Kào",
+   "fr": "vieux (objet)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃຈດີ",
+   "rom": "Jǎy-dǐi",
+   "fr": "gentil",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສວນ",
+   "rom": "Sǔan",
+   "fr": "jardin",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເພື່ອນບ້ານ",
+   "rom": "Phʉ̄an-bâan",
+   "fr": "voisin",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເປັນແນວໃດ",
+   "rom": "Pěn nɛ́ɛw-dǎy",
+   "fr": "comment est… ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມ່ວນ",
+   "rom": "Mūan",
+   "fr": "amusant, sympa",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຮືອນຂອງເຈົ້າເປັນແນວໃດ?",
+   "rom": "Hʉ́an khɔ̌ɔng jâo pěn nɛ́ɛw-dǎy?",
+   "fr": "Elle est comment, ta maison ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນ້ອຍແຕ່ງາມ",
+   "rom": "Nɔ̏ɔy tɛ̀ɛ ngáam.",
+   "fr": "Petite mais jolie.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເພື່ອນບ້ານໃຈດີ",
+   "rom": "Phʉ̄an-bâan jǎy-dǐi.",
+   "fr": "Les voisins sont gentils.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມີສວນໃຫຍ່",
+   "rom": "Míi sǔan nyày.",
+   "fr": "Il y a un grand jardin.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ເຮືອນ",
+    "ຂອງ",
+    "ເຈົ້າ",
+    "ເປັນ",
+    "ແນວໃດ"
+   ],
+   "rom": "Hʉ́an khɔ̌ɔng jâo pěn nɛ́ɛw-dǎy?",
+   "fr": "Elle est comment, ta maison ?"
+  },
+  {
+   "tokens": [
+    "ນ້ອຍ",
+    "ແຕ່",
+    "ງາມ"
+   ],
+   "rom": "Nɔ̏ɔy tɛ̀ɛ ngáam.",
+   "fr": "Petite mais jolie."
+  },
+  {
+   "tokens": [
+    "ເພື່ອນບ້ານ",
+    "ໃຈດີ"
+   ],
+   "rom": "Phʉ̄an-bâan jǎy-dǐi.",
+   "fr": "Les voisins sont gentils."
+  },
+  {
+   "tokens": [
+    "ມີ",
+    "ສວນ",
+    "ໃຫຍ່"
+   ],
+   "rom": "Míi sǔan nyày.",
+   "fr": "Il y a un grand jardin."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ໃຫຍ່",
+   "rom": "Nyày",
+   "fr": "grand"
+  },
+  {
+   "lao": "ນ້ອຍ",
+   "rom": "Nɔ̏ɔy",
+   "fr": "petit"
+  },
+  {
+   "lao": "ງາມ",
+   "rom": "Ngáam",
+   "fr": "beau, joli"
+  },
+  {
+   "lao": "ໃໝ່",
+   "rom": "Mày",
+   "fr": "neuf, nouveau"
+  },
+  {
+   "lao": "ເກົ່າ",
+   "rom": "Kào",
+   "fr": "vieux (objet)"
+  },
+  {
+   "lao": "ໃຈດີ",
+   "rom": "Jǎy-dǐi",
+   "fr": "gentil"
+  },
+  {
+   "lao": "ສວນ",
+   "rom": "Sǔan",
+   "fr": "jardin"
+  },
+  {
+   "lao": "ເພື່ອນບ້ານ",
+   "rom": "Phʉ̄an-bâan",
+   "fr": "voisin"
+  },
+  {
+   "lao": "ເປັນແນວໃດ",
+   "rom": "Pěn nɛ́ɛw-dǎy",
+   "fr": "comment est… ?"
+  },
+  {
+   "lao": "ມ່ວນ",
+   "rom": "Mūan",
+   "fr": "amusant, sympa"
+  }
+ ],
+ "sounds": {
+  "ປຶ້ມ": "Pɤ̂m",
+  "ຂຶ້ນ": "Khʉ̂n",
+  "ອາຍຸ": "Ǎa-nyū",
+  "ສອງ": "Sɔ̌ɔng",
+  "ເຮືອນໃໝ່ຂອງເຈົ້າເປັນແນວໃດ": "Hʉ́an mày khɔ̌ɔng jâo pěn nɛ́ɛw-dǎy?",
+  "ນ້ອຍ ແຕ່ງາມ ມີສວນໃຫຍ່": "Nɔ̏ɔy tɛ̀ɛ ngáam. Míi sǔan nyày.",
+  "ເພື່ອນບ້ານເປັນແນວໃດ": "Phʉ̄an-bâan pěn nɛ́ɛw-dǎy?",
+  "ໃຈດີຫຼາຍ ແມ່ຕູ້ຂ້າງເຮືອນເວົ້າມ່ວນ": "Jǎy-dǐi lǎay. Mɛ̄ɛ-tûu khâang hʉ́an wȁo mūan.",
+  "ໃຫຍ່": "nyày",
+  "ນ້ອຍ": "nɔ̏ɔy",
+  "ງາມ": "ngáam",
+  "ໃໝ່": "Mày",
+  "ເກົ່າ": "Kào",
+  "ໃຈດີ": "jǎy-dǐi",
+  "ສວນ": "sǔan",
+  "ເພື່ອນບ້ານ": "phʉ̄an-bâan",
+  "ເປັນແນວໃດ": "Pěn nɛ́ɛw-dǎy",
+  "ມ່ວນ": "Mūan",
+  "ເຮືອນໃໝ່": "Hʉ́an mày",
+  "ສວນໃຫຍ່": "Sǔan nyày",
+  "ນ້ອຍໆ": "Nɔ̏ɔy nɔ̏ɔy",
+  "ເຮືອນຂອງເຈົ້າເປັນແນວໃດ": "Hʉ́an khɔ̌ɔng jâo pěn nɛ́ɛw-dǎy?",
+  "ນ້ອຍແຕ່ງາມ": "Nɔ̏ɔy tɛ̀ɛ ngáam.",
+  "ເພື່ອນບ້ານໃຈດີ": "Phʉ̄an-bâan jǎy-dǐi.",
+  "ມີສວນໃຫຍ່": "Míi sǔan nyày.",
+  "ເຮືອນ": "hʉ́an",
+  "ຂອງ": "khɔ̌ɔng",
+  "ເຈົ້າ": "jâo",
+  "ເປັນ": "pěn",
+  "ແນວໃດ": "nɛ́ɛw-dǎy",
+  "ແຕ່": "tɛ̀ɛ",
+  "ມີ": "míi"
+ },
+ "suivi": "LEÇON : 35 — Partie C (Vie courante, A1) · Décrire\nOBJECTIF : Décrire une personne et un lieu avec des adjectifs.\nNOTION : l'adjectif après le nom\nVOCAB : Nyày, Nɔ̏ɔy, Ngáam, Mày, Kào, Jǎy-dǐi, Sǔan, Phʉ̄an-bâan, Pěn nɛ́ɛw-dǎy, Mūan\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 36 — La météo"
+}

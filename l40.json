@@ -1,0 +1,399 @@
+{
+ "num": 40,
+ "phase": "Partie C · Vie courante",
+ "title": "Bilan A1",
+ "objective": "Faire le point sur les 4 compétences du niveau A1.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>téléphoner <small class=\"muted\">(leçon 39)</small></li><li>chemise, haut <small class=\"muted\">(leçon 37)</small></li><li>dormir <small class=\"muted\">(leçon 33)</small></li><li>mère <small class=\"muted\">(leçon 26)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ໂທ</span> <span class=\"rom\">Thóo</span> · téléphoner</li><li><span class=\"lo\">ເສື້ອ</span> <span class=\"rom\">Sʉ̂a</span> · chemise, haut</li><li><span class=\"lo\">ນອນ</span> <span class=\"rom\">Nɔ́ɔn</span> · dormir</li><li><span class=\"lo\">ແມ່</span> <span class=\"rom\">Mɛ̄ɛ</span> · mère</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Faire le point sur les 4 compétences du niveau A1.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara raconte sa vie à Vientiane à M. Somsak.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ຢູ່ວຽງຈັນເປັນແນວໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ດີຫຼາຍ ຂ້ອຍມັກອາຫານແລະຄົນລາວ</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ເວົ້າລາວເກັ່ງຂຶ້ນແລ້ວ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂອບໃຈ ຂ້ອຍຮຽນທຸກມື້</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Yùu wíang-jǎn pěn nɛ́ɛw-dǎy?</span><br><span class=\"rom\">Dǐi lǎay. Khɔ̂ɔy māk ǎa-hǎan lɛ́ khón láaw.</span><br><span class=\"rom\">Wȁo-láaw kèng khʉ̂n lɛ̏ɛw.</span><br><span class=\"rom\">Khɔ̏ɔp-jǎy. Khɔ̂ɔy hían thūk-mʉ̂ʉ.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>M. Somsak</b> — Alors, la vie à Vientiane ?<br><b>Clara</b> — Très bien. J&#x27;aime la cuisine et les gens.<br><b>M. Somsak</b> — Tu parles de mieux en mieux.<br><b>Clara</b> — Merci. J&#x27;étudie tous les jours.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que pense Clara de Vientiane ?</li><li>Pourquoi progresse-t-elle ?</li></ol><details><summary>Réponses</summary><ol><li>Elle aime la cuisine et les gens.</li><li>Elle étudie tous les jours.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຮຽນ</td><td class=\"rom\">Hían</td><td>étudier, apprendre</td><td></td></tr><tr><td class=\"lo\">ທຸກມື້</td><td class=\"rom\">Thūk-mʉ̂ʉ</td><td>tous les jours</td><td></td></tr><tr><td class=\"lo\">ເກັ່ງຂຶ້ນ</td><td class=\"rom\">Kèng khʉ̂n</td><td>de mieux en mieux</td><td></td></tr><tr><td class=\"lo\">ຊີວິດ</td><td class=\"rom\">Síi-wīt</td><td>vie</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : révision A1",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ເຈົ້າຊື່ຫຍັງ?</span> <span class=\"rom\">Jâo sʉ̄ʉ nyǎng?</span> = question avec mot interrogatif</li><li><span class=\"lo\">ກິນເຂົ້າແລ້ວບໍ?</span> <span class=\"rom\">Kǐn-khâo lɛ̏ɛw bɔ̌ɔ?</span> = question fermée</li><li><span class=\"lo\">ກາເຟສອງຈອກ</span> <span class=\"rom\">Kǎa-féé sɔ̌ɔng jɔ̏ɔk</span> = classificateur</li><li><span class=\"lo\">ງາມກວ່າ</span> <span class=\"rom\">Ngáam kwàa</span> = comparaison</li></ul><p><b>À toi de trouver :</b></p><ol><li>Pour chaque exemple, rappelle la règle.</li></ol><details><summary>La règle</summary><p>Bilan : ordre sujet-verbe-complément, questions sans inversion, ບໍ / ບໍ່, classificateurs, ກວ່າ, ຈະ pour le futur, ແລ້ວ pour l'accompli. Fais le test dans le projet avec /test.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> le dialogue d&#x27;une traite, sans pause.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>J&#x27;étudie le lao tous les jours.</li><li>J&#x27;aime la cuisine lao.</li><li>Je parle un peu lao.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້ອຍຮຽນພາສາລາວທຸກມື້</span> <span class=\"rom\">Khɔ̂ɔy hían pháa-sǎa-láaw thūk-mʉ̂ʉ.</span></li><li><span class=\"lo\">ຂ້ອຍມັກອາຫານລາວ</span> <span class=\"rom\">Khɔ̂ɔy māk ǎa-hǎan láaw.</span></li><li><span class=\"lo\">ຂ້ອຍເວົ້າລາວໄດ້ໜ້ອຍໜຶ່ງ</span> <span class=\"rom\">Khɔ̂ɔy wȁo-láaw dâay nɔ̂ɔy nʉ̀ng.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris un texte de 10 phrases pour te présenter complètement.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Fais le test de fin de niveau A1 (commande /test dans le projet) et une conversation de 5 minutes avec un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>7 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l40-v01",
+   "front": "ຮຽນ",
+   "back": "Hían · étudier, apprendre"
+  },
+  {
+   "id": "l40-v02",
+   "front": "ທຸກມື້",
+   "back": "Thūk-mʉ̂ʉ · tous les jours"
+  },
+  {
+   "id": "l40-v03",
+   "front": "ເກັ່ງຂຶ້ນ",
+   "back": "Kèng khʉ̂n · de mieux en mieux"
+  },
+  {
+   "id": "l40-v04",
+   "front": "ຊີວິດ",
+   "back": "Síi-wīt · vie"
+  },
+  {
+   "id": "l40-p01",
+   "front": "J'étudie le lao tous les jours.",
+   "back": "ຂ້ອຍຮຽນພາສາລາວທຸກມື້ · Khɔ̂ɔy hían pháa-sǎa-láaw thūk-mʉ̂ʉ."
+  },
+  {
+   "id": "l40-p02",
+   "front": "J'aime la cuisine lao.",
+   "back": "ຂ້ອຍມັກອາຫານລາວ · Khɔ̂ɔy māk ǎa-hǎan láaw."
+  },
+  {
+   "id": "l40-p03",
+   "front": "Je parle un peu lao.",
+   "back": "ຂ້ອຍເວົ້າລາວໄດ້ໜ້ອຍໜຶ່ງ · Khɔ̂ɔy wȁo-láaw dâay nɔ̂ɔy nʉ̀ng."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຮຽນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "étudier, apprendre",
+      "vie",
+      "tous les jours",
+      "de mieux en mieux"
+     ],
+     "answer": "étudier, apprendre",
+     "reveal": "<i>Hían</i>"
+    },
+    {
+     "audio": [
+      "ທຸກມື້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "tous les jours",
+      "étudier, apprendre",
+      "vie",
+      "de mieux en mieux"
+     ],
+     "answer": "tous les jours",
+     "reveal": "<i>Thūk-mʉ̂ʉ</i>"
+    },
+    {
+     "audio": [
+      "ເກັ່ງຂຶ້ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "de mieux en mieux",
+      "étudier, apprendre",
+      "vie",
+      "tous les jours"
+     ],
+     "answer": "de mieux en mieux",
+     "reveal": "<i>Kèng khʉ̂n</i>"
+    },
+    {
+     "audio": [
+      "ຊີວິດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "vie",
+      "de mieux en mieux",
+      "étudier, apprendre",
+      "tous les jours"
+     ],
+     "answer": "vie",
+     "reveal": "<i>Síi-wīt</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຢູ່ວຽງຈັນເປັນແນວໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Alors, la vie à Vientiane ?",
+      "Très bien. J'aime la cuisine et les gens.",
+      "Merci. J'étudie tous les jours.",
+      "Tu parles de mieux en mieux."
+     ],
+     "answer": "Alors, la vie à Vientiane ?",
+     "reveal": "<i>Yùu wíang-jǎn pěn nɛ́ɛw-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ດີຫຼາຍ ຂ້ອຍມັກອາຫານແລະຄົນລາວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Très bien. J'aime la cuisine et les gens.",
+      "Merci. J'étudie tous les jours.",
+      "Alors, la vie à Vientiane ?",
+      "Tu parles de mieux en mieux."
+     ],
+     "answer": "Très bien. J'aime la cuisine et les gens.",
+     "reveal": "<i>Dǐi lǎay. Khɔ̂ɔy māk ǎa-hǎan lɛ́ khón láaw.</i>"
+    },
+    {
+     "audio": [
+      "ເວົ້າລາວເກັ່ງຂຶ້ນແລ້ວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu parles de mieux en mieux.",
+      "Merci. J'étudie tous les jours.",
+      "Alors, la vie à Vientiane ?",
+      "Très bien. J'aime la cuisine et les gens."
+     ],
+     "answer": "Tu parles de mieux en mieux.",
+     "reveal": "<i>Wȁo-láaw kèng khʉ̂n lɛ̏ɛw.</i>"
+    },
+    {
+     "audio": [
+      "ຂອບໃຈ ຂ້ອຍຮຽນທຸກມື້"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Merci. J'étudie tous les jours.",
+      "Alors, la vie à Vientiane ?",
+      "Tu parles de mieux en mieux.",
+      "Très bien. J'aime la cuisine et les gens."
+     ],
+     "answer": "Merci. J'étudie tous les jours.",
+     "reveal": "<i>Khɔ̏ɔp-jǎy. Khɔ̂ɔy hían thūk-mʉ̂ʉ.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້ອຍຮຽນພາສາລາວທຸກມື້"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "J'étudie le lao tous les jours.",
+      "Je parle un peu lao.",
+      "J'aime la cuisine lao."
+     ],
+     "answer": "J'étudie le lao tous les jours.",
+     "reveal": "<i>Khɔ̂ɔy hían pháa-sǎa-láaw thūk-mʉ̂ʉ.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍມັກອາຫານລາວ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "J'aime la cuisine lao.",
+      "Je parle un peu lao.",
+      "J'étudie le lao tous les jours."
+     ],
+     "answer": "J'aime la cuisine lao.",
+     "reveal": "<i>Khɔ̂ɔy māk ǎa-hǎan láaw.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍເວົ້າລາວໄດ້ໜ້ອຍໜຶ່ງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je parle un peu lao.",
+      "J'aime la cuisine lao.",
+      "J'étudie le lao tous les jours."
+     ],
+     "answer": "Je parle un peu lao.",
+     "reveal": "<i>Khɔ̂ɔy wȁo-láaw dâay nɔ̂ɔy nʉ̀ng.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຮຽນ",
+   "rom": "Hían",
+   "fr": "étudier, apprendre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທຸກມື້",
+   "rom": "Thūk-mʉ̂ʉ",
+   "fr": "tous les jours",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເກັ່ງຂຶ້ນ",
+   "rom": "Kèng khʉ̂n",
+   "fr": "de mieux en mieux",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊີວິດ",
+   "rom": "Síi-wīt",
+   "fr": "vie",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຮຽນພາສາລາວທຸກມື້",
+   "rom": "Khɔ̂ɔy hían pháa-sǎa-láaw thūk-mʉ̂ʉ.",
+   "fr": "J'étudie le lao tous les jours.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍມັກອາຫານລາວ",
+   "rom": "Khɔ̂ɔy māk ǎa-hǎan láaw.",
+   "fr": "J'aime la cuisine lao.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍເວົ້າລາວໄດ້ໜ້ອຍໜຶ່ງ",
+   "rom": "Khɔ̂ɔy wȁo-láaw dâay nɔ̂ɔy nʉ̀ng.",
+   "fr": "Je parle un peu lao.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຮຽນ",
+    "ພາສາລາວ",
+    "ທຸກມື້"
+   ],
+   "rom": "Khɔ̂ɔy hían pháa-sǎa-láaw thūk-mʉ̂ʉ.",
+   "fr": "J'étudie le lao tous les jours."
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ມັກ",
+    "ອາຫານ",
+    "ລາວ"
+   ],
+   "rom": "Khɔ̂ɔy māk ǎa-hǎan láaw.",
+   "fr": "J'aime la cuisine lao."
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ເວົ້າລາວ",
+    "ໄດ້",
+    "ໜ້ອຍ",
+    "ໜຶ່ງ"
+   ],
+   "rom": "Khɔ̂ɔy wȁo-láaw dâay nɔ̂ɔy nʉ̀ng.",
+   "fr": "Je parle un peu lao."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຮຽນ",
+   "rom": "Hían",
+   "fr": "étudier, apprendre"
+  },
+  {
+   "lao": "ທຸກມື້",
+   "rom": "Thūk-mʉ̂ʉ",
+   "fr": "tous les jours"
+  },
+  {
+   "lao": "ເກັ່ງຂຶ້ນ",
+   "rom": "Kèng khʉ̂n",
+   "fr": "de mieux en mieux"
+  },
+  {
+   "lao": "ຊີວິດ",
+   "rom": "Síi-wīt",
+   "fr": "vie"
+  }
+ ],
+ "sounds": {
+  "ໂທ": "Thóo",
+  "ເສື້ອ": "Sʉ̂a",
+  "ນອນ": "Nɔ́ɔn",
+  "ແມ່": "Mɛ̄ɛ",
+  "ຢູ່ວຽງຈັນເປັນແນວໃດ": "Yùu wíang-jǎn pěn nɛ́ɛw-dǎy?",
+  "ດີຫຼາຍ ຂ້ອຍມັກອາຫານແລະຄົນລາວ": "Dǐi lǎay. Khɔ̂ɔy māk ǎa-hǎan lɛ́ khón láaw.",
+  "ເວົ້າລາວເກັ່ງຂຶ້ນແລ້ວ": "Wȁo-láaw kèng khʉ̂n lɛ̏ɛw.",
+  "ຂອບໃຈ ຂ້ອຍຮຽນທຸກມື້": "Khɔ̏ɔp-jǎy. Khɔ̂ɔy hían thūk-mʉ̂ʉ.",
+  "ຮຽນ": "hían",
+  "ທຸກມື້": "thūk-mʉ̂ʉ",
+  "ເກັ່ງຂຶ້ນ": "Kèng khʉ̂n",
+  "ຊີວິດ": "Síi-wīt",
+  "ເຈົ້າຊື່ຫຍັງ": "Jâo sʉ̄ʉ nyǎng?",
+  "ກິນເຂົ້າແລ້ວບໍ": "Kǐn-khâo lɛ̏ɛw bɔ̌ɔ?",
+  "ກາເຟສອງຈອກ": "Kǎa-féé sɔ̌ɔng jɔ̏ɔk",
+  "ງາມກວ່າ": "Ngáam kwàa",
+  "ຂ້ອຍຮຽນພາສາລາວທຸກມື້": "Khɔ̂ɔy hían pháa-sǎa-láaw thūk-mʉ̂ʉ.",
+  "ຂ້ອຍມັກອາຫານລາວ": "Khɔ̂ɔy māk ǎa-hǎan láaw.",
+  "ຂ້ອຍເວົ້າລາວໄດ້ໜ້ອຍໜຶ່ງ": "Khɔ̂ɔy wȁo-láaw dâay nɔ̂ɔy nʉ̀ng.",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ພາສາລາວ": "pháa-sǎa-láaw",
+  "ມັກ": "māk",
+  "ອາຫານ": "ǎa-hǎan",
+  "ລາວ": "láaw",
+  "ເວົ້າລາວ": "wȁo-láaw",
+  "ໄດ້": "dâay",
+  "ໜ້ອຍ": "nɔ̂ɔy",
+  "ໜຶ່ງ": "nʉ̀ng"
+ },
+ "suivi": "LEÇON : 40 — Partie C (Vie courante, A1) · Bilan A1\nOBJECTIF : Faire le point sur les 4 compétences du niveau A1.\nNOTION : révision A1\nVOCAB : Hían, Thūk-mʉ̂ʉ, Kèng khʉ̂n, Síi-wīt\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 41 — Hier"
+}

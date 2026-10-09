@@ -1,0 +1,648 @@
+{
+ "num": 33,
+ "phase": "Partie C · Vie courante",
+ "title": "Ma journée",
+ "objective": "Décrire ta routine quotidienne dans l'ordre.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>descendre <small class=\"muted\">(leçon 32)</small></li><li>samedi <small class=\"muted\">(leçon 30)</small></li><li>enfant (de qqn) <small class=\"muted\">(leçon 26)</small></li><li>envoyer <small class=\"muted\">(leçon 19)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ລົງ</span> <span class=\"rom\">Lóng</span> · descendre</li><li><span class=\"lo\">ວັນເສົາ</span> <span class=\"rom\">Wán-sǎo</span> · samedi</li><li><span class=\"lo\">ລູກ</span> <span class=\"rom\">Lûuk</span> · enfant (de qqn)</li><li><span class=\"lo\">ສົ່ງ</span> <span class=\"rom\">Sòng</span> · envoyer</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Décrire ta routine quotidienne dans l&#x27;ordre.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Noy raconte sa journée type.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຕອນເຊົ້າຂ້ອຍຕື່ນຫົກໂມງ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ອາບນ້ຳ ກິນເຂົ້າ ແລ້ວໄປເຮັດວຽກ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເລີກວຽກຈັກໂມງ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຫ້າໂມງແລງ ແລ້ວກັບເຮືອນ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຕອນແລງເຮັດຫຍັງ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເບິ່ງໜັງແລ້ວນອນ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Tɔ̌ɔn-sȁo khɔ̂ɔy tʉ̀ʉn hōk móong.</span><br><span class=\"rom\">Ǎap-nȁam, kǐn-khâo, lɛ̏ɛw pǎy hēt-wîak.</span><br><span class=\"rom\">Lɤ̂ɤk wîak ják móong?</span><br><span class=\"rom\">Hâa móong lɛ́ɛng. Lɛ̏ɛw kǎp hʉ́an.</span><br><span class=\"rom\">Tɔ̌ɔn-lɛ́ɛng hēt nyǎng?</span><br><span class=\"rom\">Bɤ̀ng nǎng lɛ̏ɛw nɔ́ɔn.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Le matin, je me lève à 6 h.<br><b>Noy</b> — Je me douche, je mange, puis je vais travailler.<br><b>Clara</b> — Tu finis le travail à quelle heure ?<br><b>Noy</b> — À 17 h. Puis je rentre.<br><b>Clara</b> — Et le soir, tu fais quoi ?<br><b>Noy</b> — Je regarde un film puis je dors.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>À quelle heure se lève Noy ?</li><li>Que fait-elle le soir ?</li></ol><details><summary>Réponses</summary><ol><li>À 6 h.</li><li>Elle regarde un film puis dort.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຕື່ນ</td><td class=\"rom\">Tʉ̀ʉn</td><td>se réveiller</td><td></td></tr><tr><td class=\"lo\">ອາບນ້ຳ</td><td class=\"rom\">Ǎap-nȁam</td><td>se doucher</td><td></td></tr><tr><td class=\"lo\">ເຮັດວຽກ</td><td class=\"rom\">Hēt-wîak</td><td>travailler</td><td></td></tr><tr><td class=\"lo\">ເລີກວຽກ</td><td class=\"rom\">Lɤ̂ɤk wîak</td><td>finir le travail</td><td></td></tr><tr><td class=\"lo\">ກັບເຮືອນ</td><td class=\"rom\">Kǎp hʉ́an</td><td>rentrer à la maison</td><td></td></tr><tr><td class=\"lo\">ເບິ່ງ</td><td class=\"rom\">Bɤ̀ng</td><td>regarder</td><td></td></tr><tr><td class=\"lo\">ໜັງ</td><td class=\"rom\">Nǎng</td><td>film</td><td></td></tr><tr><td class=\"lo\">ນອນ</td><td class=\"rom\">Nɔ́ɔn</td><td>dormir</td><td></td></tr><tr><td class=\"lo\">ແຕ່ງໂຕ</td><td class=\"rom\">Tɛ̀ɛng-tǒo</td><td>s&#x27;habiller</td><td></td></tr><tr><td class=\"lo\">ທຸກມື້</td><td class=\"rom\">Thūk-mʉ̂ʉ</td><td>tous les jours</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : enchaîner les actions avec ແລ້ວ",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ອາບນ້ຳແລ້ວກິນເຂົ້າ</span> <span class=\"rom\">Ǎap-nȁam lɛ̏ɛw kǐn-khâo</span> = je me douche puis je mange</li><li><span class=\"lo\">ເບິ່ງໜັງແລ້ວນອນ</span> <span class=\"rom\">Bɤ̀ng nǎng lɛ̏ɛw nɔ́ɔn</span> = je regarde un film puis je dors</li></ul><p><b>À toi de trouver :</b></p><ol><li>Quel mot sert de « puis » ?</li></ol><details><summary>La règle</summary><p>ແລ້ວ entre deux verbes = « puis, ensuite ». Pour une routine, on peut aussi juste aligner les verbes.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> ແລ້ວ qui relie les actions.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Je me lève à 6 h.</li><li>Puis je vais travailler.</li><li>Tu fais quoi le soir ?</li><li>Je dors à 23 h.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້ອຍຕື່ນຫົກໂມງ</span> <span class=\"rom\">Khɔ̂ɔy tʉ̀ʉn hōk móong.</span></li><li><span class=\"lo\">ແລ້ວໄປເຮັດວຽກ</span> <span class=\"rom\">Lɛ̏ɛw pǎy hēt-wîak.</span></li><li><span class=\"lo\">ຕອນແລງເຮັດຫຍັງ?</span> <span class=\"rom\">Tɔ̌ɔn-lɛ́ɛng hēt nyǎng?</span></li><li><span class=\"lo\">ຂ້ອຍນອນຫ້າທຸ່ມ</span> <span class=\"rom\">Khɔ̂ɔy nɔ́ɔn hâa thūm.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris ta journée type en 8 phrases.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Raconte ta journée type à un natif en 2 minutes.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>14 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l33-v01",
+   "front": "ຕື່ນ",
+   "back": "Tʉ̀ʉn · se réveiller"
+  },
+  {
+   "id": "l33-v02",
+   "front": "ອາບນ້ຳ",
+   "back": "Ǎap-nȁam · se doucher"
+  },
+  {
+   "id": "l33-v03",
+   "front": "ເຮັດວຽກ",
+   "back": "Hēt-wîak · travailler"
+  },
+  {
+   "id": "l33-v04",
+   "front": "ເລີກວຽກ",
+   "back": "Lɤ̂ɤk wîak · finir le travail"
+  },
+  {
+   "id": "l33-v05",
+   "front": "ກັບເຮືອນ",
+   "back": "Kǎp hʉ́an · rentrer à la maison"
+  },
+  {
+   "id": "l33-v06",
+   "front": "ເບິ່ງ",
+   "back": "Bɤ̀ng · regarder"
+  },
+  {
+   "id": "l33-v07",
+   "front": "ໜັງ",
+   "back": "Nǎng · film"
+  },
+  {
+   "id": "l33-v08",
+   "front": "ນອນ",
+   "back": "Nɔ́ɔn · dormir"
+  },
+  {
+   "id": "l33-v09",
+   "front": "ແຕ່ງໂຕ",
+   "back": "Tɛ̀ɛng-tǒo · s'habiller"
+  },
+  {
+   "id": "l33-v10",
+   "front": "ທຸກມື້",
+   "back": "Thūk-mʉ̂ʉ · tous les jours"
+  },
+  {
+   "id": "l33-p01",
+   "front": "Je me lève à 6 h.",
+   "back": "ຂ້ອຍຕື່ນຫົກໂມງ · Khɔ̂ɔy tʉ̀ʉn hōk móong."
+  },
+  {
+   "id": "l33-p02",
+   "front": "Puis je vais travailler.",
+   "back": "ແລ້ວໄປເຮັດວຽກ · Lɛ̏ɛw pǎy hēt-wîak."
+  },
+  {
+   "id": "l33-p03",
+   "front": "Tu fais quoi le soir ?",
+   "back": "ຕອນແລງເຮັດຫຍັງ? · Tɔ̌ɔn-lɛ́ɛng hēt nyǎng?"
+  },
+  {
+   "id": "l33-p04",
+   "front": "Je dors à 23 h.",
+   "back": "ຂ້ອຍນອນຫ້າທຸ່ມ · Khɔ̂ɔy nɔ́ɔn hâa thūm."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຕື່ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "se réveiller",
+      "film",
+      "tous les jours",
+      "se doucher"
+     ],
+     "answer": "se réveiller",
+     "reveal": "<i>Tʉ̀ʉn</i>"
+    },
+    {
+     "audio": [
+      "ອາບນ້ຳ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "se doucher",
+      "tous les jours",
+      "s'habiller",
+      "regarder"
+     ],
+     "answer": "se doucher",
+     "reveal": "<i>Ǎap-nȁam</i>"
+    },
+    {
+     "audio": [
+      "ເຮັດວຽກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "travailler",
+      "se doucher",
+      "film",
+      "finir le travail"
+     ],
+     "answer": "travailler",
+     "reveal": "<i>Hēt-wîak</i>"
+    },
+    {
+     "audio": [
+      "ເລີກວຽກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "finir le travail",
+      "dormir",
+      "travailler",
+      "regarder"
+     ],
+     "answer": "finir le travail",
+     "reveal": "<i>Lɤ̂ɤk wîak</i>"
+    },
+    {
+     "audio": [
+      "ກັບເຮືອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "rentrer à la maison",
+      "finir le travail",
+      "se réveiller",
+      "dormir"
+     ],
+     "answer": "rentrer à la maison",
+     "reveal": "<i>Kǎp hʉ́an</i>"
+    },
+    {
+     "audio": [
+      "ເບິ່ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "regarder",
+      "se doucher",
+      "tous les jours",
+      "travailler"
+     ],
+     "answer": "regarder",
+     "reveal": "<i>Bɤ̀ng</i>"
+    },
+    {
+     "audio": [
+      "ໜັງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "film",
+      "travailler",
+      "se doucher",
+      "se réveiller"
+     ],
+     "answer": "film",
+     "reveal": "<i>Nǎng</i>"
+    },
+    {
+     "audio": [
+      "ນອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "dormir",
+      "travailler",
+      "finir le travail",
+      "se doucher"
+     ],
+     "answer": "dormir",
+     "reveal": "<i>Nɔ́ɔn</i>"
+    },
+    {
+     "audio": [
+      "ແຕ່ງໂຕ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "s'habiller",
+      "finir le travail",
+      "dormir",
+      "tous les jours"
+     ],
+     "answer": "s'habiller",
+     "reveal": "<i>Tɛ̀ɛng-tǒo</i>"
+    },
+    {
+     "audio": [
+      "ທຸກມື້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "tous les jours",
+      "film",
+      "se réveiller",
+      "se doucher"
+     ],
+     "answer": "tous les jours",
+     "reveal": "<i>Thūk-mʉ̂ʉ</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຕອນເຊົ້າຂ້ອຍຕື່ນຫົກໂມງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Le matin, je me lève à 6 h.",
+      "Et le soir, tu fais quoi ?",
+      "Tu finis le travail à quelle heure ?",
+      "À 17 h. Puis je rentre."
+     ],
+     "answer": "Le matin, je me lève à 6 h.",
+     "reveal": "<i>Tɔ̌ɔn-sȁo khɔ̂ɔy tʉ̀ʉn hōk móong.</i>"
+    },
+    {
+     "audio": [
+      "ອາບນ້ຳ ກິນເຂົ້າ ແລ້ວໄປເຮັດວຽກ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je me douche, je mange, puis je vais travailler.",
+      "À 17 h. Puis je rentre.",
+      "Et le soir, tu fais quoi ?",
+      "Le matin, je me lève à 6 h."
+     ],
+     "answer": "Je me douche, je mange, puis je vais travailler.",
+     "reveal": "<i>Ǎap-nȁam, kǐn-khâo, lɛ̏ɛw pǎy hēt-wîak.</i>"
+    },
+    {
+     "audio": [
+      "ເລີກວຽກຈັກໂມງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu finis le travail à quelle heure ?",
+      "Le matin, je me lève à 6 h.",
+      "Et le soir, tu fais quoi ?",
+      "Je regarde un film puis je dors."
+     ],
+     "answer": "Tu finis le travail à quelle heure ?",
+     "reveal": "<i>Lɤ̂ɤk wîak ják móong?</i>"
+    },
+    {
+     "audio": [
+      "ຫ້າໂມງແລງ ແລ້ວກັບເຮືອນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "À 17 h. Puis je rentre.",
+      "Tu finis le travail à quelle heure ?",
+      "Je me douche, je mange, puis je vais travailler.",
+      "Et le soir, tu fais quoi ?"
+     ],
+     "answer": "À 17 h. Puis je rentre.",
+     "reveal": "<i>Hâa móong lɛ́ɛng. Lɛ̏ɛw kǎp hʉ́an.</i>"
+    },
+    {
+     "audio": [
+      "ຕອນແລງເຮັດຫຍັງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Et le soir, tu fais quoi ?",
+      "Je regarde un film puis je dors.",
+      "Je me douche, je mange, puis je vais travailler.",
+      "À 17 h. Puis je rentre."
+     ],
+     "answer": "Et le soir, tu fais quoi ?",
+     "reveal": "<i>Tɔ̌ɔn-lɛ́ɛng hēt nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ເບິ່ງໜັງແລ້ວນອນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je regarde un film puis je dors.",
+      "Le matin, je me lève à 6 h.",
+      "Tu finis le travail à quelle heure ?",
+      "À 17 h. Puis je rentre."
+     ],
+     "answer": "Je regarde un film puis je dors.",
+     "reveal": "<i>Bɤ̀ng nǎng lɛ̏ɛw nɔ́ɔn.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້ອຍຕື່ນຫົກໂມງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je me lève à 6 h.",
+      "Je dors à 23 h.",
+      "Puis je vais travailler.",
+      "Tu fais quoi le soir ?"
+     ],
+     "answer": "Je me lève à 6 h.",
+     "reveal": "<i>Khɔ̂ɔy tʉ̀ʉn hōk móong.</i>"
+    },
+    {
+     "audio": [
+      "ແລ້ວໄປເຮັດວຽກ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Puis je vais travailler.",
+      "Je me lève à 6 h.",
+      "Je dors à 23 h.",
+      "Tu fais quoi le soir ?"
+     ],
+     "answer": "Puis je vais travailler.",
+     "reveal": "<i>Lɛ̏ɛw pǎy hēt-wîak.</i>"
+    },
+    {
+     "audio": [
+      "ຕອນແລງເຮັດຫຍັງ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tu fais quoi le soir ?",
+      "Puis je vais travailler.",
+      "Je me lève à 6 h.",
+      "Je dors à 23 h."
+     ],
+     "answer": "Tu fais quoi le soir ?",
+     "reveal": "<i>Tɔ̌ɔn-lɛ́ɛng hēt nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍນອນຫ້າທຸ່ມ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je dors à 23 h.",
+      "Je me lève à 6 h.",
+      "Puis je vais travailler.",
+      "Tu fais quoi le soir ?"
+     ],
+     "answer": "Je dors à 23 h.",
+     "reveal": "<i>Khɔ̂ɔy nɔ́ɔn hâa thūm.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຕື່ນ",
+   "rom": "Tʉ̀ʉn",
+   "fr": "se réveiller",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອາບນ້ຳ",
+   "rom": "Ǎap-nȁam",
+   "fr": "se doucher",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຮັດວຽກ",
+   "rom": "Hēt-wîak",
+   "fr": "travailler",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເລີກວຽກ",
+   "rom": "Lɤ̂ɤk wîak",
+   "fr": "finir le travail",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກັບເຮືອນ",
+   "rom": "Kǎp hʉ́an",
+   "fr": "rentrer à la maison",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເບິ່ງ",
+   "rom": "Bɤ̀ng",
+   "fr": "regarder",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໜັງ",
+   "rom": "Nǎng",
+   "fr": "film",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນອນ",
+   "rom": "Nɔ́ɔn",
+   "fr": "dormir",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແຕ່ງໂຕ",
+   "rom": "Tɛ̀ɛng-tǒo",
+   "fr": "s'habiller",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທຸກມື້",
+   "rom": "Thūk-mʉ̂ʉ",
+   "fr": "tous les jours",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຕື່ນຫົກໂມງ",
+   "rom": "Khɔ̂ɔy tʉ̀ʉn hōk móong.",
+   "fr": "Je me lève à 6 h.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແລ້ວໄປເຮັດວຽກ",
+   "rom": "Lɛ̏ɛw pǎy hēt-wîak.",
+   "fr": "Puis je vais travailler.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕອນແລງເຮັດຫຍັງ?",
+   "rom": "Tɔ̌ɔn-lɛ́ɛng hēt nyǎng?",
+   "fr": "Tu fais quoi le soir ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍນອນຫ້າທຸ່ມ",
+   "rom": "Khɔ̂ɔy nɔ́ɔn hâa thūm.",
+   "fr": "Je dors à 23 h.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຕື່ນ",
+    "ຫົກ",
+    "ໂມງ"
+   ],
+   "rom": "Khɔ̂ɔy tʉ̀ʉn hōk móong.",
+   "fr": "Je me lève à 6 h."
+  },
+  {
+   "tokens": [
+    "ແລ້ວ",
+    "ໄປ",
+    "ເຮັດວຽກ"
+   ],
+   "rom": "Lɛ̏ɛw pǎy hēt-wîak.",
+   "fr": "Puis je vais travailler."
+  },
+  {
+   "tokens": [
+    "ຕອນແລງ",
+    "ເຮັດ",
+    "ຫຍັງ"
+   ],
+   "rom": "Tɔ̌ɔn-lɛ́ɛng hēt nyǎng?",
+   "fr": "Tu fais quoi le soir ?"
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ນອນ",
+    "ຫ້າ",
+    "ທຸ່ມ"
+   ],
+   "rom": "Khɔ̂ɔy nɔ́ɔn hâa thūm.",
+   "fr": "Je dors à 23 h."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຕື່ນ",
+   "rom": "Tʉ̀ʉn",
+   "fr": "se réveiller"
+  },
+  {
+   "lao": "ອາບນ້ຳ",
+   "rom": "Ǎap-nȁam",
+   "fr": "se doucher"
+  },
+  {
+   "lao": "ເຮັດວຽກ",
+   "rom": "Hēt-wîak",
+   "fr": "travailler"
+  },
+  {
+   "lao": "ເລີກວຽກ",
+   "rom": "Lɤ̂ɤk wîak",
+   "fr": "finir le travail"
+  },
+  {
+   "lao": "ກັບເຮືອນ",
+   "rom": "Kǎp hʉ́an",
+   "fr": "rentrer à la maison"
+  },
+  {
+   "lao": "ເບິ່ງ",
+   "rom": "Bɤ̀ng",
+   "fr": "regarder"
+  },
+  {
+   "lao": "ໜັງ",
+   "rom": "Nǎng",
+   "fr": "film"
+  },
+  {
+   "lao": "ນອນ",
+   "rom": "Nɔ́ɔn",
+   "fr": "dormir"
+  },
+  {
+   "lao": "ແຕ່ງໂຕ",
+   "rom": "Tɛ̀ɛng-tǒo",
+   "fr": "s'habiller"
+  },
+  {
+   "lao": "ທຸກມື້",
+   "rom": "Thūk-mʉ̂ʉ",
+   "fr": "tous les jours"
+  }
+ ],
+ "sounds": {
+  "ລົງ": "Lóng",
+  "ວັນເສົາ": "Wán-sǎo",
+  "ລູກ": "Lûuk",
+  "ສົ່ງ": "Sòng",
+  "ຕອນເຊົ້າຂ້ອຍຕື່ນຫົກໂມງ": "Tɔ̌ɔn-sȁo khɔ̂ɔy tʉ̀ʉn hōk móong.",
+  "ອາບນ້ຳ ກິນເຂົ້າ ແລ້ວໄປເຮັດວຽກ": "Ǎap-nȁam, kǐn-khâo, lɛ̏ɛw pǎy hēt-wîak.",
+  "ເລີກວຽກຈັກໂມງ": "Lɤ̂ɤk wîak ják móong?",
+  "ຫ້າໂມງແລງ ແລ້ວກັບເຮືອນ": "Hâa móong lɛ́ɛng. Lɛ̏ɛw kǎp hʉ́an.",
+  "ຕອນແລງເຮັດຫຍັງ": "Tɔ̌ɔn-lɛ́ɛng hēt nyǎng?",
+  "ເບິ່ງໜັງແລ້ວນອນ": "Bɤ̀ng nǎng lɛ̏ɛw nɔ́ɔn",
+  "ຕື່ນ": "tʉ̀ʉn",
+  "ອາບນ້ຳ": "Ǎap-nȁam",
+  "ເຮັດວຽກ": "hēt-wîak",
+  "ເລີກວຽກ": "Lɤ̂ɤk wîak",
+  "ກັບເຮືອນ": "Kǎp hʉ́an",
+  "ເບິ່ງ": "Bɤ̀ng",
+  "ໜັງ": "Nǎng",
+  "ນອນ": "nɔ́ɔn",
+  "ແຕ່ງໂຕ": "Tɛ̀ɛng-tǒo",
+  "ທຸກມື້": "Thūk-mʉ̂ʉ",
+  "ອາບນ້ຳແລ້ວກິນເຂົ້າ": "Ǎap-nȁam lɛ̏ɛw kǐn-khâo",
+  "ຂ້ອຍຕື່ນຫົກໂມງ": "Khɔ̂ɔy tʉ̀ʉn hōk móong.",
+  "ແລ້ວໄປເຮັດວຽກ": "Lɛ̏ɛw pǎy hēt-wîak.",
+  "ຂ້ອຍນອນຫ້າທຸ່ມ": "Khɔ̂ɔy nɔ́ɔn hâa thūm.",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ຫົກ": "hōk",
+  "ໂມງ": "móong",
+  "ແລ້ວ": "lɛ̏ɛw",
+  "ໄປ": "pǎy",
+  "ຕອນແລງ": "tɔ̌ɔn-lɛ́ɛng",
+  "ເຮັດ": "hēt",
+  "ຫຍັງ": "nyǎng",
+  "ຫ້າ": "hâa",
+  "ທຸ່ມ": "thūm"
+ },
+ "suivi": "LEÇON : 33 — Partie C (Vie courante, A1) · Ma journée\nOBJECTIF : Décrire ta routine quotidienne dans l'ordre.\nNOTION : enchaîner les actions avec ແລ້ວ\nVOCAB : Tʉ̀ʉn, Ǎap-nȁam, Hēt-wîak, Lɤ̂ɤk wîak, Kǎp hʉ́an, Bɤ̀ng, Nǎng, Nɔ́ɔn, Tɛ̀ɛng-tǒo, Thūk-mʉ̂ʉ\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 34 — À qui est-ce ?"
+}

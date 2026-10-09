@@ -1,0 +1,599 @@
+{
+ "num": 28,
+ "phase": "Partie C · Vie courante",
+ "title": "L'âge et la hiérarchie",
+ "objective": "Demander l'âge poliment et t'adresser à quelqu'un avec le bon terme selon son âge.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>grand-mère paternelle <small class=\"muted\">(leçon 27)</small></li><li>il, ça (chose) <small class=\"muted\">(leçon 25)</small></li><li>zéro <small class=\"muted\">(leçon 21)</small></li><li>à quelle heure ? <small class=\"muted\">(leçon 14)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຍ່າ</span> <span class=\"rom\">Nyāa</span> · grand-mère paternelle</li><li><span class=\"lo\">ມັນ</span> <span class=\"rom\">Mán</span> · il, ça (chose)</li><li><span class=\"lo\">ສູນ</span> <span class=\"rom\">Sǔun</span> · zéro</li><li><span class=\"lo\">ຈັກໂມງ</span> <span class=\"rom\">Ják móong</span> · à quelle heure ?</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Demander l&#x27;âge poliment et t&#x27;adresser à quelqu&#x27;un avec le bon terme selon son âge.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara rencontre une voisine âgée.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສະບາຍດີແມ່ຕູ້</span><span class=\"rom\">Sā-bǎay-dǐi mɛ̄ɛ-tûu.</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ສະບາຍດີລູກ ລູກອາຍຸຈັກປີແລ້ວ?</span><span class=\"rom\">Sā-bǎay-dǐi lûuk. Lûuk ǎa-nyū ják pǐi lɛ̏ɛw?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຊາວແປດປີເຈົ້າ</span><span class=\"rom\">Sáaw pɛ̏ɛt pǐi jâo.</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ຍັງໜຸ່ມຢູ່ ແຕ່ງງານແລ້ວບໍ?</span><span class=\"rom\">Nyáng nùm yùu. Tɛ̀ɛng-ngáan lɛ̏ɛw bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຍັງເທື່ອເຈົ້າ</span><span class=\"rom\">Nyáng thʉ̄a jâo.</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Bonjour grand-mère.<br><b>X</b> — Bonjour mon enfant. Tu as quel âge ?<br><b>Clara</b> — Vingt-huit ans.<br><b>X</b> — Tu es encore jeune. Tu es mariée ?<br><b>Clara</b> — Pas encore.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Comment Clara appelle-t-elle la voisine ?</li><li>Quelle question personnelle pose la voisine ?</li></ol><details><summary>Réponses</summary><ol><li>ແມ່ຕູ້ — grand-mère (terme respectueux).</li><li>Si Clara est mariée.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ອາຍຸ</td><td class=\"rom\">Ǎa-nyū</td><td>âge</td><td></td></tr><tr><td class=\"lo\">ຈັກປີ</td><td class=\"rom\">Ják pǐi</td><td>combien d&#x27;années ?</td><td></td></tr><tr><td class=\"lo\">ປີ</td><td class=\"rom\">Pǐi</td><td>an, année</td><td></td></tr><tr><td class=\"lo\">ແມ່ຕູ້</td><td class=\"rom\">Mɛ̄ɛ-tûu</td><td>grand-mère (adresse respectueuse)</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ພໍ່ຕູ້</td><td class=\"rom\">Phɔ̄ɔ-tûu</td><td>grand-père (adresse)</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ໜຸ່ມ</td><td class=\"rom\">Nùm</td><td>jeune</td><td></td></tr><tr><td class=\"lo\">ເຖົ້າ</td><td class=\"rom\">Thâo</td><td>vieux, âgé</td><td></td></tr><tr><td class=\"lo\">ແຕ່ງງານ</td><td class=\"rom\">Tɛ̀ɛng-ngáan</td><td>se marier</td><td></td></tr><tr><td class=\"lo\">ລູກ</td><td class=\"rom\">Lûuk</td><td>mon enfant (adresse d&#x27;un aîné)</td><td></td></tr></table></div><p class=\"note\">Les questions sur l'âge, le mariage ou le salaire sont normales au Laos : elles servent à situer la relation. Tu peux répondre vaguement.</p>"
+  },
+  {
+   "title": "Point de langue : les termes d'adresse",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ແມ່ຕູ້</span> <span class=\"rom\">Mɛ̄ɛ-tûu</span> = femme âgée</li><li><span class=\"lo\">ລຸງ</span> <span class=\"rom\">Lúng</span> = homme plus âgé que tes parents</li><li><span class=\"lo\">ອ້າຍ</span> <span class=\"rom\">Âay</span> = homme un peu plus âgé</li><li><span class=\"lo\">ນ້ອງ</span> <span class=\"rom\">Nɔ̏ɔng</span> = plus jeune</li></ul><p><b>À toi de trouver :</b></p><ol><li>Comment choisir le bon terme pour un inconnu ?</li></ol><details><summary>La règle</summary><p>On s'adresse aux inconnus avec un terme de parenté adapté à leur âge apparent : ນ້ອງ (plus jeune), ອ້າຍ/ເອື້ອຍ (un peu plus âgé), ລຸງ/ປ້າ (âge des parents), ພໍ່ຕູ້/ແມ່ຕູ້ (âge des grands-parents).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> la question ອາຍຸຈັກປີ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Tu as quel âge ?</li><li>J&#x27;ai vingt-huit ans.</li><li>Pas encore.</li><li>Bonjour grand-mère.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ອາຍຸຈັກປີ?</span> <span class=\"rom\">Ǎa-nyū ják pǐi?</span></li><li><span class=\"lo\">ຂ້ອຍອາຍຸຊາວແປດປີ</span> <span class=\"rom\">Khɔ̂ɔy ǎa-nyū sáaw pɛ̏ɛt pǐi.</span></li><li><span class=\"lo\">ຍັງເທື່ອ</span> <span class=\"rom\">Nyáng thʉ̄a.</span></li><li><span class=\"lo\">ສະບາຍດີແມ່ຕູ້</span> <span class=\"rom\">Sā-bǎay-dǐi mɛ̄ɛ-tûu.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Pour 5 personnes de ton entourage, écris le terme d&#x27;adresse lao que tu utiliserais.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Demande son âge à un natif et utilise le bon terme d&#x27;adresse pendant toute la conversation.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>13 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l28-v01",
+   "front": "ອາຍຸ",
+   "back": "Ǎa-nyū · âge"
+  },
+  {
+   "id": "l28-v02",
+   "front": "ຈັກປີ",
+   "back": "Ják pǐi · combien d'années ?"
+  },
+  {
+   "id": "l28-v03",
+   "front": "ປີ",
+   "back": "Pǐi · an, année"
+  },
+  {
+   "id": "l28-v04",
+   "front": "ແມ່ຕູ້",
+   "back": "Mɛ̄ɛ-tûu · grand-mère (adresse respectueuse)"
+  },
+  {
+   "id": "l28-v05",
+   "front": "ພໍ່ຕູ້",
+   "back": "Phɔ̄ɔ-tûu · grand-père (adresse)"
+  },
+  {
+   "id": "l28-v06",
+   "front": "ໜຸ່ມ",
+   "back": "Nùm · jeune"
+  },
+  {
+   "id": "l28-v07",
+   "front": "ເຖົ້າ",
+   "back": "Thâo · vieux, âgé"
+  },
+  {
+   "id": "l28-v08",
+   "front": "ແຕ່ງງານ",
+   "back": "Tɛ̀ɛng-ngáan · se marier"
+  },
+  {
+   "id": "l28-v09",
+   "front": "ລູກ",
+   "back": "Lûuk · mon enfant (adresse d'un aîné)"
+  },
+  {
+   "id": "l28-p01",
+   "front": "Tu as quel âge ?",
+   "back": "ອາຍຸຈັກປີ? · Ǎa-nyū ják pǐi?"
+  },
+  {
+   "id": "l28-p02",
+   "front": "J'ai vingt-huit ans.",
+   "back": "ຂ້ອຍອາຍຸຊາວແປດປີ · Khɔ̂ɔy ǎa-nyū sáaw pɛ̏ɛt pǐi."
+  },
+  {
+   "id": "l28-p03",
+   "front": "Pas encore.",
+   "back": "ຍັງເທື່ອ · Nyáng thʉ̄a."
+  },
+  {
+   "id": "l28-p04",
+   "front": "Bonjour grand-mère.",
+   "back": "ສະບາຍດີແມ່ຕູ້ · Sā-bǎay-dǐi mɛ̄ɛ-tûu."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ອາຍຸ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "âge",
+      "combien d'années ?",
+      "grand-mère (adresse respectueuse)",
+      "vieux, âgé"
+     ],
+     "answer": "âge",
+     "reveal": "<i>Ǎa-nyū</i>"
+    },
+    {
+     "audio": [
+      "ຈັກປີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "combien d'années ?",
+      "jeune",
+      "an, année",
+      "vieux, âgé"
+     ],
+     "answer": "combien d'années ?",
+     "reveal": "<i>Ják pǐi</i>"
+    },
+    {
+     "audio": [
+      "ປີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "an, année",
+      "grand-mère (adresse respectueuse)",
+      "vieux, âgé",
+      "âge"
+     ],
+     "answer": "an, année",
+     "reveal": "<i>Pǐi</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ຕູ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "grand-mère (adresse respectueuse)",
+      "âge",
+      "combien d'années ?",
+      "mon enfant (adresse d'un aîné)"
+     ],
+     "answer": "grand-mère (adresse respectueuse)",
+     "reveal": "<i>Mɛ̄ɛ-tûu</i>"
+    },
+    {
+     "audio": [
+      "ພໍ່ຕູ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "grand-père (adresse)",
+      "se marier",
+      "mon enfant (adresse d'un aîné)",
+      "combien d'années ?"
+     ],
+     "answer": "grand-père (adresse)",
+     "reveal": "<i>Phɔ̄ɔ-tûu</i>"
+    },
+    {
+     "audio": [
+      "ໜຸ່ມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "jeune",
+      "an, année",
+      "combien d'années ?",
+      "vieux, âgé"
+     ],
+     "answer": "jeune",
+     "reveal": "<i>Nùm</i>"
+    },
+    {
+     "audio": [
+      "ເຖົ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "vieux, âgé",
+      "mon enfant (adresse d'un aîné)",
+      "combien d'années ?",
+      "an, année"
+     ],
+     "answer": "vieux, âgé",
+     "reveal": "<i>Thâo</i>"
+    },
+    {
+     "audio": [
+      "ແຕ່ງງານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "se marier",
+      "vieux, âgé",
+      "jeune",
+      "âge"
+     ],
+     "answer": "se marier",
+     "reveal": "<i>Tɛ̀ɛng-ngáan</i>"
+    },
+    {
+     "audio": [
+      "ລູກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mon enfant (adresse d'un aîné)",
+      "an, année",
+      "combien d'années ?",
+      "grand-mère (adresse respectueuse)"
+     ],
+     "answer": "mon enfant (adresse d'un aîné)",
+     "reveal": "<i>Lûuk</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ສະບາຍດີແມ່ຕູ້"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Bonjour grand-mère.",
+      "Tu es encore jeune. Tu es mariée ?",
+      "Vingt-huit ans.",
+      "Pas encore."
+     ],
+     "answer": "Bonjour grand-mère.",
+     "reveal": "<i>Sā-bǎay-dǐi mɛ̄ɛ-tûu.</i>"
+    },
+    {
+     "audio": [
+      "ສະບາຍດີລູກ ລູກອາຍຸຈັກປີແລ້ວ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Bonjour mon enfant. Tu as quel âge ?",
+      "Bonjour grand-mère.",
+      "Pas encore.",
+      "Vingt-huit ans."
+     ],
+     "answer": "Bonjour mon enfant. Tu as quel âge ?",
+     "reveal": "<i>Sā-bǎay-dǐi lûuk. Lûuk ǎa-nyū ják pǐi lɛ̏ɛw?</i>"
+    },
+    {
+     "audio": [
+      "ຊາວແປດປີເຈົ້າ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Vingt-huit ans.",
+      "Tu es encore jeune. Tu es mariée ?",
+      "Bonjour grand-mère.",
+      "Pas encore."
+     ],
+     "answer": "Vingt-huit ans.",
+     "reveal": "<i>Sáaw pɛ̏ɛt pǐi jâo.</i>"
+    },
+    {
+     "audio": [
+      "ຍັງໜຸ່ມຢູ່ ແຕ່ງງານແລ້ວບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu es encore jeune. Tu es mariée ?",
+      "Bonjour grand-mère.",
+      "Vingt-huit ans.",
+      "Pas encore."
+     ],
+     "answer": "Tu es encore jeune. Tu es mariée ?",
+     "reveal": "<i>Nyáng nùm yùu. Tɛ̀ɛng-ngáan lɛ̏ɛw bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຍັງເທື່ອເຈົ້າ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Pas encore.",
+      "Tu es encore jeune. Tu es mariée ?",
+      "Bonjour mon enfant. Tu as quel âge ?",
+      "Bonjour grand-mère."
+     ],
+     "answer": "Pas encore.",
+     "reveal": "<i>Nyáng thʉ̄a jâo.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ອາຍຸຈັກປີ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tu as quel âge ?",
+      "Bonjour grand-mère.",
+      "J'ai vingt-huit ans.",
+      "Pas encore."
+     ],
+     "answer": "Tu as quel âge ?",
+     "reveal": "<i>Ǎa-nyū ják pǐi?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍອາຍຸຊາວແປດປີ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "J'ai vingt-huit ans.",
+      "Tu as quel âge ?",
+      "Bonjour grand-mère.",
+      "Pas encore."
+     ],
+     "answer": "J'ai vingt-huit ans.",
+     "reveal": "<i>Khɔ̂ɔy ǎa-nyū sáaw pɛ̏ɛt pǐi.</i>"
+    },
+    {
+     "audio": [
+      "ຍັງເທື່ອ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Pas encore.",
+      "Bonjour grand-mère.",
+      "J'ai vingt-huit ans.",
+      "Tu as quel âge ?"
+     ],
+     "answer": "Pas encore.",
+     "reveal": "<i>Nyáng thʉ̄a.</i>"
+    },
+    {
+     "audio": [
+      "ສະບາຍດີແມ່ຕູ້"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Bonjour grand-mère.",
+      "Pas encore.",
+      "Tu as quel âge ?",
+      "J'ai vingt-huit ans."
+     ],
+     "answer": "Bonjour grand-mère.",
+     "reveal": "<i>Sā-bǎay-dǐi mɛ̄ɛ-tûu.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ອາຍຸ",
+   "rom": "Ǎa-nyū",
+   "fr": "âge",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈັກປີ",
+   "rom": "Ják pǐi",
+   "fr": "combien d'années ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ປີ",
+   "rom": "Pǐi",
+   "fr": "an, année",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແມ່ຕູ້",
+   "rom": "Mɛ̄ɛ-tûu",
+   "fr": "grand-mère (adresse respectueuse)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພໍ່ຕູ້",
+   "rom": "Phɔ̄ɔ-tûu",
+   "fr": "grand-père (adresse)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໜຸ່ມ",
+   "rom": "Nùm",
+   "fr": "jeune",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຖົ້າ",
+   "rom": "Thâo",
+   "fr": "vieux, âgé",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແຕ່ງງານ",
+   "rom": "Tɛ̀ɛng-ngáan",
+   "fr": "se marier",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລູກ",
+   "rom": "Lûuk",
+   "fr": "mon enfant (adresse d'un aîné)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອາຍຸຈັກປີ?",
+   "rom": "Ǎa-nyū ják pǐi?",
+   "fr": "Tu as quel âge ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍອາຍຸຊາວແປດປີ",
+   "rom": "Khɔ̂ɔy ǎa-nyū sáaw pɛ̏ɛt pǐi.",
+   "fr": "J'ai vingt-huit ans.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍັງເທື່ອ",
+   "rom": "Nyáng thʉ̄a.",
+   "fr": "Pas encore.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສະບາຍດີແມ່ຕູ້",
+   "rom": "Sā-bǎay-dǐi mɛ̄ɛ-tûu.",
+   "fr": "Bonjour grand-mère.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ອາຍຸ",
+    "ຈັກ",
+    "ປີ"
+   ],
+   "rom": "Ǎa-nyū ják pǐi?",
+   "fr": "Tu as quel âge ?"
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ອາຍຸ",
+    "ຊາວ",
+    "ແປດ",
+    "ປີ"
+   ],
+   "rom": "Khɔ̂ɔy ǎa-nyū sáaw pɛ̏ɛt pǐi.",
+   "fr": "J'ai vingt-huit ans."
+  },
+  {
+   "tokens": [
+    "ຍັງ",
+    "ເທື່ອ"
+   ],
+   "rom": "Nyáng thʉ̄a.",
+   "fr": "Pas encore."
+  },
+  {
+   "tokens": [
+    "ສະບາຍດີ",
+    "ແມ່ຕູ້"
+   ],
+   "rom": "Sā-bǎay-dǐi mɛ̄ɛ-tûu.",
+   "fr": "Bonjour grand-mère."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ອາຍຸ",
+   "rom": "Ǎa-nyū",
+   "fr": "âge"
+  },
+  {
+   "lao": "ຈັກປີ",
+   "rom": "Ják pǐi",
+   "fr": "combien d'années ?"
+  },
+  {
+   "lao": "ປີ",
+   "rom": "Pǐi",
+   "fr": "an, année"
+  },
+  {
+   "lao": "ແມ່ຕູ້",
+   "rom": "Mɛ̄ɛ-tûu",
+   "fr": "grand-mère (adresse respectueuse)"
+  },
+  {
+   "lao": "ພໍ່ຕູ້",
+   "rom": "Phɔ̄ɔ-tûu",
+   "fr": "grand-père (adresse)"
+  },
+  {
+   "lao": "ໜຸ່ມ",
+   "rom": "Nùm",
+   "fr": "jeune"
+  },
+  {
+   "lao": "ເຖົ້າ",
+   "rom": "Thâo",
+   "fr": "vieux, âgé"
+  },
+  {
+   "lao": "ແຕ່ງງານ",
+   "rom": "Tɛ̀ɛng-ngáan",
+   "fr": "se marier"
+  },
+  {
+   "lao": "ລູກ",
+   "rom": "Lûuk",
+   "fr": "mon enfant (adresse d'un aîné)"
+  }
+ ],
+ "sounds": {
+  "ຍ່າ": "Nyāa",
+  "ມັນ": "Mán",
+  "ສູນ": "Sǔun",
+  "ຈັກໂມງ": "Ják móong",
+  "ສະບາຍດີແມ່ຕູ້": "Sā-bǎay-dǐi mɛ̄ɛ-tûu.",
+  "ສະບາຍດີລູກ ລູກອາຍຸຈັກປີແລ້ວ": "Sā-bǎay-dǐi lûuk. Lûuk ǎa-nyū ják pǐi lɛ̏ɛw?",
+  "ຊາວແປດປີເຈົ້າ": "Sáaw pɛ̏ɛt pǐi jâo.",
+  "ຍັງໜຸ່ມຢູ່ ແຕ່ງງານແລ້ວບໍ": "Nyáng nùm yùu. Tɛ̀ɛng-ngáan lɛ̏ɛw bɔ̌ɔ?",
+  "ຍັງເທື່ອເຈົ້າ": "Nyáng thʉ̄a jâo.",
+  "ອາຍຸ": "ǎa-nyū",
+  "ຈັກປີ": "Ják pǐi",
+  "ປີ": "pǐi",
+  "ແມ່ຕູ້": "mɛ̄ɛ-tûu",
+  "ພໍ່ຕູ້": "Phɔ̄ɔ-tûu",
+  "ໜຸ່ມ": "Nùm",
+  "ເຖົ້າ": "Thâo",
+  "ແຕ່ງງານ": "Tɛ̀ɛng-ngáan",
+  "ລູກ": "Lûuk",
+  "ລຸງ": "Lúng",
+  "ອ້າຍ": "Âay",
+  "ນ້ອງ": "Nɔ̏ɔng",
+  "ອາຍຸຈັກປີ": "Ǎa-nyū ják pǐi?",
+  "ຂ້ອຍອາຍຸຊາວແປດປີ": "Khɔ̂ɔy ǎa-nyū sáaw pɛ̏ɛt pǐi.",
+  "ຍັງເທື່ອ": "Nyáng thʉ̄a.",
+  "ຈັກ": "ják",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ຊາວ": "sáaw",
+  "ແປດ": "pɛ̏ɛt",
+  "ຍັງ": "nyáng",
+  "ເທື່ອ": "thʉ̄a",
+  "ສະບາຍດີ": "sā-bǎay-dǐi"
+ },
+ "suivi": "LEÇON : 28 — Partie C (Vie courante, A1) · L'âge et la hiérarchie\nOBJECTIF : Demander l'âge poliment et t'adresser à quelqu'un avec le bon terme selon son âge.\nNOTION : les termes d'adresse\nVOCAB : Ǎa-nyū, Ják pǐi, Pǐi, Mɛ̄ɛ-tûu, Phɔ̄ɔ-tûu, Nùm, Thâo, Tɛ̀ɛng-ngáan, Lûuk\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 29 — L'heure"
+}

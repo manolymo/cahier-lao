@@ -1,0 +1,646 @@
+{
+ "num": 31,
+ "phase": "Partie C · Vie courante",
+ "title": "Où est… ?",
+ "objective": "Demander et indiquer un chemin simple.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>samedi <small class=\"muted\">(leçon 30)</small></li><li>grand-mère (adresse respectueuse) <small class=\"muted\">(leçon 28)</small></li><li>pimenté <small class=\"muted\">(leçon 24)</small></li><li>aller <small class=\"muted\">(leçon 17)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ວັນເສົາ</span> <span class=\"rom\">Wán-sǎo</span> · samedi</li><li><span class=\"lo\">ແມ່ຕູ້</span> <span class=\"rom\">Mɛ̄ɛ-tûu</span> · grand-mère (adresse respectueuse)</li><li><span class=\"lo\">ເຜັດ</span> <span class=\"rom\">Phēt</span> · pimenté</li><li><span class=\"lo\">ໄປ</span> <span class=\"rom\">Pǎy</span> · aller</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Demander et indiquer un chemin simple.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara se perd en ville.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂໍໂທດ ທະນາຄານຢູ່ໃສ?</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ກົງໄປ ແລ້ວລ້ຽວຊ້າຍ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໄກບໍ?</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ບໍ່ໄກ ຍ່າງຫ້ານາທີ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຢູ່ຂ້າງຕະຫຼາດບໍ?</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ແມ່ນແລ້ວ ຢູ່ຕໍ່ໜ້າຕະຫຼາດ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Khɔ̌ɔ-thôot, thā-náa-kháan yùu sǎy?</span><br><span class=\"rom\">Kóng-pǎy, lɛ̏ɛw lȉaw sȁay.</span><br><span class=\"rom\">Kǎy bɔ̌ɔ?</span><br><span class=\"rom\">Bɔ̀ɔ kǎy. Nyāang hâa náa-thíi.</span><br><span class=\"rom\">Yùu khâang tā-lȁat bɔ̌ɔ?</span><br><span class=\"rom\">Mɛ̄ɛn lɛ̏ɛw. Yùu tɔ̀ɔ-nâa tā-lȁat.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Pardon, où est la banque ?<br><b>X</b> — Tout droit, puis à gauche.<br><b>Clara</b> — C&#x27;est loin ?<br><b>X</b> — Non. Cinq minutes à pied.<br><b>Clara</b> — C&#x27;est à côté du marché ?<br><b>X</b> — Oui. En face du marché.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Où va Clara ?</li><li>C&#x27;est loin ?</li></ol><details><summary>Réponses</summary><ol><li>À la banque.</li><li>Non, 5 minutes à pied, en face du marché.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ກົງໄປ</td><td class=\"rom\">Kóng-pǎy</td><td>tout droit</td><td></td></tr><tr><td class=\"lo\">ລ້ຽວ</td><td class=\"rom\">Lȉaw</td><td>tourner</td><td></td></tr><tr><td class=\"lo\">ຊ້າຍ</td><td class=\"rom\">Sȁay</td><td>gauche</td><td></td></tr><tr><td class=\"lo\">ຂວາ</td><td class=\"rom\">Khwǎa</td><td>droite</td><td></td></tr><tr><td class=\"lo\">ຂ້າງ</td><td class=\"rom\">Khâang</td><td>à côté de</td><td></td></tr><tr><td class=\"lo\">ຕໍ່ໜ້າ</td><td class=\"rom\">Tɔ̀ɔ-nâa</td><td>en face de</td><td></td></tr><tr><td class=\"lo\">ທາງຫຼັງ</td><td class=\"rom\">Tháang-lǎng</td><td>derrière</td><td></td></tr><tr><td class=\"lo\">ຍ່າງ</td><td class=\"rom\">Nyāang</td><td>marcher</td><td></td></tr><tr><td class=\"lo\">ທະນາຄານ</td><td class=\"rom\">Thā-náa-kháan</td><td>banque</td><td></td></tr><tr><td class=\"lo\">ນາທີ</td><td class=\"rom\">Náa-thíi</td><td>minute</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les prépositions de lieu",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຢູ່ຂ້າງຕະຫຼາດ</span> <span class=\"rom\">Yùu khâang tā-lȁat</span> = à côté du marché</li><li><span class=\"lo\">ຢູ່ຕໍ່ໜ້າວັດ</span> <span class=\"rom\">Yùu tɔ̀ɔ-nâa wāt</span> = en face du temple</li><li><span class=\"lo\">ຢູ່ໃນເຮືອນ</span> <span class=\"rom\">Yùu nǎy hʉ́an</span> = dans la maison</li></ul><p><b>À toi de trouver :</b></p><ol><li>Quel verbe précède la préposition ?</li></ol><details><summary>La règle</summary><p>Pour situer : ຢູ່ + préposition + lieu. ຂ້າງ (à côté), ຕໍ່ໜ້າ (en face), ໃນ (dans), ເທິງ (sur), ກ້ອງ (sous).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les directions : ຊ້າຍ, ຂວາ, ກົງໄປ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Pardon, où est la banque ?</li><li>Tout droit, puis à gauche.</li><li>C&#x27;est loin ?</li><li>En face du marché.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂໍໂທດ ທະນາຄານຢູ່ໃສ?</span> <span class=\"rom\">Khɔ̌ɔ-thôot, thā-náa-kháan yùu sǎy?</span></li><li><span class=\"lo\">ກົງໄປ ແລ້ວລ້ຽວຊ້າຍ</span> <span class=\"rom\">Kóng-pǎy, lɛ̏ɛw lȉaw sȁay.</span></li><li><span class=\"lo\">ໄກບໍ?</span> <span class=\"rom\">Kǎy bɔ̌ɔ?</span></li><li><span class=\"lo\">ຢູ່ຕໍ່ໜ້າຕະຫຼາດ</span> <span class=\"rom\">Yùu tɔ̀ɔ-nâa tā-lȁat.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris le chemin de chez toi à un lieu proche en 4 phrases.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Explique en lao à un natif le chemin de chez toi à un commerce proche.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>14 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l31-v01",
+   "front": "ກົງໄປ",
+   "back": "Kóng-pǎy · tout droit"
+  },
+  {
+   "id": "l31-v02",
+   "front": "ລ້ຽວ",
+   "back": "Lȉaw · tourner"
+  },
+  {
+   "id": "l31-v03",
+   "front": "ຊ້າຍ",
+   "back": "Sȁay · gauche"
+  },
+  {
+   "id": "l31-v04",
+   "front": "ຂວາ",
+   "back": "Khwǎa · droite"
+  },
+  {
+   "id": "l31-v05",
+   "front": "ຂ້າງ",
+   "back": "Khâang · à côté de"
+  },
+  {
+   "id": "l31-v06",
+   "front": "ຕໍ່ໜ້າ",
+   "back": "Tɔ̀ɔ-nâa · en face de"
+  },
+  {
+   "id": "l31-v07",
+   "front": "ທາງຫຼັງ",
+   "back": "Tháang-lǎng · derrière"
+  },
+  {
+   "id": "l31-v08",
+   "front": "ຍ່າງ",
+   "back": "Nyāang · marcher"
+  },
+  {
+   "id": "l31-v09",
+   "front": "ທະນາຄານ",
+   "back": "Thā-náa-kháan · banque"
+  },
+  {
+   "id": "l31-v10",
+   "front": "ນາທີ",
+   "back": "Náa-thíi · minute"
+  },
+  {
+   "id": "l31-p01",
+   "front": "Pardon, où est la banque ?",
+   "back": "ຂໍໂທດ ທະນາຄານຢູ່ໃສ? · Khɔ̌ɔ-thôot, thā-náa-kháan yùu sǎy?"
+  },
+  {
+   "id": "l31-p02",
+   "front": "Tout droit, puis à gauche.",
+   "back": "ກົງໄປ ແລ້ວລ້ຽວຊ້າຍ · Kóng-pǎy, lɛ̏ɛw lȉaw sȁay."
+  },
+  {
+   "id": "l31-p03",
+   "front": "C'est loin ?",
+   "back": "ໄກບໍ? · Kǎy bɔ̌ɔ?"
+  },
+  {
+   "id": "l31-p04",
+   "front": "En face du marché.",
+   "back": "ຢູ່ຕໍ່ໜ້າຕະຫຼາດ · Yùu tɔ̀ɔ-nâa tā-lȁat."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ກົງໄປ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "tout droit",
+      "gauche",
+      "minute",
+      "derrière"
+     ],
+     "answer": "tout droit",
+     "reveal": "<i>Kóng-pǎy</i>"
+    },
+    {
+     "audio": [
+      "ລ້ຽວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "tourner",
+      "droite",
+      "derrière",
+      "marcher"
+     ],
+     "answer": "tourner",
+     "reveal": "<i>Lȉaw</i>"
+    },
+    {
+     "audio": [
+      "ຊ້າຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "gauche",
+      "marcher",
+      "tout droit",
+      "droite"
+     ],
+     "answer": "gauche",
+     "reveal": "<i>Sȁay</i>"
+    },
+    {
+     "audio": [
+      "ຂວາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "droite",
+      "derrière",
+      "en face de",
+      "marcher"
+     ],
+     "answer": "droite",
+     "reveal": "<i>Khwǎa</i>"
+    },
+    {
+     "audio": [
+      "ຂ້າງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "à côté de",
+      "marcher",
+      "tout droit",
+      "derrière"
+     ],
+     "answer": "à côté de",
+     "reveal": "<i>Khâang</i>"
+    },
+    {
+     "audio": [
+      "ຕໍ່ໜ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "en face de",
+      "marcher",
+      "à côté de",
+      "minute"
+     ],
+     "answer": "en face de",
+     "reveal": "<i>Tɔ̀ɔ-nâa</i>"
+    },
+    {
+     "audio": [
+      "ທາງຫຼັງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "derrière",
+      "tourner",
+      "minute",
+      "en face de"
+     ],
+     "answer": "derrière",
+     "reveal": "<i>Tháang-lǎng</i>"
+    },
+    {
+     "audio": [
+      "ຍ່າງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "marcher",
+      "derrière",
+      "minute",
+      "droite"
+     ],
+     "answer": "marcher",
+     "reveal": "<i>Nyāang</i>"
+    },
+    {
+     "audio": [
+      "ທະນາຄານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "banque",
+      "minute",
+      "en face de",
+      "gauche"
+     ],
+     "answer": "banque",
+     "reveal": "<i>Thā-náa-kháan</i>"
+    },
+    {
+     "audio": [
+      "ນາທີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "minute",
+      "en face de",
+      "derrière",
+      "marcher"
+     ],
+     "answer": "minute",
+     "reveal": "<i>Náa-thíi</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂໍໂທດ ທະນາຄານຢູ່ໃສ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Pardon, où est la banque ?",
+      "C'est à côté du marché ?",
+      "Oui. En face du marché.",
+      "Tout droit, puis à gauche."
+     ],
+     "answer": "Pardon, où est la banque ?",
+     "reveal": "<i>Khɔ̌ɔ-thôot, thā-náa-kháan yùu sǎy?</i>"
+    },
+    {
+     "audio": [
+      "ກົງໄປ ແລ້ວລ້ຽວຊ້າຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tout droit, puis à gauche.",
+      "Oui. En face du marché.",
+      "Pardon, où est la banque ?",
+      "Non. Cinq minutes à pied."
+     ],
+     "answer": "Tout droit, puis à gauche.",
+     "reveal": "<i>Kóng-pǎy, lɛ̏ɛw lȉaw sȁay.</i>"
+    },
+    {
+     "audio": [
+      "ໄກບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'est loin ?",
+      "Non. Cinq minutes à pied.",
+      "Oui. En face du marché.",
+      "C'est à côté du marché ?"
+     ],
+     "answer": "C'est loin ?",
+     "reveal": "<i>Kǎy bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ໄກ ຍ່າງຫ້ານາທີ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Non. Cinq minutes à pied.",
+      "Pardon, où est la banque ?",
+      "Tout droit, puis à gauche.",
+      "Oui. En face du marché."
+     ],
+     "answer": "Non. Cinq minutes à pied.",
+     "reveal": "<i>Bɔ̀ɔ kǎy. Nyāang hâa náa-thíi.</i>"
+    },
+    {
+     "audio": [
+      "ຢູ່ຂ້າງຕະຫຼາດບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'est à côté du marché ?",
+      "Pardon, où est la banque ?",
+      "Tout droit, puis à gauche.",
+      "Oui. En face du marché."
+     ],
+     "answer": "C'est à côté du marché ?",
+     "reveal": "<i>Yùu khâang tā-lȁat bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນແລ້ວ ຢູ່ຕໍ່ໜ້າຕະຫຼາດ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oui. En face du marché.",
+      "Tout droit, puis à gauche.",
+      "C'est loin ?",
+      "Pardon, où est la banque ?"
+     ],
+     "answer": "Oui. En face du marché.",
+     "reveal": "<i>Mɛ̄ɛn lɛ̏ɛw. Yùu tɔ̀ɔ-nâa tā-lȁat.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂໍໂທດ ທະນາຄານຢູ່ໃສ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Pardon, où est la banque ?",
+      "C'est loin ?",
+      "En face du marché.",
+      "Tout droit, puis à gauche."
+     ],
+     "answer": "Pardon, où est la banque ?",
+     "reveal": "<i>Khɔ̌ɔ-thôot, thā-náa-kháan yùu sǎy?</i>"
+    },
+    {
+     "audio": [
+      "ກົງໄປ ແລ້ວລ້ຽວຊ້າຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tout droit, puis à gauche.",
+      "C'est loin ?",
+      "En face du marché.",
+      "Pardon, où est la banque ?"
+     ],
+     "answer": "Tout droit, puis à gauche.",
+     "reveal": "<i>Kóng-pǎy, lɛ̏ɛw lȉaw sȁay.</i>"
+    },
+    {
+     "audio": [
+      "ໄກບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est loin ?",
+      "En face du marché.",
+      "Tout droit, puis à gauche.",
+      "Pardon, où est la banque ?"
+     ],
+     "answer": "C'est loin ?",
+     "reveal": "<i>Kǎy bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຢູ່ຕໍ່ໜ້າຕະຫຼາດ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "En face du marché.",
+      "Tout droit, puis à gauche.",
+      "C'est loin ?",
+      "Pardon, où est la banque ?"
+     ],
+     "answer": "En face du marché.",
+     "reveal": "<i>Yùu tɔ̀ɔ-nâa tā-lȁat.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ກົງໄປ",
+   "rom": "Kóng-pǎy",
+   "fr": "tout droit",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລ້ຽວ",
+   "rom": "Lȉaw",
+   "fr": "tourner",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊ້າຍ",
+   "rom": "Sȁay",
+   "fr": "gauche",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂວາ",
+   "rom": "Khwǎa",
+   "fr": "droite",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້າງ",
+   "rom": "Khâang",
+   "fr": "à côté de",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕໍ່ໜ້າ",
+   "rom": "Tɔ̀ɔ-nâa",
+   "fr": "en face de",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທາງຫຼັງ",
+   "rom": "Tháang-lǎng",
+   "fr": "derrière",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍ່າງ",
+   "rom": "Nyāang",
+   "fr": "marcher",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທະນາຄານ",
+   "rom": "Thā-náa-kháan",
+   "fr": "banque",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນາທີ",
+   "rom": "Náa-thíi",
+   "fr": "minute",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍໂທດ ທະນາຄານຢູ່ໃສ?",
+   "rom": "Khɔ̌ɔ-thôot, thā-náa-kháan yùu sǎy?",
+   "fr": "Pardon, où est la banque ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກົງໄປ ແລ້ວລ້ຽວຊ້າຍ",
+   "rom": "Kóng-pǎy, lɛ̏ɛw lȉaw sȁay.",
+   "fr": "Tout droit, puis à gauche.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄກບໍ?",
+   "rom": "Kǎy bɔ̌ɔ?",
+   "fr": "C'est loin ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຢູ່ຕໍ່ໜ້າຕະຫຼາດ",
+   "rom": "Yùu tɔ̀ɔ-nâa tā-lȁat.",
+   "fr": "En face du marché.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂໍໂທດ",
+    "ທະນາຄານ",
+    "ຢູ່",
+    "ໃສ"
+   ],
+   "rom": "Khɔ̌ɔ-thôot, thā-náa-kháan yùu sǎy?",
+   "fr": "Pardon, où est la banque ?"
+  },
+  {
+   "tokens": [
+    "ກົງໄປ",
+    "ແລ້ວ",
+    "ລ້ຽວ",
+    "ຊ້າຍ"
+   ],
+   "rom": "Kóng-pǎy, lɛ̏ɛw lȉaw sȁay.",
+   "fr": "Tout droit, puis à gauche."
+  },
+  {
+   "tokens": [
+    "ໄກ",
+    "ບໍ"
+   ],
+   "rom": "Kǎy bɔ̌ɔ?",
+   "fr": "C'est loin ?"
+  },
+  {
+   "tokens": [
+    "ຢູ່",
+    "ຕໍ່ໜ້າ",
+    "ຕະຫຼາດ"
+   ],
+   "rom": "Yùu tɔ̀ɔ-nâa tā-lȁat.",
+   "fr": "En face du marché."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ກົງໄປ",
+   "rom": "Kóng-pǎy",
+   "fr": "tout droit"
+  },
+  {
+   "lao": "ລ້ຽວ",
+   "rom": "Lȉaw",
+   "fr": "tourner"
+  },
+  {
+   "lao": "ຊ້າຍ",
+   "rom": "Sȁay",
+   "fr": "gauche"
+  },
+  {
+   "lao": "ຂວາ",
+   "rom": "Khwǎa",
+   "fr": "droite"
+  },
+  {
+   "lao": "ຂ້າງ",
+   "rom": "Khâang",
+   "fr": "à côté de"
+  },
+  {
+   "lao": "ຕໍ່ໜ້າ",
+   "rom": "Tɔ̀ɔ-nâa",
+   "fr": "en face de"
+  },
+  {
+   "lao": "ທາງຫຼັງ",
+   "rom": "Tháang-lǎng",
+   "fr": "derrière"
+  },
+  {
+   "lao": "ຍ່າງ",
+   "rom": "Nyāang",
+   "fr": "marcher"
+  },
+  {
+   "lao": "ທະນາຄານ",
+   "rom": "Thā-náa-kháan",
+   "fr": "banque"
+  },
+  {
+   "lao": "ນາທີ",
+   "rom": "Náa-thíi",
+   "fr": "minute"
+  }
+ ],
+ "sounds": {
+  "ວັນເສົາ": "Wán-sǎo",
+  "ແມ່ຕູ້": "Mɛ̄ɛ-tûu",
+  "ເຜັດ": "Phēt",
+  "ໄປ": "Pǎy",
+  "ຂໍໂທດ ທະນາຄານຢູ່ໃສ": "Khɔ̌ɔ-thôot, thā-náa-kháan yùu sǎy?",
+  "ກົງໄປ ແລ້ວລ້ຽວຊ້າຍ": "Kóng-pǎy, lɛ̏ɛw lȉaw sȁay.",
+  "ໄກບໍ": "Kǎy bɔ̌ɔ?",
+  "ບໍ່ໄກ ຍ່າງຫ້ານາທີ": "Bɔ̀ɔ kǎy. Nyāang hâa náa-thíi.",
+  "ຢູ່ຂ້າງຕະຫຼາດບໍ": "Yùu khâang tā-lȁat bɔ̌ɔ?",
+  "ແມ່ນແລ້ວ ຢູ່ຕໍ່ໜ້າຕະຫຼາດ": "Mɛ̄ɛn lɛ̏ɛw. Yùu tɔ̀ɔ-nâa tā-lȁat.",
+  "ກົງໄປ": "kóng-pǎy",
+  "ລ້ຽວ": "lȉaw",
+  "ຊ້າຍ": "sȁay",
+  "ຂວາ": "Khwǎa",
+  "ຂ້າງ": "Khâang",
+  "ຕໍ່ໜ້າ": "tɔ̀ɔ-nâa",
+  "ທາງຫຼັງ": "Tháang-lǎng",
+  "ຍ່າງ": "Nyāang",
+  "ທະນາຄານ": "thā-náa-kháan",
+  "ນາທີ": "Náa-thíi",
+  "ຢູ່ຂ້າງຕະຫຼາດ": "Yùu khâang tā-lȁat",
+  "ຢູ່ຕໍ່ໜ້າວັດ": "Yùu tɔ̀ɔ-nâa wāt",
+  "ຢູ່ໃນເຮືອນ": "Yùu nǎy hʉ́an",
+  "ຢູ່ຕໍ່ໜ້າຕະຫຼາດ": "Yùu tɔ̀ɔ-nâa tā-lȁat.",
+  "ຂໍໂທດທະນາຄານຢູ່ໃສ": "Khɔ̌ɔ-thôot, thā-náa-kháan yùu sǎy?",
+  "ຂໍໂທດ": "khɔ̌ɔ-thôot",
+  "ຢູ່": "yùu",
+  "ໃສ": "sǎy",
+  "ກົງໄປແລ້ວລ້ຽວຊ້າຍ": "Kóng-pǎy, lɛ̏ɛw lȉaw sȁay.",
+  "ແລ້ວ": "lɛ̏ɛw",
+  "ໄກ": "kǎy",
+  "ບໍ": "bɔ̌ɔ",
+  "ຕະຫຼາດ": "tā-lȁat"
+ },
+ "suivi": "LEÇON : 31 — Partie C (Vie courante, A1) · Où est… ?\nOBJECTIF : Demander et indiquer un chemin simple.\nNOTION : les prépositions de lieu\nVOCAB : Kóng-pǎy, Lȉaw, Sȁay, Khwǎa, Khâang, Tɔ̀ɔ-nâa, Tháang-lǎng, Nyāang, Thā-náa-kháan, Náa-thíi\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 32 — Les transports"
+}

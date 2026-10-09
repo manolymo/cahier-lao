@@ -1,0 +1,628 @@
+{
+ "num": 32,
+ "phase": "Partie C · Vie courante",
+ "title": "Les transports",
+ "objective": "Prendre un tuk-tuk, donner ta destination et négocier le prix.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>tourner <small class=\"muted\">(leçon 31)</small></li><li>heure <small class=\"muted\">(leçon 29)</small></li><li>acide <small class=\"muted\">(leçon 25)</small></li><li>lait <small class=\"muted\">(leçon 18)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ລ້ຽວ</span> <span class=\"rom\">Lȉaw</span> · tourner</li><li><span class=\"lo\">ໂມງ</span> <span class=\"rom\">Móong</span> · heure</li><li><span class=\"lo\">ສົ້ມ</span> <span class=\"rom\">Sôm</span> · acide</li><li><span class=\"lo\">ນົມ</span> <span class=\"rom\">Nóm</span> · lait</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Prendre un tuk-tuk, donner ta destination et négocier le prix.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara prend un tuk-tuk pour l&#x27;aéroport.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໄປສະໜາມບິນເທົ່າໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ຄົນຂັບ</span><div><span class=\"lo\">ຫ້າສິບພັນ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສາມສິບພັນໄດ້ບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ຄົນຂັບ</span><div><span class=\"lo\">ສີ່ສິບພັນ ຂຶ້ນມາ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໂອເຄ ໄປໄວໆແດ່ ຂ້ອຍຟ້າວ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Pǎy sā-nǎam-bǐn thāo-dǎy?</span><br><span class=\"rom\">Hâa-sīp-phán.</span><br><span class=\"rom\">Sǎam-sīp phán dâay bɔ̌ɔ?</span><br><span class=\"rom\">Sìi-sīp phán. Khʉ̂n máa.</span><br><span class=\"rom\">Ǒo-khéé. Pǎy wáy wáy dɛ̀ɛ, khɔ̂ɔy fȁaw.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Combien pour l&#x27;aéroport ?<br><b>Le chauffeur</b> — Cinquante mille.<br><b>Clara</b> — Trente mille, c&#x27;est possible ?<br><b>Le chauffeur</b> — Quarante mille. Montez.<br><b>Clara</b> — OK. Allez vite, s&#x27;il vous plaît, je suis pressée.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Où va Clara ?</li><li>Quel est le prix final ?</li></ol><details><summary>Réponses</summary><ol><li>À l&#x27;aéroport.</li><li>40 000 kips.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ລົດຕຸກຕຸກ</td><td class=\"rom\">Lōt-tūk-tūk</td><td>tuk-tuk</td><td></td></tr><tr><td class=\"lo\">ລົດເມ</td><td class=\"rom\">Lōt-méé</td><td>bus</td><td></td></tr><tr><td class=\"lo\">ລົດຈັກ</td><td class=\"rom\">Lōt-ják</td><td>moto</td><td></td></tr><tr><td class=\"lo\">ຍົນ</td><td class=\"rom\">Nyón</td><td>avion</td><td></td></tr><tr><td class=\"lo\">ສະໜາມບິນ</td><td class=\"rom\">Sā-nǎam-bǐn</td><td>aéroport</td><td></td></tr><tr><td class=\"lo\">ຂຶ້ນ</td><td class=\"rom\">Khʉ̂n</td><td>monter</td><td></td></tr><tr><td class=\"lo\">ລົງ</td><td class=\"rom\">Lóng</td><td>descendre</td><td></td></tr><tr><td class=\"lo\">ຈອດ</td><td class=\"rom\">Jȍɔt</td><td>s&#x27;arrêter, se garer</td><td></td></tr><tr><td class=\"lo\">ຟ້າວ</td><td class=\"rom\">Fȁaw</td><td>être pressé</td><td></td></tr><tr><td class=\"lo\">ຂີ່</td><td class=\"rom\">Khìi</td><td>monter (à moto, à vélo)</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les verbes en série",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຂຶ້ນມາ</span> <span class=\"rom\">Khʉ̂n máa</span> = monte (vers moi)</li><li><span class=\"lo\">ໄປຊື້</span> <span class=\"rom\">Pǎy sȕu</span> = aller acheter</li><li><span class=\"lo\">ຍ່າງໄປ</span> <span class=\"rom\">Nyāang pǎy</span> = aller à pied</li></ul><p><b>À toi de trouver :</b></p><ol><li>Que montrent ມາ et ໄປ après un verbe ?</li></ol><details><summary>La règle</summary><p>Le lao enchaîne les verbes sans mot de liaison. ມາ après un verbe = vers celui qui parle, ໄປ = en s'éloignant.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> ມາ et ໄປ après les verbes.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Combien pour l&#x27;aéroport ?</li><li>Arrêtez-vous ici, s&#x27;il vous plaît.</li><li>Je suis pressée.</li><li>Je vais à pied.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ໄປສະໜາມບິນເທົ່າໃດ?</span> <span class=\"rom\">Pǎy sā-nǎam-bǐn thāo-dǎy?</span></li><li><span class=\"lo\">ຈອດຢູ່ນີ້ແດ່</span> <span class=\"rom\">Jȍɔt yùu-nȉi dɛ̀ɛ.</span></li><li><span class=\"lo\">ຂ້ອຍຟ້າວ</span> <span class=\"rom\">Khɔ̂ɔy fȁaw.</span></li><li><span class=\"lo\">ຂ້ອຍຍ່າງໄປ</span> <span class=\"rom\">Khɔ̂ɔy nyāang pǎy.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris un dialogue de 5 répliques avec un chauffeur de tuk-tuk.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Joue avec un natif une course en tuk-tuk : destination, prix, arrêt.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>14 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l32-v01",
+   "front": "ລົດຕຸກຕຸກ",
+   "back": "Lōt-tūk-tūk · tuk-tuk"
+  },
+  {
+   "id": "l32-v02",
+   "front": "ລົດເມ",
+   "back": "Lōt-méé · bus"
+  },
+  {
+   "id": "l32-v03",
+   "front": "ລົດຈັກ",
+   "back": "Lōt-ják · moto"
+  },
+  {
+   "id": "l32-v04",
+   "front": "ຍົນ",
+   "back": "Nyón · avion"
+  },
+  {
+   "id": "l32-v05",
+   "front": "ສະໜາມບິນ",
+   "back": "Sā-nǎam-bǐn · aéroport"
+  },
+  {
+   "id": "l32-v06",
+   "front": "ຂຶ້ນ",
+   "back": "Khʉ̂n · monter"
+  },
+  {
+   "id": "l32-v07",
+   "front": "ລົງ",
+   "back": "Lóng · descendre"
+  },
+  {
+   "id": "l32-v08",
+   "front": "ຈອດ",
+   "back": "Jȍɔt · s'arrêter, se garer"
+  },
+  {
+   "id": "l32-v09",
+   "front": "ຟ້າວ",
+   "back": "Fȁaw · être pressé"
+  },
+  {
+   "id": "l32-v10",
+   "front": "ຂີ່",
+   "back": "Khìi · monter (à moto, à vélo)"
+  },
+  {
+   "id": "l32-p01",
+   "front": "Combien pour l'aéroport ?",
+   "back": "ໄປສະໜາມບິນເທົ່າໃດ? · Pǎy sā-nǎam-bǐn thāo-dǎy?"
+  },
+  {
+   "id": "l32-p02",
+   "front": "Arrêtez-vous ici, s'il vous plaît.",
+   "back": "ຈອດຢູ່ນີ້ແດ່ · Jȍɔt yùu-nȉi dɛ̀ɛ."
+  },
+  {
+   "id": "l32-p03",
+   "front": "Je suis pressée.",
+   "back": "ຂ້ອຍຟ້າວ · Khɔ̂ɔy fȁaw."
+  },
+  {
+   "id": "l32-p04",
+   "front": "Je vais à pied.",
+   "back": "ຂ້ອຍຍ່າງໄປ · Khɔ̂ɔy nyāang pǎy."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ລົດຕຸກຕຸກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "tuk-tuk",
+      "avion",
+      "moto",
+      "être pressé"
+     ],
+     "answer": "tuk-tuk",
+     "reveal": "<i>Lōt-tūk-tūk</i>"
+    },
+    {
+     "audio": [
+      "ລົດເມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "bus",
+      "avion",
+      "être pressé",
+      "monter (à moto, à vélo)"
+     ],
+     "answer": "bus",
+     "reveal": "<i>Lōt-méé</i>"
+    },
+    {
+     "audio": [
+      "ລົດຈັກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "moto",
+      "bus",
+      "s'arrêter, se garer",
+      "monter (à moto, à vélo)"
+     ],
+     "answer": "moto",
+     "reveal": "<i>Lōt-ják</i>"
+    },
+    {
+     "audio": [
+      "ຍົນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "avion",
+      "descendre",
+      "monter (à moto, à vélo)",
+      "aéroport"
+     ],
+     "answer": "avion",
+     "reveal": "<i>Nyón</i>"
+    },
+    {
+     "audio": [
+      "ສະໜາມບິນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "aéroport",
+      "tuk-tuk",
+      "avion",
+      "bus"
+     ],
+     "answer": "aéroport",
+     "reveal": "<i>Sā-nǎam-bǐn</i>"
+    },
+    {
+     "audio": [
+      "ຂຶ້ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "monter",
+      "tuk-tuk",
+      "avion",
+      "descendre"
+     ],
+     "answer": "monter",
+     "reveal": "<i>Khʉ̂n</i>"
+    },
+    {
+     "audio": [
+      "ລົງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "descendre",
+      "tuk-tuk",
+      "s'arrêter, se garer",
+      "bus"
+     ],
+     "answer": "descendre",
+     "reveal": "<i>Lóng</i>"
+    },
+    {
+     "audio": [
+      "ຈອດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "s'arrêter, se garer",
+      "bus",
+      "moto",
+      "aéroport"
+     ],
+     "answer": "s'arrêter, se garer",
+     "reveal": "<i>Jȍɔt</i>"
+    },
+    {
+     "audio": [
+      "ຟ້າວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "être pressé",
+      "monter (à moto, à vélo)",
+      "bus",
+      "avion"
+     ],
+     "answer": "être pressé",
+     "reveal": "<i>Fȁaw</i>"
+    },
+    {
+     "audio": [
+      "ຂີ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "monter (à moto, à vélo)",
+      "avion",
+      "s'arrêter, se garer",
+      "tuk-tuk"
+     ],
+     "answer": "monter (à moto, à vélo)",
+     "reveal": "<i>Khìi</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ໄປສະໜາມບິນເທົ່າໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Combien pour l'aéroport ?",
+      "Quarante mille. Montez.",
+      "OK. Allez vite, s'il vous plaît, je suis pressée.",
+      "Trente mille, c'est possible ?"
+     ],
+     "answer": "Combien pour l'aéroport ?",
+     "reveal": "<i>Pǎy sā-nǎam-bǐn thāo-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ຫ້າສິບພັນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Cinquante mille.",
+      "Quarante mille. Montez.",
+      "Combien pour l'aéroport ?",
+      "OK. Allez vite, s'il vous plaît, je suis pressée."
+     ],
+     "answer": "Cinquante mille.",
+     "reveal": "<i>Hâa-sīp-phán.</i>"
+    },
+    {
+     "audio": [
+      "ສາມສິບພັນໄດ້ບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Trente mille, c'est possible ?",
+      "Cinquante mille.",
+      "Combien pour l'aéroport ?",
+      "OK. Allez vite, s'il vous plaît, je suis pressée."
+     ],
+     "answer": "Trente mille, c'est possible ?",
+     "reveal": "<i>Sǎam-sīp phán dâay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ສີ່ສິບພັນ ຂຶ້ນມາ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Quarante mille. Montez.",
+      "Cinquante mille.",
+      "Trente mille, c'est possible ?",
+      "Combien pour l'aéroport ?"
+     ],
+     "answer": "Quarante mille. Montez.",
+     "reveal": "<i>Sìi-sīp phán. Khʉ̂n máa.</i>"
+    },
+    {
+     "audio": [
+      "ໂອເຄ ໄປໄວໆແດ່ ຂ້ອຍຟ້າວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "OK. Allez vite, s'il vous plaît, je suis pressée.",
+      "Trente mille, c'est possible ?",
+      "Quarante mille. Montez.",
+      "Cinquante mille."
+     ],
+     "answer": "OK. Allez vite, s'il vous plaît, je suis pressée.",
+     "reveal": "<i>Ǒo-khéé. Pǎy wáy wáy dɛ̀ɛ, khɔ̂ɔy fȁaw.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ໄປສະໜາມບິນເທົ່າໃດ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Combien pour l'aéroport ?",
+      "Je suis pressée.",
+      "Arrêtez-vous ici, s'il vous plaît.",
+      "Je vais à pied."
+     ],
+     "answer": "Combien pour l'aéroport ?",
+     "reveal": "<i>Pǎy sā-nǎam-bǐn thāo-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ຈອດຢູ່ນີ້ແດ່"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Arrêtez-vous ici, s'il vous plaît.",
+      "Je suis pressée.",
+      "Combien pour l'aéroport ?",
+      "Je vais à pied."
+     ],
+     "answer": "Arrêtez-vous ici, s'il vous plaît.",
+     "reveal": "<i>Jȍɔt yùu-nȉi dɛ̀ɛ.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຟ້າວ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je suis pressée.",
+      "Je vais à pied.",
+      "Combien pour l'aéroport ?",
+      "Arrêtez-vous ici, s'il vous plaît."
+     ],
+     "answer": "Je suis pressée.",
+     "reveal": "<i>Khɔ̂ɔy fȁaw.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຍ່າງໄປ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je vais à pied.",
+      "Je suis pressée.",
+      "Arrêtez-vous ici, s'il vous plaît.",
+      "Combien pour l'aéroport ?"
+     ],
+     "answer": "Je vais à pied.",
+     "reveal": "<i>Khɔ̂ɔy nyāang pǎy.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ລົດຕຸກຕຸກ",
+   "rom": "Lōt-tūk-tūk",
+   "fr": "tuk-tuk",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລົດເມ",
+   "rom": "Lōt-méé",
+   "fr": "bus",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລົດຈັກ",
+   "rom": "Lōt-ják",
+   "fr": "moto",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍົນ",
+   "rom": "Nyón",
+   "fr": "avion",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສະໜາມບິນ",
+   "rom": "Sā-nǎam-bǐn",
+   "fr": "aéroport",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂຶ້ນ",
+   "rom": "Khʉ̂n",
+   "fr": "monter",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລົງ",
+   "rom": "Lóng",
+   "fr": "descendre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈອດ",
+   "rom": "Jȍɔt",
+   "fr": "s'arrêter, se garer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຟ້າວ",
+   "rom": "Fȁaw",
+   "fr": "être pressé",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂີ່",
+   "rom": "Khìi",
+   "fr": "monter (à moto, à vélo)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄປສະໜາມບິນເທົ່າໃດ?",
+   "rom": "Pǎy sā-nǎam-bǐn thāo-dǎy?",
+   "fr": "Combien pour l'aéroport ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈອດຢູ່ນີ້ແດ່",
+   "rom": "Jȍɔt yùu-nȉi dɛ̀ɛ.",
+   "fr": "Arrêtez-vous ici, s'il vous plaît.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຟ້າວ",
+   "rom": "Khɔ̂ɔy fȁaw.",
+   "fr": "Je suis pressée.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຍ່າງໄປ",
+   "rom": "Khɔ̂ɔy nyāang pǎy.",
+   "fr": "Je vais à pied.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ໄປ",
+    "ສະໜາມບິນ",
+    "ເທົ່າໃດ"
+   ],
+   "rom": "Pǎy sā-nǎam-bǐn thāo-dǎy?",
+   "fr": "Combien pour l'aéroport ?"
+  },
+  {
+   "tokens": [
+    "ຈອດ",
+    "ຢູ່ນີ້",
+    "ແດ່"
+   ],
+   "rom": "Jȍɔt yùu-nȉi dɛ̀ɛ.",
+   "fr": "Arrêtez-vous ici, s'il vous plaît."
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຟ້າວ"
+   ],
+   "rom": "Khɔ̂ɔy fȁaw.",
+   "fr": "Je suis pressée."
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຍ່າງ",
+    "ໄປ"
+   ],
+   "rom": "Khɔ̂ɔy nyāang pǎy.",
+   "fr": "Je vais à pied."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ລົດຕຸກຕຸກ",
+   "rom": "Lōt-tūk-tūk",
+   "fr": "tuk-tuk"
+  },
+  {
+   "lao": "ລົດເມ",
+   "rom": "Lōt-méé",
+   "fr": "bus"
+  },
+  {
+   "lao": "ລົດຈັກ",
+   "rom": "Lōt-ják",
+   "fr": "moto"
+  },
+  {
+   "lao": "ຍົນ",
+   "rom": "Nyón",
+   "fr": "avion"
+  },
+  {
+   "lao": "ສະໜາມບິນ",
+   "rom": "Sā-nǎam-bǐn",
+   "fr": "aéroport"
+  },
+  {
+   "lao": "ຂຶ້ນ",
+   "rom": "Khʉ̂n",
+   "fr": "monter"
+  },
+  {
+   "lao": "ລົງ",
+   "rom": "Lóng",
+   "fr": "descendre"
+  },
+  {
+   "lao": "ຈອດ",
+   "rom": "Jȍɔt",
+   "fr": "s'arrêter, se garer"
+  },
+  {
+   "lao": "ຟ້າວ",
+   "rom": "Fȁaw",
+   "fr": "être pressé"
+  },
+  {
+   "lao": "ຂີ່",
+   "rom": "Khìi",
+   "fr": "monter (à moto, à vélo)"
+  }
+ ],
+ "sounds": {
+  "ລ້ຽວ": "Lȉaw",
+  "ໂມງ": "Móong",
+  "ສົ້ມ": "Sôm",
+  "ນົມ": "Nóm",
+  "ໄປສະໜາມບິນເທົ່າໃດ": "Pǎy sā-nǎam-bǐn thāo-dǎy?",
+  "ຫ້າສິບພັນ": "Hâa-sīp-phán.",
+  "ສາມສິບພັນໄດ້ບໍ": "Sǎam-sīp phán dâay bɔ̌ɔ?",
+  "ສີ່ສິບພັນ ຂຶ້ນມາ": "Sìi-sīp phán. Khʉ̂n máa.",
+  "ໂອເຄ ໄປໄວໆແດ່ ຂ້ອຍຟ້າວ": "Ǒo-khéé. Pǎy wáy wáy dɛ̀ɛ, khɔ̂ɔy fȁaw.",
+  "ລົດຕຸກຕຸກ": "Lōt-tūk-tūk",
+  "ລົດເມ": "Lōt-méé",
+  "ລົດຈັກ": "Lōt-ják",
+  "ຍົນ": "Nyón",
+  "ສະໜາມບິນ": "sā-nǎam-bǐn",
+  "ຂຶ້ນ": "Khʉ̂n",
+  "ລົງ": "Lóng",
+  "ຈອດ": "jȍɔt",
+  "ຟ້າວ": "fȁaw",
+  "ຂີ່": "Khìi",
+  "ຂຶ້ນມາ": "Khʉ̂n máa",
+  "ໄປຊື້": "Pǎy sȕu",
+  "ຍ່າງໄປ": "Nyāang pǎy",
+  "ຈອດຢູ່ນີ້ແດ່": "Jȍɔt yùu-nȉi dɛ̀ɛ.",
+  "ຂ້ອຍຟ້າວ": "Khɔ̂ɔy fȁaw.",
+  "ຂ້ອຍຍ່າງໄປ": "Khɔ̂ɔy nyāang pǎy.",
+  "ໄປ": "pǎy",
+  "ເທົ່າໃດ": "thāo-dǎy",
+  "ຢູ່ນີ້": "yùu-nȉi",
+  "ແດ່": "dɛ̀ɛ",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ຍ່າງ": "nyāang"
+ },
+ "suivi": "LEÇON : 32 — Partie C (Vie courante, A1) · Les transports\nOBJECTIF : Prendre un tuk-tuk, donner ta destination et négocier le prix.\nNOTION : les verbes en série\nVOCAB : Lōt-tūk-tūk, Lōt-méé, Lōt-ják, Nyón, Sā-nǎam-bǐn, Khʉ̂n, Lóng, Jȍɔt, Fȁaw, Khìi\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 33 — Ma journée"
+}

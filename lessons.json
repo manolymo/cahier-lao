@@ -146,6 +146,146 @@
    "title": "Bilan lecture et écriture",
    "phase": "Lire et écrire",
    "file": "l20.json"
+  },
+  {
+   "id": "l21",
+   "num": 21,
+   "title": "Les nombres 0 à 100",
+   "phase": "Vie courante",
+   "file": "l21.json"
+  },
+  {
+   "id": "l22",
+   "num": 22,
+   "title": "Combien ça coûte ?",
+   "phase": "Vie courante",
+   "file": "l22.json"
+  },
+  {
+   "id": "l23",
+   "num": 23,
+   "title": "Les classificateurs",
+   "phase": "Vie courante",
+   "file": "l23.json"
+  },
+  {
+   "id": "l24",
+   "num": 24,
+   "title": "Au restaurant",
+   "phase": "Vie courante",
+   "file": "l24.json"
+  },
+  {
+   "id": "l25",
+   "num": 25,
+   "title": "Goûts et préférences",
+   "phase": "Vie courante",
+   "file": "l25.json"
+  },
+  {
+   "id": "l26",
+   "num": 26,
+   "title": "La famille (1)",
+   "phase": "Vie courante",
+   "file": "l26.json"
+  },
+  {
+   "id": "l27",
+   "num": 27,
+   "title": "La famille (2)",
+   "phase": "Vie courante",
+   "file": "l27.json"
+  },
+  {
+   "id": "l28",
+   "num": 28,
+   "title": "L'âge et la hiérarchie",
+   "phase": "Vie courante",
+   "file": "l28.json"
+  },
+  {
+   "id": "l29",
+   "num": 29,
+   "title": "L'heure",
+   "phase": "Vie courante",
+   "file": "l29.json"
+  },
+  {
+   "id": "l30",
+   "num": 30,
+   "title": "Jours, mois, dates",
+   "phase": "Vie courante",
+   "file": "l30.json"
+  },
+  {
+   "id": "l31",
+   "num": 31,
+   "title": "Où est… ?",
+   "phase": "Vie courante",
+   "file": "l31.json"
+  },
+  {
+   "id": "l32",
+   "num": 32,
+   "title": "Les transports",
+   "phase": "Vie courante",
+   "file": "l32.json"
+  },
+  {
+   "id": "l33",
+   "num": 33,
+   "title": "Ma journée",
+   "phase": "Vie courante",
+   "file": "l33.json"
+  },
+  {
+   "id": "l34",
+   "num": 34,
+   "title": "À qui est-ce ?",
+   "phase": "Vie courante",
+   "file": "l34.json"
+  },
+  {
+   "id": "l35",
+   "num": 35,
+   "title": "Décrire",
+   "phase": "Vie courante",
+   "file": "l35.json"
+  },
+  {
+   "id": "l36",
+   "num": 36,
+   "title": "La météo",
+   "phase": "Vie courante",
+   "file": "l36.json"
+  },
+  {
+   "id": "l37",
+   "num": 37,
+   "title": "Vêtements et couleurs",
+   "phase": "Vie courante",
+   "file": "l37.json"
+  },
+  {
+   "id": "l38",
+   "num": 38,
+   "title": "Le corps et la santé",
+   "phase": "Vie courante",
+   "file": "l38.json"
+  },
+  {
+   "id": "l39",
+   "num": 39,
+   "title": "Au téléphone (1)",
+   "phase": "Vie courante",
+   "file": "l39.json"
+  },
+  {
+   "id": "l40",
+   "num": 40,
+   "title": "Bilan A1",
+   "phase": "Vie courante",
+   "file": "l40.json"
   }
  ]
 }

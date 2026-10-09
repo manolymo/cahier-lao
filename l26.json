@@ -1,0 +1,670 @@
+{
+ "num": 26,
+ "phase": "Partie C · Vie courante",
+ "title": "La famille (1)",
+ "objective": "Présenter ta famille proche avec les termes d'aîné et de cadet.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>il, ça (chose) <small class=\"muted\">(leçon 25)</small></li><li>assiette <small class=\"muted\">(leçon 23)</small></li><li>réglages <small class=\"muted\">(leçon 19)</small></li><li>jaune <small class=\"muted\">(leçon 12)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ມັນ</span> <span class=\"rom\">Mán</span> · il, ça (chose)</li><li><span class=\"lo\">ຈານ</span> <span class=\"rom\">Jǎan</span> · assiette</li><li><span class=\"lo\">ຕັ້ງຄ່າ</span> <span class=\"rom\">Tâng-khāa</span> · réglages</li><li><span class=\"lo\">ເຫຼືອງ</span> <span class=\"rom\">Lʉ̌ang</span> · jaune</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Présenter ta famille proche avec les termes d&#x27;aîné et de cadet.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara montre une photo de sa famille à Noy.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ນີ້ແມ່ນຄອບຄົວຂອງເຈົ້າບໍ?</span><span class=\"rom\">Nȉi mɛ̄ɛn khɔ̂ɔp-khúa khɔ̌ɔng jâo bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແມ່ນ ນີ້ແມ່ນພໍ່ແລະແມ່</span><span class=\"rom\">Mɛ̄ɛn. Nȉi mɛ̄ɛn phɔ̄ɔ lɛ́ mɛ̄ɛ.</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເຈົ້າມີອ້າຍເອື້ອຍນ້ອງບໍ?</span><span class=\"rom\">Jâo míi âay-ʉ̂ay nɔ̏ɔng bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ມີອ້າຍໜຶ່ງຄົນແລະນ້ອງສາວໜຶ່ງຄົນ</span><span class=\"rom\">Míi âay nʉ̀ng khón lɛ́ nɔ̏ɔng-sǎaw nʉ̀ng khón.</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເຈົ້າເປັນລູກທີສອງ</span><span class=\"rom\">Jâo pěn lûuk thíi sɔ̌ɔng.</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — C&#x27;est ta famille ?<br><b>Clara</b> — Oui. Voici mon père et ma mère.<br><b>Noy</b> — Tu as des frères et sœurs ?<br><b>Clara</b> — J&#x27;ai un grand frère et une petite sœur.<br><b>Noy</b> — Tu es la deuxième enfant.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Combien de frères et sœurs a Clara ?</li></ol><details><summary>Réponses</summary><ol><li>Un grand frère et une petite sœur.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຄອບຄົວ</td><td class=\"rom\">Khɔ̂ɔp-khúa</td><td>famille</td><td></td></tr><tr><td class=\"lo\">ພໍ່</td><td class=\"rom\">Phɔ̄ɔ</td><td>père</td><td></td></tr><tr><td class=\"lo\">ແມ່</td><td class=\"rom\">Mɛ̄ɛ</td><td>mère</td><td></td></tr><tr><td class=\"lo\">ອ້າຍ</td><td class=\"rom\">Âay</td><td>grand frère</td><td></td></tr><tr><td class=\"lo\">ເອື້ອຍ</td><td class=\"rom\">Ʉ̂ay</td><td>grande sœur</td><td></td></tr><tr><td class=\"lo\">ນ້ອງຊາຍ</td><td class=\"rom\">Nɔ̏ɔng-sáay</td><td>petit frère</td><td></td></tr><tr><td class=\"lo\">ນ້ອງສາວ</td><td class=\"rom\">Nɔ̏ɔng-sǎaw</td><td>petite sœur</td><td></td></tr><tr><td class=\"lo\">ລູກ</td><td class=\"rom\">Lûuk</td><td>enfant (de qqn)</td><td></td></tr><tr><td class=\"lo\">ລູກຊາຍ</td><td class=\"rom\">Lûuk-sáay</td><td>fils</td><td></td></tr><tr><td class=\"lo\">ລູກສາວ</td><td class=\"rom\">Lûuk-sǎaw</td><td>fille</td><td></td></tr><tr><td class=\"lo\">ພີ່ນ້ອງ</td><td class=\"rom\">Phīi-nɔ̏ɔng</td><td>frères et sœurs ; parenté</td><td></td></tr></table></div><p class=\"note\">Le lao n'a pas de mot neutre pour « frère » ou « sœur » : on précise toujours aîné (ອ້າຍ, ເອື້ອຍ) ou cadet (ນ້ອງ). L'âge structure toute la relation.</p>"
+  },
+  {
+   "title": "Point de langue : aîné ou cadet",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ອ້າຍ</span> <span class=\"rom\">Âay</span> = frère aîné</li><li><span class=\"lo\">ເອື້ອຍ</span> <span class=\"rom\">Ʉ̂ay</span> = sœur aînée</li><li><span class=\"lo\">ນ້ອງຊາຍ</span> <span class=\"rom\">Nɔ̏ɔng sáay</span> = cadet + homme</li><li><span class=\"lo\">ນ້ອງສາວ</span> <span class=\"rom\">Nɔ̏ɔng sǎaw</span> = cadette + femme</li></ul><p><b>À toi de trouver :</b></p><ol><li>Comment précise-t-on le sexe d&#x27;un cadet ?</li></ol><details><summary>La règle</summary><p>Pour les aînés, un mot différent par sexe (ອ້າຍ, ເອື້ອຍ). Pour les cadets, ນ້ອງ + ຊາຍ (homme) ou ສາວ (femme).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> la différence entre ອ້າຍ, ເອື້ອຍ et ນ້ອງ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Tu as des frères et sœurs ?</li><li>J&#x27;ai une petite sœur.</li><li>Voici mon père.</li><li>C&#x27;est ta famille ?</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເຈົ້າມີອ້າຍເອື້ອຍນ້ອງບໍ?</span> <span class=\"rom\">Jâo míi âay-ʉ̂ay nɔ̏ɔng bɔ̌ɔ?</span></li><li><span class=\"lo\">ຂ້ອຍມີນ້ອງສາວໜຶ່ງຄົນ</span> <span class=\"rom\">Khɔ̂ɔy míi nɔ̏ɔng-sǎaw nʉ̀ng khón.</span></li><li><span class=\"lo\">ນີ້ແມ່ນພໍ່ຂອງຂ້ອຍ</span> <span class=\"rom\">Nȉi mɛ̄ɛn phɔ̄ɔ khɔ̌ɔng khɔ̂ɔy.</span></li><li><span class=\"lo\">ນີ້ແມ່ນຄອບຄົວຂອງເຈົ້າບໍ?</span> <span class=\"rom\">Nȉi mɛ̄ɛn khɔ̂ɔp-khúa khɔ̌ɔng jâo bɔ̌ɔ?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Dessine ton arbre familial proche et écris les termes lao.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Présente ta famille proche à un natif avec une photo.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>15 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l26-v01",
+   "front": "ຄອບຄົວ",
+   "back": "Khɔ̂ɔp-khúa · famille"
+  },
+  {
+   "id": "l26-v02",
+   "front": "ພໍ່",
+   "back": "Phɔ̄ɔ · père"
+  },
+  {
+   "id": "l26-v03",
+   "front": "ແມ່",
+   "back": "Mɛ̄ɛ · mère"
+  },
+  {
+   "id": "l26-v04",
+   "front": "ອ້າຍ",
+   "back": "Âay · grand frère"
+  },
+  {
+   "id": "l26-v05",
+   "front": "ເອື້ອຍ",
+   "back": "Ʉ̂ay · grande sœur"
+  },
+  {
+   "id": "l26-v06",
+   "front": "ນ້ອງຊາຍ",
+   "back": "Nɔ̏ɔng-sáay · petit frère"
+  },
+  {
+   "id": "l26-v07",
+   "front": "ນ້ອງສາວ",
+   "back": "Nɔ̏ɔng-sǎaw · petite sœur"
+  },
+  {
+   "id": "l26-v08",
+   "front": "ລູກ",
+   "back": "Lûuk · enfant (de qqn)"
+  },
+  {
+   "id": "l26-v09",
+   "front": "ລູກຊາຍ",
+   "back": "Lûuk-sáay · fils"
+  },
+  {
+   "id": "l26-v10",
+   "front": "ລູກສາວ",
+   "back": "Lûuk-sǎaw · fille"
+  },
+  {
+   "id": "l26-v11",
+   "front": "ພີ່ນ້ອງ",
+   "back": "Phīi-nɔ̏ɔng · frères et sœurs ; parenté"
+  },
+  {
+   "id": "l26-p01",
+   "front": "Tu as des frères et sœurs ?",
+   "back": "ເຈົ້າມີອ້າຍເອື້ອຍນ້ອງບໍ? · Jâo míi âay-ʉ̂ay nɔ̏ɔng bɔ̌ɔ?"
+  },
+  {
+   "id": "l26-p02",
+   "front": "J'ai une petite sœur.",
+   "back": "ຂ້ອຍມີນ້ອງສາວໜຶ່ງຄົນ · Khɔ̂ɔy míi nɔ̏ɔng-sǎaw nʉ̀ng khón."
+  },
+  {
+   "id": "l26-p03",
+   "front": "Voici mon père.",
+   "back": "ນີ້ແມ່ນພໍ່ຂອງຂ້ອຍ · Nȉi mɛ̄ɛn phɔ̄ɔ khɔ̌ɔng khɔ̂ɔy."
+  },
+  {
+   "id": "l26-p04",
+   "front": "C'est ta famille ?",
+   "back": "ນີ້ແມ່ນຄອບຄົວຂອງເຈົ້າບໍ? · Nȉi mɛ̄ɛn khɔ̂ɔp-khúa khɔ̌ɔng jâo bɔ̌ɔ?"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຄອບຄົວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "famille",
+      "petit frère",
+      "fille",
+      "grande sœur"
+     ],
+     "answer": "famille",
+     "reveal": "<i>Khɔ̂ɔp-khúa</i>"
+    },
+    {
+     "audio": [
+      "ພໍ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "père",
+      "petit frère",
+      "grande sœur",
+      "fille"
+     ],
+     "answer": "père",
+     "reveal": "<i>Phɔ̄ɔ</i>"
+    },
+    {
+     "audio": [
+      "ແມ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mère",
+      "enfant (de qqn)",
+      "petite sœur",
+      "fils"
+     ],
+     "answer": "mère",
+     "reveal": "<i>Mɛ̄ɛ</i>"
+    },
+    {
+     "audio": [
+      "ອ້າຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "grand frère",
+      "frères et sœurs ; parenté",
+      "fils",
+      "famille"
+     ],
+     "answer": "grand frère",
+     "reveal": "<i>Âay</i>"
+    },
+    {
+     "audio": [
+      "ເອື້ອຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "grande sœur",
+      "enfant (de qqn)",
+      "père",
+      "petit frère"
+     ],
+     "answer": "grande sœur",
+     "reveal": "<i>Ʉ̂ay</i>"
+    },
+    {
+     "audio": [
+      "ນ້ອງຊາຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "petit frère",
+      "famille",
+      "grande sœur",
+      "mère"
+     ],
+     "answer": "petit frère",
+     "reveal": "<i>Nɔ̏ɔng-sáay</i>"
+    },
+    {
+     "audio": [
+      "ນ້ອງສາວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "petite sœur",
+      "fille",
+      "grand frère",
+      "petit frère"
+     ],
+     "answer": "petite sœur",
+     "reveal": "<i>Nɔ̏ɔng-sǎaw</i>"
+    },
+    {
+     "audio": [
+      "ລູກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "enfant (de qqn)",
+      "famille",
+      "grande sœur",
+      "frères et sœurs ; parenté"
+     ],
+     "answer": "enfant (de qqn)",
+     "reveal": "<i>Lûuk</i>"
+    },
+    {
+     "audio": [
+      "ລູກຊາຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "fils",
+      "grande sœur",
+      "frères et sœurs ; parenté",
+      "mère"
+     ],
+     "answer": "fils",
+     "reveal": "<i>Lûuk-sáay</i>"
+    },
+    {
+     "audio": [
+      "ລູກສາວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "fille",
+      "frères et sœurs ; parenté",
+      "enfant (de qqn)",
+      "petit frère"
+     ],
+     "answer": "fille",
+     "reveal": "<i>Lûuk-sǎaw</i>"
+    },
+    {
+     "audio": [
+      "ພີ່ນ້ອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "frères et sœurs ; parenté",
+      "fille",
+      "petit frère",
+      "mère"
+     ],
+     "answer": "frères et sœurs ; parenté",
+     "reveal": "<i>Phīi-nɔ̏ɔng</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ນີ້ແມ່ນຄອບຄົວຂອງເຈົ້າບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'est ta famille ?",
+      "Tu as des frères et sœurs ?",
+      "Oui. Voici mon père et ma mère.",
+      "J'ai un grand frère et une petite sœur."
+     ],
+     "answer": "C'est ta famille ?",
+     "reveal": "<i>Nȉi mɛ̄ɛn khɔ̂ɔp-khúa khɔ̌ɔng jâo bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນ ນີ້ແມ່ນພໍ່ແລະແມ່"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oui. Voici mon père et ma mère.",
+      "J'ai un grand frère et une petite sœur.",
+      "Tu es la deuxième enfant.",
+      "C'est ta famille ?"
+     ],
+     "answer": "Oui. Voici mon père et ma mère.",
+     "reveal": "<i>Mɛ̄ɛn. Nȉi mɛ̄ɛn phɔ̄ɔ lɛ́ mɛ̄ɛ.</i>"
+    },
+    {
+     "audio": [
+      "ເຈົ້າມີອ້າຍເອື້ອຍນ້ອງບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu as des frères et sœurs ?",
+      "C'est ta famille ?",
+      "J'ai un grand frère et une petite sœur.",
+      "Oui. Voici mon père et ma mère."
+     ],
+     "answer": "Tu as des frères et sœurs ?",
+     "reveal": "<i>Jâo míi âay-ʉ̂ay nɔ̏ɔng bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ມີອ້າຍໜຶ່ງຄົນແລະນ້ອງສາວໜຶ່ງຄົນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "J'ai un grand frère et une petite sœur.",
+      "Tu es la deuxième enfant.",
+      "Oui. Voici mon père et ma mère.",
+      "C'est ta famille ?"
+     ],
+     "answer": "J'ai un grand frère et une petite sœur.",
+     "reveal": "<i>Míi âay nʉ̀ng khón lɛ́ nɔ̏ɔng-sǎaw nʉ̀ng khón.</i>"
+    },
+    {
+     "audio": [
+      "ເຈົ້າເປັນລູກທີສອງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu es la deuxième enfant.",
+      "Oui. Voici mon père et ma mère.",
+      "J'ai un grand frère et une petite sœur.",
+      "C'est ta famille ?"
+     ],
+     "answer": "Tu es la deuxième enfant.",
+     "reveal": "<i>Jâo pěn lûuk thíi sɔ̌ɔng.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເຈົ້າມີອ້າຍເອື້ອຍນ້ອງບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tu as des frères et sœurs ?",
+      "J'ai une petite sœur.",
+      "C'est ta famille ?",
+      "Voici mon père."
+     ],
+     "answer": "Tu as des frères et sœurs ?",
+     "reveal": "<i>Jâo míi âay-ʉ̂ay nɔ̏ɔng bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍມີນ້ອງສາວໜຶ່ງຄົນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "J'ai une petite sœur.",
+      "C'est ta famille ?",
+      "Tu as des frères et sœurs ?",
+      "Voici mon père."
+     ],
+     "answer": "J'ai une petite sœur.",
+     "reveal": "<i>Khɔ̂ɔy míi nɔ̏ɔng-sǎaw nʉ̀ng khón.</i>"
+    },
+    {
+     "audio": [
+      "ນີ້ແມ່ນພໍ່ຂອງຂ້ອຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Voici mon père.",
+      "J'ai une petite sœur.",
+      "Tu as des frères et sœurs ?",
+      "C'est ta famille ?"
+     ],
+     "answer": "Voici mon père.",
+     "reveal": "<i>Nȉi mɛ̄ɛn phɔ̄ɔ khɔ̌ɔng khɔ̂ɔy.</i>"
+    },
+    {
+     "audio": [
+      "ນີ້ແມ່ນຄອບຄົວຂອງເຈົ້າບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est ta famille ?",
+      "J'ai une petite sœur.",
+      "Tu as des frères et sœurs ?",
+      "Voici mon père."
+     ],
+     "answer": "C'est ta famille ?",
+     "reveal": "<i>Nȉi mɛ̄ɛn khɔ̂ɔp-khúa khɔ̌ɔng jâo bɔ̌ɔ?</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຄອບຄົວ",
+   "rom": "Khɔ̂ɔp-khúa",
+   "fr": "famille",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພໍ່",
+   "rom": "Phɔ̄ɔ",
+   "fr": "père",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແມ່",
+   "rom": "Mɛ̄ɛ",
+   "fr": "mère",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອ້າຍ",
+   "rom": "Âay",
+   "fr": "grand frère",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເອື້ອຍ",
+   "rom": "Ʉ̂ay",
+   "fr": "grande sœur",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນ້ອງຊາຍ",
+   "rom": "Nɔ̏ɔng-sáay",
+   "fr": "petit frère",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນ້ອງສາວ",
+   "rom": "Nɔ̏ɔng-sǎaw",
+   "fr": "petite sœur",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລູກ",
+   "rom": "Lûuk",
+   "fr": "enfant (de qqn)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລູກຊາຍ",
+   "rom": "Lûuk-sáay",
+   "fr": "fils",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລູກສາວ",
+   "rom": "Lûuk-sǎaw",
+   "fr": "fille",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພີ່ນ້ອງ",
+   "rom": "Phīi-nɔ̏ɔng",
+   "fr": "frères et sœurs ; parenté",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຈົ້າມີອ້າຍເອື້ອຍນ້ອງບໍ?",
+   "rom": "Jâo míi âay-ʉ̂ay nɔ̏ɔng bɔ̌ɔ?",
+   "fr": "Tu as des frères et sœurs ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍມີນ້ອງສາວໜຶ່ງຄົນ",
+   "rom": "Khɔ̂ɔy míi nɔ̏ɔng-sǎaw nʉ̀ng khón.",
+   "fr": "J'ai une petite sœur.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນີ້ແມ່ນພໍ່ຂອງຂ້ອຍ",
+   "rom": "Nȉi mɛ̄ɛn phɔ̄ɔ khɔ̌ɔng khɔ̂ɔy.",
+   "fr": "Voici mon père.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນີ້ແມ່ນຄອບຄົວຂອງເຈົ້າບໍ?",
+   "rom": "Nȉi mɛ̄ɛn khɔ̂ɔp-khúa khɔ̌ɔng jâo bɔ̌ɔ?",
+   "fr": "C'est ta famille ?",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ເຈົ້າ",
+    "ມີ",
+    "ອ້າຍເອື້ອຍ",
+    "ນ້ອງ",
+    "ບໍ"
+   ],
+   "rom": "Jâo míi âay-ʉ̂ay nɔ̏ɔng bɔ̌ɔ?",
+   "fr": "Tu as des frères et sœurs ?"
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ມີ",
+    "ນ້ອງສາວ",
+    "ໜຶ່ງ",
+    "ຄົນ"
+   ],
+   "rom": "Khɔ̂ɔy míi nɔ̏ɔng-sǎaw nʉ̀ng khón.",
+   "fr": "J'ai une petite sœur."
+  },
+  {
+   "tokens": [
+    "ນີ້",
+    "ແມ່ນ",
+    "ພໍ່",
+    "ຂອງ",
+    "ຂ້ອຍ"
+   ],
+   "rom": "Nȉi mɛ̄ɛn phɔ̄ɔ khɔ̌ɔng khɔ̂ɔy.",
+   "fr": "Voici mon père."
+  },
+  {
+   "tokens": [
+    "ນີ້",
+    "ແມ່ນ",
+    "ຄອບຄົວ",
+    "ຂອງ",
+    "ເຈົ້າ",
+    "ບໍ"
+   ],
+   "rom": "Nȉi mɛ̄ɛn khɔ̂ɔp-khúa khɔ̌ɔng jâo bɔ̌ɔ?",
+   "fr": "C'est ta famille ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຄອບຄົວ",
+   "rom": "Khɔ̂ɔp-khúa",
+   "fr": "famille"
+  },
+  {
+   "lao": "ພໍ່",
+   "rom": "Phɔ̄ɔ",
+   "fr": "père"
+  },
+  {
+   "lao": "ແມ່",
+   "rom": "Mɛ̄ɛ",
+   "fr": "mère"
+  },
+  {
+   "lao": "ອ້າຍ",
+   "rom": "Âay",
+   "fr": "grand frère"
+  },
+  {
+   "lao": "ເອື້ອຍ",
+   "rom": "Ʉ̂ay",
+   "fr": "grande sœur"
+  },
+  {
+   "lao": "ນ້ອງຊາຍ",
+   "rom": "Nɔ̏ɔng-sáay",
+   "fr": "petit frère"
+  },
+  {
+   "lao": "ນ້ອງສາວ",
+   "rom": "Nɔ̏ɔng-sǎaw",
+   "fr": "petite sœur"
+  },
+  {
+   "lao": "ລູກ",
+   "rom": "Lûuk",
+   "fr": "enfant (de qqn)"
+  },
+  {
+   "lao": "ລູກຊາຍ",
+   "rom": "Lûuk-sáay",
+   "fr": "fils"
+  },
+  {
+   "lao": "ລູກສາວ",
+   "rom": "Lûuk-sǎaw",
+   "fr": "fille"
+  },
+  {
+   "lao": "ພີ່ນ້ອງ",
+   "rom": "Phīi-nɔ̏ɔng",
+   "fr": "frères et sœurs ; parenté"
+  }
+ ],
+ "sounds": {
+  "ມັນ": "Mán",
+  "ຈານ": "Jǎan",
+  "ຕັ້ງຄ່າ": "Tâng-khāa",
+  "ເຫຼືອງ": "Lʉ̌ang",
+  "ນີ້ແມ່ນຄອບຄົວຂອງເຈົ້າບໍ": "Nȉi mɛ̄ɛn khɔ̂ɔp-khúa khɔ̌ɔng jâo bɔ̌ɔ?",
+  "ແມ່ນ ນີ້ແມ່ນພໍ່ແລະແມ່": "Mɛ̄ɛn. Nȉi mɛ̄ɛn phɔ̄ɔ lɛ́ mɛ̄ɛ.",
+  "ເຈົ້າມີອ້າຍເອື້ອຍນ້ອງບໍ": "Jâo míi âay-ʉ̂ay nɔ̏ɔng bɔ̌ɔ?",
+  "ມີອ້າຍໜຶ່ງຄົນແລະນ້ອງສາວໜຶ່ງຄົນ": "Míi âay nʉ̀ng khón lɛ́ nɔ̏ɔng-sǎaw nʉ̀ng khón.",
+  "ເຈົ້າເປັນລູກທີສອງ": "Jâo pěn lûuk thíi sɔ̌ɔng.",
+  "ຄອບຄົວ": "khɔ̂ɔp-khúa",
+  "ພໍ່": "phɔ̄ɔ",
+  "ແມ່": "Mɛ̄ɛ",
+  "ອ້າຍ": "Âay",
+  "ເອື້ອຍ": "Ʉ̂ay",
+  "ນ້ອງຊາຍ": "Nɔ̏ɔng sáay",
+  "ນ້ອງສາວ": "nɔ̏ɔng-sǎaw",
+  "ລູກ": "Lûuk",
+  "ລູກຊາຍ": "Lûuk-sáay",
+  "ລູກສາວ": "Lûuk-sǎaw",
+  "ພີ່ນ້ອງ": "Phīi-nɔ̏ɔng",
+  "ຂ້ອຍມີນ້ອງສາວໜຶ່ງຄົນ": "Khɔ̂ɔy míi nɔ̏ɔng-sǎaw nʉ̀ng khón.",
+  "ນີ້ແມ່ນພໍ່ຂອງຂ້ອຍ": "Nȉi mɛ̄ɛn phɔ̄ɔ khɔ̌ɔng khɔ̂ɔy.",
+  "ເຈົ້າ": "jâo",
+  "ມີ": "míi",
+  "ອ້າຍເອື້ອຍ": "âay-ʉ̂ay",
+  "ນ້ອງ": "nɔ̏ɔng",
+  "ບໍ": "bɔ̌ɔ",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ໜຶ່ງ": "nʉ̀ng",
+  "ຄົນ": "khón",
+  "ນີ້": "nȉi",
+  "ແມ່ນ": "mɛ̄ɛn",
+  "ຂອງ": "khɔ̌ɔng"
+ },
+ "suivi": "LEÇON : 26 — Partie C (Vie courante, A1) · La famille (1)\nOBJECTIF : Présenter ta famille proche avec les termes d'aîné et de cadet.\nNOTION : aîné ou cadet\nVOCAB : Khɔ̂ɔp-khúa, Phɔ̄ɔ, Mɛ̄ɛ, Âay, Ʉ̂ay, Nɔ̏ɔng-sáay, Nɔ̏ɔng-sǎaw, Lûuk, Lûuk-sáay, Lûuk-sǎaw, Phīi-nɔ̏ɔng\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 27 — La famille (2)"
+}

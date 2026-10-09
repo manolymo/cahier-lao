@@ -1,0 +1,623 @@
+{
+ "num": 38,
+ "phase": "Partie C · Vie courante",
+ "title": "Le corps et la santé",
+ "objective": "Dire où tu as mal et comment tu te sens.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>autre couleur <small class=\"muted\">(leçon 37)</small></li><li>jardin <small class=\"muted\">(leçon 35)</small></li><li>derrière <small class=\"muted\">(leçon 31)</small></li><li>pimenté <small class=\"muted\">(leçon 24)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ສີອື່ນ</span> <span class=\"rom\">Sǐi ʉ̀ʉn</span> · autre couleur</li><li><span class=\"lo\">ສວນ</span> <span class=\"rom\">Sǔan</span> · jardin</li><li><span class=\"lo\">ທາງຫຼັງ</span> <span class=\"rom\">Tháang-lǎng</span> · derrière</li><li><span class=\"lo\">ເຜັດ</span> <span class=\"rom\">Phēt</span> · pimenté</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Dire où tu as mal et comment tu te sens.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara ne se sent pas bien.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເປັນຫຍັງ? ໜ້າບໍ່ດີ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍເຈັບຫົວແລະເຈັບທ້ອງ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເປັນໄຂ້ບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໜ້ອຍໜຶ່ງ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ກິນຢາແລ້ວພັກຜ່ອນເດີ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Pěn nyǎng? Nâa bɔ̀ɔ dǐi.</span><br><span class=\"rom\">Khɔ̂ɔy jép-hǔa lɛ́ jép-thȍɔng.</span><br><span class=\"rom\">Pěn-khâay bɔ̌ɔ?</span><br><span class=\"rom\">Nɔ̂ɔy nʉ̀ng.</span><br><span class=\"rom\">Kǐn-yǎa lɛ̏ɛw phāk-phɔ̀ɔn dɤ̌ɤ.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Qu&#x27;est-ce qui ne va pas ? Tu n&#x27;as pas bonne mine.<br><b>Clara</b> — J&#x27;ai mal à la tête et au ventre.<br><b>Noy</b> — Tu as de la fièvre ?<br><b>Clara</b> — Un peu.<br><b>Noy</b> — Prends un médicament et repose-toi.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Où Clara a-t-elle mal ?</li><li>Que conseille Noy ?</li></ol><details><summary>Réponses</summary><ol><li>À la tête et au ventre.</li><li>Prendre un médicament et se reposer.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ເຈັບ</td><td class=\"rom\">Jép</td><td>avoir mal</td><td></td></tr><tr><td class=\"lo\">ເຈັບຫົວ</td><td class=\"rom\">Jép-hǔa</td><td>mal à la tête</td><td></td></tr><tr><td class=\"lo\">ເຈັບທ້ອງ</td><td class=\"rom\">Jép-thȍɔng</td><td>mal au ventre</td><td></td></tr><tr><td class=\"lo\">ເປັນໄຂ້</td><td class=\"rom\">Pěn-khâay</td><td>avoir de la fièvre</td><td></td></tr><tr><td class=\"lo\">ເປັນຫວັດ</td><td class=\"rom\">Pěn-wǎt</td><td>être enrhumé</td><td></td></tr><tr><td class=\"lo\">ຢາ</td><td class=\"rom\">Yǎa</td><td>médicament</td><td></td></tr><tr><td class=\"lo\">ກິນຢາ</td><td class=\"rom\">Kǐn-yǎa</td><td>prendre un médicament</td><td></td></tr><tr><td class=\"lo\">ພັກຜ່ອນ</td><td class=\"rom\">Phāk-phɔ̀ɔn</td><td>se reposer</td><td></td></tr><tr><td class=\"lo\">ແຂນ</td><td class=\"rom\">Khɛ̌ɛn</td><td>bras</td><td></td></tr><tr><td class=\"lo\">ຂາ</td><td class=\"rom\">Khǎa</td><td>jambe</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : ເຈັບ + partie du corps",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ເຈັບຫົວ</span> <span class=\"rom\">Jép hǔa</span> = mal à la tête</li><li><span class=\"lo\">ເຈັບແຂ້ວ</span> <span class=\"rom\">Jép khɛ̂ɛw</span> = mal aux dents</li><li><span class=\"lo\">ເຈັບຫຼັງ</span> <span class=\"rom\">Jép lǎng</span> = mal au dos</li></ul><p><b>À toi de trouver :</b></p><ol><li>Comment construis-tu « j&#x27;ai mal à… » ?</li></ol><details><summary>La règle</summary><p>ເຈັບ + partie du corps = avoir mal à. ເປັນ + maladie = avoir une maladie (ເປັນໄຂ້).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> ເຈັບ suivi de la partie du corps.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>J&#x27;ai mal à la tête.</li><li>Tu as de la fièvre ?</li><li>Repose-toi.</li><li>Qu&#x27;est-ce qui ne va pas ?</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້ອຍເຈັບຫົວ</span> <span class=\"rom\">Khɔ̂ɔy jép-hǔa.</span></li><li><span class=\"lo\">ເປັນໄຂ້ບໍ?</span> <span class=\"rom\">Pěn-khâay bɔ̌ɔ?</span></li><li><span class=\"lo\">ພັກຜ່ອນເດີ</span> <span class=\"rom\">Phāk-phɔ̀ɔn dɤ̌ɤ.</span></li><li><span class=\"lo\">ເປັນຫຍັງ?</span> <span class=\"rom\">Pěn nyǎng?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris 5 phrases « j&#x27;ai mal à… » avec différentes parties du corps.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Joue chez le pharmacien avec un natif : explique tes symptômes.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>14 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l38-v01",
+   "front": "ເຈັບ",
+   "back": "Jép · avoir mal"
+  },
+  {
+   "id": "l38-v02",
+   "front": "ເຈັບຫົວ",
+   "back": "Jép-hǔa · mal à la tête"
+  },
+  {
+   "id": "l38-v03",
+   "front": "ເຈັບທ້ອງ",
+   "back": "Jép-thȍɔng · mal au ventre"
+  },
+  {
+   "id": "l38-v04",
+   "front": "ເປັນໄຂ້",
+   "back": "Pěn-khâay · avoir de la fièvre"
+  },
+  {
+   "id": "l38-v05",
+   "front": "ເປັນຫວັດ",
+   "back": "Pěn-wǎt · être enrhumé"
+  },
+  {
+   "id": "l38-v06",
+   "front": "ຢາ",
+   "back": "Yǎa · médicament"
+  },
+  {
+   "id": "l38-v07",
+   "front": "ກິນຢາ",
+   "back": "Kǐn-yǎa · prendre un médicament"
+  },
+  {
+   "id": "l38-v08",
+   "front": "ພັກຜ່ອນ",
+   "back": "Phāk-phɔ̀ɔn · se reposer"
+  },
+  {
+   "id": "l38-v09",
+   "front": "ແຂນ",
+   "back": "Khɛ̌ɛn · bras"
+  },
+  {
+   "id": "l38-v10",
+   "front": "ຂາ",
+   "back": "Khǎa · jambe"
+  },
+  {
+   "id": "l38-p01",
+   "front": "J'ai mal à la tête.",
+   "back": "ຂ້ອຍເຈັບຫົວ · Khɔ̂ɔy jép-hǔa."
+  },
+  {
+   "id": "l38-p02",
+   "front": "Tu as de la fièvre ?",
+   "back": "ເປັນໄຂ້ບໍ? · Pěn-khâay bɔ̌ɔ?"
+  },
+  {
+   "id": "l38-p03",
+   "front": "Repose-toi.",
+   "back": "ພັກຜ່ອນເດີ · Phāk-phɔ̀ɔn dɤ̌ɤ."
+  },
+  {
+   "id": "l38-p04",
+   "front": "Qu'est-ce qui ne va pas ?",
+   "back": "ເປັນຫຍັງ? · Pěn nyǎng?"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ເຈັບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "avoir mal",
+      "mal à la tête",
+      "bras",
+      "être enrhumé"
+     ],
+     "answer": "avoir mal",
+     "reveal": "<i>Jép</i>"
+    },
+    {
+     "audio": [
+      "ເຈັບຫົວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mal à la tête",
+      "jambe",
+      "être enrhumé",
+      "avoir de la fièvre"
+     ],
+     "answer": "mal à la tête",
+     "reveal": "<i>Jép-hǔa</i>"
+    },
+    {
+     "audio": [
+      "ເຈັບທ້ອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mal au ventre",
+      "bras",
+      "avoir mal",
+      "jambe"
+     ],
+     "answer": "mal au ventre",
+     "reveal": "<i>Jép-thȍɔng</i>"
+    },
+    {
+     "audio": [
+      "ເປັນໄຂ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "avoir de la fièvre",
+      "médicament",
+      "mal au ventre",
+      "prendre un médicament"
+     ],
+     "answer": "avoir de la fièvre",
+     "reveal": "<i>Pěn-khâay</i>"
+    },
+    {
+     "audio": [
+      "ເປັນຫວັດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "être enrhumé",
+      "mal au ventre",
+      "bras",
+      "jambe"
+     ],
+     "answer": "être enrhumé",
+     "reveal": "<i>Pěn-wǎt</i>"
+    },
+    {
+     "audio": [
+      "ຢາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "médicament",
+      "avoir mal",
+      "mal à la tête",
+      "prendre un médicament"
+     ],
+     "answer": "médicament",
+     "reveal": "<i>Yǎa</i>"
+    },
+    {
+     "audio": [
+      "ກິນຢາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "prendre un médicament",
+      "avoir mal",
+      "se reposer",
+      "être enrhumé"
+     ],
+     "answer": "prendre un médicament",
+     "reveal": "<i>Kǐn-yǎa</i>"
+    },
+    {
+     "audio": [
+      "ພັກຜ່ອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "se reposer",
+      "bras",
+      "avoir mal",
+      "avoir de la fièvre"
+     ],
+     "answer": "se reposer",
+     "reveal": "<i>Phāk-phɔ̀ɔn</i>"
+    },
+    {
+     "audio": [
+      "ແຂນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "bras",
+      "jambe",
+      "se reposer",
+      "prendre un médicament"
+     ],
+     "answer": "bras",
+     "reveal": "<i>Khɛ̌ɛn</i>"
+    },
+    {
+     "audio": [
+      "ຂາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "jambe",
+      "bras",
+      "avoir mal",
+      "se reposer"
+     ],
+     "answer": "jambe",
+     "reveal": "<i>Khǎa</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເປັນຫຍັງ? ໜ້າບໍ່ດີ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Qu'est-ce qui ne va pas ? Tu n'as pas bonne mine.",
+      "J'ai mal à la tête et au ventre.",
+      "Un peu.",
+      "Prends un médicament et repose-toi."
+     ],
+     "answer": "Qu'est-ce qui ne va pas ? Tu n'as pas bonne mine.",
+     "reveal": "<i>Pěn nyǎng? Nâa bɔ̀ɔ dǐi.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍເຈັບຫົວແລະເຈັບທ້ອງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "J'ai mal à la tête et au ventre.",
+      "Tu as de la fièvre ?",
+      "Prends un médicament et repose-toi.",
+      "Qu'est-ce qui ne va pas ? Tu n'as pas bonne mine."
+     ],
+     "answer": "J'ai mal à la tête et au ventre.",
+     "reveal": "<i>Khɔ̂ɔy jép-hǔa lɛ́ jép-thȍɔng.</i>"
+    },
+    {
+     "audio": [
+      "ເປັນໄຂ້ບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu as de la fièvre ?",
+      "Un peu.",
+      "J'ai mal à la tête et au ventre.",
+      "Qu'est-ce qui ne va pas ? Tu n'as pas bonne mine."
+     ],
+     "answer": "Tu as de la fièvre ?",
+     "reveal": "<i>Pěn-khâay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ໜ້ອຍໜຶ່ງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Un peu.",
+      "Prends un médicament et repose-toi.",
+      "J'ai mal à la tête et au ventre.",
+      "Qu'est-ce qui ne va pas ? Tu n'as pas bonne mine."
+     ],
+     "answer": "Un peu.",
+     "reveal": "<i>Nɔ̂ɔy nʉ̀ng.</i>"
+    },
+    {
+     "audio": [
+      "ກິນຢາແລ້ວພັກຜ່ອນເດີ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Prends un médicament et repose-toi.",
+      "Qu'est-ce qui ne va pas ? Tu n'as pas bonne mine.",
+      "J'ai mal à la tête et au ventre.",
+      "Un peu."
+     ],
+     "answer": "Prends un médicament et repose-toi.",
+     "reveal": "<i>Kǐn-yǎa lɛ̏ɛw phāk-phɔ̀ɔn dɤ̌ɤ.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້ອຍເຈັບຫົວ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "J'ai mal à la tête.",
+      "Tu as de la fièvre ?",
+      "Repose-toi.",
+      "Qu'est-ce qui ne va pas ?"
+     ],
+     "answer": "J'ai mal à la tête.",
+     "reveal": "<i>Khɔ̂ɔy jép-hǔa.</i>"
+    },
+    {
+     "audio": [
+      "ເປັນໄຂ້ບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tu as de la fièvre ?",
+      "J'ai mal à la tête.",
+      "Repose-toi.",
+      "Qu'est-ce qui ne va pas ?"
+     ],
+     "answer": "Tu as de la fièvre ?",
+     "reveal": "<i>Pěn-khâay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ພັກຜ່ອນເດີ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Repose-toi.",
+      "J'ai mal à la tête.",
+      "Tu as de la fièvre ?",
+      "Qu'est-ce qui ne va pas ?"
+     ],
+     "answer": "Repose-toi.",
+     "reveal": "<i>Phāk-phɔ̀ɔn dɤ̌ɤ.</i>"
+    },
+    {
+     "audio": [
+      "ເປັນຫຍັງ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Qu'est-ce qui ne va pas ?",
+      "Repose-toi.",
+      "J'ai mal à la tête.",
+      "Tu as de la fièvre ?"
+     ],
+     "answer": "Qu'est-ce qui ne va pas ?",
+     "reveal": "<i>Pěn nyǎng?</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ເຈັບ",
+   "rom": "Jép",
+   "fr": "avoir mal",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຈັບຫົວ",
+   "rom": "Jép-hǔa",
+   "fr": "mal à la tête",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຈັບທ້ອງ",
+   "rom": "Jép-thȍɔng",
+   "fr": "mal au ventre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເປັນໄຂ້",
+   "rom": "Pěn-khâay",
+   "fr": "avoir de la fièvre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເປັນຫວັດ",
+   "rom": "Pěn-wǎt",
+   "fr": "être enrhumé",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຢາ",
+   "rom": "Yǎa",
+   "fr": "médicament",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກິນຢາ",
+   "rom": "Kǐn-yǎa",
+   "fr": "prendre un médicament",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພັກຜ່ອນ",
+   "rom": "Phāk-phɔ̀ɔn",
+   "fr": "se reposer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແຂນ",
+   "rom": "Khɛ̌ɛn",
+   "fr": "bras",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂາ",
+   "rom": "Khǎa",
+   "fr": "jambe",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍເຈັບຫົວ",
+   "rom": "Khɔ̂ɔy jép-hǔa.",
+   "fr": "J'ai mal à la tête.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເປັນໄຂ້ບໍ?",
+   "rom": "Pěn-khâay bɔ̌ɔ?",
+   "fr": "Tu as de la fièvre ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພັກຜ່ອນເດີ",
+   "rom": "Phāk-phɔ̀ɔn dɤ̌ɤ.",
+   "fr": "Repose-toi.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເປັນຫຍັງ?",
+   "rom": "Pěn nyǎng?",
+   "fr": "Qu'est-ce qui ne va pas ?",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ເຈັບຫົວ"
+   ],
+   "rom": "Khɔ̂ɔy jép-hǔa.",
+   "fr": "J'ai mal à la tête."
+  },
+  {
+   "tokens": [
+    "ເປັນໄຂ້",
+    "ບໍ"
+   ],
+   "rom": "Pěn-khâay bɔ̌ɔ?",
+   "fr": "Tu as de la fièvre ?"
+  },
+  {
+   "tokens": [
+    "ພັກຜ່ອນ",
+    "ເດີ"
+   ],
+   "rom": "Phāk-phɔ̀ɔn dɤ̌ɤ.",
+   "fr": "Repose-toi."
+  },
+  {
+   "tokens": [
+    "ເປັນ",
+    "ຫຍັງ"
+   ],
+   "rom": "Pěn nyǎng?",
+   "fr": "Qu'est-ce qui ne va pas ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ເຈັບ",
+   "rom": "Jép",
+   "fr": "avoir mal"
+  },
+  {
+   "lao": "ເຈັບຫົວ",
+   "rom": "Jép-hǔa",
+   "fr": "mal à la tête"
+  },
+  {
+   "lao": "ເຈັບທ້ອງ",
+   "rom": "Jép-thȍɔng",
+   "fr": "mal au ventre"
+  },
+  {
+   "lao": "ເປັນໄຂ້",
+   "rom": "Pěn-khâay",
+   "fr": "avoir de la fièvre"
+  },
+  {
+   "lao": "ເປັນຫວັດ",
+   "rom": "Pěn-wǎt",
+   "fr": "être enrhumé"
+  },
+  {
+   "lao": "ຢາ",
+   "rom": "Yǎa",
+   "fr": "médicament"
+  },
+  {
+   "lao": "ກິນຢາ",
+   "rom": "Kǐn-yǎa",
+   "fr": "prendre un médicament"
+  },
+  {
+   "lao": "ພັກຜ່ອນ",
+   "rom": "Phāk-phɔ̀ɔn",
+   "fr": "se reposer"
+  },
+  {
+   "lao": "ແຂນ",
+   "rom": "Khɛ̌ɛn",
+   "fr": "bras"
+  },
+  {
+   "lao": "ຂາ",
+   "rom": "Khǎa",
+   "fr": "jambe"
+  }
+ ],
+ "sounds": {
+  "ສີອື່ນ": "Sǐi ʉ̀ʉn",
+  "ສວນ": "Sǔan",
+  "ທາງຫຼັງ": "Tháang-lǎng",
+  "ເຜັດ": "Phēt",
+  "ເປັນຫຍັງ ໜ້າບໍ່ດີ": "Pěn nyǎng? Nâa bɔ̀ɔ dǐi.",
+  "ຂ້ອຍເຈັບຫົວແລະເຈັບທ້ອງ": "Khɔ̂ɔy jép-hǔa lɛ́ jép-thȍɔng.",
+  "ເປັນໄຂ້ບໍ": "Pěn-khâay bɔ̌ɔ?",
+  "ໜ້ອຍໜຶ່ງ": "Nɔ̂ɔy nʉ̀ng.",
+  "ກິນຢາແລ້ວພັກຜ່ອນເດີ": "Kǐn-yǎa lɛ̏ɛw phāk-phɔ̀ɔn dɤ̌ɤ.",
+  "ເຈັບ": "Jép",
+  "ເຈັບຫົວ": "jép-hǔa",
+  "ເຈັບທ້ອງ": "Jép-thȍɔng",
+  "ເປັນໄຂ້": "pěn-khâay",
+  "ເປັນຫວັດ": "Pěn-wǎt",
+  "ຢາ": "Yǎa",
+  "ກິນຢາ": "Kǐn-yǎa",
+  "ພັກຜ່ອນ": "phāk-phɔ̀ɔn",
+  "ແຂນ": "Khɛ̌ɛn",
+  "ຂາ": "Khǎa",
+  "ເຈັບແຂ້ວ": "Jép khɛ̂ɛw",
+  "ເຈັບຫຼັງ": "Jép lǎng",
+  "ຂ້ອຍເຈັບຫົວ": "Khɔ̂ɔy jép-hǔa.",
+  "ພັກຜ່ອນເດີ": "Phāk-phɔ̀ɔn dɤ̌ɤ.",
+  "ເປັນຫຍັງ": "Pěn nyǎng?",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ບໍ": "bɔ̌ɔ",
+  "ເດີ": "dɤ̌ɤ",
+  "ເປັນ": "pěn",
+  "ຫຍັງ": "nyǎng"
+ },
+ "suivi": "LEÇON : 38 — Partie C (Vie courante, A1) · Le corps et la santé\nOBJECTIF : Dire où tu as mal et comment tu te sens.\nNOTION : ເຈັບ + partie du corps\nVOCAB : Jép, Jép-hǔa, Jép-thȍɔng, Pěn-khâay, Pěn-wǎt, Yǎa, Kǐn-yǎa, Phāk-phɔ̀ɔn, Khɛ̌ɛn, Khǎa\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 39 — Au téléphone (1)"
+}

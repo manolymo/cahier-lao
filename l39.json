@@ -1,0 +1,606 @@
+{
+ "num": 39,
+ "phase": "Partie C · Vie courante",
+ "title": "Au téléphone (1)",
+ "objective": "Passer un appel simple, demander quelqu'un et laisser un message.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>prendre un médicament <small class=\"muted\">(leçon 38)</small></li><li>soleil (rayons) <small class=\"muted\">(leçon 36)</small></li><li>s&#x27;arrêter, se garer <small class=\"muted\">(leçon 32)</small></li><li>pas trop aimer <small class=\"muted\">(leçon 25)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ກິນຢາ</span> <span class=\"rom\">Kǐn-yǎa</span> · prendre un médicament</li><li><span class=\"lo\">ແດດ</span> <span class=\"rom\">Dɛ̏ɛt</span> · soleil (rayons)</li><li><span class=\"lo\">ຈອດ</span> <span class=\"rom\">Jȍɔt</span> · s&#x27;arrêter, se garer</li><li><span class=\"lo\">ບໍ່ມັກປານໃດ</span> <span class=\"rom\">Bɔ̀ɔ māk pǎan-dǎy</span> · pas trop aimer</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Passer un appel simple, demander quelqu&#x27;un et laisser un message.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara appelle chez Noy.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ຮັນໂລ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສະບາຍດີແມ່ ນ້ອຍຢູ່ບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ບໍ່ຢູ່ ອອກໄປແລ້ວ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ບອກລາວໂທຫາຂ້ອຍແດ່</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ໄດ້ ແມ່ນໃຜນໍ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຄລາຣາເຈົ້າ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Hán-lóo.</span><br><span class=\"rom\">Sā-bǎay-dǐi mɛ̄ɛ. Nɔ̏ɔy yùu bɔ̌ɔ?</span><br><span class=\"rom\">Bɔ̀ɔ yùu. Ɔ̏ɔk pǎy lɛ̏ɛw.</span><br><span class=\"rom\">Bɔ̏ɔk láaw thóo hǎa khɔ̂ɔy dɛ̀ɛ.</span><br><span class=\"rom\">Dâay. Mɛ̄ɛn phǎy nɔ́ɔ?</span><br><span class=\"rom\">Clara jâo.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Mme Boua</b> — Allô.<br><b>Clara</b> — Bonjour madame. Noy est là ?<br><b>Mme Boua</b> — Non, elle est sortie.<br><b>Clara</b> — Dites-lui de me rappeler, s&#x27;il vous plaît.<br><b>Mme Boua</b> — D&#x27;accord. C&#x27;est de la part de qui ?<br><b>Clara</b> — Clara.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Noy est-elle là ?</li><li>Quel message laisse Clara ?</li></ol><details><summary>Réponses</summary><ol><li>Non, elle est sortie.</li><li>Que Noy la rappelle.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຮັນໂລ</td><td class=\"rom\">Hán-lóo</td><td>allô</td><td></td></tr><tr><td class=\"lo\">ໂທ</td><td class=\"rom\">Thóo</td><td>téléphoner</td><td></td></tr><tr><td class=\"lo\">ໂທຫາ</td><td class=\"rom\">Thóo-hǎa</td><td>appeler quelqu&#x27;un</td><td></td></tr><tr><td class=\"lo\">ຢູ່ບໍ</td><td class=\"rom\">Yùu bɔ̌ɔ</td><td>est-ce que… est là ?</td><td></td></tr><tr><td class=\"lo\">ບໍ່ຢູ່</td><td class=\"rom\">Bɔ̀ɔ yùu</td><td>n&#x27;est pas là</td><td></td></tr><tr><td class=\"lo\">ອອກໄປ</td><td class=\"rom\">Ɔ̏ɔk pǎy</td><td>sortir</td><td></td></tr><tr><td class=\"lo\">ບອກ</td><td class=\"rom\">Bɔ̏ɔk</td><td>dire à, prévenir</td><td></td></tr><tr><td class=\"lo\">ໂທກັບ</td><td class=\"rom\">Thóo kǎp</td><td>rappeler</td><td></td></tr><tr><td class=\"lo\">ແມ່ນໃຜ</td><td class=\"rom\">Mɛ̄ɛn phǎy</td><td>c&#x27;est qui ?</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : faire faire avec ບອກ",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ບອກລາວໂທຫາຂ້ອຍ</span> <span class=\"rom\">Bɔ̏ɔk láaw thóo hǎa khɔ̂ɔy</span> = dis-lui de m&#x27;appeler</li><li><span class=\"lo\">ບອກແມ່ແດ່</span> <span class=\"rom\">Bɔ̏ɔk mɛ̄ɛ dɛ̀ɛ</span> = préviens maman, s&#x27;il te plaît</li></ul><p><b>À toi de trouver :</b></p><ol><li>Comment transmets-tu une demande à quelqu&#x27;un d&#x27;absent ?</li></ol><details><summary>La règle</summary><p>ບອກ + personne + action = dire à quelqu'un de faire quelque chose.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les formules d&#x27;ouverture et de clôture d&#x27;un appel.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Allô.</li><li>Noy est là ?</li><li>Dites-lui de me rappeler.</li><li>C&#x27;est Clara.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຮັນໂລ</span> <span class=\"rom\">Hán-lóo.</span></li><li><span class=\"lo\">ນ້ອຍຢູ່ບໍ?</span> <span class=\"rom\">Nɔ̏ɔy yùu bɔ̌ɔ?</span></li><li><span class=\"lo\">ບອກລາວໂທຫາຂ້ອຍແດ່</span> <span class=\"rom\">Bɔ̏ɔk láaw thóo hǎa khɔ̂ɔy dɛ̀ɛ.</span></li><li><span class=\"lo\">ແມ່ນຄລາຣາ</span> <span class=\"rom\">Mɛ̄ɛn Clara.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris le script d&#x27;un appel de 6 répliques.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Passe un vrai appel court en lao à un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>13 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l39-v01",
+   "front": "ຮັນໂລ",
+   "back": "Hán-lóo · allô"
+  },
+  {
+   "id": "l39-v02",
+   "front": "ໂທ",
+   "back": "Thóo · téléphoner"
+  },
+  {
+   "id": "l39-v03",
+   "front": "ໂທຫາ",
+   "back": "Thóo-hǎa · appeler quelqu'un"
+  },
+  {
+   "id": "l39-v04",
+   "front": "ຢູ່ບໍ",
+   "back": "Yùu bɔ̌ɔ · est-ce que… est là ?"
+  },
+  {
+   "id": "l39-v05",
+   "front": "ບໍ່ຢູ່",
+   "back": "Bɔ̀ɔ yùu · n'est pas là"
+  },
+  {
+   "id": "l39-v06",
+   "front": "ອອກໄປ",
+   "back": "Ɔ̏ɔk pǎy · sortir"
+  },
+  {
+   "id": "l39-v07",
+   "front": "ບອກ",
+   "back": "Bɔ̏ɔk · dire à, prévenir"
+  },
+  {
+   "id": "l39-v08",
+   "front": "ໂທກັບ",
+   "back": "Thóo kǎp · rappeler"
+  },
+  {
+   "id": "l39-v09",
+   "front": "ແມ່ນໃຜ",
+   "back": "Mɛ̄ɛn phǎy · c'est qui ?"
+  },
+  {
+   "id": "l39-p01",
+   "front": "Allô.",
+   "back": "ຮັນໂລ · Hán-lóo."
+  },
+  {
+   "id": "l39-p02",
+   "front": "Noy est là ?",
+   "back": "ນ້ອຍຢູ່ບໍ? · Nɔ̏ɔy yùu bɔ̌ɔ?"
+  },
+  {
+   "id": "l39-p03",
+   "front": "Dites-lui de me rappeler.",
+   "back": "ບອກລາວໂທຫາຂ້ອຍແດ່ · Bɔ̏ɔk láaw thóo hǎa khɔ̂ɔy dɛ̀ɛ."
+  },
+  {
+   "id": "l39-p04",
+   "front": "C'est Clara.",
+   "back": "ແມ່ນຄລາຣາ · Mɛ̄ɛn Clara."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຮັນໂລ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "allô",
+      "rappeler",
+      "n'est pas là",
+      "est-ce que… est là ?"
+     ],
+     "answer": "allô",
+     "reveal": "<i>Hán-lóo</i>"
+    },
+    {
+     "audio": [
+      "ໂທ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "téléphoner",
+      "sortir",
+      "est-ce que… est là ?",
+      "appeler quelqu'un"
+     ],
+     "answer": "téléphoner",
+     "reveal": "<i>Thóo</i>"
+    },
+    {
+     "audio": [
+      "ໂທຫາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "appeler quelqu'un",
+      "dire à, prévenir",
+      "sortir",
+      "c'est qui ?"
+     ],
+     "answer": "appeler quelqu'un",
+     "reveal": "<i>Thóo-hǎa</i>"
+    },
+    {
+     "audio": [
+      "ຢູ່ບໍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "est-ce que… est là ?",
+      "rappeler",
+      "n'est pas là",
+      "dire à, prévenir"
+     ],
+     "answer": "est-ce que… est là ?",
+     "reveal": "<i>Yùu bɔ̌ɔ</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ຢູ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "n'est pas là",
+      "sortir",
+      "allô",
+      "appeler quelqu'un"
+     ],
+     "answer": "n'est pas là",
+     "reveal": "<i>Bɔ̀ɔ yùu</i>"
+    },
+    {
+     "audio": [
+      "ອອກໄປ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "sortir",
+      "n'est pas là",
+      "est-ce que… est là ?",
+      "appeler quelqu'un"
+     ],
+     "answer": "sortir",
+     "reveal": "<i>Ɔ̏ɔk pǎy</i>"
+    },
+    {
+     "audio": [
+      "ບອກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "dire à, prévenir",
+      "rappeler",
+      "appeler quelqu'un",
+      "est-ce que… est là ?"
+     ],
+     "answer": "dire à, prévenir",
+     "reveal": "<i>Bɔ̏ɔk</i>"
+    },
+    {
+     "audio": [
+      "ໂທກັບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "rappeler",
+      "dire à, prévenir",
+      "appeler quelqu'un",
+      "téléphoner"
+     ],
+     "answer": "rappeler",
+     "reveal": "<i>Thóo kǎp</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນໃຜ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "c'est qui ?",
+      "sortir",
+      "appeler quelqu'un",
+      "dire à, prévenir"
+     ],
+     "answer": "c'est qui ?",
+     "reveal": "<i>Mɛ̄ɛn phǎy</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຮັນໂລ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Allô.",
+      "Clara.",
+      "Bonjour madame. Noy est là ?",
+      "D'accord. C'est de la part de qui ?"
+     ],
+     "answer": "Allô.",
+     "reveal": "<i>Hán-lóo.</i>"
+    },
+    {
+     "audio": [
+      "ສະບາຍດີແມ່ ນ້ອຍຢູ່ບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Bonjour madame. Noy est là ?",
+      "Clara.",
+      "Non, elle est sortie.",
+      "Dites-lui de me rappeler, s'il vous plaît."
+     ],
+     "answer": "Bonjour madame. Noy est là ?",
+     "reveal": "<i>Sā-bǎay-dǐi mɛ̄ɛ. Nɔ̏ɔy yùu bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ຢູ່ ອອກໄປແລ້ວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Non, elle est sortie.",
+      "Clara.",
+      "Allô.",
+      "D'accord. C'est de la part de qui ?"
+     ],
+     "answer": "Non, elle est sortie.",
+     "reveal": "<i>Bɔ̀ɔ yùu. Ɔ̏ɔk pǎy lɛ̏ɛw.</i>"
+    },
+    {
+     "audio": [
+      "ບອກລາວໂທຫາຂ້ອຍແດ່"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Dites-lui de me rappeler, s'il vous plaît.",
+      "Non, elle est sortie.",
+      "D'accord. C'est de la part de qui ?",
+      "Bonjour madame. Noy est là ?"
+     ],
+     "answer": "Dites-lui de me rappeler, s'il vous plaît.",
+     "reveal": "<i>Bɔ̏ɔk láaw thóo hǎa khɔ̂ɔy dɛ̀ɛ.</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້ ແມ່ນໃຜນໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "D'accord. C'est de la part de qui ?",
+      "Bonjour madame. Noy est là ?",
+      "Clara.",
+      "Dites-lui de me rappeler, s'il vous plaît."
+     ],
+     "answer": "D'accord. C'est de la part de qui ?",
+     "reveal": "<i>Dâay. Mɛ̄ɛn phǎy nɔ́ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຄລາຣາເຈົ້າ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Clara.",
+      "Non, elle est sortie.",
+      "Bonjour madame. Noy est là ?",
+      "D'accord. C'est de la part de qui ?"
+     ],
+     "answer": "Clara.",
+     "reveal": "<i>Clara jâo.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຮັນໂລ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Allô.",
+      "C'est Clara.",
+      "Noy est là ?",
+      "Dites-lui de me rappeler."
+     ],
+     "answer": "Allô.",
+     "reveal": "<i>Hán-lóo.</i>"
+    },
+    {
+     "audio": [
+      "ນ້ອຍຢູ່ບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Noy est là ?",
+      "Dites-lui de me rappeler.",
+      "C'est Clara.",
+      "Allô."
+     ],
+     "answer": "Noy est là ?",
+     "reveal": "<i>Nɔ̏ɔy yùu bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ບອກລາວໂທຫາຂ້ອຍແດ່"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Dites-lui de me rappeler.",
+      "Noy est là ?",
+      "Allô.",
+      "C'est Clara."
+     ],
+     "answer": "Dites-lui de me rappeler.",
+     "reveal": "<i>Bɔ̏ɔk láaw thóo hǎa khɔ̂ɔy dɛ̀ɛ.</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນຄລາຣາ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est Clara.",
+      "Allô.",
+      "Noy est là ?",
+      "Dites-lui de me rappeler."
+     ],
+     "answer": "C'est Clara.",
+     "reveal": "<i>Mɛ̄ɛn Clara.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຮັນໂລ",
+   "rom": "Hán-lóo",
+   "fr": "allô",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂທ",
+   "rom": "Thóo",
+   "fr": "téléphoner",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂທຫາ",
+   "rom": "Thóo-hǎa",
+   "fr": "appeler quelqu'un",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຢູ່ບໍ",
+   "rom": "Yùu bɔ̌ɔ",
+   "fr": "est-ce que… est là ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ຢູ່",
+   "rom": "Bɔ̀ɔ yùu",
+   "fr": "n'est pas là",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອອກໄປ",
+   "rom": "Ɔ̏ɔk pǎy",
+   "fr": "sortir",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບອກ",
+   "rom": "Bɔ̏ɔk",
+   "fr": "dire à, prévenir",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂທກັບ",
+   "rom": "Thóo kǎp",
+   "fr": "rappeler",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແມ່ນໃຜ",
+   "rom": "Mɛ̄ɛn phǎy",
+   "fr": "c'est qui ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຮັນໂລ",
+   "rom": "Hán-lóo.",
+   "fr": "Allô.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນ້ອຍຢູ່ບໍ?",
+   "rom": "Nɔ̏ɔy yùu bɔ̌ɔ?",
+   "fr": "Noy est là ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບອກລາວໂທຫາຂ້ອຍແດ່",
+   "rom": "Bɔ̏ɔk láaw thóo hǎa khɔ̂ɔy dɛ̀ɛ.",
+   "fr": "Dites-lui de me rappeler.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແມ່ນຄລາຣາ",
+   "rom": "Mɛ̄ɛn Clara.",
+   "fr": "C'est Clara.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ນ້ອຍ",
+    "ຢູ່",
+    "ບໍ"
+   ],
+   "rom": "Nɔ̏ɔy yùu bɔ̌ɔ?",
+   "fr": "Noy est là ?"
+  },
+  {
+   "tokens": [
+    "ບອກ",
+    "ລາວ",
+    "ໂທ",
+    "ຫາ",
+    "ຂ້ອຍ",
+    "ແດ່"
+   ],
+   "rom": "Bɔ̏ɔk láaw thóo hǎa khɔ̂ɔy dɛ̀ɛ.",
+   "fr": "Dites-lui de me rappeler."
+  },
+  {
+   "tokens": [
+    "ແມ່ນ",
+    "ຄລາຣາ"
+   ],
+   "rom": "Mɛ̄ɛn Clara.",
+   "fr": "C'est Clara."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຮັນໂລ",
+   "rom": "Hán-lóo",
+   "fr": "allô"
+  },
+  {
+   "lao": "ໂທ",
+   "rom": "Thóo",
+   "fr": "téléphoner"
+  },
+  {
+   "lao": "ໂທຫາ",
+   "rom": "Thóo-hǎa",
+   "fr": "appeler quelqu'un"
+  },
+  {
+   "lao": "ຢູ່ບໍ",
+   "rom": "Yùu bɔ̌ɔ",
+   "fr": "est-ce que… est là ?"
+  },
+  {
+   "lao": "ບໍ່ຢູ່",
+   "rom": "Bɔ̀ɔ yùu",
+   "fr": "n'est pas là"
+  },
+  {
+   "lao": "ອອກໄປ",
+   "rom": "Ɔ̏ɔk pǎy",
+   "fr": "sortir"
+  },
+  {
+   "lao": "ບອກ",
+   "rom": "Bɔ̏ɔk",
+   "fr": "dire à, prévenir"
+  },
+  {
+   "lao": "ໂທກັບ",
+   "rom": "Thóo kǎp",
+   "fr": "rappeler"
+  },
+  {
+   "lao": "ແມ່ນໃຜ",
+   "rom": "Mɛ̄ɛn phǎy",
+   "fr": "c'est qui ?"
+  }
+ ],
+ "sounds": {
+  "ກິນຢາ": "Kǐn-yǎa",
+  "ແດດ": "Dɛ̏ɛt",
+  "ຈອດ": "Jȍɔt",
+  "ບໍ່ມັກປານໃດ": "Bɔ̀ɔ māk pǎan-dǎy",
+  "ຮັນໂລ": "Hán-lóo.",
+  "ສະບາຍດີແມ່ ນ້ອຍຢູ່ບໍ": "Sā-bǎay-dǐi mɛ̄ɛ. Nɔ̏ɔy yùu bɔ̌ɔ?",
+  "ບໍ່ຢູ່ ອອກໄປແລ້ວ": "Bɔ̀ɔ yùu. Ɔ̏ɔk pǎy lɛ̏ɛw.",
+  "ບອກລາວໂທຫາຂ້ອຍແດ່": "Bɔ̏ɔk láaw thóo hǎa khɔ̂ɔy dɛ̀ɛ.",
+  "ໄດ້ ແມ່ນໃຜນໍ": "Dâay. Mɛ̄ɛn phǎy nɔ́ɔ?",
+  "ຄລາຣາເຈົ້າ": "Clara jâo.",
+  "ໂທ": "thóo",
+  "ໂທຫາ": "Thóo-hǎa",
+  "ຢູ່ບໍ": "Yùu bɔ̌ɔ",
+  "ບໍ່ຢູ່": "Bɔ̀ɔ yùu",
+  "ອອກໄປ": "Ɔ̏ɔk pǎy",
+  "ບອກ": "bɔ̏ɔk",
+  "ໂທກັບ": "Thóo kǎp",
+  "ແມ່ນໃຜ": "Mɛ̄ɛn phǎy",
+  "ບອກລາວໂທຫາຂ້ອຍ": "Bɔ̏ɔk láaw thóo hǎa khɔ̂ɔy",
+  "ບອກແມ່ແດ່": "Bɔ̏ɔk mɛ̄ɛ dɛ̀ɛ",
+  "ນ້ອຍຢູ່ບໍ": "Nɔ̏ɔy yùu bɔ̌ɔ?",
+  "ແມ່ນຄລາຣາ": "Mɛ̄ɛn Clara.",
+  "ນ້ອຍ": "nɔ̏ɔy",
+  "ຢູ່": "yùu",
+  "ບໍ": "bɔ̌ɔ",
+  "ລາວ": "láaw",
+  "ຫາ": "hǎa",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ແດ່": "dɛ̀ɛ",
+  "ແມ່ນ": "mɛ̄ɛn",
+  "ຄລາຣາ": "Clara"
+ },
+ "suivi": "LEÇON : 39 — Partie C (Vie courante, A1) · Au téléphone (1)\nOBJECTIF : Passer un appel simple, demander quelqu'un et laisser un message.\nNOTION : faire faire avec ບອກ\nVOCAB : Hán-lóo, Thóo, Thóo-hǎa, Yùu bɔ̌ɔ, Bɔ̀ɔ yùu, Ɔ̏ɔk pǎy, Bɔ̏ɔk, Thóo kǎp, Mɛ̄ɛn phǎy\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 40 — Bilan A1"
+}

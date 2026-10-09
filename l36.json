@@ -1,0 +1,612 @@
+{
+ "num": 36,
+ "phase": "Partie C · Vie courante",
+ "title": "La météo",
+ "objective": "Parler du temps qu'il fait et des saisons.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>petit <small class=\"muted\">(leçon 35)</small></li><li>film <small class=\"muted\">(leçon 33)</small></li><li>minute <small class=\"muted\">(leçon 29)</small></li><li>baisser (le prix) <small class=\"muted\">(leçon 22)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ນ້ອຍ</span> <span class=\"rom\">Nɔ̏ɔy</span> · petit</li><li><span class=\"lo\">ໜັງ</span> <span class=\"rom\">Nǎng</span> · film</li><li><span class=\"lo\">ນາທີ</span> <span class=\"rom\">Náa-thíi</span> · minute</li><li><span class=\"lo\">ຫຼຸດ</span> <span class=\"rom\">Lūt</span> · baisser (le prix)</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Parler du temps qu&#x27;il fait et des saisons.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Il commence à pleuvoir.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຝົນຈະຕົກບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຄົງຈະຕົກ ຕອນນີ້ແມ່ນລະດູຝົນ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ມື້ວານຮ້ອນຫຼາຍ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ແມ່ນ ເດືອນທັນວາຈະໜາວໜ້ອຍໜຶ່ງ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Fǒn já tók bɔ̌ɔ?</span><br><span class=\"rom\">Khóng-já tók. Tɔ̌ɔn-nȉi mɛ̄ɛn lā-dǔu-fǒn.</span><br><span class=\"rom\">Mʉ̂ʉ-wáan hȍɔn lǎay.</span><br><span class=\"rom\">Mɛ̄ɛn. Dʉ̌an thán-wáa já nǎaw nɔ̂ɔy nʉ̀ng.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Il va pleuvoir ?<br><b>Noy</b> — Sûrement. C&#x27;est la saison des pluies.<br><b>Clara</b> — Hier, il faisait très chaud.<br><b>Noy</b> — Oui. En décembre, il fera un peu froid.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quelle saison est-ce ?</li><li>Quel temps faisait-il hier ?</li></ol><details><summary>Réponses</summary><ol><li>La saison des pluies.</li><li>Très chaud.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ອາກາດ</td><td class=\"rom\">Ǎa-kȁat</td><td>temps, climat</td><td></td></tr><tr><td class=\"lo\">ຝົນຕົກ</td><td class=\"rom\">Fǒn-tók</td><td>il pleut</td><td></td></tr><tr><td class=\"lo\">ຮ້ອນ</td><td class=\"rom\">Hȍɔn</td><td>chaud</td><td></td></tr><tr><td class=\"lo\">ໜາວ</td><td class=\"rom\">Nǎaw</td><td>froid</td><td></td></tr><tr><td class=\"lo\">ແດດ</td><td class=\"rom\">Dɛ̏ɛt</td><td>soleil (rayons)</td><td></td></tr><tr><td class=\"lo\">ລົມ</td><td class=\"rom\">Lóm</td><td>vent</td><td></td></tr><tr><td class=\"lo\">ລະດູຝົນ</td><td class=\"rom\">Lā-dǔu-fǒn</td><td>saison des pluies</td><td></td></tr><tr><td class=\"lo\">ລະດູແລ້ງ</td><td class=\"rom\">Lā-dǔu-lɛ̏ɛng</td><td>saison sèche</td><td></td></tr><tr><td class=\"lo\">ຄົງຈະ</td><td class=\"rom\">Khóng-já</td><td>sûrement</td><td></td></tr><tr><td class=\"lo\">ທັນວາ</td><td class=\"rom\">Thán-wáa</td><td>décembre</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les phrases sans sujet",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຮ້ອນຫຼາຍ</span> <span class=\"rom\">Hȍɔn lǎay</span> = il fait très chaud</li><li><span class=\"lo\">ຝົນຕົກ</span> <span class=\"rom\">Fǒn tók</span> = il pleut</li><li><span class=\"lo\">ໜາວໜ້ອຍໜຶ່ງ</span> <span class=\"rom\">Nǎaw nɔ̂ɔy nʉ̀ng</span> = il fait un peu froid</li></ul><p><b>À toi de trouver :</b></p><ol><li>Y a-t-il un « il » comme en français ?</li></ol><details><summary>La règle</summary><p>Le lao n'a pas de sujet impersonnel : ຮ້ອນ suffit pour « il fait chaud ». Le futur proche s'indique avec ຈະ (ຝົນຈະຕົກ).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> ຈະ devant les verbes au futur.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Il fait très chaud.</li><li>Il va pleuvoir ?</li><li>C&#x27;est la saison des pluies.</li><li>Il fait un peu froid.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຮ້ອນຫຼາຍ</span> <span class=\"rom\">Hȍɔn lǎay.</span></li><li><span class=\"lo\">ຝົນຈະຕົກບໍ?</span> <span class=\"rom\">Fǒn já tók bɔ̌ɔ?</span></li><li><span class=\"lo\">ແມ່ນລະດູຝົນ</span> <span class=\"rom\">Mɛ̄ɛn lā-dǔu-fǒn.</span></li><li><span class=\"lo\">ໜາວໜ້ອຍໜຶ່ງ</span> <span class=\"rom\">Nǎaw nɔ̂ɔy nʉ̀ng.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris la météo de ta ville aujourd&#x27;hui et demain.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Parle de la météo de ta ville avec un natif et compare avec le Laos.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>14 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l36-v01",
+   "front": "ອາກາດ",
+   "back": "Ǎa-kȁat · temps, climat"
+  },
+  {
+   "id": "l36-v02",
+   "front": "ຝົນຕົກ",
+   "back": "Fǒn-tók · il pleut"
+  },
+  {
+   "id": "l36-v03",
+   "front": "ຮ້ອນ",
+   "back": "Hȍɔn · chaud"
+  },
+  {
+   "id": "l36-v04",
+   "front": "ໜາວ",
+   "back": "Nǎaw · froid"
+  },
+  {
+   "id": "l36-v05",
+   "front": "ແດດ",
+   "back": "Dɛ̏ɛt · soleil (rayons)"
+  },
+  {
+   "id": "l36-v06",
+   "front": "ລົມ",
+   "back": "Lóm · vent"
+  },
+  {
+   "id": "l36-v07",
+   "front": "ລະດູຝົນ",
+   "back": "Lā-dǔu-fǒn · saison des pluies"
+  },
+  {
+   "id": "l36-v08",
+   "front": "ລະດູແລ້ງ",
+   "back": "Lā-dǔu-lɛ̏ɛng · saison sèche"
+  },
+  {
+   "id": "l36-v09",
+   "front": "ຄົງຈະ",
+   "back": "Khóng-já · sûrement"
+  },
+  {
+   "id": "l36-v10",
+   "front": "ທັນວາ",
+   "back": "Thán-wáa · décembre"
+  },
+  {
+   "id": "l36-p01",
+   "front": "Il fait très chaud.",
+   "back": "ຮ້ອນຫຼາຍ · Hȍɔn lǎay."
+  },
+  {
+   "id": "l36-p02",
+   "front": "Il va pleuvoir ?",
+   "back": "ຝົນຈະຕົກບໍ? · Fǒn já tók bɔ̌ɔ?"
+  },
+  {
+   "id": "l36-p03",
+   "front": "C'est la saison des pluies.",
+   "back": "ແມ່ນລະດູຝົນ · Mɛ̄ɛn lā-dǔu-fǒn."
+  },
+  {
+   "id": "l36-p04",
+   "front": "Il fait un peu froid.",
+   "back": "ໜາວໜ້ອຍໜຶ່ງ · Nǎaw nɔ̂ɔy nʉ̀ng."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ອາກາດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "temps, climat",
+      "chaud",
+      "froid",
+      "saison sèche"
+     ],
+     "answer": "temps, climat",
+     "reveal": "<i>Ǎa-kȁat</i>"
+    },
+    {
+     "audio": [
+      "ຝົນຕົກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "il pleut",
+      "temps, climat",
+      "froid",
+      "saison des pluies"
+     ],
+     "answer": "il pleut",
+     "reveal": "<i>Fǒn-tók</i>"
+    },
+    {
+     "audio": [
+      "ຮ້ອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "chaud",
+      "décembre",
+      "froid",
+      "saison sèche"
+     ],
+     "answer": "chaud",
+     "reveal": "<i>Hȍɔn</i>"
+    },
+    {
+     "audio": [
+      "ໜາວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "froid",
+      "temps, climat",
+      "saison sèche",
+      "décembre"
+     ],
+     "answer": "froid",
+     "reveal": "<i>Nǎaw</i>"
+    },
+    {
+     "audio": [
+      "ແດດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "soleil (rayons)",
+      "temps, climat",
+      "chaud",
+      "il pleut"
+     ],
+     "answer": "soleil (rayons)",
+     "reveal": "<i>Dɛ̏ɛt</i>"
+    },
+    {
+     "audio": [
+      "ລົມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "vent",
+      "saison sèche",
+      "sûrement",
+      "décembre"
+     ],
+     "answer": "vent",
+     "reveal": "<i>Lóm</i>"
+    },
+    {
+     "audio": [
+      "ລະດູຝົນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "saison des pluies",
+      "saison sèche",
+      "chaud",
+      "décembre"
+     ],
+     "answer": "saison des pluies",
+     "reveal": "<i>Lā-dǔu-fǒn</i>"
+    },
+    {
+     "audio": [
+      "ລະດູແລ້ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "saison sèche",
+      "soleil (rayons)",
+      "il pleut",
+      "sûrement"
+     ],
+     "answer": "saison sèche",
+     "reveal": "<i>Lā-dǔu-lɛ̏ɛng</i>"
+    },
+    {
+     "audio": [
+      "ຄົງຈະ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "sûrement",
+      "saison sèche",
+      "saison des pluies",
+      "froid"
+     ],
+     "answer": "sûrement",
+     "reveal": "<i>Khóng-já</i>"
+    },
+    {
+     "audio": [
+      "ທັນວາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "décembre",
+      "temps, climat",
+      "froid",
+      "chaud"
+     ],
+     "answer": "décembre",
+     "reveal": "<i>Thán-wáa</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຝົນຈະຕົກບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Il va pleuvoir ?",
+      "Hier, il faisait très chaud.",
+      "Sûrement. C'est la saison des pluies.",
+      "Oui. En décembre, il fera un peu froid."
+     ],
+     "answer": "Il va pleuvoir ?",
+     "reveal": "<i>Fǒn já tók bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຄົງຈະຕົກ ຕອນນີ້ແມ່ນລະດູຝົນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Sûrement. C'est la saison des pluies.",
+      "Oui. En décembre, il fera un peu froid.",
+      "Il va pleuvoir ?",
+      "Hier, il faisait très chaud."
+     ],
+     "answer": "Sûrement. C'est la saison des pluies.",
+     "reveal": "<i>Khóng-já tók. Tɔ̌ɔn-nȉi mɛ̄ɛn lā-dǔu-fǒn.</i>"
+    },
+    {
+     "audio": [
+      "ມື້ວານຮ້ອນຫຼາຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Hier, il faisait très chaud.",
+      "Sûrement. C'est la saison des pluies.",
+      "Oui. En décembre, il fera un peu froid.",
+      "Il va pleuvoir ?"
+     ],
+     "answer": "Hier, il faisait très chaud.",
+     "reveal": "<i>Mʉ̂ʉ-wáan hȍɔn lǎay.</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນ ເດືອນທັນວາຈະໜາວໜ້ອຍໜຶ່ງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oui. En décembre, il fera un peu froid.",
+      "Hier, il faisait très chaud.",
+      "Sûrement. C'est la saison des pluies.",
+      "Il va pleuvoir ?"
+     ],
+     "answer": "Oui. En décembre, il fera un peu froid.",
+     "reveal": "<i>Mɛ̄ɛn. Dʉ̌an thán-wáa já nǎaw nɔ̂ɔy nʉ̀ng.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຮ້ອນຫຼາຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il fait très chaud.",
+      "C'est la saison des pluies.",
+      "Il va pleuvoir ?",
+      "Il fait un peu froid."
+     ],
+     "answer": "Il fait très chaud.",
+     "reveal": "<i>Hȍɔn lǎay.</i>"
+    },
+    {
+     "audio": [
+      "ຝົນຈະຕົກບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il va pleuvoir ?",
+      "Il fait un peu froid.",
+      "C'est la saison des pluies.",
+      "Il fait très chaud."
+     ],
+     "answer": "Il va pleuvoir ?",
+     "reveal": "<i>Fǒn já tók bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນລະດູຝົນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est la saison des pluies.",
+      "Il fait un peu froid.",
+      "Il va pleuvoir ?",
+      "Il fait très chaud."
+     ],
+     "answer": "C'est la saison des pluies.",
+     "reveal": "<i>Mɛ̄ɛn lā-dǔu-fǒn.</i>"
+    },
+    {
+     "audio": [
+      "ໜາວໜ້ອຍໜຶ່ງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il fait un peu froid.",
+      "Il va pleuvoir ?",
+      "Il fait très chaud.",
+      "C'est la saison des pluies."
+     ],
+     "answer": "Il fait un peu froid.",
+     "reveal": "<i>Nǎaw nɔ̂ɔy nʉ̀ng.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ອາກາດ",
+   "rom": "Ǎa-kȁat",
+   "fr": "temps, climat",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຝົນຕົກ",
+   "rom": "Fǒn-tók",
+   "fr": "il pleut",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຮ້ອນ",
+   "rom": "Hȍɔn",
+   "fr": "chaud",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໜາວ",
+   "rom": "Nǎaw",
+   "fr": "froid",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແດດ",
+   "rom": "Dɛ̏ɛt",
+   "fr": "soleil (rayons)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລົມ",
+   "rom": "Lóm",
+   "fr": "vent",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລະດູຝົນ",
+   "rom": "Lā-dǔu-fǒn",
+   "fr": "saison des pluies",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລະດູແລ້ງ",
+   "rom": "Lā-dǔu-lɛ̏ɛng",
+   "fr": "saison sèche",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄົງຈະ",
+   "rom": "Khóng-já",
+   "fr": "sûrement",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທັນວາ",
+   "rom": "Thán-wáa",
+   "fr": "décembre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຮ້ອນຫຼາຍ",
+   "rom": "Hȍɔn lǎay.",
+   "fr": "Il fait très chaud.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຝົນຈະຕົກບໍ?",
+   "rom": "Fǒn já tók bɔ̌ɔ?",
+   "fr": "Il va pleuvoir ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແມ່ນລະດູຝົນ",
+   "rom": "Mɛ̄ɛn lā-dǔu-fǒn.",
+   "fr": "C'est la saison des pluies.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໜາວໜ້ອຍໜຶ່ງ",
+   "rom": "Nǎaw nɔ̂ɔy nʉ̀ng.",
+   "fr": "Il fait un peu froid.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຮ້ອນ",
+    "ຫຼາຍ"
+   ],
+   "rom": "Hȍɔn lǎay.",
+   "fr": "Il fait très chaud."
+  },
+  {
+   "tokens": [
+    "ຝົນ",
+    "ຈະ",
+    "ຕົກ",
+    "ບໍ"
+   ],
+   "rom": "Fǒn já tók bɔ̌ɔ?",
+   "fr": "Il va pleuvoir ?"
+  },
+  {
+   "tokens": [
+    "ແມ່ນ",
+    "ລະດູຝົນ"
+   ],
+   "rom": "Mɛ̄ɛn lā-dǔu-fǒn.",
+   "fr": "C'est la saison des pluies."
+  },
+  {
+   "tokens": [
+    "ໜາວ",
+    "ໜ້ອຍ",
+    "ໜຶ່ງ"
+   ],
+   "rom": "Nǎaw nɔ̂ɔy nʉ̀ng.",
+   "fr": "Il fait un peu froid."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ອາກາດ",
+   "rom": "Ǎa-kȁat",
+   "fr": "temps, climat"
+  },
+  {
+   "lao": "ຝົນຕົກ",
+   "rom": "Fǒn-tók",
+   "fr": "il pleut"
+  },
+  {
+   "lao": "ຮ້ອນ",
+   "rom": "Hȍɔn",
+   "fr": "chaud"
+  },
+  {
+   "lao": "ໜາວ",
+   "rom": "Nǎaw",
+   "fr": "froid"
+  },
+  {
+   "lao": "ແດດ",
+   "rom": "Dɛ̏ɛt",
+   "fr": "soleil (rayons)"
+  },
+  {
+   "lao": "ລົມ",
+   "rom": "Lóm",
+   "fr": "vent"
+  },
+  {
+   "lao": "ລະດູຝົນ",
+   "rom": "Lā-dǔu-fǒn",
+   "fr": "saison des pluies"
+  },
+  {
+   "lao": "ລະດູແລ້ງ",
+   "rom": "Lā-dǔu-lɛ̏ɛng",
+   "fr": "saison sèche"
+  },
+  {
+   "lao": "ຄົງຈະ",
+   "rom": "Khóng-já",
+   "fr": "sûrement"
+  },
+  {
+   "lao": "ທັນວາ",
+   "rom": "Thán-wáa",
+   "fr": "décembre"
+  }
+ ],
+ "sounds": {
+  "ນ້ອຍ": "Nɔ̏ɔy",
+  "ໜັງ": "Nǎng",
+  "ນາທີ": "Náa-thíi",
+  "ຫຼຸດ": "Lūt",
+  "ຝົນຈະຕົກບໍ": "Fǒn já tók bɔ̌ɔ?",
+  "ຄົງຈະຕົກ ຕອນນີ້ແມ່ນລະດູຝົນ": "Khóng-já tók. Tɔ̌ɔn-nȉi mɛ̄ɛn lā-dǔu-fǒn.",
+  "ມື້ວານຮ້ອນຫຼາຍ": "Mʉ̂ʉ-wáan hȍɔn lǎay.",
+  "ແມ່ນ ເດືອນທັນວາຈະໜາວໜ້ອຍໜຶ່ງ": "Mɛ̄ɛn. Dʉ̌an thán-wáa já nǎaw nɔ̂ɔy nʉ̀ng.",
+  "ອາກາດ": "Ǎa-kȁat",
+  "ຝົນຕົກ": "Fǒn tók",
+  "ຮ້ອນ": "hȍɔn",
+  "ໜາວ": "nǎaw",
+  "ແດດ": "Dɛ̏ɛt",
+  "ລົມ": "Lóm",
+  "ລະດູຝົນ": "lā-dǔu-fǒn",
+  "ລະດູແລ້ງ": "Lā-dǔu-lɛ̏ɛng",
+  "ຄົງຈະ": "Khóng-já",
+  "ທັນວາ": "Thán-wáa",
+  "ຮ້ອນຫຼາຍ": "Hȍɔn lǎay.",
+  "ໜາວໜ້ອຍໜຶ່ງ": "Nǎaw nɔ̂ɔy nʉ̀ng.",
+  "ແມ່ນລະດູຝົນ": "Mɛ̄ɛn lā-dǔu-fǒn.",
+  "ຫຼາຍ": "lǎay",
+  "ຝົນ": "fǒn",
+  "ຈະ": "já",
+  "ຕົກ": "tók",
+  "ບໍ": "bɔ̌ɔ",
+  "ແມ່ນ": "mɛ̄ɛn",
+  "ໜ້ອຍ": "nɔ̂ɔy",
+  "ໜຶ່ງ": "nʉ̀ng"
+ },
+ "suivi": "LEÇON : 36 — Partie C (Vie courante, A1) · La météo\nOBJECTIF : Parler du temps qu'il fait et des saisons.\nNOTION : les phrases sans sujet\nVOCAB : Ǎa-kȁat, Fǒn-tók, Hȍɔn, Nǎaw, Dɛ̏ɛt, Lóm, Lā-dǔu-fǒn, Lā-dǔu-lɛ̏ɛng, Khóng-já, Thán-wáa\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 37 — Vêtements et couleurs"
+}

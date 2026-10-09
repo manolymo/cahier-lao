@@ -1,0 +1,660 @@
+{
+ "num": 23,
+ "phase": "Partie C · Vie courante",
+ "title": "Les classificateurs",
+ "objective": "Compter les choses avec le bon classificateur et commander des quantités.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>payer <small class=\"muted\">(leçon 22)</small></li><li>mot <small class=\"muted\">(leçon 20)</small></li><li>combien ? <small class=\"muted\">(leçon 16)</small></li><li>bœuf, vache <small class=\"muted\">(leçon 9)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຈ່າຍ</span> <span class=\"rom\">Jàay</span> · payer</li><li><span class=\"lo\">ຄຳ</span> <span class=\"rom\">Khám</span> · mot</li><li><span class=\"lo\">ເທົ່າໃດ</span> <span class=\"rom\">Thāo-dǎy</span> · combien ?</li><li><span class=\"lo\">ງົວ</span> <span class=\"rom\">Ngúa</span> · bœuf, vache</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Compter les choses avec le bon classificateur et commander des quantités.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Au café, Clara commande pour la famille.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂໍກາເຟສອງຈອກ ແລະເຝີສາມຖ້ວຍ</span><span class=\"rom\">Khɔ̌ɔ kǎa-féé sɔ̌ɔng jɔ̏ɔk, lɛ́ fɤ̌ɤ sǎam thûay.</span></div></div><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ມີຈັກຄົນ?</span><span class=\"rom\">Míi ják khón?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສີ່ຄົນ</span><span class=\"rom\">Sìi khón.</span></div></div><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ເອົານ້ຳຈັກແກ້ວ?</span><span class=\"rom\">Ǎo nȁam ják kɛ̂ɛw?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສີ່ແກ້ວ ຂອບໃຈ</span><span class=\"rom\">Sìi kɛ̂ɛw. Khɔ̏ɔp-jǎy.</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Deux cafés et trois bols de pho, s&#x27;il vous plaît.<br><b>La vendeuse</b> — Vous êtes combien ?<br><b>Clara</b> — Quatre.<br><b>La vendeuse</b> — Combien de verres d&#x27;eau ?<br><b>Clara</b> — Quatre verres. Merci.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Combien sont-ils ?</li><li>Que commande Clara ?</li></ol><details><summary>Réponses</summary><ol><li>Quatre personnes.</li><li>2 cafés, 3 pho, 4 verres d&#x27;eau.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຄົນ</td><td class=\"rom\">Khón</td><td>personne (classif.)</td><td></td></tr><tr><td class=\"lo\">ໂຕ</td><td class=\"rom\">Tǒo</td><td>animal ; vêtement (classif.)</td><td></td></tr><tr><td class=\"lo\">ອັນ</td><td class=\"rom\">Ǎn</td><td>objet (classif. général)</td><td></td></tr><tr><td class=\"lo\">ຈອກ</td><td class=\"rom\">Jɔ̏ɔk</td><td>verre, tasse</td><td></td></tr><tr><td class=\"lo\">ຖ້ວຍ</td><td class=\"rom\">Thûay</td><td>bol</td><td></td></tr><tr><td class=\"lo\">ຈານ</td><td class=\"rom\">Jǎan</td><td>assiette</td><td></td></tr><tr><td class=\"lo\">ແກ້ວ</td><td class=\"rom\">Kɛ̂ɛw</td><td>verre</td><td></td></tr><tr><td class=\"lo\">ໜ່ວຍ</td><td class=\"rom\">Nùay</td><td>fruit, objet rond (classif.)</td><td></td></tr><tr><td class=\"lo\">ຫົວ</td><td class=\"rom\">Hǔa</td><td>livre (classif.) ; tête</td><td></td></tr><tr><td class=\"lo\">ຄັນ</td><td class=\"rom\">Khán</td><td>véhicule (classif.)</td><td></td></tr><tr><td class=\"lo\">ຈັກ</td><td class=\"rom\">Ják</td><td>combien ? (petit nombre)</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : nom + nombre + classificateur",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ກາເຟສອງຈອກ</span> <span class=\"rom\">Kǎa-féé sɔ̌ɔng jɔ̏ɔk</span> = deux cafés</li><li><span class=\"lo\">ໝາສາມໂຕ</span> <span class=\"rom\">Mǎa sǎam tǒo</span> = trois chiens</li><li><span class=\"lo\">ລົດໜຶ່ງຄັນ</span> <span class=\"rom\">Lōt nʉ̀ng khán</span> = une voiture</li><li><span class=\"lo\">ຈັກຄົນ?</span> <span class=\"rom\">Ják khón?</span> = combien de personnes ?</li></ul><p><b>À toi de trouver :</b></p><ol><li>Dans quel ordre viennent le nom, le nombre et le classificateur ?</li></ol><details><summary>La règle</summary><p>Pour compter, on dit : nom + nombre + classificateur (ກາເຟ ສອງ ຈອກ). Le classificateur dépend de la forme ou du type de la chose. Si tu hésites, ອັນ marche pour beaucoup d'objets. [À VÉRIFIER : classificateurs exacts]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> le classificateur après chaque nombre.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Deux cafés, s&#x27;il vous plaît.</li><li>Vous êtes combien ?</li><li>Quatre personnes.</li><li>Trois chiens.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂໍກາເຟສອງຈອກ</span> <span class=\"rom\">Khɔ̌ɔ kǎa-féé sɔ̌ɔng jɔ̏ɔk.</span></li><li><span class=\"lo\">ມີຈັກຄົນ?</span> <span class=\"rom\">Míi ják khón?</span></li><li><span class=\"lo\">ສີ່ຄົນ</span> <span class=\"rom\">Sìi khón.</span></li><li><span class=\"lo\">ໝາສາມໂຕ</span> <span class=\"rom\">Mǎa sǎam tǒo</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris 6 groupes nom + nombre + classificateur pour des objets chez toi.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Commande pour plusieurs personnes au restaurant (vrai ou jeu de rôle).</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>15 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l23-v01",
+   "front": "ຄົນ",
+   "back": "Khón · personne (classif.)"
+  },
+  {
+   "id": "l23-v02",
+   "front": "ໂຕ",
+   "back": "Tǒo · animal ; vêtement (classif.)"
+  },
+  {
+   "id": "l23-v03",
+   "front": "ອັນ",
+   "back": "Ǎn · objet (classif. général)"
+  },
+  {
+   "id": "l23-v04",
+   "front": "ຈອກ",
+   "back": "Jɔ̏ɔk · verre, tasse"
+  },
+  {
+   "id": "l23-v05",
+   "front": "ຖ້ວຍ",
+   "back": "Thûay · bol"
+  },
+  {
+   "id": "l23-v06",
+   "front": "ຈານ",
+   "back": "Jǎan · assiette"
+  },
+  {
+   "id": "l23-v07",
+   "front": "ແກ້ວ",
+   "back": "Kɛ̂ɛw · verre"
+  },
+  {
+   "id": "l23-v08",
+   "front": "ໜ່ວຍ",
+   "back": "Nùay · fruit, objet rond (classif.)"
+  },
+  {
+   "id": "l23-v09",
+   "front": "ຫົວ",
+   "back": "Hǔa · livre (classif.) ; tête"
+  },
+  {
+   "id": "l23-v10",
+   "front": "ຄັນ",
+   "back": "Khán · véhicule (classif.)"
+  },
+  {
+   "id": "l23-v11",
+   "front": "ຈັກ",
+   "back": "Ják · combien ? (petit nombre)"
+  },
+  {
+   "id": "l23-p01",
+   "front": "Deux cafés, s'il vous plaît.",
+   "back": "ຂໍກາເຟສອງຈອກ · Khɔ̌ɔ kǎa-féé sɔ̌ɔng jɔ̏ɔk."
+  },
+  {
+   "id": "l23-p02",
+   "front": "Vous êtes combien ?",
+   "back": "ມີຈັກຄົນ? · Míi ják khón?"
+  },
+  {
+   "id": "l23-p03",
+   "front": "Quatre personnes.",
+   "back": "ສີ່ຄົນ · Sìi khón."
+  },
+  {
+   "id": "l23-p04",
+   "front": "Trois chiens.",
+   "back": "ໝາສາມໂຕ · Mǎa sǎam tǒo"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຄົນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "personne (classif.)",
+      "animal ; vêtement (classif.)",
+      "livre (classif.) ; tête",
+      "bol"
+     ],
+     "answer": "personne (classif.)",
+     "reveal": "<i>Khón</i>"
+    },
+    {
+     "audio": [
+      "ໂຕ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "animal ; vêtement (classif.)",
+      "verre",
+      "fruit, objet rond (classif.)",
+      "personne (classif.)"
+     ],
+     "answer": "animal ; vêtement (classif.)",
+     "reveal": "<i>Tǒo</i>"
+    },
+    {
+     "audio": [
+      "ອັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "objet (classif. général)",
+      "personne (classif.)",
+      "animal ; vêtement (classif.)",
+      "verre"
+     ],
+     "answer": "objet (classif. général)",
+     "reveal": "<i>Ǎn</i>"
+    },
+    {
+     "audio": [
+      "ຈອກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "verre, tasse",
+      "assiette",
+      "verre",
+      "personne (classif.)"
+     ],
+     "answer": "verre, tasse",
+     "reveal": "<i>Jɔ̏ɔk</i>"
+    },
+    {
+     "audio": [
+      "ຖ້ວຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "bol",
+      "personne (classif.)",
+      "livre (classif.) ; tête",
+      "objet (classif. général)"
+     ],
+     "answer": "bol",
+     "reveal": "<i>Thûay</i>"
+    },
+    {
+     "audio": [
+      "ຈານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "assiette",
+      "animal ; vêtement (classif.)",
+      "livre (classif.) ; tête",
+      "verre"
+     ],
+     "answer": "assiette",
+     "reveal": "<i>Jǎan</i>"
+    },
+    {
+     "audio": [
+      "ແກ້ວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "verre",
+      "animal ; vêtement (classif.)",
+      "combien ? (petit nombre)",
+      "livre (classif.) ; tête"
+     ],
+     "answer": "verre",
+     "reveal": "<i>Kɛ̂ɛw</i>"
+    },
+    {
+     "audio": [
+      "ໜ່ວຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "fruit, objet rond (classif.)",
+      "personne (classif.)",
+      "verre",
+      "véhicule (classif.)"
+     ],
+     "answer": "fruit, objet rond (classif.)",
+     "reveal": "<i>Nùay</i>"
+    },
+    {
+     "audio": [
+      "ຫົວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "livre (classif.) ; tête",
+      "animal ; vêtement (classif.)",
+      "véhicule (classif.)",
+      "bol"
+     ],
+     "answer": "livre (classif.) ; tête",
+     "reveal": "<i>Hǔa</i>"
+    },
+    {
+     "audio": [
+      "ຄັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "véhicule (classif.)",
+      "fruit, objet rond (classif.)",
+      "bol",
+      "livre (classif.) ; tête"
+     ],
+     "answer": "véhicule (classif.)",
+     "reveal": "<i>Khán</i>"
+    },
+    {
+     "audio": [
+      "ຈັກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "combien ? (petit nombre)",
+      "véhicule (classif.)",
+      "fruit, objet rond (classif.)",
+      "objet (classif. général)"
+     ],
+     "answer": "combien ? (petit nombre)",
+     "reveal": "<i>Ják</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂໍກາເຟສອງຈອກ ແລະເຝີສາມຖ້ວຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Deux cafés et trois bols de pho, s'il vous plaît.",
+      "Quatre.",
+      "Combien de verres d'eau ?",
+      "Quatre verres. Merci."
+     ],
+     "answer": "Deux cafés et trois bols de pho, s'il vous plaît.",
+     "reveal": "<i>Khɔ̌ɔ kǎa-féé sɔ̌ɔng jɔ̏ɔk, lɛ́ fɤ̌ɤ sǎam thûay.</i>"
+    },
+    {
+     "audio": [
+      "ມີຈັກຄົນ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Vous êtes combien ?",
+      "Deux cafés et trois bols de pho, s'il vous plaît.",
+      "Quatre.",
+      "Combien de verres d'eau ?"
+     ],
+     "answer": "Vous êtes combien ?",
+     "reveal": "<i>Míi ják khón?</i>"
+    },
+    {
+     "audio": [
+      "ສີ່ຄົນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Quatre.",
+      "Combien de verres d'eau ?",
+      "Vous êtes combien ?",
+      "Quatre verres. Merci."
+     ],
+     "answer": "Quatre.",
+     "reveal": "<i>Sìi khón.</i>"
+    },
+    {
+     "audio": [
+      "ເອົານ້ຳຈັກແກ້ວ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Combien de verres d'eau ?",
+      "Quatre verres. Merci.",
+      "Vous êtes combien ?",
+      "Quatre."
+     ],
+     "answer": "Combien de verres d'eau ?",
+     "reveal": "<i>Ǎo nȁam ják kɛ̂ɛw?</i>"
+    },
+    {
+     "audio": [
+      "ສີ່ແກ້ວ ຂອບໃຈ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Quatre verres. Merci.",
+      "Quatre.",
+      "Combien de verres d'eau ?",
+      "Deux cafés et trois bols de pho, s'il vous plaît."
+     ],
+     "answer": "Quatre verres. Merci.",
+     "reveal": "<i>Sìi kɛ̂ɛw. Khɔ̏ɔp-jǎy.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂໍກາເຟສອງຈອກ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Deux cafés, s'il vous plaît.",
+      "Vous êtes combien ?",
+      "Quatre personnes.",
+      "Trois chiens."
+     ],
+     "answer": "Deux cafés, s'il vous plaît.",
+     "reveal": "<i>Khɔ̌ɔ kǎa-féé sɔ̌ɔng jɔ̏ɔk.</i>"
+    },
+    {
+     "audio": [
+      "ມີຈັກຄົນ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Vous êtes combien ?",
+      "Trois chiens.",
+      "Quatre personnes.",
+      "Deux cafés, s'il vous plaît."
+     ],
+     "answer": "Vous êtes combien ?",
+     "reveal": "<i>Míi ják khón?</i>"
+    },
+    {
+     "audio": [
+      "ສີ່ຄົນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Quatre personnes.",
+      "Vous êtes combien ?",
+      "Trois chiens.",
+      "Deux cafés, s'il vous plaît."
+     ],
+     "answer": "Quatre personnes.",
+     "reveal": "<i>Sìi khón.</i>"
+    },
+    {
+     "audio": [
+      "ໝາສາມໂຕ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Trois chiens.",
+      "Quatre personnes.",
+      "Deux cafés, s'il vous plaît.",
+      "Vous êtes combien ?"
+     ],
+     "answer": "Trois chiens.",
+     "reveal": "<i>Mǎa sǎam tǒo</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຄົນ",
+   "rom": "Khón",
+   "fr": "personne (classif.)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂຕ",
+   "rom": "Tǒo",
+   "fr": "animal ; vêtement (classif.)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອັນ",
+   "rom": "Ǎn",
+   "fr": "objet (classif. général)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈອກ",
+   "rom": "Jɔ̏ɔk",
+   "fr": "verre, tasse",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຖ້ວຍ",
+   "rom": "Thûay",
+   "fr": "bol",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈານ",
+   "rom": "Jǎan",
+   "fr": "assiette",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແກ້ວ",
+   "rom": "Kɛ̂ɛw",
+   "fr": "verre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໜ່ວຍ",
+   "rom": "Nùay",
+   "fr": "fruit, objet rond (classif.)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫົວ",
+   "rom": "Hǔa",
+   "fr": "livre (classif.) ; tête",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄັນ",
+   "rom": "Khán",
+   "fr": "véhicule (classif.)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈັກ",
+   "rom": "Ják",
+   "fr": "combien ? (petit nombre)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍກາເຟສອງຈອກ",
+   "rom": "Khɔ̌ɔ kǎa-féé sɔ̌ɔng jɔ̏ɔk.",
+   "fr": "Deux cafés, s'il vous plaît.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມີຈັກຄົນ?",
+   "rom": "Míi ják khón?",
+   "fr": "Vous êtes combien ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສີ່ຄົນ",
+   "rom": "Sìi khón.",
+   "fr": "Quatre personnes.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໝາສາມໂຕ",
+   "rom": "Mǎa sǎam tǒo",
+   "fr": "Trois chiens.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂໍ",
+    "ກາເຟ",
+    "ສອງ",
+    "ຈອກ"
+   ],
+   "rom": "Khɔ̌ɔ kǎa-féé sɔ̌ɔng jɔ̏ɔk.",
+   "fr": "Deux cafés, s'il vous plaît."
+  },
+  {
+   "tokens": [
+    "ມີ",
+    "ຈັກ",
+    "ຄົນ"
+   ],
+   "rom": "Míi ják khón?",
+   "fr": "Vous êtes combien ?"
+  },
+  {
+   "tokens": [
+    "ສີ່",
+    "ຄົນ"
+   ],
+   "rom": "Sìi khón.",
+   "fr": "Quatre personnes."
+  },
+  {
+   "tokens": [
+    "ໝາ",
+    "ສາມ",
+    "ໂຕ"
+   ],
+   "rom": "Mǎa sǎam tǒo",
+   "fr": "Trois chiens."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຄົນ",
+   "rom": "Khón",
+   "fr": "personne (classif.)"
+  },
+  {
+   "lao": "ໂຕ",
+   "rom": "Tǒo",
+   "fr": "animal ; vêtement (classif.)"
+  },
+  {
+   "lao": "ອັນ",
+   "rom": "Ǎn",
+   "fr": "objet (classif. général)"
+  },
+  {
+   "lao": "ຈອກ",
+   "rom": "Jɔ̏ɔk",
+   "fr": "verre, tasse"
+  },
+  {
+   "lao": "ຖ້ວຍ",
+   "rom": "Thûay",
+   "fr": "bol"
+  },
+  {
+   "lao": "ຈານ",
+   "rom": "Jǎan",
+   "fr": "assiette"
+  },
+  {
+   "lao": "ແກ້ວ",
+   "rom": "Kɛ̂ɛw",
+   "fr": "verre"
+  },
+  {
+   "lao": "ໜ່ວຍ",
+   "rom": "Nùay",
+   "fr": "fruit, objet rond (classif.)"
+  },
+  {
+   "lao": "ຫົວ",
+   "rom": "Hǔa",
+   "fr": "livre (classif.) ; tête"
+  },
+  {
+   "lao": "ຄັນ",
+   "rom": "Khán",
+   "fr": "véhicule (classif.)"
+  },
+  {
+   "lao": "ຈັກ",
+   "rom": "Ják",
+   "fr": "combien ? (petit nombre)"
+  }
+ ],
+ "sounds": {
+  "ຈ່າຍ": "Jàay",
+  "ຄຳ": "Khám",
+  "ເທົ່າໃດ": "Thāo-dǎy",
+  "ງົວ": "Ngúa",
+  "ຂໍກາເຟສອງຈອກ ແລະເຝີສາມຖ້ວຍ": "Khɔ̌ɔ kǎa-féé sɔ̌ɔng jɔ̏ɔk, lɛ́ fɤ̌ɤ sǎam thûay.",
+  "ມີຈັກຄົນ": "Míi ják khón?",
+  "ສີ່ຄົນ": "Sìi khón.",
+  "ເອົານ້ຳຈັກແກ້ວ": "Ǎo nȁam ják kɛ̂ɛw?",
+  "ສີ່ແກ້ວ ຂອບໃຈ": "Sìi kɛ̂ɛw. Khɔ̏ɔp-jǎy.",
+  "ຄົນ": "khón",
+  "ໂຕ": "tǒo",
+  "ອັນ": "Ǎn",
+  "ຈອກ": "jɔ̏ɔk",
+  "ຖ້ວຍ": "Thûay",
+  "ຈານ": "Jǎan",
+  "ແກ້ວ": "Kɛ̂ɛw",
+  "ໜ່ວຍ": "Nùay",
+  "ຫົວ": "Hǔa",
+  "ຄັນ": "Khán",
+  "ຈັກ": "ják",
+  "ກາເຟສອງຈອກ": "Kǎa-féé sɔ̌ɔng jɔ̏ɔk",
+  "ໝາສາມໂຕ": "Mǎa sǎam tǒo",
+  "ລົດໜຶ່ງຄັນ": "Lōt nʉ̀ng khán",
+  "ຈັກຄົນ": "Ják khón?",
+  "ຂໍກາເຟສອງຈອກ": "Khɔ̌ɔ kǎa-féé sɔ̌ɔng jɔ̏ɔk.",
+  "ຂໍ": "khɔ̌ɔ",
+  "ກາເຟ": "kǎa-féé",
+  "ສອງ": "sɔ̌ɔng",
+  "ມີ": "míi",
+  "ສີ່": "sìi",
+  "ໝາ": "mǎa",
+  "ສາມ": "sǎam"
+ },
+ "suivi": "LEÇON : 23 — Partie C (Vie courante, A1) · Les classificateurs\nOBJECTIF : Compter les choses avec le bon classificateur et commander des quantités.\nNOTION : nom + nombre + classificateur\nVOCAB : Khón, Tǒo, Ǎn, Jɔ̏ɔk, Thûay, Jǎan, Kɛ̂ɛw, Nùay, Hǔa, Khán, Ják\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 24 — Au restaurant"
+}

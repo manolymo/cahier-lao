@@ -27,7 +27,7 @@
   },
   {
    "title": "Vocabulaire et blocs",
-   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ບ້ານ</td><td class=\"rom\">Bȁan</td><td>village ; maison</td><td>ບ + ້ + າ + ນ</td></tr><tr><td class=\"lo\">ປາ</td><td class=\"rom\">Pǎa</td><td>poisson</td><td>ປ + າ</td></tr><tr><td class=\"lo\">ຢາ</td><td class=\"rom\">Yǎa</td><td>médicament</td><td>ຢ + າ</td></tr><tr><td class=\"lo\">ອາ</td><td class=\"rom\">Ǎa</td><td>tante paternelle (cadette)</td><td>ອ porte la voyelle</td></tr><tr><td class=\"lo\">ຂຽນ</td><td class=\"rom\">Khǐan</td><td>écrire</td><td></td></tr><tr><td class=\"lo\">ຊ່ວຍ</td><td class=\"rom\">Sūay</td><td>aider</td><td></td></tr><tr><td class=\"lo\">ແດ່</td><td class=\"rom\">Dɛ̀ɛ</td><td>s&#x27;il te plaît (adoucit)</td><td>après le verbe</td></tr><tr><td class=\"lo\">ແບບນີ້</td><td class=\"rom\">Bɛ̏ɛp-nȉi</td><td>comme ça</td><td></td></tr><tr><td class=\"lo\">ງ່າຍ</td><td class=\"rom\">Ngāay</td><td>facile</td><td></td></tr><tr><td class=\"lo\">ລອງ</td><td class=\"rom\">Lɔ́ɔng</td><td>essayer</td><td></td></tr></table></div>"
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ບ້ານ</td><td class=\"rom\">Bâan</td><td>village ; maison</td><td>ບ + ້ + າ + ນ</td></tr><tr><td class=\"lo\">ປາ</td><td class=\"rom\">Pǎa</td><td>poisson</td><td>ປ + າ</td></tr><tr><td class=\"lo\">ຢາ</td><td class=\"rom\">Yǎa</td><td>médicament</td><td>ຢ + າ</td></tr><tr><td class=\"lo\">ອາ</td><td class=\"rom\">Ǎa</td><td>tante paternelle (cadette)</td><td>ອ porte la voyelle</td></tr><tr><td class=\"lo\">ຂຽນ</td><td class=\"rom\">Khǐan</td><td>écrire</td><td></td></tr><tr><td class=\"lo\">ຊ່ວຍ</td><td class=\"rom\">Sūay</td><td>aider</td><td></td></tr><tr><td class=\"lo\">ແດ່</td><td class=\"rom\">Dɛ̀ɛ</td><td>s&#x27;il te plaît (adoucit)</td><td>après le verbe</td></tr><tr><td class=\"lo\">ແບບນີ້</td><td class=\"rom\">Bɛ̏ɛp-nȉi</td><td>comme ça</td><td></td></tr><tr><td class=\"lo\">ງ່າຍ</td><td class=\"rom\">Ngāay</td><td>facile</td><td></td></tr><tr><td class=\"lo\">ລອງ</td><td class=\"rom\">Lɔ́ɔng</td><td>essayer</td><td></td></tr></table></div>"
   },
   {
    "title": "Point de langue : ອ, support de voyelle",
@@ -58,7 +58,7 @@
   {
    "id": "l07-v01",
    "front": "ບ້ານ",
-   "back": "Bȁan · village ; maison"
+   "back": "Bâan · village ; maison"
   },
   {
    "id": "l07-v02",
@@ -144,7 +144,7 @@
       "facile"
      ],
      "answer": "village ; maison",
-     "reveal": "<i>Bȁan</i>"
+     "reveal": "<i>Bâan</i>"
     },
     {
      "audio": [
@@ -433,7 +433,7 @@
  "speak": [
   {
    "lao": "ບ້ານ",
-   "rom": "Bȁan",
+   "rom": "Bâan",
    "fr": "village ; maison",
    "kind": "phrase"
   },
@@ -546,7 +546,7 @@
  "write": [
   {
    "lao": "ບ້ານ",
-   "rom": "Bȁan",
+   "rom": "Bâan",
    "fr": "village ; maison"
   },
   {
@@ -604,7 +604,7 @@
   "ຂອບໃຈ ແລ້ວຊື່ເຈົ້າເດ": "Khɔ̏ɔp-jǎy. Lɛ̏ɛw sʉ̄ʉ jâo dě?",
   "ແກ້ວ ງ່າຍໆ": "Kɛ̂ɛw. Ngāay ngāay.",
   "ໂອເຄ ຂ້ອຍຈະລອງ": "Ǒo-khéé, khɔ̂ɔy já lɔ́ɔng.",
-  "ບ້ານ": "Bȁan",
+  "ບ້ານ": "Bâan",
   "ປາ": "Pǎa",
   "ຢາ": "Yǎa",
   "ອາ": "Ǎa",
@@ -622,5 +622,5 @@
   "ຂ້ອຍ": "khɔ̂ɔy",
   "ຈະ": "já"
  },
- "suivi": "LEÇON : 7 — Partie B (Lire et écrire, A0→A1) · Consonnes de classe moyenne (2)\nOBJECTIF : Lire ບ ປ ຢ ອ, utiliser ອ comme support de voyelle et écrire ton prénom en lao.\nNOTION : ອ, support de voyelle\nVOCAB : Bȁan, Pǎa, Yǎa, Ǎa, Khǐan, Sūay, Dɛ̀ɛ, Bɛ̏ɛp-nȉi, Ngāay, Lɔ́ɔng\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 8 — Consonnes de classe haute"
+ "suivi": "LEÇON : 7 — Partie B (Lire et écrire, A0→A1) · Consonnes de classe moyenne (2)\nOBJECTIF : Lire ບ ປ ຢ ອ, utiliser ອ comme support de voyelle et écrire ton prénom en lao.\nNOTION : ອ, support de voyelle\nVOCAB : Bâan, Pǎa, Yǎa, Ǎa, Khǐan, Sūay, Dɛ̀ɛ, Bɛ̏ɛp-nȉi, Ngāay, Lɔ́ɔng\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 8 — Consonnes de classe haute"
 }

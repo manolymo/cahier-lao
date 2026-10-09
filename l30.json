@@ -1,0 +1,675 @@
+{
+ "num": 30,
+ "phase": "Partie C · Vie courante",
+ "title": "Jours, mois, dates",
+ "objective": "Dire les jours, les mois et ta date de naissance.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>heure du soir (19 h-23 h) <small class=\"muted\">(leçon 29)</small></li><li>difficile <small class=\"muted\">(leçon 27)</small></li><li>combien ? (petit nombre) <small class=\"muted\">(leçon 23)</small></li><li>bateau <small class=\"muted\">(leçon 16)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ທຸ່ມ</span> <span class=\"rom\">Thūm</span> · heure du soir (19 h-23 h)</li><li><span class=\"lo\">ຍາກ</span> <span class=\"rom\">Nyâak</span> · difficile</li><li><span class=\"lo\">ຈັກ</span> <span class=\"rom\">Ják</span> · combien ? (petit nombre)</li><li><span class=\"lo\">ເຮືອ</span> <span class=\"rom\">Hʉ́a</span> · bateau</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Dire les jours, les mois et ta date de naissance.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Kèo prépare son anniversaire.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ວັນເກີດຂອງຂ້ອຍແມ່ນວັນເສົາໜ້າ</span><span class=\"rom\">Wán-kɤ̏ɤt khɔ̌ɔng khɔ̂ɔy mɛ̄ɛn wán-sǎo nâa.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ວັນທີເທົ່າໃດ?</span><span class=\"rom\">Wán-thíi thāo-dǎy?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ວັນທີສິບຫ້າ</span><span class=\"rom\">Wán-thíi sīp hâa.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຈົ້າຈະອາຍຸຈັກປີ?</span><span class=\"rom\">Jâo já ǎa-nyū ják pǐi?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ສິບແປດປີ!</span><span class=\"rom\">Sīp pɛ̏ɛt pǐi!</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສຸກສັນວັນເກີດລ່ວງໜ້າ!</span><span class=\"rom\">Sūk-sǎn wán-kɤ̏ɤt lūang-nâa!</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Kèo</b> — Mon anniversaire, c&#x27;est samedi prochain.<br><b>Clara</b> — Le combien ?<br><b>Kèo</b> — Le quinze.<br><b>Clara</b> — Tu vas avoir quel âge ?<br><b>Kèo</b> — Dix-huit ans !<br><b>Clara</b> — Joyeux anniversaire en avance !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quand est l&#x27;anniversaire de Kèo ?</li><li>Quel âge va-t-il avoir ?</li></ol><details><summary>Réponses</summary><ol><li>Samedi prochain, le 15.</li><li>18 ans.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ວັນເກີດ</td><td class=\"rom\">Wán-kɤ̏ɤt</td><td>anniversaire</td><td></td></tr><tr><td class=\"lo\">ວັນຈັນ</td><td class=\"rom\">Wán-jǎn</td><td>lundi</td><td></td></tr><tr><td class=\"lo\">ວັນອັງຄານ</td><td class=\"rom\">Wán-ǎng-khǎan</td><td>mardi</td><td></td></tr><tr><td class=\"lo\">ວັນພຸດ</td><td class=\"rom\">Wán-phūt</td><td>mercredi</td><td></td></tr><tr><td class=\"lo\">ວັນພະຫັດ</td><td class=\"rom\">Wán-phā-hāt</td><td>jeudi</td><td></td></tr><tr><td class=\"lo\">ວັນສຸກ</td><td class=\"rom\">Wán-sūk</td><td>vendredi</td><td></td></tr><tr><td class=\"lo\">ວັນເສົາ</td><td class=\"rom\">Wán-sǎo</td><td>samedi</td><td></td></tr><tr><td class=\"lo\">ວັນອາທິດ</td><td class=\"rom\">Wán-ǎa-thīt</td><td>dimanche</td><td></td></tr><tr><td class=\"lo\">ວັນທີ</td><td class=\"rom\">Wán-thíi</td><td>date (le…)</td><td></td></tr><tr><td class=\"lo\">ເດືອນ</td><td class=\"rom\">Dʉ̌an</td><td>mois</td><td></td></tr><tr><td class=\"lo\">ສຸກສັນວັນເກີດ</td><td class=\"rom\">Sūk-sǎn wán-kɤ̏ɤt</td><td>joyeux anniversaire</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les ordinaux et les dates",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ວັນທີສິບຫ້າ</span> <span class=\"rom\">Wán-thíi sīp hâa</span> = le 15</li><li><span class=\"lo\">ທີໜຶ່ງ</span> <span class=\"rom\">Thíi-nʉ̀ng</span> = premier</li><li><span class=\"lo\">ລູກທີສອງ</span> <span class=\"rom\">Lûuk thíi sɔ̌ɔng</span> = le deuxième enfant</li></ul><p><b>À toi de trouver :</b></p><ol><li>Quel mot forme les ordinaux ?</li></ol><details><summary>La règle</summary><p>ທີ + nombre = ordinal (ທີໜຶ່ງ = premier). Pour la date : ວັນທີ + nombre + ເດືອນ + mois. Les mois officiels finissent en -ກົມ (31 jours) ou -ຍົນ (30 jours). [À VÉRIFIER]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les jours de la semaine.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>C&#x27;est quand ton anniversaire ?</li><li>Le quinze.</li><li>Joyeux anniversaire !</li><li>Samedi prochain.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ວັນເກີດຂອງເຈົ້າແມ່ນມື້ໃດ?</span> <span class=\"rom\">Wán-kɤ̏ɤt khɔ̌ɔng jâo mɛ̄ɛn mʉ̂ʉ-dǎy?</span></li><li><span class=\"lo\">ວັນທີສິບຫ້າ</span> <span class=\"rom\">Wán-thíi sīp hâa.</span></li><li><span class=\"lo\">ສຸກສັນວັນເກີດ!</span> <span class=\"rom\">Sūk-sǎn wán-kɤ̏ɤt!</span></li><li><span class=\"lo\">ວັນເສົາໜ້າ</span> <span class=\"rom\">Wán-sǎo nâa.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris les 7 jours de la semaine.</li><li>Écris ta date de naissance complète en lao.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Demande la date d&#x27;anniversaire de 3 personnes en lao et note-les.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>15 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l30-v01",
+   "front": "ວັນເກີດ",
+   "back": "Wán-kɤ̏ɤt · anniversaire"
+  },
+  {
+   "id": "l30-v02",
+   "front": "ວັນຈັນ",
+   "back": "Wán-jǎn · lundi"
+  },
+  {
+   "id": "l30-v03",
+   "front": "ວັນອັງຄານ",
+   "back": "Wán-ǎng-khǎan · mardi"
+  },
+  {
+   "id": "l30-v04",
+   "front": "ວັນພຸດ",
+   "back": "Wán-phūt · mercredi"
+  },
+  {
+   "id": "l30-v05",
+   "front": "ວັນພະຫັດ",
+   "back": "Wán-phā-hāt · jeudi"
+  },
+  {
+   "id": "l30-v06",
+   "front": "ວັນສຸກ",
+   "back": "Wán-sūk · vendredi"
+  },
+  {
+   "id": "l30-v07",
+   "front": "ວັນເສົາ",
+   "back": "Wán-sǎo · samedi"
+  },
+  {
+   "id": "l30-v08",
+   "front": "ວັນອາທິດ",
+   "back": "Wán-ǎa-thīt · dimanche"
+  },
+  {
+   "id": "l30-v09",
+   "front": "ວັນທີ",
+   "back": "Wán-thíi · date (le…)"
+  },
+  {
+   "id": "l30-v10",
+   "front": "ເດືອນ",
+   "back": "Dʉ̌an · mois"
+  },
+  {
+   "id": "l30-v11",
+   "front": "ສຸກສັນວັນເກີດ",
+   "back": "Sūk-sǎn wán-kɤ̏ɤt · joyeux anniversaire"
+  },
+  {
+   "id": "l30-p01",
+   "front": "C'est quand ton anniversaire ?",
+   "back": "ວັນເກີດຂອງເຈົ້າແມ່ນມື້ໃດ? · Wán-kɤ̏ɤt khɔ̌ɔng jâo mɛ̄ɛn mʉ̂ʉ-dǎy?"
+  },
+  {
+   "id": "l30-p02",
+   "front": "Le quinze.",
+   "back": "ວັນທີສິບຫ້າ · Wán-thíi sīp hâa."
+  },
+  {
+   "id": "l30-p03",
+   "front": "Joyeux anniversaire !",
+   "back": "ສຸກສັນວັນເກີດ! · Sūk-sǎn wán-kɤ̏ɤt!"
+  },
+  {
+   "id": "l30-p04",
+   "front": "Samedi prochain.",
+   "back": "ວັນເສົາໜ້າ · Wán-sǎo nâa."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ວັນເກີດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "anniversaire",
+      "jeudi",
+      "dimanche",
+      "joyeux anniversaire"
+     ],
+     "answer": "anniversaire",
+     "reveal": "<i>Wán-kɤ̏ɤt</i>"
+    },
+    {
+     "audio": [
+      "ວັນຈັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "lundi",
+      "mardi",
+      "anniversaire",
+      "mois"
+     ],
+     "answer": "lundi",
+     "reveal": "<i>Wán-jǎn</i>"
+    },
+    {
+     "audio": [
+      "ວັນອັງຄານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mardi",
+      "mois",
+      "lundi",
+      "vendredi"
+     ],
+     "answer": "mardi",
+     "reveal": "<i>Wán-ǎng-khǎan</i>"
+    },
+    {
+     "audio": [
+      "ວັນພຸດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mercredi",
+      "jeudi",
+      "date (le…)",
+      "mois"
+     ],
+     "answer": "mercredi",
+     "reveal": "<i>Wán-phūt</i>"
+    },
+    {
+     "audio": [
+      "ວັນພະຫັດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "jeudi",
+      "mercredi",
+      "dimanche",
+      "vendredi"
+     ],
+     "answer": "jeudi",
+     "reveal": "<i>Wán-phā-hāt</i>"
+    },
+    {
+     "audio": [
+      "ວັນສຸກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "vendredi",
+      "samedi",
+      "anniversaire",
+      "date (le…)"
+     ],
+     "answer": "vendredi",
+     "reveal": "<i>Wán-sūk</i>"
+    },
+    {
+     "audio": [
+      "ວັນເສົາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "samedi",
+      "dimanche",
+      "vendredi",
+      "joyeux anniversaire"
+     ],
+     "answer": "samedi",
+     "reveal": "<i>Wán-sǎo</i>"
+    },
+    {
+     "audio": [
+      "ວັນອາທິດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "dimanche",
+      "samedi",
+      "date (le…)",
+      "mercredi"
+     ],
+     "answer": "dimanche",
+     "reveal": "<i>Wán-ǎa-thīt</i>"
+    },
+    {
+     "audio": [
+      "ວັນທີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "date (le…)",
+      "vendredi",
+      "anniversaire",
+      "mercredi"
+     ],
+     "answer": "date (le…)",
+     "reveal": "<i>Wán-thíi</i>"
+    },
+    {
+     "audio": [
+      "ເດືອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mois",
+      "lundi",
+      "mardi",
+      "anniversaire"
+     ],
+     "answer": "mois",
+     "reveal": "<i>Dʉ̌an</i>"
+    },
+    {
+     "audio": [
+      "ສຸກສັນວັນເກີດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "joyeux anniversaire",
+      "anniversaire",
+      "jeudi",
+      "mercredi"
+     ],
+     "answer": "joyeux anniversaire",
+     "reveal": "<i>Sūk-sǎn wán-kɤ̏ɤt</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ວັນເກີດຂອງຂ້ອຍແມ່ນວັນເສົາໜ້າ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Mon anniversaire, c'est samedi prochain.",
+      "Dix-huit ans !",
+      "Le quinze.",
+      "Joyeux anniversaire en avance !"
+     ],
+     "answer": "Mon anniversaire, c'est samedi prochain.",
+     "reveal": "<i>Wán-kɤ̏ɤt khɔ̌ɔng khɔ̂ɔy mɛ̄ɛn wán-sǎo nâa.</i>"
+    },
+    {
+     "audio": [
+      "ວັນທີເທົ່າໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Le combien ?",
+      "Le quinze.",
+      "Tu vas avoir quel âge ?",
+      "Mon anniversaire, c'est samedi prochain."
+     ],
+     "answer": "Le combien ?",
+     "reveal": "<i>Wán-thíi thāo-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ວັນທີສິບຫ້າ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Le quinze.",
+      "Joyeux anniversaire en avance !",
+      "Tu vas avoir quel âge ?",
+      "Le combien ?"
+     ],
+     "answer": "Le quinze.",
+     "reveal": "<i>Wán-thíi sīp hâa.</i>"
+    },
+    {
+     "audio": [
+      "ເຈົ້າຈະອາຍຸຈັກປີ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu vas avoir quel âge ?",
+      "Joyeux anniversaire en avance !",
+      "Mon anniversaire, c'est samedi prochain.",
+      "Dix-huit ans !"
+     ],
+     "answer": "Tu vas avoir quel âge ?",
+     "reveal": "<i>Jâo já ǎa-nyū ják pǐi?</i>"
+    },
+    {
+     "audio": [
+      "ສິບແປດປີ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Dix-huit ans !",
+      "Tu vas avoir quel âge ?",
+      "Le combien ?",
+      "Le quinze."
+     ],
+     "answer": "Dix-huit ans !",
+     "reveal": "<i>Sīp pɛ̏ɛt pǐi!</i>"
+    },
+    {
+     "audio": [
+      "ສຸກສັນວັນເກີດລ່ວງໜ້າ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Joyeux anniversaire en avance !",
+      "Tu vas avoir quel âge ?",
+      "Mon anniversaire, c'est samedi prochain.",
+      "Le quinze."
+     ],
+     "answer": "Joyeux anniversaire en avance !",
+     "reveal": "<i>Sūk-sǎn wán-kɤ̏ɤt lūang-nâa!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ວັນເກີດຂອງເຈົ້າແມ່ນມື້ໃດ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est quand ton anniversaire ?",
+      "Joyeux anniversaire !",
+      "Le quinze.",
+      "Samedi prochain."
+     ],
+     "answer": "C'est quand ton anniversaire ?",
+     "reveal": "<i>Wán-kɤ̏ɤt khɔ̌ɔng jâo mɛ̄ɛn mʉ̂ʉ-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ວັນທີສິບຫ້າ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Le quinze.",
+      "C'est quand ton anniversaire ?",
+      "Samedi prochain.",
+      "Joyeux anniversaire !"
+     ],
+     "answer": "Le quinze.",
+     "reveal": "<i>Wán-thíi sīp hâa.</i>"
+    },
+    {
+     "audio": [
+      "ສຸກສັນວັນເກີດ!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Joyeux anniversaire !",
+      "Le quinze.",
+      "C'est quand ton anniversaire ?",
+      "Samedi prochain."
+     ],
+     "answer": "Joyeux anniversaire !",
+     "reveal": "<i>Sūk-sǎn wán-kɤ̏ɤt!</i>"
+    },
+    {
+     "audio": [
+      "ວັນເສົາໜ້າ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Samedi prochain.",
+      "Le quinze.",
+      "Joyeux anniversaire !",
+      "C'est quand ton anniversaire ?"
+     ],
+     "answer": "Samedi prochain.",
+     "reveal": "<i>Wán-sǎo nâa.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ວັນເກີດ",
+   "rom": "Wán-kɤ̏ɤt",
+   "fr": "anniversaire",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ວັນຈັນ",
+   "rom": "Wán-jǎn",
+   "fr": "lundi",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ວັນອັງຄານ",
+   "rom": "Wán-ǎng-khǎan",
+   "fr": "mardi",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ວັນພຸດ",
+   "rom": "Wán-phūt",
+   "fr": "mercredi",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ວັນພະຫັດ",
+   "rom": "Wán-phā-hāt",
+   "fr": "jeudi",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ວັນສຸກ",
+   "rom": "Wán-sūk",
+   "fr": "vendredi",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ວັນເສົາ",
+   "rom": "Wán-sǎo",
+   "fr": "samedi",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ວັນອາທິດ",
+   "rom": "Wán-ǎa-thīt",
+   "fr": "dimanche",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ວັນທີ",
+   "rom": "Wán-thíi",
+   "fr": "date (le…)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເດືອນ",
+   "rom": "Dʉ̌an",
+   "fr": "mois",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສຸກສັນວັນເກີດ",
+   "rom": "Sūk-sǎn wán-kɤ̏ɤt",
+   "fr": "joyeux anniversaire",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ວັນເກີດຂອງເຈົ້າແມ່ນມື້ໃດ?",
+   "rom": "Wán-kɤ̏ɤt khɔ̌ɔng jâo mɛ̄ɛn mʉ̂ʉ-dǎy?",
+   "fr": "C'est quand ton anniversaire ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ວັນທີສິບຫ້າ",
+   "rom": "Wán-thíi sīp hâa.",
+   "fr": "Le quinze.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສຸກສັນວັນເກີດ!",
+   "rom": "Sūk-sǎn wán-kɤ̏ɤt!",
+   "fr": "Joyeux anniversaire !",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ວັນເສົາໜ້າ",
+   "rom": "Wán-sǎo nâa.",
+   "fr": "Samedi prochain.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ວັນເກີດ",
+    "ຂອງ",
+    "ເຈົ້າ",
+    "ແມ່ນ",
+    "ມື້ໃດ"
+   ],
+   "rom": "Wán-kɤ̏ɤt khɔ̌ɔng jâo mɛ̄ɛn mʉ̂ʉ-dǎy?",
+   "fr": "C'est quand ton anniversaire ?"
+  },
+  {
+   "tokens": [
+    "ວັນທີ",
+    "ສິບ",
+    "ຫ້າ"
+   ],
+   "rom": "Wán-thíi sīp hâa.",
+   "fr": "Le quinze."
+  },
+  {
+   "tokens": [
+    "ສຸກສັນ",
+    "ວັນເກີດ"
+   ],
+   "rom": "Sūk-sǎn wán-kɤ̏ɤt!",
+   "fr": "Joyeux anniversaire !"
+  },
+  {
+   "tokens": [
+    "ວັນເສົາ",
+    "ໜ້າ"
+   ],
+   "rom": "Wán-sǎo nâa.",
+   "fr": "Samedi prochain."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ວັນເກີດ",
+   "rom": "Wán-kɤ̏ɤt",
+   "fr": "anniversaire"
+  },
+  {
+   "lao": "ວັນຈັນ",
+   "rom": "Wán-jǎn",
+   "fr": "lundi"
+  },
+  {
+   "lao": "ວັນອັງຄານ",
+   "rom": "Wán-ǎng-khǎan",
+   "fr": "mardi"
+  },
+  {
+   "lao": "ວັນພຸດ",
+   "rom": "Wán-phūt",
+   "fr": "mercredi"
+  },
+  {
+   "lao": "ວັນພະຫັດ",
+   "rom": "Wán-phā-hāt",
+   "fr": "jeudi"
+  },
+  {
+   "lao": "ວັນສຸກ",
+   "rom": "Wán-sūk",
+   "fr": "vendredi"
+  },
+  {
+   "lao": "ວັນເສົາ",
+   "rom": "Wán-sǎo",
+   "fr": "samedi"
+  },
+  {
+   "lao": "ວັນອາທິດ",
+   "rom": "Wán-ǎa-thīt",
+   "fr": "dimanche"
+  },
+  {
+   "lao": "ວັນທີ",
+   "rom": "Wán-thíi",
+   "fr": "date (le…)"
+  },
+  {
+   "lao": "ເດືອນ",
+   "rom": "Dʉ̌an",
+   "fr": "mois"
+  },
+  {
+   "lao": "ສຸກສັນວັນເກີດ",
+   "rom": "Sūk-sǎn wán-kɤ̏ɤt",
+   "fr": "joyeux anniversaire"
+  }
+ ],
+ "sounds": {
+  "ທຸ່ມ": "Thūm",
+  "ຍາກ": "Nyâak",
+  "ຈັກ": "Ják",
+  "ເຮືອ": "Hʉ́a",
+  "ວັນເກີດຂອງຂ້ອຍແມ່ນວັນເສົາໜ້າ": "Wán-kɤ̏ɤt khɔ̌ɔng khɔ̂ɔy mɛ̄ɛn wán-sǎo nâa.",
+  "ວັນທີເທົ່າໃດ": "Wán-thíi thāo-dǎy?",
+  "ວັນທີສິບຫ້າ": "Wán-thíi sīp hâa.",
+  "ເຈົ້າຈະອາຍຸຈັກປີ": "Jâo já ǎa-nyū ják pǐi?",
+  "ສິບແປດປີ": "Sīp pɛ̏ɛt pǐi!",
+  "ສຸກສັນວັນເກີດລ່ວງໜ້າ": "Sūk-sǎn wán-kɤ̏ɤt lūang-nâa!",
+  "ວັນເກີດ": "wán-kɤ̏ɤt",
+  "ວັນຈັນ": "Wán-jǎn",
+  "ວັນອັງຄານ": "Wán-ǎng-khǎan",
+  "ວັນພຸດ": "Wán-phūt",
+  "ວັນພະຫັດ": "Wán-phā-hāt",
+  "ວັນສຸກ": "Wán-sūk",
+  "ວັນເສົາ": "wán-sǎo",
+  "ວັນອາທິດ": "Wán-ǎa-thīt",
+  "ວັນທີ": "wán-thíi",
+  "ເດືອນ": "Dʉ̌an",
+  "ສຸກສັນວັນເກີດ": "Sūk-sǎn wán-kɤ̏ɤt!",
+  "ທີໜຶ່ງ": "Thíi-nʉ̀ng",
+  "ລູກທີສອງ": "Lûuk thíi sɔ̌ɔng",
+  "ວັນເກີດຂອງເຈົ້າແມ່ນມື້ໃດ": "Wán-kɤ̏ɤt khɔ̌ɔng jâo mɛ̄ɛn mʉ̂ʉ-dǎy?",
+  "ວັນເສົາໜ້າ": "Wán-sǎo nâa.",
+  "ຂອງ": "khɔ̌ɔng",
+  "ເຈົ້າ": "jâo",
+  "ແມ່ນ": "mɛ̄ɛn",
+  "ມື້ໃດ": "mʉ̂ʉ-dǎy",
+  "ສິບ": "sīp",
+  "ຫ້າ": "hâa",
+  "ສຸກສັນ": "sūk-sǎn",
+  "ໜ້າ": "nâa"
+ },
+ "suivi": "LEÇON : 30 — Partie C (Vie courante, A1) · Jours, mois, dates\nOBJECTIF : Dire les jours, les mois et ta date de naissance.\nNOTION : les ordinaux et les dates\nVOCAB : Wán-kɤ̏ɤt, Wán-jǎn, Wán-ǎng-khǎan, Wán-phūt, Wán-phā-hāt, Wán-sūk, Wán-sǎo, Wán-ǎa-thīt, Wán-thíi, Dʉ̌an, Sūk-sǎn wán-kɤ̏ɤt\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 31 — Où est… ?"
+}

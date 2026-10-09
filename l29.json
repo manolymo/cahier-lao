@@ -1,0 +1,666 @@
+{
+ "num": 29,
+ "phase": "Partie C · Vie courante",
+ "title": "L'heure",
+ "objective": "Dire et demander l'heure et fixer un rendez-vous.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>grand-père (adresse) <small class=\"muted\">(leçon 28)</small></li><li>petit frère <small class=\"muted\">(leçon 26)</small></li><li>combien ? <small class=\"muted\">(leçon 22)</small></li><li>mignon <small class=\"muted\">(leçon 15)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ພໍ່ຕູ້</span> <span class=\"rom\">Phɔ̄ɔ-tûu</span> · grand-père (adresse)</li><li><span class=\"lo\">ນ້ອງຊາຍ</span> <span class=\"rom\">Nɔ̏ɔng-sáay</span> · petit frère</li><li><span class=\"lo\">ເທົ່າໃດ</span> <span class=\"rom\">Thāo-dǎy</span> · combien ?</li><li><span class=\"lo\">ໜ້າຮັກ</span> <span class=\"rom\">Nâa-hāk</span> · mignon</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Dire et demander l&#x27;heure et fixer un rendez-vous.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Noy et Clara fixent un rendez-vous.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຕອນນີ້ຈັກໂມງແລ້ວ?</span><span class=\"rom\">Tɔ̌ɔn-nȉi ják móong lɛ̏ɛw?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ສາມໂມງແລງ</span><span class=\"rom\">Sǎam móong lɛ́ɛng.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ມື້ອື່ນພົບກັນຈັກໂມງ?</span><span class=\"rom\">Mʉ̂ʉ-ʉ̀ʉn phōp kǎn ják móong?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເກົ້າໂມງເຊົ້າໄດ້ບໍ?</span><span class=\"rom\">Kâo móong sȁo dâay bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໄດ້ ຢ່າມາຊ້າເດີ!</span><span class=\"rom\">Dâay. Yàa máa sȁa dɤ̌ɤ!</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Il est quelle heure ?<br><b>Noy</b> — Trois heures de l&#x27;après-midi.<br><b>Clara</b> — Demain, on se retrouve à quelle heure ?<br><b>Noy</b> — Neuf heures du matin, ça va ?<br><b>Clara</b> — Oui. Ne sois pas en retard !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quelle heure est-il ?</li><li>À quelle heure est le rendez-vous ?</li></ol><details><summary>Réponses</summary><ol><li>Trois heures de l&#x27;après-midi.</li><li>Neuf heures du matin, demain.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ໂມງ</td><td class=\"rom\">Móong</td><td>heure</td><td></td></tr><tr><td class=\"lo\">ຈັກໂມງ</td><td class=\"rom\">Ják móong</td><td>quelle heure ?</td><td></td></tr><tr><td class=\"lo\">ໂມງເຊົ້າ</td><td class=\"rom\">Móong-sȁo</td><td>heure du matin</td><td></td></tr><tr><td class=\"lo\">ຕອນເຊົ້າ</td><td class=\"rom\">Tɔ̌ɔn-sȁo</td><td>le matin</td><td></td></tr><tr><td class=\"lo\">ຕອນບ່າຍ</td><td class=\"rom\">Tɔ̌ɔn-bàay</td><td>l&#x27;après-midi</td><td></td></tr><tr><td class=\"lo\">ຕອນແລງ</td><td class=\"rom\">Tɔ̌ɔn-lɛ́ɛng</td><td>le soir</td><td></td></tr><tr><td class=\"lo\">ທຸ່ມ</td><td class=\"rom\">Thūm</td><td>heure du soir (19 h-23 h)</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ເຄິ່ງ</td><td class=\"rom\">Khɤ̄ng</td><td>demi</td><td></td></tr><tr><td class=\"lo\">ນາທີ</td><td class=\"rom\">Náa-thíi</td><td>minute</td><td></td></tr><tr><td class=\"lo\">ຊ້າ</td><td class=\"rom\">Sȁa</td><td>en retard ; lent</td><td></td></tr><tr><td class=\"lo\">ມື້ອື່ນ</td><td class=\"rom\">Mʉ̂ʉ-ʉ̀ʉn</td><td>demain</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : le découpage lao de la journée",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ເກົ້າໂມງເຊົ້າ</span> <span class=\"rom\">Kâo móong sȁo</span> = 9 h du matin</li><li><span class=\"lo\">ສາມໂມງແລງ</span> <span class=\"rom\">Sǎam móong lɛ́ɛng</span> = 15 h</li><li><span class=\"lo\">ສອງທຸ່ມ</span> <span class=\"rom\">Sɔ̌ɔng thūm</span> = 20 h</li><li><span class=\"lo\">ສິບໂມງເຄິ່ງ</span> <span class=\"rom\">Sīp móong khɤ̄ng</span> = 10 h 30</li></ul><p><b>À toi de trouver :</b></p><ol><li>Comment précise-t-on matin ou après-midi ?</li></ol><details><summary>La règle</summary><p>À l'oral, on dit souvent le nombre + ໂມງ + le moment de la journée (ເຊົ້າ, ແລງ…). Le soir, on compte parfois en ທຸ່ມ. On peut aussi utiliser le système sur 24 heures. [À VÉRIFIER : usage exact de ທຸ່ມ à Vientiane]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> le moment de la journée après l&#x27;heure.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Il est quelle heure ?</li><li>Neuf heures du matin.</li><li>On se retrouve à quelle heure ?</li><li>Ne sois pas en retard !</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຕອນນີ້ຈັກໂມງແລ້ວ?</span> <span class=\"rom\">Tɔ̌ɔn-nȉi ják móong lɛ̏ɛw?</span></li><li><span class=\"lo\">ເກົ້າໂມງເຊົ້າ</span> <span class=\"rom\">Kâo móong sȁo.</span></li><li><span class=\"lo\">ພົບກັນຈັກໂມງ?</span> <span class=\"rom\">Phōp kǎn ják móong?</span></li><li><span class=\"lo\">ຢ່າມາຊ້າເດີ!</span> <span class=\"rom\">Yàa máa sȁa dɤ̌ɤ!</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris ton emploi du temps d&#x27;une journée avec les heures en lao.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Fixe un vrai rendez-vous en lao avec un natif (jour et heure).</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>15 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l29-v01",
+   "front": "ໂມງ",
+   "back": "Móong · heure"
+  },
+  {
+   "id": "l29-v02",
+   "front": "ຈັກໂມງ",
+   "back": "Ják móong · quelle heure ?"
+  },
+  {
+   "id": "l29-v03",
+   "front": "ໂມງເຊົ້າ",
+   "back": "Móong-sȁo · heure du matin"
+  },
+  {
+   "id": "l29-v04",
+   "front": "ຕອນເຊົ້າ",
+   "back": "Tɔ̌ɔn-sȁo · le matin"
+  },
+  {
+   "id": "l29-v05",
+   "front": "ຕອນບ່າຍ",
+   "back": "Tɔ̌ɔn-bàay · l'après-midi"
+  },
+  {
+   "id": "l29-v06",
+   "front": "ຕອນແລງ",
+   "back": "Tɔ̌ɔn-lɛ́ɛng · le soir"
+  },
+  {
+   "id": "l29-v07",
+   "front": "ທຸ່ມ",
+   "back": "Thūm · heure du soir (19 h-23 h)"
+  },
+  {
+   "id": "l29-v08",
+   "front": "ເຄິ່ງ",
+   "back": "Khɤ̄ng · demi"
+  },
+  {
+   "id": "l29-v09",
+   "front": "ນາທີ",
+   "back": "Náa-thíi · minute"
+  },
+  {
+   "id": "l29-v10",
+   "front": "ຊ້າ",
+   "back": "Sȁa · en retard ; lent"
+  },
+  {
+   "id": "l29-v11",
+   "front": "ມື້ອື່ນ",
+   "back": "Mʉ̂ʉ-ʉ̀ʉn · demain"
+  },
+  {
+   "id": "l29-p01",
+   "front": "Il est quelle heure ?",
+   "back": "ຕອນນີ້ຈັກໂມງແລ້ວ? · Tɔ̌ɔn-nȉi ják móong lɛ̏ɛw?"
+  },
+  {
+   "id": "l29-p02",
+   "front": "Neuf heures du matin.",
+   "back": "ເກົ້າໂມງເຊົ້າ · Kâo móong sȁo."
+  },
+  {
+   "id": "l29-p03",
+   "front": "On se retrouve à quelle heure ?",
+   "back": "ພົບກັນຈັກໂມງ? · Phōp kǎn ják móong?"
+  },
+  {
+   "id": "l29-p04",
+   "front": "Ne sois pas en retard !",
+   "back": "ຢ່າມາຊ້າເດີ! · Yàa máa sȁa dɤ̌ɤ!"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ໂມງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "heure",
+      "le soir",
+      "le matin",
+      "demi"
+     ],
+     "answer": "heure",
+     "reveal": "<i>Móong</i>"
+    },
+    {
+     "audio": [
+      "ຈັກໂມງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "quelle heure ?",
+      "heure du soir (19 h-23 h)",
+      "le matin",
+      "demain"
+     ],
+     "answer": "quelle heure ?",
+     "reveal": "<i>Ják móong</i>"
+    },
+    {
+     "audio": [
+      "ໂມງເຊົ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "heure du matin",
+      "heure du soir (19 h-23 h)",
+      "le soir",
+      "demi"
+     ],
+     "answer": "heure du matin",
+     "reveal": "<i>Móong-sȁo</i>"
+    },
+    {
+     "audio": [
+      "ຕອນເຊົ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "le matin",
+      "demi",
+      "le soir",
+      "minute"
+     ],
+     "answer": "le matin",
+     "reveal": "<i>Tɔ̌ɔn-sȁo</i>"
+    },
+    {
+     "audio": [
+      "ຕອນບ່າຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "l'après-midi",
+      "le matin",
+      "quelle heure ?",
+      "heure du matin"
+     ],
+     "answer": "l'après-midi",
+     "reveal": "<i>Tɔ̌ɔn-bàay</i>"
+    },
+    {
+     "audio": [
+      "ຕອນແລງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "le soir",
+      "demain",
+      "l'après-midi",
+      "heure du soir (19 h-23 h)"
+     ],
+     "answer": "le soir",
+     "reveal": "<i>Tɔ̌ɔn-lɛ́ɛng</i>"
+    },
+    {
+     "audio": [
+      "ທຸ່ມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "heure du soir (19 h-23 h)",
+      "heure",
+      "quelle heure ?",
+      "en retard ; lent"
+     ],
+     "answer": "heure du soir (19 h-23 h)",
+     "reveal": "<i>Thūm</i>"
+    },
+    {
+     "audio": [
+      "ເຄິ່ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "demi",
+      "heure du matin",
+      "le matin",
+      "demain"
+     ],
+     "answer": "demi",
+     "reveal": "<i>Khɤ̄ng</i>"
+    },
+    {
+     "audio": [
+      "ນາທີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "minute",
+      "le soir",
+      "le matin",
+      "en retard ; lent"
+     ],
+     "answer": "minute",
+     "reveal": "<i>Náa-thíi</i>"
+    },
+    {
+     "audio": [
+      "ຊ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "en retard ; lent",
+      "demain",
+      "le soir",
+      "minute"
+     ],
+     "answer": "en retard ; lent",
+     "reveal": "<i>Sȁa</i>"
+    },
+    {
+     "audio": [
+      "ມື້ອື່ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "demain",
+      "le soir",
+      "heure du soir (19 h-23 h)",
+      "le matin"
+     ],
+     "answer": "demain",
+     "reveal": "<i>Mʉ̂ʉ-ʉ̀ʉn</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຕອນນີ້ຈັກໂມງແລ້ວ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Il est quelle heure ?",
+      "Oui. Ne sois pas en retard !",
+      "Neuf heures du matin, ça va ?",
+      "Demain, on se retrouve à quelle heure ?"
+     ],
+     "answer": "Il est quelle heure ?",
+     "reveal": "<i>Tɔ̌ɔn-nȉi ják móong lɛ̏ɛw?</i>"
+    },
+    {
+     "audio": [
+      "ສາມໂມງແລງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Trois heures de l'après-midi.",
+      "Neuf heures du matin, ça va ?",
+      "Il est quelle heure ?",
+      "Demain, on se retrouve à quelle heure ?"
+     ],
+     "answer": "Trois heures de l'après-midi.",
+     "reveal": "<i>Sǎam móong lɛ́ɛng.</i>"
+    },
+    {
+     "audio": [
+      "ມື້ອື່ນພົບກັນຈັກໂມງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Demain, on se retrouve à quelle heure ?",
+      "Neuf heures du matin, ça va ?",
+      "Trois heures de l'après-midi.",
+      "Il est quelle heure ?"
+     ],
+     "answer": "Demain, on se retrouve à quelle heure ?",
+     "reveal": "<i>Mʉ̂ʉ-ʉ̀ʉn phōp kǎn ják móong?</i>"
+    },
+    {
+     "audio": [
+      "ເກົ້າໂມງເຊົ້າໄດ້ບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Neuf heures du matin, ça va ?",
+      "Oui. Ne sois pas en retard !",
+      "Demain, on se retrouve à quelle heure ?",
+      "Trois heures de l'après-midi."
+     ],
+     "answer": "Neuf heures du matin, ça va ?",
+     "reveal": "<i>Kâo móong sȁo dâay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້ ຢ່າມາຊ້າເດີ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oui. Ne sois pas en retard !",
+      "Trois heures de l'après-midi.",
+      "Il est quelle heure ?",
+      "Demain, on se retrouve à quelle heure ?"
+     ],
+     "answer": "Oui. Ne sois pas en retard !",
+     "reveal": "<i>Dâay. Yàa máa sȁa dɤ̌ɤ!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຕອນນີ້ຈັກໂມງແລ້ວ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il est quelle heure ?",
+      "Neuf heures du matin.",
+      "Ne sois pas en retard !",
+      "On se retrouve à quelle heure ?"
+     ],
+     "answer": "Il est quelle heure ?",
+     "reveal": "<i>Tɔ̌ɔn-nȉi ják móong lɛ̏ɛw?</i>"
+    },
+    {
+     "audio": [
+      "ເກົ້າໂມງເຊົ້າ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Neuf heures du matin.",
+      "On se retrouve à quelle heure ?",
+      "Il est quelle heure ?",
+      "Ne sois pas en retard !"
+     ],
+     "answer": "Neuf heures du matin.",
+     "reveal": "<i>Kâo móong sȁo.</i>"
+    },
+    {
+     "audio": [
+      "ພົບກັນຈັກໂມງ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "On se retrouve à quelle heure ?",
+      "Ne sois pas en retard !",
+      "Neuf heures du matin.",
+      "Il est quelle heure ?"
+     ],
+     "answer": "On se retrouve à quelle heure ?",
+     "reveal": "<i>Phōp kǎn ják móong?</i>"
+    },
+    {
+     "audio": [
+      "ຢ່າມາຊ້າເດີ!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Ne sois pas en retard !",
+      "Il est quelle heure ?",
+      "Neuf heures du matin.",
+      "On se retrouve à quelle heure ?"
+     ],
+     "answer": "Ne sois pas en retard !",
+     "reveal": "<i>Yàa máa sȁa dɤ̌ɤ!</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ໂມງ",
+   "rom": "Móong",
+   "fr": "heure",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈັກໂມງ",
+   "rom": "Ják móong",
+   "fr": "quelle heure ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂມງເຊົ້າ",
+   "rom": "Móong-sȁo",
+   "fr": "heure du matin",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕອນເຊົ້າ",
+   "rom": "Tɔ̌ɔn-sȁo",
+   "fr": "le matin",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕອນບ່າຍ",
+   "rom": "Tɔ̌ɔn-bàay",
+   "fr": "l'après-midi",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕອນແລງ",
+   "rom": "Tɔ̌ɔn-lɛ́ɛng",
+   "fr": "le soir",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທຸ່ມ",
+   "rom": "Thūm",
+   "fr": "heure du soir (19 h-23 h)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຄິ່ງ",
+   "rom": "Khɤ̄ng",
+   "fr": "demi",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນາທີ",
+   "rom": "Náa-thíi",
+   "fr": "minute",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊ້າ",
+   "rom": "Sȁa",
+   "fr": "en retard ; lent",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມື້ອື່ນ",
+   "rom": "Mʉ̂ʉ-ʉ̀ʉn",
+   "fr": "demain",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕອນນີ້ຈັກໂມງແລ້ວ?",
+   "rom": "Tɔ̌ɔn-nȉi ják móong lɛ̏ɛw?",
+   "fr": "Il est quelle heure ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເກົ້າໂມງເຊົ້າ",
+   "rom": "Kâo móong sȁo.",
+   "fr": "Neuf heures du matin.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພົບກັນຈັກໂມງ?",
+   "rom": "Phōp kǎn ják móong?",
+   "fr": "On se retrouve à quelle heure ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຢ່າມາຊ້າເດີ!",
+   "rom": "Yàa máa sȁa dɤ̌ɤ!",
+   "fr": "Ne sois pas en retard !",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຕອນນີ້",
+    "ຈັກ",
+    "ໂມງ",
+    "ແລ້ວ"
+   ],
+   "rom": "Tɔ̌ɔn-nȉi ják móong lɛ̏ɛw?",
+   "fr": "Il est quelle heure ?"
+  },
+  {
+   "tokens": [
+    "ເກົ້າ",
+    "ໂມງ",
+    "ເຊົ້າ"
+   ],
+   "rom": "Kâo móong sȁo.",
+   "fr": "Neuf heures du matin."
+  },
+  {
+   "tokens": [
+    "ພົບ",
+    "ກັນ",
+    "ຈັກ",
+    "ໂມງ"
+   ],
+   "rom": "Phōp kǎn ják móong?",
+   "fr": "On se retrouve à quelle heure ?"
+  },
+  {
+   "tokens": [
+    "ຢ່າ",
+    "ມາ",
+    "ຊ້າ",
+    "ເດີ"
+   ],
+   "rom": "Yàa máa sȁa dɤ̌ɤ!",
+   "fr": "Ne sois pas en retard !"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ໂມງ",
+   "rom": "Móong",
+   "fr": "heure"
+  },
+  {
+   "lao": "ຈັກໂມງ",
+   "rom": "Ják móong",
+   "fr": "quelle heure ?"
+  },
+  {
+   "lao": "ໂມງເຊົ້າ",
+   "rom": "Móong-sȁo",
+   "fr": "heure du matin"
+  },
+  {
+   "lao": "ຕອນເຊົ້າ",
+   "rom": "Tɔ̌ɔn-sȁo",
+   "fr": "le matin"
+  },
+  {
+   "lao": "ຕອນບ່າຍ",
+   "rom": "Tɔ̌ɔn-bàay",
+   "fr": "l'après-midi"
+  },
+  {
+   "lao": "ຕອນແລງ",
+   "rom": "Tɔ̌ɔn-lɛ́ɛng",
+   "fr": "le soir"
+  },
+  {
+   "lao": "ທຸ່ມ",
+   "rom": "Thūm",
+   "fr": "heure du soir (19 h-23 h)"
+  },
+  {
+   "lao": "ເຄິ່ງ",
+   "rom": "Khɤ̄ng",
+   "fr": "demi"
+  },
+  {
+   "lao": "ນາທີ",
+   "rom": "Náa-thíi",
+   "fr": "minute"
+  },
+  {
+   "lao": "ຊ້າ",
+   "rom": "Sȁa",
+   "fr": "en retard ; lent"
+  },
+  {
+   "lao": "ມື້ອື່ນ",
+   "rom": "Mʉ̂ʉ-ʉ̀ʉn",
+   "fr": "demain"
+  }
+ ],
+ "sounds": {
+  "ພໍ່ຕູ້": "Phɔ̄ɔ-tûu",
+  "ນ້ອງຊາຍ": "Nɔ̏ɔng-sáay",
+  "ເທົ່າໃດ": "Thāo-dǎy",
+  "ໜ້າຮັກ": "Nâa-hāk",
+  "ຕອນນີ້ຈັກໂມງແລ້ວ": "Tɔ̌ɔn-nȉi ják móong lɛ̏ɛw?",
+  "ສາມໂມງແລງ": "Sǎam móong lɛ́ɛng",
+  "ມື້ອື່ນພົບກັນຈັກໂມງ": "Mʉ̂ʉ-ʉ̀ʉn phōp kǎn ják móong?",
+  "ເກົ້າໂມງເຊົ້າໄດ້ບໍ": "Kâo móong sȁo dâay bɔ̌ɔ?",
+  "ໄດ້ ຢ່າມາຊ້າເດີ": "Dâay. Yàa máa sȁa dɤ̌ɤ!",
+  "ໂມງ": "móong",
+  "ຈັກໂມງ": "Ják móong",
+  "ໂມງເຊົ້າ": "Móong-sȁo",
+  "ຕອນເຊົ້າ": "Tɔ̌ɔn-sȁo",
+  "ຕອນບ່າຍ": "Tɔ̌ɔn-bàay",
+  "ຕອນແລງ": "Tɔ̌ɔn-lɛ́ɛng",
+  "ທຸ່ມ": "Thūm",
+  "ເຄິ່ງ": "Khɤ̄ng",
+  "ນາທີ": "Náa-thíi",
+  "ຊ້າ": "sȁa",
+  "ມື້ອື່ນ": "Mʉ̂ʉ-ʉ̀ʉn",
+  "ເກົ້າໂມງເຊົ້າ": "Kâo móong sȁo.",
+  "ສອງທຸ່ມ": "Sɔ̌ɔng thūm",
+  "ສິບໂມງເຄິ່ງ": "Sīp móong khɤ̄ng",
+  "ພົບກັນຈັກໂມງ": "Phōp kǎn ják móong?",
+  "ຢ່າມາຊ້າເດີ": "Yàa máa sȁa dɤ̌ɤ!",
+  "ຕອນນີ້": "tɔ̌ɔn-nȉi",
+  "ຈັກ": "ják",
+  "ແລ້ວ": "lɛ̏ɛw",
+  "ເກົ້າ": "kâo",
+  "ເຊົ້າ": "sȁo",
+  "ພົບ": "phōp",
+  "ກັນ": "kǎn",
+  "ຢ່າ": "yàa",
+  "ມາ": "máa",
+  "ເດີ": "dɤ̌ɤ"
+ },
+ "suivi": "LEÇON : 29 — Partie C (Vie courante, A1) · L'heure\nOBJECTIF : Dire et demander l'heure et fixer un rendez-vous.\nNOTION : le découpage lao de la journée\nVOCAB : Móong, Ják móong, Móong-sȁo, Tɔ̌ɔn-sȁo, Tɔ̌ɔn-bàay, Tɔ̌ɔn-lɛ́ɛng, Thūm, Khɤ̄ng, Náa-thíi, Sȁa, Mʉ̂ʉ-ʉ̀ʉn\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 30 — Jours, mois, dates"
+}

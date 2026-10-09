@@ -1,0 +1,652 @@
+{
+ "num": 22,
+ "phase": "Partie C · Vie courante",
+ "title": "Combien ça coûte ?",
+ "objective": "Demander un prix, comprendre les grands nombres en kips et payer.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>un <small class=\"muted\">(leçon 21)</small></li><li>recevoir <small class=\"muted\">(leçon 19)</small></li><li>petit-enfant ; neveu, nièce <small class=\"muted\">(leçon 15)</small></li><li>cinq <small class=\"muted\">(leçon 8)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ໜຶ່ງ</span> <span class=\"rom\">Nʉ̀ng</span> · un</li><li><span class=\"lo\">ໄດ້ຮັບ</span> <span class=\"rom\">Dâay-hāp</span> · recevoir</li><li><span class=\"lo\">ຫຼານ</span> <span class=\"rom\">Lǎan</span> · petit-enfant ; neveu, nièce</li><li><span class=\"lo\">ຫ້າ</span> <span class=\"rom\">Hâa</span> · cinq</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Demander un prix, comprendre les grands nombres en kips et payer.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara achète un sac au marché.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ກະເປົານີ້ເທົ່າໃດ?</span><span class=\"rom\">Kā-pǎo nȉi thāo-dǎy?</span></div></div><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ຫ້າສິບພັນກີບ</span><span class=\"rom\">Hâa-sīp-phán kȉip.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແພງໂພດ! ຫຼຸດໄດ້ບໍ?</span><span class=\"rom\">Phɛ́ɛng phôot! Lūt dâay bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ສີ່ສິບພັນກໍໄດ້</span><span class=\"rom\">Sìi-sīp phán kɔ̂ɔ dâay.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໂອເຄ ເອົາ</span><span class=\"rom\">Ǒo-khéé, ǎo.</span></div></div><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ຂອບໃຈເດີເອື້ອຍ</span><span class=\"rom\">Khɔ̏ɔp-jǎy dɤ̌ɤ ʉ̂ay.</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Combien coûte ce sac ?<br><b>La vendeuse</b> — Cinquante mille kips.<br><b>Clara</b> — C&#x27;est trop cher ! Vous pouvez baisser ?<br><b>La vendeuse</b> — Quarante mille, d&#x27;accord.<br><b>Clara</b> — OK, je le prends.<br><b>La vendeuse</b> — Merci !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quel est le premier prix ?</li><li>Quel est le prix final ?</li></ol><details><summary>Réponses</summary><ol><li>50 000 kips.</li><li>40 000 kips.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ເທົ່າໃດ</td><td class=\"rom\">Thāo-dǎy</td><td>combien ?</td><td></td></tr><tr><td class=\"lo\">ພັນ</td><td class=\"rom\">Phán</td><td>mille</td><td></td></tr><tr><td class=\"lo\">ສິບພັນ</td><td class=\"rom\">Sīp-phán</td><td>dix mille</td><td>on compte en milliers</td></tr><tr><td class=\"lo\">ແສນ</td><td class=\"rom\">Sɛ̌ɛn</td><td>cent mille</td><td></td></tr><tr><td class=\"lo\">ລ້ານ</td><td class=\"rom\">Lȁan</td><td>million</td><td></td></tr><tr><td class=\"lo\">ກີບ</td><td class=\"rom\">Kȉip</td><td>kip</td><td></td></tr><tr><td class=\"lo\">ແພງ</td><td class=\"rom\">Phɛ́ɛng</td><td>cher</td><td></td></tr><tr><td class=\"lo\">ຖືກ</td><td class=\"rom\">Thʉ̀ʉk</td><td>bon marché</td><td></td></tr><tr><td class=\"lo\">ຫຼຸດ</td><td class=\"rom\">Lūt</td><td>baisser (le prix)</td><td></td></tr><tr><td class=\"lo\">ກະເປົາ</td><td class=\"rom\">Kā-pǎo</td><td>sac</td><td></td></tr><tr><td class=\"lo\">ຈ່າຍ</td><td class=\"rom\">Jàay</td><td>payer</td><td></td></tr></table></div><p class=\"note\">Au marché, négocier est normal pour les objets et les vêtements, beaucoup moins pour la nourriture. Souris, reste léger.</p>"
+  },
+  {
+   "title": "Point de langue : les grands nombres",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຫ້າພັນ</span> <span class=\"rom\">Hâa-phán</span> = 5 000</li><li><span class=\"lo\">ສິບພັນ</span> <span class=\"rom\">Sīp-phán</span> = 10 000</li><li><span class=\"lo\">ຫ້າສິບພັນ</span> <span class=\"rom\">Hâa-sīp-phán</span> = 50 000</li><li><span class=\"lo\">ແສນ</span> <span class=\"rom\">Sɛ̌ɛn</span> = 100 000</li></ul><p><b>À toi de trouver :</b></p><ol><li>Comment dit-on 50 000 ? Le lao a-t-il un mot pour 100 000 ?</li></ol><details><summary>La règle</summary><p>Le lao compte avec ພັນ (1 000), ໝື່ນ (10 000), ແສນ (100 000) et ລ້ານ (1 000 000). À l'oral, on dit souvent ສິບພັນ plutôt que ໜຶ່ງໝື່ນ.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les mots ພັນ et ແສນ dans les prix.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Combien ça coûte ?</li><li>C&#x27;est trop cher !</li><li>Vous pouvez baisser ?</li><li>Je le prends.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເທົ່າໃດ?</span> <span class=\"rom\">Thāo-dǎy?</span></li><li><span class=\"lo\">ແພງໂພດ!</span> <span class=\"rom\">Phɛ́ɛng phôot!</span></li><li><span class=\"lo\">ຫຼຸດໄດ້ບໍ?</span> <span class=\"rom\">Lūt dâay bɔ̌ɔ?</span></li><li><span class=\"lo\">ເອົາ</span> <span class=\"rom\">Ǎo.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris 5 prix en kips en lettres lao.</li><li>Écris un mini-dialogue de marchandage.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Joue une négociation complète avec un natif pour un objet de ton choix.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>15 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l22-v01",
+   "front": "ເທົ່າໃດ",
+   "back": "Thāo-dǎy · combien ?"
+  },
+  {
+   "id": "l22-v02",
+   "front": "ພັນ",
+   "back": "Phán · mille"
+  },
+  {
+   "id": "l22-v03",
+   "front": "ສິບພັນ",
+   "back": "Sīp-phán · dix mille"
+  },
+  {
+   "id": "l22-v04",
+   "front": "ແສນ",
+   "back": "Sɛ̌ɛn · cent mille"
+  },
+  {
+   "id": "l22-v05",
+   "front": "ລ້ານ",
+   "back": "Lȁan · million"
+  },
+  {
+   "id": "l22-v06",
+   "front": "ກີບ",
+   "back": "Kȉip · kip"
+  },
+  {
+   "id": "l22-v07",
+   "front": "ແພງ",
+   "back": "Phɛ́ɛng · cher"
+  },
+  {
+   "id": "l22-v08",
+   "front": "ຖືກ",
+   "back": "Thʉ̀ʉk · bon marché"
+  },
+  {
+   "id": "l22-v09",
+   "front": "ຫຼຸດ",
+   "back": "Lūt · baisser (le prix)"
+  },
+  {
+   "id": "l22-v10",
+   "front": "ກະເປົາ",
+   "back": "Kā-pǎo · sac"
+  },
+  {
+   "id": "l22-v11",
+   "front": "ຈ່າຍ",
+   "back": "Jàay · payer"
+  },
+  {
+   "id": "l22-p01",
+   "front": "Combien ça coûte ?",
+   "back": "ເທົ່າໃດ? · Thāo-dǎy?"
+  },
+  {
+   "id": "l22-p02",
+   "front": "C'est trop cher !",
+   "back": "ແພງໂພດ! · Phɛ́ɛng phôot!"
+  },
+  {
+   "id": "l22-p03",
+   "front": "Vous pouvez baisser ?",
+   "back": "ຫຼຸດໄດ້ບໍ? · Lūt dâay bɔ̌ɔ?"
+  },
+  {
+   "id": "l22-p04",
+   "front": "Je le prends.",
+   "back": "ເອົາ · Ǎo."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ເທົ່າໃດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "combien ?",
+      "payer",
+      "kip",
+      "sac"
+     ],
+     "answer": "combien ?",
+     "reveal": "<i>Thāo-dǎy</i>"
+    },
+    {
+     "audio": [
+      "ພັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mille",
+      "dix mille",
+      "combien ?",
+      "sac"
+     ],
+     "answer": "mille",
+     "reveal": "<i>Phán</i>"
+    },
+    {
+     "audio": [
+      "ສິບພັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "dix mille",
+      "kip",
+      "baisser (le prix)",
+      "combien ?"
+     ],
+     "answer": "dix mille",
+     "reveal": "<i>Sīp-phán</i>"
+    },
+    {
+     "audio": [
+      "ແສນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "cent mille",
+      "bon marché",
+      "million",
+      "payer"
+     ],
+     "answer": "cent mille",
+     "reveal": "<i>Sɛ̌ɛn</i>"
+    },
+    {
+     "audio": [
+      "ລ້ານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "million",
+      "baisser (le prix)",
+      "sac",
+      "dix mille"
+     ],
+     "answer": "million",
+     "reveal": "<i>Lȁan</i>"
+    },
+    {
+     "audio": [
+      "ກີບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "kip",
+      "cher",
+      "million",
+      "cent mille"
+     ],
+     "answer": "kip",
+     "reveal": "<i>Kȉip</i>"
+    },
+    {
+     "audio": [
+      "ແພງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "cher",
+      "mille",
+      "bon marché",
+      "dix mille"
+     ],
+     "answer": "cher",
+     "reveal": "<i>Phɛ́ɛng</i>"
+    },
+    {
+     "audio": [
+      "ຖືກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "bon marché",
+      "payer",
+      "kip",
+      "sac"
+     ],
+     "answer": "bon marché",
+     "reveal": "<i>Thʉ̀ʉk</i>"
+    },
+    {
+     "audio": [
+      "ຫຼຸດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "baisser (le prix)",
+      "cher",
+      "payer",
+      "sac"
+     ],
+     "answer": "baisser (le prix)",
+     "reveal": "<i>Lūt</i>"
+    },
+    {
+     "audio": [
+      "ກະເປົາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "sac",
+      "kip",
+      "payer",
+      "dix mille"
+     ],
+     "answer": "sac",
+     "reveal": "<i>Kā-pǎo</i>"
+    },
+    {
+     "audio": [
+      "ຈ່າຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "payer",
+      "cher",
+      "cent mille",
+      "sac"
+     ],
+     "answer": "payer",
+     "reveal": "<i>Jàay</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ກະເປົານີ້ເທົ່າໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Combien coûte ce sac ?",
+      "Merci !",
+      "Quarante mille, d'accord.",
+      "Cinquante mille kips."
+     ],
+     "answer": "Combien coûte ce sac ?",
+     "reveal": "<i>Kā-pǎo nȉi thāo-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ຫ້າສິບພັນກີບ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Cinquante mille kips.",
+      "Merci !",
+      "Combien coûte ce sac ?",
+      "OK, je le prends."
+     ],
+     "answer": "Cinquante mille kips.",
+     "reveal": "<i>Hâa-sīp-phán kȉip.</i>"
+    },
+    {
+     "audio": [
+      "ແພງໂພດ! ຫຼຸດໄດ້ບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'est trop cher ! Vous pouvez baisser ?",
+      "OK, je le prends.",
+      "Combien coûte ce sac ?",
+      "Cinquante mille kips."
+     ],
+     "answer": "C'est trop cher ! Vous pouvez baisser ?",
+     "reveal": "<i>Phɛ́ɛng phôot! Lūt dâay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ສີ່ສິບພັນກໍໄດ້"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Quarante mille, d'accord.",
+      "OK, je le prends.",
+      "Combien coûte ce sac ?",
+      "Cinquante mille kips."
+     ],
+     "answer": "Quarante mille, d'accord.",
+     "reveal": "<i>Sìi-sīp phán kɔ̂ɔ dâay.</i>"
+    },
+    {
+     "audio": [
+      "ໂອເຄ ເອົາ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "OK, je le prends.",
+      "Quarante mille, d'accord.",
+      "Cinquante mille kips.",
+      "Combien coûte ce sac ?"
+     ],
+     "answer": "OK, je le prends.",
+     "reveal": "<i>Ǒo-khéé, ǎo.</i>"
+    },
+    {
+     "audio": [
+      "ຂອບໃຈເດີເອື້ອຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Merci !",
+      "Cinquante mille kips.",
+      "Combien coûte ce sac ?",
+      "OK, je le prends."
+     ],
+     "answer": "Merci !",
+     "reveal": "<i>Khɔ̏ɔp-jǎy dɤ̌ɤ ʉ̂ay.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເທົ່າໃດ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Combien ça coûte ?",
+      "Vous pouvez baisser ?",
+      "C'est trop cher !",
+      "Je le prends."
+     ],
+     "answer": "Combien ça coûte ?",
+     "reveal": "<i>Thāo-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ແພງໂພດ!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est trop cher !",
+      "Vous pouvez baisser ?",
+      "Combien ça coûte ?",
+      "Je le prends."
+     ],
+     "answer": "C'est trop cher !",
+     "reveal": "<i>Phɛ́ɛng phôot!</i>"
+    },
+    {
+     "audio": [
+      "ຫຼຸດໄດ້ບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Vous pouvez baisser ?",
+      "C'est trop cher !",
+      "Je le prends.",
+      "Combien ça coûte ?"
+     ],
+     "answer": "Vous pouvez baisser ?",
+     "reveal": "<i>Lūt dâay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ເອົາ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je le prends.",
+      "Combien ça coûte ?",
+      "C'est trop cher !",
+      "Vous pouvez baisser ?"
+     ],
+     "answer": "Je le prends.",
+     "reveal": "<i>Ǎo.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ເທົ່າໃດ",
+   "rom": "Thāo-dǎy",
+   "fr": "combien ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພັນ",
+   "rom": "Phán",
+   "fr": "mille",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສິບພັນ",
+   "rom": "Sīp-phán",
+   "fr": "dix mille",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແສນ",
+   "rom": "Sɛ̌ɛn",
+   "fr": "cent mille",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລ້ານ",
+   "rom": "Lȁan",
+   "fr": "million",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກີບ",
+   "rom": "Kȉip",
+   "fr": "kip",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແພງ",
+   "rom": "Phɛ́ɛng",
+   "fr": "cher",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຖືກ",
+   "rom": "Thʉ̀ʉk",
+   "fr": "bon marché",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫຼຸດ",
+   "rom": "Lūt",
+   "fr": "baisser (le prix)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກະເປົາ",
+   "rom": "Kā-pǎo",
+   "fr": "sac",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈ່າຍ",
+   "rom": "Jàay",
+   "fr": "payer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເທົ່າໃດ?",
+   "rom": "Thāo-dǎy?",
+   "fr": "Combien ça coûte ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແພງໂພດ!",
+   "rom": "Phɛ́ɛng phôot!",
+   "fr": "C'est trop cher !",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫຼຸດໄດ້ບໍ?",
+   "rom": "Lūt dâay bɔ̌ɔ?",
+   "fr": "Vous pouvez baisser ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເອົາ",
+   "rom": "Ǎo.",
+   "fr": "Je le prends.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ແພງ",
+    "ໂພດ"
+   ],
+   "rom": "Phɛ́ɛng phôot!",
+   "fr": "C'est trop cher !"
+  },
+  {
+   "tokens": [
+    "ຫຼຸດ",
+    "ໄດ້",
+    "ບໍ"
+   ],
+   "rom": "Lūt dâay bɔ̌ɔ?",
+   "fr": "Vous pouvez baisser ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ເທົ່າໃດ",
+   "rom": "Thāo-dǎy",
+   "fr": "combien ?"
+  },
+  {
+   "lao": "ພັນ",
+   "rom": "Phán",
+   "fr": "mille"
+  },
+  {
+   "lao": "ສິບພັນ",
+   "rom": "Sīp-phán",
+   "fr": "dix mille"
+  },
+  {
+   "lao": "ແສນ",
+   "rom": "Sɛ̌ɛn",
+   "fr": "cent mille"
+  },
+  {
+   "lao": "ລ້ານ",
+   "rom": "Lȁan",
+   "fr": "million"
+  },
+  {
+   "lao": "ກີບ",
+   "rom": "Kȉip",
+   "fr": "kip"
+  },
+  {
+   "lao": "ແພງ",
+   "rom": "Phɛ́ɛng",
+   "fr": "cher"
+  },
+  {
+   "lao": "ຖືກ",
+   "rom": "Thʉ̀ʉk",
+   "fr": "bon marché"
+  },
+  {
+   "lao": "ຫຼຸດ",
+   "rom": "Lūt",
+   "fr": "baisser (le prix)"
+  },
+  {
+   "lao": "ກະເປົາ",
+   "rom": "Kā-pǎo",
+   "fr": "sac"
+  },
+  {
+   "lao": "ຈ່າຍ",
+   "rom": "Jàay",
+   "fr": "payer"
+  }
+ ],
+ "sounds": {
+  "ໜຶ່ງ": "Nʉ̀ng",
+  "ໄດ້ຮັບ": "Dâay-hāp",
+  "ຫຼານ": "Lǎan",
+  "ຫ້າ": "Hâa",
+  "ກະເປົານີ້ເທົ່າໃດ": "Kā-pǎo nȉi thāo-dǎy?",
+  "ຫ້າສິບພັນກີບ": "Hâa-sīp-phán kȉip.",
+  "ແພງໂພດ ຫຼຸດໄດ້ບໍ": "Phɛ́ɛng phôot! Lūt dâay bɔ̌ɔ?",
+  "ສີ່ສິບພັນກໍໄດ້": "Sìi-sīp phán kɔ̂ɔ dâay.",
+  "ໂອເຄ ເອົາ": "Ǒo-khéé, ǎo.",
+  "ຂອບໃຈເດີເອື້ອຍ": "Khɔ̏ɔp-jǎy dɤ̌ɤ ʉ̂ay.",
+  "ເທົ່າໃດ": "Thāo-dǎy?",
+  "ພັນ": "Phán",
+  "ສິບພັນ": "Sīp-phán",
+  "ແສນ": "Sɛ̌ɛn",
+  "ລ້ານ": "Lȁan",
+  "ກີບ": "Kȉip",
+  "ແພງ": "phɛ́ɛng",
+  "ຖືກ": "Thʉ̀ʉk",
+  "ຫຼຸດ": "lūt",
+  "ກະເປົາ": "Kā-pǎo",
+  "ຈ່າຍ": "Jàay",
+  "ຫ້າພັນ": "Hâa-phán",
+  "ຫ້າສິບພັນ": "Hâa-sīp-phán",
+  "ແພງໂພດ": "Phɛ́ɛng phôot!",
+  "ຫຼຸດໄດ້ບໍ": "Lūt dâay bɔ̌ɔ?",
+  "ເອົາ": "Ǎo.",
+  "ໂພດ": "phôot",
+  "ໄດ້": "dâay",
+  "ບໍ": "bɔ̌ɔ"
+ },
+ "suivi": "LEÇON : 22 — Partie C (Vie courante, A1) · Combien ça coûte ?\nOBJECTIF : Demander un prix, comprendre les grands nombres en kips et payer.\nNOTION : les grands nombres\nVOCAB : Thāo-dǎy, Phán, Sīp-phán, Sɛ̌ɛn, Lȁan, Kȉip, Phɛ́ɛng, Thʉ̀ʉk, Lūt, Kā-pǎo, Jàay\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 23 — Les classificateurs"
+}

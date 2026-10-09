@@ -1,0 +1,596 @@
+{
+ "num": 27,
+ "phase": "Partie C · Vie courante",
+ "title": "La famille (2)",
+ "objective": "Parler des grands-parents, oncles et tantes en distinguant côté père et côté mère.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>père <small class=\"muted\">(leçon 26)</small></li><li>sans piment <small class=\"muted\">(leçon 24)</small></li><li>son ; ton <small class=\"muted\">(leçon 20)</small></li><li>encore (en cours) <small class=\"muted\">(leçon 13)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ພໍ່</span> <span class=\"rom\">Phɔ̄ɔ</span> · père</li><li><span class=\"lo\">ບໍ່ໃສ່ໝາກເຜັດ</span> <span class=\"rom\">Bɔ̀ɔ sày mȁak-phēt</span> · sans piment</li><li><span class=\"lo\">ສຽງ</span> <span class=\"rom\">Sǐang</span> · son ; ton</li><li><span class=\"lo\">ຍັງ ຢູ່</span> <span class=\"rom\">Nyáng… yùu</span> · encore (en cours)</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Parler des grands-parents, oncles et tantes en distinguant côté père et côté mère.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Mme Boua explique la famille élargie à Clara.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ນີ້ແມ່ນປູ່ແລະຍ່າຂອງນ້ອຍ</span><span class=\"rom\">Nȉi mɛ̄ɛn pùu lɛ́ nyāa khɔ̌ɔng nɔ̏ɔy.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແລ້ວພໍ່ແມ່ຂອງແມ່ເດ?</span><span class=\"rom\">Lɛ̏ɛw phɔ̄ɔ mɛ̄ɛ khɔ̌ɔng mɛ̄ɛ dě?</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ແມ່ນຕາແລະຍາຍ</span><span class=\"rom\">Mɛ̄ɛn tǎa lɛ́ nyáay.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໂອ້ ຍາກເນາະ!</span><span class=\"rom\">Ôo, nyâak nɔ̄!</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ບໍ່ຍາກດອກ ຈື່ໄວ້ເດີ</span><span class=\"rom\">Bɔ̀ɔ nyâak dɔ̏ɔk. Jʉ̀ʉ wȁy dɤ̌ɤ.</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Mme Boua</b> — Voici les grands-parents paternels de Noy.<br><b>Clara</b> — Et les parents de sa mère ?<br><b>Mme Boua</b> — Ce sont « ta » et « yay ».<br><b>Clara</b> — Oh, c&#x27;est compliqué !<br><b>Mme Boua</b> — Mais non. Retiens-le bien.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Comment appelle-t-on les grands-parents côté père ?</li><li>Et côté mère ?</li></ol><details><summary>Réponses</summary><ol><li>ປູ່ et ຍ່າ.</li><li>ຕາ et ຍາຍ.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ປູ່</td><td class=\"rom\">Pùu</td><td>grand-père paternel</td><td></td></tr><tr><td class=\"lo\">ຍ່າ</td><td class=\"rom\">Nyāa</td><td>grand-mère paternelle</td><td></td></tr><tr><td class=\"lo\">ຕາ</td><td class=\"rom\">Tǎa</td><td>grand-père maternel</td><td></td></tr><tr><td class=\"lo\">ຍາຍ</td><td class=\"rom\">Nyáay</td><td>grand-mère maternelle</td><td></td></tr><tr><td class=\"lo\">ລຸງ</td><td class=\"rom\">Lúng</td><td>oncle (aîné des parents)</td><td></td></tr><tr><td class=\"lo\">ປ້າ</td><td class=\"rom\">Pâa</td><td>tante (aînée des parents)</td><td></td></tr><tr><td class=\"lo\">ອາ</td><td class=\"rom\">Ǎa</td><td>oncle, tante (cadet du père)</td><td></td></tr><tr><td class=\"lo\">ນ້າ</td><td class=\"rom\">Nȁa</td><td>oncle, tante (cadet de la mère)</td><td></td></tr><tr><td class=\"lo\">ຫຼານ</td><td class=\"rom\">Lǎan</td><td>petit-enfant ; neveu</td><td></td></tr><tr><td class=\"lo\">ຍາກ</td><td class=\"rom\">Nyâak</td><td>difficile</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : côté père, côté mère",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ປູ່ຍ່າ</span> <span class=\"rom\">Pùu nyāa</span> = grands-parents côté père</li><li><span class=\"lo\">ຕາຍາຍ</span> <span class=\"rom\">Tǎa nyáay</span> = grands-parents côté mère</li><li><span class=\"lo\">ອາ</span> <span class=\"rom\">Ǎa</span> = cadet(te) du père</li><li><span class=\"lo\">ນ້າ</span> <span class=\"rom\">Nȁa</span> = cadet(te) de la mère</li></ul><p><b>À toi de trouver :</b></p><ol><li>Pourquoi a-t-on besoin de 4 mots pour les grands-parents ?</li></ol><details><summary>La règle</summary><p>Le lao distingue la lignée paternelle et maternelle, et l'âge relatif aux parents : ລຸງ/ປ້າ (plus âgés que le parent), ອາ (cadets du père), ນ້າ (cadets de la mère). [À VÉRIFIER : usages régionaux]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les 4 mots des grands-parents.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Voici mes grands-parents paternels.</li><li>C&#x27;est compliqué !</li><li>C&#x27;est mon oncle.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ນີ້ແມ່ນປູ່ແລະຍ່າຂອງຂ້ອຍ</span> <span class=\"rom\">Nȉi mɛ̄ɛn pùu lɛ́ nyāa khɔ̌ɔng khɔ̂ɔy.</span></li><li><span class=\"lo\">ຍາກເນາະ!</span> <span class=\"rom\">Nyâak nɔ̄!</span></li><li><span class=\"lo\">ນີ້ແມ່ນລຸງຂອງຂ້ອຍ</span> <span class=\"rom\">Nȉi mɛ̄ɛn lúng khɔ̌ɔng khɔ̂ɔy.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Complète ton arbre familial avec grands-parents, oncles et tantes.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Explique à un natif qui est qui dans ta famille élargie et vérifie les termes avec lui.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>13 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l27-v01",
+   "front": "ປູ່",
+   "back": "Pùu · grand-père paternel"
+  },
+  {
+   "id": "l27-v02",
+   "front": "ຍ່າ",
+   "back": "Nyāa · grand-mère paternelle"
+  },
+  {
+   "id": "l27-v03",
+   "front": "ຕາ",
+   "back": "Tǎa · grand-père maternel"
+  },
+  {
+   "id": "l27-v04",
+   "front": "ຍາຍ",
+   "back": "Nyáay · grand-mère maternelle"
+  },
+  {
+   "id": "l27-v05",
+   "front": "ລຸງ",
+   "back": "Lúng · oncle (aîné des parents)"
+  },
+  {
+   "id": "l27-v06",
+   "front": "ປ້າ",
+   "back": "Pâa · tante (aînée des parents)"
+  },
+  {
+   "id": "l27-v07",
+   "front": "ອາ",
+   "back": "Ǎa · oncle, tante (cadet du père)"
+  },
+  {
+   "id": "l27-v08",
+   "front": "ນ້າ",
+   "back": "Nȁa · oncle, tante (cadet de la mère)"
+  },
+  {
+   "id": "l27-v09",
+   "front": "ຫຼານ",
+   "back": "Lǎan · petit-enfant ; neveu"
+  },
+  {
+   "id": "l27-v10",
+   "front": "ຍາກ",
+   "back": "Nyâak · difficile"
+  },
+  {
+   "id": "l27-p01",
+   "front": "Voici mes grands-parents paternels.",
+   "back": "ນີ້ແມ່ນປູ່ແລະຍ່າຂອງຂ້ອຍ · Nȉi mɛ̄ɛn pùu lɛ́ nyāa khɔ̌ɔng khɔ̂ɔy."
+  },
+  {
+   "id": "l27-p02",
+   "front": "C'est compliqué !",
+   "back": "ຍາກເນາະ! · Nyâak nɔ̄!"
+  },
+  {
+   "id": "l27-p03",
+   "front": "C'est mon oncle.",
+   "back": "ນີ້ແມ່ນລຸງຂອງຂ້ອຍ · Nȉi mɛ̄ɛn lúng khɔ̌ɔng khɔ̂ɔy."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ປູ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "grand-père paternel",
+      "petit-enfant ; neveu",
+      "oncle (aîné des parents)",
+      "oncle, tante (cadet du père)"
+     ],
+     "answer": "grand-père paternel",
+     "reveal": "<i>Pùu</i>"
+    },
+    {
+     "audio": [
+      "ຍ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "grand-mère paternelle",
+      "petit-enfant ; neveu",
+      "grand-père maternel",
+      "grand-mère maternelle"
+     ],
+     "answer": "grand-mère paternelle",
+     "reveal": "<i>Nyāa</i>"
+    },
+    {
+     "audio": [
+      "ຕາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "grand-père maternel",
+      "petit-enfant ; neveu",
+      "difficile",
+      "grand-mère maternelle"
+     ],
+     "answer": "grand-père maternel",
+     "reveal": "<i>Tǎa</i>"
+    },
+    {
+     "audio": [
+      "ຍາຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "grand-mère maternelle",
+      "difficile",
+      "tante (aînée des parents)",
+      "grand-père maternel"
+     ],
+     "answer": "grand-mère maternelle",
+     "reveal": "<i>Nyáay</i>"
+    },
+    {
+     "audio": [
+      "ລຸງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "oncle (aîné des parents)",
+      "difficile",
+      "grand-père paternel",
+      "oncle, tante (cadet du père)"
+     ],
+     "answer": "oncle (aîné des parents)",
+     "reveal": "<i>Lúng</i>"
+    },
+    {
+     "audio": [
+      "ປ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "tante (aînée des parents)",
+      "grand-mère paternelle",
+      "petit-enfant ; neveu",
+      "grand-mère maternelle"
+     ],
+     "answer": "tante (aînée des parents)",
+     "reveal": "<i>Pâa</i>"
+    },
+    {
+     "audio": [
+      "ອາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "oncle, tante (cadet du père)",
+      "oncle, tante (cadet de la mère)",
+      "grand-mère paternelle",
+      "grand-père maternel"
+     ],
+     "answer": "oncle, tante (cadet du père)",
+     "reveal": "<i>Ǎa</i>"
+    },
+    {
+     "audio": [
+      "ນ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "oncle, tante (cadet de la mère)",
+      "petit-enfant ; neveu",
+      "tante (aînée des parents)",
+      "oncle (aîné des parents)"
+     ],
+     "answer": "oncle, tante (cadet de la mère)",
+     "reveal": "<i>Nȁa</i>"
+    },
+    {
+     "audio": [
+      "ຫຼານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "petit-enfant ; neveu",
+      "grand-mère paternelle",
+      "grand-père maternel",
+      "difficile"
+     ],
+     "answer": "petit-enfant ; neveu",
+     "reveal": "<i>Lǎan</i>"
+    },
+    {
+     "audio": [
+      "ຍາກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "difficile",
+      "oncle (aîné des parents)",
+      "grand-mère maternelle",
+      "tante (aînée des parents)"
+     ],
+     "answer": "difficile",
+     "reveal": "<i>Nyâak</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ນີ້ແມ່ນປູ່ແລະຍ່າຂອງນ້ອຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Voici les grands-parents paternels de Noy.",
+      "Et les parents de sa mère ?",
+      "Oh, c'est compliqué !",
+      "Ce sont « ta » et « yay »."
+     ],
+     "answer": "Voici les grands-parents paternels de Noy.",
+     "reveal": "<i>Nȉi mɛ̄ɛn pùu lɛ́ nyāa khɔ̌ɔng nɔ̏ɔy.</i>"
+    },
+    {
+     "audio": [
+      "ແລ້ວພໍ່ແມ່ຂອງແມ່ເດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Et les parents de sa mère ?",
+      "Mais non. Retiens-le bien.",
+      "Oh, c'est compliqué !",
+      "Ce sont « ta » et « yay »."
+     ],
+     "answer": "Et les parents de sa mère ?",
+     "reveal": "<i>Lɛ̏ɛw phɔ̄ɔ mɛ̄ɛ khɔ̌ɔng mɛ̄ɛ dě?</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນຕາແລະຍາຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Ce sont « ta » et « yay ».",
+      "Voici les grands-parents paternels de Noy.",
+      "Mais non. Retiens-le bien.",
+      "Et les parents de sa mère ?"
+     ],
+     "answer": "Ce sont « ta » et « yay ».",
+     "reveal": "<i>Mɛ̄ɛn tǎa lɛ́ nyáay.</i>"
+    },
+    {
+     "audio": [
+      "ໂອ້ ຍາກເນາະ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oh, c'est compliqué !",
+      "Mais non. Retiens-le bien.",
+      "Et les parents de sa mère ?",
+      "Voici les grands-parents paternels de Noy."
+     ],
+     "answer": "Oh, c'est compliqué !",
+     "reveal": "<i>Ôo, nyâak nɔ̄!</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ຍາກດອກ ຈື່ໄວ້ເດີ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Mais non. Retiens-le bien.",
+      "Voici les grands-parents paternels de Noy.",
+      "Et les parents de sa mère ?",
+      "Ce sont « ta » et « yay »."
+     ],
+     "answer": "Mais non. Retiens-le bien.",
+     "reveal": "<i>Bɔ̀ɔ nyâak dɔ̏ɔk. Jʉ̀ʉ wȁy dɤ̌ɤ.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ນີ້ແມ່ນປູ່ແລະຍ່າຂອງຂ້ອຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Voici mes grands-parents paternels.",
+      "C'est mon oncle.",
+      "C'est compliqué !"
+     ],
+     "answer": "Voici mes grands-parents paternels.",
+     "reveal": "<i>Nȉi mɛ̄ɛn pùu lɛ́ nyāa khɔ̌ɔng khɔ̂ɔy.</i>"
+    },
+    {
+     "audio": [
+      "ຍາກເນາະ!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est compliqué !",
+      "C'est mon oncle.",
+      "Voici mes grands-parents paternels."
+     ],
+     "answer": "C'est compliqué !",
+     "reveal": "<i>Nyâak nɔ̄!</i>"
+    },
+    {
+     "audio": [
+      "ນີ້ແມ່ນລຸງຂອງຂ້ອຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est mon oncle.",
+      "Voici mes grands-parents paternels.",
+      "C'est compliqué !"
+     ],
+     "answer": "C'est mon oncle.",
+     "reveal": "<i>Nȉi mɛ̄ɛn lúng khɔ̌ɔng khɔ̂ɔy.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ປູ່",
+   "rom": "Pùu",
+   "fr": "grand-père paternel",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍ່າ",
+   "rom": "Nyāa",
+   "fr": "grand-mère paternelle",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕາ",
+   "rom": "Tǎa",
+   "fr": "grand-père maternel",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍາຍ",
+   "rom": "Nyáay",
+   "fr": "grand-mère maternelle",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລຸງ",
+   "rom": "Lúng",
+   "fr": "oncle (aîné des parents)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ປ້າ",
+   "rom": "Pâa",
+   "fr": "tante (aînée des parents)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອາ",
+   "rom": "Ǎa",
+   "fr": "oncle, tante (cadet du père)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນ້າ",
+   "rom": "Nȁa",
+   "fr": "oncle, tante (cadet de la mère)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫຼານ",
+   "rom": "Lǎan",
+   "fr": "petit-enfant ; neveu",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍາກ",
+   "rom": "Nyâak",
+   "fr": "difficile",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນີ້ແມ່ນປູ່ແລະຍ່າຂອງຂ້ອຍ",
+   "rom": "Nȉi mɛ̄ɛn pùu lɛ́ nyāa khɔ̌ɔng khɔ̂ɔy.",
+   "fr": "Voici mes grands-parents paternels.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍາກເນາະ!",
+   "rom": "Nyâak nɔ̄!",
+   "fr": "C'est compliqué !",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນີ້ແມ່ນລຸງຂອງຂ້ອຍ",
+   "rom": "Nȉi mɛ̄ɛn lúng khɔ̌ɔng khɔ̂ɔy.",
+   "fr": "C'est mon oncle.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ນີ້",
+    "ແມ່ນ",
+    "ປູ່",
+    "ແລະ",
+    "ຍ່າ",
+    "ຂອງ",
+    "ຂ້ອຍ"
+   ],
+   "rom": "Nȉi mɛ̄ɛn pùu lɛ́ nyāa khɔ̌ɔng khɔ̂ɔy.",
+   "fr": "Voici mes grands-parents paternels."
+  },
+  {
+   "tokens": [
+    "ຍາກ",
+    "ເນາະ"
+   ],
+   "rom": "Nyâak nɔ̄!",
+   "fr": "C'est compliqué !"
+  },
+  {
+   "tokens": [
+    "ນີ້",
+    "ແມ່ນ",
+    "ລຸງ",
+    "ຂອງ",
+    "ຂ້ອຍ"
+   ],
+   "rom": "Nȉi mɛ̄ɛn lúng khɔ̌ɔng khɔ̂ɔy.",
+   "fr": "C'est mon oncle."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ປູ່",
+   "rom": "Pùu",
+   "fr": "grand-père paternel"
+  },
+  {
+   "lao": "ຍ່າ",
+   "rom": "Nyāa",
+   "fr": "grand-mère paternelle"
+  },
+  {
+   "lao": "ຕາ",
+   "rom": "Tǎa",
+   "fr": "grand-père maternel"
+  },
+  {
+   "lao": "ຍາຍ",
+   "rom": "Nyáay",
+   "fr": "grand-mère maternelle"
+  },
+  {
+   "lao": "ລຸງ",
+   "rom": "Lúng",
+   "fr": "oncle (aîné des parents)"
+  },
+  {
+   "lao": "ປ້າ",
+   "rom": "Pâa",
+   "fr": "tante (aînée des parents)"
+  },
+  {
+   "lao": "ອາ",
+   "rom": "Ǎa",
+   "fr": "oncle, tante (cadet du père)"
+  },
+  {
+   "lao": "ນ້າ",
+   "rom": "Nȁa",
+   "fr": "oncle, tante (cadet de la mère)"
+  },
+  {
+   "lao": "ຫຼານ",
+   "rom": "Lǎan",
+   "fr": "petit-enfant ; neveu"
+  },
+  {
+   "lao": "ຍາກ",
+   "rom": "Nyâak",
+   "fr": "difficile"
+  }
+ ],
+ "sounds": {
+  "ພໍ່": "Phɔ̄ɔ",
+  "ບໍ່ໃສ່ໝາກເຜັດ": "Bɔ̀ɔ sày mȁak-phēt",
+  "ສຽງ": "Sǐang",
+  "ຍັງ ຢູ່": "Nyáng… yùu",
+  "ນີ້ແມ່ນປູ່ແລະຍ່າຂອງນ້ອຍ": "Nȉi mɛ̄ɛn pùu lɛ́ nyāa khɔ̌ɔng nɔ̏ɔy.",
+  "ແລ້ວພໍ່ແມ່ຂອງແມ່ເດ": "Lɛ̏ɛw phɔ̄ɔ mɛ̄ɛ khɔ̌ɔng mɛ̄ɛ dě?",
+  "ແມ່ນຕາແລະຍາຍ": "Mɛ̄ɛn tǎa lɛ́ nyáay.",
+  "ໂອ້ ຍາກເນາະ": "Ôo, nyâak nɔ̄!",
+  "ບໍ່ຍາກດອກ ຈື່ໄວ້ເດີ": "Bɔ̀ɔ nyâak dɔ̏ɔk. Jʉ̀ʉ wȁy dɤ̌ɤ.",
+  "ປູ່": "pùu",
+  "ຍ່າ": "nyāa",
+  "ຕາ": "Tǎa",
+  "ຍາຍ": "Nyáay",
+  "ລຸງ": "lúng",
+  "ປ້າ": "Pâa",
+  "ອາ": "Ǎa",
+  "ນ້າ": "Nȁa",
+  "ຫຼານ": "Lǎan",
+  "ຍາກ": "nyâak",
+  "ປູ່ຍ່າ": "Pùu nyāa",
+  "ຕາຍາຍ": "Tǎa nyáay",
+  "ນີ້ແມ່ນປູ່ແລະຍ່າຂອງຂ້ອຍ": "Nȉi mɛ̄ɛn pùu lɛ́ nyāa khɔ̌ɔng khɔ̂ɔy.",
+  "ຍາກເນາະ": "Nyâak nɔ̄!",
+  "ນີ້ແມ່ນລຸງຂອງຂ້ອຍ": "Nȉi mɛ̄ɛn lúng khɔ̌ɔng khɔ̂ɔy.",
+  "ນີ້": "nȉi",
+  "ແມ່ນ": "mɛ̄ɛn",
+  "ແລະ": "lɛ́",
+  "ຂອງ": "khɔ̌ɔng",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ເນາະ": "nɔ̄"
+ },
+ "suivi": "LEÇON : 27 — Partie C (Vie courante, A1) · La famille (2)\nOBJECTIF : Parler des grands-parents, oncles et tantes en distinguant côté père et côté mère.\nNOTION : côté père, côté mère\nVOCAB : Pùu, Nyāa, Tǎa, Nyáay, Lúng, Pâa, Ǎa, Nȁa, Lǎan, Nyâak\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 28 — L'âge et la hiérarchie"
+}

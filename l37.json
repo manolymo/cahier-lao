@@ -1,0 +1,633 @@
+{
+ "num": 37,
+ "phase": "Partie C · Vie courante",
+ "title": "Vêtements et couleurs",
+ "objective": "Acheter un vêtement, demander une taille et une couleur, comparer.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>froid <small class=\"muted\">(leçon 36)</small></li><li>là-bas (loin) <small class=\"muted\">(leçon 34)</small></li><li>lundi <small class=\"muted\">(leçon 30)</small></li><li>verre, tasse <small class=\"muted\">(leçon 23)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ໜາວ</span> <span class=\"rom\">Nǎaw</span> · froid</li><li><span class=\"lo\">ພຸ້ນ</span> <span class=\"rom\">Phȕn</span> · là-bas (loin)</li><li><span class=\"lo\">ວັນຈັນ</span> <span class=\"rom\">Wán-jǎn</span> · lundi</li><li><span class=\"lo\">ຈອກ</span> <span class=\"rom\">Jɔ̏ɔk</span> · verre, tasse</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Acheter un vêtement, demander une taille et une couleur, comparer.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara achète un sinh (jupe traditionnelle).</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສິ້ນນີ້ມີສີອື່ນບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ມີສີແດງແລະສີຟ້າ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ລອງໄດ້ບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ໄດ້ ອັນນີ້ງາມກວ່າ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແຕ່ແພງກວ່າ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Sîn nȉi míi sǐi ʉ̀ʉn bɔ̌ɔ?</span><br><span class=\"rom\">Míi sǐi dɛ̌ɛng lɛ́ sǐi-fȁa.</span><br><span class=\"rom\">Lɔ́ɔng dâay bɔ̌ɔ?</span><br><span class=\"rom\">Dâay. Ǎn nȉi ngáam kwàa.</span><br><span class=\"rom\">Tɛ̀ɛ phɛ́ɛng kwàa.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Ce sinh existe en d&#x27;autres couleurs ?<br><b>La vendeuse</b> — En rouge et en bleu.<br><b>Clara</b> — Je peux essayer ?<br><b>La vendeuse</b> — Oui. Celui-ci est plus joli.<br><b>Clara</b> — Mais plus cher.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que veut Clara ?</li><li>Que dit la vendeuse ?</li></ol><details><summary>Réponses</summary><ol><li>Un sinh d&#x27;une autre couleur.</li><li>Celui-ci est plus joli.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ເສື້ອ</td><td class=\"rom\">Sʉ̂a</td><td>chemise, haut</td><td></td></tr><tr><td class=\"lo\">ໂສ້ງ</td><td class=\"rom\">Sôong</td><td>pantalon</td><td></td></tr><tr><td class=\"lo\">ສິ້ນ</td><td class=\"rom\">Sîn</td><td>sinh (jupe lao)</td><td></td></tr><tr><td class=\"lo\">ເກີບ</td><td class=\"rom\">Kɤ̏ɤp</td><td>chaussures</td><td></td></tr><tr><td class=\"lo\">ລອງ</td><td class=\"rom\">Lɔ́ɔng</td><td>essayer</td><td></td></tr><tr><td class=\"lo\">ຂະໜາດ</td><td class=\"rom\">Khā-nȁat</td><td>taille</td><td></td></tr><tr><td class=\"lo\">ສີອື່ນ</td><td class=\"rom\">Sǐi ʉ̀ʉn</td><td>autre couleur</td><td></td></tr><tr><td class=\"lo\">ກວ່າ</td><td class=\"rom\">Kwàa</td><td>plus… que</td><td></td></tr><tr><td class=\"lo\">ໃຫຍ່ໂພດ</td><td class=\"rom\">Nyày phôot</td><td>trop grand</td><td></td></tr><tr><td class=\"lo\">ພໍດີ</td><td class=\"rom\">Phɔ́ɔ-dǐi</td><td>à la bonne taille</td><td></td></tr></table></div><p class=\"note\">Le sinh est la jupe traditionnelle portée au travail, à l'école et à la pagode. Le porter est très apprécié.</p>"
+  },
+  {
+   "title": "Point de langue : la comparaison avec ກວ່າ",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ງາມກວ່າ</span> <span class=\"rom\">Ngáam kwàa</span> = plus joli</li><li><span class=\"lo\">ແພງກວ່າ</span> <span class=\"rom\">Phɛ́ɛng kwàa</span> = plus cher</li><li><span class=\"lo\">ອັນນີ້ໃຫຍ່ກວ່າອັນນັ້ນ</span> <span class=\"rom\">Ǎn nȉi nyày kwàa ǎn nȁn</span> = celui-ci est plus grand que celui-là</li></ul><p><b>À toi de trouver :</b></p><ol><li>Où se place ກວ່າ ?</li></ol><details><summary>La règle</summary><p>Adjectif + ກວ່າ (+ élément comparé) = « plus… que ».</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> ກວ່າ dans les comparaisons.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Je peux essayer ?</li><li>Vous l&#x27;avez dans une autre couleur ?</li><li>C&#x27;est trop grand.</li><li>Celui-ci est plus joli.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ລອງໄດ້ບໍ?</span> <span class=\"rom\">Lɔ́ɔng dâay bɔ̌ɔ?</span></li><li><span class=\"lo\">ມີສີອື່ນບໍ?</span> <span class=\"rom\">Míi sǐi ʉ̀ʉn bɔ̌ɔ?</span></li><li><span class=\"lo\">ໃຫຍ່ໂພດ</span> <span class=\"rom\">Nyày phôot.</span></li><li><span class=\"lo\">ອັນນີ້ງາມກວ່າ</span> <span class=\"rom\">Ǎn nȉi ngáam kwàa.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Décris ta tenue du jour en lao.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Joue un achat de vêtement avec un natif : couleur, taille, essayage, prix.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>14 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l37-v01",
+   "front": "ເສື້ອ",
+   "back": "Sʉ̂a · chemise, haut"
+  },
+  {
+   "id": "l37-v02",
+   "front": "ໂສ້ງ",
+   "back": "Sôong · pantalon"
+  },
+  {
+   "id": "l37-v03",
+   "front": "ສິ້ນ",
+   "back": "Sîn · sinh (jupe lao)"
+  },
+  {
+   "id": "l37-v04",
+   "front": "ເກີບ",
+   "back": "Kɤ̏ɤp · chaussures"
+  },
+  {
+   "id": "l37-v05",
+   "front": "ລອງ",
+   "back": "Lɔ́ɔng · essayer"
+  },
+  {
+   "id": "l37-v06",
+   "front": "ຂະໜາດ",
+   "back": "Khā-nȁat · taille"
+  },
+  {
+   "id": "l37-v07",
+   "front": "ສີອື່ນ",
+   "back": "Sǐi ʉ̀ʉn · autre couleur"
+  },
+  {
+   "id": "l37-v08",
+   "front": "ກວ່າ",
+   "back": "Kwàa · plus… que"
+  },
+  {
+   "id": "l37-v09",
+   "front": "ໃຫຍ່ໂພດ",
+   "back": "Nyày phôot · trop grand"
+  },
+  {
+   "id": "l37-v10",
+   "front": "ພໍດີ",
+   "back": "Phɔ́ɔ-dǐi · à la bonne taille"
+  },
+  {
+   "id": "l37-p01",
+   "front": "Je peux essayer ?",
+   "back": "ລອງໄດ້ບໍ? · Lɔ́ɔng dâay bɔ̌ɔ?"
+  },
+  {
+   "id": "l37-p02",
+   "front": "Vous l'avez dans une autre couleur ?",
+   "back": "ມີສີອື່ນບໍ? · Míi sǐi ʉ̀ʉn bɔ̌ɔ?"
+  },
+  {
+   "id": "l37-p03",
+   "front": "C'est trop grand.",
+   "back": "ໃຫຍ່ໂພດ · Nyày phôot."
+  },
+  {
+   "id": "l37-p04",
+   "front": "Celui-ci est plus joli.",
+   "back": "ອັນນີ້ງາມກວ່າ · Ǎn nȉi ngáam kwàa."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ເສື້ອ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "chemise, haut",
+      "trop grand",
+      "essayer",
+      "taille"
+     ],
+     "answer": "chemise, haut",
+     "reveal": "<i>Sʉ̂a</i>"
+    },
+    {
+     "audio": [
+      "ໂສ້ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pantalon",
+      "sinh (jupe lao)",
+      "taille",
+      "autre couleur"
+     ],
+     "answer": "pantalon",
+     "reveal": "<i>Sôong</i>"
+    },
+    {
+     "audio": [
+      "ສິ້ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "sinh (jupe lao)",
+      "plus… que",
+      "pantalon",
+      "essayer"
+     ],
+     "answer": "sinh (jupe lao)",
+     "reveal": "<i>Sîn</i>"
+    },
+    {
+     "audio": [
+      "ເກີບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "chaussures",
+      "pantalon",
+      "essayer",
+      "autre couleur"
+     ],
+     "answer": "chaussures",
+     "reveal": "<i>Kɤ̏ɤp</i>"
+    },
+    {
+     "audio": [
+      "ລອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "essayer",
+      "chemise, haut",
+      "autre couleur",
+      "chaussures"
+     ],
+     "answer": "essayer",
+     "reveal": "<i>Lɔ́ɔng</i>"
+    },
+    {
+     "audio": [
+      "ຂະໜາດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "taille",
+      "chaussures",
+      "chemise, haut",
+      "à la bonne taille"
+     ],
+     "answer": "taille",
+     "reveal": "<i>Khā-nȁat</i>"
+    },
+    {
+     "audio": [
+      "ສີອື່ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "autre couleur",
+      "essayer",
+      "plus… que",
+      "chaussures"
+     ],
+     "answer": "autre couleur",
+     "reveal": "<i>Sǐi ʉ̀ʉn</i>"
+    },
+    {
+     "audio": [
+      "ກວ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "plus… que",
+      "autre couleur",
+      "taille",
+      "trop grand"
+     ],
+     "answer": "plus… que",
+     "reveal": "<i>Kwàa</i>"
+    },
+    {
+     "audio": [
+      "ໃຫຍ່ໂພດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "trop grand",
+      "chemise, haut",
+      "plus… que",
+      "taille"
+     ],
+     "answer": "trop grand",
+     "reveal": "<i>Nyày phôot</i>"
+    },
+    {
+     "audio": [
+      "ພໍດີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "à la bonne taille",
+      "autre couleur",
+      "sinh (jupe lao)",
+      "chaussures"
+     ],
+     "answer": "à la bonne taille",
+     "reveal": "<i>Phɔ́ɔ-dǐi</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ສິ້ນນີ້ມີສີອື່ນບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Ce sinh existe en d'autres couleurs ?",
+      "Oui. Celui-ci est plus joli.",
+      "Je peux essayer ?",
+      "Mais plus cher."
+     ],
+     "answer": "Ce sinh existe en d'autres couleurs ?",
+     "reveal": "<i>Sîn nȉi míi sǐi ʉ̀ʉn bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ມີສີແດງແລະສີຟ້າ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "En rouge et en bleu.",
+      "Ce sinh existe en d'autres couleurs ?",
+      "Mais plus cher.",
+      "Oui. Celui-ci est plus joli."
+     ],
+     "answer": "En rouge et en bleu.",
+     "reveal": "<i>Míi sǐi dɛ̌ɛng lɛ́ sǐi-fȁa.</i>"
+    },
+    {
+     "audio": [
+      "ລອງໄດ້ບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je peux essayer ?",
+      "Mais plus cher.",
+      "En rouge et en bleu.",
+      "Ce sinh existe en d'autres couleurs ?"
+     ],
+     "answer": "Je peux essayer ?",
+     "reveal": "<i>Lɔ́ɔng dâay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້ ອັນນີ້ງາມກວ່າ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oui. Celui-ci est plus joli.",
+      "En rouge et en bleu.",
+      "Je peux essayer ?",
+      "Mais plus cher."
+     ],
+     "answer": "Oui. Celui-ci est plus joli.",
+     "reveal": "<i>Dâay. Ǎn nȉi ngáam kwàa.</i>"
+    },
+    {
+     "audio": [
+      "ແຕ່ແພງກວ່າ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Mais plus cher.",
+      "Ce sinh existe en d'autres couleurs ?",
+      "En rouge et en bleu.",
+      "Je peux essayer ?"
+     ],
+     "answer": "Mais plus cher.",
+     "reveal": "<i>Tɛ̀ɛ phɛ́ɛng kwàa.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ລອງໄດ້ບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je peux essayer ?",
+      "C'est trop grand.",
+      "Vous l'avez dans une autre couleur ?",
+      "Celui-ci est plus joli."
+     ],
+     "answer": "Je peux essayer ?",
+     "reveal": "<i>Lɔ́ɔng dâay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ມີສີອື່ນບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Vous l'avez dans une autre couleur ?",
+      "Celui-ci est plus joli.",
+      "C'est trop grand.",
+      "Je peux essayer ?"
+     ],
+     "answer": "Vous l'avez dans une autre couleur ?",
+     "reveal": "<i>Míi sǐi ʉ̀ʉn bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ໃຫຍ່ໂພດ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est trop grand.",
+      "Celui-ci est plus joli.",
+      "Je peux essayer ?",
+      "Vous l'avez dans une autre couleur ?"
+     ],
+     "answer": "C'est trop grand.",
+     "reveal": "<i>Nyày phôot.</i>"
+    },
+    {
+     "audio": [
+      "ອັນນີ້ງາມກວ່າ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Celui-ci est plus joli.",
+      "Vous l'avez dans une autre couleur ?",
+      "Je peux essayer ?",
+      "C'est trop grand."
+     ],
+     "answer": "Celui-ci est plus joli.",
+     "reveal": "<i>Ǎn nȉi ngáam kwàa.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ເສື້ອ",
+   "rom": "Sʉ̂a",
+   "fr": "chemise, haut",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂສ້ງ",
+   "rom": "Sôong",
+   "fr": "pantalon",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສິ້ນ",
+   "rom": "Sîn",
+   "fr": "sinh (jupe lao)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເກີບ",
+   "rom": "Kɤ̏ɤp",
+   "fr": "chaussures",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລອງ",
+   "rom": "Lɔ́ɔng",
+   "fr": "essayer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂະໜາດ",
+   "rom": "Khā-nȁat",
+   "fr": "taille",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສີອື່ນ",
+   "rom": "Sǐi ʉ̀ʉn",
+   "fr": "autre couleur",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກວ່າ",
+   "rom": "Kwàa",
+   "fr": "plus… que",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃຫຍ່ໂພດ",
+   "rom": "Nyày phôot",
+   "fr": "trop grand",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພໍດີ",
+   "rom": "Phɔ́ɔ-dǐi",
+   "fr": "à la bonne taille",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລອງໄດ້ບໍ?",
+   "rom": "Lɔ́ɔng dâay bɔ̌ɔ?",
+   "fr": "Je peux essayer ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມີສີອື່ນບໍ?",
+   "rom": "Míi sǐi ʉ̀ʉn bɔ̌ɔ?",
+   "fr": "Vous l'avez dans une autre couleur ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃຫຍ່ໂພດ",
+   "rom": "Nyày phôot.",
+   "fr": "C'est trop grand.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອັນນີ້ງາມກວ່າ",
+   "rom": "Ǎn nȉi ngáam kwàa.",
+   "fr": "Celui-ci est plus joli.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ລອງ",
+    "ໄດ້",
+    "ບໍ"
+   ],
+   "rom": "Lɔ́ɔng dâay bɔ̌ɔ?",
+   "fr": "Je peux essayer ?"
+  },
+  {
+   "tokens": [
+    "ມີ",
+    "ສີ",
+    "ອື່ນ",
+    "ບໍ"
+   ],
+   "rom": "Míi sǐi ʉ̀ʉn bɔ̌ɔ?",
+   "fr": "Vous l'avez dans une autre couleur ?"
+  },
+  {
+   "tokens": [
+    "ໃຫຍ່",
+    "ໂພດ"
+   ],
+   "rom": "Nyày phôot.",
+   "fr": "C'est trop grand."
+  },
+  {
+   "tokens": [
+    "ອັນ",
+    "ນີ້",
+    "ງາມ",
+    "ກວ່າ"
+   ],
+   "rom": "Ǎn nȉi ngáam kwàa.",
+   "fr": "Celui-ci est plus joli."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ເສື້ອ",
+   "rom": "Sʉ̂a",
+   "fr": "chemise, haut"
+  },
+  {
+   "lao": "ໂສ້ງ",
+   "rom": "Sôong",
+   "fr": "pantalon"
+  },
+  {
+   "lao": "ສິ້ນ",
+   "rom": "Sîn",
+   "fr": "sinh (jupe lao)"
+  },
+  {
+   "lao": "ເກີບ",
+   "rom": "Kɤ̏ɤp",
+   "fr": "chaussures"
+  },
+  {
+   "lao": "ລອງ",
+   "rom": "Lɔ́ɔng",
+   "fr": "essayer"
+  },
+  {
+   "lao": "ຂະໜາດ",
+   "rom": "Khā-nȁat",
+   "fr": "taille"
+  },
+  {
+   "lao": "ສີອື່ນ",
+   "rom": "Sǐi ʉ̀ʉn",
+   "fr": "autre couleur"
+  },
+  {
+   "lao": "ກວ່າ",
+   "rom": "Kwàa",
+   "fr": "plus… que"
+  },
+  {
+   "lao": "ໃຫຍ່ໂພດ",
+   "rom": "Nyày phôot",
+   "fr": "trop grand"
+  },
+  {
+   "lao": "ພໍດີ",
+   "rom": "Phɔ́ɔ-dǐi",
+   "fr": "à la bonne taille"
+  }
+ ],
+ "sounds": {
+  "ໜາວ": "Nǎaw",
+  "ພຸ້ນ": "Phȕn",
+  "ວັນຈັນ": "Wán-jǎn",
+  "ຈອກ": "Jɔ̏ɔk",
+  "ສິ້ນນີ້ມີສີອື່ນບໍ": "Sîn nȉi míi sǐi ʉ̀ʉn bɔ̌ɔ?",
+  "ມີສີແດງແລະສີຟ້າ": "Míi sǐi dɛ̌ɛng lɛ́ sǐi-fȁa.",
+  "ລອງໄດ້ບໍ": "Lɔ́ɔng dâay bɔ̌ɔ?",
+  "ໄດ້ ອັນນີ້ງາມກວ່າ": "Dâay. Ǎn nȉi ngáam kwàa.",
+  "ແຕ່ແພງກວ່າ": "Tɛ̀ɛ phɛ́ɛng kwàa.",
+  "ເສື້ອ": "Sʉ̂a",
+  "ໂສ້ງ": "Sôong",
+  "ສິ້ນ": "Sîn",
+  "ເກີບ": "Kɤ̏ɤp",
+  "ລອງ": "lɔ́ɔng",
+  "ຂະໜາດ": "Khā-nȁat",
+  "ສີອື່ນ": "Sǐi ʉ̀ʉn",
+  "ກວ່າ": "kwàa",
+  "ໃຫຍ່ໂພດ": "Nyày phôot.",
+  "ພໍດີ": "Phɔ́ɔ-dǐi",
+  "ງາມກວ່າ": "Ngáam kwàa",
+  "ແພງກວ່າ": "Phɛ́ɛng kwàa",
+  "ອັນນີ້ໃຫຍ່ກວ່າອັນນັ້ນ": "Ǎn nȉi nyày kwàa ǎn nȁn",
+  "ມີສີອື່ນບໍ": "Míi sǐi ʉ̀ʉn bɔ̌ɔ?",
+  "ອັນນີ້ງາມກວ່າ": "Ǎn nȉi ngáam kwàa.",
+  "ໄດ້": "dâay",
+  "ບໍ": "bɔ̌ɔ",
+  "ມີ": "míi",
+  "ສີ": "sǐi",
+  "ອື່ນ": "ʉ̀ʉn",
+  "ໃຫຍ່": "nyày",
+  "ໂພດ": "phôot",
+  "ອັນ": "ǎn",
+  "ນີ້": "nȉi",
+  "ງາມ": "ngáam"
+ },
+ "suivi": "LEÇON : 37 — Partie C (Vie courante, A1) · Vêtements et couleurs\nOBJECTIF : Acheter un vêtement, demander une taille et une couleur, comparer.\nNOTION : la comparaison avec ກວ່າ\nVOCAB : Sʉ̂a, Sôong, Sîn, Kɤ̏ɤp, Lɔ́ɔng, Khā-nȁat, Sǐi ʉ̀ʉn, Kwàa, Nyày phôot, Phɔ́ɔ-dǐi\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 38 — Le corps et la santé"
+}
