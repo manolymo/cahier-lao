@@ -1,0 +1,374 @@
+{
+ "num": 135,
+ "phase": "Partie G · Maîtriser",
+ "title": "Les affaires",
+ "objective": "Mener une réunion de travail.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>droit <small class=\"muted\">(leçon 134)</small></li><li>trop (intensif jeune) <small class=\"muted\">(leçon 132)</small></li><li>extrêmement <small class=\"muted\">(leçon 128)</small></li><li>puiser <small class=\"muted\">(leçon 121)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ສິດ</span> <span class=\"rom\">Sít</span> · droit</li><li><span class=\"lo\">ຫຼາຍໂພດ</span> <span class=\"rom\">Lǎay phôot</span> · trop (intensif jeune)</li><li><span class=\"lo\">ເປັນຢ່າງຍິ່ງ</span> <span class=\"rom\">Pěn yàang nyīng</span> · extrêmement</li><li><span class=\"lo\">ຕັກ</span> <span class=\"rom\">Ták</span> · puiser</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Mener une réunion de travail.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Réunion d&#x27;équipe dans l&#x27;école de Clara.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເລີ່ມກອງປະຊຸມເລີຍເດີ ວາລະທຳອິດແມ່ນ</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ຂ້ອຍຂໍສະເໜີຄວາມຄິດເຫັນ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຊີນ ສະຫຼຸບແລ້ວເຮົາຕົກລົງກັນວ່າ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Lɤ̄ɤm kɔ̌ɔng-pá-sūm lɤ́ɤy dɤ̌ɤ. Wáa-lā thám-ít mɛ̄ɛn…</span><br><span class=\"rom\">Khɔ̂ɔy khɔ̌ɔ sā-něe khwáam khīt-hěn.</span><br><span class=\"rom\">Sɤ́ɤn. Sā-lūp lɛ̏ɛw háo tók-lóng kǎn wāa…</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Commençons la réunion. Le premier point est…<br><b>X</b> — Je voudrais faire une proposition.<br><b>Clara</b> — Allez-y. En résumé, nous convenons que…</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Qui dirige la réunion ?</li></ol><details><summary>Réponses</summary><ol><li>Clara.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ກອງປະຊຸມ</td><td class=\"rom\">Kɔ̌ɔng-pá-sūm</td><td>réunion</td><td></td></tr><tr><td class=\"lo\">ວາລະ</td><td class=\"rom\">Wáa-lā</td><td>point de l&#x27;ordre du jour</td><td></td></tr><tr><td class=\"lo\">ສະເໜີ</td><td class=\"rom\">Sā-něe</td><td>proposer</td><td></td></tr><tr><td class=\"lo\">ຕົກລົງກັນ</td><td class=\"rom\">Tók-lóng kǎn</td><td>convenir ensemble</td><td></td></tr><tr><td class=\"lo\">ມອບໝາຍ</td><td class=\"rom\">Mɔ̂ɔp-mǎay</td><td>confier une tâche</td><td></td></tr><tr><td class=\"lo\">ກຳນົດເວລາ</td><td class=\"rom\">Kǎm-nōt wéé-láa</td><td>échéance</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : animer une réunion",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ວາລະທຳອິດ</span> <span class=\"rom\">Wáa-lā thám-ít…</span> = premier point…</li><li><span class=\"lo\">ສະຫຼຸບແລ້ວ</span> <span class=\"rom\">Sā-lūp lɛ̏ɛw…</span> = en résumé…</li></ul><details><summary>La règle</summary><p>Animer : ouvrir, annoncer les points (ວາລະ), donner la parole (ເຊີນ), résumer et attribuer les tâches (ມອບໝາຍ).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les formules de réunion.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Commençons la réunion.</li><li>Allez-y.</li><li>En résumé…</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເລີ່ມກອງປະຊຸມເລີຍ</span> <span class=\"rom\">Lɤ̄ɤm kɔ̌ɔng-pá-sūm lɤ́ɤy.</span></li><li><span class=\"lo\">ເຊີນ</span> <span class=\"rom\">Sɤ́ɤn.</span></li><li><span class=\"lo\">ສະຫຼຸບແລ້ວ</span> <span class=\"rom\">Sā-lūp lɛ̏ɛw…</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris l&#x27;ordre du jour et le compte rendu d&#x27;une réunion.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Anime une réunion fictive de 20 minutes avec des natifs.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>9 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l135-v01",
+   "front": "ກອງປະຊຸມ",
+   "back": "Kɔ̌ɔng-pá-sūm · réunion"
+  },
+  {
+   "id": "l135-v02",
+   "front": "ວາລະ",
+   "back": "Wáa-lā · point de l'ordre du jour"
+  },
+  {
+   "id": "l135-v03",
+   "front": "ສະເໜີ",
+   "back": "Sā-něe · proposer"
+  },
+  {
+   "id": "l135-v04",
+   "front": "ຕົກລົງກັນ",
+   "back": "Tók-lóng kǎn · convenir ensemble"
+  },
+  {
+   "id": "l135-v05",
+   "front": "ມອບໝາຍ",
+   "back": "Mɔ̂ɔp-mǎay · confier une tâche"
+  },
+  {
+   "id": "l135-v06",
+   "front": "ກຳນົດເວລາ",
+   "back": "Kǎm-nōt wéé-láa · échéance"
+  },
+  {
+   "id": "l135-p01",
+   "front": "Commençons la réunion.",
+   "back": "ເລີ່ມກອງປະຊຸມເລີຍ · Lɤ̄ɤm kɔ̌ɔng-pá-sūm lɤ́ɤy."
+  },
+  {
+   "id": "l135-p02",
+   "front": "Allez-y.",
+   "back": "ເຊີນ · Sɤ́ɤn."
+  },
+  {
+   "id": "l135-p03",
+   "front": "En résumé…",
+   "back": "ສະຫຼຸບແລ້ວ · Sā-lūp lɛ̏ɛw…"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ກອງປະຊຸມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "réunion",
+      "point de l'ordre du jour",
+      "échéance",
+      "proposer"
+     ],
+     "answer": "réunion",
+     "reveal": "<i>Kɔ̌ɔng-pá-sūm</i>"
+    },
+    {
+     "audio": [
+      "ວາລະ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "point de l'ordre du jour",
+      "proposer",
+      "confier une tâche",
+      "échéance"
+     ],
+     "answer": "point de l'ordre du jour",
+     "reveal": "<i>Wáa-lā</i>"
+    },
+    {
+     "audio": [
+      "ສະເໜີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "proposer",
+      "point de l'ordre du jour",
+      "confier une tâche",
+      "convenir ensemble"
+     ],
+     "answer": "proposer",
+     "reveal": "<i>Sā-něe</i>"
+    },
+    {
+     "audio": [
+      "ຕົກລົງກັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "convenir ensemble",
+      "réunion",
+      "proposer",
+      "point de l'ordre du jour"
+     ],
+     "answer": "convenir ensemble",
+     "reveal": "<i>Tók-lóng kǎn</i>"
+    },
+    {
+     "audio": [
+      "ມອບໝາຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "confier une tâche",
+      "échéance",
+      "réunion",
+      "proposer"
+     ],
+     "answer": "confier une tâche",
+     "reveal": "<i>Mɔ̂ɔp-mǎay</i>"
+    },
+    {
+     "audio": [
+      "ກຳນົດເວລາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "échéance",
+      "point de l'ordre du jour",
+      "réunion",
+      "proposer"
+     ],
+     "answer": "échéance",
+     "reveal": "<i>Kǎm-nōt wéé-láa</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເລີ່ມກອງປະຊຸມເລີຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Commençons la réunion.",
+      "Allez-y.",
+      "En résumé…"
+     ],
+     "answer": "Commençons la réunion.",
+     "reveal": "<i>Lɤ̄ɤm kɔ̌ɔng-pá-sūm lɤ́ɤy.</i>"
+    },
+    {
+     "audio": [
+      "ເຊີນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Allez-y.",
+      "Commençons la réunion.",
+      "En résumé…"
+     ],
+     "answer": "Allez-y.",
+     "reveal": "<i>Sɤ́ɤn.</i>"
+    },
+    {
+     "audio": [
+      "ສະຫຼຸບແລ້ວ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "En résumé…",
+      "Commençons la réunion.",
+      "Allez-y."
+     ],
+     "answer": "En résumé…",
+     "reveal": "<i>Sā-lūp lɛ̏ɛw…</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ກອງປະຊຸມ",
+   "rom": "Kɔ̌ɔng-pá-sūm",
+   "fr": "réunion",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ວາລະ",
+   "rom": "Wáa-lā",
+   "fr": "point de l'ordre du jour",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສະເໜີ",
+   "rom": "Sā-něe",
+   "fr": "proposer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕົກລົງກັນ",
+   "rom": "Tók-lóng kǎn",
+   "fr": "convenir ensemble",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມອບໝາຍ",
+   "rom": "Mɔ̂ɔp-mǎay",
+   "fr": "confier une tâche",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກຳນົດເວລາ",
+   "rom": "Kǎm-nōt wéé-láa",
+   "fr": "échéance",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເລີ່ມກອງປະຊຸມເລີຍ",
+   "rom": "Lɤ̄ɤm kɔ̌ɔng-pá-sūm lɤ́ɤy.",
+   "fr": "Commençons la réunion.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຊີນ",
+   "rom": "Sɤ́ɤn.",
+   "fr": "Allez-y.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສະຫຼຸບແລ້ວ",
+   "rom": "Sā-lūp lɛ̏ɛw…",
+   "fr": "En résumé…",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ເລີ່ມ",
+    "ກອງປະຊຸມ",
+    "ເລີຍ"
+   ],
+   "rom": "Lɤ̄ɤm kɔ̌ɔng-pá-sūm lɤ́ɤy.",
+   "fr": "Commençons la réunion."
+  },
+  {
+   "tokens": [
+    "ສະຫຼຸບ",
+    "ແລ້ວ"
+   ],
+   "rom": "Sā-lūp lɛ̏ɛw…",
+   "fr": "En résumé…"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ກອງປະຊຸມ",
+   "rom": "Kɔ̌ɔng-pá-sūm",
+   "fr": "réunion"
+  },
+  {
+   "lao": "ວາລະ",
+   "rom": "Wáa-lā",
+   "fr": "point de l'ordre du jour"
+  },
+  {
+   "lao": "ສະເໜີ",
+   "rom": "Sā-něe",
+   "fr": "proposer"
+  },
+  {
+   "lao": "ຕົກລົງກັນ",
+   "rom": "Tók-lóng kǎn",
+   "fr": "convenir ensemble"
+  },
+  {
+   "lao": "ມອບໝາຍ",
+   "rom": "Mɔ̂ɔp-mǎay",
+   "fr": "confier une tâche"
+  },
+  {
+   "lao": "ກຳນົດເວລາ",
+   "rom": "Kǎm-nōt wéé-láa",
+   "fr": "échéance"
+  }
+ ],
+ "sounds": {
+  "ສິດ": "Sít",
+  "ຫຼາຍໂພດ": "Lǎay phôot",
+  "ເປັນຢ່າງຍິ່ງ": "Pěn yàang nyīng",
+  "ຕັກ": "Ták",
+  "ເລີ່ມກອງປະຊຸມເລີຍເດີ ວາລະທຳອິດແມ່ນ": "Lɤ̄ɤm kɔ̌ɔng-pá-sūm lɤ́ɤy dɤ̌ɤ. Wáa-lā thám-ít mɛ̄ɛn…",
+  "ຂ້ອຍຂໍສະເໜີຄວາມຄິດເຫັນ": "Khɔ̂ɔy khɔ̌ɔ sā-něe khwáam khīt-hěn.",
+  "ເຊີນ ສະຫຼຸບແລ້ວເຮົາຕົກລົງກັນວ່າ": "Sɤ́ɤn. Sā-lūp lɛ̏ɛw háo tók-lóng kǎn wāa…",
+  "ກອງປະຊຸມ": "kɔ̌ɔng-pá-sūm",
+  "ວາລະ": "Wáa-lā",
+  "ສະເໜີ": "Sā-něe",
+  "ຕົກລົງກັນ": "Tók-lóng kǎn",
+  "ມອບໝາຍ": "Mɔ̂ɔp-mǎay",
+  "ກຳນົດເວລາ": "Kǎm-nōt wéé-láa",
+  "ວາລະທຳອິດ": "Wáa-lā thám-ít…",
+  "ສະຫຼຸບແລ້ວ": "Sā-lūp lɛ̏ɛw…",
+  "ເລີ່ມກອງປະຊຸມເລີຍ": "Lɤ̄ɤm kɔ̌ɔng-pá-sūm lɤ́ɤy.",
+  "ເຊີນ": "Sɤ́ɤn.",
+  "ເລີ່ມ": "lɤ̄ɤm",
+  "ເລີຍ": "lɤ́ɤy",
+  "ສະຫຼຸບ": "sā-lūp",
+  "ແລ້ວ": "lɛ̏ɛw"
+ },
+ "suivi": "LEÇON : 135 — Partie G (Maîtriser, C1) · Les affaires\nOBJECTIF : Mener une réunion de travail.\nNOTION : animer une réunion\nVOCAB : Kɔ̌ɔng-pá-sūm, Wáa-lā, Sā-něe, Tók-lóng kǎn, Mɔ̂ɔp-mǎay, Kǎm-nōt wéé-láa\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 136 — Improvisation (1)"
+}

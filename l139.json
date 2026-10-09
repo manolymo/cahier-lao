@@ -1,0 +1,262 @@
+{
+ "num": 139,
+ "phase": "Partie G · Maîtriser",
+ "title": "Projet final",
+ "objective": "Produire un contenu complet en lao (vidéo, texte ou podcast).",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>situation <small class=\"muted\">(leçon 138)</small></li><li>pour moi <small class=\"muted\">(leçon 136)</small></li><li>ados <small class=\"muted\">(leçon 132)</small></li><li>chanteur de lam <small class=\"muted\">(leçon 125)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ສະຖານະການ</span> <span class=\"rom\">Sā-thǎa-nā-kǎan</span> · situation</li><li><span class=\"lo\">ສຳລັບຂ້ອຍ</span> <span class=\"rom\">Sǎm-láp khɔ̂ɔy</span> · pour moi</li><li><span class=\"lo\">ໄວລຸ້ນ</span> <span class=\"rom\">Wáy-lūn</span> · ados</li><li><span class=\"lo\">ໝໍລຳ</span> <span class=\"rom\">Mɔ̌ɔ-lám</span> · chanteur de lam</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Produire un contenu complet en lao (vidéo, texte ou podcast).</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara prépare une vidéo sur son année au Laos.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍຈະເຮັດວິດີໂອກ່ຽວກັບຊີວິດຢູ່ລາວ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຂ້ອຍຊ່ວຍກວດພາສາໃຫ້</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂອບໃຈ ຈະໂພສອາທິດໜ້າ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Khɔ̂ɔy já hēt wī-dǐi-ǒo kìaw-káp síi-wīt yùu láaw.</span><br><span class=\"rom\">Khɔ̂ɔy sūay kȕat pháa-sǎa hây.</span><br><span class=\"rom\">Khɔ̏ɔp-jǎy. Já phôot ǎa-thīt-nâa.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Je vais faire une vidéo sur ma vie au Laos.<br><b>Noy</b> — Je t&#x27;aide à vérifier la langue.<br><b>Clara</b> — Merci. Je la poste la semaine prochaine.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quel est le projet de Clara ?</li></ol><details><summary>Réponses</summary><ol><li>Une vidéo sur sa vie au Laos.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ໂຄງການ</td><td class=\"rom\">Khóong-kǎan</td><td>projet</td><td></td></tr><tr><td class=\"lo\">ເນື້ອຫາ</td><td class=\"rom\">Nʉ̂a-hǎa</td><td>contenu</td><td></td></tr><tr><td class=\"lo\">ກວດ</td><td class=\"rom\">Kȕat</td><td>vérifier</td><td></td></tr><tr><td class=\"lo\">ເຜີຍແຜ່</td><td class=\"rom\">Phɤ̌ɤy-phɛ̀ɛ</td><td>publier, diffuser</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : planifier un contenu",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຈະເຮັດ ກ່ຽວກັບ</span> <span class=\"rom\">Já hēt… kìaw-káp…</span> = je vais faire… sur…</li></ul><details><summary>La règle</summary><p>Projet final : choisir un format, écrire le script, le faire relire, l'enregistrer, le publier.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> ta propre production.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Je vais faire une vidéo.</li><li>Tu peux vérifier ?</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້ອຍຈະເຮັດວິດີໂອ</span> <span class=\"rom\">Khɔ̂ɔy já hēt wī-dǐi-ǒo.</span></li><li><span class=\"lo\">ກວດໃຫ້ແດ່ໄດ້ບໍ?</span> <span class=\"rom\">Kȕat hây dɛ̀ɛ dâay bɔ̌ɔ?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris le script complet de ton projet.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Publie un contenu en lao (vidéo, texte ou podcast) relu par un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>6 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l139-v01",
+   "front": "ໂຄງການ",
+   "back": "Khóong-kǎan · projet"
+  },
+  {
+   "id": "l139-v02",
+   "front": "ເນື້ອຫາ",
+   "back": "Nʉ̂a-hǎa · contenu"
+  },
+  {
+   "id": "l139-v03",
+   "front": "ກວດ",
+   "back": "Kȕat · vérifier"
+  },
+  {
+   "id": "l139-v04",
+   "front": "ເຜີຍແຜ່",
+   "back": "Phɤ̌ɤy-phɛ̀ɛ · publier, diffuser"
+  },
+  {
+   "id": "l139-p01",
+   "front": "Je vais faire une vidéo.",
+   "back": "ຂ້ອຍຈະເຮັດວິດີໂອ · Khɔ̂ɔy já hēt wī-dǐi-ǒo."
+  },
+  {
+   "id": "l139-p02",
+   "front": "Tu peux vérifier ?",
+   "back": "ກວດໃຫ້ແດ່ໄດ້ບໍ? · Kȕat hây dɛ̀ɛ dâay bɔ̌ɔ?"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ໂຄງການ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "projet",
+      "publier, diffuser",
+      "contenu",
+      "vérifier"
+     ],
+     "answer": "projet",
+     "reveal": "<i>Khóong-kǎan</i>"
+    },
+    {
+     "audio": [
+      "ເນື້ອຫາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "contenu",
+      "publier, diffuser",
+      "projet",
+      "vérifier"
+     ],
+     "answer": "contenu",
+     "reveal": "<i>Nʉ̂a-hǎa</i>"
+    },
+    {
+     "audio": [
+      "ກວດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "vérifier",
+      "projet",
+      "contenu",
+      "publier, diffuser"
+     ],
+     "answer": "vérifier",
+     "reveal": "<i>Kȕat</i>"
+    },
+    {
+     "audio": [
+      "ເຜີຍແຜ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "publier, diffuser",
+      "vérifier",
+      "contenu",
+      "projet"
+     ],
+     "answer": "publier, diffuser",
+     "reveal": "<i>Phɤ̌ɤy-phɛ̀ɛ</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ໂຄງການ",
+   "rom": "Khóong-kǎan",
+   "fr": "projet",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເນື້ອຫາ",
+   "rom": "Nʉ̂a-hǎa",
+   "fr": "contenu",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກວດ",
+   "rom": "Kȕat",
+   "fr": "vérifier",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຜີຍແຜ່",
+   "rom": "Phɤ̌ɤy-phɛ̀ɛ",
+   "fr": "publier, diffuser",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຈະເຮັດວິດີໂອ",
+   "rom": "Khɔ̂ɔy já hēt wī-dǐi-ǒo.",
+   "fr": "Je vais faire une vidéo.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກວດໃຫ້ແດ່ໄດ້ບໍ?",
+   "rom": "Kȕat hây dɛ̀ɛ dâay bɔ̌ɔ?",
+   "fr": "Tu peux vérifier ?",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຈະ",
+    "ເຮັດ",
+    "ວິດີໂອ"
+   ],
+   "rom": "Khɔ̂ɔy já hēt wī-dǐi-ǒo.",
+   "fr": "Je vais faire une vidéo."
+  },
+  {
+   "tokens": [
+    "ກວດ",
+    "ໃຫ້",
+    "ແດ່",
+    "ໄດ້",
+    "ບໍ"
+   ],
+   "rom": "Kȕat hây dɛ̀ɛ dâay bɔ̌ɔ?",
+   "fr": "Tu peux vérifier ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ໂຄງການ",
+   "rom": "Khóong-kǎan",
+   "fr": "projet"
+  },
+  {
+   "lao": "ເນື້ອຫາ",
+   "rom": "Nʉ̂a-hǎa",
+   "fr": "contenu"
+  },
+  {
+   "lao": "ກວດ",
+   "rom": "Kȕat",
+   "fr": "vérifier"
+  },
+  {
+   "lao": "ເຜີຍແຜ່",
+   "rom": "Phɤ̌ɤy-phɛ̀ɛ",
+   "fr": "publier, diffuser"
+  }
+ ],
+ "sounds": {
+  "ສະຖານະການ": "Sā-thǎa-nā-kǎan",
+  "ສຳລັບຂ້ອຍ": "Sǎm-láp khɔ̂ɔy",
+  "ໄວລຸ້ນ": "Wáy-lūn",
+  "ໝໍລຳ": "Mɔ̌ɔ-lám",
+  "ຂ້ອຍຈະເຮັດວິດີໂອກ່ຽວກັບຊີວິດຢູ່ລາວ": "Khɔ̂ɔy já hēt wī-dǐi-ǒo kìaw-káp síi-wīt yùu láaw.",
+  "ຂ້ອຍຊ່ວຍກວດພາສາໃຫ້": "Khɔ̂ɔy sūay kȕat pháa-sǎa hây.",
+  "ຂອບໃຈ ຈະໂພສອາທິດໜ້າ": "Khɔ̏ɔp-jǎy. Já phôot ǎa-thīt-nâa.",
+  "ໂຄງການ": "Khóong-kǎan",
+  "ເນື້ອຫາ": "Nʉ̂a-hǎa",
+  "ກວດ": "kȕat",
+  "ເຜີຍແຜ່": "Phɤ̌ɤy-phɛ̀ɛ",
+  "ຈະເຮັດ ກ່ຽວກັບ": "Já hēt… kìaw-káp…",
+  "ຂ້ອຍຈະເຮັດວິດີໂອ": "Khɔ̂ɔy já hēt wī-dǐi-ǒo.",
+  "ກວດໃຫ້ແດ່ໄດ້ບໍ": "Kȕat hây dɛ̀ɛ dâay bɔ̌ɔ?",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ຈະ": "já",
+  "ເຮັດ": "hēt",
+  "ວິດີໂອ": "wī-dǐi-ǒo",
+  "ໃຫ້": "hây",
+  "ແດ່": "dɛ̀ɛ",
+  "ໄດ້": "dâay",
+  "ບໍ": "bɔ̌ɔ"
+ },
+ "suivi": "LEÇON : 139 — Partie G (Maîtriser, C1) · Projet final\nOBJECTIF : Produire un contenu complet en lao (vidéo, texte ou podcast).\nNOTION : planifier un contenu\nVOCAB : Khóong-kǎan, Nʉ̂a-hǎa, Kȕat, Phɤ̌ɤy-phɛ̀ɛ\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 140 — Bilan C1"
+}

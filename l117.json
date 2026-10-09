@@ -1,0 +1,448 @@
+{
+ "num": 117,
+ "phase": "Partie G · Maîtriser",
+ "title": "Le registre religieux",
+ "objective": "Comprendre le vocabulaire d'une cérémonie bouddhiste.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>langue parlée <small class=\"muted\">(leçon 116)</small></li><li>personnage <small class=\"muted\">(leçon 114)</small></li><li>idée principale <small class=\"muted\">(leçon 110)</small></li><li>presque pareil <small class=\"muted\">(leçon 103)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ພາສາປາກ</span> <span class=\"rom\">Pháa-sǎa pȁak</span> · langue parlée</li><li><span class=\"lo\">ຕົວລະຄອນ</span> <span class=\"rom\">Tǔa-lā-khɔ́ɔn</span> · personnage</li><li><span class=\"lo\">ໃຈຄວາມສຳຄັນ</span> <span class=\"rom\">Jǎy-khwáam sǎm-khán</span> · idée principale</li><li><span class=\"lo\">ເກືອບຄືກັນ</span> <span class=\"rom\">Kʉ̏ap khʉ́ʉ kǎn</span> · presque pareil</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Comprendre le vocabulaire d&#x27;une cérémonie bouddhiste.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Une cérémonie au temple.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ມື້ນີ້ມີພິທີທຳບຸນທີ່ວັດ</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ພະສົງຈະສູດມົນ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍຕ້ອງເຮັດແນວໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ນັ່ງພະນົມມືແລະຟັງຢ່າງສະຫງົບ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Mʉ̂ʉ-nȉi míi phī-thíi thám-bǔn thīi wāt.</span><br><span class=\"rom\">Phā-sǒng já sȕut món.</span><br><span class=\"rom\">Khɔ̂ɔy tâɔng hēt nɛ́ɛw-dǎy?</span><br><span class=\"rom\">Nāng phā-nóm-mʉ́ʉ lɛ́ fáng yàang sā-ngōp.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Mme Boua</b> — Aujourd&#x27;hui, il y a une cérémonie de mérites au temple.<br><b>Mme Boua</b> — Les moines vont réciter des prières.<br><b>Clara</b> — Que dois-je faire ?<br><b>Mme Boua</b> — Assieds-toi les mains jointes et écoute calmement.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que font les moines ?</li><li>Que doit faire Clara ?</li></ol><details><summary>Réponses</summary><ol><li>Ils récitent des prières.</li><li>S&#x27;asseoir mains jointes et écouter.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ພິທີ</td><td class=\"rom\">Phī-thíi</td><td>cérémonie</td><td></td></tr><tr><td class=\"lo\">ສູດມົນ</td><td class=\"rom\">Sȕut món</td><td>réciter des prières</td><td></td></tr><tr><td class=\"lo\">ພະນົມມື</td><td class=\"rom\">Phā-nóm-mʉ́ʉ</td><td>joindre les mains</td><td></td></tr><tr><td class=\"lo\">ສະຫງົບ</td><td class=\"rom\">Sā-ngōp</td><td>calme, paisible</td><td></td></tr><tr><td class=\"lo\">ສິນ</td><td class=\"rom\">Sǐn</td><td>préceptes</td><td></td></tr><tr><td class=\"lo\">ທຳ</td><td class=\"rom\">Thám</td><td>dharma</td><td></td></tr><tr><td class=\"lo\">ກຳ</td><td class=\"rom\">Kǎm</td><td>karma</td><td></td></tr><tr><td class=\"lo\">ບຸນ</td><td class=\"rom\">Bǔn</td><td>mérite</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : le vocabulaire du bouddhisme",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ທຳບຸນ</span> <span class=\"rom\">Thám-bǔn</span> = faire des mérites</li><li><span class=\"lo\">ຮັກສາສິນ</span> <span class=\"rom\">Hāk-sǎa sǐn</span> = observer les préceptes</li></ul><details><summary>La règle</summary><p>Le vocabulaire religieux emprunte au pali. Certains verbes changent quand le sujet est un moine. [À VÉRIFIER entièrement avec un pratiquant]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> le rythme des prières.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Que dois-je faire ?</li><li>Les moines récitent.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້ອຍຕ້ອງເຮັດແນວໃດ?</span> <span class=\"rom\">Khɔ̂ɔy tâɔng hēt nɛ́ɛw-dǎy?</span></li><li><span class=\"lo\">ພະສົງສູດມົນ</span> <span class=\"rom\">Phā-sǒng sȕut món.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Explique les mots ບຸນ, ກຳ, ທຳ, ສິນ en lao simple.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Assiste à une cérémonie (temple lao en France) et note 10 mots entendus.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>10 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l117-v01",
+   "front": "ພິທີ",
+   "back": "Phī-thíi · cérémonie"
+  },
+  {
+   "id": "l117-v02",
+   "front": "ສູດມົນ",
+   "back": "Sȕut món · réciter des prières"
+  },
+  {
+   "id": "l117-v03",
+   "front": "ພະນົມມື",
+   "back": "Phā-nóm-mʉ́ʉ · joindre les mains"
+  },
+  {
+   "id": "l117-v04",
+   "front": "ສະຫງົບ",
+   "back": "Sā-ngōp · calme, paisible"
+  },
+  {
+   "id": "l117-v05",
+   "front": "ສິນ",
+   "back": "Sǐn · préceptes"
+  },
+  {
+   "id": "l117-v06",
+   "front": "ທຳ",
+   "back": "Thám · dharma"
+  },
+  {
+   "id": "l117-v07",
+   "front": "ກຳ",
+   "back": "Kǎm · karma"
+  },
+  {
+   "id": "l117-v08",
+   "front": "ບຸນ",
+   "back": "Bǔn · mérite"
+  },
+  {
+   "id": "l117-p01",
+   "front": "Que dois-je faire ?",
+   "back": "ຂ້ອຍຕ້ອງເຮັດແນວໃດ? · Khɔ̂ɔy tâɔng hēt nɛ́ɛw-dǎy?"
+  },
+  {
+   "id": "l117-p02",
+   "front": "Les moines récitent.",
+   "back": "ພະສົງສູດມົນ · Phā-sǒng sȕut món."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ພິທີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "cérémonie",
+      "préceptes",
+      "mérite",
+      "calme, paisible"
+     ],
+     "answer": "cérémonie",
+     "reveal": "<i>Phī-thíi</i>"
+    },
+    {
+     "audio": [
+      "ສູດມົນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "réciter des prières",
+      "karma",
+      "dharma",
+      "mérite"
+     ],
+     "answer": "réciter des prières",
+     "reveal": "<i>Sȕut món</i>"
+    },
+    {
+     "audio": [
+      "ພະນົມມື"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "joindre les mains",
+      "réciter des prières",
+      "cérémonie",
+      "karma"
+     ],
+     "answer": "joindre les mains",
+     "reveal": "<i>Phā-nóm-mʉ́ʉ</i>"
+    },
+    {
+     "audio": [
+      "ສະຫງົບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "calme, paisible",
+      "joindre les mains",
+      "mérite",
+      "préceptes"
+     ],
+     "answer": "calme, paisible",
+     "reveal": "<i>Sā-ngōp</i>"
+    },
+    {
+     "audio": [
+      "ສິນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "préceptes",
+      "cérémonie",
+      "calme, paisible",
+      "karma"
+     ],
+     "answer": "préceptes",
+     "reveal": "<i>Sǐn</i>"
+    },
+    {
+     "audio": [
+      "ທຳ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "dharma",
+      "calme, paisible",
+      "joindre les mains",
+      "karma"
+     ],
+     "answer": "dharma",
+     "reveal": "<i>Thám</i>"
+    },
+    {
+     "audio": [
+      "ກຳ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "karma",
+      "calme, paisible",
+      "préceptes",
+      "réciter des prières"
+     ],
+     "answer": "karma",
+     "reveal": "<i>Kǎm</i>"
+    },
+    {
+     "audio": [
+      "ບຸນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mérite",
+      "préceptes",
+      "karma",
+      "dharma"
+     ],
+     "answer": "mérite",
+     "reveal": "<i>Bǔn</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ມື້ນີ້ມີພິທີທຳບຸນທີ່ວັດ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Aujourd'hui, il y a une cérémonie de mérites au temple.",
+      "Assieds-toi les mains jointes et écoute calmement.",
+      "Que dois-je faire ?",
+      "Les moines vont réciter des prières."
+     ],
+     "answer": "Aujourd'hui, il y a une cérémonie de mérites au temple.",
+     "reveal": "<i>Mʉ̂ʉ-nȉi míi phī-thíi thám-bǔn thīi wāt.</i>"
+    },
+    {
+     "audio": [
+      "ພະສົງຈະສູດມົນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Les moines vont réciter des prières.",
+      "Aujourd'hui, il y a une cérémonie de mérites au temple.",
+      "Assieds-toi les mains jointes et écoute calmement.",
+      "Que dois-je faire ?"
+     ],
+     "answer": "Les moines vont réciter des prières.",
+     "reveal": "<i>Phā-sǒng já sȕut món.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຕ້ອງເຮັດແນວໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Que dois-je faire ?",
+      "Aujourd'hui, il y a une cérémonie de mérites au temple.",
+      "Assieds-toi les mains jointes et écoute calmement.",
+      "Les moines vont réciter des prières."
+     ],
+     "answer": "Que dois-je faire ?",
+     "reveal": "<i>Khɔ̂ɔy tâɔng hēt nɛ́ɛw-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ນັ່ງພະນົມມືແລະຟັງຢ່າງສະຫງົບ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Assieds-toi les mains jointes et écoute calmement.",
+      "Les moines vont réciter des prières.",
+      "Aujourd'hui, il y a une cérémonie de mérites au temple.",
+      "Que dois-je faire ?"
+     ],
+     "answer": "Assieds-toi les mains jointes et écoute calmement.",
+     "reveal": "<i>Nāng phā-nóm-mʉ́ʉ lɛ́ fáng yàang sā-ngōp.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ພິທີ",
+   "rom": "Phī-thíi",
+   "fr": "cérémonie",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສູດມົນ",
+   "rom": "Sȕut món",
+   "fr": "réciter des prières",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພະນົມມື",
+   "rom": "Phā-nóm-mʉ́ʉ",
+   "fr": "joindre les mains",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສະຫງົບ",
+   "rom": "Sā-ngōp",
+   "fr": "calme, paisible",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສິນ",
+   "rom": "Sǐn",
+   "fr": "préceptes",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທຳ",
+   "rom": "Thám",
+   "fr": "dharma",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກຳ",
+   "rom": "Kǎm",
+   "fr": "karma",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບຸນ",
+   "rom": "Bǔn",
+   "fr": "mérite",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຕ້ອງເຮັດແນວໃດ?",
+   "rom": "Khɔ̂ɔy tâɔng hēt nɛ́ɛw-dǎy?",
+   "fr": "Que dois-je faire ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພະສົງສູດມົນ",
+   "rom": "Phā-sǒng sȕut món.",
+   "fr": "Les moines récitent.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຕ້ອງ",
+    "ເຮັດ",
+    "ແນວໃດ"
+   ],
+   "rom": "Khɔ̂ɔy tâɔng hēt nɛ́ɛw-dǎy?",
+   "fr": "Que dois-je faire ?"
+  },
+  {
+   "tokens": [
+    "ພະສົງ",
+    "ສູດ",
+    "ມົນ"
+   ],
+   "rom": "Phā-sǒng sȕut món.",
+   "fr": "Les moines récitent."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ພິທີ",
+   "rom": "Phī-thíi",
+   "fr": "cérémonie"
+  },
+  {
+   "lao": "ສູດມົນ",
+   "rom": "Sȕut món",
+   "fr": "réciter des prières"
+  },
+  {
+   "lao": "ພະນົມມື",
+   "rom": "Phā-nóm-mʉ́ʉ",
+   "fr": "joindre les mains"
+  },
+  {
+   "lao": "ສະຫງົບ",
+   "rom": "Sā-ngōp",
+   "fr": "calme, paisible"
+  },
+  {
+   "lao": "ສິນ",
+   "rom": "Sǐn",
+   "fr": "préceptes"
+  },
+  {
+   "lao": "ທຳ",
+   "rom": "Thám",
+   "fr": "dharma"
+  },
+  {
+   "lao": "ກຳ",
+   "rom": "Kǎm",
+   "fr": "karma"
+  },
+  {
+   "lao": "ບຸນ",
+   "rom": "Bǔn",
+   "fr": "mérite"
+  }
+ ],
+ "sounds": {
+  "ພາສາປາກ": "Pháa-sǎa pȁak",
+  "ຕົວລະຄອນ": "Tǔa-lā-khɔ́ɔn",
+  "ໃຈຄວາມສຳຄັນ": "Jǎy-khwáam sǎm-khán",
+  "ເກືອບຄືກັນ": "Kʉ̏ap khʉ́ʉ kǎn",
+  "ມື້ນີ້ມີພິທີທຳບຸນທີ່ວັດ": "Mʉ̂ʉ-nȉi míi phī-thíi thám-bǔn thīi wāt.",
+  "ພະສົງຈະສູດມົນ": "Phā-sǒng já sȕut món.",
+  "ຂ້ອຍຕ້ອງເຮັດແນວໃດ": "Khɔ̂ɔy tâɔng hēt nɛ́ɛw-dǎy?",
+  "ນັ່ງພະນົມມືແລະຟັງຢ່າງສະຫງົບ": "Nāng phā-nóm-mʉ́ʉ lɛ́ fáng yàang sā-ngōp.",
+  "ພິທີ": "Phī-thíi",
+  "ສູດມົນ": "Sȕut món",
+  "ພະນົມມື": "Phā-nóm-mʉ́ʉ",
+  "ສະຫງົບ": "Sā-ngōp",
+  "ສິນ": "Sǐn",
+  "ທຳ": "Thám",
+  "ກຳ": "Kǎm",
+  "ບຸນ": "Bǔn",
+  "ທຳບຸນ": "Thám-bǔn",
+  "ຮັກສາສິນ": "Hāk-sǎa sǐn",
+  "ພະສົງສູດມົນ": "Phā-sǒng sȕut món.",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ຕ້ອງ": "tâɔng",
+  "ເຮັດ": "hēt",
+  "ແນວໃດ": "nɛ́ɛw-dǎy",
+  "ພະສົງ": "phā-sǒng",
+  "ສູດ": "sȕut",
+  "ມົນ": "món"
+ },
+ "suivi": "LEÇON : 117 — Partie G (Maîtriser, C1) · Le registre religieux\nOBJECTIF : Comprendre le vocabulaire d'une cérémonie bouddhiste.\nNOTION : le vocabulaire du bouddhisme\nVOCAB : Phī-thíi, Sȕut món, Phā-nóm-mʉ́ʉ, Sā-ngōp, Sǐn, Thám, Kǎm, Bǔn\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 118 — Le baci (discours)"
+}

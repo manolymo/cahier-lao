@@ -1,0 +1,294 @@
+{
+ "num": 128,
+ "phase": "Partie G · Maîtriser",
+ "title": "Le discours public",
+ "objective": "Prononcer un discours de 10 minutes.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>je vous soumets donc <small class=\"muted\">(leçon 127)</small></li><li>se répondre <small class=\"muted\">(leçon 125)</small></li><li>proverbe <small class=\"muted\">(leçon 121)</small></li><li>adolescent <small class=\"muted\">(leçon 114)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຈຶ່ງຮຽນມາ</span> <span class=\"rom\">Jʉ̀ng hían máa</span> · je vous soumets donc</li><li><span class=\"lo\">ໂຕ້ຕອບ</span> <span class=\"rom\">Tôo tɔ̏ɔp</span> · se répondre</li><li><span class=\"lo\">ຄຳສຸພາສິດ</span> <span class=\"rom\">Khám sū-pháa-sīt</span> · proverbe</li><li><span class=\"lo\">ໄວລຸ້ນ</span> <span class=\"rom\">Wáy-lūn</span> · adolescent</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Prononcer un discours de 10 minutes.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara fait un discours de remerciement.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຮຽນທ່ານປະທານ ທ່ານແຂກທີ່ນັບຖື</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້າພະເຈົ້າມີຄວາມຍິນດີເປັນຢ່າງຍິ່ງທີ່ໄດ້ມາຢູ່ນີ້</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສຸດທ້າຍນີ້ ຂໍຂອບໃຈທຸກທ່ານ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Hían thāan pá-tháan, thāan khɛ̏ɛk thīi nāp-thʉ̌ʉ.</span><br><span class=\"rom\">Khâa-phā-jâo míi khwáam nyín-dǐi pěn yàang nyīng thīi dâay máa yùu nȉi.</span><br><span class=\"rom\">Sūt-thȁay nȉi, khɔ̌ɔ khɔ̏ɔp-jǎy thūk thāan.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Monsieur le président, chers invités.<br><b>Clara</b> — C&#x27;est un très grand plaisir pour moi d&#x27;être ici.<br><b>Clara</b> — Pour finir, je remercie chacun d&#x27;entre vous.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Comment commence le discours ?</li></ol><details><summary>Réponses</summary><ol><li>Par les salutations protocolaires.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ທ່ານປະທານ</td><td class=\"rom\">Thāan pá-tháan</td><td>monsieur le président</td><td></td></tr><tr><td class=\"lo\">ແຂກ</td><td class=\"rom\">Khɛ̏ɛk</td><td>invité</td><td></td></tr><tr><td class=\"lo\">ເປັນຢ່າງຍິ່ງ</td><td class=\"rom\">Pěn yàang nyīng</td><td>extrêmement</td><td></td></tr><tr><td class=\"lo\">ສຸດທ້າຍນີ້</td><td class=\"rom\">Sūt-thȁay nȉi</td><td>pour finir</td><td></td></tr><tr><td class=\"lo\">ກ່າວຄຳປາໄສ</td><td class=\"rom\">Kàaw khám pǎa-sǎy</td><td>prononcer un discours</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : la rhétorique",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຮຽນທ່ານ</span> <span class=\"rom\">Hían thāan…</span> = salutation protocolaire</li><li><span class=\"lo\">ເປັນຢ່າງຍິ່ງ</span> <span class=\"rom\">Pěn yàang nyīng</span> = intensif soutenu</li></ul><details><summary>La règle</summary><p>Un discours public suit un protocole : saluer par rang, remercier, développer, conclure. Les intensifs soutenus (ເປັນຢ່າງຍິ່ງ) remplacent ຫຼາຍ.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> le rythme lent et posé.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Chers invités.</li><li>Pour finir, merci à tous.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ທ່ານແຂກທີ່ນັບຖື</span> <span class=\"rom\">Thāan khɛ̏ɛk thīi nāp-thʉ̌ʉ.</span></li><li><span class=\"lo\">ສຸດທ້າຍນີ້ ຂໍຂອບໃຈທຸກທ່ານ</span> <span class=\"rom\">Sūt-thȁay nȉi, khɔ̌ɔ khɔ̏ɔp-jǎy thūk thāan.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris un discours de 10 minutes pour une occasion de ton choix.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Prononce un discours devant un groupe de natifs.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>7 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l128-v01",
+   "front": "ທ່ານປະທານ",
+   "back": "Thāan pá-tháan · monsieur le président"
+  },
+  {
+   "id": "l128-v02",
+   "front": "ແຂກ",
+   "back": "Khɛ̏ɛk · invité"
+  },
+  {
+   "id": "l128-v03",
+   "front": "ເປັນຢ່າງຍິ່ງ",
+   "back": "Pěn yàang nyīng · extrêmement"
+  },
+  {
+   "id": "l128-v04",
+   "front": "ສຸດທ້າຍນີ້",
+   "back": "Sūt-thȁay nȉi · pour finir"
+  },
+  {
+   "id": "l128-v05",
+   "front": "ກ່າວຄຳປາໄສ",
+   "back": "Kàaw khám pǎa-sǎy · prononcer un discours"
+  },
+  {
+   "id": "l128-p01",
+   "front": "Chers invités.",
+   "back": "ທ່ານແຂກທີ່ນັບຖື · Thāan khɛ̏ɛk thīi nāp-thʉ̌ʉ."
+  },
+  {
+   "id": "l128-p02",
+   "front": "Pour finir, merci à tous.",
+   "back": "ສຸດທ້າຍນີ້ ຂໍຂອບໃຈທຸກທ່ານ · Sūt-thȁay nȉi, khɔ̌ɔ khɔ̏ɔp-jǎy thūk thāan."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ທ່ານປະທານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "monsieur le président",
+      "extrêmement",
+      "pour finir",
+      "prononcer un discours"
+     ],
+     "answer": "monsieur le président",
+     "reveal": "<i>Thāan pá-tháan</i>"
+    },
+    {
+     "audio": [
+      "ແຂກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "invité",
+      "monsieur le président",
+      "extrêmement",
+      "pour finir"
+     ],
+     "answer": "invité",
+     "reveal": "<i>Khɛ̏ɛk</i>"
+    },
+    {
+     "audio": [
+      "ເປັນຢ່າງຍິ່ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "extrêmement",
+      "monsieur le président",
+      "pour finir",
+      "invité"
+     ],
+     "answer": "extrêmement",
+     "reveal": "<i>Pěn yàang nyīng</i>"
+    },
+    {
+     "audio": [
+      "ສຸດທ້າຍນີ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pour finir",
+      "invité",
+      "monsieur le président",
+      "prononcer un discours"
+     ],
+     "answer": "pour finir",
+     "reveal": "<i>Sūt-thȁay nȉi</i>"
+    },
+    {
+     "audio": [
+      "ກ່າວຄຳປາໄສ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "prononcer un discours",
+      "monsieur le président",
+      "extrêmement",
+      "invité"
+     ],
+     "answer": "prononcer un discours",
+     "reveal": "<i>Kàaw khám pǎa-sǎy</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ທ່ານປະທານ",
+   "rom": "Thāan pá-tháan",
+   "fr": "monsieur le président",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແຂກ",
+   "rom": "Khɛ̏ɛk",
+   "fr": "invité",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເປັນຢ່າງຍິ່ງ",
+   "rom": "Pěn yàang nyīng",
+   "fr": "extrêmement",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສຸດທ້າຍນີ້",
+   "rom": "Sūt-thȁay nȉi",
+   "fr": "pour finir",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກ່າວຄຳປາໄສ",
+   "rom": "Kàaw khám pǎa-sǎy",
+   "fr": "prononcer un discours",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທ່ານແຂກທີ່ນັບຖື",
+   "rom": "Thāan khɛ̏ɛk thīi nāp-thʉ̌ʉ.",
+   "fr": "Chers invités.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສຸດທ້າຍນີ້ ຂໍຂອບໃຈທຸກທ່ານ",
+   "rom": "Sūt-thȁay nȉi, khɔ̌ɔ khɔ̏ɔp-jǎy thūk thāan.",
+   "fr": "Pour finir, merci à tous.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ທ່ານ",
+    "ແຂກ",
+    "ທີ່",
+    "ນັບຖື"
+   ],
+   "rom": "Thāan khɛ̏ɛk thīi nāp-thʉ̌ʉ.",
+   "fr": "Chers invités."
+  },
+  {
+   "tokens": [
+    "ສຸດທ້າຍ",
+    "ນີ້",
+    "ຂໍ",
+    "ຂອບໃຈ",
+    "ທຸກ",
+    "ທ່ານ"
+   ],
+   "rom": "Sūt-thȁay nȉi, khɔ̌ɔ khɔ̏ɔp-jǎy thūk thāan.",
+   "fr": "Pour finir, merci à tous."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ທ່ານປະທານ",
+   "rom": "Thāan pá-tháan",
+   "fr": "monsieur le président"
+  },
+  {
+   "lao": "ແຂກ",
+   "rom": "Khɛ̏ɛk",
+   "fr": "invité"
+  },
+  {
+   "lao": "ເປັນຢ່າງຍິ່ງ",
+   "rom": "Pěn yàang nyīng",
+   "fr": "extrêmement"
+  },
+  {
+   "lao": "ສຸດທ້າຍນີ້",
+   "rom": "Sūt-thȁay nȉi",
+   "fr": "pour finir"
+  },
+  {
+   "lao": "ກ່າວຄຳປາໄສ",
+   "rom": "Kàaw khám pǎa-sǎy",
+   "fr": "prononcer un discours"
+  }
+ ],
+ "sounds": {
+  "ຈຶ່ງຮຽນມາ": "Jʉ̀ng hían máa",
+  "ໂຕ້ຕອບ": "Tôo tɔ̏ɔp",
+  "ຄຳສຸພາສິດ": "Khám sū-pháa-sīt",
+  "ໄວລຸ້ນ": "Wáy-lūn",
+  "ຮຽນທ່ານປະທານ ທ່ານແຂກທີ່ນັບຖື": "Hían thāan pá-tháan, thāan khɛ̏ɛk thīi nāp-thʉ̌ʉ.",
+  "ຂ້າພະເຈົ້າມີຄວາມຍິນດີເປັນຢ່າງຍິ່ງທີ່ໄດ້ມາຢູ່ນີ້": "Khâa-phā-jâo míi khwáam nyín-dǐi pěn yàang nyīng thīi dâay máa yùu nȉi.",
+  "ສຸດທ້າຍນີ້ ຂໍຂອບໃຈທຸກທ່ານ": "Sūt-thȁay nȉi, khɔ̌ɔ khɔ̏ɔp-jǎy thūk thāan.",
+  "ທ່ານປະທານ": "Thāan pá-tháan",
+  "ແຂກ": "khɛ̏ɛk",
+  "ເປັນຢ່າງຍິ່ງ": "Pěn yàang nyīng",
+  "ສຸດທ້າຍນີ້": "Sūt-thȁay nȉi",
+  "ກ່າວຄຳປາໄສ": "Kàaw khám pǎa-sǎy",
+  "ຮຽນທ່ານ": "Hían thāan…",
+  "ທ່ານແຂກທີ່ນັບຖື": "Thāan khɛ̏ɛk thīi nāp-thʉ̌ʉ.",
+  "ທ່ານ": "thāan",
+  "ທີ່": "thīi",
+  "ນັບຖື": "nāp-thʉ̌ʉ",
+  "ສຸດທ້າຍນີ້ຂໍຂອບໃຈທຸກທ່ານ": "Sūt-thȁay nȉi, khɔ̌ɔ khɔ̏ɔp-jǎy thūk thāan.",
+  "ສຸດທ້າຍ": "sūt-thȁay",
+  "ນີ້": "nȉi",
+  "ຂໍ": "khɔ̌ɔ",
+  "ຂອບໃຈ": "khɔ̏ɔp-jǎy",
+  "ທຸກ": "thūk"
+ },
+ "suivi": "LEÇON : 128 — Partie G (Maîtriser, C1) · Le discours public\nOBJECTIF : Prononcer un discours de 10 minutes.\nNOTION : la rhétorique\nVOCAB : Thāan pá-tháan, Khɛ̏ɛk, Pěn yàang nyīng, Sūt-thȁay nȉi, Kàaw khám pǎa-sǎy\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 129 — Interpréter"
+}

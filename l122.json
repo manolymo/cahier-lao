@@ -1,0 +1,250 @@
+{
+ "num": 122,
+ "phase": "Partie G · Maîtriser",
+ "title": "Les proverbes (2)",
+ "objective": "Placer un proverbe au bon moment dans une conversation.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>puiser <small class=\"muted\">(leçon 121)</small></li><li>pour toujours <small class=\"muted\">(leçon 119)</small></li><li>solide (argument) <small class=\"muted\">(leçon 115)</small></li><li>poster <small class=\"muted\">(leçon 108)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຕັກ</span> <span class=\"rom\">Ták</span> · puiser</li><li><span class=\"lo\">ຕະຫຼອດໄປ</span> <span class=\"rom\">Tá-lȍɔt pǎy</span> · pour toujours</li><li><span class=\"lo\">ໜັກແໜ້ນ</span> <span class=\"rom\">Nāk-nɛ̂n</span> · solide (argument)</li><li><span class=\"lo\">ໂພສ</span> <span class=\"rom\">Phôot</span> · poster</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Placer un proverbe au bon moment dans une conversation.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Kèo se décourage.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຂ້ອຍຮຽນບໍ່ເກັ່ງຈັກເທື່ອ</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ຄ່ອຍໆເປັນຄ່ອຍໆໄປ</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ແມ່ນແລ້ວພໍ່</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Khɔ̂ɔy hían bɔ̀ɔ kèng ják thʉ̄a.</span><br><span class=\"rom\">Khɔ̄ɔy khɔ̄ɔy pěn khɔ̄ɔy khɔ̄ɔy pǎy.</span><br><span class=\"rom\">Mɛ̄ɛn lɛ̏ɛw phɔ̄ɔ.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Kèo</b> — Je n&#x27;arrive jamais à être bon.<br><b>M. Somsak</b> — Petit à petit, ça vient.<br><b>Kèo</b> — Tu as raison, papa.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quel conseil donne M. Somsak ?</li></ol><details><summary>Réponses</summary><ol><li>Avancer petit à petit.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຄ່ອຍໆ</td><td class=\"rom\">Khɔ̄ɔy khɔ̄ɔy</td><td>petit à petit, doucement</td><td></td></tr><tr><td class=\"lo\">ທໍ້ໃຈ</td><td class=\"rom\">Thɔ̏ɔ-jǎy</td><td>se décourager</td><td></td></tr><tr><td class=\"lo\">ອົດທົນ</td><td class=\"rom\">Ót-thón</td><td>patienter, persévérer</td><td></td></tr><tr><td class=\"lo\">ຄວາມພະຍາຍາມ</td><td class=\"rom\">Khwáam phā-nyáa-nyáam</td><td>l&#x27;effort</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : glisser une sagesse",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຄ່ອຍໆເປັນຄ່ອຍໆໄປ</span> <span class=\"rom\">Khɔ̄ɔy khɔ̄ɔy pěn khɔ̄ɔy khɔ̄ɔy pǎy</span> = petit à petit [À VÉRIFIER]</li></ul><details><summary>La règle</summary><p>On place un proverbe pour conclure, consoler ou conseiller, souvent avec un ton calme. Évite de les enchaîner.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> le moment où le proverbe arrive.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Petit à petit.</li><li>Ne te décourage pas.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຄ່ອຍໆ</span> <span class=\"rom\">Khɔ̄ɔy khɔ̄ɔy.</span></li><li><span class=\"lo\">ຢ່າທໍ້ໃຈ</span> <span class=\"rom\">Yàa thɔ̏ɔ-jǎy.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris 3 mini-dialogues qui finissent par un proverbe.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Utilise un proverbe à bon escient dans une vraie conversation.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>6 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l122-v01",
+   "front": "ຄ່ອຍໆ",
+   "back": "Khɔ̄ɔy khɔ̄ɔy · petit à petit, doucement"
+  },
+  {
+   "id": "l122-v02",
+   "front": "ທໍ້ໃຈ",
+   "back": "Thɔ̏ɔ-jǎy · se décourager"
+  },
+  {
+   "id": "l122-v03",
+   "front": "ອົດທົນ",
+   "back": "Ót-thón · patienter, persévérer"
+  },
+  {
+   "id": "l122-v04",
+   "front": "ຄວາມພະຍາຍາມ",
+   "back": "Khwáam phā-nyáa-nyáam · l'effort"
+  },
+  {
+   "id": "l122-p01",
+   "front": "Petit à petit.",
+   "back": "ຄ່ອຍໆ · Khɔ̄ɔy khɔ̄ɔy."
+  },
+  {
+   "id": "l122-p02",
+   "front": "Ne te décourage pas.",
+   "back": "ຢ່າທໍ້ໃຈ · Yàa thɔ̏ɔ-jǎy."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຄ່ອຍໆ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "petit à petit, doucement",
+      "l'effort",
+      "patienter, persévérer",
+      "se décourager"
+     ],
+     "answer": "petit à petit, doucement",
+     "reveal": "<i>Khɔ̄ɔy khɔ̄ɔy</i>"
+    },
+    {
+     "audio": [
+      "ທໍ້ໃຈ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "se décourager",
+      "patienter, persévérer",
+      "l'effort",
+      "petit à petit, doucement"
+     ],
+     "answer": "se décourager",
+     "reveal": "<i>Thɔ̏ɔ-jǎy</i>"
+    },
+    {
+     "audio": [
+      "ອົດທົນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "patienter, persévérer",
+      "petit à petit, doucement",
+      "se décourager",
+      "l'effort"
+     ],
+     "answer": "patienter, persévérer",
+     "reveal": "<i>Ót-thón</i>"
+    },
+    {
+     "audio": [
+      "ຄວາມພະຍາຍາມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "l'effort",
+      "se décourager",
+      "patienter, persévérer",
+      "petit à petit, doucement"
+     ],
+     "answer": "l'effort",
+     "reveal": "<i>Khwáam phā-nyáa-nyáam</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຄ່ອຍໆ",
+   "rom": "Khɔ̄ɔy khɔ̄ɔy",
+   "fr": "petit à petit, doucement",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທໍ້ໃຈ",
+   "rom": "Thɔ̏ɔ-jǎy",
+   "fr": "se décourager",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອົດທົນ",
+   "rom": "Ót-thón",
+   "fr": "patienter, persévérer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄວາມພະຍາຍາມ",
+   "rom": "Khwáam phā-nyáa-nyáam",
+   "fr": "l'effort",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄ່ອຍໆ",
+   "rom": "Khɔ̄ɔy khɔ̄ɔy.",
+   "fr": "Petit à petit.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຢ່າທໍ້ໃຈ",
+   "rom": "Yàa thɔ̏ɔ-jǎy.",
+   "fr": "Ne te décourage pas.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຄ່ອຍ",
+    "ໆ"
+   ],
+   "rom": "Khɔ̄ɔy khɔ̄ɔy.",
+   "fr": "Petit à petit."
+  },
+  {
+   "tokens": [
+    "ຢ່າ",
+    "ທໍ້ໃຈ"
+   ],
+   "rom": "Yàa thɔ̏ɔ-jǎy.",
+   "fr": "Ne te décourage pas."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຄ່ອຍໆ",
+   "rom": "Khɔ̄ɔy khɔ̄ɔy",
+   "fr": "petit à petit, doucement"
+  },
+  {
+   "lao": "ທໍ້ໃຈ",
+   "rom": "Thɔ̏ɔ-jǎy",
+   "fr": "se décourager"
+  },
+  {
+   "lao": "ອົດທົນ",
+   "rom": "Ót-thón",
+   "fr": "patienter, persévérer"
+  },
+  {
+   "lao": "ຄວາມພະຍາຍາມ",
+   "rom": "Khwáam phā-nyáa-nyáam",
+   "fr": "l'effort"
+  }
+ ],
+ "sounds": {
+  "ຕັກ": "Ták",
+  "ຕະຫຼອດໄປ": "Tá-lȍɔt pǎy",
+  "ໜັກແໜ້ນ": "Nāk-nɛ̂n",
+  "ໂພສ": "Phôot",
+  "ຂ້ອຍຮຽນບໍ່ເກັ່ງຈັກເທື່ອ": "Khɔ̂ɔy hían bɔ̀ɔ kèng ják thʉ̄a.",
+  "ຄ່ອຍໆເປັນຄ່ອຍໆໄປ": "Khɔ̄ɔy khɔ̄ɔy pěn khɔ̄ɔy khɔ̄ɔy pǎy",
+  "ແມ່ນແລ້ວພໍ່": "Mɛ̄ɛn lɛ̏ɛw phɔ̄ɔ.",
+  "ຄ່ອຍໆ": "Khɔ̄ɔy khɔ̄ɔy.",
+  "ທໍ້ໃຈ": "thɔ̏ɔ-jǎy",
+  "ອົດທົນ": "Ót-thón",
+  "ຄວາມພະຍາຍາມ": "Khwáam phā-nyáa-nyáam",
+  "ຢ່າທໍ້ໃຈ": "Yàa thɔ̏ɔ-jǎy.",
+  "ຄ່ອຍ": "khɔ̄ɔy",
+  "ໆ": "",
+  "ຢ່າ": "yàa"
+ },
+ "suivi": "LEÇON : 122 — Partie G (Maîtriser, C1) · Les proverbes (2)\nOBJECTIF : Placer un proverbe au bon moment dans une conversation.\nNOTION : glisser une sagesse\nVOCAB : Khɔ̄ɔy khɔ̄ɔy, Thɔ̏ɔ-jǎy, Ót-thón, Khwáam phā-nyáa-nyáam\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 123 — Les contes"
+}

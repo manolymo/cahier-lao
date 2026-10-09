@@ -1,0 +1,385 @@
+{
+ "num": 121,
+ "phase": "Partie G · Maîtriser",
+ "title": "Les proverbes (1)",
+ "objective": "Comprendre et utiliser quelques proverbes.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>funérailles <small class=\"muted\">(leçon 120)</small></li><li>voyager <small class=\"muted\">(leçon 118)</small></li><li>personnage <small class=\"muted\">(leçon 114)</small></li><li>se propager (épidémie) <small class=\"muted\">(leçon 107)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ງານສົບ</span> <span class=\"rom\">Ngáan sóp</span> · funérailles</li><li><span class=\"lo\">ເດີນທາງ</span> <span class=\"rom\">Dɤ̌ɤn-tháang</span> · voyager</li><li><span class=\"lo\">ຕົວລະຄອນ</span> <span class=\"rom\">Tǔa-lā-khɔ́ɔn</span> · personnage</li><li><span class=\"lo\">ແຜ່ລະບາດ</span> <span class=\"rom\">Phɛ̀ɛ lā-bȁat</span> · se propager (épidémie)</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Comprendre et utiliser quelques proverbes.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">M. Somsak cite un proverbe.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ນ້ຳຂຶ້ນໃຫ້ຮີບຕັກ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໝາຍຄວາມວ່າແນວໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ໝາຍຄວາມວ່າຕ້ອງຮູ້ຈັກໃຊ້ໂອກາດ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ພາສາຝຣັ່ງກໍມີຄຳຄ້າຍກັນ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Nȁam khʉ̂n hây hîip ták.</span><br><span class=\"rom\">Mǎay khwáam wāa nɛ́ɛw-dǎy?</span><br><span class=\"rom\">Mǎay khwáam wāa tâɔng hȕu-ják sȁy ǒo-kȁat.</span><br><span class=\"rom\">Pháa-sǎa-fa-làng kɔ̂ɔ míi khám khȁay kǎn.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>M. Somsak</b> — Quand l&#x27;eau monte, dépêche-toi de puiser. [À VÉRIFIER]<br><b>Clara</b> — Ça veut dire quoi ?<br><b>M. Somsak</b> — Ça veut dire qu&#x27;il faut saisir les occasions.<br><b>Clara</b> — En français, il y a une expression proche.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que signifie le proverbe ?</li></ol><details><summary>Réponses</summary><ol><li>Il faut saisir les occasions (battre le fer tant qu&#x27;il est chaud).</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ສຸພາສິດ</td><td class=\"rom\">Sū-pháa-sīt</td><td>proverbe</td><td></td></tr><tr><td class=\"lo\">ຄຳສຸພາສິດ</td><td class=\"rom\">Khám sū-pháa-sīt</td><td>proverbe</td><td></td></tr><tr><td class=\"lo\">ໂອກາດ</td><td class=\"rom\">Ǒo-kȁat</td><td>occasion</td><td></td></tr><tr><td class=\"lo\">ຮີບ</td><td class=\"rom\">Hîip</td><td>se dépêcher</td><td></td></tr><tr><td class=\"lo\">ຕັກ</td><td class=\"rom\">Ták</td><td>puiser</td><td></td></tr><tr><td class=\"lo\">ຄຳສອນ</td><td class=\"rom\">Khám sɔ̌ɔn</td><td>enseignement</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : comprendre un proverbe",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ໝາຍຄວາມວ່າ</span> <span class=\"rom\">Mǎay khwáam wāa…</span> = ça veut dire que…</li><li><span class=\"lo\">ຄ້າຍກັບ ໃນພາສາຝຣັ່ງ</span> <span class=\"rom\">Khȁay káp… nǎy pháa-sǎa-fa-làng</span> = ça ressemble à… en français</li></ul><details><summary>La règle</summary><p>Les proverbes lao reposent sur des images de la nature et de la vie rurale. [Les proverbes de cette leçon sont À VÉRIFIER : collecte-les auprès d'un natif]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> le rythme des proverbes.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Ça veut dire quoi ?</li><li>Il faut saisir les occasions.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ໝາຍຄວາມວ່າແນວໃດ?</span> <span class=\"rom\">Mǎay khwáam wāa nɛ́ɛw-dǎy?</span></li><li><span class=\"lo\">ຕ້ອງໃຊ້ໂອກາດ</span> <span class=\"rom\">Tâɔng sȁy ǒo-kȁat.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Collecte 10 proverbes auprès d&#x27;un natif et explique-les en lao.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Demande à un aîné lao ses 5 proverbes préférés.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>8 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l121-v01",
+   "front": "ສຸພາສິດ",
+   "back": "Sū-pháa-sīt · proverbe"
+  },
+  {
+   "id": "l121-v02",
+   "front": "ຄຳສຸພາສິດ",
+   "back": "Khám sū-pháa-sīt · proverbe"
+  },
+  {
+   "id": "l121-v03",
+   "front": "ໂອກາດ",
+   "back": "Ǒo-kȁat · occasion"
+  },
+  {
+   "id": "l121-v04",
+   "front": "ຮີບ",
+   "back": "Hîip · se dépêcher"
+  },
+  {
+   "id": "l121-v05",
+   "front": "ຕັກ",
+   "back": "Ták · puiser"
+  },
+  {
+   "id": "l121-v06",
+   "front": "ຄຳສອນ",
+   "back": "Khám sɔ̌ɔn · enseignement"
+  },
+  {
+   "id": "l121-p01",
+   "front": "Ça veut dire quoi ?",
+   "back": "ໝາຍຄວາມວ່າແນວໃດ? · Mǎay khwáam wāa nɛ́ɛw-dǎy?"
+  },
+  {
+   "id": "l121-p02",
+   "front": "Il faut saisir les occasions.",
+   "back": "ຕ້ອງໃຊ້ໂອກາດ · Tâɔng sȁy ǒo-kȁat."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ສຸພາສິດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "proverbe",
+      "puiser",
+      "occasion",
+      "enseignement"
+     ],
+     "answer": "proverbe",
+     "reveal": "<i>Sū-pháa-sīt</i>"
+    },
+    {
+     "audio": [
+      "ຄຳສຸພາສິດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "proverbe",
+      "occasion",
+      "se dépêcher",
+      "enseignement"
+     ],
+     "answer": "proverbe",
+     "reveal": "<i>Khám sū-pháa-sīt</i>"
+    },
+    {
+     "audio": [
+      "ໂອກາດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "occasion",
+      "proverbe",
+      "puiser",
+      "proverbe"
+     ],
+     "answer": "occasion",
+     "reveal": "<i>Ǒo-kȁat</i>"
+    },
+    {
+     "audio": [
+      "ຮີບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "se dépêcher",
+      "proverbe",
+      "proverbe",
+      "puiser"
+     ],
+     "answer": "se dépêcher",
+     "reveal": "<i>Hîip</i>"
+    },
+    {
+     "audio": [
+      "ຕັກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "puiser",
+      "proverbe",
+      "enseignement",
+      "proverbe"
+     ],
+     "answer": "puiser",
+     "reveal": "<i>Ták</i>"
+    },
+    {
+     "audio": [
+      "ຄຳສອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "enseignement",
+      "se dépêcher",
+      "proverbe",
+      "proverbe"
+     ],
+     "answer": "enseignement",
+     "reveal": "<i>Khám sɔ̌ɔn</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ນ້ຳຂຶ້ນໃຫ້ຮີບຕັກ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Quand l'eau monte, dépêche-toi de puiser. [À VÉRIFIER]",
+      "Ça veut dire qu'il faut saisir les occasions.",
+      "Ça veut dire quoi ?",
+      "En français, il y a une expression proche."
+     ],
+     "answer": "Quand l'eau monte, dépêche-toi de puiser. [À VÉRIFIER]",
+     "reveal": "<i>Nȁam khʉ̂n hây hîip ták.</i>"
+    },
+    {
+     "audio": [
+      "ໝາຍຄວາມວ່າແນວໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Ça veut dire quoi ?",
+      "En français, il y a une expression proche.",
+      "Quand l'eau monte, dépêche-toi de puiser. [À VÉRIFIER]",
+      "Ça veut dire qu'il faut saisir les occasions."
+     ],
+     "answer": "Ça veut dire quoi ?",
+     "reveal": "<i>Mǎay khwáam wāa nɛ́ɛw-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ໝາຍຄວາມວ່າຕ້ອງຮູ້ຈັກໃຊ້ໂອກາດ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Ça veut dire qu'il faut saisir les occasions.",
+      "En français, il y a une expression proche.",
+      "Quand l'eau monte, dépêche-toi de puiser. [À VÉRIFIER]",
+      "Ça veut dire quoi ?"
+     ],
+     "answer": "Ça veut dire qu'il faut saisir les occasions.",
+     "reveal": "<i>Mǎay khwáam wāa tâɔng hȕu-ják sȁy ǒo-kȁat.</i>"
+    },
+    {
+     "audio": [
+      "ພາສາຝຣັ່ງກໍມີຄຳຄ້າຍກັນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "En français, il y a une expression proche.",
+      "Ça veut dire qu'il faut saisir les occasions.",
+      "Quand l'eau monte, dépêche-toi de puiser. [À VÉRIFIER]",
+      "Ça veut dire quoi ?"
+     ],
+     "answer": "En français, il y a une expression proche.",
+     "reveal": "<i>Pháa-sǎa-fa-làng kɔ̂ɔ míi khám khȁay kǎn.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ສຸພາສິດ",
+   "rom": "Sū-pháa-sīt",
+   "fr": "proverbe",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄຳສຸພາສິດ",
+   "rom": "Khám sū-pháa-sīt",
+   "fr": "proverbe",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂອກາດ",
+   "rom": "Ǒo-kȁat",
+   "fr": "occasion",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຮີບ",
+   "rom": "Hîip",
+   "fr": "se dépêcher",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕັກ",
+   "rom": "Ták",
+   "fr": "puiser",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄຳສອນ",
+   "rom": "Khám sɔ̌ɔn",
+   "fr": "enseignement",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໝາຍຄວາມວ່າແນວໃດ?",
+   "rom": "Mǎay khwáam wāa nɛ́ɛw-dǎy?",
+   "fr": "Ça veut dire quoi ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕ້ອງໃຊ້ໂອກາດ",
+   "rom": "Tâɔng sȁy ǒo-kȁat.",
+   "fr": "Il faut saisir les occasions.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ໝາຍ",
+    "ຄວາມ",
+    "ວ່າ",
+    "ແນວໃດ"
+   ],
+   "rom": "Mǎay khwáam wāa nɛ́ɛw-dǎy?",
+   "fr": "Ça veut dire quoi ?"
+  },
+  {
+   "tokens": [
+    "ຕ້ອງ",
+    "ໃຊ້",
+    "ໂອກາດ"
+   ],
+   "rom": "Tâɔng sȁy ǒo-kȁat.",
+   "fr": "Il faut saisir les occasions."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ສຸພາສິດ",
+   "rom": "Sū-pháa-sīt",
+   "fr": "proverbe"
+  },
+  {
+   "lao": "ຄຳສຸພາສິດ",
+   "rom": "Khám sū-pháa-sīt",
+   "fr": "proverbe"
+  },
+  {
+   "lao": "ໂອກາດ",
+   "rom": "Ǒo-kȁat",
+   "fr": "occasion"
+  },
+  {
+   "lao": "ຮີບ",
+   "rom": "Hîip",
+   "fr": "se dépêcher"
+  },
+  {
+   "lao": "ຕັກ",
+   "rom": "Ták",
+   "fr": "puiser"
+  },
+  {
+   "lao": "ຄຳສອນ",
+   "rom": "Khám sɔ̌ɔn",
+   "fr": "enseignement"
+  }
+ ],
+ "sounds": {
+  "ງານສົບ": "Ngáan sóp",
+  "ເດີນທາງ": "Dɤ̌ɤn-tháang",
+  "ຕົວລະຄອນ": "Tǔa-lā-khɔ́ɔn",
+  "ແຜ່ລະບາດ": "Phɛ̀ɛ lā-bȁat",
+  "ນ້ຳຂຶ້ນໃຫ້ຮີບຕັກ": "Nȁam khʉ̂n hây hîip ták.",
+  "ໝາຍຄວາມວ່າແນວໃດ": "Mǎay khwáam wāa nɛ́ɛw-dǎy?",
+  "ໝາຍຄວາມວ່າຕ້ອງຮູ້ຈັກໃຊ້ໂອກາດ": "Mǎay khwáam wāa tâɔng hȕu-ják sȁy ǒo-kȁat.",
+  "ພາສາຝຣັ່ງກໍມີຄຳຄ້າຍກັນ": "Pháa-sǎa-fa-làng kɔ̂ɔ míi khám khȁay kǎn.",
+  "ສຸພາສິດ": "Sū-pháa-sīt",
+  "ຄຳສຸພາສິດ": "Khám sū-pháa-sīt",
+  "ໂອກາດ": "ǒo-kȁat",
+  "ຮີບ": "Hîip",
+  "ຕັກ": "Ták",
+  "ຄຳສອນ": "Khám sɔ̌ɔn",
+  "ໝາຍຄວາມວ່າ": "Mǎay khwáam wāa…",
+  "ຄ້າຍກັບ ໃນພາສາຝຣັ່ງ": "Khȁay káp… nǎy pháa-sǎa-fa-làng",
+  "ຕ້ອງໃຊ້ໂອກາດ": "Tâɔng sȁy ǒo-kȁat.",
+  "ໝາຍ": "mǎay",
+  "ຄວາມ": "khwáam",
+  "ວ່າ": "wāa",
+  "ແນວໃດ": "nɛ́ɛw-dǎy",
+  "ຕ້ອງ": "tâɔng",
+  "ໃຊ້": "sȁy"
+ },
+ "suivi": "LEÇON : 121 — Partie G (Maîtriser, C1) · Les proverbes (1)\nOBJECTIF : Comprendre et utiliser quelques proverbes.\nNOTION : comprendre un proverbe\nVOCAB : Sū-pháa-sīt, Khám sū-pháa-sīt, Ǒo-kȁat, Hîip, Ták, Khám sɔ̌ɔn\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 122 — Les proverbes (2)"
+}

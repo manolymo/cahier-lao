@@ -1,0 +1,289 @@
+{
+ "num": 132,
+ "phase": "Partie G · Maîtriser",
+ "title": "Argot et langue des jeunes",
+ "objective": "Comprendre une conversation de jeunes et les réseaux sociaux.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>naître <small class=\"muted\">(leçon 131)</small></li><li>traduire <small class=\"muted\">(leçon 129)</small></li><li>lam (chant) <small class=\"muted\">(leçon 125)</small></li><li>voyager <small class=\"muted\">(leçon 118)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ເກີດ</span> <span class=\"rom\">Kɤ̏ɤt</span> · naître</li><li><span class=\"lo\">ແປ</span> <span class=\"rom\">Pɛ̌ɛ</span> · traduire</li><li><span class=\"lo\">ລຳ</span> <span class=\"rom\">Lám</span> · lam (chant)</li><li><span class=\"lo\">ເດີນທາງ</span> <span class=\"rom\">Dɤ̌ɤn-tháang</span> · voyager</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Comprendre une conversation de jeunes et les réseaux sociaux.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Kèo et ses amis.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ມື້ນີ້ມ່ວນຫຼາຍໂພດ!</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ແມ່ນບໍ ຊິໄປອີກບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍແກ່ແລ້ວບໍ? ບໍ່ເຂົ້າໃຈຫຍັງເລີຍ!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Mʉ̂ʉ-nȉi mūan lǎay phôot!</span><br><span class=\"rom\">Mɛ̄ɛn bɔ̌ɔ, sī pǎy ìik bɔ̌ɔ?</span><br><span class=\"rom\">Khɔ̂ɔy kɛ̀ɛ lɛ̏ɛw bɔ̌ɔ? Bɔ̀ɔ khâo-jǎy nyǎng lɤ́ɤy!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Kèo</b> — Aujourd&#x27;hui c&#x27;était trop bien !<br><b>X</b> — Grave, on y retourne ?<br><b>Clara</b> — Je suis devenue vieille ? Je ne comprends rien !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Pourquoi Clara ne comprend-elle pas ?</li></ol><details><summary>Réponses</summary><ol><li>Les jeunes parlent avec leurs propres expressions.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຄຳສະແລງ</td><td class=\"rom\">Khám sā-lɛ́ɛng</td><td>argot [À VÉRIFIER]</td><td></td></tr><tr><td class=\"lo\">ໄວລຸ້ນ</td><td class=\"rom\">Wáy-lūn</td><td>ados</td><td></td></tr><tr><td class=\"lo\">ແກ່</td><td class=\"rom\">Kɛ̀ɛ</td><td>vieux</td><td></td></tr><tr><td class=\"lo\">ຊິ</td><td class=\"rom\">Sī</td><td>(futur familier) on va</td><td></td></tr><tr><td class=\"lo\">ຫຼາຍໂພດ</td><td class=\"rom\">Lǎay phôot</td><td>trop (intensif jeune)</td><td>[À VÉRIFIER]</td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : le parler jeune",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ມ່ວນຫຼາຍໂພດ</span> <span class=\"rom\">Mūan lǎay phôot</span> = trop bien [À VÉRIFIER]</li><li><span class=\"lo\">ຊິໄປບໍ?</span> <span class=\"rom\">Sī pǎy bɔ̌ɔ?</span> = on y va ?</li></ul><details><summary>La règle</summary><p>L'argot change vite et varie selon les régions et les réseaux. Cette leçon est forcément À VÉRIFIER avec de jeunes natifs.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les expressions des jeunes.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Je ne comprends rien !</li><li>On y va ?</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ບໍ່ເຂົ້າໃຈຫຍັງເລີຍ!</span> <span class=\"rom\">Bɔ̀ɔ khâo-jǎy nyǎng lɤ́ɤy!</span></li><li><span class=\"lo\">ຊິໄປບໍ?</span> <span class=\"rom\">Sī pǎy bɔ̌ɔ?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Collecte 10 expressions de jeunes Lao sur les réseaux et fais-les expliquer.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Discute avec de jeunes natifs et note leurs expressions.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>7 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l132-v01",
+   "front": "ຄຳສະແລງ",
+   "back": "Khám sā-lɛ́ɛng · argot [À VÉRIFIER]"
+  },
+  {
+   "id": "l132-v02",
+   "front": "ໄວລຸ້ນ",
+   "back": "Wáy-lūn · ados"
+  },
+  {
+   "id": "l132-v03",
+   "front": "ແກ່",
+   "back": "Kɛ̀ɛ · vieux"
+  },
+  {
+   "id": "l132-v04",
+   "front": "ຊິ",
+   "back": "Sī · (futur familier) on va"
+  },
+  {
+   "id": "l132-v05",
+   "front": "ຫຼາຍໂພດ",
+   "back": "Lǎay phôot · trop (intensif jeune)"
+  },
+  {
+   "id": "l132-p01",
+   "front": "Je ne comprends rien !",
+   "back": "ບໍ່ເຂົ້າໃຈຫຍັງເລີຍ! · Bɔ̀ɔ khâo-jǎy nyǎng lɤ́ɤy!"
+  },
+  {
+   "id": "l132-p02",
+   "front": "On y va ?",
+   "back": "ຊິໄປບໍ? · Sī pǎy bɔ̌ɔ?"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຄຳສະແລງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "argot [À VÉRIFIER]",
+      "vieux",
+      "(futur familier) on va",
+      "ados"
+     ],
+     "answer": "argot [À VÉRIFIER]",
+     "reveal": "<i>Khám sā-lɛ́ɛng</i>"
+    },
+    {
+     "audio": [
+      "ໄວລຸ້ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ados",
+      "argot [À VÉRIFIER]",
+      "vieux",
+      "trop (intensif jeune)"
+     ],
+     "answer": "ados",
+     "reveal": "<i>Wáy-lūn</i>"
+    },
+    {
+     "audio": [
+      "ແກ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "vieux",
+      "argot [À VÉRIFIER]",
+      "(futur familier) on va",
+      "trop (intensif jeune)"
+     ],
+     "answer": "vieux",
+     "reveal": "<i>Kɛ̀ɛ</i>"
+    },
+    {
+     "audio": [
+      "ຊິ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "(futur familier) on va",
+      "trop (intensif jeune)",
+      "ados",
+      "argot [À VÉRIFIER]"
+     ],
+     "answer": "(futur familier) on va",
+     "reveal": "<i>Sī</i>"
+    },
+    {
+     "audio": [
+      "ຫຼາຍໂພດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "trop (intensif jeune)",
+      "argot [À VÉRIFIER]",
+      "(futur familier) on va",
+      "ados"
+     ],
+     "answer": "trop (intensif jeune)",
+     "reveal": "<i>Lǎay phôot</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຄຳສະແລງ",
+   "rom": "Khám sā-lɛ́ɛng",
+   "fr": "argot [À VÉRIFIER]",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄວລຸ້ນ",
+   "rom": "Wáy-lūn",
+   "fr": "ados",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແກ່",
+   "rom": "Kɛ̀ɛ",
+   "fr": "vieux",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊິ",
+   "rom": "Sī",
+   "fr": "(futur familier) on va",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫຼາຍໂພດ",
+   "rom": "Lǎay phôot",
+   "fr": "trop (intensif jeune)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ເຂົ້າໃຈຫຍັງເລີຍ!",
+   "rom": "Bɔ̀ɔ khâo-jǎy nyǎng lɤ́ɤy!",
+   "fr": "Je ne comprends rien !",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊິໄປບໍ?",
+   "rom": "Sī pǎy bɔ̌ɔ?",
+   "fr": "On y va ?",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ບໍ່",
+    "ເຂົ້າໃຈ",
+    "ຫຍັງ",
+    "ເລີຍ"
+   ],
+   "rom": "Bɔ̀ɔ khâo-jǎy nyǎng lɤ́ɤy!",
+   "fr": "Je ne comprends rien !"
+  },
+  {
+   "tokens": [
+    "ຊິ",
+    "ໄປ",
+    "ບໍ"
+   ],
+   "rom": "Sī pǎy bɔ̌ɔ?",
+   "fr": "On y va ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຄຳສະແລງ",
+   "rom": "Khám sā-lɛ́ɛng",
+   "fr": "argot [À VÉRIFIER]"
+  },
+  {
+   "lao": "ໄວລຸ້ນ",
+   "rom": "Wáy-lūn",
+   "fr": "ados"
+  },
+  {
+   "lao": "ແກ່",
+   "rom": "Kɛ̀ɛ",
+   "fr": "vieux"
+  },
+  {
+   "lao": "ຊິ",
+   "rom": "Sī",
+   "fr": "(futur familier) on va"
+  },
+  {
+   "lao": "ຫຼາຍໂພດ",
+   "rom": "Lǎay phôot",
+   "fr": "trop (intensif jeune)"
+  }
+ ],
+ "sounds": {
+  "ເກີດ": "Kɤ̏ɤt",
+  "ແປ": "Pɛ̌ɛ",
+  "ລຳ": "Lám",
+  "ເດີນທາງ": "Dɤ̌ɤn-tháang",
+  "ມື້ນີ້ມ່ວນຫຼາຍໂພດ": "Mʉ̂ʉ-nȉi mūan lǎay phôot!",
+  "ແມ່ນບໍ ຊິໄປອີກບໍ": "Mɛ̄ɛn bɔ̌ɔ, sī pǎy ìik bɔ̌ɔ?",
+  "ຂ້ອຍແກ່ແລ້ວບໍ ບໍ່ເຂົ້າໃຈຫຍັງເລີຍ": "Khɔ̂ɔy kɛ̀ɛ lɛ̏ɛw bɔ̌ɔ? Bɔ̀ɔ khâo-jǎy nyǎng lɤ́ɤy!",
+  "ຄຳສະແລງ": "Khám sā-lɛ́ɛng",
+  "ໄວລຸ້ນ": "Wáy-lūn",
+  "ແກ່": "Kɛ̀ɛ",
+  "ຊິ": "sī",
+  "ຫຼາຍໂພດ": "Lǎay phôot",
+  "ມ່ວນຫຼາຍໂພດ": "Mūan lǎay phôot",
+  "ຊິໄປບໍ": "Sī pǎy bɔ̌ɔ?",
+  "ບໍ່ເຂົ້າໃຈຫຍັງເລີຍ": "Bɔ̀ɔ khâo-jǎy nyǎng lɤ́ɤy!",
+  "ບໍ່": "bɔ̀ɔ",
+  "ເຂົ້າໃຈ": "khâo-jǎy",
+  "ຫຍັງ": "nyǎng",
+  "ເລີຍ": "lɤ́ɤy",
+  "ໄປ": "pǎy",
+  "ບໍ": "bɔ̌ɔ"
+ },
+ "suivi": "LEÇON : 132 — Partie G (Maîtriser, C1) · Argot et langue des jeunes\nOBJECTIF : Comprendre une conversation de jeunes et les réseaux sociaux.\nNOTION : le parler jeune\nVOCAB : Khám sā-lɛ́ɛng, Wáy-lūn, Kɛ̀ɛ, Sī, Lǎay phôot\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 133 — Les sciences"
+}

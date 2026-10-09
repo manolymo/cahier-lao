@@ -1,0 +1,318 @@
+{
+ "num": 126,
+ "phase": "Partie G · Maîtriser",
+ "title": "La littérature moderne",
+ "objective": "Commenter un extrait de roman ou de nouvelle.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>khène (orgue à bouche) <small class=\"muted\">(leçon 125)</small></li><li>il était une fois <small class=\"muted\">(leçon 123)</small></li><li>dot <small class=\"muted\">(leçon 119)</small></li><li>accepter, céder <small class=\"muted\">(leçon 112)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ແຄນ</span> <span class=\"rom\">Khɛ́ɛn</span> · khène (orgue à bouche)</li><li><span class=\"lo\">ໃນສະໄໝກ່ອນ</span> <span class=\"rom\">Nǎy sā-mǎy kɔ̀ɔn</span> · il était une fois</li><li><span class=\"lo\">ສິນສອດ</span> <span class=\"rom\">Sǐn-sɔ̏ɔt</span> · dot</li><li><span class=\"lo\">ຍອມ</span> <span class=\"rom\">Nyɔ́ɔm</span> · accepter, céder</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Commenter un extrait de roman ou de nouvelle.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Club de lecture.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເຈົ້າອ່ານນະວະນິຍາຍເລື່ອງນີ້ຈົບແລ້ວບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຈົບແລ້ວ ຕົວລະຄອນຫຼັກເລິກຫຼາຍ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຜູ້ຂຽນຕ້ອງການສື່ຫຍັງ?</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Jâo àan nā-wā-nī-nyáay lʉ̄ang nȉi jóp lɛ̏ɛw bɔ̌ɔ?</span><br><span class=\"rom\">Jóp lɛ̏ɛw. Tǔa-lā-khɔ́ɔn lāk lɤ̄k lǎay.</span><br><span class=\"rom\">Phȕu khǐan tâɔng-kǎan sʉ̀ʉ nyǎng?</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Tu as fini ce roman ?<br><b>Clara</b> — Oui. Le personnage principal est très profond.<br><b>Noy</b> — Que veut transmettre l&#x27;auteur ?</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que pense Clara du personnage ?</li></ol><details><summary>Réponses</summary><ol><li>Il est très profond.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ນະວະນິຍາຍ</td><td class=\"rom\">Nā-wā-nī-nyáay</td><td>roman</td><td></td></tr><tr><td class=\"lo\">ເລື່ອງສັ້ນ</td><td class=\"rom\">Lʉ̄ang sân</td><td>nouvelle</td><td></td></tr><tr><td class=\"lo\">ຜູ້ຂຽນ</td><td class=\"rom\">Phȕu khǐan</td><td>auteur</td><td></td></tr><tr><td class=\"lo\">ເລິກ</td><td class=\"rom\">Lɤ̄k</td><td>profond</td><td></td></tr><tr><td class=\"lo\">ສື່</td><td class=\"rom\">Sʉ̀ʉ</td><td>transmettre</td><td></td></tr><tr><td class=\"lo\">ແນວຄິດ</td><td class=\"rom\">Nɛ́ɛw khīt</td><td>idée, pensée</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : commenter un texte",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຜູ້ຂຽນຕ້ອງການສື່</span> <span class=\"rom\">Phȕu khǐan tâɔng-kǎan sʉ̀ʉ…</span> = l&#x27;auteur veut transmettre…</li></ul><details><summary>La règle</summary><p>Commenter : thème, personnages, intention de l'auteur (ຜູ້ຂຽນຕ້ອງການສື່), ton avis argumenté.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> le vocabulaire littéraire.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Que veut transmettre l&#x27;auteur ?</li><li>Le personnage est profond.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຜູ້ຂຽນຕ້ອງການສື່ຫຍັງ?</span> <span class=\"rom\">Phȕu khǐan tâɔng-kǎan sʉ̀ʉ nyǎng?</span></li><li><span class=\"lo\">ຕົວລະຄອນເລິກ</span> <span class=\"rom\">Tǔa-lā-khɔ́ɔn lɤ̄k.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Commente un extrait de littérature lao en 200 mots.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Lis une nouvelle lao et discutes-en avec un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>8 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l126-v01",
+   "front": "ນະວະນິຍາຍ",
+   "back": "Nā-wā-nī-nyáay · roman"
+  },
+  {
+   "id": "l126-v02",
+   "front": "ເລື່ອງສັ້ນ",
+   "back": "Lʉ̄ang sân · nouvelle"
+  },
+  {
+   "id": "l126-v03",
+   "front": "ຜູ້ຂຽນ",
+   "back": "Phȕu khǐan · auteur"
+  },
+  {
+   "id": "l126-v04",
+   "front": "ເລິກ",
+   "back": "Lɤ̄k · profond"
+  },
+  {
+   "id": "l126-v05",
+   "front": "ສື່",
+   "back": "Sʉ̀ʉ · transmettre"
+  },
+  {
+   "id": "l126-v06",
+   "front": "ແນວຄິດ",
+   "back": "Nɛ́ɛw khīt · idée, pensée"
+  },
+  {
+   "id": "l126-p01",
+   "front": "Que veut transmettre l'auteur ?",
+   "back": "ຜູ້ຂຽນຕ້ອງການສື່ຫຍັງ? · Phȕu khǐan tâɔng-kǎan sʉ̀ʉ nyǎng?"
+  },
+  {
+   "id": "l126-p02",
+   "front": "Le personnage est profond.",
+   "back": "ຕົວລະຄອນເລິກ · Tǔa-lā-khɔ́ɔn lɤ̄k."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ນະວະນິຍາຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "roman",
+      "idée, pensée",
+      "transmettre",
+      "profond"
+     ],
+     "answer": "roman",
+     "reveal": "<i>Nā-wā-nī-nyáay</i>"
+    },
+    {
+     "audio": [
+      "ເລື່ອງສັ້ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "nouvelle",
+      "auteur",
+      "transmettre",
+      "roman"
+     ],
+     "answer": "nouvelle",
+     "reveal": "<i>Lʉ̄ang sân</i>"
+    },
+    {
+     "audio": [
+      "ຜູ້ຂຽນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "auteur",
+      "roman",
+      "idée, pensée",
+      "transmettre"
+     ],
+     "answer": "auteur",
+     "reveal": "<i>Phȕu khǐan</i>"
+    },
+    {
+     "audio": [
+      "ເລິກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "profond",
+      "transmettre",
+      "roman",
+      "auteur"
+     ],
+     "answer": "profond",
+     "reveal": "<i>Lɤ̄k</i>"
+    },
+    {
+     "audio": [
+      "ສື່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "transmettre",
+      "roman",
+      "profond",
+      "auteur"
+     ],
+     "answer": "transmettre",
+     "reveal": "<i>Sʉ̀ʉ</i>"
+    },
+    {
+     "audio": [
+      "ແນວຄິດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "idée, pensée",
+      "profond",
+      "roman",
+      "transmettre"
+     ],
+     "answer": "idée, pensée",
+     "reveal": "<i>Nɛ́ɛw khīt</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ນະວະນິຍາຍ",
+   "rom": "Nā-wā-nī-nyáay",
+   "fr": "roman",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເລື່ອງສັ້ນ",
+   "rom": "Lʉ̄ang sân",
+   "fr": "nouvelle",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຜູ້ຂຽນ",
+   "rom": "Phȕu khǐan",
+   "fr": "auteur",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເລິກ",
+   "rom": "Lɤ̄k",
+   "fr": "profond",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສື່",
+   "rom": "Sʉ̀ʉ",
+   "fr": "transmettre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແນວຄິດ",
+   "rom": "Nɛ́ɛw khīt",
+   "fr": "idée, pensée",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຜູ້ຂຽນຕ້ອງການສື່ຫຍັງ?",
+   "rom": "Phȕu khǐan tâɔng-kǎan sʉ̀ʉ nyǎng?",
+   "fr": "Que veut transmettre l'auteur ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕົວລະຄອນເລິກ",
+   "rom": "Tǔa-lā-khɔ́ɔn lɤ̄k.",
+   "fr": "Le personnage est profond.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຜູ້",
+    "ຂຽນ",
+    "ຕ້ອງການ",
+    "ສື່",
+    "ຫຍັງ"
+   ],
+   "rom": "Phȕu khǐan tâɔng-kǎan sʉ̀ʉ nyǎng?",
+   "fr": "Que veut transmettre l'auteur ?"
+  },
+  {
+   "tokens": [
+    "ຕົວລະຄອນ",
+    "ເລິກ"
+   ],
+   "rom": "Tǔa-lā-khɔ́ɔn lɤ̄k.",
+   "fr": "Le personnage est profond."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ນະວະນິຍາຍ",
+   "rom": "Nā-wā-nī-nyáay",
+   "fr": "roman"
+  },
+  {
+   "lao": "ເລື່ອງສັ້ນ",
+   "rom": "Lʉ̄ang sân",
+   "fr": "nouvelle"
+  },
+  {
+   "lao": "ຜູ້ຂຽນ",
+   "rom": "Phȕu khǐan",
+   "fr": "auteur"
+  },
+  {
+   "lao": "ເລິກ",
+   "rom": "Lɤ̄k",
+   "fr": "profond"
+  },
+  {
+   "lao": "ສື່",
+   "rom": "Sʉ̀ʉ",
+   "fr": "transmettre"
+  },
+  {
+   "lao": "ແນວຄິດ",
+   "rom": "Nɛ́ɛw khīt",
+   "fr": "idée, pensée"
+  }
+ ],
+ "sounds": {
+  "ແຄນ": "Khɛ́ɛn",
+  "ໃນສະໄໝກ່ອນ": "Nǎy sā-mǎy kɔ̀ɔn",
+  "ສິນສອດ": "Sǐn-sɔ̏ɔt",
+  "ຍອມ": "Nyɔ́ɔm",
+  "ເຈົ້າອ່ານນະວະນິຍາຍເລື່ອງນີ້ຈົບແລ້ວບໍ": "Jâo àan nā-wā-nī-nyáay lʉ̄ang nȉi jóp lɛ̏ɛw bɔ̌ɔ?",
+  "ຈົບແລ້ວ ຕົວລະຄອນຫຼັກເລິກຫຼາຍ": "Jóp lɛ̏ɛw. Tǔa-lā-khɔ́ɔn lāk lɤ̄k lǎay.",
+  "ຜູ້ຂຽນຕ້ອງການສື່ຫຍັງ": "Phȕu khǐan tâɔng-kǎan sʉ̀ʉ nyǎng?",
+  "ນະວະນິຍາຍ": "Nā-wā-nī-nyáay",
+  "ເລື່ອງສັ້ນ": "Lʉ̄ang sân",
+  "ຜູ້ຂຽນ": "Phȕu khǐan",
+  "ເລິກ": "lɤ̄k",
+  "ສື່": "sʉ̀ʉ",
+  "ແນວຄິດ": "Nɛ́ɛw khīt",
+  "ຜູ້ຂຽນຕ້ອງການສື່": "Phȕu khǐan tâɔng-kǎan sʉ̀ʉ…",
+  "ຕົວລະຄອນເລິກ": "Tǔa-lā-khɔ́ɔn lɤ̄k.",
+  "ຜູ້": "phȕu",
+  "ຂຽນ": "khǐan",
+  "ຕ້ອງການ": "tâɔng-kǎan",
+  "ຫຍັງ": "nyǎng",
+  "ຕົວລະຄອນ": "tǔa-lā-khɔ́ɔn"
+ },
+ "suivi": "LEÇON : 126 — Partie G (Maîtriser, C1) · La littérature moderne\nOBJECTIF : Commenter un extrait de roman ou de nouvelle.\nNOTION : commenter un texte\nVOCAB : Nā-wā-nī-nyáay, Lʉ̄ang sân, Phȕu khǐan, Lɤ̄k, Sʉ̀ʉ, Nɛ́ɛw khīt\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 127 — L'écrit administratif"
+}

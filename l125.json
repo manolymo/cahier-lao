@@ -1,0 +1,288 @@
+{
+ "num": 125,
+ "phase": "Partie G · Maîtriser",
+ "title": "Les chants traditionnels",
+ "objective": "Comprendre le lam, chant alterné accompagné au khène.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>vers, syllabe <small class=\"muted\">(leçon 124)</small></li><li>patienter, persévérer <small class=\"muted\">(leçon 122)</small></li><li>cérémonie d&#x27;appel des âmes (baci) <small class=\"muted\">(leçon 118)</small></li><li>faire un plan <small class=\"muted\">(leçon 111)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ວັກ</span> <span class=\"rom\">Wāk</span> · vers, syllabe</li><li><span class=\"lo\">ອົດທົນ</span> <span class=\"rom\">Ót-thón</span> · patienter, persévérer</li><li><span class=\"lo\">ສູ່ຂວັນ</span> <span class=\"rom\">Sùu-khwǎn</span> · cérémonie d&#x27;appel des âmes (baci)</li><li><span class=\"lo\">ວາງໂຄງ</span> <span class=\"rom\">Wáang khóong</span> · faire un plan</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Comprendre le lam, chant alterné accompagné au khène.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Fête de village avec un mo lam.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ໝໍລຳກຳລັງລຳໂຕ້ຕອບກັນ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຂົາຮ້ອງກ່ຽວກັບຫຍັງ?</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ກ່ຽວກັບຄວາມຮັກ ແຊວກັນມ່ວນໆ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Mɔ̌ɔ-lám kǎm-láng lám tôo tɔ̏ɔp kǎn.</span><br><span class=\"rom\">Khǎo hȍɔng kìaw-káp nyǎng?</span><br><span class=\"rom\">Kìaw-káp khwáam hāk, sɛ́ɛw kǎn mūan mūan.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>M. Somsak</b> — Les chanteurs de lam se répondent.<br><b>Clara</b> — Ils chantent sur quoi ?<br><b>M. Somsak</b> — L&#x27;amour, ils se taquinent gentiment.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Comment chantent les mo lam ?</li></ol><details><summary>Réponses</summary><ol><li>Ils se répondent (chant alterné).</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ລຳ</td><td class=\"rom\">Lám</td><td>lam (chant)</td><td></td></tr><tr><td class=\"lo\">ໝໍລຳ</td><td class=\"rom\">Mɔ̌ɔ-lám</td><td>chanteur de lam</td><td></td></tr><tr><td class=\"lo\">ແຄນ</td><td class=\"rom\">Khɛ́ɛn</td><td>khène (orgue à bouche)</td><td></td></tr><tr><td class=\"lo\">ໂຕ້ຕອບ</td><td class=\"rom\">Tôo tɔ̏ɔp</td><td>se répondre</td><td></td></tr><tr><td class=\"lo\">ແຊວ</td><td class=\"rom\">Sɛ́ɛw</td><td>taquiner</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : le chant alterné",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ລຳໂຕ້ຕອບ</span> <span class=\"rom\">Lám tôo tɔ̏ɔp</span> = chant en réponse</li></ul><details><summary>La règle</summary><p>Le lam est un chant improvisé accompagné au khène, souvent en joute entre un homme et une femme. La langue y est imagée et pleine de double sens.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> la mélodie du lam qui suit les tons.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Ils se répondent.</li><li>Ils chantent sur quoi ?</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ໂຕ້ຕອບກັນ</span> <span class=\"rom\">Tôo tɔ̏ɔp kǎn.</span></li><li><span class=\"lo\">ຮ້ອງກ່ຽວກັບຫຍັງ?</span> <span class=\"rom\">Hȍɔng kìaw-káp nyǎng?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écoute un lam et transcris 4 vers.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Écoute un lam avec un natif et fais-toi expliquer les images.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>7 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l125-v01",
+   "front": "ລຳ",
+   "back": "Lám · lam (chant)"
+  },
+  {
+   "id": "l125-v02",
+   "front": "ໝໍລຳ",
+   "back": "Mɔ̌ɔ-lám · chanteur de lam"
+  },
+  {
+   "id": "l125-v03",
+   "front": "ແຄນ",
+   "back": "Khɛ́ɛn · khène (orgue à bouche)"
+  },
+  {
+   "id": "l125-v04",
+   "front": "ໂຕ້ຕອບ",
+   "back": "Tôo tɔ̏ɔp · se répondre"
+  },
+  {
+   "id": "l125-v05",
+   "front": "ແຊວ",
+   "back": "Sɛ́ɛw · taquiner"
+  },
+  {
+   "id": "l125-p01",
+   "front": "Ils se répondent.",
+   "back": "ໂຕ້ຕອບກັນ · Tôo tɔ̏ɔp kǎn."
+  },
+  {
+   "id": "l125-p02",
+   "front": "Ils chantent sur quoi ?",
+   "back": "ຮ້ອງກ່ຽວກັບຫຍັງ? · Hȍɔng kìaw-káp nyǎng?"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ລຳ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "lam (chant)",
+      "se répondre",
+      "taquiner",
+      "chanteur de lam"
+     ],
+     "answer": "lam (chant)",
+     "reveal": "<i>Lám</i>"
+    },
+    {
+     "audio": [
+      "ໝໍລຳ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "chanteur de lam",
+      "taquiner",
+      "khène (orgue à bouche)",
+      "se répondre"
+     ],
+     "answer": "chanteur de lam",
+     "reveal": "<i>Mɔ̌ɔ-lám</i>"
+    },
+    {
+     "audio": [
+      "ແຄນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "khène (orgue à bouche)",
+      "chanteur de lam",
+      "se répondre",
+      "lam (chant)"
+     ],
+     "answer": "khène (orgue à bouche)",
+     "reveal": "<i>Khɛ́ɛn</i>"
+    },
+    {
+     "audio": [
+      "ໂຕ້ຕອບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "se répondre",
+      "chanteur de lam",
+      "lam (chant)",
+      "taquiner"
+     ],
+     "answer": "se répondre",
+     "reveal": "<i>Tôo tɔ̏ɔp</i>"
+    },
+    {
+     "audio": [
+      "ແຊວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "taquiner",
+      "lam (chant)",
+      "chanteur de lam",
+      "se répondre"
+     ],
+     "answer": "taquiner",
+     "reveal": "<i>Sɛ́ɛw</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ລຳ",
+   "rom": "Lám",
+   "fr": "lam (chant)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໝໍລຳ",
+   "rom": "Mɔ̌ɔ-lám",
+   "fr": "chanteur de lam",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແຄນ",
+   "rom": "Khɛ́ɛn",
+   "fr": "khène (orgue à bouche)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂຕ້ຕອບ",
+   "rom": "Tôo tɔ̏ɔp",
+   "fr": "se répondre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແຊວ",
+   "rom": "Sɛ́ɛw",
+   "fr": "taquiner",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂຕ້ຕອບກັນ",
+   "rom": "Tôo tɔ̏ɔp kǎn.",
+   "fr": "Ils se répondent.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຮ້ອງກ່ຽວກັບຫຍັງ?",
+   "rom": "Hȍɔng kìaw-káp nyǎng?",
+   "fr": "Ils chantent sur quoi ?",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ໂຕ້",
+    "ຕອບ",
+    "ກັນ"
+   ],
+   "rom": "Tôo tɔ̏ɔp kǎn.",
+   "fr": "Ils se répondent."
+  },
+  {
+   "tokens": [
+    "ຮ້ອງ",
+    "ກ່ຽວກັບ",
+    "ຫຍັງ"
+   ],
+   "rom": "Hȍɔng kìaw-káp nyǎng?",
+   "fr": "Ils chantent sur quoi ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ລຳ",
+   "rom": "Lám",
+   "fr": "lam (chant)"
+  },
+  {
+   "lao": "ໝໍລຳ",
+   "rom": "Mɔ̌ɔ-lám",
+   "fr": "chanteur de lam"
+  },
+  {
+   "lao": "ແຄນ",
+   "rom": "Khɛ́ɛn",
+   "fr": "khène (orgue à bouche)"
+  },
+  {
+   "lao": "ໂຕ້ຕອບ",
+   "rom": "Tôo tɔ̏ɔp",
+   "fr": "se répondre"
+  },
+  {
+   "lao": "ແຊວ",
+   "rom": "Sɛ́ɛw",
+   "fr": "taquiner"
+  }
+ ],
+ "sounds": {
+  "ວັກ": "Wāk",
+  "ອົດທົນ": "Ót-thón",
+  "ສູ່ຂວັນ": "Sùu-khwǎn",
+  "ວາງໂຄງ": "Wáang khóong",
+  "ໝໍລຳກຳລັງລຳໂຕ້ຕອບກັນ": "Mɔ̌ɔ-lám kǎm-láng lám tôo tɔ̏ɔp kǎn.",
+  "ເຂົາຮ້ອງກ່ຽວກັບຫຍັງ": "Khǎo hȍɔng kìaw-káp nyǎng?",
+  "ກ່ຽວກັບຄວາມຮັກ ແຊວກັນມ່ວນໆ": "Kìaw-káp khwáam hāk, sɛ́ɛw kǎn mūan mūan.",
+  "ລຳ": "Lám",
+  "ໝໍລຳ": "Mɔ̌ɔ-lám",
+  "ແຄນ": "Khɛ́ɛn",
+  "ໂຕ້ຕອບ": "Tôo tɔ̏ɔp",
+  "ແຊວ": "Sɛ́ɛw",
+  "ລຳໂຕ້ຕອບ": "Lám tôo tɔ̏ɔp",
+  "ໂຕ້ຕອບກັນ": "Tôo tɔ̏ɔp kǎn.",
+  "ຮ້ອງກ່ຽວກັບຫຍັງ": "Hȍɔng kìaw-káp nyǎng?",
+  "ໂຕ້": "tôo",
+  "ຕອບ": "tɔ̏ɔp",
+  "ກັນ": "kǎn",
+  "ຮ້ອງ": "hȍɔng",
+  "ກ່ຽວກັບ": "kìaw-káp",
+  "ຫຍັງ": "nyǎng"
+ },
+ "suivi": "LEÇON : 125 — Partie G (Maîtriser, C1) · Les chants traditionnels\nOBJECTIF : Comprendre le lam, chant alterné accompagné au khène.\nNOTION : le chant alterné\nVOCAB : Lám, Mɔ̌ɔ-lám, Khɛ́ɛn, Tôo tɔ̏ɔp, Sɛ́ɛw\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 126 — La littérature moderne"
+}

@@ -1,0 +1,323 @@
+{
+ "num": 123,
+ "phase": "Partie G · Maîtriser",
+ "title": "Les contes",
+ "objective": "Raconter un conte traditionnel.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>l&#x27;effort <small class=\"muted\">(leçon 122)</small></li><li>mes condoléances <small class=\"muted\">(leçon 120)</small></li><li>prendre congé (soutenu) <small class=\"muted\">(leçon 116)</small></li><li>valeur <small class=\"muted\">(leçon 109)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຄວາມພະຍາຍາມ</span> <span class=\"rom\">Khwáam phā-nyáa-nyáam</span> · l&#x27;effort</li><li><span class=\"lo\">ຂໍສະແດງຄວາມເສຍໃຈນຳ</span> <span class=\"rom\">Khɔ̌ɔ sā-dɛ̌ɛng khwáam sǐa-jǎy nám</span> · mes condoléances</li><li><span class=\"lo\">ລາພັກ</span> <span class=\"rom\">Láa-phāk</span> · prendre congé (soutenu)</li><li><span class=\"lo\">ຄຸນຄ່າ</span> <span class=\"rom\">Khún-khāa</span> · valeur</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Raconter un conte traditionnel.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Mme Boua raconte un conte à son petit-enfant.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ໃນສະໄໝກ່ອນ ມີຊາວນາຜູ້ໜຶ່ງ</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ມື້ໜຶ່ງລາວພົບກະຕ່າຍໂຕໜຶ່ງ</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ນິທານເລື່ອງນີ້ສອນໃຫ້ຮູ້ວ່າ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Nǎy sā-mǎy kɔ̀ɔn, míi sáaw-náa phȕu nʉ̀ng…</span><br><span class=\"rom\">Mʉ̂ʉ nʉ̀ng láaw phōp ká-tàay tǒo nʉ̀ng.</span><br><span class=\"rom\">Nī-tháan lʉ̄ang nȉi sɔ̌ɔn hây hȕu wāa…</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Mme Boua</b> — Il était une fois un paysan…<br><b>Mme Boua</b> — Un jour, il rencontra un lièvre.<br><b>Mme Boua</b> — Ce conte nous apprend que…</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Comment commence le conte ?</li></ol><details><summary>Réponses</summary><ol><li>ໃນສະໄໝກ່ອນ… — il était une fois.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ນິທານ</td><td class=\"rom\">Nī-tháan</td><td>conte</td><td></td></tr><tr><td class=\"lo\">ໃນສະໄໝກ່ອນ</td><td class=\"rom\">Nǎy sā-mǎy kɔ̀ɔn</td><td>il était une fois</td><td></td></tr><tr><td class=\"lo\">ຜູ້ໜຶ່ງ</td><td class=\"rom\">Phȕu nʉ̀ng</td><td>un (personnage)</td><td></td></tr><tr><td class=\"lo\">ກະຕ່າຍ</td><td class=\"rom\">Ká-tàay</td><td>lièvre</td><td></td></tr><tr><td class=\"lo\">ສອນໃຫ້ຮູ້ວ່າ</td><td class=\"rom\">Sɔ̌ɔn hây hȕu wāa</td><td>nous apprend que</td><td></td></tr><tr><td class=\"lo\">ຊຽງໝ້ຽງ</td><td class=\"rom\">Síang-mîang</td><td>Xieng Mieng (héros rusé)</td><td>[À VÉRIFIER]</td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : la langue du conte",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ໃນສະໄໝກ່ອນ</span> <span class=\"rom\">Nǎy sā-mǎy kɔ̀ɔn…</span> = il était une fois…</li><li><span class=\"lo\">ນິທານເລື່ອງນີ້ສອນໃຫ້ຮູ້ວ່າ</span> <span class=\"rom\">Nī-tháan lʉ̄ang nȉi sɔ̌ɔn hây hȕu wāa…</span> = la morale est…</li></ul><details><summary>La règle</summary><p>Les contes ont une ouverture (ໃນສະໄໝກ່ອນ), des personnages types (le rusé Xieng Mieng, les animaux) et une morale finale.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les formules d&#x27;ouverture et de morale.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Il était une fois…</li><li>Ce conte nous apprend que…</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ໃນສະໄໝກ່ອນ</span> <span class=\"rom\">Nǎy sā-mǎy kɔ̀ɔn…</span></li><li><span class=\"lo\">ນິທານເລື່ອງນີ້ສອນໃຫ້ຮູ້ວ່າ</span> <span class=\"rom\">Nī-tháan lʉ̄ang nȉi sɔ̌ɔn hây hȕu wāa…</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Raconte un conte français en lao (15 phrases).</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Demande à un aîné de te raconter un conte de Xieng Mieng, puis raconte-le à ton tour.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>8 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l123-v01",
+   "front": "ນິທານ",
+   "back": "Nī-tháan · conte"
+  },
+  {
+   "id": "l123-v02",
+   "front": "ໃນສະໄໝກ່ອນ",
+   "back": "Nǎy sā-mǎy kɔ̀ɔn · il était une fois"
+  },
+  {
+   "id": "l123-v03",
+   "front": "ຜູ້ໜຶ່ງ",
+   "back": "Phȕu nʉ̀ng · un (personnage)"
+  },
+  {
+   "id": "l123-v04",
+   "front": "ກະຕ່າຍ",
+   "back": "Ká-tàay · lièvre"
+  },
+  {
+   "id": "l123-v05",
+   "front": "ສອນໃຫ້ຮູ້ວ່າ",
+   "back": "Sɔ̌ɔn hây hȕu wāa · nous apprend que"
+  },
+  {
+   "id": "l123-v06",
+   "front": "ຊຽງໝ້ຽງ",
+   "back": "Síang-mîang · Xieng Mieng (héros rusé)"
+  },
+  {
+   "id": "l123-p01",
+   "front": "Il était une fois…",
+   "back": "ໃນສະໄໝກ່ອນ · Nǎy sā-mǎy kɔ̀ɔn…"
+  },
+  {
+   "id": "l123-p02",
+   "front": "Ce conte nous apprend que…",
+   "back": "ນິທານເລື່ອງນີ້ສອນໃຫ້ຮູ້ວ່າ · Nī-tháan lʉ̄ang nȉi sɔ̌ɔn hây hȕu wāa…"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ນິທານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "conte",
+      "il était une fois",
+      "Xieng Mieng (héros rusé)",
+      "lièvre"
+     ],
+     "answer": "conte",
+     "reveal": "<i>Nī-tháan</i>"
+    },
+    {
+     "audio": [
+      "ໃນສະໄໝກ່ອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "il était une fois",
+      "Xieng Mieng (héros rusé)",
+      "lièvre",
+      "un (personnage)"
+     ],
+     "answer": "il était une fois",
+     "reveal": "<i>Nǎy sā-mǎy kɔ̀ɔn</i>"
+    },
+    {
+     "audio": [
+      "ຜູ້ໜຶ່ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "un (personnage)",
+      "il était une fois",
+      "conte",
+      "Xieng Mieng (héros rusé)"
+     ],
+     "answer": "un (personnage)",
+     "reveal": "<i>Phȕu nʉ̀ng</i>"
+    },
+    {
+     "audio": [
+      "ກະຕ່າຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "lièvre",
+      "il était une fois",
+      "conte",
+      "nous apprend que"
+     ],
+     "answer": "lièvre",
+     "reveal": "<i>Ká-tàay</i>"
+    },
+    {
+     "audio": [
+      "ສອນໃຫ້ຮູ້ວ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "nous apprend que",
+      "un (personnage)",
+      "conte",
+      "lièvre"
+     ],
+     "answer": "nous apprend que",
+     "reveal": "<i>Sɔ̌ɔn hây hȕu wāa</i>"
+    },
+    {
+     "audio": [
+      "ຊຽງໝ້ຽງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "Xieng Mieng (héros rusé)",
+      "lièvre",
+      "il était une fois",
+      "conte"
+     ],
+     "answer": "Xieng Mieng (héros rusé)",
+     "reveal": "<i>Síang-mîang</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ນິທານ",
+   "rom": "Nī-tháan",
+   "fr": "conte",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃນສະໄໝກ່ອນ",
+   "rom": "Nǎy sā-mǎy kɔ̀ɔn",
+   "fr": "il était une fois",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຜູ້ໜຶ່ງ",
+   "rom": "Phȕu nʉ̀ng",
+   "fr": "un (personnage)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກະຕ່າຍ",
+   "rom": "Ká-tàay",
+   "fr": "lièvre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສອນໃຫ້ຮູ້ວ່າ",
+   "rom": "Sɔ̌ɔn hây hȕu wāa",
+   "fr": "nous apprend que",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊຽງໝ້ຽງ",
+   "rom": "Síang-mîang",
+   "fr": "Xieng Mieng (héros rusé)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃນສະໄໝກ່ອນ",
+   "rom": "Nǎy sā-mǎy kɔ̀ɔn…",
+   "fr": "Il était une fois…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນິທານເລື່ອງນີ້ສອນໃຫ້ຮູ້ວ່າ",
+   "rom": "Nī-tháan lʉ̄ang nȉi sɔ̌ɔn hây hȕu wāa…",
+   "fr": "Ce conte nous apprend que…",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ໃນ",
+    "ສະໄໝ",
+    "ກ່ອນ"
+   ],
+   "rom": "Nǎy sā-mǎy kɔ̀ɔn…",
+   "fr": "Il était une fois…"
+  },
+  {
+   "tokens": [
+    "ນິທານ",
+    "ເລື່ອງ",
+    "ນີ້",
+    "ສອນ",
+    "ໃຫ້",
+    "ຮູ້",
+    "ວ່າ"
+   ],
+   "rom": "Nī-tháan lʉ̄ang nȉi sɔ̌ɔn hây hȕu wāa…",
+   "fr": "Ce conte nous apprend que…"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ນິທານ",
+   "rom": "Nī-tháan",
+   "fr": "conte"
+  },
+  {
+   "lao": "ໃນສະໄໝກ່ອນ",
+   "rom": "Nǎy sā-mǎy kɔ̀ɔn",
+   "fr": "il était une fois"
+  },
+  {
+   "lao": "ຜູ້ໜຶ່ງ",
+   "rom": "Phȕu nʉ̀ng",
+   "fr": "un (personnage)"
+  },
+  {
+   "lao": "ກະຕ່າຍ",
+   "rom": "Ká-tàay",
+   "fr": "lièvre"
+  },
+  {
+   "lao": "ສອນໃຫ້ຮູ້ວ່າ",
+   "rom": "Sɔ̌ɔn hây hȕu wāa",
+   "fr": "nous apprend que"
+  },
+  {
+   "lao": "ຊຽງໝ້ຽງ",
+   "rom": "Síang-mîang",
+   "fr": "Xieng Mieng (héros rusé)"
+  }
+ ],
+ "sounds": {
+  "ຄວາມພະຍາຍາມ": "Khwáam phā-nyáa-nyáam",
+  "ຂໍສະແດງຄວາມເສຍໃຈນຳ": "Khɔ̌ɔ sā-dɛ̌ɛng khwáam sǐa-jǎy nám",
+  "ລາພັກ": "Láa-phāk",
+  "ຄຸນຄ່າ": "Khún-khāa",
+  "ໃນສະໄໝກ່ອນ ມີຊາວນາຜູ້ໜຶ່ງ": "Nǎy sā-mǎy kɔ̀ɔn, míi sáaw-náa phȕu nʉ̀ng…",
+  "ມື້ໜຶ່ງລາວພົບກະຕ່າຍໂຕໜຶ່ງ": "Mʉ̂ʉ nʉ̀ng láaw phōp ká-tàay tǒo nʉ̀ng.",
+  "ນິທານເລື່ອງນີ້ສອນໃຫ້ຮູ້ວ່າ": "Nī-tháan lʉ̄ang nȉi sɔ̌ɔn hây hȕu wāa…",
+  "ນິທານ": "nī-tháan",
+  "ໃນສະໄໝກ່ອນ": "Nǎy sā-mǎy kɔ̀ɔn…",
+  "ຜູ້ໜຶ່ງ": "Phȕu nʉ̀ng",
+  "ກະຕ່າຍ": "Ká-tàay",
+  "ສອນໃຫ້ຮູ້ວ່າ": "Sɔ̌ɔn hây hȕu wāa",
+  "ຊຽງໝ້ຽງ": "Síang-mîang",
+  "ໃນ": "nǎy",
+  "ສະໄໝ": "sā-mǎy",
+  "ກ່ອນ": "kɔ̀ɔn",
+  "ເລື່ອງ": "lʉ̄ang",
+  "ນີ້": "nȉi",
+  "ສອນ": "sɔ̌ɔn",
+  "ໃຫ້": "hây",
+  "ຮູ້": "hȕu",
+  "ວ່າ": "wāa"
+ },
+ "suivi": "LEÇON : 123 — Partie G (Maîtriser, C1) · Les contes\nOBJECTIF : Raconter un conte traditionnel.\nNOTION : la langue du conte\nVOCAB : Nī-tháan, Nǎy sā-mǎy kɔ̀ɔn, Phȕu nʉ̀ng, Ká-tàay, Sɔ̌ɔn hây hȕu wāa, Síang-mîang\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 124 — La poésie"
+}

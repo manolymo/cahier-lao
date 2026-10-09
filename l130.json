@@ -1,0 +1,287 @@
+{
+ "num": 130,
+ "phase": "Partie G · Maîtriser",
+ "title": "Parler aux enfants",
+ "objective": "Adapter ta langue à un jeune enfant.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>traduire une langue <small class=\"muted\">(leçon 129)</small></li><li>je vous soumets donc <small class=\"muted\">(leçon 127)</small></li><li>Xieng Mieng (héros rusé) <small class=\"muted\">(leçon 123)</small></li><li>langue écrite <small class=\"muted\">(leçon 116)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ແປພາສາ</span> <span class=\"rom\">Pɛ̌ɛ pháa-sǎa</span> · traduire une langue</li><li><span class=\"lo\">ຈຶ່ງຮຽນມາ</span> <span class=\"rom\">Jʉ̀ng hían máa</span> · je vous soumets donc</li><li><span class=\"lo\">ຊຽງໝ້ຽງ</span> <span class=\"rom\">Síang-mîang</span> · Xieng Mieng (héros rusé)</li><li><span class=\"lo\">ພາສາຂຽນ</span> <span class=\"rom\">Pháa-sǎa khǐan</span> · langue écrite</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Adapter ta langue à un jeune enfant.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara garde le petit-enfant de Mme Boua.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ນ້ອງຫິວບໍ? ກິນໜົມບໍ?</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ກິນ!</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເກັ່ງຫຼາຍລູກ! ລ້າງມືກ່ອນເດີ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Nɔ̏ɔng hǐw bɔ̌ɔ? Kǐn nǒm bɔ̌ɔ?</span><br><span class=\"rom\">Kǐn!</span><br><span class=\"rom\">Kèng lǎay lûuk! Lȁang mʉ́ʉ kɔ̀ɔn dɤ̌ɤ.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Tu as faim, mon petit ? Tu veux un goûter ?<br><b>X</b> — Oui !<br><b>Clara</b> — Bravo ! Lave-toi les mains d&#x27;abord.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que propose Clara ?</li></ol><details><summary>Réponses</summary><ol><li>Un goûter, après s&#x27;être lavé les mains.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ໜົມ</td><td class=\"rom\">Nǒm</td><td>goûter, gâteau</td><td></td></tr><tr><td class=\"lo\">ນ້ອງ</td><td class=\"rom\">Nɔ̏ɔng</td><td>toi (à un enfant)</td><td></td></tr><tr><td class=\"lo\">ລູກ</td><td class=\"rom\">Lûuk</td><td>mon enfant (affectueux)</td><td></td></tr><tr><td class=\"lo\">ເກັ່ງ</td><td class=\"rom\">Kèng</td><td>bravo, doué</td><td></td></tr><tr><td class=\"lo\">ນອນສາ</td><td class=\"rom\">Nɔ́ɔn sǎa</td><td>dodo</td><td>[À VÉRIFIER]</td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : le registre enfantin",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ນ້ອງຫິວບໍ?</span> <span class=\"rom\">Nɔ̏ɔng hǐw bɔ̌ɔ?</span> = tu as faim, petit ?</li><li><span class=\"lo\">ເກັ່ງຫຼາຍ</span> <span class=\"rom\">Kèng lǎay</span> = bravo</li></ul><details><summary>La règle</summary><p>Avec un enfant : phrases courtes, termes affectueux (ນ້ອງ, ລູກ), répétitions et voix douce.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> la voix douce et les répétitions.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Tu as faim, mon petit ?</li><li>Lave-toi les mains.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ນ້ອງຫິວບໍ?</span> <span class=\"rom\">Nɔ̏ɔng hǐw bɔ̌ɔ?</span></li><li><span class=\"lo\">ລ້າງມືເດີ</span> <span class=\"rom\">Lȁang mʉ́ʉ dɤ̌ɤ.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris 10 phrases pour s&#x27;occuper d&#x27;un enfant.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Parle lao avec un enfant de ta famille pendant 15 minutes.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>7 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l130-v01",
+   "front": "ໜົມ",
+   "back": "Nǒm · goûter, gâteau"
+  },
+  {
+   "id": "l130-v02",
+   "front": "ນ້ອງ",
+   "back": "Nɔ̏ɔng · toi (à un enfant)"
+  },
+  {
+   "id": "l130-v03",
+   "front": "ລູກ",
+   "back": "Lûuk · mon enfant (affectueux)"
+  },
+  {
+   "id": "l130-v04",
+   "front": "ເກັ່ງ",
+   "back": "Kèng · bravo, doué"
+  },
+  {
+   "id": "l130-v05",
+   "front": "ນອນສາ",
+   "back": "Nɔ́ɔn sǎa · dodo"
+  },
+  {
+   "id": "l130-p01",
+   "front": "Tu as faim, mon petit ?",
+   "back": "ນ້ອງຫິວບໍ? · Nɔ̏ɔng hǐw bɔ̌ɔ?"
+  },
+  {
+   "id": "l130-p02",
+   "front": "Lave-toi les mains.",
+   "back": "ລ້າງມືເດີ · Lȁang mʉ́ʉ dɤ̌ɤ."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ໜົມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "goûter, gâteau",
+      "bravo, doué",
+      "toi (à un enfant)",
+      "mon enfant (affectueux)"
+     ],
+     "answer": "goûter, gâteau",
+     "reveal": "<i>Nǒm</i>"
+    },
+    {
+     "audio": [
+      "ນ້ອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "toi (à un enfant)",
+      "mon enfant (affectueux)",
+      "dodo",
+      "goûter, gâteau"
+     ],
+     "answer": "toi (à un enfant)",
+     "reveal": "<i>Nɔ̏ɔng</i>"
+    },
+    {
+     "audio": [
+      "ລູກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mon enfant (affectueux)",
+      "goûter, gâteau",
+      "toi (à un enfant)",
+      "dodo"
+     ],
+     "answer": "mon enfant (affectueux)",
+     "reveal": "<i>Lûuk</i>"
+    },
+    {
+     "audio": [
+      "ເກັ່ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "bravo, doué",
+      "toi (à un enfant)",
+      "goûter, gâteau",
+      "mon enfant (affectueux)"
+     ],
+     "answer": "bravo, doué",
+     "reveal": "<i>Kèng</i>"
+    },
+    {
+     "audio": [
+      "ນອນສາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "dodo",
+      "mon enfant (affectueux)",
+      "toi (à un enfant)",
+      "goûter, gâteau"
+     ],
+     "answer": "dodo",
+     "reveal": "<i>Nɔ́ɔn sǎa</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ໜົມ",
+   "rom": "Nǒm",
+   "fr": "goûter, gâteau",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນ້ອງ",
+   "rom": "Nɔ̏ɔng",
+   "fr": "toi (à un enfant)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລູກ",
+   "rom": "Lûuk",
+   "fr": "mon enfant (affectueux)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເກັ່ງ",
+   "rom": "Kèng",
+   "fr": "bravo, doué",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນອນສາ",
+   "rom": "Nɔ́ɔn sǎa",
+   "fr": "dodo",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນ້ອງຫິວບໍ?",
+   "rom": "Nɔ̏ɔng hǐw bɔ̌ɔ?",
+   "fr": "Tu as faim, mon petit ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລ້າງມືເດີ",
+   "rom": "Lȁang mʉ́ʉ dɤ̌ɤ.",
+   "fr": "Lave-toi les mains.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ນ້ອງ",
+    "ຫິວ",
+    "ບໍ"
+   ],
+   "rom": "Nɔ̏ɔng hǐw bɔ̌ɔ?",
+   "fr": "Tu as faim, mon petit ?"
+  },
+  {
+   "tokens": [
+    "ລ້າງ",
+    "ມື",
+    "ເດີ"
+   ],
+   "rom": "Lȁang mʉ́ʉ dɤ̌ɤ.",
+   "fr": "Lave-toi les mains."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ໜົມ",
+   "rom": "Nǒm",
+   "fr": "goûter, gâteau"
+  },
+  {
+   "lao": "ນ້ອງ",
+   "rom": "Nɔ̏ɔng",
+   "fr": "toi (à un enfant)"
+  },
+  {
+   "lao": "ລູກ",
+   "rom": "Lûuk",
+   "fr": "mon enfant (affectueux)"
+  },
+  {
+   "lao": "ເກັ່ງ",
+   "rom": "Kèng",
+   "fr": "bravo, doué"
+  },
+  {
+   "lao": "ນອນສາ",
+   "rom": "Nɔ́ɔn sǎa",
+   "fr": "dodo"
+  }
+ ],
+ "sounds": {
+  "ແປພາສາ": "Pɛ̌ɛ pháa-sǎa",
+  "ຈຶ່ງຮຽນມາ": "Jʉ̀ng hían máa",
+  "ຊຽງໝ້ຽງ": "Síang-mîang",
+  "ພາສາຂຽນ": "Pháa-sǎa khǐan",
+  "ນ້ອງຫິວບໍ ກິນໜົມບໍ": "Nɔ̏ɔng hǐw bɔ̌ɔ? Kǐn nǒm bɔ̌ɔ?",
+  "ກິນ": "Kǐn!",
+  "ເກັ່ງຫຼາຍລູກ ລ້າງມືກ່ອນເດີ": "Kèng lǎay lûuk! Lȁang mʉ́ʉ kɔ̀ɔn dɤ̌ɤ.",
+  "ໜົມ": "Nǒm",
+  "ນ້ອງ": "nɔ̏ɔng",
+  "ລູກ": "Lûuk",
+  "ເກັ່ງ": "Kèng",
+  "ນອນສາ": "Nɔ́ɔn sǎa",
+  "ນ້ອງຫິວບໍ": "Nɔ̏ɔng hǐw bɔ̌ɔ?",
+  "ເກັ່ງຫຼາຍ": "Kèng lǎay",
+  "ລ້າງມືເດີ": "Lȁang mʉ́ʉ dɤ̌ɤ.",
+  "ຫິວ": "hǐw",
+  "ບໍ": "bɔ̌ɔ",
+  "ລ້າງ": "lȁang",
+  "ມື": "mʉ́ʉ",
+  "ເດີ": "dɤ̌ɤ"
+ },
+ "suivi": "LEÇON : 130 — Partie G (Maîtriser, C1) · Parler aux enfants\nOBJECTIF : Adapter ta langue à un jeune enfant.\nNOTION : le registre enfantin\nVOCAB : Nǒm, Nɔ̏ɔng, Lûuk, Kèng, Nɔ́ɔn sǎa\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 131 — Parler aux anciens"
+}

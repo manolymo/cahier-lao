@@ -1,0 +1,289 @@
+{
+ "num": 120,
+ "phase": "Partie G · Maîtriser",
+ "title": "Funérailles",
+ "objective": "Présenter tes condoléances avec tact.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>mariée <small class=\"muted\">(leçon 119)</small></li><li>joindre les mains <small class=\"muted\">(leçon 117)</small></li><li>présenter <small class=\"muted\">(leçon 113)</small></li><li>éducation <small class=\"muted\">(leçon 106)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ເຈົ້າສາວ</span> <span class=\"rom\">Jâo-sǎaw</span> · mariée</li><li><span class=\"lo\">ພະນົມມື</span> <span class=\"rom\">Phā-nóm-mʉ́ʉ</span> · joindre les mains</li><li><span class=\"lo\">ນຳສະເໜີ</span> <span class=\"rom\">Nám-sā-něe</span> · présenter</li><li><span class=\"lo\">ການສຶກສາ</span> <span class=\"rom\">Kǎan-sʉ̄k-sǎa</span> · éducation</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Présenter tes condoléances avec tact.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Le grand-père d&#x27;un collègue est décédé.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂໍສະແດງຄວາມເສຍໃຈນຳ</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ຂອບໃຈທີ່ມາ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂໍໃຫ້ດວງວິນຍານໄປສູ່ສຸຄະຕິ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Khɔ̌ɔ sā-dɛ̌ɛng khwáam sǐa-jǎy nám.</span><br><span class=\"rom\">Khɔ̏ɔp-jǎy thīi máa.</span><br><span class=\"rom\">Khɔ̌ɔ hây dǔang wín-nyáan pǎy sùu sú-khā-tí.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Je vous présente mes condoléances.<br><b>X</b> — Merci d&#x27;être venue.<br><b>Clara</b> — Que son âme repose en paix. [À VÉRIFIER]</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quelle formule utilise Clara ?</li></ol><details><summary>Réponses</summary><ol><li>ຂໍສະແດງຄວາມເສຍໃຈນຳ.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຂໍສະແດງຄວາມເສຍໃຈນຳ</td><td class=\"rom\">Khɔ̌ɔ sā-dɛ̌ɛng khwáam sǐa-jǎy nám</td><td>mes condoléances</td><td></td></tr><tr><td class=\"lo\">ເສຍຊີວິດ</td><td class=\"rom\">Sǐa-síi-wīt</td><td>décéder</td><td></td></tr><tr><td class=\"lo\">ງານສົບ</td><td class=\"rom\">Ngáan sóp</td><td>funérailles</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ດວງວິນຍານ</td><td class=\"rom\">Dǔang wín-nyáan</td><td>âme</td><td></td></tr><tr><td class=\"lo\">ສຸຄະຕິ</td><td class=\"rom\">Sú-khā-tí</td><td>le paradis (bonne destinée)</td><td>[À VÉRIFIER]</td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : le langage du deuil",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ເສຍຊີວິດ</span> <span class=\"rom\">Sǐa-síi-wīt</span> = décéder (respectueux)</li><li><span class=\"lo\">ຂໍສະແດງຄວາມເສຍໃຈ</span> <span class=\"rom\">Khɔ̌ɔ sā-dɛ̌ɛng khwáam sǐa-jǎy</span> = condoléances</li></ul><details><summary>La règle</summary><p>On évite ຕາຍ (mourir) pour une personne : on dit ເສຍຊີວິດ. Les funérailles durent plusieurs jours, avec des moines. [À VÉRIFIER]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> le ton grave et lent.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Mes condoléances.</li><li>Merci d&#x27;être venu.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂໍສະແດງຄວາມເສຍໃຈນຳ</span> <span class=\"rom\">Khɔ̌ɔ sā-dɛ̌ɛng khwáam sǐa-jǎy nám.</span></li><li><span class=\"lo\">ຂອບໃຈທີ່ມາ</span> <span class=\"rom\">Khɔ̏ɔp-jǎy thīi máa.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris un message de condoléances court et sobre.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Demande à un natif les usages lors des funérailles.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>7 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l120-v01",
+   "front": "ຂໍສະແດງຄວາມເສຍໃຈນຳ",
+   "back": "Khɔ̌ɔ sā-dɛ̌ɛng khwáam sǐa-jǎy nám · mes condoléances"
+  },
+  {
+   "id": "l120-v02",
+   "front": "ເສຍຊີວິດ",
+   "back": "Sǐa-síi-wīt · décéder"
+  },
+  {
+   "id": "l120-v03",
+   "front": "ງານສົບ",
+   "back": "Ngáan sóp · funérailles"
+  },
+  {
+   "id": "l120-v04",
+   "front": "ດວງວິນຍານ",
+   "back": "Dǔang wín-nyáan · âme"
+  },
+  {
+   "id": "l120-v05",
+   "front": "ສຸຄະຕິ",
+   "back": "Sú-khā-tí · le paradis (bonne destinée)"
+  },
+  {
+   "id": "l120-p01",
+   "front": "Mes condoléances.",
+   "back": "ຂໍສະແດງຄວາມເສຍໃຈນຳ · Khɔ̌ɔ sā-dɛ̌ɛng khwáam sǐa-jǎy nám."
+  },
+  {
+   "id": "l120-p02",
+   "front": "Merci d'être venu.",
+   "back": "ຂອບໃຈທີ່ມາ · Khɔ̏ɔp-jǎy thīi máa."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຂໍສະແດງຄວາມເສຍໃຈນຳ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mes condoléances",
+      "le paradis (bonne destinée)",
+      "âme",
+      "décéder"
+     ],
+     "answer": "mes condoléances",
+     "reveal": "<i>Khɔ̌ɔ sā-dɛ̌ɛng khwáam sǐa-jǎy nám</i>"
+    },
+    {
+     "audio": [
+      "ເສຍຊີວິດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "décéder",
+      "mes condoléances",
+      "âme",
+      "le paradis (bonne destinée)"
+     ],
+     "answer": "décéder",
+     "reveal": "<i>Sǐa-síi-wīt</i>"
+    },
+    {
+     "audio": [
+      "ງານສົບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "funérailles",
+      "mes condoléances",
+      "le paradis (bonne destinée)",
+      "décéder"
+     ],
+     "answer": "funérailles",
+     "reveal": "<i>Ngáan sóp</i>"
+    },
+    {
+     "audio": [
+      "ດວງວິນຍານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "âme",
+      "le paradis (bonne destinée)",
+      "funérailles",
+      "décéder"
+     ],
+     "answer": "âme",
+     "reveal": "<i>Dǔang wín-nyáan</i>"
+    },
+    {
+     "audio": [
+      "ສຸຄະຕິ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "le paradis (bonne destinée)",
+      "funérailles",
+      "mes condoléances",
+      "décéder"
+     ],
+     "answer": "le paradis (bonne destinée)",
+     "reveal": "<i>Sú-khā-tí</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຂໍສະແດງຄວາມເສຍໃຈນຳ",
+   "rom": "Khɔ̌ɔ sā-dɛ̌ɛng khwáam sǐa-jǎy nám",
+   "fr": "mes condoléances",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເສຍຊີວິດ",
+   "rom": "Sǐa-síi-wīt",
+   "fr": "décéder",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ງານສົບ",
+   "rom": "Ngáan sóp",
+   "fr": "funérailles",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ດວງວິນຍານ",
+   "rom": "Dǔang wín-nyáan",
+   "fr": "âme",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສຸຄະຕິ",
+   "rom": "Sú-khā-tí",
+   "fr": "le paradis (bonne destinée)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍສະແດງຄວາມເສຍໃຈນຳ",
+   "rom": "Khɔ̌ɔ sā-dɛ̌ɛng khwáam sǐa-jǎy nám.",
+   "fr": "Mes condoléances.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂອບໃຈທີ່ມາ",
+   "rom": "Khɔ̏ɔp-jǎy thīi máa.",
+   "fr": "Merci d'être venu.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂໍ",
+    "ສະແດງ",
+    "ຄວາມ",
+    "ເສຍໃຈ",
+    "ນຳ"
+   ],
+   "rom": "Khɔ̌ɔ sā-dɛ̌ɛng khwáam sǐa-jǎy nám.",
+   "fr": "Mes condoléances."
+  },
+  {
+   "tokens": [
+    "ຂອບໃຈ",
+    "ທີ່",
+    "ມາ"
+   ],
+   "rom": "Khɔ̏ɔp-jǎy thīi máa.",
+   "fr": "Merci d'être venu."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຂໍສະແດງຄວາມເສຍໃຈນຳ",
+   "rom": "Khɔ̌ɔ sā-dɛ̌ɛng khwáam sǐa-jǎy nám",
+   "fr": "mes condoléances"
+  },
+  {
+   "lao": "ເສຍຊີວິດ",
+   "rom": "Sǐa-síi-wīt",
+   "fr": "décéder"
+  },
+  {
+   "lao": "ງານສົບ",
+   "rom": "Ngáan sóp",
+   "fr": "funérailles"
+  },
+  {
+   "lao": "ດວງວິນຍານ",
+   "rom": "Dǔang wín-nyáan",
+   "fr": "âme"
+  },
+  {
+   "lao": "ສຸຄະຕິ",
+   "rom": "Sú-khā-tí",
+   "fr": "le paradis (bonne destinée)"
+  }
+ ],
+ "sounds": {
+  "ເຈົ້າສາວ": "Jâo-sǎaw",
+  "ພະນົມມື": "Phā-nóm-mʉ́ʉ",
+  "ນຳສະເໜີ": "Nám-sā-něe",
+  "ການສຶກສາ": "Kǎan-sʉ̄k-sǎa",
+  "ຂໍສະແດງຄວາມເສຍໃຈນຳ": "Khɔ̌ɔ sā-dɛ̌ɛng khwáam sǐa-jǎy nám.",
+  "ຂອບໃຈທີ່ມາ": "Khɔ̏ɔp-jǎy thīi máa.",
+  "ຂໍໃຫ້ດວງວິນຍານໄປສູ່ສຸຄະຕິ": "Khɔ̌ɔ hây dǔang wín-nyáan pǎy sùu sú-khā-tí.",
+  "ເສຍຊີວິດ": "Sǐa-síi-wīt",
+  "ງານສົບ": "Ngáan sóp",
+  "ດວງວິນຍານ": "Dǔang wín-nyáan",
+  "ສຸຄະຕິ": "Sú-khā-tí",
+  "ຂໍສະແດງຄວາມເສຍໃຈ": "Khɔ̌ɔ sā-dɛ̌ɛng khwáam sǐa-jǎy",
+  "ຂໍ": "khɔ̌ɔ",
+  "ສະແດງ": "sā-dɛ̌ɛng",
+  "ຄວາມ": "khwáam",
+  "ເສຍໃຈ": "sǐa-jǎy",
+  "ນຳ": "nám",
+  "ຂອບໃຈ": "khɔ̏ɔp-jǎy",
+  "ທີ່": "thīi",
+  "ມາ": "máa"
+ },
+ "suivi": "LEÇON : 120 — Partie G (Maîtriser, C1) · Funérailles\nOBJECTIF : Présenter tes condoléances avec tact.\nNOTION : le langage du deuil\nVOCAB : Khɔ̌ɔ sā-dɛ̌ɛng khwáam sǐa-jǎy nám, Sǐa-síi-wīt, Ngáan sóp, Dǔang wín-nyáan, Sú-khā-tí\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 121 — Les proverbes (1)"
+}

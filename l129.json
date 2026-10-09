@@ -1,0 +1,292 @@
+{
+ "num": 129,
+ "phase": "Partie G · Maîtriser",
+ "title": "Interpréter",
+ "objective": "Traduire à l'oral entre français et lao.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>invité <small class=\"muted\">(leçon 128)</small></li><li>transmettre <small class=\"muted\">(leçon 126)</small></li><li>l&#x27;effort <small class=\"muted\">(leçon 122)</small></li><li>développer <small class=\"muted\">(leçon 115)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ແຂກ</span> <span class=\"rom\">Khɛ̏ɛk</span> · invité</li><li><span class=\"lo\">ສື່</span> <span class=\"rom\">Sʉ̀ʉ</span> · transmettre</li><li><span class=\"lo\">ຄວາມພະຍາຍາມ</span> <span class=\"rom\">Khwáam phā-nyáa-nyáam</span> · l&#x27;effort</li><li><span class=\"lo\">ພັດທະນາ</span> <span class=\"rom\">Phāt-thā-náa</span> · développer</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Traduire à l&#x27;oral entre français et lao.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara interprète pour un touriste français.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ລາວຖາມວ່າກິນລາບແຊບຢູ່ໃສ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ບອກລາວໃຫ້ໄປຮ້ານຂ້າງຕະຫຼາດ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Láaw thǎam wāa kǐn lâap sɛ̂ɛp yùu sǎy.</span><br><span class=\"rom\">Bɔ̏ɔk láaw hây pǎy hȁan khâang tá-lȁat.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — (Après la question du touriste en français) Il demande où manger un bon larb.<br><b>Noy</b> — Dis-lui d&#x27;aller au restaurant à côté du marché.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que demande le touriste ?</li></ol><details><summary>Réponses</summary><ol><li>Où manger un bon larb.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ແປ</td><td class=\"rom\">Pɛ̌ɛ</td><td>traduire</td><td></td></tr><tr><td class=\"lo\">ນາຍແປ</td><td class=\"rom\">Náay pɛ̌ɛ</td><td>interprète</td><td></td></tr><tr><td class=\"lo\">ແປພາສາ</td><td class=\"rom\">Pɛ̌ɛ pháa-sǎa</td><td>traduire une langue</td><td></td></tr><tr><td class=\"lo\">ຖ່າຍທອດ</td><td class=\"rom\">Thàay-thɔ̂ɔt</td><td>transmettre</td><td></td></tr><tr><td class=\"lo\">ຄວາມໝາຍ</td><td class=\"rom\">Khwáam mǎay</td><td>sens</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : rapporter pour traduire",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ລາວຖາມວ່າ</span> <span class=\"rom\">Láaw thǎam wāa…</span> = il demande…</li><li><span class=\"lo\">ລາວບອກວ່າ</span> <span class=\"rom\">Láaw bɔ̏ɔk wāa…</span> = il dit…</li></ul><details><summary>La règle</summary><p>En interprétation, on traduit le sens, pas les mots : on reformule souvent au discours rapporté (ລາວຖາມວ່າ…).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> le passage d&#x27;une langue à l&#x27;autre.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Il demande où…</li><li>Je traduis.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ລາວຖາມວ່າ ຢູ່ໃສ</span> <span class=\"rom\">Láaw thǎam wāa… yùu sǎy.</span></li><li><span class=\"lo\">ຂ້ອຍແປໃຫ້</span> <span class=\"rom\">Khɔ̂ɔy pɛ̌ɛ hây.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Traduis à l&#x27;oral 10 phrases françaises en lao, chronométré.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Sers d&#x27;interprète pendant 10 minutes entre un francophone et un natif lao.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>7 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l129-v01",
+   "front": "ແປ",
+   "back": "Pɛ̌ɛ · traduire"
+  },
+  {
+   "id": "l129-v02",
+   "front": "ນາຍແປ",
+   "back": "Náay pɛ̌ɛ · interprète"
+  },
+  {
+   "id": "l129-v03",
+   "front": "ແປພາສາ",
+   "back": "Pɛ̌ɛ pháa-sǎa · traduire une langue"
+  },
+  {
+   "id": "l129-v04",
+   "front": "ຖ່າຍທອດ",
+   "back": "Thàay-thɔ̂ɔt · transmettre"
+  },
+  {
+   "id": "l129-v05",
+   "front": "ຄວາມໝາຍ",
+   "back": "Khwáam mǎay · sens"
+  },
+  {
+   "id": "l129-p01",
+   "front": "Il demande où…",
+   "back": "ລາວຖາມວ່າ ຢູ່ໃສ · Láaw thǎam wāa… yùu sǎy."
+  },
+  {
+   "id": "l129-p02",
+   "front": "Je traduis.",
+   "back": "ຂ້ອຍແປໃຫ້ · Khɔ̂ɔy pɛ̌ɛ hây."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ແປ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "traduire",
+      "transmettre",
+      "traduire une langue",
+      "interprète"
+     ],
+     "answer": "traduire",
+     "reveal": "<i>Pɛ̌ɛ</i>"
+    },
+    {
+     "audio": [
+      "ນາຍແປ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "interprète",
+      "traduire une langue",
+      "traduire",
+      "sens"
+     ],
+     "answer": "interprète",
+     "reveal": "<i>Náay pɛ̌ɛ</i>"
+    },
+    {
+     "audio": [
+      "ແປພາສາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "traduire une langue",
+      "traduire",
+      "sens",
+      "interprète"
+     ],
+     "answer": "traduire une langue",
+     "reveal": "<i>Pɛ̌ɛ pháa-sǎa</i>"
+    },
+    {
+     "audio": [
+      "ຖ່າຍທອດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "transmettre",
+      "interprète",
+      "traduire",
+      "sens"
+     ],
+     "answer": "transmettre",
+     "reveal": "<i>Thàay-thɔ̂ɔt</i>"
+    },
+    {
+     "audio": [
+      "ຄວາມໝາຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "sens",
+      "transmettre",
+      "interprète",
+      "traduire une langue"
+     ],
+     "answer": "sens",
+     "reveal": "<i>Khwáam mǎay</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ແປ",
+   "rom": "Pɛ̌ɛ",
+   "fr": "traduire",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນາຍແປ",
+   "rom": "Náay pɛ̌ɛ",
+   "fr": "interprète",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແປພາສາ",
+   "rom": "Pɛ̌ɛ pháa-sǎa",
+   "fr": "traduire une langue",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຖ່າຍທອດ",
+   "rom": "Thàay-thɔ̂ɔt",
+   "fr": "transmettre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄວາມໝາຍ",
+   "rom": "Khwáam mǎay",
+   "fr": "sens",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລາວຖາມວ່າ ຢູ່ໃສ",
+   "rom": "Láaw thǎam wāa… yùu sǎy.",
+   "fr": "Il demande où…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍແປໃຫ້",
+   "rom": "Khɔ̂ɔy pɛ̌ɛ hây.",
+   "fr": "Je traduis.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ລາວ",
+    "ຖາມ",
+    "ວ່າ",
+    "ຢູ່",
+    "ໃສ"
+   ],
+   "rom": "Láaw thǎam wāa… yùu sǎy.",
+   "fr": "Il demande où…"
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ແປ",
+    "ໃຫ້"
+   ],
+   "rom": "Khɔ̂ɔy pɛ̌ɛ hây.",
+   "fr": "Je traduis."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ແປ",
+   "rom": "Pɛ̌ɛ",
+   "fr": "traduire"
+  },
+  {
+   "lao": "ນາຍແປ",
+   "rom": "Náay pɛ̌ɛ",
+   "fr": "interprète"
+  },
+  {
+   "lao": "ແປພາສາ",
+   "rom": "Pɛ̌ɛ pháa-sǎa",
+   "fr": "traduire une langue"
+  },
+  {
+   "lao": "ຖ່າຍທອດ",
+   "rom": "Thàay-thɔ̂ɔt",
+   "fr": "transmettre"
+  },
+  {
+   "lao": "ຄວາມໝາຍ",
+   "rom": "Khwáam mǎay",
+   "fr": "sens"
+  }
+ ],
+ "sounds": {
+  "ແຂກ": "Khɛ̏ɛk",
+  "ສື່": "Sʉ̀ʉ",
+  "ຄວາມພະຍາຍາມ": "Khwáam phā-nyáa-nyáam",
+  "ພັດທະນາ": "Phāt-thā-náa",
+  "ລາວຖາມວ່າກິນລາບແຊບຢູ່ໃສ": "Láaw thǎam wāa kǐn lâap sɛ̂ɛp yùu sǎy.",
+  "ບອກລາວໃຫ້ໄປຮ້ານຂ້າງຕະຫຼາດ": "Bɔ̏ɔk láaw hây pǎy hȁan khâang tá-lȁat.",
+  "ແປ": "pɛ̌ɛ",
+  "ນາຍແປ": "Náay pɛ̌ɛ",
+  "ແປພາສາ": "Pɛ̌ɛ pháa-sǎa",
+  "ຖ່າຍທອດ": "Thàay-thɔ̂ɔt",
+  "ຄວາມໝາຍ": "Khwáam mǎay",
+  "ລາວຖາມວ່າ": "Láaw thǎam wāa…",
+  "ລາວບອກວ່າ": "Láaw bɔ̏ɔk wāa…",
+  "ລາວຖາມວ່າ ຢູ່ໃສ": "Láaw thǎam wāa… yùu sǎy.",
+  "ຂ້ອຍແປໃຫ້": "Khɔ̂ɔy pɛ̌ɛ hây.",
+  "ລາວຖາມວ່າຢູ່ໃສ": "Láaw thǎam wāa… yùu sǎy.",
+  "ລາວ": "láaw",
+  "ຖາມ": "thǎam",
+  "ວ່າ": "wāa",
+  "ຢູ່": "yùu",
+  "ໃສ": "sǎy",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ໃຫ້": "hây"
+ },
+ "suivi": "LEÇON : 129 — Partie G (Maîtriser, C1) · Interpréter\nOBJECTIF : Traduire à l'oral entre français et lao.\nNOTION : rapporter pour traduire\nVOCAB : Pɛ̌ɛ, Náay pɛ̌ɛ, Pɛ̌ɛ pháa-sǎa, Thàay-thɔ̂ɔt, Khwáam mǎay\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 130 — Parler aux enfants"
+}

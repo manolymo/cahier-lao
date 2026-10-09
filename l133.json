@@ -1,0 +1,317 @@
+{
+ "num": 133,
+ "phase": "Partie G · Maîtriser",
+ "title": "Les sciences",
+ "objective": "Expliquer un phénomène scientifique simple.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>trop (intensif jeune) <small class=\"muted\">(leçon 132)</small></li><li>bravo, doué <small class=\"muted\">(leçon 130)</small></li><li>idée, pensée <small class=\"muted\">(leçon 126)</small></li><li>cadeau <small class=\"muted\">(leçon 119)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຫຼາຍໂພດ</span> <span class=\"rom\">Lǎay phôot</span> · trop (intensif jeune)</li><li><span class=\"lo\">ເກັ່ງ</span> <span class=\"rom\">Kèng</span> · bravo, doué</li><li><span class=\"lo\">ແນວຄິດ</span> <span class=\"rom\">Nɛ́ɛw khīt</span> · idée, pensée</li><li><span class=\"lo\">ຂອງຂວັນ</span> <span class=\"rom\">Khɔ̌ɔng-khwǎn</span> · cadeau</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Expliquer un phénomène scientifique simple.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Kèo prépare un exposé.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ເປັນຫຍັງຝົນຈຶ່ງຕົກ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ນ້ຳລະເຫີຍຂຶ້ນໄປ ກາຍເປັນເມກ ແລ້ວກໍຕົກລົງມາ</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ເອີ້ນວ່າວົງຈອນຂອງນ້ຳ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Pěn-nyǎng fǒn jʉ̀ng tók?</span><br><span class=\"rom\">Nȁam lā-hɤ̌ɤy khʉ̂n pǎy, kǎay pěn mêek, lɛ̏ɛw kɔ̂ɔ tók lóng máa.</span><br><span class=\"rom\">ɤ̂ɤn wāa wóng-jɔ̌ɔn khɔ̌ɔng nȁam.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Kèo</b> — Pourquoi pleut-il ?<br><b>Clara</b> — L&#x27;eau s&#x27;évapore, devient des nuages, puis retombe.<br><b>Kèo</b> — On appelle ça le cycle de l&#x27;eau.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Comment se forme la pluie ?</li></ol><details><summary>Réponses</summary><ol><li>Évaporation, nuages, puis chute.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ວິທະຍາສາດ</td><td class=\"rom\">Wī-thā-nyáa-sȁat</td><td>science</td><td></td></tr><tr><td class=\"lo\">ລະເຫີຍ</td><td class=\"rom\">Lā-hɤ̌ɤy</td><td>s&#x27;évaporer</td><td></td></tr><tr><td class=\"lo\">ກາຍເປັນ</td><td class=\"rom\">Kǎay pěn</td><td>devenir</td><td></td></tr><tr><td class=\"lo\">ເມກ</td><td class=\"rom\">Mêek</td><td>nuage</td><td></td></tr><tr><td class=\"lo\">ວົງຈອນ</td><td class=\"rom\">Wóng-jɔ̌ɔn</td><td>cycle</td><td></td></tr><tr><td class=\"lo\">ທົດລອງ</td><td class=\"rom\">Thōt-lɔ́ɔng</td><td>expérimenter</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : expliquer un processus",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ກາຍເປັນ</span> <span class=\"rom\">Kǎay pěn…</span> = … devient…</li><li><span class=\"lo\">ເອີ້ນວ່າ</span> <span class=\"rom\">ɤ̂ɤn wāa…</span> = on appelle cela…</li></ul><details><summary>La règle</summary><p>Pour expliquer : étapes (ແລ້ວ, ຈາກນັ້ນ), transformation (ກາຍເປັນ), définition (ເອີ້ນວ່າ).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les étapes du processus.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>L&#x27;eau devient des nuages.</li><li>On appelle ça…</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ນ້ຳກາຍເປັນເມກ</span> <span class=\"rom\">Nȁam kǎay pěn mêek.</span></li><li><span class=\"lo\">ເອີ້ນວ່າ</span> <span class=\"rom\">ɤ̂ɤn wāa…</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Explique un phénomène scientifique en 10 phrases.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Explique un phénomène naturel à un natif comme à un enfant.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>8 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l133-v01",
+   "front": "ວິທະຍາສາດ",
+   "back": "Wī-thā-nyáa-sȁat · science"
+  },
+  {
+   "id": "l133-v02",
+   "front": "ລະເຫີຍ",
+   "back": "Lā-hɤ̌ɤy · s'évaporer"
+  },
+  {
+   "id": "l133-v03",
+   "front": "ກາຍເປັນ",
+   "back": "Kǎay pěn · devenir"
+  },
+  {
+   "id": "l133-v04",
+   "front": "ເມກ",
+   "back": "Mêek · nuage"
+  },
+  {
+   "id": "l133-v05",
+   "front": "ວົງຈອນ",
+   "back": "Wóng-jɔ̌ɔn · cycle"
+  },
+  {
+   "id": "l133-v06",
+   "front": "ທົດລອງ",
+   "back": "Thōt-lɔ́ɔng · expérimenter"
+  },
+  {
+   "id": "l133-p01",
+   "front": "L'eau devient des nuages.",
+   "back": "ນ້ຳກາຍເປັນເມກ · Nȁam kǎay pěn mêek."
+  },
+  {
+   "id": "l133-p02",
+   "front": "On appelle ça…",
+   "back": "ເອີ້ນວ່າ · ɤ̂ɤn wāa…"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ວິທະຍາສາດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "science",
+      "devenir",
+      "s'évaporer",
+      "expérimenter"
+     ],
+     "answer": "science",
+     "reveal": "<i>Wī-thā-nyáa-sȁat</i>"
+    },
+    {
+     "audio": [
+      "ລະເຫີຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "s'évaporer",
+      "nuage",
+      "expérimenter",
+      "cycle"
+     ],
+     "answer": "s'évaporer",
+     "reveal": "<i>Lā-hɤ̌ɤy</i>"
+    },
+    {
+     "audio": [
+      "ກາຍເປັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "devenir",
+      "expérimenter",
+      "nuage",
+      "cycle"
+     ],
+     "answer": "devenir",
+     "reveal": "<i>Kǎay pěn</i>"
+    },
+    {
+     "audio": [
+      "ເມກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "nuage",
+      "science",
+      "devenir",
+      "s'évaporer"
+     ],
+     "answer": "nuage",
+     "reveal": "<i>Mêek</i>"
+    },
+    {
+     "audio": [
+      "ວົງຈອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "cycle",
+      "devenir",
+      "science",
+      "expérimenter"
+     ],
+     "answer": "cycle",
+     "reveal": "<i>Wóng-jɔ̌ɔn</i>"
+    },
+    {
+     "audio": [
+      "ທົດລອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "expérimenter",
+      "science",
+      "devenir",
+      "cycle"
+     ],
+     "answer": "expérimenter",
+     "reveal": "<i>Thōt-lɔ́ɔng</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ວິທະຍາສາດ",
+   "rom": "Wī-thā-nyáa-sȁat",
+   "fr": "science",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລະເຫີຍ",
+   "rom": "Lā-hɤ̌ɤy",
+   "fr": "s'évaporer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກາຍເປັນ",
+   "rom": "Kǎay pěn",
+   "fr": "devenir",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເມກ",
+   "rom": "Mêek",
+   "fr": "nuage",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ວົງຈອນ",
+   "rom": "Wóng-jɔ̌ɔn",
+   "fr": "cycle",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທົດລອງ",
+   "rom": "Thōt-lɔ́ɔng",
+   "fr": "expérimenter",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນ້ຳກາຍເປັນເມກ",
+   "rom": "Nȁam kǎay pěn mêek.",
+   "fr": "L'eau devient des nuages.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເອີ້ນວ່າ",
+   "rom": "ɤ̂ɤn wāa…",
+   "fr": "On appelle ça…",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ນ້ຳ",
+    "ກາຍ",
+    "ເປັນ",
+    "ເມກ"
+   ],
+   "rom": "Nȁam kǎay pěn mêek.",
+   "fr": "L'eau devient des nuages."
+  },
+  {
+   "tokens": [
+    "ເອີ້ນ",
+    "ວ່າ"
+   ],
+   "rom": "ɤ̂ɤn wāa…",
+   "fr": "On appelle ça…"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ວິທະຍາສາດ",
+   "rom": "Wī-thā-nyáa-sȁat",
+   "fr": "science"
+  },
+  {
+   "lao": "ລະເຫີຍ",
+   "rom": "Lā-hɤ̌ɤy",
+   "fr": "s'évaporer"
+  },
+  {
+   "lao": "ກາຍເປັນ",
+   "rom": "Kǎay pěn",
+   "fr": "devenir"
+  },
+  {
+   "lao": "ເມກ",
+   "rom": "Mêek",
+   "fr": "nuage"
+  },
+  {
+   "lao": "ວົງຈອນ",
+   "rom": "Wóng-jɔ̌ɔn",
+   "fr": "cycle"
+  },
+  {
+   "lao": "ທົດລອງ",
+   "rom": "Thōt-lɔ́ɔng",
+   "fr": "expérimenter"
+  }
+ ],
+ "sounds": {
+  "ຫຼາຍໂພດ": "Lǎay phôot",
+  "ເກັ່ງ": "Kèng",
+  "ແນວຄິດ": "Nɛ́ɛw khīt",
+  "ຂອງຂວັນ": "Khɔ̌ɔng-khwǎn",
+  "ເປັນຫຍັງຝົນຈຶ່ງຕົກ": "Pěn-nyǎng fǒn jʉ̀ng tók?",
+  "ນ້ຳລະເຫີຍຂຶ້ນໄປ ກາຍເປັນເມກ ແລ້ວກໍຕົກລົງມາ": "Nȁam lā-hɤ̌ɤy khʉ̂n pǎy, kǎay pěn mêek, lɛ̏ɛw kɔ̂ɔ tók lóng máa.",
+  "ເອີ້ນວ່າວົງຈອນຂອງນ້ຳ": "ɤ̂ɤn wāa wóng-jɔ̌ɔn khɔ̌ɔng nȁam.",
+  "ວິທະຍາສາດ": "Wī-thā-nyáa-sȁat",
+  "ລະເຫີຍ": "Lā-hɤ̌ɤy",
+  "ກາຍເປັນ": "Kǎay pěn…",
+  "ເມກ": "mêek",
+  "ວົງຈອນ": "Wóng-jɔ̌ɔn",
+  "ທົດລອງ": "Thōt-lɔ́ɔng",
+  "ເອີ້ນວ່າ": "ɤ̂ɤn wāa…",
+  "ນ້ຳກາຍເປັນເມກ": "Nȁam kǎay pěn mêek.",
+  "ນ້ຳ": "nȁam",
+  "ກາຍ": "kǎay",
+  "ເປັນ": "pěn",
+  "ເອີ້ນ": "ɤ̂ɤn",
+  "ວ່າ": "wāa"
+ },
+ "suivi": "LEÇON : 133 — Partie G (Maîtriser, C1) · Les sciences\nOBJECTIF : Expliquer un phénomène scientifique simple.\nNOTION : expliquer un processus\nVOCAB : Wī-thā-nyáa-sȁat, Lā-hɤ̌ɤy, Kǎay pěn, Mêek, Wóng-jɔ̌ɔn, Thōt-lɔ́ɔng\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 134 — Le droit et la politique"
+}

@@ -1,0 +1,257 @@
+{
+ "num": 137,
+ "phase": "Partie G · Maîtriser",
+ "title": "Improvisation (2)",
+ "objective": "Débattre sans préparation.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>autre chose <small class=\"muted\">(leçon 136)</small></li><li>loi <small class=\"muted\">(leçon 134)</small></li><li>goûter, gâteau <small class=\"muted\">(leçon 130)</small></li><li>lièvre <small class=\"muted\">(leçon 123)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ອີກຢ່າງໜຶ່ງ</span> <span class=\"rom\">Ìik yàang nʉ̀ng</span> · autre chose</li><li><span class=\"lo\">ກົດໝາຍ</span> <span class=\"rom\">Kót-mǎay</span> · loi</li><li><span class=\"lo\">ໜົມ</span> <span class=\"rom\">Nǒm</span> · goûter, gâteau</li><li><span class=\"lo\">ກະຕ່າຍ</span> <span class=\"rom\">Ká-tàay</span> · lièvre</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Débattre sans préparation.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Débat surprise au dîner.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ໃຜເຫັນດີວ່າຄວນຫ້າມໂທລະສັບໃນໂຮງຮຽນ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍເຫັນດີສ່ວນໜຶ່ງ ແຕ່</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຂ້ອຍບໍ່ເຫັນດີເລີຍ!</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Phǎy hěn-dǐi wāa khúan hâam thóo-lā-sāp nǎy hóong-hían?</span><br><span class=\"rom\">Khɔ̂ɔy hěn-dǐi sùan nʉ̀ng, tɛ̀ɛ…</span><br><span class=\"rom\">Khɔ̂ɔy bɔ̀ɔ hěn-dǐi lɤ́ɤy!</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>M. Somsak</b> — Qui pense qu&#x27;il faut interdire les téléphones à l&#x27;école ?<br><b>Clara</b> — Je suis en partie d&#x27;accord, mais…<br><b>Kèo</b> — Je ne suis pas du tout d&#x27;accord !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quel est le sujet ?</li></ol><details><summary>Réponses</summary><ol><li>Interdire les téléphones à l&#x27;école.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ເຫັນດີສ່ວນໜຶ່ງ</td><td class=\"rom\">Hěn-dǐi sùan nʉ̀ng</td><td>en partie d&#x27;accord</td><td></td></tr><tr><td class=\"lo\">ບໍ່ເຫັນດີເລີຍ</td><td class=\"rom\">Bɔ̀ɔ hěn-dǐi lɤ́ɤy</td><td>pas du tout d&#x27;accord</td><td></td></tr><tr><td class=\"lo\">ໂຕ້ແຍ້ງ</td><td class=\"rom\">Tôo nyɛ̂ɛng</td><td>contredire</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ຍອມຮັບ</td><td class=\"rom\">Nyɔ́ɔm-hāp</td><td>admettre</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : réagir vite",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ເຫັນດີສ່ວນໜຶ່ງ ແຕ່</span> <span class=\"rom\">Hěn-dǐi sùan nʉ̀ng, tɛ̀ɛ…</span> = en partie d&#x27;accord, mais…</li><li><span class=\"lo\">ຂ້ອຍຍອມຮັບວ່າ</span> <span class=\"rom\">Khɔ̂ɔy nyɔ́ɔm-hāp wāa…</span> = j&#x27;admets que…</li></ul><details><summary>La règle</summary><p>En débat improvisé : se positionner vite, nuancer, reprendre l'argument de l'autre (ຍອມຮັບວ່າ…) avant de le contester.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les réactions rapides.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Je suis en partie d&#x27;accord.</li><li>J&#x27;admets que…</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້ອຍເຫັນດີສ່ວນໜຶ່ງ</span> <span class=\"rom\">Khɔ̂ɔy hěn-dǐi sùan nʉ̀ng.</span></li><li><span class=\"lo\">ຂ້ອຍຍອມຮັບວ່າ</span> <span class=\"rom\">Khɔ̂ɔy nyɔ́ɔm-hāp wāa…</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Prépare des arguments pour et contre sur 5 sujets.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Débats 20 minutes sans préparation avec un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>6 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l137-v01",
+   "front": "ເຫັນດີສ່ວນໜຶ່ງ",
+   "back": "Hěn-dǐi sùan nʉ̀ng · en partie d'accord"
+  },
+  {
+   "id": "l137-v02",
+   "front": "ບໍ່ເຫັນດີເລີຍ",
+   "back": "Bɔ̀ɔ hěn-dǐi lɤ́ɤy · pas du tout d'accord"
+  },
+  {
+   "id": "l137-v03",
+   "front": "ໂຕ້ແຍ້ງ",
+   "back": "Tôo nyɛ̂ɛng · contredire"
+  },
+  {
+   "id": "l137-v04",
+   "front": "ຍອມຮັບ",
+   "back": "Nyɔ́ɔm-hāp · admettre"
+  },
+  {
+   "id": "l137-p01",
+   "front": "Je suis en partie d'accord.",
+   "back": "ຂ້ອຍເຫັນດີສ່ວນໜຶ່ງ · Khɔ̂ɔy hěn-dǐi sùan nʉ̀ng."
+  },
+  {
+   "id": "l137-p02",
+   "front": "J'admets que…",
+   "back": "ຂ້ອຍຍອມຮັບວ່າ · Khɔ̂ɔy nyɔ́ɔm-hāp wāa…"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ເຫັນດີສ່ວນໜຶ່ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "en partie d'accord",
+      "pas du tout d'accord",
+      "admettre",
+      "contredire"
+     ],
+     "answer": "en partie d'accord",
+     "reveal": "<i>Hěn-dǐi sùan nʉ̀ng</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ເຫັນດີເລີຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pas du tout d'accord",
+      "contredire",
+      "admettre",
+      "en partie d'accord"
+     ],
+     "answer": "pas du tout d'accord",
+     "reveal": "<i>Bɔ̀ɔ hěn-dǐi lɤ́ɤy</i>"
+    },
+    {
+     "audio": [
+      "ໂຕ້ແຍ້ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "contredire",
+      "en partie d'accord",
+      "pas du tout d'accord",
+      "admettre"
+     ],
+     "answer": "contredire",
+     "reveal": "<i>Tôo nyɛ̂ɛng</i>"
+    },
+    {
+     "audio": [
+      "ຍອມຮັບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "admettre",
+      "en partie d'accord",
+      "pas du tout d'accord",
+      "contredire"
+     ],
+     "answer": "admettre",
+     "reveal": "<i>Nyɔ́ɔm-hāp</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ເຫັນດີສ່ວນໜຶ່ງ",
+   "rom": "Hěn-dǐi sùan nʉ̀ng",
+   "fr": "en partie d'accord",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ເຫັນດີເລີຍ",
+   "rom": "Bɔ̀ɔ hěn-dǐi lɤ́ɤy",
+   "fr": "pas du tout d'accord",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂຕ້ແຍ້ງ",
+   "rom": "Tôo nyɛ̂ɛng",
+   "fr": "contredire",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍອມຮັບ",
+   "rom": "Nyɔ́ɔm-hāp",
+   "fr": "admettre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍເຫັນດີສ່ວນໜຶ່ງ",
+   "rom": "Khɔ̂ɔy hěn-dǐi sùan nʉ̀ng.",
+   "fr": "Je suis en partie d'accord.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຍອມຮັບວ່າ",
+   "rom": "Khɔ̂ɔy nyɔ́ɔm-hāp wāa…",
+   "fr": "J'admets que…",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ເຫັນດີ",
+    "ສ່ວນ",
+    "ໜຶ່ງ"
+   ],
+   "rom": "Khɔ̂ɔy hěn-dǐi sùan nʉ̀ng.",
+   "fr": "Je suis en partie d'accord."
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຍອມຮັບ",
+    "ວ່າ"
+   ],
+   "rom": "Khɔ̂ɔy nyɔ́ɔm-hāp wāa…",
+   "fr": "J'admets que…"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ເຫັນດີສ່ວນໜຶ່ງ",
+   "rom": "Hěn-dǐi sùan nʉ̀ng",
+   "fr": "en partie d'accord"
+  },
+  {
+   "lao": "ບໍ່ເຫັນດີເລີຍ",
+   "rom": "Bɔ̀ɔ hěn-dǐi lɤ́ɤy",
+   "fr": "pas du tout d'accord"
+  },
+  {
+   "lao": "ໂຕ້ແຍ້ງ",
+   "rom": "Tôo nyɛ̂ɛng",
+   "fr": "contredire"
+  },
+  {
+   "lao": "ຍອມຮັບ",
+   "rom": "Nyɔ́ɔm-hāp",
+   "fr": "admettre"
+  }
+ ],
+ "sounds": {
+  "ອີກຢ່າງໜຶ່ງ": "Ìik yàang nʉ̀ng",
+  "ກົດໝາຍ": "Kót-mǎay",
+  "ໜົມ": "Nǒm",
+  "ກະຕ່າຍ": "Ká-tàay",
+  "ໃຜເຫັນດີວ່າຄວນຫ້າມໂທລະສັບໃນໂຮງຮຽນ": "Phǎy hěn-dǐi wāa khúan hâam thóo-lā-sāp nǎy hóong-hían?",
+  "ຂ້ອຍເຫັນດີສ່ວນໜຶ່ງ ແຕ່": "Khɔ̂ɔy hěn-dǐi sùan nʉ̀ng, tɛ̀ɛ…",
+  "ຂ້ອຍບໍ່ເຫັນດີເລີຍ": "Khɔ̂ɔy bɔ̀ɔ hěn-dǐi lɤ́ɤy!",
+  "ເຫັນດີສ່ວນໜຶ່ງ": "Hěn-dǐi sùan nʉ̀ng",
+  "ບໍ່ເຫັນດີເລີຍ": "Bɔ̀ɔ hěn-dǐi lɤ́ɤy",
+  "ໂຕ້ແຍ້ງ": "Tôo nyɛ̂ɛng",
+  "ຍອມຮັບ": "nyɔ́ɔm-hāp",
+  "ເຫັນດີສ່ວນໜຶ່ງ ແຕ່": "Hěn-dǐi sùan nʉ̀ng, tɛ̀ɛ…",
+  "ຂ້ອຍຍອມຮັບວ່າ": "Khɔ̂ɔy nyɔ́ɔm-hāp wāa…",
+  "ຂ້ອຍເຫັນດີສ່ວນໜຶ່ງ": "Khɔ̂ɔy hěn-dǐi sùan nʉ̀ng.",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ເຫັນດີ": "hěn-dǐi",
+  "ສ່ວນ": "sùan",
+  "ໜຶ່ງ": "nʉ̀ng",
+  "ວ່າ": "wāa"
+ },
+ "suivi": "LEÇON : 137 — Partie G (Maîtriser, C1) · Improvisation (2)\nOBJECTIF : Débattre sans préparation.\nNOTION : réagir vite\nVOCAB : Hěn-dǐi sùan nʉ̀ng, Bɔ̀ɔ hěn-dǐi lɤ́ɤy, Tôo nyɛ̂ɛng, Nyɔ́ɔm-hāp\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 138 — S'adapter à l'interlocuteur"
+}

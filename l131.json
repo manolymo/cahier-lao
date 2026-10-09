@@ -1,0 +1,298 @@
+{
+ "num": 131,
+ "phase": "Partie G · Maîtriser",
+ "title": "Parler aux anciens",
+ "objective": "Parler avec un grand-parent de l'histoire familiale.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>dodo <small class=\"muted\">(leçon 130)</small></li><li>invité <small class=\"muted\">(leçon 128)</small></li><li>rythme <small class=\"muted\">(leçon 124)</small></li><li>préceptes <small class=\"muted\">(leçon 117)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ນອນສາ</span> <span class=\"rom\">Nɔ́ɔn sǎa</span> · dodo</li><li><span class=\"lo\">ແຂກ</span> <span class=\"rom\">Khɛ̏ɛk</span> · invité</li><li><span class=\"lo\">ຈັງຫວະ</span> <span class=\"rom\">Jǎng-wā</span> · rythme</li><li><span class=\"lo\">ສິນ</span> <span class=\"rom\">Sǐn</span> · préceptes</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Parler avec un grand-parent de l&#x27;histoire familiale.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara interroge le grand-père de Noy.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ພໍ່ຕູ້ ເລົ່າເລື່ອງສະໄໝກ່ອນໃຫ້ຫຼານຟັງແດ່</span></div></div><div class=\"line\"><span class=\"who\">X</span><div><span class=\"lo\">ສະໄໝນັ້ນລຳບາກຫຼາຍລູກ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ພໍ່ຕູ້ເກີດຢູ່ໃສ?</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Phɔ̄ɔ-tûu, lāo lʉ̄ang sā-mǎy kɔ̀ɔn hây lǎan fáng dɛ̀ɛ.</span><br><span class=\"rom\">Sā-mǎy nȁn lám-bȁak lǎay lûuk.</span><br><span class=\"rom\">Phɔ̄ɔ-tûu kɤ̏ɤt yùu sǎy?</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Grand-père, raconte-moi le temps d&#x27;avant.<br><b>X</b> — À cette époque, c&#x27;était très dur, mon enfant.<br><b>Clara</b> — Où es-tu né, grand-père ?</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Comment Clara se désigne-t-elle ?</li></ol><details><summary>Réponses</summary><ol><li>ຫຼານ (le petit-enfant), par respect.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ສະໄໝກ່ອນ</td><td class=\"rom\">Sā-mǎy kɔ̀ɔn</td><td>autrefois</td><td></td></tr><tr><td class=\"lo\">ລຳບາກ</td><td class=\"rom\">Lám-bȁak</td><td>difficile, dur</td><td></td></tr><tr><td class=\"lo\">ເກີດ</td><td class=\"rom\">Kɤ̏ɤt</td><td>naître</td><td></td></tr><tr><td class=\"lo\">ບັນພະບຸລຸດ</td><td class=\"rom\">Bǎn-phā-bū-lūt</td><td>ancêtres</td><td></td></tr><tr><td class=\"lo\">ຄວາມຊົງຈຳ</td><td class=\"rom\">Khwáam sóng jǎm</td><td>souvenir, mémoire</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : la déférence",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຫຼານຂໍຖາມ</span> <span class=\"rom\">Lǎan khɔ̌ɔ thǎam…</span> = puis-je (petit-enfant) demander…</li><li><span class=\"lo\">ເລົ່າໃຫ້ຫຼານຟັງແດ່</span> <span class=\"rom\">Lāo hây lǎan fáng dɛ̀ɛ</span> = raconte-moi</li></ul><details><summary>La règle</summary><p>Avec les anciens : se désigner par un terme de parenté inférieur (ຫຼານ, ລູກ), utiliser ເຈົ້າ, ແດ່, et écouter sans interrompre.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> le vocabulaire ancien.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Raconte-moi le temps d&#x27;avant.</li><li>Où es-tu né ?</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເລົ່າເລື່ອງສະໄໝກ່ອນໃຫ້ຫຼານຟັງແດ່</span> <span class=\"rom\">Lāo lʉ̄ang sā-mǎy kɔ̀ɔn hây lǎan fáng dɛ̀ɛ.</span></li><li><span class=\"lo\">ເກີດຢູ່ໃສ?</span> <span class=\"rom\">Kɤ̏ɤt yùu sǎy?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Prépare 10 questions pour interviewer un aîné sur sa vie.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Interviewe un aîné de ta famille en lao pendant 30 minutes et enregistre-le (avec son accord).</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>7 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l131-v01",
+   "front": "ສະໄໝກ່ອນ",
+   "back": "Sā-mǎy kɔ̀ɔn · autrefois"
+  },
+  {
+   "id": "l131-v02",
+   "front": "ລຳບາກ",
+   "back": "Lám-bȁak · difficile, dur"
+  },
+  {
+   "id": "l131-v03",
+   "front": "ເກີດ",
+   "back": "Kɤ̏ɤt · naître"
+  },
+  {
+   "id": "l131-v04",
+   "front": "ບັນພະບຸລຸດ",
+   "back": "Bǎn-phā-bū-lūt · ancêtres"
+  },
+  {
+   "id": "l131-v05",
+   "front": "ຄວາມຊົງຈຳ",
+   "back": "Khwáam sóng jǎm · souvenir, mémoire"
+  },
+  {
+   "id": "l131-p01",
+   "front": "Raconte-moi le temps d'avant.",
+   "back": "ເລົ່າເລື່ອງສະໄໝກ່ອນໃຫ້ຫຼານຟັງແດ່ · Lāo lʉ̄ang sā-mǎy kɔ̀ɔn hây lǎan fáng dɛ̀ɛ."
+  },
+  {
+   "id": "l131-p02",
+   "front": "Où es-tu né ?",
+   "back": "ເກີດຢູ່ໃສ? · Kɤ̏ɤt yùu sǎy?"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ສະໄໝກ່ອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "autrefois",
+      "souvenir, mémoire",
+      "difficile, dur",
+      "ancêtres"
+     ],
+     "answer": "autrefois",
+     "reveal": "<i>Sā-mǎy kɔ̀ɔn</i>"
+    },
+    {
+     "audio": [
+      "ລຳບາກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "difficile, dur",
+      "naître",
+      "ancêtres",
+      "souvenir, mémoire"
+     ],
+     "answer": "difficile, dur",
+     "reveal": "<i>Lám-bȁak</i>"
+    },
+    {
+     "audio": [
+      "ເກີດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "naître",
+      "difficile, dur",
+      "ancêtres",
+      "souvenir, mémoire"
+     ],
+     "answer": "naître",
+     "reveal": "<i>Kɤ̏ɤt</i>"
+    },
+    {
+     "audio": [
+      "ບັນພະບຸລຸດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ancêtres",
+      "difficile, dur",
+      "naître",
+      "souvenir, mémoire"
+     ],
+     "answer": "ancêtres",
+     "reveal": "<i>Bǎn-phā-bū-lūt</i>"
+    },
+    {
+     "audio": [
+      "ຄວາມຊົງຈຳ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "souvenir, mémoire",
+      "ancêtres",
+      "naître",
+      "autrefois"
+     ],
+     "answer": "souvenir, mémoire",
+     "reveal": "<i>Khwáam sóng jǎm</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ສະໄໝກ່ອນ",
+   "rom": "Sā-mǎy kɔ̀ɔn",
+   "fr": "autrefois",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລຳບາກ",
+   "rom": "Lám-bȁak",
+   "fr": "difficile, dur",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເກີດ",
+   "rom": "Kɤ̏ɤt",
+   "fr": "naître",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບັນພະບຸລຸດ",
+   "rom": "Bǎn-phā-bū-lūt",
+   "fr": "ancêtres",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄວາມຊົງຈຳ",
+   "rom": "Khwáam sóng jǎm",
+   "fr": "souvenir, mémoire",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເລົ່າເລື່ອງສະໄໝກ່ອນໃຫ້ຫຼານຟັງແດ່",
+   "rom": "Lāo lʉ̄ang sā-mǎy kɔ̀ɔn hây lǎan fáng dɛ̀ɛ.",
+   "fr": "Raconte-moi le temps d'avant.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເກີດຢູ່ໃສ?",
+   "rom": "Kɤ̏ɤt yùu sǎy?",
+   "fr": "Où es-tu né ?",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ເລົ່າ",
+    "ເລື່ອງ",
+    "ສະໄໝ",
+    "ກ່ອນ",
+    "ໃຫ້",
+    "ຫຼານ",
+    "ຟັງ",
+    "ແດ່"
+   ],
+   "rom": "Lāo lʉ̄ang sā-mǎy kɔ̀ɔn hây lǎan fáng dɛ̀ɛ.",
+   "fr": "Raconte-moi le temps d'avant."
+  },
+  {
+   "tokens": [
+    "ເກີດ",
+    "ຢູ່",
+    "ໃສ"
+   ],
+   "rom": "Kɤ̏ɤt yùu sǎy?",
+   "fr": "Où es-tu né ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ສະໄໝກ່ອນ",
+   "rom": "Sā-mǎy kɔ̀ɔn",
+   "fr": "autrefois"
+  },
+  {
+   "lao": "ລຳບາກ",
+   "rom": "Lám-bȁak",
+   "fr": "difficile, dur"
+  },
+  {
+   "lao": "ເກີດ",
+   "rom": "Kɤ̏ɤt",
+   "fr": "naître"
+  },
+  {
+   "lao": "ບັນພະບຸລຸດ",
+   "rom": "Bǎn-phā-bū-lūt",
+   "fr": "ancêtres"
+  },
+  {
+   "lao": "ຄວາມຊົງຈຳ",
+   "rom": "Khwáam sóng jǎm",
+   "fr": "souvenir, mémoire"
+  }
+ ],
+ "sounds": {
+  "ນອນສາ": "Nɔ́ɔn sǎa",
+  "ແຂກ": "Khɛ̏ɛk",
+  "ຈັງຫວະ": "Jǎng-wā",
+  "ສິນ": "Sǐn",
+  "ພໍ່ຕູ້ ເລົ່າເລື່ອງສະໄໝກ່ອນໃຫ້ຫຼານຟັງແດ່": "Phɔ̄ɔ-tûu, lāo lʉ̄ang sā-mǎy kɔ̀ɔn hây lǎan fáng dɛ̀ɛ.",
+  "ສະໄໝນັ້ນລຳບາກຫຼາຍລູກ": "Sā-mǎy nȁn lám-bȁak lǎay lûuk.",
+  "ພໍ່ຕູ້ເກີດຢູ່ໃສ": "Phɔ̄ɔ-tûu kɤ̏ɤt yùu sǎy?",
+  "ສະໄໝກ່ອນ": "Sā-mǎy kɔ̀ɔn",
+  "ລຳບາກ": "Lám-bȁak",
+  "ເກີດ": "kɤ̏ɤt",
+  "ບັນພະບຸລຸດ": "Bǎn-phā-bū-lūt",
+  "ຄວາມຊົງຈຳ": "Khwáam sóng jǎm",
+  "ຫຼານຂໍຖາມ": "Lǎan khɔ̌ɔ thǎam…",
+  "ເລົ່າໃຫ້ຫຼານຟັງແດ່": "Lāo hây lǎan fáng dɛ̀ɛ",
+  "ເລົ່າເລື່ອງສະໄໝກ່ອນໃຫ້ຫຼານຟັງແດ່": "Lāo lʉ̄ang sā-mǎy kɔ̀ɔn hây lǎan fáng dɛ̀ɛ.",
+  "ເກີດຢູ່ໃສ": "Kɤ̏ɤt yùu sǎy?",
+  "ເລົ່າ": "lāo",
+  "ເລື່ອງ": "lʉ̄ang",
+  "ສະໄໝ": "sā-mǎy",
+  "ກ່ອນ": "kɔ̀ɔn",
+  "ໃຫ້": "hây",
+  "ຫຼານ": "lǎan",
+  "ຟັງ": "fáng",
+  "ແດ່": "dɛ̀ɛ",
+  "ຢູ່": "yùu",
+  "ໃສ": "sǎy"
+ },
+ "suivi": "LEÇON : 131 — Partie G (Maîtriser, C1) · Parler aux anciens\nOBJECTIF : Parler avec un grand-parent de l'histoire familiale.\nNOTION : la déférence\nVOCAB : Sā-mǎy kɔ̀ɔn, Lám-bȁak, Kɤ̏ɤt, Bǎn-phā-bū-lūt, Khwáam sóng jǎm\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 132 — Argot et langue des jeunes"
+}

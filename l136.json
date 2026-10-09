@@ -1,0 +1,282 @@
+{
+ "num": 136,
+ "phase": "Partie G · Maîtriser",
+ "title": "Improvisation (1)",
+ "objective": "Parler 15 minutes sur un sujet tiré au hasard.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>échéance <small class=\"muted\">(leçon 135)</small></li><li>science <small class=\"muted\">(leçon 133)</small></li><li>sens <small class=\"muted\">(leçon 129)</small></li><li>patienter, persévérer <small class=\"muted\">(leçon 122)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ກຳນົດເວລາ</span> <span class=\"rom\">Kǎm-nōt wéé-láa</span> · échéance</li><li><span class=\"lo\">ວິທະຍາສາດ</span> <span class=\"rom\">Wī-thā-nyáa-sȁat</span> · science</li><li><span class=\"lo\">ຄວາມໝາຍ</span> <span class=\"rom\">Khwáam mǎay</span> · sens</li><li><span class=\"lo\">ອົດທົນ</span> <span class=\"rom\">Ót-thón</span> · patienter, persévérer</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Parler 15 minutes sur un sujet tiré au hasard.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Jeu de prise de parole.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຫົວຂໍ້ແມ່ນ«ຄອບຄົວ» ເລີ່ມເລີຍ!</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສຳລັບຂ້ອຍ ຄອບຄົວແມ່ນສິ່ງທີ່ສຳຄັນທີ່ສຸດ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Hǔa-khɔ̂ɔ mɛ̄ɛn« khɔ̂ɔp-khúa». Lɤ̄ɤm lɤ́ɤy!</span><br><span class=\"rom\">Sǎm-láp khɔ̂ɔy, khɔ̂ɔp-khúa mɛ̄ɛn sìng thīi sǎm-khán thīi-sūt…</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Le sujet : « la famille ». Vas-y !<br><b>Clara</b> — Pour moi, la famille, c&#x27;est le plus important…</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quel est le sujet ?</li></ol><details><summary>Réponses</summary><ol><li>La famille.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຫົວຂໍ້</td><td class=\"rom\">Hǔa-khɔ̂ɔ</td><td>sujet</td><td></td></tr><tr><td class=\"lo\">ສຳລັບຂ້ອຍ</td><td class=\"rom\">Sǎm-láp khɔ̂ɔy</td><td>pour moi</td><td></td></tr><tr><td class=\"lo\">ຍົກຕົວຢ່າງ</td><td class=\"rom\">Nyōk tǔa-yàang</td><td>donner un exemple</td><td></td></tr><tr><td class=\"lo\">ອີກຢ່າງໜຶ່ງ</td><td class=\"rom\">Ìik yàang nʉ̀ng</td><td>autre chose</td><td></td></tr><tr><td class=\"lo\">ກັບມາທີ່</td><td class=\"rom\">Káp máa thīi</td><td>pour revenir à</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : tenir la parole",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຍົກຕົວຢ່າງ</span> <span class=\"rom\">Nyōk tǔa-yàang…</span> = par exemple…</li><li><span class=\"lo\">ກັບມາທີ່</span> <span class=\"rom\">Káp máa thīi…</span> = pour revenir à…</li></ul><details><summary>La règle</summary><p>Pour tenir longtemps : annoncer, illustrer (ຍົກຕົວຢ່າງ), digresser puis revenir (ກັບມາທີ່), conclure.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> la fluidité, sans t&#x27;arrêter.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Par exemple…</li><li>Pour revenir à…</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຍົກຕົວຢ່າງ</span> <span class=\"rom\">Nyōk tǔa-yàang…</span></li><li><span class=\"lo\">ກັບມາທີ່</span> <span class=\"rom\">Káp máa thīi…</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Enregistre-toi 15 minutes sur un sujet et réécoute.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Parle 15 minutes sans préparation devant un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>7 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l136-v01",
+   "front": "ຫົວຂໍ້",
+   "back": "Hǔa-khɔ̂ɔ · sujet"
+  },
+  {
+   "id": "l136-v02",
+   "front": "ສຳລັບຂ້ອຍ",
+   "back": "Sǎm-láp khɔ̂ɔy · pour moi"
+  },
+  {
+   "id": "l136-v03",
+   "front": "ຍົກຕົວຢ່າງ",
+   "back": "Nyōk tǔa-yàang · donner un exemple"
+  },
+  {
+   "id": "l136-v04",
+   "front": "ອີກຢ່າງໜຶ່ງ",
+   "back": "Ìik yàang nʉ̀ng · autre chose"
+  },
+  {
+   "id": "l136-v05",
+   "front": "ກັບມາທີ່",
+   "back": "Káp máa thīi · pour revenir à"
+  },
+  {
+   "id": "l136-p01",
+   "front": "Par exemple…",
+   "back": "ຍົກຕົວຢ່າງ · Nyōk tǔa-yàang…"
+  },
+  {
+   "id": "l136-p02",
+   "front": "Pour revenir à…",
+   "back": "ກັບມາທີ່ · Káp máa thīi…"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຫົວຂໍ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "sujet",
+      "pour revenir à",
+      "donner un exemple",
+      "autre chose"
+     ],
+     "answer": "sujet",
+     "reveal": "<i>Hǔa-khɔ̂ɔ</i>"
+    },
+    {
+     "audio": [
+      "ສຳລັບຂ້ອຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pour moi",
+      "autre chose",
+      "sujet",
+      "donner un exemple"
+     ],
+     "answer": "pour moi",
+     "reveal": "<i>Sǎm-láp khɔ̂ɔy</i>"
+    },
+    {
+     "audio": [
+      "ຍົກຕົວຢ່າງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "donner un exemple",
+      "pour moi",
+      "sujet",
+      "pour revenir à"
+     ],
+     "answer": "donner un exemple",
+     "reveal": "<i>Nyōk tǔa-yàang</i>"
+    },
+    {
+     "audio": [
+      "ອີກຢ່າງໜຶ່ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "autre chose",
+      "sujet",
+      "pour revenir à",
+      "donner un exemple"
+     ],
+     "answer": "autre chose",
+     "reveal": "<i>Ìik yàang nʉ̀ng</i>"
+    },
+    {
+     "audio": [
+      "ກັບມາທີ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pour revenir à",
+      "donner un exemple",
+      "pour moi",
+      "autre chose"
+     ],
+     "answer": "pour revenir à",
+     "reveal": "<i>Káp máa thīi</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຫົວຂໍ້",
+   "rom": "Hǔa-khɔ̂ɔ",
+   "fr": "sujet",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສຳລັບຂ້ອຍ",
+   "rom": "Sǎm-láp khɔ̂ɔy",
+   "fr": "pour moi",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍົກຕົວຢ່າງ",
+   "rom": "Nyōk tǔa-yàang",
+   "fr": "donner un exemple",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອີກຢ່າງໜຶ່ງ",
+   "rom": "Ìik yàang nʉ̀ng",
+   "fr": "autre chose",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກັບມາທີ່",
+   "rom": "Káp máa thīi",
+   "fr": "pour revenir à",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍົກຕົວຢ່າງ",
+   "rom": "Nyōk tǔa-yàang…",
+   "fr": "Par exemple…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກັບມາທີ່",
+   "rom": "Káp máa thīi…",
+   "fr": "Pour revenir à…",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຍົກ",
+    "ຕົວຢ່າງ"
+   ],
+   "rom": "Nyōk tǔa-yàang…",
+   "fr": "Par exemple…"
+  },
+  {
+   "tokens": [
+    "ກັບ",
+    "ມາ",
+    "ທີ່"
+   ],
+   "rom": "Káp máa thīi…",
+   "fr": "Pour revenir à…"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຫົວຂໍ້",
+   "rom": "Hǔa-khɔ̂ɔ",
+   "fr": "sujet"
+  },
+  {
+   "lao": "ສຳລັບຂ້ອຍ",
+   "rom": "Sǎm-láp khɔ̂ɔy",
+   "fr": "pour moi"
+  },
+  {
+   "lao": "ຍົກຕົວຢ່າງ",
+   "rom": "Nyōk tǔa-yàang",
+   "fr": "donner un exemple"
+  },
+  {
+   "lao": "ອີກຢ່າງໜຶ່ງ",
+   "rom": "Ìik yàang nʉ̀ng",
+   "fr": "autre chose"
+  },
+  {
+   "lao": "ກັບມາທີ່",
+   "rom": "Káp máa thīi",
+   "fr": "pour revenir à"
+  }
+ ],
+ "sounds": {
+  "ກຳນົດເວລາ": "Kǎm-nōt wéé-láa",
+  "ວິທະຍາສາດ": "Wī-thā-nyáa-sȁat",
+  "ຄວາມໝາຍ": "Khwáam mǎay",
+  "ອົດທົນ": "Ót-thón",
+  "ຫົວຂໍ້ແມ່ນ ຄອບຄົວ ເລີ່ມເລີຍ": "Hǔa-khɔ̂ɔ mɛ̄ɛn« khɔ̂ɔp-khúa». Lɤ̄ɤm lɤ́ɤy!",
+  "ສຳລັບຂ້ອຍ ຄອບຄົວແມ່ນສິ່ງທີ່ສຳຄັນທີ່ສຸດ": "Sǎm-láp khɔ̂ɔy, khɔ̂ɔp-khúa mɛ̄ɛn sìng thīi sǎm-khán thīi-sūt…",
+  "ຫົວຂໍ້": "Hǔa-khɔ̂ɔ",
+  "ສຳລັບຂ້ອຍ": "Sǎm-láp khɔ̂ɔy",
+  "ຍົກຕົວຢ່າງ": "Nyōk tǔa-yàang…",
+  "ອີກຢ່າງໜຶ່ງ": "Ìik yàang nʉ̀ng",
+  "ກັບມາທີ່": "Káp máa thīi…",
+  "ຍົກ": "nyōk",
+  "ຕົວຢ່າງ": "tǔa-yàang",
+  "ກັບ": "káp",
+  "ມາ": "máa",
+  "ທີ່": "thīi"
+ },
+ "suivi": "LEÇON : 136 — Partie G (Maîtriser, C1) · Improvisation (1)\nOBJECTIF : Parler 15 minutes sur un sujet tiré au hasard.\nNOTION : tenir la parole\nVOCAB : Hǔa-khɔ̂ɔ, Sǎm-láp khɔ̂ɔy, Nyōk tǔa-yàang, Ìik yàang nʉ̀ng, Káp máa thīi\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 137 — Improvisation (2)"
+}

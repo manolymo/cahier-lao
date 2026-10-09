@@ -1,0 +1,286 @@
+{
+ "num": 124,
+ "phase": "Partie G · Maîtriser",
+ "title": "La poésie",
+ "objective": "Lire et comprendre un poème court.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>conte <small class=\"muted\">(leçon 123)</small></li><li>se dépêcher <small class=\"muted\">(leçon 121)</small></li><li>karma <small class=\"muted\">(leçon 117)</small></li><li>idée principale <small class=\"muted\">(leçon 110)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ນິທານ</span> <span class=\"rom\">Nī-tháan</span> · conte</li><li><span class=\"lo\">ຮີບ</span> <span class=\"rom\">Hîip</span> · se dépêcher</li><li><span class=\"lo\">ກຳ</span> <span class=\"rom\">Kǎm</span> · karma</li><li><span class=\"lo\">ໃຈຄວາມສຳຄັນ</span> <span class=\"rom\">Jǎy-khwáam sǎm-khán</span> · idée principale</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Lire et comprendre un poème court.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara découvre un poème lao.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ກອນລາວມີສຳຜັດບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ມີ ສຳຜັດລະຫວ່າງວັກ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ອ່ານໃຫ້ຟັງແດ່</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Kɔ̌ɔn láaw míi sǎm-phát bɔ̌ɔ?</span><br><span class=\"rom\">Míi. Sǎm-phát lā-wàang wāk.</span><br><span class=\"rom\">Àan hây fáng dɛ̀ɛ.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — La poésie lao a des rimes ?<br><b>Noy</b> — Oui. Des rimes entre les vers.<br><b>Clara</b> — Lis-le-moi.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Y a-t-il des rimes en poésie lao ?</li></ol><details><summary>Réponses</summary><ol><li>Oui, entre les vers.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ກອນ</td><td class=\"rom\">Kɔ̌ɔn</td><td>poème, vers</td><td></td></tr><tr><td class=\"lo\">ສຳຜັດ</td><td class=\"rom\">Sǎm-phát</td><td>rime</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ວັກ</td><td class=\"rom\">Wāk</td><td>vers, syllabe</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ນັກກະວີ</td><td class=\"rom\">Nāk ká-wíi</td><td>poète</td><td></td></tr><tr><td class=\"lo\">ຈັງຫວະ</td><td class=\"rom\">Jǎng-wā</td><td>rythme</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : rimes et rythme",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ສຳຜັດ</span> <span class=\"rom\">Sǎm-phát</span> = rime</li><li><span class=\"lo\">ຈັງຫວະ</span> <span class=\"rom\">Jǎng-wā</span> = rythme</li></ul><details><summary>La règle</summary><p>La poésie lao repose sur des rimes internes et un rythme syllabique précis. [Règles À VÉRIFIER avec un enseignant]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> le rythme des vers.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Lis-le-moi.</li><li>C&#x27;est très beau.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ອ່ານໃຫ້ຟັງແດ່</span> <span class=\"rom\">Àan hây fáng dɛ̀ɛ.</span></li><li><span class=\"lo\">ງາມຫຼາຍ</span> <span class=\"rom\">Ngáam lǎay.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Recopie et traduis un poème lao court.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Lis un poème lao à voix haute devant un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>7 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l124-v01",
+   "front": "ກອນ",
+   "back": "Kɔ̌ɔn · poème, vers"
+  },
+  {
+   "id": "l124-v02",
+   "front": "ສຳຜັດ",
+   "back": "Sǎm-phát · rime"
+  },
+  {
+   "id": "l124-v03",
+   "front": "ວັກ",
+   "back": "Wāk · vers, syllabe"
+  },
+  {
+   "id": "l124-v04",
+   "front": "ນັກກະວີ",
+   "back": "Nāk ká-wíi · poète"
+  },
+  {
+   "id": "l124-v05",
+   "front": "ຈັງຫວະ",
+   "back": "Jǎng-wā · rythme"
+  },
+  {
+   "id": "l124-p01",
+   "front": "Lis-le-moi.",
+   "back": "ອ່ານໃຫ້ຟັງແດ່ · Àan hây fáng dɛ̀ɛ."
+  },
+  {
+   "id": "l124-p02",
+   "front": "C'est très beau.",
+   "back": "ງາມຫຼາຍ · Ngáam lǎay."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ກອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "poème, vers",
+      "vers, syllabe",
+      "poète",
+      "rime"
+     ],
+     "answer": "poème, vers",
+     "reveal": "<i>Kɔ̌ɔn</i>"
+    },
+    {
+     "audio": [
+      "ສຳຜັດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "rime",
+      "poème, vers",
+      "rythme",
+      "vers, syllabe"
+     ],
+     "answer": "rime",
+     "reveal": "<i>Sǎm-phát</i>"
+    },
+    {
+     "audio": [
+      "ວັກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "vers, syllabe",
+      "poème, vers",
+      "rime",
+      "poète"
+     ],
+     "answer": "vers, syllabe",
+     "reveal": "<i>Wāk</i>"
+    },
+    {
+     "audio": [
+      "ນັກກະວີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "poète",
+      "vers, syllabe",
+      "rime",
+      "poème, vers"
+     ],
+     "answer": "poète",
+     "reveal": "<i>Nāk ká-wíi</i>"
+    },
+    {
+     "audio": [
+      "ຈັງຫວະ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "rythme",
+      "poète",
+      "poème, vers",
+      "vers, syllabe"
+     ],
+     "answer": "rythme",
+     "reveal": "<i>Jǎng-wā</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ກອນ",
+   "rom": "Kɔ̌ɔn",
+   "fr": "poème, vers",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສຳຜັດ",
+   "rom": "Sǎm-phát",
+   "fr": "rime",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ວັກ",
+   "rom": "Wāk",
+   "fr": "vers, syllabe",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນັກກະວີ",
+   "rom": "Nāk ká-wíi",
+   "fr": "poète",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈັງຫວະ",
+   "rom": "Jǎng-wā",
+   "fr": "rythme",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອ່ານໃຫ້ຟັງແດ່",
+   "rom": "Àan hây fáng dɛ̀ɛ.",
+   "fr": "Lis-le-moi.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ງາມຫຼາຍ",
+   "rom": "Ngáam lǎay.",
+   "fr": "C'est très beau.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ອ່ານ",
+    "ໃຫ້",
+    "ຟັງ",
+    "ແດ່"
+   ],
+   "rom": "Àan hây fáng dɛ̀ɛ.",
+   "fr": "Lis-le-moi."
+  },
+  {
+   "tokens": [
+    "ງາມ",
+    "ຫຼາຍ"
+   ],
+   "rom": "Ngáam lǎay.",
+   "fr": "C'est très beau."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ກອນ",
+   "rom": "Kɔ̌ɔn",
+   "fr": "poème, vers"
+  },
+  {
+   "lao": "ສຳຜັດ",
+   "rom": "Sǎm-phát",
+   "fr": "rime"
+  },
+  {
+   "lao": "ວັກ",
+   "rom": "Wāk",
+   "fr": "vers, syllabe"
+  },
+  {
+   "lao": "ນັກກະວີ",
+   "rom": "Nāk ká-wíi",
+   "fr": "poète"
+  },
+  {
+   "lao": "ຈັງຫວະ",
+   "rom": "Jǎng-wā",
+   "fr": "rythme"
+  }
+ ],
+ "sounds": {
+  "ນິທານ": "Nī-tháan",
+  "ຮີບ": "Hîip",
+  "ກຳ": "Kǎm",
+  "ໃຈຄວາມສຳຄັນ": "Jǎy-khwáam sǎm-khán",
+  "ກອນລາວມີສຳຜັດບໍ": "Kɔ̌ɔn láaw míi sǎm-phát bɔ̌ɔ?",
+  "ມີ ສຳຜັດລະຫວ່າງວັກ": "Míi. Sǎm-phát lā-wàang wāk.",
+  "ອ່ານໃຫ້ຟັງແດ່": "Àan hây fáng dɛ̀ɛ.",
+  "ກອນ": "Kɔ̌ɔn",
+  "ສຳຜັດ": "Sǎm-phát",
+  "ວັກ": "Wāk",
+  "ນັກກະວີ": "Nāk ká-wíi",
+  "ຈັງຫວະ": "Jǎng-wā",
+  "ງາມຫຼາຍ": "Ngáam lǎay.",
+  "ອ່ານ": "àan",
+  "ໃຫ້": "hây",
+  "ຟັງ": "fáng",
+  "ແດ່": "dɛ̀ɛ",
+  "ງາມ": "ngáam",
+  "ຫຼາຍ": "lǎay"
+ },
+ "suivi": "LEÇON : 124 — Partie G (Maîtriser, C1) · La poésie\nOBJECTIF : Lire et comprendre un poème court.\nNOTION : rimes et rythme\nVOCAB : Kɔ̌ɔn, Sǎm-phát, Wāk, Nāk ká-wíi, Jǎng-wā\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 125 — Les chants traditionnels"
+}

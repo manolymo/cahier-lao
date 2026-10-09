@@ -1,0 +1,321 @@
+{
+ "num": 134,
+ "phase": "Partie G · Maîtriser",
+ "title": "Le droit et la politique",
+ "objective": "Comprendre un texte institutionnel.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>devenir <small class=\"muted\">(leçon 133)</small></li><li>ancêtres <small class=\"muted\">(leçon 131)</small></li><li>recherche <small class=\"muted\">(leçon 127)</small></li><li>le paradis (bonne destinée) <small class=\"muted\">(leçon 120)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ກາຍເປັນ</span> <span class=\"rom\">Kǎay pěn</span> · devenir</li><li><span class=\"lo\">ບັນພະບຸລຸດ</span> <span class=\"rom\">Bǎn-phā-bū-lūt</span> · ancêtres</li><li><span class=\"lo\">ຄົ້ນຄວ້າ</span> <span class=\"rom\">Khȍn-khwȁa</span> · recherche</li><li><span class=\"lo\">ສຸຄະຕິ</span> <span class=\"rom\">Sú-khā-tí</span> · le paradis (bonne destinée)</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Comprendre un texte institutionnel.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara lit un règlement.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ມາດຕານີ້ໝາຍຄວາມວ່າແນວໃດ?</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ມັນກຳນົດສິດແລະໜ້າທີ່ຂອງພົນລະເມືອງ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ພາສາກົດໝາຍຍາກແທ້</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Mâat-tǎa nȉi mǎay khwáam wāa nɛ́ɛw-dǎy?</span><br><span class=\"rom\">Mán kǎm-nōt sít lɛ́ nâa-thīi khɔ̌ɔng phón-lā-mʉ́ang.</span><br><span class=\"rom\">Pháa-sǎa kót-mǎay nyâak thɛ̏ɛ.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Que veut dire cet article ?<br><b>M. Somsak</b> — Il définit les droits et devoirs des citoyens.<br><b>Clara</b> — Le langage juridique est vraiment difficile.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que définit l&#x27;article ?</li></ol><details><summary>Réponses</summary><ol><li>Les droits et devoirs des citoyens.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ມາດຕາ</td><td class=\"rom\">Mâat-tǎa</td><td>article (de loi)</td><td></td></tr><tr><td class=\"lo\">ກຳນົດ</td><td class=\"rom\">Kǎm-nōt</td><td>définir, fixer</td><td></td></tr><tr><td class=\"lo\">ສິດ</td><td class=\"rom\">Sít</td><td>droit</td><td></td></tr><tr><td class=\"lo\">ໜ້າທີ່</td><td class=\"rom\">Nâa-thīi</td><td>devoir, fonction</td><td></td></tr><tr><td class=\"lo\">ພົນລະເມືອງ</td><td class=\"rom\">Phón-lā-mʉ́ang</td><td>citoyen</td><td></td></tr><tr><td class=\"lo\">ກົດໝາຍ</td><td class=\"rom\">Kót-mǎay</td><td>loi</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : le style juridique",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ກຳນົດ</span> <span class=\"rom\">Kǎm-nōt…</span> = définit…</li><li><span class=\"lo\">ຕ້ອງປະຕິບັດຕາມ</span> <span class=\"rom\">Tâɔng pá-tí-bát tǎam</span> = doit se conformer à</li></ul><details><summary>La règle</summary><p>Le style institutionnel est impersonnel et utilise des mots savants. Repère les verbes clés : ກຳນົດ, ປະຕິບັດ, ຫ້າມ, ອະນຸຍາດ.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les mots savants.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Que veut dire cet article ?</li><li>Les droits et devoirs.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ມາດຕານີ້ໝາຍຄວາມວ່າແນວໃດ?</span> <span class=\"rom\">Mâat-tǎa nȉi mǎay khwáam wāa nɛ́ɛw-dǎy?</span></li><li><span class=\"lo\">ສິດແລະໜ້າທີ່</span> <span class=\"rom\">Sít lɛ́ nâa-thīi.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Résume un texte institutionnel lao en langage simple.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Fais-toi expliquer un texte officiel par un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>8 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l134-v01",
+   "front": "ມາດຕາ",
+   "back": "Mâat-tǎa · article (de loi)"
+  },
+  {
+   "id": "l134-v02",
+   "front": "ກຳນົດ",
+   "back": "Kǎm-nōt · définir, fixer"
+  },
+  {
+   "id": "l134-v03",
+   "front": "ສິດ",
+   "back": "Sít · droit"
+  },
+  {
+   "id": "l134-v04",
+   "front": "ໜ້າທີ່",
+   "back": "Nâa-thīi · devoir, fonction"
+  },
+  {
+   "id": "l134-v05",
+   "front": "ພົນລະເມືອງ",
+   "back": "Phón-lā-mʉ́ang · citoyen"
+  },
+  {
+   "id": "l134-v06",
+   "front": "ກົດໝາຍ",
+   "back": "Kót-mǎay · loi"
+  },
+  {
+   "id": "l134-p01",
+   "front": "Que veut dire cet article ?",
+   "back": "ມາດຕານີ້ໝາຍຄວາມວ່າແນວໃດ? · Mâat-tǎa nȉi mǎay khwáam wāa nɛ́ɛw-dǎy?"
+  },
+  {
+   "id": "l134-p02",
+   "front": "Les droits et devoirs.",
+   "back": "ສິດແລະໜ້າທີ່ · Sít lɛ́ nâa-thīi."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ມາດຕາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "article (de loi)",
+      "droit",
+      "définir, fixer",
+      "loi"
+     ],
+     "answer": "article (de loi)",
+     "reveal": "<i>Mâat-tǎa</i>"
+    },
+    {
+     "audio": [
+      "ກຳນົດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "définir, fixer",
+      "devoir, fonction",
+      "loi",
+      "droit"
+     ],
+     "answer": "définir, fixer",
+     "reveal": "<i>Kǎm-nōt</i>"
+    },
+    {
+     "audio": [
+      "ສິດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "droit",
+      "citoyen",
+      "définir, fixer",
+      "devoir, fonction"
+     ],
+     "answer": "droit",
+     "reveal": "<i>Sít</i>"
+    },
+    {
+     "audio": [
+      "ໜ້າທີ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "devoir, fonction",
+      "définir, fixer",
+      "citoyen",
+      "loi"
+     ],
+     "answer": "devoir, fonction",
+     "reveal": "<i>Nâa-thīi</i>"
+    },
+    {
+     "audio": [
+      "ພົນລະເມືອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "citoyen",
+      "loi",
+      "devoir, fonction",
+      "article (de loi)"
+     ],
+     "answer": "citoyen",
+     "reveal": "<i>Phón-lā-mʉ́ang</i>"
+    },
+    {
+     "audio": [
+      "ກົດໝາຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "loi",
+      "définir, fixer",
+      "citoyen",
+      "article (de loi)"
+     ],
+     "answer": "loi",
+     "reveal": "<i>Kót-mǎay</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ມາດຕາ",
+   "rom": "Mâat-tǎa",
+   "fr": "article (de loi)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກຳນົດ",
+   "rom": "Kǎm-nōt",
+   "fr": "définir, fixer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສິດ",
+   "rom": "Sít",
+   "fr": "droit",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໜ້າທີ່",
+   "rom": "Nâa-thīi",
+   "fr": "devoir, fonction",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພົນລະເມືອງ",
+   "rom": "Phón-lā-mʉ́ang",
+   "fr": "citoyen",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກົດໝາຍ",
+   "rom": "Kót-mǎay",
+   "fr": "loi",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມາດຕານີ້ໝາຍຄວາມວ່າແນວໃດ?",
+   "rom": "Mâat-tǎa nȉi mǎay khwáam wāa nɛ́ɛw-dǎy?",
+   "fr": "Que veut dire cet article ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສິດແລະໜ້າທີ່",
+   "rom": "Sít lɛ́ nâa-thīi.",
+   "fr": "Les droits et devoirs.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ມາດຕາ",
+    "ນີ້",
+    "ໝາຍ",
+    "ຄວາມ",
+    "ວ່າ",
+    "ແນວໃດ"
+   ],
+   "rom": "Mâat-tǎa nȉi mǎay khwáam wāa nɛ́ɛw-dǎy?",
+   "fr": "Que veut dire cet article ?"
+  },
+  {
+   "tokens": [
+    "ສິດ",
+    "ແລະ",
+    "ໜ້າທີ່"
+   ],
+   "rom": "Sít lɛ́ nâa-thīi.",
+   "fr": "Les droits et devoirs."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ມາດຕາ",
+   "rom": "Mâat-tǎa",
+   "fr": "article (de loi)"
+  },
+  {
+   "lao": "ກຳນົດ",
+   "rom": "Kǎm-nōt",
+   "fr": "définir, fixer"
+  },
+  {
+   "lao": "ສິດ",
+   "rom": "Sít",
+   "fr": "droit"
+  },
+  {
+   "lao": "ໜ້າທີ່",
+   "rom": "Nâa-thīi",
+   "fr": "devoir, fonction"
+  },
+  {
+   "lao": "ພົນລະເມືອງ",
+   "rom": "Phón-lā-mʉ́ang",
+   "fr": "citoyen"
+  },
+  {
+   "lao": "ກົດໝາຍ",
+   "rom": "Kót-mǎay",
+   "fr": "loi"
+  }
+ ],
+ "sounds": {
+  "ກາຍເປັນ": "Kǎay pěn",
+  "ບັນພະບຸລຸດ": "Bǎn-phā-bū-lūt",
+  "ຄົ້ນຄວ້າ": "Khȍn-khwȁa",
+  "ສຸຄະຕິ": "Sú-khā-tí",
+  "ມາດຕານີ້ໝາຍຄວາມວ່າແນວໃດ": "Mâat-tǎa nȉi mǎay khwáam wāa nɛ́ɛw-dǎy?",
+  "ມັນກຳນົດສິດແລະໜ້າທີ່ຂອງພົນລະເມືອງ": "Mán kǎm-nōt sít lɛ́ nâa-thīi khɔ̌ɔng phón-lā-mʉ́ang.",
+  "ພາສາກົດໝາຍຍາກແທ້": "Pháa-sǎa kót-mǎay nyâak thɛ̏ɛ.",
+  "ມາດຕາ": "mâat-tǎa",
+  "ກຳນົດ": "Kǎm-nōt…",
+  "ສິດ": "sít",
+  "ໜ້າທີ່": "nâa-thīi",
+  "ພົນລະເມືອງ": "Phón-lā-mʉ́ang",
+  "ກົດໝາຍ": "Kót-mǎay",
+  "ຕ້ອງປະຕິບັດຕາມ": "Tâɔng pá-tí-bát tǎam",
+  "ສິດແລະໜ້າທີ່": "Sít lɛ́ nâa-thīi.",
+  "ນີ້": "nȉi",
+  "ໝາຍ": "mǎay",
+  "ຄວາມ": "khwáam",
+  "ວ່າ": "wāa",
+  "ແນວໃດ": "nɛ́ɛw-dǎy",
+  "ແລະ": "lɛ́"
+ },
+ "suivi": "LEÇON : 134 — Partie G (Maîtriser, C1) · Le droit et la politique\nOBJECTIF : Comprendre un texte institutionnel.\nNOTION : le style juridique\nVOCAB : Mâat-tǎa, Kǎm-nōt, Sít, Nâa-thīi, Phón-lā-mʉ́ang, Kót-mǎay\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 135 — Les affaires"
+}

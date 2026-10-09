@@ -1,0 +1,285 @@
+{
+ "num": 127,
+ "phase": "Partie G · Maîtriser",
+ "title": "L'écrit administratif",
+ "objective": "Rédiger une lettre officielle complète.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>roman <small class=\"muted\">(leçon 126)</small></li><li>vers, syllabe <small class=\"muted\">(leçon 124)</small></li><li>mes condoléances <small class=\"muted\">(leçon 120)</small></li><li>à tous (poli) <small class=\"muted\">(leçon 113)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ນະວະນິຍາຍ</span> <span class=\"rom\">Nā-wā-nī-nyáay</span> · roman</li><li><span class=\"lo\">ວັກ</span> <span class=\"rom\">Wāk</span> · vers, syllabe</li><li><span class=\"lo\">ຂໍສະແດງຄວາມເສຍໃຈນຳ</span> <span class=\"rom\">Khɔ̌ɔ sā-dɛ̌ɛng khwáam sǐa-jǎy nám</span> · mes condoléances</li><li><span class=\"lo\">ທຸກທ່ານ</span> <span class=\"rom\">Thūk thāan</span> · à tous (poli)</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Rédiger une lettre officielle complète.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara écrit à un ministère.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສາທາລະນະລັດປະຊາທິປະໄຕປະຊາຊົນລາວ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເລື່ອງ: ຂໍອະນຸຍາດເຮັດການຄົ້ນຄວ້າ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຈຶ່ງຮຽນມາເພື່ອພິຈາລະນາ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Sǎa-tháa-lā-nā-lāt pá-sáa-thī-pá-tǎy pá-sáa-són láaw…</span><br><span class=\"rom\">Lʉ̄ang: khɔ̌ɔ á-nū-nyâat hēt kǎan khȍn-khwȁa.</span><br><span class=\"rom\">Jʉ̀ng hían máa phʉ̄a phī-jǎa-lā-náa.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — République démocratique populaire lao… (en-tête)<br><b>Clara</b> — Objet : demande d&#x27;autorisation de recherche.<br><b>Clara</b> — Je vous soumets donc cette demande pour examen.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quel est l&#x27;objet de la lettre ?</li></ol><details><summary>Réponses</summary><ol><li>Une demande d&#x27;autorisation de recherche.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ສາທາລະນະລັດ</td><td class=\"rom\">Sǎa-tháa-lā-nā-lāt</td><td>république</td><td></td></tr><tr><td class=\"lo\">ເລື່ອງ</td><td class=\"rom\">Lʉ̄ang</td><td>objet (lettre)</td><td></td></tr><tr><td class=\"lo\">ພິຈາລະນາ</td><td class=\"rom\">Phī-jǎa-lā-náa</td><td>examiner</td><td></td></tr><tr><td class=\"lo\">ຄົ້ນຄວ້າ</td><td class=\"rom\">Khȍn-khwȁa</td><td>recherche</td><td></td></tr><tr><td class=\"lo\">ຈຶ່ງຮຽນມາ</td><td class=\"rom\">Jʉ̀ng hían máa</td><td>je vous soumets donc</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les conventions officielles",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ເລື່ອງ:</span> <span class=\"rom\">Lʉ̄ang:…</span> = objet :</li><li><span class=\"lo\">ຈຶ່ງຮຽນມາເພື່ອພິຈາລະນາ</span> <span class=\"rom\">Jʉ̀ng hían máa phʉ̄a phī-jǎa-lā-náa</span> = formule finale</li></ul><details><summary>La règle</summary><p>Une lettre officielle lao a un en-tête fixe (nom du pays, devise), un objet (ເລື່ອງ), et des formules finales figées. [À VÉRIFIER avec un modèle officiel]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les formules figées.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Objet : demande d&#x27;autorisation.</li><li>Pour examen.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເລື່ອງ: ຂໍອະນຸຍາດ</span> <span class=\"rom\">Lʉ̄ang: khɔ̌ɔ á-nū-nyâat.</span></li><li><span class=\"lo\">ເພື່ອພິຈາລະນາ</span> <span class=\"rom\">Phʉ̄a phī-jǎa-lā-náa.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Rédige une lettre officielle complète.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Fais relire ta lettre officielle par un natif ayant travaillé dans l&#x27;administration.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>7 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l127-v01",
+   "front": "ສາທາລະນະລັດ",
+   "back": "Sǎa-tháa-lā-nā-lāt · république"
+  },
+  {
+   "id": "l127-v02",
+   "front": "ເລື່ອງ",
+   "back": "Lʉ̄ang · objet (lettre)"
+  },
+  {
+   "id": "l127-v03",
+   "front": "ພິຈາລະນາ",
+   "back": "Phī-jǎa-lā-náa · examiner"
+  },
+  {
+   "id": "l127-v04",
+   "front": "ຄົ້ນຄວ້າ",
+   "back": "Khȍn-khwȁa · recherche"
+  },
+  {
+   "id": "l127-v05",
+   "front": "ຈຶ່ງຮຽນມາ",
+   "back": "Jʉ̀ng hían máa · je vous soumets donc"
+  },
+  {
+   "id": "l127-p01",
+   "front": "Objet : demande d'autorisation.",
+   "back": "ເລື່ອງ: ຂໍອະນຸຍາດ · Lʉ̄ang: khɔ̌ɔ á-nū-nyâat."
+  },
+  {
+   "id": "l127-p02",
+   "front": "Pour examen.",
+   "back": "ເພື່ອພິຈາລະນາ · Phʉ̄a phī-jǎa-lā-náa."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ສາທາລະນະລັດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "république",
+      "objet (lettre)",
+      "examiner",
+      "je vous soumets donc"
+     ],
+     "answer": "république",
+     "reveal": "<i>Sǎa-tháa-lā-nā-lāt</i>"
+    },
+    {
+     "audio": [
+      "ເລື່ອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "objet (lettre)",
+      "je vous soumets donc",
+      "république",
+      "recherche"
+     ],
+     "answer": "objet (lettre)",
+     "reveal": "<i>Lʉ̄ang</i>"
+    },
+    {
+     "audio": [
+      "ພິຈາລະນາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "examiner",
+      "république",
+      "je vous soumets donc",
+      "recherche"
+     ],
+     "answer": "examiner",
+     "reveal": "<i>Phī-jǎa-lā-náa</i>"
+    },
+    {
+     "audio": [
+      "ຄົ້ນຄວ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "recherche",
+      "objet (lettre)",
+      "république",
+      "examiner"
+     ],
+     "answer": "recherche",
+     "reveal": "<i>Khȍn-khwȁa</i>"
+    },
+    {
+     "audio": [
+      "ຈຶ່ງຮຽນມາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "je vous soumets donc",
+      "objet (lettre)",
+      "république",
+      "recherche"
+     ],
+     "answer": "je vous soumets donc",
+     "reveal": "<i>Jʉ̀ng hían máa</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ສາທາລະນະລັດ",
+   "rom": "Sǎa-tháa-lā-nā-lāt",
+   "fr": "république",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເລື່ອງ",
+   "rom": "Lʉ̄ang",
+   "fr": "objet (lettre)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພິຈາລະນາ",
+   "rom": "Phī-jǎa-lā-náa",
+   "fr": "examiner",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄົ້ນຄວ້າ",
+   "rom": "Khȍn-khwȁa",
+   "fr": "recherche",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈຶ່ງຮຽນມາ",
+   "rom": "Jʉ̀ng hían máa",
+   "fr": "je vous soumets donc",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເລື່ອງ: ຂໍອະນຸຍາດ",
+   "rom": "Lʉ̄ang: khɔ̌ɔ á-nū-nyâat.",
+   "fr": "Objet : demande d'autorisation.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເພື່ອພິຈາລະນາ",
+   "rom": "Phʉ̄a phī-jǎa-lā-náa.",
+   "fr": "Pour examen.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ເລື່ອງ",
+    "ຂໍ",
+    "ອະນຸຍາດ"
+   ],
+   "rom": "Lʉ̄ang: khɔ̌ɔ á-nū-nyâat.",
+   "fr": "Objet : demande d'autorisation."
+  },
+  {
+   "tokens": [
+    "ເພື່ອ",
+    "ພິຈາລະນາ"
+   ],
+   "rom": "Phʉ̄a phī-jǎa-lā-náa.",
+   "fr": "Pour examen."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ສາທາລະນະລັດ",
+   "rom": "Sǎa-tháa-lā-nā-lāt",
+   "fr": "république"
+  },
+  {
+   "lao": "ເລື່ອງ",
+   "rom": "Lʉ̄ang",
+   "fr": "objet (lettre)"
+  },
+  {
+   "lao": "ພິຈາລະນາ",
+   "rom": "Phī-jǎa-lā-náa",
+   "fr": "examiner"
+  },
+  {
+   "lao": "ຄົ້ນຄວ້າ",
+   "rom": "Khȍn-khwȁa",
+   "fr": "recherche"
+  },
+  {
+   "lao": "ຈຶ່ງຮຽນມາ",
+   "rom": "Jʉ̀ng hían máa",
+   "fr": "je vous soumets donc"
+  }
+ ],
+ "sounds": {
+  "ນະວະນິຍາຍ": "Nā-wā-nī-nyáay",
+  "ວັກ": "Wāk",
+  "ຂໍສະແດງຄວາມເສຍໃຈນຳ": "Khɔ̌ɔ sā-dɛ̌ɛng khwáam sǐa-jǎy nám",
+  "ທຸກທ່ານ": "Thūk thāan",
+  "ສາທາລະນະລັດປະຊາທິປະໄຕປະຊາຊົນລາວ": "Sǎa-tháa-lā-nā-lāt pá-sáa-thī-pá-tǎy pá-sáa-són láaw…",
+  "ເລື່ອງ: ຂໍອະນຸຍາດເຮັດການຄົ້ນຄວ້າ": "Lʉ̄ang: khɔ̌ɔ á-nū-nyâat hēt kǎan khȍn-khwȁa.",
+  "ຈຶ່ງຮຽນມາເພື່ອພິຈາລະນາ": "Jʉ̀ng hían máa phʉ̄a phī-jǎa-lā-náa",
+  "ສາທາລະນະລັດ": "Sǎa-tháa-lā-nā-lāt",
+  "ເລື່ອງ": "lʉ̄ang",
+  "ພິຈາລະນາ": "phī-jǎa-lā-náa",
+  "ຄົ້ນຄວ້າ": "Khȍn-khwȁa",
+  "ຈຶ່ງຮຽນມາ": "Jʉ̀ng hían máa",
+  "ເລື່ອງ:": "Lʉ̄ang:…",
+  "ເລື່ອງ: ຂໍອະນຸຍາດ": "Lʉ̄ang: khɔ̌ɔ á-nū-nyâat.",
+  "ເພື່ອພິຈາລະນາ": "Phʉ̄a phī-jǎa-lā-náa.",
+  "ເລື່ອງຂໍອະນຸຍາດ": "Lʉ̄ang: khɔ̌ɔ á-nū-nyâat.",
+  "ຂໍ": "khɔ̌ɔ",
+  "ອະນຸຍາດ": "á-nū-nyâat",
+  "ເພື່ອ": "phʉ̄a"
+ },
+ "suivi": "LEÇON : 127 — Partie G (Maîtriser, C1) · L'écrit administratif\nOBJECTIF : Rédiger une lettre officielle complète.\nNOTION : les conventions officielles\nVOCAB : Sǎa-tháa-lā-nā-lāt, Lʉ̄ang, Phī-jǎa-lā-náa, Khȍn-khwȁa, Jʉ̀ng hían máa\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 128 — Le discours public"
+}

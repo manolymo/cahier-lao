@@ -1,0 +1,185 @@
+{
+ "num": 138,
+ "phase": "Partie G · Maîtriser",
+ "title": "S'adapter à l'interlocuteur",
+ "objective": "Passer d'un registre à l'autre dans une même scène.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>admettre <small class=\"muted\">(leçon 137)</small></li><li>point de l&#x27;ordre du jour <small class=\"muted\">(leçon 135)</small></li><li>souvenir, mémoire <small class=\"muted\">(leçon 131)</small></li><li>rythme <small class=\"muted\">(leçon 124)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຍອມຮັບ</span> <span class=\"rom\">Nyɔ́ɔm-hāp</span> · admettre</li><li><span class=\"lo\">ວາລະ</span> <span class=\"rom\">Wáa-lā</span> · point de l&#x27;ordre du jour</li><li><span class=\"lo\">ຄວາມຊົງຈຳ</span> <span class=\"rom\">Khwáam sóng jǎm</span> · souvenir, mémoire</li><li><span class=\"lo\">ຈັງຫວະ</span> <span class=\"rom\">Jǎng-wā</span> · rythme</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Passer d&#x27;un registre à l&#x27;autre dans une même scène.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Une journée de Clara : un moine, un ami, un ministre.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສາທຸ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໄປກິນເບຍບໍ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້າພະເຈົ້າຂໍຂອບໃຈທ່ານເປັນຢ່າງຍິ່ງ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Sǎa-thū.</span><br><span class=\"rom\">Pǎy kǐn bía bɔ̌ɔ?</span><br><span class=\"rom\">Khâa-phā-jâo khɔ̌ɔ khɔ̏ɔp-jǎy thāan pěn yàang nyīng.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — (au moine) Sathou.<br><b>Clara</b> — (à un ami) On va boire une bière ?<br><b>Clara</b> — (au ministre) Je vous remercie infiniment.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Combien de registres utilise Clara ?</li></ol><details><summary>Réponses</summary><ol><li>Trois : religieux, familier, officiel.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ລະດັບພາສາ</td><td class=\"rom\">Lā-dáp pháa-sǎa</td><td>registre de langue</td><td></td></tr><tr><td class=\"lo\">ປັບຕົວ</td><td class=\"rom\">Páp tǔa</td><td>s&#x27;adapter</td><td></td></tr><tr><td class=\"lo\">ສະຖານະການ</td><td class=\"rom\">Sā-thǎa-nā-kǎan</td><td>situation</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : synthèse des registres",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ກິນ / ຮັບປະທານ / ຈັງຫັນ</span> <span class=\"rom\">Kǐn/ hāp-pá-tháan/ jǎng-hǎn</span> = manger : courant / soutenu / moine [À VÉRIFIER]</li><li><span class=\"lo\">ຂ້ອຍ / ຂ້າພະເຈົ້າ</span> <span class=\"rom\">Khɔ̂ɔy/ khâa-phā-jâo</span> = je : courant / soutenu</li></ul><details><summary>La règle</summary><p>Maîtriser le lao, c'est choisir pour chaque interlocuteur les pronoms, les verbes, les particules et le ton de voix adaptés.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les changements de registre.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Je vous remercie infiniment.</li><li>On va boire une bière ?</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້າພະເຈົ້າຂໍຂອບໃຈທ່ານເປັນຢ່າງຍິ່ງ</span> <span class=\"rom\">Khâa-phā-jâo khɔ̌ɔ khɔ̏ɔp-jǎy thāan pěn yàang nyīng.</span></li><li><span class=\"lo\">ໄປກິນເບຍບໍ?</span> <span class=\"rom\">Pǎy kǐn bía bɔ̌ɔ?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris la même demande dans 4 registres différents.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Joue avec un natif une scène où tu changes 3 fois d&#x27;interlocuteur.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>5 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l138-v01",
+   "front": "ລະດັບພາສາ",
+   "back": "Lā-dáp pháa-sǎa · registre de langue"
+  },
+  {
+   "id": "l138-v02",
+   "front": "ປັບຕົວ",
+   "back": "Páp tǔa · s'adapter"
+  },
+  {
+   "id": "l138-v03",
+   "front": "ສະຖານະການ",
+   "back": "Sā-thǎa-nā-kǎan · situation"
+  },
+  {
+   "id": "l138-p01",
+   "front": "Je vous remercie infiniment.",
+   "back": "ຂ້າພະເຈົ້າຂໍຂອບໃຈທ່ານເປັນຢ່າງຍິ່ງ · Khâa-phā-jâo khɔ̌ɔ khɔ̏ɔp-jǎy thāan pěn yàang nyīng."
+  },
+  {
+   "id": "l138-p02",
+   "front": "On va boire une bière ?",
+   "back": "ໄປກິນເບຍບໍ? · Pǎy kǐn bía bɔ̌ɔ?"
+  }
+ ],
+ "listening": [],
+ "speak": [
+  {
+   "lao": "ລະດັບພາສາ",
+   "rom": "Lā-dáp pháa-sǎa",
+   "fr": "registre de langue",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ປັບຕົວ",
+   "rom": "Páp tǔa",
+   "fr": "s'adapter",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສະຖານະການ",
+   "rom": "Sā-thǎa-nā-kǎan",
+   "fr": "situation",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້າພະເຈົ້າຂໍຂອບໃຈທ່ານເປັນຢ່າງຍິ່ງ",
+   "rom": "Khâa-phā-jâo khɔ̌ɔ khɔ̏ɔp-jǎy thāan pěn yàang nyīng.",
+   "fr": "Je vous remercie infiniment.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄປກິນເບຍບໍ?",
+   "rom": "Pǎy kǐn bía bɔ̌ɔ?",
+   "fr": "On va boire une bière ?",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂ້າພະເຈົ້າ",
+    "ຂໍ",
+    "ຂອບໃຈ",
+    "ທ່ານ",
+    "ເປັນ",
+    "ຢ່າງ",
+    "ຍິ່ງ"
+   ],
+   "rom": "Khâa-phā-jâo khɔ̌ɔ khɔ̏ɔp-jǎy thāan pěn yàang nyīng.",
+   "fr": "Je vous remercie infiniment."
+  },
+  {
+   "tokens": [
+    "ໄປ",
+    "ກິນ",
+    "ເບຍ",
+    "ບໍ"
+   ],
+   "rom": "Pǎy kǐn bía bɔ̌ɔ?",
+   "fr": "On va boire une bière ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ລະດັບພາສາ",
+   "rom": "Lā-dáp pháa-sǎa",
+   "fr": "registre de langue"
+  },
+  {
+   "lao": "ປັບຕົວ",
+   "rom": "Páp tǔa",
+   "fr": "s'adapter"
+  },
+  {
+   "lao": "ສະຖານະການ",
+   "rom": "Sā-thǎa-nā-kǎan",
+   "fr": "situation"
+  }
+ ],
+ "sounds": {
+  "ຍອມຮັບ": "Nyɔ́ɔm-hāp",
+  "ວາລະ": "Wáa-lā",
+  "ຄວາມຊົງຈຳ": "Khwáam sóng jǎm",
+  "ຈັງຫວະ": "Jǎng-wā",
+  "ສາທຸ": "Sǎa-thū.",
+  "ໄປກິນເບຍບໍ": "Pǎy kǐn bía bɔ̌ɔ?",
+  "ຂ້າພະເຈົ້າຂໍຂອບໃຈທ່ານເປັນຢ່າງຍິ່ງ": "Khâa-phā-jâo khɔ̌ɔ khɔ̏ɔp-jǎy thāan pěn yàang nyīng.",
+  "ລະດັບພາສາ": "Lā-dáp pháa-sǎa",
+  "ປັບຕົວ": "Páp tǔa",
+  "ສະຖານະການ": "Sā-thǎa-nā-kǎan",
+  "ກິນ / ຮັບປະທານ / ຈັງຫັນ": "Kǐn/ hāp-pá-tháan/ jǎng-hǎn",
+  "ຂ້ອຍ / ຂ້າພະເຈົ້າ": "Khɔ̂ɔy/ khâa-phā-jâo",
+  "ຂ້າພະເຈົ້າ": "khâa-phā-jâo",
+  "ຂໍ": "khɔ̌ɔ",
+  "ຂອບໃຈ": "khɔ̏ɔp-jǎy",
+  "ທ່ານ": "thāan",
+  "ເປັນ": "pěn",
+  "ຢ່າງ": "yàang",
+  "ຍິ່ງ": "nyīng",
+  "ໄປ": "pǎy",
+  "ກິນ": "kǐn",
+  "ເບຍ": "bía",
+  "ບໍ": "bɔ̌ɔ"
+ },
+ "suivi": "LEÇON : 138 — Partie G (Maîtriser, C1) · S'adapter à l'interlocuteur\nOBJECTIF : Passer d'un registre à l'autre dans une même scène.\nNOTION : synthèse des registres\nVOCAB : Lā-dáp pháa-sǎa, Páp tǔa, Sā-thǎa-nā-kǎan\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 139 — Projet final"
+}

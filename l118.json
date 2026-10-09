@@ -1,0 +1,319 @@
+{
+ "num": 118,
+ "phase": "Partie G · Maîtriser",
+ "title": "Le baci (discours)",
+ "objective": "Prononcer des vœux lors d'un baci.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>joindre les mains <small class=\"muted\">(leçon 117)</small></li><li>développer <small class=\"muted\">(leçon 115)</small></li><li>faire un plan <small class=\"muted\">(leçon 111)</small></li><li>perdre de la valeur <small class=\"muted\">(leçon 104)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ພະນົມມື</span> <span class=\"rom\">Phā-nóm-mʉ́ʉ</span> · joindre les mains</li><li><span class=\"lo\">ພັດທະນາ</span> <span class=\"rom\">Phāt-thā-náa</span> · développer</li><li><span class=\"lo\">ວາງໂຄງ</span> <span class=\"rom\">Wáang khóong</span> · faire un plan</li><li><span class=\"lo\">ອ່ອນຄ່າ</span> <span class=\"rom\">Ɔ̀ɔn khāa</span> · perdre de la valeur</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Prononcer des vœux lors d&#x27;un baci.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Baci pour le départ de Clara en France.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ມື້ນີ້ພວກເຮົາມາຮ່ວມກັນສູ່ຂວັນໃຫ້ຄລາຣາ</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ຂໍໃຫ້ເດີນທາງປອດໄພ ມີສຸຂະພາບແຂງແຮງ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂອບໃຈທຸກຄົນທີ່ອວຍພອນໃຫ້ຂ້ອຍ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Mʉ̂ʉ-nȉi phûak-háo máa hūam kǎn sùu-khwǎn hây Clara.</span><br><span class=\"rom\">Khɔ̌ɔ hây dɤ̌ɤn-tháang pɔ̏ɔt-pháy, míi sū-khā-phȃap khɛ̌ɛng-hɛ́ɛng.</span><br><span class=\"rom\">Khɔ̏ɔp-jǎy thūk khón thīi ǔay-phɔ́ɔn hây khɔ̂ɔy.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>M. Somsak</b> — Aujourd&#x27;hui, nous sommes réunis pour le baci de Clara.<br><b>Mme Boua</b> — Que ton voyage soit sûr, que tu sois en bonne santé.<br><b>Clara</b> — Merci à tous pour vos bénédictions.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Pourquoi ce baci ?</li><li>Quels vœux fait Mme Boua ?</li></ol><details><summary>Réponses</summary><ol><li>Le départ de Clara.</li><li>Un voyage sûr et une bonne santé.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ສູ່ຂວັນ</td><td class=\"rom\">Sùu-khwǎn</td><td>cérémonie d&#x27;appel des âmes (baci)</td><td></td></tr><tr><td class=\"lo\">ຂວັນ</td><td class=\"rom\">Khwǎn</td><td>âme vitale</td><td></td></tr><tr><td class=\"lo\">ເດີນທາງ</td><td class=\"rom\">Dɤ̌ɤn-tháang</td><td>voyager</td><td></td></tr><tr><td class=\"lo\">ປອດໄພ</td><td class=\"rom\">Pɔ̏ɔt-pháy</td><td>en sécurité</td><td></td></tr><tr><td class=\"lo\">ອວຍພອນ</td><td class=\"rom\">Ǔay-phɔ́ɔn</td><td>bénir, souhaiter</td><td></td></tr><tr><td class=\"lo\">ຜູກແຂນ</td><td class=\"rom\">Phȕuk-khɛ̌ɛn</td><td>nouer les fils</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les vœux cérémoniels",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຂໍໃຫ້</span> <span class=\"rom\">Khɔ̌ɔ hây…</span> = que…</li><li><span class=\"lo\">ຂໍໃຫ້ຂວັນມາຢູ່ກັບເນື້ອກັບໂຕ</span> <span class=\"rom\">Khɔ̌ɔ hây khwǎn máa yùu káp nʉ̏a káp tǒo</span> = que les âmes reviennent dans le corps [À VÉRIFIER]</li></ul><details><summary>La règle</summary><p>Le baci rappelle les ຂວັນ (âmes vitales) dans le corps. On noue un fil au poignet en formulant un vœu avec ຂໍໃຫ້. [Formules À VÉRIFIER]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les formules répétées.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Que ton voyage soit sûr.</li><li>Merci pour vos bénédictions.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂໍໃຫ້ເດີນທາງປອດໄພ</span> <span class=\"rom\">Khɔ̌ɔ hây dɤ̌ɤn-tháang pɔ̏ɔt-pháy.</span></li><li><span class=\"lo\">ຂອບໃຈທີ່ອວຍພອນ</span> <span class=\"rom\">Khɔ̏ɔp-jǎy thīi ǔay-phɔ́ɔn.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris 5 vœux de baci pour des occasions différentes.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Participe à un baci et formule un vœu en lao.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>8 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l118-v01",
+   "front": "ສູ່ຂວັນ",
+   "back": "Sùu-khwǎn · cérémonie d'appel des âmes (baci)"
+  },
+  {
+   "id": "l118-v02",
+   "front": "ຂວັນ",
+   "back": "Khwǎn · âme vitale"
+  },
+  {
+   "id": "l118-v03",
+   "front": "ເດີນທາງ",
+   "back": "Dɤ̌ɤn-tháang · voyager"
+  },
+  {
+   "id": "l118-v04",
+   "front": "ປອດໄພ",
+   "back": "Pɔ̏ɔt-pháy · en sécurité"
+  },
+  {
+   "id": "l118-v05",
+   "front": "ອວຍພອນ",
+   "back": "Ǔay-phɔ́ɔn · bénir, souhaiter"
+  },
+  {
+   "id": "l118-v06",
+   "front": "ຜູກແຂນ",
+   "back": "Phȕuk-khɛ̌ɛn · nouer les fils"
+  },
+  {
+   "id": "l118-p01",
+   "front": "Que ton voyage soit sûr.",
+   "back": "ຂໍໃຫ້ເດີນທາງປອດໄພ · Khɔ̌ɔ hây dɤ̌ɤn-tháang pɔ̏ɔt-pháy."
+  },
+  {
+   "id": "l118-p02",
+   "front": "Merci pour vos bénédictions.",
+   "back": "ຂອບໃຈທີ່ອວຍພອນ · Khɔ̏ɔp-jǎy thīi ǔay-phɔ́ɔn."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ສູ່ຂວັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "cérémonie d'appel des âmes (baci)",
+      "âme vitale",
+      "en sécurité",
+      "voyager"
+     ],
+     "answer": "cérémonie d'appel des âmes (baci)",
+     "reveal": "<i>Sùu-khwǎn</i>"
+    },
+    {
+     "audio": [
+      "ຂວັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "âme vitale",
+      "bénir, souhaiter",
+      "voyager",
+      "cérémonie d'appel des âmes (baci)"
+     ],
+     "answer": "âme vitale",
+     "reveal": "<i>Khwǎn</i>"
+    },
+    {
+     "audio": [
+      "ເດີນທາງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "voyager",
+      "en sécurité",
+      "âme vitale",
+      "cérémonie d'appel des âmes (baci)"
+     ],
+     "answer": "voyager",
+     "reveal": "<i>Dɤ̌ɤn-tháang</i>"
+    },
+    {
+     "audio": [
+      "ປອດໄພ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "en sécurité",
+      "cérémonie d'appel des âmes (baci)",
+      "voyager",
+      "nouer les fils"
+     ],
+     "answer": "en sécurité",
+     "reveal": "<i>Pɔ̏ɔt-pháy</i>"
+    },
+    {
+     "audio": [
+      "ອວຍພອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "bénir, souhaiter",
+      "âme vitale",
+      "nouer les fils",
+      "cérémonie d'appel des âmes (baci)"
+     ],
+     "answer": "bénir, souhaiter",
+     "reveal": "<i>Ǔay-phɔ́ɔn</i>"
+    },
+    {
+     "audio": [
+      "ຜູກແຂນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "nouer les fils",
+      "bénir, souhaiter",
+      "cérémonie d'appel des âmes (baci)",
+      "en sécurité"
+     ],
+     "answer": "nouer les fils",
+     "reveal": "<i>Phȕuk-khɛ̌ɛn</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ສູ່ຂວັນ",
+   "rom": "Sùu-khwǎn",
+   "fr": "cérémonie d'appel des âmes (baci)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂວັນ",
+   "rom": "Khwǎn",
+   "fr": "âme vitale",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເດີນທາງ",
+   "rom": "Dɤ̌ɤn-tháang",
+   "fr": "voyager",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ປອດໄພ",
+   "rom": "Pɔ̏ɔt-pháy",
+   "fr": "en sécurité",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອວຍພອນ",
+   "rom": "Ǔay-phɔ́ɔn",
+   "fr": "bénir, souhaiter",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຜູກແຂນ",
+   "rom": "Phȕuk-khɛ̌ɛn",
+   "fr": "nouer les fils",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍໃຫ້ເດີນທາງປອດໄພ",
+   "rom": "Khɔ̌ɔ hây dɤ̌ɤn-tháang pɔ̏ɔt-pháy.",
+   "fr": "Que ton voyage soit sûr.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂອບໃຈທີ່ອວຍພອນ",
+   "rom": "Khɔ̏ɔp-jǎy thīi ǔay-phɔ́ɔn.",
+   "fr": "Merci pour vos bénédictions.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂໍ",
+    "ໃຫ້",
+    "ເດີນທາງ",
+    "ປອດໄພ"
+   ],
+   "rom": "Khɔ̌ɔ hây dɤ̌ɤn-tháang pɔ̏ɔt-pháy.",
+   "fr": "Que ton voyage soit sûr."
+  },
+  {
+   "tokens": [
+    "ຂອບໃຈ",
+    "ທີ່",
+    "ອວຍພອນ"
+   ],
+   "rom": "Khɔ̏ɔp-jǎy thīi ǔay-phɔ́ɔn.",
+   "fr": "Merci pour vos bénédictions."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ສູ່ຂວັນ",
+   "rom": "Sùu-khwǎn",
+   "fr": "cérémonie d'appel des âmes (baci)"
+  },
+  {
+   "lao": "ຂວັນ",
+   "rom": "Khwǎn",
+   "fr": "âme vitale"
+  },
+  {
+   "lao": "ເດີນທາງ",
+   "rom": "Dɤ̌ɤn-tháang",
+   "fr": "voyager"
+  },
+  {
+   "lao": "ປອດໄພ",
+   "rom": "Pɔ̏ɔt-pháy",
+   "fr": "en sécurité"
+  },
+  {
+   "lao": "ອວຍພອນ",
+   "rom": "Ǔay-phɔ́ɔn",
+   "fr": "bénir, souhaiter"
+  },
+  {
+   "lao": "ຜູກແຂນ",
+   "rom": "Phȕuk-khɛ̌ɛn",
+   "fr": "nouer les fils"
+  }
+ ],
+ "sounds": {
+  "ພະນົມມື": "Phā-nóm-mʉ́ʉ",
+  "ພັດທະນາ": "Phāt-thā-náa",
+  "ວາງໂຄງ": "Wáang khóong",
+  "ອ່ອນຄ່າ": "Ɔ̀ɔn khāa",
+  "ມື້ນີ້ພວກເຮົາມາຮ່ວມກັນສູ່ຂວັນໃຫ້ຄລາຣາ": "Mʉ̂ʉ-nȉi phûak-háo máa hūam kǎn sùu-khwǎn hây Clara.",
+  "ຂໍໃຫ້ເດີນທາງປອດໄພ ມີສຸຂະພາບແຂງແຮງ": "Khɔ̌ɔ hây dɤ̌ɤn-tháang pɔ̏ɔt-pháy, míi sū-khā-phȃap khɛ̌ɛng-hɛ́ɛng.",
+  "ຂອບໃຈທຸກຄົນທີ່ອວຍພອນໃຫ້ຂ້ອຍ": "Khɔ̏ɔp-jǎy thūk khón thīi ǔay-phɔ́ɔn hây khɔ̂ɔy.",
+  "ສູ່ຂວັນ": "Sùu-khwǎn",
+  "ຂວັນ": "Khwǎn",
+  "ເດີນທາງ": "dɤ̌ɤn-tháang",
+  "ປອດໄພ": "pɔ̏ɔt-pháy",
+  "ອວຍພອນ": "ǔay-phɔ́ɔn",
+  "ຜູກແຂນ": "Phȕuk-khɛ̌ɛn",
+  "ຂໍໃຫ້": "Khɔ̌ɔ hây…",
+  "ຂໍໃຫ້ຂວັນມາຢູ່ກັບເນື້ອກັບໂຕ": "Khɔ̌ɔ hây khwǎn máa yùu káp nʉ̏a káp tǒo",
+  "ຂໍໃຫ້ເດີນທາງປອດໄພ": "Khɔ̌ɔ hây dɤ̌ɤn-tháang pɔ̏ɔt-pháy.",
+  "ຂອບໃຈທີ່ອວຍພອນ": "Khɔ̏ɔp-jǎy thīi ǔay-phɔ́ɔn.",
+  "ຂໍ": "khɔ̌ɔ",
+  "ໃຫ້": "hây",
+  "ຂອບໃຈ": "khɔ̏ɔp-jǎy",
+  "ທີ່": "thīi"
+ },
+ "suivi": "LEÇON : 118 — Partie G (Maîtriser, C1) · Le baci (discours)\nOBJECTIF : Prononcer des vœux lors d'un baci.\nNOTION : les vœux cérémoniels\nVOCAB : Sùu-khwǎn, Khwǎn, Dɤ̌ɤn-tháang, Pɔ̏ɔt-pháy, Ǔay-phɔ́ɔn, Phȕuk-khɛ̌ɛn\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 119 — Mariages"
+}

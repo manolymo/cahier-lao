@@ -811,6 +811,181 @@
    "title": "Bilan B2",
    "phase": "Argumenter",
    "file": "l115.json"
+  },
+  {
+   "id": "l116",
+   "num": 116,
+   "title": "Le registre soutenu",
+   "phase": "Maîtriser",
+   "file": "l116.json"
+  },
+  {
+   "id": "l117",
+   "num": 117,
+   "title": "Le registre religieux",
+   "phase": "Maîtriser",
+   "file": "l117.json"
+  },
+  {
+   "id": "l118",
+   "num": 118,
+   "title": "Le baci (discours)",
+   "phase": "Maîtriser",
+   "file": "l118.json"
+  },
+  {
+   "id": "l119",
+   "num": 119,
+   "title": "Mariages",
+   "phase": "Maîtriser",
+   "file": "l119.json"
+  },
+  {
+   "id": "l120",
+   "num": 120,
+   "title": "Funérailles",
+   "phase": "Maîtriser",
+   "file": "l120.json"
+  },
+  {
+   "id": "l121",
+   "num": 121,
+   "title": "Les proverbes (1)",
+   "phase": "Maîtriser",
+   "file": "l121.json"
+  },
+  {
+   "id": "l122",
+   "num": 122,
+   "title": "Les proverbes (2)",
+   "phase": "Maîtriser",
+   "file": "l122.json"
+  },
+  {
+   "id": "l123",
+   "num": 123,
+   "title": "Les contes",
+   "phase": "Maîtriser",
+   "file": "l123.json"
+  },
+  {
+   "id": "l124",
+   "num": 124,
+   "title": "La poésie",
+   "phase": "Maîtriser",
+   "file": "l124.json"
+  },
+  {
+   "id": "l125",
+   "num": 125,
+   "title": "Les chants traditionnels",
+   "phase": "Maîtriser",
+   "file": "l125.json"
+  },
+  {
+   "id": "l126",
+   "num": 126,
+   "title": "La littérature moderne",
+   "phase": "Maîtriser",
+   "file": "l126.json"
+  },
+  {
+   "id": "l127",
+   "num": 127,
+   "title": "L'écrit administratif",
+   "phase": "Maîtriser",
+   "file": "l127.json"
+  },
+  {
+   "id": "l128",
+   "num": 128,
+   "title": "Le discours public",
+   "phase": "Maîtriser",
+   "file": "l128.json"
+  },
+  {
+   "id": "l129",
+   "num": 129,
+   "title": "Interpréter",
+   "phase": "Maîtriser",
+   "file": "l129.json"
+  },
+  {
+   "id": "l130",
+   "num": 130,
+   "title": "Parler aux enfants",
+   "phase": "Maîtriser",
+   "file": "l130.json"
+  },
+  {
+   "id": "l131",
+   "num": 131,
+   "title": "Parler aux anciens",
+   "phase": "Maîtriser",
+   "file": "l131.json"
+  },
+  {
+   "id": "l132",
+   "num": 132,
+   "title": "Argot et langue des jeunes",
+   "phase": "Maîtriser",
+   "file": "l132.json"
+  },
+  {
+   "id": "l133",
+   "num": 133,
+   "title": "Les sciences",
+   "phase": "Maîtriser",
+   "file": "l133.json"
+  },
+  {
+   "id": "l134",
+   "num": 134,
+   "title": "Le droit et la politique",
+   "phase": "Maîtriser",
+   "file": "l134.json"
+  },
+  {
+   "id": "l135",
+   "num": 135,
+   "title": "Les affaires",
+   "phase": "Maîtriser",
+   "file": "l135.json"
+  },
+  {
+   "id": "l136",
+   "num": 136,
+   "title": "Improvisation (1)",
+   "phase": "Maîtriser",
+   "file": "l136.json"
+  },
+  {
+   "id": "l137",
+   "num": 137,
+   "title": "Improvisation (2)",
+   "phase": "Maîtriser",
+   "file": "l137.json"
+  },
+  {
+   "id": "l138",
+   "num": 138,
+   "title": "S'adapter à l'interlocuteur",
+   "phase": "Maîtriser",
+   "file": "l138.json"
+  },
+  {
+   "id": "l139",
+   "num": 139,
+   "title": "Projet final",
+   "phase": "Maîtriser",
+   "file": "l139.json"
+  },
+  {
+   "id": "l140",
+   "num": 140,
+   "title": "Bilan C1",
+   "phase": "Maîtriser",
+   "file": "l140.json"
   }
  ]
 }

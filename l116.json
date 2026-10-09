@@ -1,0 +1,449 @@
+{
+ "num": 116,
+ "phase": "Partie G · Maîtriser",
+ "title": "Le registre soutenu",
+ "objective": "Transformer un message familier en message officiel.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>développer <small class=\"muted\">(leçon 115)</small></li><li>présenter <small class=\"muted\">(leçon 113)</small></li><li>perdre <small class=\"muted\">(leçon 109)</small></li><li>accent <small class=\"muted\">(leçon 102)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ພັດທະນາ</span> <span class=\"rom\">Phāt-thā-náa</span> · développer</li><li><span class=\"lo\">ນຳສະເໜີ</span> <span class=\"rom\">Nám-sā-něe</span> · présenter</li><li><span class=\"lo\">ສູນເສຍ</span> <span class=\"rom\">Sǔun-sǐa</span> · perdre</li><li><span class=\"lo\">ສຳນຽງ</span> <span class=\"rom\">Sǎm-níang</span> · accent</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Transformer un message familier en message officiel.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara doit écrire au directeur.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍຢາກພັກມື້ອື່ນ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຂຽນໃຫ້ສຸພາບກວ່ານີ້</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້າພະເຈົ້າຂໍອະນຸຍາດລາພັກໃນວັນພະຫັດ</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ດີຫຼາຍ ແບບນີ້ຖືກຕ້ອງ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Khɔ̂ɔy yȁak phāk mʉ̂ʉ-ʉ̀ʉn.</span><br><span class=\"rom\">Khǐan hây sū-phȃap kwàa nȉi.</span><br><span class=\"rom\">Khâa-phā-jâo khɔ̌ɔ á-nū-nyâat láa-phāk nǎy wán phā-hāt.</span><br><span class=\"rom\">Dǐi lǎay. Bɛ̏ɛp nȉi thʉ̀ʉk-tâɔng.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — (familier) Je veux prendre congé demain.<br><b>Noy</b> — Écris-le plus poliment.<br><b>Clara</b> — (soutenu) Je sollicite l&#x27;autorisation de m&#x27;absenter jeudi.<br><b>Noy</b> — Très bien. Comme ça, c&#x27;est correct.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quelle différence entre les deux phrases ?</li></ol><details><summary>Réponses</summary><ol><li>Le registre : ຂ້ອຍ → ຂ້າພະເຈົ້າ, ຢາກພັກ → ຂໍອະນຸຍາດລາພັກ.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຂ້າພະເຈົ້າ</td><td class=\"rom\">Khâa-phā-jâo</td><td>je (soutenu)</td><td></td></tr><tr><td class=\"lo\">ທ່ານ</td><td class=\"rom\">Thāan</td><td>vous (soutenu)</td><td></td></tr><tr><td class=\"lo\">ລາພັກ</td><td class=\"rom\">Láa-phāk</td><td>prendre congé (soutenu)</td><td></td></tr><tr><td class=\"lo\">ສຸພາບ</td><td class=\"rom\">Sū-phȃap</td><td>poli</td><td></td></tr><tr><td class=\"lo\">ຖືກຕ້ອງ</td><td class=\"rom\">Thʉ̀ʉk-tâɔng</td><td>correct</td><td></td></tr><tr><td class=\"lo\">ຄຳສັບສູງ</td><td class=\"rom\">Khám sāp sǔung</td><td>vocabulaire soutenu</td><td></td></tr><tr><td class=\"lo\">ພາສາປາກ</td><td class=\"rom\">Pháa-sǎa pȁak</td><td>langue parlée</td><td></td></tr><tr><td class=\"lo\">ພາສາຂຽນ</td><td class=\"rom\">Pháa-sǎa khǐan</td><td>langue écrite</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : passer du familier au soutenu",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຂ້ອຍ→ຂ້າພະເຈົ້າ</span> <span class=\"rom\">Khɔ̂ɔy → khâa-phā-jâo</span> = je</li><li><span class=\"lo\">ເຈົ້າ→ທ່ານ</span> <span class=\"rom\">Jâo → thāan</span> = vous</li><li><span class=\"lo\">ກິນ→ຮັບປະທານ</span> <span class=\"rom\">Kǐn → hāp-pá-tháan</span> = manger (soutenu)</li></ul><details><summary>La règle</summary><p>Le registre soutenu remplace les mots courants par des équivalents savants, souvent d'origine pali-sanskrite. [Toute la leçon À VÉRIFIER avec un enseignant]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les mots soutenus.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Je sollicite l&#x27;autorisation…</li><li>Écris-le plus poliment.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້າພະເຈົ້າຂໍອະນຸຍາດ</span> <span class=\"rom\">Khâa-phā-jâo khɔ̌ɔ á-nū-nyâat…</span></li><li><span class=\"lo\">ຂຽນໃຫ້ສຸພາບກວ່ານີ້</span> <span class=\"rom\">Khǐan hây sū-phȃap kwàa nȉi.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Réécris 5 phrases familières en registre soutenu.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Fais corriger tes transformations par un enseignant natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>10 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l116-v01",
+   "front": "ຂ້າພະເຈົ້າ",
+   "back": "Khâa-phā-jâo · je (soutenu)"
+  },
+  {
+   "id": "l116-v02",
+   "front": "ທ່ານ",
+   "back": "Thāan · vous (soutenu)"
+  },
+  {
+   "id": "l116-v03",
+   "front": "ລາພັກ",
+   "back": "Láa-phāk · prendre congé (soutenu)"
+  },
+  {
+   "id": "l116-v04",
+   "front": "ສຸພາບ",
+   "back": "Sū-phȃap · poli"
+  },
+  {
+   "id": "l116-v05",
+   "front": "ຖືກຕ້ອງ",
+   "back": "Thʉ̀ʉk-tâɔng · correct"
+  },
+  {
+   "id": "l116-v06",
+   "front": "ຄຳສັບສູງ",
+   "back": "Khám sāp sǔung · vocabulaire soutenu"
+  },
+  {
+   "id": "l116-v07",
+   "front": "ພາສາປາກ",
+   "back": "Pháa-sǎa pȁak · langue parlée"
+  },
+  {
+   "id": "l116-v08",
+   "front": "ພາສາຂຽນ",
+   "back": "Pháa-sǎa khǐan · langue écrite"
+  },
+  {
+   "id": "l116-p01",
+   "front": "Je sollicite l'autorisation…",
+   "back": "ຂ້າພະເຈົ້າຂໍອະນຸຍາດ · Khâa-phā-jâo khɔ̌ɔ á-nū-nyâat…"
+  },
+  {
+   "id": "l116-p02",
+   "front": "Écris-le plus poliment.",
+   "back": "ຂຽນໃຫ້ສຸພາບກວ່ານີ້ · Khǐan hây sū-phȃap kwàa nȉi."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້າພະເຈົ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "je (soutenu)",
+      "langue écrite",
+      "vous (soutenu)",
+      "vocabulaire soutenu"
+     ],
+     "answer": "je (soutenu)",
+     "reveal": "<i>Khâa-phā-jâo</i>"
+    },
+    {
+     "audio": [
+      "ທ່ານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "vous (soutenu)",
+      "prendre congé (soutenu)",
+      "je (soutenu)",
+      "poli"
+     ],
+     "answer": "vous (soutenu)",
+     "reveal": "<i>Thāan</i>"
+    },
+    {
+     "audio": [
+      "ລາພັກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "prendre congé (soutenu)",
+      "correct",
+      "vous (soutenu)",
+      "langue écrite"
+     ],
+     "answer": "prendre congé (soutenu)",
+     "reveal": "<i>Láa-phāk</i>"
+    },
+    {
+     "audio": [
+      "ສຸພາບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "poli",
+      "vocabulaire soutenu",
+      "correct",
+      "vous (soutenu)"
+     ],
+     "answer": "poli",
+     "reveal": "<i>Sū-phȃap</i>"
+    },
+    {
+     "audio": [
+      "ຖືກຕ້ອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "correct",
+      "poli",
+      "langue écrite",
+      "je (soutenu)"
+     ],
+     "answer": "correct",
+     "reveal": "<i>Thʉ̀ʉk-tâɔng</i>"
+    },
+    {
+     "audio": [
+      "ຄຳສັບສູງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "vocabulaire soutenu",
+      "correct",
+      "vous (soutenu)",
+      "langue parlée"
+     ],
+     "answer": "vocabulaire soutenu",
+     "reveal": "<i>Khám sāp sǔung</i>"
+    },
+    {
+     "audio": [
+      "ພາສາປາກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "langue parlée",
+      "vocabulaire soutenu",
+      "correct",
+      "langue écrite"
+     ],
+     "answer": "langue parlée",
+     "reveal": "<i>Pháa-sǎa pȁak</i>"
+    },
+    {
+     "audio": [
+      "ພາສາຂຽນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "langue écrite",
+      "poli",
+      "je (soutenu)",
+      "langue parlée"
+     ],
+     "answer": "langue écrite",
+     "reveal": "<i>Pháa-sǎa khǐan</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້ອຍຢາກພັກມື້ອື່ນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "(familier) Je veux prendre congé demain.",
+      "Très bien. Comme ça, c'est correct.",
+      "(soutenu) Je sollicite l'autorisation de m'absenter jeudi.",
+      "Écris-le plus poliment."
+     ],
+     "answer": "(familier) Je veux prendre congé demain.",
+     "reveal": "<i>Khɔ̂ɔy yȁak phāk mʉ̂ʉ-ʉ̀ʉn.</i>"
+    },
+    {
+     "audio": [
+      "ຂຽນໃຫ້ສຸພາບກວ່ານີ້"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Écris-le plus poliment.",
+      "(familier) Je veux prendre congé demain.",
+      "(soutenu) Je sollicite l'autorisation de m'absenter jeudi.",
+      "Très bien. Comme ça, c'est correct."
+     ],
+     "answer": "Écris-le plus poliment.",
+     "reveal": "<i>Khǐan hây sū-phȃap kwàa nȉi.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້າພະເຈົ້າຂໍອະນຸຍາດລາພັກໃນວັນພະຫັດ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "(soutenu) Je sollicite l'autorisation de m'absenter jeudi.",
+      "Très bien. Comme ça, c'est correct.",
+      "(familier) Je veux prendre congé demain.",
+      "Écris-le plus poliment."
+     ],
+     "answer": "(soutenu) Je sollicite l'autorisation de m'absenter jeudi.",
+     "reveal": "<i>Khâa-phā-jâo khɔ̌ɔ á-nū-nyâat láa-phāk nǎy wán phā-hāt.</i>"
+    },
+    {
+     "audio": [
+      "ດີຫຼາຍ ແບບນີ້ຖືກຕ້ອງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Très bien. Comme ça, c'est correct.",
+      "(familier) Je veux prendre congé demain.",
+      "(soutenu) Je sollicite l'autorisation de m'absenter jeudi.",
+      "Écris-le plus poliment."
+     ],
+     "answer": "Très bien. Comme ça, c'est correct.",
+     "reveal": "<i>Dǐi lǎay. Bɛ̏ɛp nȉi thʉ̀ʉk-tâɔng.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຂ້າພະເຈົ້າ",
+   "rom": "Khâa-phā-jâo",
+   "fr": "je (soutenu)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທ່ານ",
+   "rom": "Thāan",
+   "fr": "vous (soutenu)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລາພັກ",
+   "rom": "Láa-phāk",
+   "fr": "prendre congé (soutenu)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສຸພາບ",
+   "rom": "Sū-phȃap",
+   "fr": "poli",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຖືກຕ້ອງ",
+   "rom": "Thʉ̀ʉk-tâɔng",
+   "fr": "correct",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄຳສັບສູງ",
+   "rom": "Khám sāp sǔung",
+   "fr": "vocabulaire soutenu",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພາສາປາກ",
+   "rom": "Pháa-sǎa pȁak",
+   "fr": "langue parlée",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພາສາຂຽນ",
+   "rom": "Pháa-sǎa khǐan",
+   "fr": "langue écrite",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້າພະເຈົ້າຂໍອະນຸຍາດ",
+   "rom": "Khâa-phā-jâo khɔ̌ɔ á-nū-nyâat…",
+   "fr": "Je sollicite l'autorisation…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂຽນໃຫ້ສຸພາບກວ່ານີ້",
+   "rom": "Khǐan hây sū-phȃap kwàa nȉi.",
+   "fr": "Écris-le plus poliment.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂ້າພະເຈົ້າ",
+    "ຂໍ",
+    "ອະນຸຍາດ"
+   ],
+   "rom": "Khâa-phā-jâo khɔ̌ɔ á-nū-nyâat…",
+   "fr": "Je sollicite l'autorisation…"
+  },
+  {
+   "tokens": [
+    "ຂຽນ",
+    "ໃຫ້",
+    "ສຸພາບ",
+    "ກວ່າ",
+    "ນີ້"
+   ],
+   "rom": "Khǐan hây sū-phȃap kwàa nȉi.",
+   "fr": "Écris-le plus poliment."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຂ້າພະເຈົ້າ",
+   "rom": "Khâa-phā-jâo",
+   "fr": "je (soutenu)"
+  },
+  {
+   "lao": "ທ່ານ",
+   "rom": "Thāan",
+   "fr": "vous (soutenu)"
+  },
+  {
+   "lao": "ລາພັກ",
+   "rom": "Láa-phāk",
+   "fr": "prendre congé (soutenu)"
+  },
+  {
+   "lao": "ສຸພາບ",
+   "rom": "Sū-phȃap",
+   "fr": "poli"
+  },
+  {
+   "lao": "ຖືກຕ້ອງ",
+   "rom": "Thʉ̀ʉk-tâɔng",
+   "fr": "correct"
+  },
+  {
+   "lao": "ຄຳສັບສູງ",
+   "rom": "Khám sāp sǔung",
+   "fr": "vocabulaire soutenu"
+  },
+  {
+   "lao": "ພາສາປາກ",
+   "rom": "Pháa-sǎa pȁak",
+   "fr": "langue parlée"
+  },
+  {
+   "lao": "ພາສາຂຽນ",
+   "rom": "Pháa-sǎa khǐan",
+   "fr": "langue écrite"
+  }
+ ],
+ "sounds": {
+  "ພັດທະນາ": "Phāt-thā-náa",
+  "ນຳສະເໜີ": "Nám-sā-něe",
+  "ສູນເສຍ": "Sǔun-sǐa",
+  "ສຳນຽງ": "Sǎm-níang",
+  "ຂ້ອຍຢາກພັກມື້ອື່ນ": "Khɔ̂ɔy yȁak phāk mʉ̂ʉ-ʉ̀ʉn.",
+  "ຂຽນໃຫ້ສຸພາບກວ່ານີ້": "Khǐan hây sū-phȃap kwàa nȉi.",
+  "ຂ້າພະເຈົ້າຂໍອະນຸຍາດລາພັກໃນວັນພະຫັດ": "Khâa-phā-jâo khɔ̌ɔ á-nū-nyâat láa-phāk nǎy wán phā-hāt.",
+  "ດີຫຼາຍ ແບບນີ້ຖືກຕ້ອງ": "Dǐi lǎay. Bɛ̏ɛp nȉi thʉ̀ʉk-tâɔng.",
+  "ຂ້າພະເຈົ້າ": "khâa-phā-jâo",
+  "ທ່ານ": "Thāan",
+  "ລາພັກ": "Láa-phāk",
+  "ສຸພາບ": "sū-phȃap",
+  "ຖືກຕ້ອງ": "Thʉ̀ʉk-tâɔng",
+  "ຄຳສັບສູງ": "Khám sāp sǔung",
+  "ພາສາປາກ": "Pháa-sǎa pȁak",
+  "ພາສາຂຽນ": "Pháa-sǎa khǐan",
+  "ຂ້ອຍ→ຂ້າພະເຈົ້າ": "Khɔ̂ɔy → khâa-phā-jâo",
+  "ເຈົ້າ→ທ່ານ": "Jâo → thāan",
+  "ກິນ→ຮັບປະທານ": "Kǐn → hāp-pá-tháan",
+  "ຂ້າພະເຈົ້າຂໍອະນຸຍາດ": "Khâa-phā-jâo khɔ̌ɔ á-nū-nyâat…",
+  "ຂໍ": "khɔ̌ɔ",
+  "ອະນຸຍາດ": "á-nū-nyâat",
+  "ຂຽນ": "khǐan",
+  "ໃຫ້": "hây",
+  "ກວ່າ": "kwàa",
+  "ນີ້": "nȉi"
+ },
+ "suivi": "LEÇON : 116 — Partie G (Maîtriser, C1) · Le registre soutenu\nOBJECTIF : Transformer un message familier en message officiel.\nNOTION : passer du familier au soutenu\nVOCAB : Khâa-phā-jâo, Thāan, Láa-phāk, Sū-phȃap, Thʉ̀ʉk-tâɔng, Khám sāp sǔung, Pháa-sǎa pȁak, Pháa-sǎa khǐan\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 117 — Le registre religieux"
+}

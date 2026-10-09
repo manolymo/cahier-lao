@@ -1,0 +1,346 @@
+{
+ "num": 119,
+ "phase": "Partie G · Maîtriser",
+ "title": "Mariages",
+ "objective": "Comprendre et participer à un mariage lao.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>voyager <small class=\"muted\">(leçon 118)</small></li><li>je (soutenu) <small class=\"muted\">(leçon 116)</small></li><li>condition <small class=\"muted\">(leçon 112)</small></li><li>électricité <small class=\"muted\">(leçon 105)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ເດີນທາງ</span> <span class=\"rom\">Dɤ̌ɤn-tháang</span> · voyager</li><li><span class=\"lo\">ຂ້າພະເຈົ້າ</span> <span class=\"rom\">Khâa-phā-jâo</span> · je (soutenu)</li><li><span class=\"lo\">ເງື່ອນໄຂ</span> <span class=\"rom\">Ngʉ̄an-khǎy</span> · condition</li><li><span class=\"lo\">ໄຟຟ້າ</span> <span class=\"rom\">Fáy-fȁa</span> · électricité</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Comprendre et participer à un mariage lao.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Mariage de Noy.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຍິນດີນຳເຈົ້າບ່າວເຈົ້າສາວ!</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຂອບໃຈຫຼາຍໆທີ່ມາຮ່ວມງານ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂໍໃຫ້ຮັກກັນຕະຫຼອດໄປ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Nyín-dǐi nám jâo-bàaw jâo-sǎaw!</span><br><span class=\"rom\">Khɔ̏ɔp-jǎy lǎay-lǎay thīi máa hūam ngáan.</span><br><span class=\"rom\">Khɔ̌ɔ hây hāk kǎn tá-lȍɔt pǎy.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Félicitations aux mariés !<br><b>Noy</b> — Merci beaucoup d&#x27;être venue.<br><b>Clara</b> — Que vous vous aimiez pour toujours.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que souhaite Clara ?</li></ol><details><summary>Réponses</summary><ol><li>Qu&#x27;ils s&#x27;aiment pour toujours.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ງານແຕ່ງງານ</td><td class=\"rom\">Ngáan tɛ̀ɛng-ngáan</td><td>mariage (fête)</td><td></td></tr><tr><td class=\"lo\">ເຈົ້າບ່າວ</td><td class=\"rom\">Jâo-bàaw</td><td>marié</td><td></td></tr><tr><td class=\"lo\">ເຈົ້າສາວ</td><td class=\"rom\">Jâo-sǎaw</td><td>mariée</td><td></td></tr><tr><td class=\"lo\">ຍິນດີນຳ</td><td class=\"rom\">Nyín-dǐi nám</td><td>félicitations</td><td></td></tr><tr><td class=\"lo\">ຕະຫຼອດໄປ</td><td class=\"rom\">Tá-lȍɔt pǎy</td><td>pour toujours</td><td></td></tr><tr><td class=\"lo\">ຂອງຂວັນ</td><td class=\"rom\">Khɔ̌ɔng-khwǎn</td><td>cadeau</td><td></td></tr><tr><td class=\"lo\">ສິນສອດ</td><td class=\"rom\">Sǐn-sɔ̏ɔt</td><td>dot</td><td>[À VÉRIFIER]</td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : féliciter",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຍິນດີນຳ</span> <span class=\"rom\">Nyín-dǐi nám…</span> = félicitations à…</li><li><span class=\"lo\">ຂໍໃຫ້ ຕະຫຼອດໄປ</span> <span class=\"rom\">Khɔ̌ɔ hây… tá-lȍɔt pǎy</span> = que… pour toujours</li></ul><details><summary>La règle</summary><p>ຍິນດີນຳ = félicitations. Au mariage, on offre souvent de l'argent dans une enveloppe. [Usages À VÉRIFIER]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les formules de félicitations.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Félicitations aux mariés !</li><li>Pour toujours.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຍິນດີນຳເຈົ້າບ່າວເຈົ້າສາວ!</span> <span class=\"rom\">Nyín-dǐi nám jâo-bàaw jâo-sǎaw!</span></li><li><span class=\"lo\">ຕະຫຼອດໄປ</span> <span class=\"rom\">Tá-lȍɔt pǎy.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris un message de félicitations pour un mariage.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Demande à un natif comment se passe un mariage lao, étape par étape.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>9 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l119-v01",
+   "front": "ງານແຕ່ງງານ",
+   "back": "Ngáan tɛ̀ɛng-ngáan · mariage (fête)"
+  },
+  {
+   "id": "l119-v02",
+   "front": "ເຈົ້າບ່າວ",
+   "back": "Jâo-bàaw · marié"
+  },
+  {
+   "id": "l119-v03",
+   "front": "ເຈົ້າສາວ",
+   "back": "Jâo-sǎaw · mariée"
+  },
+  {
+   "id": "l119-v04",
+   "front": "ຍິນດີນຳ",
+   "back": "Nyín-dǐi nám · félicitations"
+  },
+  {
+   "id": "l119-v05",
+   "front": "ຕະຫຼອດໄປ",
+   "back": "Tá-lȍɔt pǎy · pour toujours"
+  },
+  {
+   "id": "l119-v06",
+   "front": "ຂອງຂວັນ",
+   "back": "Khɔ̌ɔng-khwǎn · cadeau"
+  },
+  {
+   "id": "l119-v07",
+   "front": "ສິນສອດ",
+   "back": "Sǐn-sɔ̏ɔt · dot"
+  },
+  {
+   "id": "l119-p01",
+   "front": "Félicitations aux mariés !",
+   "back": "ຍິນດີນຳເຈົ້າບ່າວເຈົ້າສາວ! · Nyín-dǐi nám jâo-bàaw jâo-sǎaw!"
+  },
+  {
+   "id": "l119-p02",
+   "front": "Pour toujours.",
+   "back": "ຕະຫຼອດໄປ · Tá-lȍɔt pǎy."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ງານແຕ່ງງານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mariage (fête)",
+      "dot",
+      "félicitations",
+      "pour toujours"
+     ],
+     "answer": "mariage (fête)",
+     "reveal": "<i>Ngáan tɛ̀ɛng-ngáan</i>"
+    },
+    {
+     "audio": [
+      "ເຈົ້າບ່າວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "marié",
+      "mariée",
+      "félicitations",
+      "mariage (fête)"
+     ],
+     "answer": "marié",
+     "reveal": "<i>Jâo-bàaw</i>"
+    },
+    {
+     "audio": [
+      "ເຈົ້າສາວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mariée",
+      "félicitations",
+      "dot",
+      "marié"
+     ],
+     "answer": "mariée",
+     "reveal": "<i>Jâo-sǎaw</i>"
+    },
+    {
+     "audio": [
+      "ຍິນດີນຳ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "félicitations",
+      "cadeau",
+      "pour toujours",
+      "marié"
+     ],
+     "answer": "félicitations",
+     "reveal": "<i>Nyín-dǐi nám</i>"
+    },
+    {
+     "audio": [
+      "ຕະຫຼອດໄປ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pour toujours",
+      "cadeau",
+      "mariage (fête)",
+      "marié"
+     ],
+     "answer": "pour toujours",
+     "reveal": "<i>Tá-lȍɔt pǎy</i>"
+    },
+    {
+     "audio": [
+      "ຂອງຂວັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "cadeau",
+      "marié",
+      "mariage (fête)",
+      "félicitations"
+     ],
+     "answer": "cadeau",
+     "reveal": "<i>Khɔ̌ɔng-khwǎn</i>"
+    },
+    {
+     "audio": [
+      "ສິນສອດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "dot",
+      "félicitations",
+      "mariage (fête)",
+      "marié"
+     ],
+     "answer": "dot",
+     "reveal": "<i>Sǐn-sɔ̏ɔt</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ງານແຕ່ງງານ",
+   "rom": "Ngáan tɛ̀ɛng-ngáan",
+   "fr": "mariage (fête)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຈົ້າບ່າວ",
+   "rom": "Jâo-bàaw",
+   "fr": "marié",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຈົ້າສາວ",
+   "rom": "Jâo-sǎaw",
+   "fr": "mariée",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍິນດີນຳ",
+   "rom": "Nyín-dǐi nám",
+   "fr": "félicitations",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕະຫຼອດໄປ",
+   "rom": "Tá-lȍɔt pǎy",
+   "fr": "pour toujours",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂອງຂວັນ",
+   "rom": "Khɔ̌ɔng-khwǎn",
+   "fr": "cadeau",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສິນສອດ",
+   "rom": "Sǐn-sɔ̏ɔt",
+   "fr": "dot",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍິນດີນຳເຈົ້າບ່າວເຈົ້າສາວ!",
+   "rom": "Nyín-dǐi nám jâo-bàaw jâo-sǎaw!",
+   "fr": "Félicitations aux mariés !",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕະຫຼອດໄປ",
+   "rom": "Tá-lȍɔt pǎy.",
+   "fr": "Pour toujours.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຍິນດີ",
+    "ນຳ",
+    "ເຈົ້າບ່າວ",
+    "ເຈົ້າສາວ"
+   ],
+   "rom": "Nyín-dǐi nám jâo-bàaw jâo-sǎaw!",
+   "fr": "Félicitations aux mariés !"
+  },
+  {
+   "tokens": [
+    "ຕະຫຼອດ",
+    "ໄປ"
+   ],
+   "rom": "Tá-lȍɔt pǎy.",
+   "fr": "Pour toujours."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ງານແຕ່ງງານ",
+   "rom": "Ngáan tɛ̀ɛng-ngáan",
+   "fr": "mariage (fête)"
+  },
+  {
+   "lao": "ເຈົ້າບ່າວ",
+   "rom": "Jâo-bàaw",
+   "fr": "marié"
+  },
+  {
+   "lao": "ເຈົ້າສາວ",
+   "rom": "Jâo-sǎaw",
+   "fr": "mariée"
+  },
+  {
+   "lao": "ຍິນດີນຳ",
+   "rom": "Nyín-dǐi nám",
+   "fr": "félicitations"
+  },
+  {
+   "lao": "ຕະຫຼອດໄປ",
+   "rom": "Tá-lȍɔt pǎy",
+   "fr": "pour toujours"
+  },
+  {
+   "lao": "ຂອງຂວັນ",
+   "rom": "Khɔ̌ɔng-khwǎn",
+   "fr": "cadeau"
+  },
+  {
+   "lao": "ສິນສອດ",
+   "rom": "Sǐn-sɔ̏ɔt",
+   "fr": "dot"
+  }
+ ],
+ "sounds": {
+  "ເດີນທາງ": "Dɤ̌ɤn-tháang",
+  "ຂ້າພະເຈົ້າ": "Khâa-phā-jâo",
+  "ເງື່ອນໄຂ": "Ngʉ̄an-khǎy",
+  "ໄຟຟ້າ": "Fáy-fȁa",
+  "ຍິນດີນຳເຈົ້າບ່າວເຈົ້າສາວ": "Nyín-dǐi nám jâo-bàaw jâo-sǎaw!",
+  "ຂອບໃຈຫຼາຍໆທີ່ມາຮ່ວມງານ": "Khɔ̏ɔp-jǎy lǎay-lǎay thīi máa hūam ngáan.",
+  "ຂໍໃຫ້ຮັກກັນຕະຫຼອດໄປ": "Khɔ̌ɔ hây hāk kǎn tá-lȍɔt pǎy.",
+  "ງານແຕ່ງງານ": "Ngáan tɛ̀ɛng-ngáan",
+  "ເຈົ້າບ່າວ": "jâo-bàaw",
+  "ເຈົ້າສາວ": "jâo-sǎaw",
+  "ຍິນດີນຳ": "Nyín-dǐi nám…",
+  "ຕະຫຼອດໄປ": "Tá-lȍɔt pǎy.",
+  "ຂອງຂວັນ": "Khɔ̌ɔng-khwǎn",
+  "ສິນສອດ": "Sǐn-sɔ̏ɔt",
+  "ຂໍໃຫ້ ຕະຫຼອດໄປ": "Khɔ̌ɔ hây… tá-lȍɔt pǎy",
+  "ຍິນດີ": "nyín-dǐi",
+  "ນຳ": "nám",
+  "ຕະຫຼອດ": "tá-lȍɔt",
+  "ໄປ": "pǎy"
+ },
+ "suivi": "LEÇON : 119 — Partie G (Maîtriser, C1) · Mariages\nOBJECTIF : Comprendre et participer à un mariage lao.\nNOTION : féliciter\nVOCAB : Ngáan tɛ̀ɛng-ngáan, Jâo-bàaw, Jâo-sǎaw, Nyín-dǐi nám, Tá-lȍɔt pǎy, Khɔ̌ɔng-khwǎn, Sǐn-sɔ̏ɔt\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 120 — Funérailles"
+}

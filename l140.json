@@ -1,0 +1,180 @@
+{
+ "num": 140,
+ "phase": "Partie G · Maîtriser",
+ "title": "Bilan C1",
+ "objective": "Faire le bilan final sur les 4 compétences.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>publier, diffuser <small class=\"muted\">(leçon 139)</small></li><li>en partie d&#x27;accord <small class=\"muted\">(leçon 137)</small></li><li>science <small class=\"muted\">(leçon 133)</small></li><li>roman <small class=\"muted\">(leçon 126)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ເຜີຍແຜ່</span> <span class=\"rom\">Phɤ̌ɤy-phɛ̀ɛ</span> · publier, diffuser</li><li><span class=\"lo\">ເຫັນດີສ່ວນໜຶ່ງ</span> <span class=\"rom\">Hěn-dǐi sùan nʉ̀ng</span> · en partie d&#x27;accord</li><li><span class=\"lo\">ວິທະຍາສາດ</span> <span class=\"rom\">Wī-thā-nyáa-sȁat</span> · science</li><li><span class=\"lo\">ນະວະນິຍາຍ</span> <span class=\"rom\">Nā-wā-nī-nyáay</span> · roman</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Faire le bilan final sur les 4 compétences.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Dernier jour de cours.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ອາຈານ</span><div><span class=\"lo\">ເຈົ້າຮຽນມາຮອດບົດສຸດທ້າຍແລ້ວ</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂອບໃຈອາຈານຫຼາຍໆ ຂ້ອຍຈະຮຽນຕໍ່ໄປ</span></div></div><div class=\"line\"><span class=\"who\">ອາຈານ</span><div><span class=\"lo\">ພາສາບໍ່ມີວັນຈົບ</span></div></div></div><details><summary>Romanisation (mots nouveaux)</summary><p><span class=\"rom\">Jâo hían máa hɔ̂ɔt bót sūt-thȁay lɛ̏ɛw.</span><br><span class=\"rom\">Khɔ̏ɔp-jǎy ǎa-jǎan lǎay-lǎay. Khɔ̂ɔy já hían tɔ̀ɔ pǎy.</span><br><span class=\"rom\">Pháa-sǎa bɔ̀ɔ míi wán jóp.</span></p></details><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Le professeur</b> — Tu es arrivée à la dernière leçon.<br><b>Clara</b> — Merci beaucoup, professeur. Je vais continuer à apprendre.<br><b>Le professeur</b> — Une langue ne finit jamais.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que dit le professeur à la fin ?</li></ol><details><summary>Réponses</summary><ol><li>Une langue ne finit jamais.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ບົດສຸດທ້າຍ</td><td class=\"rom\">Bót sūt-thȁay</td><td>dernière leçon</td><td></td></tr><tr><td class=\"lo\">ຮຽນຕໍ່</td><td class=\"rom\">Hían tɔ̀ɔ</td><td>continuer à étudier</td><td></td></tr><tr><td class=\"lo\">ຄ່ອງແຄ້ວ</td><td class=\"rom\">Khɔ̄ɔng-khɛ̂ɛw</td><td>fluide, aisé</td><td>[À VÉRIFIER]</td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : bilan du parcours",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຂ້ອຍຮຽນມາ ປີແລ້ວ</span> <span class=\"rom\">Khɔ̂ɔy hían máa… pǐi lɛ̏ɛw</span> = j&#x27;étudie depuis… ans</li></ul><details><summary>La règle</summary><p>Bilan C1 : registres, expressions, improvisation, écrit formel et littéraire. Fais le test final et une longue conversation avec un natif.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> une conversation sans préparation.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Je vais continuer à apprendre.</li><li>Merci beaucoup, professeur.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້ອຍຈະຮຽນຕໍ່ໄປ</span> <span class=\"rom\">Khɔ̂ɔy já hían tɔ̀ɔ pǎy.</span></li><li><span class=\"lo\">ຂອບໃຈອາຈານຫຼາຍໆ</span> <span class=\"rom\">Khɔ̏ɔp-jǎy ǎa-jǎan lǎay-lǎay.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris une lettre de 500 mots à ton toi du début du parcours, en lao.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Fais le test final C1 et une conversation d&#x27;une heure avec un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>5 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l140-v01",
+   "front": "ບົດສຸດທ້າຍ",
+   "back": "Bót sūt-thȁay · dernière leçon"
+  },
+  {
+   "id": "l140-v02",
+   "front": "ຮຽນຕໍ່",
+   "back": "Hían tɔ̀ɔ · continuer à étudier"
+  },
+  {
+   "id": "l140-v03",
+   "front": "ຄ່ອງແຄ້ວ",
+   "back": "Khɔ̄ɔng-khɛ̂ɛw · fluide, aisé"
+  },
+  {
+   "id": "l140-p01",
+   "front": "Je vais continuer à apprendre.",
+   "back": "ຂ້ອຍຈະຮຽນຕໍ່ໄປ · Khɔ̂ɔy já hían tɔ̀ɔ pǎy."
+  },
+  {
+   "id": "l140-p02",
+   "front": "Merci beaucoup, professeur.",
+   "back": "ຂອບໃຈອາຈານຫຼາຍໆ · Khɔ̏ɔp-jǎy ǎa-jǎan lǎay-lǎay."
+  }
+ ],
+ "listening": [],
+ "speak": [
+  {
+   "lao": "ບົດສຸດທ້າຍ",
+   "rom": "Bót sūt-thȁay",
+   "fr": "dernière leçon",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຮຽນຕໍ່",
+   "rom": "Hían tɔ̀ɔ",
+   "fr": "continuer à étudier",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄ່ອງແຄ້ວ",
+   "rom": "Khɔ̄ɔng-khɛ̂ɛw",
+   "fr": "fluide, aisé",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຈະຮຽນຕໍ່ໄປ",
+   "rom": "Khɔ̂ɔy já hían tɔ̀ɔ pǎy.",
+   "fr": "Je vais continuer à apprendre.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂອບໃຈອາຈານຫຼາຍໆ",
+   "rom": "Khɔ̏ɔp-jǎy ǎa-jǎan lǎay-lǎay.",
+   "fr": "Merci beaucoup, professeur.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຈະ",
+    "ຮຽນ",
+    "ຕໍ່",
+    "ໄປ"
+   ],
+   "rom": "Khɔ̂ɔy já hían tɔ̀ɔ pǎy.",
+   "fr": "Je vais continuer à apprendre."
+  },
+  {
+   "tokens": [
+    "ຂອບໃຈ",
+    "ອາຈານ",
+    "ຫຼາຍໆ"
+   ],
+   "rom": "Khɔ̏ɔp-jǎy ǎa-jǎan lǎay-lǎay.",
+   "fr": "Merci beaucoup, professeur."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ບົດສຸດທ້າຍ",
+   "rom": "Bót sūt-thȁay",
+   "fr": "dernière leçon"
+  },
+  {
+   "lao": "ຮຽນຕໍ່",
+   "rom": "Hían tɔ̀ɔ",
+   "fr": "continuer à étudier"
+  },
+  {
+   "lao": "ຄ່ອງແຄ້ວ",
+   "rom": "Khɔ̄ɔng-khɛ̂ɛw",
+   "fr": "fluide, aisé"
+  }
+ ],
+ "sounds": {
+  "ເຜີຍແຜ່": "Phɤ̌ɤy-phɛ̀ɛ",
+  "ເຫັນດີສ່ວນໜຶ່ງ": "Hěn-dǐi sùan nʉ̀ng",
+  "ວິທະຍາສາດ": "Wī-thā-nyáa-sȁat",
+  "ນະວະນິຍາຍ": "Nā-wā-nī-nyáay",
+  "ເຈົ້າຮຽນມາຮອດບົດສຸດທ້າຍແລ້ວ": "Jâo hían máa hɔ̂ɔt bót sūt-thȁay lɛ̏ɛw.",
+  "ຂອບໃຈອາຈານຫຼາຍໆ ຂ້ອຍຈະຮຽນຕໍ່ໄປ": "Khɔ̏ɔp-jǎy ǎa-jǎan lǎay-lǎay. Khɔ̂ɔy já hían tɔ̀ɔ pǎy.",
+  "ພາສາບໍ່ມີວັນຈົບ": "Pháa-sǎa bɔ̀ɔ míi wán jóp.",
+  "ບົດສຸດທ້າຍ": "Bót sūt-thȁay",
+  "ຮຽນຕໍ່": "Hían tɔ̀ɔ",
+  "ຄ່ອງແຄ້ວ": "Khɔ̄ɔng-khɛ̂ɛw",
+  "ຂ້ອຍຮຽນມາ ປີແລ້ວ": "Khɔ̂ɔy hían máa… pǐi lɛ̏ɛw",
+  "ຂ້ອຍຈະຮຽນຕໍ່ໄປ": "Khɔ̂ɔy já hían tɔ̀ɔ pǎy.",
+  "ຂອບໃຈອາຈານຫຼາຍໆ": "Khɔ̏ɔp-jǎy ǎa-jǎan lǎay-lǎay.",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ຈະ": "já",
+  "ຮຽນ": "hían",
+  "ຕໍ່": "tɔ̀ɔ",
+  "ໄປ": "pǎy",
+  "ຂອບໃຈ": "khɔ̏ɔp-jǎy",
+  "ອາຈານ": "ǎa-jǎan",
+  "ຫຼາຍໆ": "lǎay-lǎay"
+ },
+ "suivi": "LEÇON : 140 — Partie G (Maîtriser, C1) · Bilan C1\nOBJECTIF : Faire le bilan final sur les 4 compétences.\nNOTION : bilan du parcours\nVOCAB : Bót sūt-thȁay, Hían tɔ̀ɔ, Khɔ̄ɔng-khɛ̂ɛw\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : fin du parcours"
+}
