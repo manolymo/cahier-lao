@@ -1,0 +1,788 @@
+{
+ "num": 2,
+ "phase": "Partie A · Fondations",
+ "title": "Voyelles courtes et longues · Se présenter",
+ "objective": "Dire comment tu t'appelles, demander le prénom de l'autre et dire que tu es enchantée.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>merci <small class=\"muted\">(leçon 1)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຂອບໃຈ</span> <span class=\"rom\">Khɔ̏ɔp-jǎy</span> · merci</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Dire comment tu t&#x27;appelles, demander le prénom de l&#x27;autre et dire que tu es enchantée.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Noy présente Clara à sa mère, Mme Boua.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ແມ່ ນີ້ແມ່ນໝູ່ຂອງຂ້ອຍ</span><span class=\"rom\">Mɛ̄ɛ, nȉi mɛ̄ɛn mùu khɔ̌ɔng khɔ̂ɔy.</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ສະບາຍດີລູກ ເຈົ້າຊື່ຫຍັງ?</span><span class=\"rom\">Sā-bǎay-dǐi lûuk. Jâo sʉ̄ʉ nyǎng?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສະບາຍດີເຈົ້າ ຂ້ອຍຊື່ຄລາຣາ</span><span class=\"rom\">Sā-bǎay-dǐi jâo. Khɔ̂ɔy sʉ̄ʉ Clara.</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ຍິນດີທີ່ໄດ້ຮູ້ຈັກ</span><span class=\"rom\">Nyín-dǐi thīi dâay hȕu-ják.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຍິນດີທີ່ໄດ້ຮູ້ຈັກຄືກັນ</span><span class=\"rom\">Nyín-dǐi thīi dâay hȕu-ják khʉ́ʉ-kǎn.</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ຄລາຣາມີຊື່ຫຼິ້ນບໍ?</span><span class=\"rom\">Clara míi sʉ̄ʉ-lîn bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ບໍ່ມີ ຊື່ຫຼິ້ນຂອງເຈົ້າແມ່ນຫຍັງ?</span><span class=\"rom\">Bɔ̀ɔ míi. Sʉ̄ʉ-lîn khɔ̌ɔng jâo mɛ̄ɛn nyǎng?</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ຊື່ຫຼິ້ນຂອງຂ້ອຍແມ່ນບົວ</span><span class=\"rom\">Sʉ̄ʉ-lîn khɔ̌ɔng khɔ̂ɔy mɛ̄ɛn būa.</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Maman, voici mon amie.<br><b>Mme Boua</b> — Bonjour ma fille. Comment tu t&#x27;appelles ?<br><b>Clara</b> — Bonjour madame. Je m&#x27;appelle Clara.<br><b>Mme Boua</b> — Enchantée.<br><b>Clara</b> — Enchantée aussi.<br><b>Mme Boua</b> — Clara, tu as un surnom ?<br><b>Clara</b> — Non. Et quel est ton surnom à toi ?<br><b>Mme Boua</b> — Mon surnom, c&#x27;est Boua.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Comment Noy présente-t-elle Clara ?</li><li>Quelle question pose Mme Boua en premier ?</li><li>Qu&#x27;est-ce qu&#x27;un ຊື່ຫຼິ້ນ ?</li></ol><details><summary>Réponses</summary><ol><li>ນີ້ແມ່ນໝູ່ຂອງຂ້ອຍ — voici mon amie.</li><li>ເຈົ້າຊື່ຫຍັງ ? — comment tu t&#x27;appelles ?</li><li>Un surnom : presque tous les Lao en ont un, utilisé au quotidien.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຂ້ອຍ</td><td class=\"rom\">Khɔ̂ɔy</td><td>je, moi</td><td>neutre, le plus courant</td></tr><tr><td class=\"lo\">ເຈົ້າ</td><td class=\"rom\">Jâo</td><td>tu, vous</td><td>poli</td></tr><tr><td class=\"lo\">ຊື່</td><td class=\"rom\">Sʉ̄ʉ</td><td>s&#x27;appeler ; nom</td><td></td></tr><tr><td class=\"lo\">ຫຍັງ</td><td class=\"rom\">Nyǎng</td><td>quoi ?</td><td>se place là où serait la réponse</td></tr><tr><td class=\"lo\">ເຈົ້າຊື່ຫຍັງ?</td><td class=\"rom\">Jâo sʉ̄ʉ nyǎng?</td><td>comment tu t&#x27;appelles ?</td><td></td></tr><tr><td class=\"lo\">ຂ້ອຍຊື່</td><td class=\"rom\">Khɔ̂ɔy sʉ̄ʉ</td><td>je m&#x27;appelle…</td><td></td></tr><tr><td class=\"lo\">ຍິນດີທີ່ໄດ້ຮູ້ຈັກ</td><td class=\"rom\">Nyín-dǐi thīi dâay hȕu-ják</td><td>enchanté(e)</td><td>litt. « content d&#x27;avoir fait connaissance »</td></tr><tr><td class=\"lo\">ນີ້</td><td class=\"rom\">Nȉi</td><td>ceci, voici</td><td></td></tr><tr><td class=\"lo\">ແມ່ນ</td><td class=\"rom\">Mɛ̄ɛn</td><td>être (c&#x27;est)</td><td>relie deux noms</td></tr><tr><td class=\"lo\">ໝູ່</td><td class=\"rom\">Mùu</td><td>ami(e)</td><td>familier ; ເພື່ອນ est plus neutre</td></tr><tr><td class=\"lo\">ຂອງ</td><td class=\"rom\">Khɔ̌ɔng</td><td>de (possession)</td><td>ໝູ່ຂອງຂ້ອຍ = mon ami</td></tr><tr><td class=\"lo\">ຊື່ຫຼິ້ນ</td><td class=\"rom\">Sʉ̄ʉ-lîn</td><td>surnom</td><td>litt. « nom pour jouer »</td></tr></table></div><p class=\"note\">Au Laos, on s'appelle presque toujours par le surnom (ຊື່ຫຼິ້ນ), précédé d'un terme d'âge : ເອື້ອຍນ້ອຍ « grande sœur Noy », ນ້ອງແກ້ວ « petit Kèo ».</p>"
+  },
+  {
+   "title": "Point de langue : la question reste dans l'ordre de la réponse",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ເຈົ້າຊື່ຫຍັງ?</span> <span class=\"rom\">Jâo sʉ̄ʉ nyǎng?</span> = tu t&#x27;appelles comment ?</li><li><span class=\"lo\">ຂ້ອຍຊື່ຄລາຣາ</span> <span class=\"rom\">Khɔ̂ɔy sʉ̄ʉ Clara</span> = je m&#x27;appelle Clara</li><li><span class=\"lo\">ນີ້ແມ່ນຫຍັງ?</span> <span class=\"rom\">Nȉi mɛ̄ɛn nyǎng?</span> = c&#x27;est quoi, ça ?</li><li><span class=\"lo\">ນີ້ແມ່ນໝູ່ຂອງຂ້ອຍ</span> <span class=\"rom\">Nȉi mɛ̄ɛn mùu khɔ̌ɔng khɔ̂ɔy</span> = c&#x27;est mon ami</li></ul><p><b>À toi de trouver :</b></p><ol><li>Compare la question et la réponse : où se trouve ຫຍັງ ?</li><li>Le verbe change-t-il de forme selon la personne ?</li></ol><details><summary>La règle</summary><p>En lao, le mot interrogatif (ຫຍັງ « quoi », ໃຜ « qui », ໃສ « où ») prend la place de l'information demandée : on ne déplace rien. Et les verbes ne se conjuguent jamais : ຂ້ອຍຊື່, ເຈົ້າຊື່, ລາວຊື່.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> la différence entre voyelles courtes et longues : ຊື່ (sʉ̄ʉ, long) contre ຫຼິ້ນ (lîn, court).</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Comment tu t&#x27;appelles ?</li><li>Je m&#x27;appelle Clara.</li><li>Enchantée.</li><li>Voici mon amie.</li><li>C&#x27;est quoi, ça ?</li><li>Quel est ton surnom ?</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເຈົ້າຊື່ຫຍັງ?</span> <span class=\"rom\">Jâo sʉ̄ʉ nyǎng?</span></li><li><span class=\"lo\">ຂ້ອຍຊື່ຄລາຣາ</span> <span class=\"rom\">Khɔ̂ɔy sʉ̄ʉ Clara.</span></li><li><span class=\"lo\">ຍິນດີທີ່ໄດ້ຮູ້ຈັກ</span> <span class=\"rom\">Nyín-dǐi thīi dâay hȕu-ják.</span></li><li><span class=\"lo\">ນີ້ແມ່ນໝູ່ຂອງຂ້ອຍ</span> <span class=\"rom\">Nȉi mɛ̄ɛn mùu khɔ̌ɔng khɔ̂ɔy.</span></li><li><span class=\"lo\">ນີ້ແມ່ນຫຍັງ?</span> <span class=\"rom\">Nȉi mɛ̄ɛn nyǎng?</span></li><li><span class=\"lo\">ຊື່ຫຼິ້ນຂອງເຈົ້າແມ່ນຫຍັງ?</span> <span class=\"rom\">Sʉ̄ʉ-lîn khɔ̌ɔng jâo mɛ̄ɛn nyǎng?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p><p><b>C. Jeu de rôle.</b> Réponds à voix haute, puis écris ta réponse à Claude :</p><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ສະບາຍດີລູກ ເຈົ້າຊື່ຫຍັງ?</span><span class=\"rom\">Sā-bǎay-dǐi lûuk. Jâo sʉ̄ʉ nyǎng?</span></div></div><p class=\"muted\">(Bonjour. Comment tu t&#x27;appelles ?)</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris ta présentation en 3 phrases (prénom, surnom si tu en as un, « enchantée »).</li><li>Transforme : ຂ້ອຍຊື່ຄລາຣາ → pose la question correspondante.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Présente-toi à un locuteur lao et demande-lui son prénom et son surnom.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>18 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l02-v01",
+   "front": "ຂ້ອຍ",
+   "back": "Khɔ̂ɔy · je, moi"
+  },
+  {
+   "id": "l02-v02",
+   "front": "ເຈົ້າ",
+   "back": "Jâo · tu, vous"
+  },
+  {
+   "id": "l02-v03",
+   "front": "ຊື່",
+   "back": "Sʉ̄ʉ · s'appeler ; nom"
+  },
+  {
+   "id": "l02-v04",
+   "front": "ຫຍັງ",
+   "back": "Nyǎng · quoi ?"
+  },
+  {
+   "id": "l02-v05",
+   "front": "ເຈົ້າຊື່ຫຍັງ?",
+   "back": "Jâo sʉ̄ʉ nyǎng? · comment tu t'appelles ?"
+  },
+  {
+   "id": "l02-v06",
+   "front": "ຂ້ອຍຊື່",
+   "back": "Khɔ̂ɔy sʉ̄ʉ · je m'appelle…"
+  },
+  {
+   "id": "l02-v07",
+   "front": "ຍິນດີທີ່ໄດ້ຮູ້ຈັກ",
+   "back": "Nyín-dǐi thīi dâay hȕu-ják · enchanté(e)"
+  },
+  {
+   "id": "l02-v08",
+   "front": "ນີ້",
+   "back": "Nȉi · ceci, voici"
+  },
+  {
+   "id": "l02-v09",
+   "front": "ແມ່ນ",
+   "back": "Mɛ̄ɛn · être (c'est)"
+  },
+  {
+   "id": "l02-v10",
+   "front": "ໝູ່",
+   "back": "Mùu · ami(e)"
+  },
+  {
+   "id": "l02-v11",
+   "front": "ຂອງ",
+   "back": "Khɔ̌ɔng · de (possession)"
+  },
+  {
+   "id": "l02-v12",
+   "front": "ຊື່ຫຼິ້ນ",
+   "back": "Sʉ̄ʉ-lîn · surnom"
+  },
+  {
+   "id": "l02-p01",
+   "front": "Comment tu t'appelles ?",
+   "back": "ເຈົ້າຊື່ຫຍັງ? · Jâo sʉ̄ʉ nyǎng?"
+  },
+  {
+   "id": "l02-p02",
+   "front": "Je m'appelle Clara.",
+   "back": "ຂ້ອຍຊື່ຄລາຣາ · Khɔ̂ɔy sʉ̄ʉ Clara."
+  },
+  {
+   "id": "l02-p03",
+   "front": "Enchantée.",
+   "back": "ຍິນດີທີ່ໄດ້ຮູ້ຈັກ · Nyín-dǐi thīi dâay hȕu-ják."
+  },
+  {
+   "id": "l02-p04",
+   "front": "Voici mon amie.",
+   "back": "ນີ້ແມ່ນໝູ່ຂອງຂ້ອຍ · Nȉi mɛ̄ɛn mùu khɔ̌ɔng khɔ̂ɔy."
+  },
+  {
+   "id": "l02-p05",
+   "front": "C'est quoi, ça ?",
+   "back": "ນີ້ແມ່ນຫຍັງ? · Nȉi mɛ̄ɛn nyǎng?"
+  },
+  {
+   "id": "l02-p06",
+   "front": "Quel est ton surnom ?",
+   "back": "ຊື່ຫຼິ້ນຂອງເຈົ້າແມ່ນຫຍັງ? · Sʉ̄ʉ-lîn khɔ̌ɔng jâo mɛ̄ɛn nyǎng?"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້ອຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "je, moi",
+      "être (c'est)",
+      "enchanté(e)",
+      "ceci, voici"
+     ],
+     "answer": "je, moi",
+     "reveal": "<i>Khɔ̂ɔy</i>"
+    },
+    {
+     "audio": [
+      "ເຈົ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "tu, vous",
+      "comment tu t'appelles ?",
+      "être (c'est)",
+      "je m'appelle…"
+     ],
+     "answer": "tu, vous",
+     "reveal": "<i>Jâo</i>"
+    },
+    {
+     "audio": [
+      "ຊື່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "s'appeler ; nom",
+      "ceci, voici",
+      "enchanté(e)",
+      "je m'appelle…"
+     ],
+     "answer": "s'appeler ; nom",
+     "reveal": "<i>Sʉ̄ʉ</i>"
+    },
+    {
+     "audio": [
+      "ຫຍັງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "quoi ?",
+      "je, moi",
+      "s'appeler ; nom",
+      "je m'appelle…"
+     ],
+     "answer": "quoi ?",
+     "reveal": "<i>Nyǎng</i>"
+    },
+    {
+     "audio": [
+      "ເຈົ້າຊື່ຫຍັງ?"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "comment tu t'appelles ?",
+      "surnom",
+      "enchanté(e)",
+      "quoi ?"
+     ],
+     "answer": "comment tu t'appelles ?",
+     "reveal": "<i>Jâo sʉ̄ʉ nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຊື່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "je m'appelle…",
+      "enchanté(e)",
+      "tu, vous",
+      "ceci, voici"
+     ],
+     "answer": "je m'appelle…",
+     "reveal": "<i>Khɔ̂ɔy sʉ̄ʉ</i>"
+    },
+    {
+     "audio": [
+      "ຍິນດີທີ່ໄດ້ຮູ້ຈັກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "enchanté(e)",
+      "je m'appelle…",
+      "ceci, voici",
+      "être (c'est)"
+     ],
+     "answer": "enchanté(e)",
+     "reveal": "<i>Nyín-dǐi thīi dâay hȕu-ják</i>"
+    },
+    {
+     "audio": [
+      "ນີ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ceci, voici",
+      "enchanté(e)",
+      "je m'appelle…",
+      "comment tu t'appelles ?"
+     ],
+     "answer": "ceci, voici",
+     "reveal": "<i>Nȉi</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "être (c'est)",
+      "tu, vous",
+      "ami(e)",
+      "surnom"
+     ],
+     "answer": "être (c'est)",
+     "reveal": "<i>Mɛ̄ɛn</i>"
+    },
+    {
+     "audio": [
+      "ໝູ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ami(e)",
+      "comment tu t'appelles ?",
+      "je, moi",
+      "surnom"
+     ],
+     "answer": "ami(e)",
+     "reveal": "<i>Mùu</i>"
+    },
+    {
+     "audio": [
+      "ຂອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "de (possession)",
+      "je m'appelle…",
+      "je, moi",
+      "surnom"
+     ],
+     "answer": "de (possession)",
+     "reveal": "<i>Khɔ̌ɔng</i>"
+    },
+    {
+     "audio": [
+      "ຊື່ຫຼິ້ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "surnom",
+      "être (c'est)",
+      "je, moi",
+      "je m'appelle…"
+     ],
+     "answer": "surnom",
+     "reveal": "<i>Sʉ̄ʉ-lîn</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ແມ່ ນີ້ແມ່ນໝູ່ຂອງຂ້ອຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Maman, voici mon amie.",
+      "Clara, tu as un surnom ?",
+      "Enchantée aussi.",
+      "Enchantée."
+     ],
+     "answer": "Maman, voici mon amie.",
+     "reveal": "<i>Mɛ̄ɛ, nȉi mɛ̄ɛn mùu khɔ̌ɔng khɔ̂ɔy.</i>"
+    },
+    {
+     "audio": [
+      "ສະບາຍດີລູກ ເຈົ້າຊື່ຫຍັງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Bonjour ma fille. Comment tu t'appelles ?",
+      "Maman, voici mon amie.",
+      "Non. Et quel est ton surnom à toi ?",
+      "Bonjour madame. Je m'appelle Clara."
+     ],
+     "answer": "Bonjour ma fille. Comment tu t'appelles ?",
+     "reveal": "<i>Sā-bǎay-dǐi lûuk. Jâo sʉ̄ʉ nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ສະບາຍດີເຈົ້າ ຂ້ອຍຊື່ຄລາຣາ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Bonjour madame. Je m'appelle Clara.",
+      "Mon surnom, c'est Boua.",
+      "Non. Et quel est ton surnom à toi ?",
+      "Enchantée."
+     ],
+     "answer": "Bonjour madame. Je m'appelle Clara.",
+     "reveal": "<i>Sā-bǎay-dǐi jâo. Khɔ̂ɔy sʉ̄ʉ Clara.</i>"
+    },
+    {
+     "audio": [
+      "ຍິນດີທີ່ໄດ້ຮູ້ຈັກ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Enchantée.",
+      "Clara, tu as un surnom ?",
+      "Non. Et quel est ton surnom à toi ?",
+      "Maman, voici mon amie."
+     ],
+     "answer": "Enchantée.",
+     "reveal": "<i>Nyín-dǐi thīi dâay hȕu-ják.</i>"
+    },
+    {
+     "audio": [
+      "ຍິນດີທີ່ໄດ້ຮູ້ຈັກຄືກັນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Enchantée aussi.",
+      "Mon surnom, c'est Boua.",
+      "Bonjour madame. Je m'appelle Clara.",
+      "Enchantée."
+     ],
+     "answer": "Enchantée aussi.",
+     "reveal": "<i>Nyín-dǐi thīi dâay hȕu-ják khʉ́ʉ-kǎn.</i>"
+    },
+    {
+     "audio": [
+      "ຄລາຣາມີຊື່ຫຼິ້ນບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Clara, tu as un surnom ?",
+      "Maman, voici mon amie.",
+      "Enchantée.",
+      "Enchantée aussi."
+     ],
+     "answer": "Clara, tu as un surnom ?",
+     "reveal": "<i>Clara míi sʉ̄ʉ-lîn bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ມີ ຊື່ຫຼິ້ນຂອງເຈົ້າແມ່ນຫຍັງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Non. Et quel est ton surnom à toi ?",
+      "Mon surnom, c'est Boua.",
+      "Enchantée.",
+      "Enchantée aussi."
+     ],
+     "answer": "Non. Et quel est ton surnom à toi ?",
+     "reveal": "<i>Bɔ̀ɔ míi. Sʉ̄ʉ-lîn khɔ̌ɔng jâo mɛ̄ɛn nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ຊື່ຫຼິ້ນຂອງຂ້ອຍແມ່ນບົວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Mon surnom, c'est Boua.",
+      "Bonjour ma fille. Comment tu t'appelles ?",
+      "Bonjour madame. Je m'appelle Clara.",
+      "Enchantée."
+     ],
+     "answer": "Mon surnom, c'est Boua.",
+     "reveal": "<i>Sʉ̄ʉ-lîn khɔ̌ɔng khɔ̂ɔy mɛ̄ɛn būa.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເຈົ້າຊື່ຫຍັງ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Comment tu t'appelles ?",
+      "C'est quoi, ça ?",
+      "Quel est ton surnom ?",
+      "Voici mon amie."
+     ],
+     "answer": "Comment tu t'appelles ?",
+     "reveal": "<i>Jâo sʉ̄ʉ nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຊື່ຄລາຣາ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je m'appelle Clara.",
+      "Comment tu t'appelles ?",
+      "Quel est ton surnom ?",
+      "Enchantée."
+     ],
+     "answer": "Je m'appelle Clara.",
+     "reveal": "<i>Khɔ̂ɔy sʉ̄ʉ Clara.</i>"
+    },
+    {
+     "audio": [
+      "ຍິນດີທີ່ໄດ້ຮູ້ຈັກ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Enchantée.",
+      "Quel est ton surnom ?",
+      "Je m'appelle Clara.",
+      "C'est quoi, ça ?"
+     ],
+     "answer": "Enchantée.",
+     "reveal": "<i>Nyín-dǐi thīi dâay hȕu-ják.</i>"
+    },
+    {
+     "audio": [
+      "ນີ້ແມ່ນໝູ່ຂອງຂ້ອຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Voici mon amie.",
+      "Comment tu t'appelles ?",
+      "Enchantée.",
+      "Quel est ton surnom ?"
+     ],
+     "answer": "Voici mon amie.",
+     "reveal": "<i>Nȉi mɛ̄ɛn mùu khɔ̌ɔng khɔ̂ɔy.</i>"
+    },
+    {
+     "audio": [
+      "ນີ້ແມ່ນຫຍັງ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est quoi, ça ?",
+      "Quel est ton surnom ?",
+      "Je m'appelle Clara.",
+      "Voici mon amie."
+     ],
+     "answer": "C'est quoi, ça ?",
+     "reveal": "<i>Nȉi mɛ̄ɛn nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ຊື່ຫຼິ້ນຂອງເຈົ້າແມ່ນຫຍັງ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Quel est ton surnom ?",
+      "Voici mon amie.",
+      "Je m'appelle Clara.",
+      "Enchantée."
+     ],
+     "answer": "Quel est ton surnom ?",
+     "reveal": "<i>Sʉ̄ʉ-lîn khɔ̌ɔng jâo mɛ̄ɛn nyǎng?</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຂ້ອຍ",
+   "rom": "Khɔ̂ɔy",
+   "fr": "je, moi",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຈົ້າ",
+   "rom": "Jâo",
+   "fr": "tu, vous",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊື່",
+   "rom": "Sʉ̄ʉ",
+   "fr": "s'appeler ; nom",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫຍັງ",
+   "rom": "Nyǎng",
+   "fr": "quoi ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຈົ້າຊື່ຫຍັງ?",
+   "rom": "Jâo sʉ̄ʉ nyǎng?",
+   "fr": "comment tu t'appelles ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຊື່",
+   "rom": "Khɔ̂ɔy sʉ̄ʉ",
+   "fr": "je m'appelle…",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍິນດີທີ່ໄດ້ຮູ້ຈັກ",
+   "rom": "Nyín-dǐi thīi dâay hȕu-ják",
+   "fr": "enchanté(e)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນີ້",
+   "rom": "Nȉi",
+   "fr": "ceci, voici",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແມ່ນ",
+   "rom": "Mɛ̄ɛn",
+   "fr": "être (c'est)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໝູ່",
+   "rom": "Mùu",
+   "fr": "ami(e)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂອງ",
+   "rom": "Khɔ̌ɔng",
+   "fr": "de (possession)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊື່ຫຼິ້ນ",
+   "rom": "Sʉ̄ʉ-lîn",
+   "fr": "surnom",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຈົ້າຊື່ຫຍັງ?",
+   "rom": "Jâo sʉ̄ʉ nyǎng?",
+   "fr": "Comment tu t'appelles ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຊື່ຄລາຣາ",
+   "rom": "Khɔ̂ɔy sʉ̄ʉ Clara.",
+   "fr": "Je m'appelle Clara.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍິນດີທີ່ໄດ້ຮູ້ຈັກ",
+   "rom": "Nyín-dǐi thīi dâay hȕu-ják.",
+   "fr": "Enchantée.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນີ້ແມ່ນໝູ່ຂອງຂ້ອຍ",
+   "rom": "Nȉi mɛ̄ɛn mùu khɔ̌ɔng khɔ̂ɔy.",
+   "fr": "Voici mon amie.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນີ້ແມ່ນຫຍັງ?",
+   "rom": "Nȉi mɛ̄ɛn nyǎng?",
+   "fr": "C'est quoi, ça ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊື່ຫຼິ້ນຂອງເຈົ້າແມ່ນຫຍັງ?",
+   "rom": "Sʉ̄ʉ-lîn khɔ̌ɔng jâo mɛ̄ɛn nyǎng?",
+   "fr": "Quel est ton surnom ?",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ເຈົ້າ",
+    "ຊື່",
+    "ຫຍັງ"
+   ],
+   "rom": "Jâo sʉ̄ʉ nyǎng?",
+   "fr": "Comment tu t'appelles ?"
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຊື່",
+    "ຄລາຣາ"
+   ],
+   "rom": "Khɔ̂ɔy sʉ̄ʉ Clara.",
+   "fr": "Je m'appelle Clara."
+  },
+  {
+   "tokens": [
+    "ນີ້",
+    "ແມ່ນ",
+    "ໝູ່",
+    "ຂອງ",
+    "ຂ້ອຍ"
+   ],
+   "rom": "Nȉi mɛ̄ɛn mùu khɔ̌ɔng khɔ̂ɔy.",
+   "fr": "Voici mon amie."
+  },
+  {
+   "tokens": [
+    "ນີ້",
+    "ແມ່ນ",
+    "ຫຍັງ"
+   ],
+   "rom": "Nȉi mɛ̄ɛn nyǎng?",
+   "fr": "C'est quoi, ça ?"
+  },
+  {
+   "tokens": [
+    "ຊື່ຫຼິ້ນ",
+    "ຂອງ",
+    "ເຈົ້າ",
+    "ແມ່ນ",
+    "ຫຍັງ"
+   ],
+   "rom": "Sʉ̄ʉ-lîn khɔ̌ɔng jâo mɛ̄ɛn nyǎng?",
+   "fr": "Quel est ton surnom ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຂ້ອຍ",
+   "rom": "Khɔ̂ɔy",
+   "fr": "je, moi"
+  },
+  {
+   "lao": "ເຈົ້າ",
+   "rom": "Jâo",
+   "fr": "tu, vous"
+  },
+  {
+   "lao": "ຊື່",
+   "rom": "Sʉ̄ʉ",
+   "fr": "s'appeler ; nom"
+  },
+  {
+   "lao": "ຫຍັງ",
+   "rom": "Nyǎng",
+   "fr": "quoi ?"
+  },
+  {
+   "lao": "ເຈົ້າຊື່ຫຍັງ?",
+   "rom": "Jâo sʉ̄ʉ nyǎng?",
+   "fr": "comment tu t'appelles ?"
+  },
+  {
+   "lao": "ຂ້ອຍຊື່",
+   "rom": "Khɔ̂ɔy sʉ̄ʉ",
+   "fr": "je m'appelle…"
+  },
+  {
+   "lao": "ຍິນດີທີ່ໄດ້ຮູ້ຈັກ",
+   "rom": "Nyín-dǐi thīi dâay hȕu-ják",
+   "fr": "enchanté(e)"
+  },
+  {
+   "lao": "ນີ້",
+   "rom": "Nȉi",
+   "fr": "ceci, voici"
+  },
+  {
+   "lao": "ແມ່ນ",
+   "rom": "Mɛ̄ɛn",
+   "fr": "être (c'est)"
+  },
+  {
+   "lao": "ໝູ່",
+   "rom": "Mùu",
+   "fr": "ami(e)"
+  },
+  {
+   "lao": "ຂອງ",
+   "rom": "Khɔ̌ɔng",
+   "fr": "de (possession)"
+  },
+  {
+   "lao": "ຊື່ຫຼິ້ນ",
+   "rom": "Sʉ̄ʉ-lîn",
+   "fr": "surnom"
+  }
+ ],
+ "sounds": {
+  "ຂອບໃຈ": "Khɔ̏ɔp-jǎy",
+  "ແມ່ ນີ້ແມ່ນໝູ່ຂອງຂ້ອຍ": "Mɛ̄ɛ, nȉi mɛ̄ɛn mùu khɔ̌ɔng khɔ̂ɔy.",
+  "ສະບາຍດີລູກ ເຈົ້າຊື່ຫຍັງ": "Sā-bǎay-dǐi lûuk. Jâo sʉ̄ʉ nyǎng?",
+  "ສະບາຍດີເຈົ້າ ຂ້ອຍຊື່ຄລາຣາ": "Sā-bǎay-dǐi jâo. Khɔ̂ɔy sʉ̄ʉ Clara.",
+  "ຍິນດີທີ່ໄດ້ຮູ້ຈັກ": "Nyín-dǐi thīi dâay hȕu-ják.",
+  "ຍິນດີທີ່ໄດ້ຮູ້ຈັກຄືກັນ": "Nyín-dǐi thīi dâay hȕu-ják khʉ́ʉ-kǎn.",
+  "ຄລາຣາມີຊື່ຫຼິ້ນບໍ": "Clara míi sʉ̄ʉ-lîn bɔ̌ɔ?",
+  "ບໍ່ມີ ຊື່ຫຼິ້ນຂອງເຈົ້າແມ່ນຫຍັງ": "Bɔ̀ɔ míi. Sʉ̄ʉ-lîn khɔ̌ɔng jâo mɛ̄ɛn nyǎng?",
+  "ຊື່ຫຼິ້ນຂອງຂ້ອຍແມ່ນບົວ": "Sʉ̄ʉ-lîn khɔ̌ɔng khɔ̂ɔy mɛ̄ɛn būa.",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ເຈົ້າ": "jâo",
+  "ຊື່": "sʉ̄ʉ",
+  "ຫຍັງ": "nyǎng",
+  "ເຈົ້າຊື່ຫຍັງ": "Jâo sʉ̄ʉ nyǎng?",
+  "ຂ້ອຍຊື່": "Khɔ̂ɔy sʉ̄ʉ",
+  "ນີ້": "nȉi",
+  "ແມ່ນ": "mɛ̄ɛn",
+  "ໝູ່": "mùu",
+  "ຂອງ": "khɔ̌ɔng",
+  "ຊື່ຫຼິ້ນ": "sʉ̄ʉ-lîn",
+  "ຂ້ອຍຊື່ຄລາຣາ": "Khɔ̂ɔy sʉ̄ʉ Clara.",
+  "ນີ້ແມ່ນຫຍັງ": "Nȉi mɛ̄ɛn nyǎng?",
+  "ນີ້ແມ່ນໝູ່ຂອງຂ້ອຍ": "Nȉi mɛ̄ɛn mùu khɔ̌ɔng khɔ̂ɔy.",
+  "ຊື່ຫຼິ້ນຂອງເຈົ້າແມ່ນຫຍັງ": "Sʉ̄ʉ-lîn khɔ̌ɔng jâo mɛ̄ɛn nyǎng?",
+  "ຄລາຣາ": "Clara"
+ },
+ "suivi": "LEÇON : 2 — Partie A (Fondations, A0) · Voyelles courtes et longues · Se présenter\nOBJECTIF : Dire comment tu t'appelles, demander le prénom de l'autre et dire que tu es enchantée.\nNOTION : la question reste dans l'ordre de la réponse\nVOCAB : Khɔ̂ɔy, Jâo, Sʉ̄ʉ, Nyǎng, Jâo sʉ̄ʉ nyǎng?, Khɔ̂ɔy sʉ̄ʉ, Nyín-dǐi thīi dâay hȕu-ják, Nȉi, Mɛ̄ɛn, Mùu, Khɔ̌ɔng, Sʉ̄ʉ-lîn\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 3 — Consonnes aspirées · D'où viens-tu ?"
+}

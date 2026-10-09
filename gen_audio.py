@@ -41,7 +41,7 @@ async def main():
         k = djb2(t)
         e = idx.setdefault(k, {"text": t})
         e["text"] = t
-        for tag, voice in (("f", VOICE_F), ("m", VOICE_M)):
+        for tag, voice in [(t, v) for t, v in (("f", VOICE_F), ("m", VOICE_M)) if t in os.environ.get("VOICES", "f")]:
             rel = f"audio/{tag}/{k}.mp3"
             if e.get(tag) and os.path.exists(os.path.join(ROOT, rel)):
                 continue

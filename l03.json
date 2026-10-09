@@ -1,0 +1,808 @@
+{
+ "num": 3,
+ "phase": "Partie A · Fondations",
+ "title": "Consonnes aspirées · D'où viens-tu ?",
+ "objective": "Dire d'où tu viens, ta nationalité et où tu habites, et poser les mêmes questions.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>ceci, voici <small class=\"muted\">(leçon 2)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ນີ້</span> <span class=\"rom\">Nȉi</span> · ceci, voici</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Dire d&#x27;où tu viens, ta nationalité et où tu habites, et poser les mêmes questions.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">M. Somsak rentre et rencontre Clara.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ສະບາຍດີ ເຈົ້າແມ່ນຄົນປະເທດໃດ?</span><span class=\"rom\">Sā-bǎay-dǐi. Jâo mɛ̄ɛn khón pá-thêet dǎy?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍແມ່ນຄົນຝຣັ່ງ</span><span class=\"rom\">Khɔ̂ɔy mɛ̄ɛn khón-fa-làng.</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ມາແຕ່ປາຣີບໍ?</span><span class=\"rom\">Máa-tɛ̀ɛ pǎa-líi bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແມ່ນແລ້ວ ຂ້ອຍມາແຕ່ປາຣີ</span><span class=\"rom\">Mɛ̄ɛn lɛ̏ɛw. Khɔ̂ɔy máa-tɛ̀ɛ pǎa-líi.</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ຕອນນີ້ເຈົ້າຢູ່ໃສ?</span><span class=\"rom\">Tɔ̌ɔn-nȉi jâo yùu sǎy?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍຢູ່ວຽງຈັນ ໃກ້ເຮືອນນ້ອຍ</span><span class=\"rom\">Khɔ̂ɔy yùu wíang-jǎn, kâay hʉ́an nɔ̏ɔy.</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ເວົ້າລາວເກັ່ງເນາະ!</span><span class=\"rom\">Wȁo-láaw kèng nɔ̄!</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໜ້ອຍໜຶ່ງເຈົ້າ ຂອບໃຈ</span><span class=\"rom\">Nɔ̂ɔy nʉ̀ng jâo. Khɔ̏ɔp-jǎy.</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>M. Somsak</b> — Bonjour. Tu es de quel pays ?<br><b>Clara</b> — Je suis française.<br><b>M. Somsak</b> — Tu viens de Paris ?<br><b>Clara</b> — Oui, je viens de Paris.<br><b>M. Somsak</b> — Et maintenant, tu habites où ?<br><b>Clara</b> — J&#x27;habite à Vientiane, près de chez Noy.<br><b>M. Somsak</b> — Tu parles bien lao, dis donc !<br><b>Clara</b> — Un petit peu. Merci.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>De quel pays vient Clara ?</li><li>Où habite-t-elle ?</li><li>Comment répond-elle au compliment ?</li></ol><details><summary>Réponses</summary><ol><li>De France : ຄົນຝຣັ່ງ.</li><li>À Vientiane, près de chez Noy.</li><li>ໜ້ອຍໜຶ່ງ — un petit peu (modestie attendue).</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຄົນ</td><td class=\"rom\">Khón</td><td>personne</td><td>ຄົນ + pays = nationalité</td></tr><tr><td class=\"lo\">ຄົນລາວ</td><td class=\"rom\">Khón-láaw</td><td>Lao (personne)</td><td></td></tr><tr><td class=\"lo\">ຄົນຝຣັ່ງ</td><td class=\"rom\">Khón-fa-làng</td><td>Français(e)</td><td>ຝຣັ່ງ désigne aussi les Occidentaux en général</td></tr><tr><td class=\"lo\">ປະເທດ</td><td class=\"rom\">Pá-thêet</td><td>pays</td><td></td></tr><tr><td class=\"lo\">ປະເທດໃດ</td><td class=\"rom\">Pá-thêet dǎy</td><td>quel pays ?</td><td></td></tr><tr><td class=\"lo\">ມາແຕ່</td><td class=\"rom\">Máa-tɛ̀ɛ</td><td>venir de</td><td></td></tr><tr><td class=\"lo\">ຢູ່</td><td class=\"rom\">Yùu</td><td>habiter ; se trouver</td><td></td></tr><tr><td class=\"lo\">ໃສ</td><td class=\"rom\">Sǎy</td><td>où ?</td><td></td></tr><tr><td class=\"lo\">ຢູ່ໃສ?</td><td class=\"rom\">Yùu sǎy?</td><td>tu habites où ?</td><td></td></tr><tr><td class=\"lo\">ຕອນນີ້</td><td class=\"rom\">Tɔ̌ɔn-nȉi</td><td>maintenant</td><td></td></tr><tr><td class=\"lo\">ເວົ້າລາວ</td><td class=\"rom\">Wȁo-láaw</td><td>parler lao</td><td></td></tr><tr><td class=\"lo\">ເກັ່ງ</td><td class=\"rom\">Kèng</td><td>doué, fort</td><td>compliment très courant</td></tr></table></div><p class=\"note\">Réponds toujours aux compliments avec modestie : ໜ້ອຍໜຶ່ງ « un petit peu » ou ບໍ່ເກັ່ງ « pas douée ».</p>"
+  },
+  {
+   "title": "Point de langue : k / kh, t / th, p / ph",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ກິນ</span> <span class=\"rom\">Kǐn</span> = manger (k sans souffle)</li><li><span class=\"lo\">ຄົນ</span> <span class=\"rom\">Khón</span> = personne (kh avec souffle)</li><li><span class=\"lo\">ຕາ</span> <span class=\"rom\">Tǎa</span> = œil (t)</li><li><span class=\"lo\">ທາງ</span> <span class=\"rom\">Tháang</span> = chemin (th)</li><li><span class=\"lo\">ປາ</span> <span class=\"rom\">Pǎa</span> = poisson (p)</li><li><span class=\"lo\">ພູ</span> <span class=\"rom\">Phúu</span> = montagne (ph)</li></ul><p><b>À toi de trouver :</b></p><ol><li>Mets ta main devant la bouche : où sens-tu un souffle ?</li><li>Pourquoi ph et th ne se prononcent-ils pas comme en français ou en anglais ?</li></ol><details><summary>La règle</summary><p>Le lao oppose des consonnes sans souffle (k, t, p, comme en français) et avec souffle (kh, th, ph : on ajoute un petit « h »). Ce souffle change le sens. ph n'est jamais « f » et th n'est jamais le « th » anglais.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> le souffle au début des mots ຄົນ, ທາງ, ພູ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Tu es de quel pays ?</li><li>Je suis française.</li><li>Je viens de Paris.</li><li>Tu habites où ?</li><li>J&#x27;habite à Vientiane.</li><li>Un petit peu.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ເຈົ້າແມ່ນຄົນປະເທດໃດ?</span> <span class=\"rom\">Jâo mɛ̄ɛn khón pá-thêet dǎy?</span></li><li><span class=\"lo\">ຂ້ອຍແມ່ນຄົນຝຣັ່ງ</span> <span class=\"rom\">Khɔ̂ɔy mɛ̄ɛn khón-fa-làng.</span></li><li><span class=\"lo\">ຂ້ອຍມາແຕ່ປາຣີ</span> <span class=\"rom\">Khɔ̂ɔy máa-tɛ̀ɛ pǎa-líi.</span></li><li><span class=\"lo\">ເຈົ້າຢູ່ໃສ?</span> <span class=\"rom\">Jâo yùu sǎy?</span></li><li><span class=\"lo\">ຂ້ອຍຢູ່ວຽງຈັນ</span> <span class=\"rom\">Khɔ̂ɔy yùu wíang-jǎn.</span></li><li><span class=\"lo\">ໜ້ອຍໜຶ່ງ</span> <span class=\"rom\">Nɔ̂ɔy nʉ̀ng.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p><p><b>C. Jeu de rôle.</b> Réponds à voix haute, puis écris ta réponse à Claude :</p><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ເຈົ້າແມ່ນຄົນປະເທດໃດ?</span><span class=\"rom\">Jâo mɛ̄ɛn khón pá-thêet dǎy?</span></div></div><p class=\"muted\">(Tu es de quel pays ?)</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris 3 phrases sur toi : nationalité, ville d&#x27;origine, ville où tu habites.</li><li>Écris les questions qui correspondent à ces 3 phrases.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Présente-toi complètement (prénom, nationalité, origine, lieu de vie) à un locuteur lao.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>18 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l03-v01",
+   "front": "ຄົນ",
+   "back": "Khón · personne"
+  },
+  {
+   "id": "l03-v02",
+   "front": "ຄົນລາວ",
+   "back": "Khón-láaw · Lao (personne)"
+  },
+  {
+   "id": "l03-v03",
+   "front": "ຄົນຝຣັ່ງ",
+   "back": "Khón-fa-làng · Français(e)"
+  },
+  {
+   "id": "l03-v04",
+   "front": "ປະເທດ",
+   "back": "Pá-thêet · pays"
+  },
+  {
+   "id": "l03-v05",
+   "front": "ປະເທດໃດ",
+   "back": "Pá-thêet dǎy · quel pays ?"
+  },
+  {
+   "id": "l03-v06",
+   "front": "ມາແຕ່",
+   "back": "Máa-tɛ̀ɛ · venir de"
+  },
+  {
+   "id": "l03-v07",
+   "front": "ຢູ່",
+   "back": "Yùu · habiter ; se trouver"
+  },
+  {
+   "id": "l03-v08",
+   "front": "ໃສ",
+   "back": "Sǎy · où ?"
+  },
+  {
+   "id": "l03-v09",
+   "front": "ຢູ່ໃສ?",
+   "back": "Yùu sǎy? · tu habites où ?"
+  },
+  {
+   "id": "l03-v10",
+   "front": "ຕອນນີ້",
+   "back": "Tɔ̌ɔn-nȉi · maintenant"
+  },
+  {
+   "id": "l03-v11",
+   "front": "ເວົ້າລາວ",
+   "back": "Wȁo-láaw · parler lao"
+  },
+  {
+   "id": "l03-v12",
+   "front": "ເກັ່ງ",
+   "back": "Kèng · doué, fort"
+  },
+  {
+   "id": "l03-p01",
+   "front": "Tu es de quel pays ?",
+   "back": "ເຈົ້າແມ່ນຄົນປະເທດໃດ? · Jâo mɛ̄ɛn khón pá-thêet dǎy?"
+  },
+  {
+   "id": "l03-p02",
+   "front": "Je suis française.",
+   "back": "ຂ້ອຍແມ່ນຄົນຝຣັ່ງ · Khɔ̂ɔy mɛ̄ɛn khón-fa-làng."
+  },
+  {
+   "id": "l03-p03",
+   "front": "Je viens de Paris.",
+   "back": "ຂ້ອຍມາແຕ່ປາຣີ · Khɔ̂ɔy máa-tɛ̀ɛ pǎa-líi."
+  },
+  {
+   "id": "l03-p04",
+   "front": "Tu habites où ?",
+   "back": "ເຈົ້າຢູ່ໃສ? · Jâo yùu sǎy?"
+  },
+  {
+   "id": "l03-p05",
+   "front": "J'habite à Vientiane.",
+   "back": "ຂ້ອຍຢູ່ວຽງຈັນ · Khɔ̂ɔy yùu wíang-jǎn."
+  },
+  {
+   "id": "l03-p06",
+   "front": "Un petit peu.",
+   "back": "ໜ້ອຍໜຶ່ງ · Nɔ̂ɔy nʉ̀ng."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຄົນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "personne",
+      "où ?",
+      "parler lao",
+      "quel pays ?"
+     ],
+     "answer": "personne",
+     "reveal": "<i>Khón</i>"
+    },
+    {
+     "audio": [
+      "ຄົນລາວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "Lao (personne)",
+      "venir de",
+      "Français(e)",
+      "où ?"
+     ],
+     "answer": "Lao (personne)",
+     "reveal": "<i>Khón-láaw</i>"
+    },
+    {
+     "audio": [
+      "ຄົນຝຣັ່ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "Français(e)",
+      "habiter ; se trouver",
+      "doué, fort",
+      "Lao (personne)"
+     ],
+     "answer": "Français(e)",
+     "reveal": "<i>Khón-fa-làng</i>"
+    },
+    {
+     "audio": [
+      "ປະເທດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pays",
+      "quel pays ?",
+      "tu habites où ?",
+      "Lao (personne)"
+     ],
+     "answer": "pays",
+     "reveal": "<i>Pá-thêet</i>"
+    },
+    {
+     "audio": [
+      "ປະເທດໃດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "quel pays ?",
+      "Lao (personne)",
+      "venir de",
+      "personne"
+     ],
+     "answer": "quel pays ?",
+     "reveal": "<i>Pá-thêet dǎy</i>"
+    },
+    {
+     "audio": [
+      "ມາແຕ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "venir de",
+      "où ?",
+      "parler lao",
+      "doué, fort"
+     ],
+     "answer": "venir de",
+     "reveal": "<i>Máa-tɛ̀ɛ</i>"
+    },
+    {
+     "audio": [
+      "ຢູ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "habiter ; se trouver",
+      "Lao (personne)",
+      "personne",
+      "Français(e)"
+     ],
+     "answer": "habiter ; se trouver",
+     "reveal": "<i>Yùu</i>"
+    },
+    {
+     "audio": [
+      "ໃສ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "où ?",
+      "habiter ; se trouver",
+      "maintenant",
+      "Lao (personne)"
+     ],
+     "answer": "où ?",
+     "reveal": "<i>Sǎy</i>"
+    },
+    {
+     "audio": [
+      "ຢູ່ໃສ?"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "tu habites où ?",
+      "Lao (personne)",
+      "où ?",
+      "personne"
+     ],
+     "answer": "tu habites où ?",
+     "reveal": "<i>Yùu sǎy?</i>"
+    },
+    {
+     "audio": [
+      "ຕອນນີ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "maintenant",
+      "tu habites où ?",
+      "venir de",
+      "personne"
+     ],
+     "answer": "maintenant",
+     "reveal": "<i>Tɔ̌ɔn-nȉi</i>"
+    },
+    {
+     "audio": [
+      "ເວົ້າລາວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "parler lao",
+      "Français(e)",
+      "venir de",
+      "Lao (personne)"
+     ],
+     "answer": "parler lao",
+     "reveal": "<i>Wȁo-láaw</i>"
+    },
+    {
+     "audio": [
+      "ເກັ່ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "doué, fort",
+      "venir de",
+      "personne",
+      "tu habites où ?"
+     ],
+     "answer": "doué, fort",
+     "reveal": "<i>Kèng</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ສະບາຍດີ ເຈົ້າແມ່ນຄົນປະເທດໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Bonjour. Tu es de quel pays ?",
+      "Tu parles bien lao, dis donc !",
+      "Tu viens de Paris ?",
+      "J'habite à Vientiane, près de chez Noy."
+     ],
+     "answer": "Bonjour. Tu es de quel pays ?",
+     "reveal": "<i>Sā-bǎay-dǐi. Jâo mɛ̄ɛn khón pá-thêet dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍແມ່ນຄົນຝຣັ່ງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je suis française.",
+      "Oui, je viens de Paris.",
+      "Bonjour. Tu es de quel pays ?",
+      "J'habite à Vientiane, près de chez Noy."
+     ],
+     "answer": "Je suis française.",
+     "reveal": "<i>Khɔ̂ɔy mɛ̄ɛn khón-fa-làng.</i>"
+    },
+    {
+     "audio": [
+      "ມາແຕ່ປາຣີບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu viens de Paris ?",
+      "Et maintenant, tu habites où ?",
+      "J'habite à Vientiane, près de chez Noy.",
+      "Tu parles bien lao, dis donc !"
+     ],
+     "answer": "Tu viens de Paris ?",
+     "reveal": "<i>Máa-tɛ̀ɛ pǎa-líi bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນແລ້ວ ຂ້ອຍມາແຕ່ປາຣີ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oui, je viens de Paris.",
+      "Je suis française.",
+      "Un petit peu. Merci.",
+      "Tu parles bien lao, dis donc !"
+     ],
+     "answer": "Oui, je viens de Paris.",
+     "reveal": "<i>Mɛ̄ɛn lɛ̏ɛw. Khɔ̂ɔy máa-tɛ̀ɛ pǎa-líi.</i>"
+    },
+    {
+     "audio": [
+      "ຕອນນີ້ເຈົ້າຢູ່ໃສ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Et maintenant, tu habites où ?",
+      "Je suis française.",
+      "Oui, je viens de Paris.",
+      "Bonjour. Tu es de quel pays ?"
+     ],
+     "answer": "Et maintenant, tu habites où ?",
+     "reveal": "<i>Tɔ̌ɔn-nȉi jâo yùu sǎy?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຢູ່ວຽງຈັນ ໃກ້ເຮືອນນ້ອຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "J'habite à Vientiane, près de chez Noy.",
+      "Et maintenant, tu habites où ?",
+      "Bonjour. Tu es de quel pays ?",
+      "Tu parles bien lao, dis donc !"
+     ],
+     "answer": "J'habite à Vientiane, près de chez Noy.",
+     "reveal": "<i>Khɔ̂ɔy yùu wíang-jǎn, kâay hʉ́an nɔ̏ɔy.</i>"
+    },
+    {
+     "audio": [
+      "ເວົ້າລາວເກັ່ງເນາະ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu parles bien lao, dis donc !",
+      "Bonjour. Tu es de quel pays ?",
+      "Et maintenant, tu habites où ?",
+      "J'habite à Vientiane, près de chez Noy."
+     ],
+     "answer": "Tu parles bien lao, dis donc !",
+     "reveal": "<i>Wȁo-láaw kèng nɔ̄!</i>"
+    },
+    {
+     "audio": [
+      "ໜ້ອຍໜຶ່ງເຈົ້າ ຂອບໃຈ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Un petit peu. Merci.",
+      "Oui, je viens de Paris.",
+      "J'habite à Vientiane, près de chez Noy.",
+      "Tu parles bien lao, dis donc !"
+     ],
+     "answer": "Un petit peu. Merci.",
+     "reveal": "<i>Nɔ̂ɔy nʉ̀ng jâo. Khɔ̏ɔp-jǎy.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເຈົ້າແມ່ນຄົນປະເທດໃດ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tu es de quel pays ?",
+      "J'habite à Vientiane.",
+      "Tu habites où ?",
+      "Je suis française."
+     ],
+     "answer": "Tu es de quel pays ?",
+     "reveal": "<i>Jâo mɛ̄ɛn khón pá-thêet dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍແມ່ນຄົນຝຣັ່ງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je suis française.",
+      "J'habite à Vientiane.",
+      "Je viens de Paris.",
+      "Tu habites où ?"
+     ],
+     "answer": "Je suis française.",
+     "reveal": "<i>Khɔ̂ɔy mɛ̄ɛn khón-fa-làng.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍມາແຕ່ປາຣີ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je viens de Paris.",
+      "J'habite à Vientiane.",
+      "Tu habites où ?",
+      "Tu es de quel pays ?"
+     ],
+     "answer": "Je viens de Paris.",
+     "reveal": "<i>Khɔ̂ɔy máa-tɛ̀ɛ pǎa-líi.</i>"
+    },
+    {
+     "audio": [
+      "ເຈົ້າຢູ່ໃສ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tu habites où ?",
+      "Je suis française.",
+      "Un petit peu.",
+      "J'habite à Vientiane."
+     ],
+     "answer": "Tu habites où ?",
+     "reveal": "<i>Jâo yùu sǎy?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຢູ່ວຽງຈັນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "J'habite à Vientiane.",
+      "Un petit peu.",
+      "Tu es de quel pays ?",
+      "Je viens de Paris."
+     ],
+     "answer": "J'habite à Vientiane.",
+     "reveal": "<i>Khɔ̂ɔy yùu wíang-jǎn.</i>"
+    },
+    {
+     "audio": [
+      "ໜ້ອຍໜຶ່ງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Un petit peu.",
+      "Je suis française.",
+      "Je viens de Paris.",
+      "J'habite à Vientiane."
+     ],
+     "answer": "Un petit peu.",
+     "reveal": "<i>Nɔ̂ɔy nʉ̀ng.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຄົນ",
+   "rom": "Khón",
+   "fr": "personne",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄົນລາວ",
+   "rom": "Khón-láaw",
+   "fr": "Lao (personne)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄົນຝຣັ່ງ",
+   "rom": "Khón-fa-làng",
+   "fr": "Français(e)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ປະເທດ",
+   "rom": "Pá-thêet",
+   "fr": "pays",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ປະເທດໃດ",
+   "rom": "Pá-thêet dǎy",
+   "fr": "quel pays ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມາແຕ່",
+   "rom": "Máa-tɛ̀ɛ",
+   "fr": "venir de",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຢູ່",
+   "rom": "Yùu",
+   "fr": "habiter ; se trouver",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃສ",
+   "rom": "Sǎy",
+   "fr": "où ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຢູ່ໃສ?",
+   "rom": "Yùu sǎy?",
+   "fr": "tu habites où ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕອນນີ້",
+   "rom": "Tɔ̌ɔn-nȉi",
+   "fr": "maintenant",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເວົ້າລາວ",
+   "rom": "Wȁo-láaw",
+   "fr": "parler lao",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເກັ່ງ",
+   "rom": "Kèng",
+   "fr": "doué, fort",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຈົ້າແມ່ນຄົນປະເທດໃດ?",
+   "rom": "Jâo mɛ̄ɛn khón pá-thêet dǎy?",
+   "fr": "Tu es de quel pays ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍແມ່ນຄົນຝຣັ່ງ",
+   "rom": "Khɔ̂ɔy mɛ̄ɛn khón-fa-làng.",
+   "fr": "Je suis française.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍມາແຕ່ປາຣີ",
+   "rom": "Khɔ̂ɔy máa-tɛ̀ɛ pǎa-líi.",
+   "fr": "Je viens de Paris.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຈົ້າຢູ່ໃສ?",
+   "rom": "Jâo yùu sǎy?",
+   "fr": "Tu habites où ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຢູ່ວຽງຈັນ",
+   "rom": "Khɔ̂ɔy yùu wíang-jǎn.",
+   "fr": "J'habite à Vientiane.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໜ້ອຍໜຶ່ງ",
+   "rom": "Nɔ̂ɔy nʉ̀ng.",
+   "fr": "Un petit peu.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ເຈົ້າ",
+    "ແມ່ນ",
+    "ຄົນ",
+    "ປະເທດ",
+    "ໃດ"
+   ],
+   "rom": "Jâo mɛ̄ɛn khón pá-thêet dǎy?",
+   "fr": "Tu es de quel pays ?"
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ແມ່ນ",
+    "ຄົນຝຣັ່ງ"
+   ],
+   "rom": "Khɔ̂ɔy mɛ̄ɛn khón-fa-làng.",
+   "fr": "Je suis française."
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ມາແຕ່",
+    "ປາຣີ"
+   ],
+   "rom": "Khɔ̂ɔy máa-tɛ̀ɛ pǎa-líi.",
+   "fr": "Je viens de Paris."
+  },
+  {
+   "tokens": [
+    "ເຈົ້າ",
+    "ຢູ່",
+    "ໃສ"
+   ],
+   "rom": "Jâo yùu sǎy?",
+   "fr": "Tu habites où ?"
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຢູ່",
+    "ວຽງຈັນ"
+   ],
+   "rom": "Khɔ̂ɔy yùu wíang-jǎn.",
+   "fr": "J'habite à Vientiane."
+  },
+  {
+   "tokens": [
+    "ໜ້ອຍ",
+    "ໜຶ່ງ"
+   ],
+   "rom": "Nɔ̂ɔy nʉ̀ng.",
+   "fr": "Un petit peu."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຄົນ",
+   "rom": "Khón",
+   "fr": "personne"
+  },
+  {
+   "lao": "ຄົນລາວ",
+   "rom": "Khón-láaw",
+   "fr": "Lao (personne)"
+  },
+  {
+   "lao": "ຄົນຝຣັ່ງ",
+   "rom": "Khón-fa-làng",
+   "fr": "Français(e)"
+  },
+  {
+   "lao": "ປະເທດ",
+   "rom": "Pá-thêet",
+   "fr": "pays"
+  },
+  {
+   "lao": "ປະເທດໃດ",
+   "rom": "Pá-thêet dǎy",
+   "fr": "quel pays ?"
+  },
+  {
+   "lao": "ມາແຕ່",
+   "rom": "Máa-tɛ̀ɛ",
+   "fr": "venir de"
+  },
+  {
+   "lao": "ຢູ່",
+   "rom": "Yùu",
+   "fr": "habiter ; se trouver"
+  },
+  {
+   "lao": "ໃສ",
+   "rom": "Sǎy",
+   "fr": "où ?"
+  },
+  {
+   "lao": "ຢູ່ໃສ?",
+   "rom": "Yùu sǎy?",
+   "fr": "tu habites où ?"
+  },
+  {
+   "lao": "ຕອນນີ້",
+   "rom": "Tɔ̌ɔn-nȉi",
+   "fr": "maintenant"
+  },
+  {
+   "lao": "ເວົ້າລາວ",
+   "rom": "Wȁo-láaw",
+   "fr": "parler lao"
+  },
+  {
+   "lao": "ເກັ່ງ",
+   "rom": "Kèng",
+   "fr": "doué, fort"
+  }
+ ],
+ "sounds": {
+  "ນີ້": "Nȉi",
+  "ສະບາຍດີ ເຈົ້າແມ່ນຄົນປະເທດໃດ": "Sā-bǎay-dǐi. Jâo mɛ̄ɛn khón pá-thêet dǎy?",
+  "ຂ້ອຍແມ່ນຄົນຝຣັ່ງ": "Khɔ̂ɔy mɛ̄ɛn khón-fa-làng.",
+  "ມາແຕ່ປາຣີບໍ": "Máa-tɛ̀ɛ pǎa-líi bɔ̌ɔ?",
+  "ແມ່ນແລ້ວ ຂ້ອຍມາແຕ່ປາຣີ": "Mɛ̄ɛn lɛ̏ɛw. Khɔ̂ɔy máa-tɛ̀ɛ pǎa-líi.",
+  "ຕອນນີ້ເຈົ້າຢູ່ໃສ": "Tɔ̌ɔn-nȉi jâo yùu sǎy?",
+  "ຂ້ອຍຢູ່ວຽງຈັນ ໃກ້ເຮືອນນ້ອຍ": "Khɔ̂ɔy yùu wíang-jǎn, kâay hʉ́an nɔ̏ɔy.",
+  "ເວົ້າລາວເກັ່ງເນາະ": "Wȁo-láaw kèng nɔ̄!",
+  "ໜ້ອຍໜຶ່ງເຈົ້າ ຂອບໃຈ": "Nɔ̂ɔy nʉ̀ng jâo. Khɔ̏ɔp-jǎy.",
+  "ຄົນ": "khón",
+  "ຄົນລາວ": "Khón-láaw",
+  "ຄົນຝຣັ່ງ": "khón-fa-làng",
+  "ປະເທດ": "pá-thêet",
+  "ປະເທດໃດ": "Pá-thêet dǎy",
+  "ມາແຕ່": "máa-tɛ̀ɛ",
+  "ຢູ່": "yùu",
+  "ໃສ": "sǎy",
+  "ຢູ່ໃສ": "Yùu sǎy?",
+  "ຕອນນີ້": "Tɔ̌ɔn-nȉi",
+  "ເວົ້າລາວ": "Wȁo-láaw",
+  "ເກັ່ງ": "Kèng",
+  "ກິນ": "Kǐn",
+  "ຕາ": "Tǎa",
+  "ທາງ": "Tháang",
+  "ປາ": "Pǎa",
+  "ພູ": "Phúu",
+  "ເຈົ້າແມ່ນຄົນປະເທດໃດ": "Jâo mɛ̄ɛn khón pá-thêet dǎy?",
+  "ຂ້ອຍມາແຕ່ປາຣີ": "Khɔ̂ɔy máa-tɛ̀ɛ pǎa-líi.",
+  "ເຈົ້າຢູ່ໃສ": "Jâo yùu sǎy?",
+  "ຂ້ອຍຢູ່ວຽງຈັນ": "Khɔ̂ɔy yùu wíang-jǎn.",
+  "ໜ້ອຍໜຶ່ງ": "Nɔ̂ɔy nʉ̀ng.",
+  "ເຈົ້າ": "jâo",
+  "ແມ່ນ": "mɛ̄ɛn",
+  "ໃດ": "dǎy",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ປາຣີ": "pǎa-líi",
+  "ວຽງຈັນ": "wíang-jǎn",
+  "ໜ້ອຍ": "nɔ̂ɔy",
+  "ໜຶ່ງ": "nʉ̀ng"
+ },
+ "suivi": "LEÇON : 3 — Partie A (Fondations, A0) · Consonnes aspirées · D'où viens-tu ?\nOBJECTIF : Dire d'où tu viens, ta nationalité et où tu habites, et poser les mêmes questions.\nNOTION : k / kh, t / th, p / ph\nVOCAB : Khón, Khón-láaw, Khón-fa-làng, Pá-thêet, Pá-thêet dǎy, Máa-tɛ̀ɛ, Yùu, Sǎy, Yùu sǎy?, Tɔ̌ɔn-nȉi, Wȁo-láaw, Kèng\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 4 — ng, ny et les pronoms"
+}

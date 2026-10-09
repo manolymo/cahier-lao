@@ -10,9 +10,37 @@
   {
    "id": "l01",
    "num": 1,
-   "title": "Les tons + saluer maman",
-   "phase": "Phase 0 · Sons et tons",
+   "title": "Les 6 tons · Saluer",
+   "phase": "Fondations",
    "file": "l01.json"
+  },
+  {
+   "id": "l02",
+   "num": 2,
+   "title": "Voyelles courtes et longues · Se présenter",
+   "phase": "Fondations",
+   "file": "l02.json"
+  },
+  {
+   "id": "l03",
+   "num": 3,
+   "title": "Consonnes aspirées · D'où viens-tu ?",
+   "phase": "Fondations",
+   "file": "l03.json"
+  },
+  {
+   "id": "l04",
+   "num": 4,
+   "title": "ng, ny et les pronoms",
+   "phase": "Fondations",
+   "file": "l04.json"
+  },
+  {
+   "id": "l05",
+   "num": 5,
+   "title": "Bilan sons et tons · Questions oui/non",
+   "phase": "Fondations",
+   "file": "l05.json"
   }
  ]
 }

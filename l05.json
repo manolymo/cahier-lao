@@ -1,0 +1,795 @@
+{
+ "num": 5,
+ "phase": "Partie A · Fondations",
+ "title": "Bilan sons et tons · Questions oui/non",
+ "objective": "Poser et répondre à des questions fermées (oui/non, déjà/pas encore) et tenir un petit échange.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>grand frère ; toi (homme plus âgé) <small class=\"muted\">(leçon 4)</small></li><li>comment tu t&#x27;appelles ? <small class=\"muted\">(leçon 2)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ອ້າຍ</span> <span class=\"rom\">Âay</span> · grand frère ; toi (homme plus âgé)</li><li><span class=\"lo\">ເຈົ້າຊື່ຫຍັງ?</span> <span class=\"rom\">Jâo sʉ̄ʉ nyǎng?</span> · comment tu t&#x27;appelles ?</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Poser et répondre à des questions fermées (oui/non, déjà/pas encore) et tenir un petit échange.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Mme Boua accueille Clara à midi.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ຄລາຣາກິນເຂົ້າແລ້ວບໍ?</span><span class=\"rom\">Clara kǐn-khâo lɛ̏ɛw bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຍັງເທື່ອເຈົ້າ</span><span class=\"rom\">Nyáng thʉ̄a jâo.</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ມາກິນເຂົ້ານຳກັນເດີ!</span><span class=\"rom\">Máa kǐn-khâo nám kǎn dɤ̌ɤ!</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໄດ້ບໍ? ຂອບໃຈຫຼາຍໆ</span><span class=\"rom\">Dâay bɔ̌ɔ? Khɔ̏ɔp-jǎy lǎay-lǎay.</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ກິນເຂົ້າໜຽວເປັນບໍ?</span><span class=\"rom\">Kǐn khâo-nǐaw pěn bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເປັນເຈົ້າ ແຊບຫຼາຍ!</span><span class=\"rom\">Pěn jâo. Sɛ̂ɛp lǎay!</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ເຜັດບໍ?</span><span class=\"rom\">Phēt bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ບໍ່ເຜັດ ພໍດີ</span><span class=\"rom\">Bɔ̀ɔ phēt. Phɔ́ɔ-dǐi.</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Mme Boua</b> — Clara, tu as mangé ?<br><b>Clara</b> — Pas encore.<br><b>Mme Boua</b> — Viens manger avec nous !<br><b>Clara</b> — C&#x27;est vrai ? Merci beaucoup.<br><b>Mme Boua</b> — Tu sais manger le riz gluant ?<br><b>Clara</b> — Oui. C&#x27;est très bon !<br><b>Mme Boua</b> — C&#x27;est trop pimenté ?<br><b>Clara</b> — Non, c&#x27;est parfait.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Clara a-t-elle déjà mangé ?</li><li>Que propose Mme Boua ?</li><li>Que pense Clara du repas ?</li></ol><details><summary>Réponses</summary><ol><li>Non : ຍັງ « pas encore ».</li><li>De manger avec eux.</li><li>ແຊບຫຼາຍ — très bon, et pas trop pimenté.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ບໍ</td><td class=\"rom\">Bɔ̌ɔ</td><td>? (question oui/non)</td><td>en fin de phrase, ton montant</td></tr><tr><td class=\"lo\">ບໍ່</td><td class=\"rom\">Bɔ̀ɔ</td><td>ne… pas</td><td>devant le verbe, ton bas</td></tr><tr><td class=\"lo\">ແລ້ວບໍ</td><td class=\"rom\">Lɛ̏ɛw bɔ̌ɔ</td><td>déjà ? (c&#x27;est fait ?)</td><td></td></tr><tr><td class=\"lo\">ຍັງ</td><td class=\"rom\">Nyáng</td><td>pas encore ; encore</td><td></td></tr><tr><td class=\"lo\">ແມ່ນບໍ</td><td class=\"rom\">Mɛ̄ɛn bɔ̌ɔ</td><td>c&#x27;est vrai ? n&#x27;est-ce pas ?</td><td></td></tr><tr><td class=\"lo\">ກິນເຂົ້າ</td><td class=\"rom\">Kǐn-khâo</td><td>manger (litt. manger du riz)</td><td></td></tr><tr><td class=\"lo\">ເຂົ້າໜຽວ</td><td class=\"rom\">Khâo-nǐaw</td><td>riz gluant</td><td>le riz de base au Laos</td></tr><tr><td class=\"lo\">ແຊບ</td><td class=\"rom\">Sɛ̂ɛp</td><td>bon (au goût)</td><td></td></tr><tr><td class=\"lo\">ເຜັດ</td><td class=\"rom\">Phēt</td><td>pimenté</td><td></td></tr><tr><td class=\"lo\">ພໍດີ</td><td class=\"rom\">Phɔ́ɔ-dǐi</td><td>juste bien, parfait</td><td></td></tr><tr><td class=\"lo\">ເປັນ</td><td class=\"rom\">Pěn</td><td>savoir faire (une habileté)</td><td>ກິນເຂົ້າໜຽວເປັນ = savoir en manger</td></tr><tr><td class=\"lo\">ນຳກັນ</td><td class=\"rom\">Nám-kǎn</td><td>ensemble</td><td>[À VÉRIFIER]</td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les questions fermées",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ກິນເຂົ້າແລ້ວບໍ?</span> <span class=\"rom\">Kǐn-khâo lɛ̏ɛw bɔ̌ɔ?</span> = tu as (déjà) mangé ?</li><li><span class=\"lo\">ກິນແລ້ວ</span> <span class=\"rom\">Kǐn lɛ̏ɛw</span> = oui, j&#x27;ai mangé</li><li><span class=\"lo\">ຍັງ</span> <span class=\"rom\">Nyáng</span> = pas encore</li><li><span class=\"lo\">ແຊບບໍ?</span> <span class=\"rom\">Sɛ̂ɛp bɔ̌ɔ?</span> = c&#x27;est bon ?</li><li><span class=\"lo\">ບໍ່ເຜັດ</span> <span class=\"rom\">Bɔ̀ɔ phēt</span> = ce n&#x27;est pas pimenté</li></ul><p><b>À toi de trouver :</b></p><ol><li>Comment répond-on « oui » à une question ? Y a-t-il un mot « oui » ?</li><li>Quelle différence entre ບໍ et ບໍ່ ?</li></ol><details><summary>La règle</summary><p>Pour poser une question oui/non, on ajoute ບໍ (ton montant) en fin de phrase. Pour répondre oui, on répète le verbe (ແຊບ, ກິນແລ້ວ) ; pour répondre non, on met ບໍ່ (ton bas) devant le verbe. ແລ້ວບໍ demande si c'est déjà fait, et on répond ແລ້ວ ou ຍັງ.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> la différence entre ບໍ (montant, question) et ບໍ່ (bas, négation).</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Tu as mangé ?</li><li>Pas encore.</li><li>C&#x27;est bon ?</li><li>C&#x27;est très bon !</li><li>Ce n&#x27;est pas pimenté.</li><li>C&#x27;est vrai ?</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ກິນເຂົ້າແລ້ວບໍ?</span> <span class=\"rom\">Kǐn-khâo lɛ̏ɛw bɔ̌ɔ?</span></li><li><span class=\"lo\">ຍັງເທື່ອ</span> <span class=\"rom\">Nyáng thʉ̄a.</span></li><li><span class=\"lo\">ແຊບບໍ?</span> <span class=\"rom\">Sɛ̂ɛp bɔ̌ɔ?</span></li><li><span class=\"lo\">ແຊບຫຼາຍ!</span> <span class=\"rom\">Sɛ̂ɛp lǎay!</span></li><li><span class=\"lo\">ບໍ່ເຜັດ</span> <span class=\"rom\">Bɔ̀ɔ phēt.</span></li><li><span class=\"lo\">ແມ່ນບໍ?</span> <span class=\"rom\">Mɛ̄ɛn bɔ̌ɔ?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p><p><b>C. Jeu de rôle.</b> Réponds à voix haute, puis écris ta réponse à Claude :</p><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ຄລາຣາກິນເຂົ້າແລ້ວບໍ?</span><span class=\"rom\">Clara kǐn-khâo lɛ̏ɛw bɔ̌ɔ?</span></div></div><p class=\"muted\">(Clara, tu as mangé ?)</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Transforme en question : ລາວແມ່ນຄົນລາວ / ເຈົ້າກິນເຂົ້າແລ້ວ / ອາຫານແຊບ.</li><li>Réponds non à chaque question.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Tiens un échange de 2 minutes avec un locuteur lao : salutations, présentation, et au moins 3 questions oui/non.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>18 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l05-v01",
+   "front": "ບໍ",
+   "back": "Bɔ̌ɔ · ? (question oui/non)"
+  },
+  {
+   "id": "l05-v02",
+   "front": "ບໍ່",
+   "back": "Bɔ̀ɔ · ne… pas"
+  },
+  {
+   "id": "l05-v03",
+   "front": "ແລ້ວບໍ",
+   "back": "Lɛ̏ɛw bɔ̌ɔ · déjà ? (c'est fait ?)"
+  },
+  {
+   "id": "l05-v04",
+   "front": "ຍັງ",
+   "back": "Nyáng · pas encore ; encore"
+  },
+  {
+   "id": "l05-v05",
+   "front": "ແມ່ນບໍ",
+   "back": "Mɛ̄ɛn bɔ̌ɔ · c'est vrai ? n'est-ce pas ?"
+  },
+  {
+   "id": "l05-v06",
+   "front": "ກິນເຂົ້າ",
+   "back": "Kǐn-khâo · manger (litt. manger du riz)"
+  },
+  {
+   "id": "l05-v07",
+   "front": "ເຂົ້າໜຽວ",
+   "back": "Khâo-nǐaw · riz gluant"
+  },
+  {
+   "id": "l05-v08",
+   "front": "ແຊບ",
+   "back": "Sɛ̂ɛp · bon (au goût)"
+  },
+  {
+   "id": "l05-v09",
+   "front": "ເຜັດ",
+   "back": "Phēt · pimenté"
+  },
+  {
+   "id": "l05-v10",
+   "front": "ພໍດີ",
+   "back": "Phɔ́ɔ-dǐi · juste bien, parfait"
+  },
+  {
+   "id": "l05-v11",
+   "front": "ເປັນ",
+   "back": "Pěn · savoir faire (une habileté)"
+  },
+  {
+   "id": "l05-v12",
+   "front": "ນຳກັນ",
+   "back": "Nám-kǎn · ensemble"
+  },
+  {
+   "id": "l05-p01",
+   "front": "Tu as mangé ?",
+   "back": "ກິນເຂົ້າແລ້ວບໍ? · Kǐn-khâo lɛ̏ɛw bɔ̌ɔ?"
+  },
+  {
+   "id": "l05-p02",
+   "front": "Pas encore.",
+   "back": "ຍັງເທື່ອ · Nyáng thʉ̄a."
+  },
+  {
+   "id": "l05-p03",
+   "front": "C'est bon ?",
+   "back": "ແຊບບໍ? · Sɛ̂ɛp bɔ̌ɔ?"
+  },
+  {
+   "id": "l05-p04",
+   "front": "C'est très bon !",
+   "back": "ແຊບຫຼາຍ! · Sɛ̂ɛp lǎay!"
+  },
+  {
+   "id": "l05-p05",
+   "front": "Ce n'est pas pimenté.",
+   "back": "ບໍ່ເຜັດ · Bɔ̀ɔ phēt."
+  },
+  {
+   "id": "l05-p06",
+   "front": "C'est vrai ?",
+   "back": "ແມ່ນບໍ? · Mɛ̄ɛn bɔ̌ɔ?"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ບໍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "? (question oui/non)",
+      "c'est vrai ? n'est-ce pas ?",
+      "pimenté",
+      "ne… pas"
+     ],
+     "answer": "? (question oui/non)",
+     "reveal": "<i>Bɔ̌ɔ</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ne… pas",
+      "c'est vrai ? n'est-ce pas ?",
+      "bon (au goût)",
+      "riz gluant"
+     ],
+     "answer": "ne… pas",
+     "reveal": "<i>Bɔ̀ɔ</i>"
+    },
+    {
+     "audio": [
+      "ແລ້ວບໍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "déjà ? (c'est fait ?)",
+      "riz gluant",
+      "pimenté",
+      "ne… pas"
+     ],
+     "answer": "déjà ? (c'est fait ?)",
+     "reveal": "<i>Lɛ̏ɛw bɔ̌ɔ</i>"
+    },
+    {
+     "audio": [
+      "ຍັງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pas encore ; encore",
+      "ensemble",
+      "savoir faire (une habileté)",
+      "manger (litt. manger du riz)"
+     ],
+     "answer": "pas encore ; encore",
+     "reveal": "<i>Nyáng</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນບໍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "c'est vrai ? n'est-ce pas ?",
+      "pimenté",
+      "bon (au goût)",
+      "déjà ? (c'est fait ?)"
+     ],
+     "answer": "c'est vrai ? n'est-ce pas ?",
+     "reveal": "<i>Mɛ̄ɛn bɔ̌ɔ</i>"
+    },
+    {
+     "audio": [
+      "ກິນເຂົ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "manger (litt. manger du riz)",
+      "ensemble",
+      "riz gluant",
+      "pas encore ; encore"
+     ],
+     "answer": "manger (litt. manger du riz)",
+     "reveal": "<i>Kǐn-khâo</i>"
+    },
+    {
+     "audio": [
+      "ເຂົ້າໜຽວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "riz gluant",
+      "bon (au goût)",
+      "juste bien, parfait",
+      "pas encore ; encore"
+     ],
+     "answer": "riz gluant",
+     "reveal": "<i>Khâo-nǐaw</i>"
+    },
+    {
+     "audio": [
+      "ແຊບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "bon (au goût)",
+      "déjà ? (c'est fait ?)",
+      "pas encore ; encore",
+      "ne… pas"
+     ],
+     "answer": "bon (au goût)",
+     "reveal": "<i>Sɛ̂ɛp</i>"
+    },
+    {
+     "audio": [
+      "ເຜັດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pimenté",
+      "bon (au goût)",
+      "juste bien, parfait",
+      "pas encore ; encore"
+     ],
+     "answer": "pimenté",
+     "reveal": "<i>Phēt</i>"
+    },
+    {
+     "audio": [
+      "ພໍດີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "juste bien, parfait",
+      "bon (au goût)",
+      "pimenté",
+      "riz gluant"
+     ],
+     "answer": "juste bien, parfait",
+     "reveal": "<i>Phɔ́ɔ-dǐi</i>"
+    },
+    {
+     "audio": [
+      "ເປັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "savoir faire (une habileté)",
+      "ne… pas",
+      "pas encore ; encore",
+      "juste bien, parfait"
+     ],
+     "answer": "savoir faire (une habileté)",
+     "reveal": "<i>Pěn</i>"
+    },
+    {
+     "audio": [
+      "ນຳກັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ensemble",
+      "bon (au goût)",
+      "pimenté",
+      "juste bien, parfait"
+     ],
+     "answer": "ensemble",
+     "reveal": "<i>Nám-kǎn</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຄລາຣາກິນເຂົ້າແລ້ວບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Clara, tu as mangé ?",
+      "C'est vrai ? Merci beaucoup.",
+      "Pas encore.",
+      "C'est trop pimenté ?"
+     ],
+     "answer": "Clara, tu as mangé ?",
+     "reveal": "<i>Clara kǐn-khâo lɛ̏ɛw bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຍັງເທື່ອເຈົ້າ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Pas encore.",
+      "Non, c'est parfait.",
+      "Viens manger avec nous !",
+      "Oui. C'est très bon !"
+     ],
+     "answer": "Pas encore.",
+     "reveal": "<i>Nyáng thʉ̄a jâo.</i>"
+    },
+    {
+     "audio": [
+      "ມາກິນເຂົ້ານຳກັນເດີ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Viens manger avec nous !",
+      "C'est vrai ? Merci beaucoup.",
+      "Tu sais manger le riz gluant ?",
+      "Oui. C'est très bon !"
+     ],
+     "answer": "Viens manger avec nous !",
+     "reveal": "<i>Máa kǐn-khâo nám kǎn dɤ̌ɤ!</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້ບໍ? ຂອບໃຈຫຼາຍໆ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'est vrai ? Merci beaucoup.",
+      "Pas encore.",
+      "Tu sais manger le riz gluant ?",
+      "Non, c'est parfait."
+     ],
+     "answer": "C'est vrai ? Merci beaucoup.",
+     "reveal": "<i>Dâay bɔ̌ɔ? Khɔ̏ɔp-jǎy lǎay-lǎay.</i>"
+    },
+    {
+     "audio": [
+      "ກິນເຂົ້າໜຽວເປັນບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu sais manger le riz gluant ?",
+      "Clara, tu as mangé ?",
+      "Non, c'est parfait.",
+      "Oui. C'est très bon !"
+     ],
+     "answer": "Tu sais manger le riz gluant ?",
+     "reveal": "<i>Kǐn khâo-nǐaw pěn bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ເປັນເຈົ້າ ແຊບຫຼາຍ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oui. C'est très bon !",
+      "Tu sais manger le riz gluant ?",
+      "Pas encore.",
+      "Non, c'est parfait."
+     ],
+     "answer": "Oui. C'est très bon !",
+     "reveal": "<i>Pěn jâo. Sɛ̂ɛp lǎay!</i>"
+    },
+    {
+     "audio": [
+      "ເຜັດບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'est trop pimenté ?",
+      "C'est vrai ? Merci beaucoup.",
+      "Oui. C'est très bon !",
+      "Non, c'est parfait."
+     ],
+     "answer": "C'est trop pimenté ?",
+     "reveal": "<i>Phēt bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ເຜັດ ພໍດີ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Non, c'est parfait.",
+      "C'est vrai ? Merci beaucoup.",
+      "Viens manger avec nous !",
+      "Clara, tu as mangé ?"
+     ],
+     "answer": "Non, c'est parfait.",
+     "reveal": "<i>Bɔ̀ɔ phēt. Phɔ́ɔ-dǐi.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ກິນເຂົ້າແລ້ວບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tu as mangé ?",
+      "C'est bon ?",
+      "C'est très bon !",
+      "Pas encore."
+     ],
+     "answer": "Tu as mangé ?",
+     "reveal": "<i>Kǐn-khâo lɛ̏ɛw bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຍັງເທື່ອ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Pas encore.",
+      "C'est très bon !",
+      "Ce n'est pas pimenté.",
+      "Tu as mangé ?"
+     ],
+     "answer": "Pas encore.",
+     "reveal": "<i>Nyáng thʉ̄a.</i>"
+    },
+    {
+     "audio": [
+      "ແຊບບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est bon ?",
+      "C'est très bon !",
+      "Ce n'est pas pimenté.",
+      "Tu as mangé ?"
+     ],
+     "answer": "C'est bon ?",
+     "reveal": "<i>Sɛ̂ɛp bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ແຊບຫຼາຍ!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est très bon !",
+      "Tu as mangé ?",
+      "C'est bon ?",
+      "Ce n'est pas pimenté."
+     ],
+     "answer": "C'est très bon !",
+     "reveal": "<i>Sɛ̂ɛp lǎay!</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ເຜັດ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Ce n'est pas pimenté.",
+      "Pas encore.",
+      "Tu as mangé ?",
+      "C'est bon ?"
+     ],
+     "answer": "Ce n'est pas pimenté.",
+     "reveal": "<i>Bɔ̀ɔ phēt.</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est vrai ?",
+      "C'est très bon !",
+      "C'est bon ?",
+      "Pas encore."
+     ],
+     "answer": "C'est vrai ?",
+     "reveal": "<i>Mɛ̄ɛn bɔ̌ɔ?</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ບໍ",
+   "rom": "Bɔ̌ɔ",
+   "fr": "? (question oui/non)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່",
+   "rom": "Bɔ̀ɔ",
+   "fr": "ne… pas",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແລ້ວບໍ",
+   "rom": "Lɛ̏ɛw bɔ̌ɔ",
+   "fr": "déjà ? (c'est fait ?)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍັງ",
+   "rom": "Nyáng",
+   "fr": "pas encore ; encore",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແມ່ນບໍ",
+   "rom": "Mɛ̄ɛn bɔ̌ɔ",
+   "fr": "c'est vrai ? n'est-ce pas ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກິນເຂົ້າ",
+   "rom": "Kǐn-khâo",
+   "fr": "manger (litt. manger du riz)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຂົ້າໜຽວ",
+   "rom": "Khâo-nǐaw",
+   "fr": "riz gluant",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແຊບ",
+   "rom": "Sɛ̂ɛp",
+   "fr": "bon (au goût)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຜັດ",
+   "rom": "Phēt",
+   "fr": "pimenté",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພໍດີ",
+   "rom": "Phɔ́ɔ-dǐi",
+   "fr": "juste bien, parfait",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເປັນ",
+   "rom": "Pěn",
+   "fr": "savoir faire (une habileté)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນຳກັນ",
+   "rom": "Nám-kǎn",
+   "fr": "ensemble",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກິນເຂົ້າແລ້ວບໍ?",
+   "rom": "Kǐn-khâo lɛ̏ɛw bɔ̌ɔ?",
+   "fr": "Tu as mangé ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍັງເທື່ອ",
+   "rom": "Nyáng thʉ̄a.",
+   "fr": "Pas encore.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແຊບບໍ?",
+   "rom": "Sɛ̂ɛp bɔ̌ɔ?",
+   "fr": "C'est bon ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແຊບຫຼາຍ!",
+   "rom": "Sɛ̂ɛp lǎay!",
+   "fr": "C'est très bon !",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ເຜັດ",
+   "rom": "Bɔ̀ɔ phēt.",
+   "fr": "Ce n'est pas pimenté.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແມ່ນບໍ?",
+   "rom": "Mɛ̄ɛn bɔ̌ɔ?",
+   "fr": "C'est vrai ?",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ກິນເຂົ້າ",
+    "ແລ້ວ",
+    "ບໍ"
+   ],
+   "rom": "Kǐn-khâo lɛ̏ɛw bɔ̌ɔ?",
+   "fr": "Tu as mangé ?"
+  },
+  {
+   "tokens": [
+    "ຍັງ",
+    "ເທື່ອ"
+   ],
+   "rom": "Nyáng thʉ̄a.",
+   "fr": "Pas encore."
+  },
+  {
+   "tokens": [
+    "ແຊບ",
+    "ບໍ"
+   ],
+   "rom": "Sɛ̂ɛp bɔ̌ɔ?",
+   "fr": "C'est bon ?"
+  },
+  {
+   "tokens": [
+    "ແຊບ",
+    "ຫຼາຍ"
+   ],
+   "rom": "Sɛ̂ɛp lǎay!",
+   "fr": "C'est très bon !"
+  },
+  {
+   "tokens": [
+    "ບໍ່",
+    "ເຜັດ"
+   ],
+   "rom": "Bɔ̀ɔ phēt.",
+   "fr": "Ce n'est pas pimenté."
+  },
+  {
+   "tokens": [
+    "ແມ່ນ",
+    "ບໍ"
+   ],
+   "rom": "Mɛ̄ɛn bɔ̌ɔ?",
+   "fr": "C'est vrai ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ບໍ",
+   "rom": "Bɔ̌ɔ",
+   "fr": "? (question oui/non)"
+  },
+  {
+   "lao": "ບໍ່",
+   "rom": "Bɔ̀ɔ",
+   "fr": "ne… pas"
+  },
+  {
+   "lao": "ແລ້ວບໍ",
+   "rom": "Lɛ̏ɛw bɔ̌ɔ",
+   "fr": "déjà ? (c'est fait ?)"
+  },
+  {
+   "lao": "ຍັງ",
+   "rom": "Nyáng",
+   "fr": "pas encore ; encore"
+  },
+  {
+   "lao": "ແມ່ນບໍ",
+   "rom": "Mɛ̄ɛn bɔ̌ɔ",
+   "fr": "c'est vrai ? n'est-ce pas ?"
+  },
+  {
+   "lao": "ກິນເຂົ້າ",
+   "rom": "Kǐn-khâo",
+   "fr": "manger (litt. manger du riz)"
+  },
+  {
+   "lao": "ເຂົ້າໜຽວ",
+   "rom": "Khâo-nǐaw",
+   "fr": "riz gluant"
+  },
+  {
+   "lao": "ແຊບ",
+   "rom": "Sɛ̂ɛp",
+   "fr": "bon (au goût)"
+  },
+  {
+   "lao": "ເຜັດ",
+   "rom": "Phēt",
+   "fr": "pimenté"
+  },
+  {
+   "lao": "ພໍດີ",
+   "rom": "Phɔ́ɔ-dǐi",
+   "fr": "juste bien, parfait"
+  },
+  {
+   "lao": "ເປັນ",
+   "rom": "Pěn",
+   "fr": "savoir faire (une habileté)"
+  },
+  {
+   "lao": "ນຳກັນ",
+   "rom": "Nám-kǎn",
+   "fr": "ensemble"
+  }
+ ],
+ "sounds": {
+  "ອ້າຍ": "Âay",
+  "ເຈົ້າຊື່ຫຍັງ": "Jâo sʉ̄ʉ nyǎng?",
+  "ຄລາຣາກິນເຂົ້າແລ້ວບໍ": "Clara kǐn-khâo lɛ̏ɛw bɔ̌ɔ?",
+  "ຍັງເທື່ອເຈົ້າ": "Nyáng thʉ̄a jâo.",
+  "ມາກິນເຂົ້ານຳກັນເດີ": "Máa kǐn-khâo nám kǎn dɤ̌ɤ!",
+  "ໄດ້ບໍ ຂອບໃຈຫຼາຍໆ": "Dâay bɔ̌ɔ? Khɔ̏ɔp-jǎy lǎay-lǎay.",
+  "ກິນເຂົ້າໜຽວເປັນບໍ": "Kǐn khâo-nǐaw pěn bɔ̌ɔ?",
+  "ເປັນເຈົ້າ ແຊບຫຼາຍ": "Pěn jâo. Sɛ̂ɛp lǎay!",
+  "ເຜັດບໍ": "Phēt bɔ̌ɔ?",
+  "ບໍ່ເຜັດ ພໍດີ": "Bɔ̀ɔ phēt. Phɔ́ɔ-dǐi.",
+  "ບໍ": "bɔ̌ɔ",
+  "ບໍ່": "bɔ̀ɔ",
+  "ແລ້ວບໍ": "Lɛ̏ɛw bɔ̌ɔ",
+  "ຍັງ": "nyáng",
+  "ແມ່ນບໍ": "Mɛ̄ɛn bɔ̌ɔ?",
+  "ກິນເຂົ້າ": "kǐn-khâo",
+  "ເຂົ້າໜຽວ": "Khâo-nǐaw",
+  "ແຊບ": "sɛ̂ɛp",
+  "ເຜັດ": "phēt",
+  "ພໍດີ": "Phɔ́ɔ-dǐi",
+  "ເປັນ": "Pěn",
+  "ນຳກັນ": "Nám-kǎn",
+  "ກິນເຂົ້າແລ້ວບໍ": "Kǐn-khâo lɛ̏ɛw bɔ̌ɔ?",
+  "ກິນແລ້ວ": "Kǐn lɛ̏ɛw",
+  "ແຊບບໍ": "Sɛ̂ɛp bɔ̌ɔ?",
+  "ບໍ່ເຜັດ": "Bɔ̀ɔ phēt.",
+  "ຍັງເທື່ອ": "Nyáng thʉ̄a.",
+  "ແຊບຫຼາຍ": "Sɛ̂ɛp lǎay!",
+  "ແລ້ວ": "lɛ̏ɛw",
+  "ເທື່ອ": "thʉ̄a",
+  "ຫຼາຍ": "lǎay",
+  "ແມ່ນ": "mɛ̄ɛn"
+ },
+ "suivi": "LEÇON : 5 — Partie A (Fondations, A0) · Bilan sons et tons · Questions oui/non\nOBJECTIF : Poser et répondre à des questions fermées (oui/non, déjà/pas encore) et tenir un petit échange.\nNOTION : les questions fermées\nVOCAB : Bɔ̌ɔ, Bɔ̀ɔ, Lɛ̏ɛw bɔ̌ɔ, Nyáng, Mɛ̄ɛn bɔ̌ɔ, Kǐn-khâo, Khâo-nǐaw, Sɛ̂ɛp, Phēt, Phɔ́ɔ-dǐi, Pěn, Nám-kǎn\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 6 — Consonnes de classe moyenne (1)"
+}

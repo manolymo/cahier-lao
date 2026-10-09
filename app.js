@@ -172,7 +172,7 @@
       const written = new Map(LESSONS.map((l) => [l.num, l]));
       const row = (x) => {
         const l = written.get(x.num);
-        if (l) return `<button class="lrow" data-id="${l.id}"><span class="lnum">${String(x.num).padStart(2, "0")}</span><span class="ltitle">${esc(l.title)}<small>${esc(x.task)}</small></span><span class="chip ${S.done[l.id] ? "done" : ""}">${S.done[l.id] ? "Faite" : "À faire"}</span></button>`;
+        if (l) return `<button class="lrow" data-id="${l.id}"><span class="lnum">${String(x.num).padStart(2, "0")}</span><span class="ltitle">${esc(l.title)}<small>${esc(x.task)}</small></span><span class="chip ${S.done[l.id] ? "done" : ""}">${S.done[l.id] ? "Faite" : l.draft ? "Brouillon" : "À faire"}</span></button>`;
         return `<button class="lrow lplan" data-plan="${x.num}"><span class="lnum">${String(x.num).padStart(2, "0")}</span><span class="ltitle">${esc(x.title)}<small>${esc(x.task)}</small></span><span class="chip">En rédaction</span></button>`;
       };
       const parts = PROGRAMME ? PROGRAMME.parts : [{ key: "", title: "Leçons", level: "", goal: "", lessons: LESSONS.map((l) => ({ num: l.num, title: l.title, task: l.phase || "" })) }];

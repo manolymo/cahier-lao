@@ -1,0 +1,812 @@
+{
+ "num": 4,
+ "phase": "Partie A · Fondations",
+ "title": "ng, ny et les pronoms",
+ "objective": "Parler de toi, de l'autre et d'un tiers en choisissant le bon pronom selon la personne.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>habiter ; se trouver <small class=\"muted\">(leçon 3)</small></li><li>pareillement, aussi <small class=\"muted\">(leçon 1)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຢູ່</span> <span class=\"rom\">Yùu</span> · habiter ; se trouver</li><li><span class=\"lo\">ຄືກັນ</span> <span class=\"rom\">Khʉ́ʉ-kǎn</span> · pareillement, aussi</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Parler de toi, de l&#x27;autre et d&#x27;un tiers en choisissant le bon pronom selon la personne.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Kèo, le petit frère de Noy, arrive.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຄລາຣາ ນີ້ແມ່ນນ້ອງຊາຍຂອງຂ້ອຍ</span><span class=\"rom\">Clara, nȉi mɛ̄ɛn nɔ̏ɔng-sáay khɔ̌ɔng khɔ̂ɔy.</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ສະບາຍດີເອື້ອຍ!</span><span class=\"rom\">Sā-bǎay-dǐi ʉ̂ay!</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສະບາຍດີນ້ອງ ນ້ອງຊື່ຫຍັງ?</span><span class=\"rom\">Sā-bǎay-dǐi nɔ̏ɔng. Nɔ̏ɔng sʉ̄ʉ nyǎng?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຂ້ອຍຊື່ແກ້ວ ເອື້ອຍເວົ້າລາວໄດ້ບໍ?</span><span class=\"rom\">Khɔ̂ɔy sʉ̄ʉ kɛ̂ɛw. Ʉ̂ay wȁo-láaw dâay bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໄດ້ໜ້ອຍໜຶ່ງ ພວກເຈົ້າເວົ້າພາສາຝຣັ່ງໄດ້ບໍ?</span><span class=\"rom\">Dâay nɔ̂ɔy nʉ̀ng. Phûak-jâo wȁo pháa-sǎa-fa-làng dâay bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຂ້ອຍໄດ້ໜ້ອຍໜຶ່ງ ແກ້ວບໍ່ໄດ້</span><span class=\"rom\">Khɔ̂ɔy dâay nɔ̂ɔy nʉ̀ng. Kɛ̂ɛw bɔ̀ɔ dâay.</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ແຕ່ເຮົາເວົ້າພາສາອັງກິດໄດ້ເດີ!</span><span class=\"rom\">Tɛ̀ɛ háo wȁo pháa-sǎa-ǎng-kít dâay dɤ̌ɤ!</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເກັ່ງແທ້!</span><span class=\"rom\">Kèng thɛ̏ɛ!</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Clara, voici mon petit frère.<br><b>Kèo</b> — Salut grande sœur !<br><b>Clara</b> — Salut. Comment tu t&#x27;appelles ?<br><b>Kèo</b> — Je m&#x27;appelle Kèo. Tu parles lao ?<br><b>Clara</b> — Un peu. Et vous, vous parlez français ?<br><b>Noy</b> — Moi un peu. Kèo, non.<br><b>Kèo</b> — Mais moi, je parle anglais, hein !<br><b>Clara</b> — Bravo !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Qui est Kèo pour Noy ?</li><li>Comment Kèo appelle-t-il Clara ?</li><li>Quelle langue parle Kèo ?</li></ol><details><summary>Réponses</summary><ol><li>Son petit frère : ນ້ອງຊາຍ.</li><li>ເອື້ອຍ — grande sœur, car elle est plus âgée.</li><li>L&#x27;anglais.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຂ້ອຍ</td><td class=\"rom\">Khɔ̂ɔy</td><td>je</td><td>neutre</td></tr><tr><td class=\"lo\">ເຈົ້າ</td><td class=\"rom\">Jâo</td><td>tu, vous</td><td>poli</td></tr><tr><td class=\"lo\">ລາວ</td><td class=\"rom\">Láaw</td><td>il, elle</td><td>neutre</td></tr><tr><td class=\"lo\">ພວກເຮົາ</td><td class=\"rom\">Phûak-háo</td><td>nous</td><td></td></tr><tr><td class=\"lo\">ເຮົາ</td><td class=\"rom\">Háo</td><td>je, nous</td><td>familier, entre proches</td></tr><tr><td class=\"lo\">ພວກເຈົ້າ</td><td class=\"rom\">Phûak-jâo</td><td>vous (pluriel)</td><td></td></tr><tr><td class=\"lo\">ພວກລາວ</td><td class=\"rom\">Phûak-láaw</td><td>ils, elles</td><td></td></tr><tr><td class=\"lo\">ເອື້ອຍ</td><td class=\"rom\">Ʉ̂ay</td><td>grande sœur ; toi (femme plus âgée)</td><td>terme d&#x27;adresse</td></tr><tr><td class=\"lo\">ນ້ອງ</td><td class=\"rom\">Nɔ̏ɔng</td><td>cadet(te) ; toi (plus jeune)</td><td>terme d&#x27;adresse</td></tr><tr><td class=\"lo\">ອ້າຍ</td><td class=\"rom\">Âay</td><td>grand frère ; toi (homme plus âgé)</td><td>terme d&#x27;adresse</td></tr><tr><td class=\"lo\">ນ້ອງຊາຍ</td><td class=\"rom\">Nɔ̏ɔng-sáay</td><td>petit frère</td><td></td></tr><tr><td class=\"lo\">ໄດ້</td><td class=\"rom\">Dâay</td><td>pouvoir, savoir faire</td><td>après le verbe : ເວົ້າລາວໄດ້</td></tr></table></div><p class=\"note\">Au lieu de « tu », on utilise très souvent un terme de parenté selon l'âge : ອ້າຍ, ເອື້ອຍ pour quelqu'un de plus âgé, ນ້ອງ pour quelqu'un de plus jeune. Les pronoms ກູ et ມຶງ existent mais sont très familiers, voire vulgaires : à comprendre, pas à utiliser.</p>"
+  },
+  {
+   "title": "Point de langue : pronoms et termes d'adresse",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ເອື້ອຍເວົ້າລາວໄດ້ບໍ?</span> <span class=\"rom\">Ʉ̂ay wȁo-láaw dâay bɔ̌ɔ?</span> = tu (grande sœur) parles lao ?</li><li><span class=\"lo\">ນ້ອງຊື່ຫຍັງ?</span> <span class=\"rom\">Nɔ̏ɔng sʉ̄ʉ nyǎng?</span> = tu (le petit) t&#x27;appelles comment ?</li><li><span class=\"lo\">ລາວແມ່ນຄົນລາວ</span> <span class=\"rom\">Láaw mɛ̄ɛn khón-láaw</span> = il est lao</li><li><span class=\"lo\">ພວກເຮົາຢູ່ວຽງຈັນ</span> <span class=\"rom\">Phûak-háo yùu wíang-jǎn</span> = nous habitons à Vientiane</li></ul><p><b>À toi de trouver :</b></p><ol><li>Comment Clara dit-elle « tu » à Kèo ? Pourquoi ?</li><li>Le verbe change-t-il avec le pronom ?</li></ol><details><summary>La règle</summary><p>Les pronoms lao dépendent de la relation et de l'âge. Le plus naturel est souvent un terme de parenté (ອ້າຍ, ເອື້ອຍ, ນ້ອງ) utilisé comme « tu » ou « je ». ເຈົ້າ est poli et neutre. Le verbe ne change jamais.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> le son ng en début de mot et le son ny (comme « gn » d&#x27;agneau) dans ນ້ອງ et ຫຍັງ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Tu parles lao ? (à un aîné, homme)</li><li>Je parle un peu lao.</li><li>Il est lao.</li><li>Nous habitons à Vientiane.</li><li>Voici mon petit frère.</li><li>Bravo !</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ອ້າຍເວົ້າລາວໄດ້ບໍ?</span> <span class=\"rom\">Âay wȁo-láaw dâay bɔ̌ɔ?</span></li><li><span class=\"lo\">ຂ້ອຍເວົ້າລາວໄດ້ໜ້ອຍໜຶ່ງ</span> <span class=\"rom\">Khɔ̂ɔy wȁo-láaw dâay nɔ̂ɔy nʉ̀ng.</span></li><li><span class=\"lo\">ລາວແມ່ນຄົນລາວ</span> <span class=\"rom\">Láaw mɛ̄ɛn khón-láaw.</span></li><li><span class=\"lo\">ພວກເຮົາຢູ່ວຽງຈັນ</span> <span class=\"rom\">Phûak-háo yùu wíang-jǎn.</span></li><li><span class=\"lo\">ນີ້ແມ່ນນ້ອງຊາຍຂອງຂ້ອຍ</span> <span class=\"rom\">Nȉi mɛ̄ɛn nɔ̏ɔng-sáay khɔ̌ɔng khɔ̂ɔy.</span></li><li><span class=\"lo\">ເກັ່ງແທ້!</span> <span class=\"rom\">Kèng thɛ̏ɛ!</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p><p><b>C. Jeu de rôle.</b> Réponds à voix haute, puis écris ta réponse à Claude :</p><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ເອື້ອຍເວົ້າລາວໄດ້ບໍ?</span><span class=\"rom\">Ʉ̂ay wȁo-láaw dâay bɔ̌ɔ?</span></div></div><p class=\"muted\">(Tu parles lao ?)</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Pour chaque personne, choisis le bon terme d&#x27;adresse : un homme de 40 ans, une fille de 10 ans, une femme de 30 ans.</li><li>Écris 4 phrases avec ຂ້ອຍ, ລາວ, ພວກເຮົາ, ພວກເຂົາ.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Présente un membre de ta famille ou un ami à un locuteur lao, en utilisant le bon terme d&#x27;adresse.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>18 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l04-v01",
+   "front": "ຂ້ອຍ",
+   "back": "Khɔ̂ɔy · je"
+  },
+  {
+   "id": "l04-v02",
+   "front": "ເຈົ້າ",
+   "back": "Jâo · tu, vous"
+  },
+  {
+   "id": "l04-v03",
+   "front": "ລາວ",
+   "back": "Láaw · il, elle"
+  },
+  {
+   "id": "l04-v04",
+   "front": "ພວກເຮົາ",
+   "back": "Phûak-háo · nous"
+  },
+  {
+   "id": "l04-v05",
+   "front": "ເຮົາ",
+   "back": "Háo · je, nous"
+  },
+  {
+   "id": "l04-v06",
+   "front": "ພວກເຈົ້າ",
+   "back": "Phûak-jâo · vous (pluriel)"
+  },
+  {
+   "id": "l04-v07",
+   "front": "ພວກລາວ",
+   "back": "Phûak-láaw · ils, elles"
+  },
+  {
+   "id": "l04-v08",
+   "front": "ເອື້ອຍ",
+   "back": "Ʉ̂ay · grande sœur ; toi (femme plus âgée)"
+  },
+  {
+   "id": "l04-v09",
+   "front": "ນ້ອງ",
+   "back": "Nɔ̏ɔng · cadet(te) ; toi (plus jeune)"
+  },
+  {
+   "id": "l04-v10",
+   "front": "ອ້າຍ",
+   "back": "Âay · grand frère ; toi (homme plus âgé)"
+  },
+  {
+   "id": "l04-v11",
+   "front": "ນ້ອງຊາຍ",
+   "back": "Nɔ̏ɔng-sáay · petit frère"
+  },
+  {
+   "id": "l04-v12",
+   "front": "ໄດ້",
+   "back": "Dâay · pouvoir, savoir faire"
+  },
+  {
+   "id": "l04-p01",
+   "front": "Tu parles lao ? (à un aîné, homme)",
+   "back": "ອ້າຍເວົ້າລາວໄດ້ບໍ? · Âay wȁo-láaw dâay bɔ̌ɔ?"
+  },
+  {
+   "id": "l04-p02",
+   "front": "Je parle un peu lao.",
+   "back": "ຂ້ອຍເວົ້າລາວໄດ້ໜ້ອຍໜຶ່ງ · Khɔ̂ɔy wȁo-láaw dâay nɔ̂ɔy nʉ̀ng."
+  },
+  {
+   "id": "l04-p03",
+   "front": "Il est lao.",
+   "back": "ລາວແມ່ນຄົນລາວ · Láaw mɛ̄ɛn khón-láaw."
+  },
+  {
+   "id": "l04-p04",
+   "front": "Nous habitons à Vientiane.",
+   "back": "ພວກເຮົາຢູ່ວຽງຈັນ · Phûak-háo yùu wíang-jǎn."
+  },
+  {
+   "id": "l04-p05",
+   "front": "Voici mon petit frère.",
+   "back": "ນີ້ແມ່ນນ້ອງຊາຍຂອງຂ້ອຍ · Nȉi mɛ̄ɛn nɔ̏ɔng-sáay khɔ̌ɔng khɔ̂ɔy."
+  },
+  {
+   "id": "l04-p06",
+   "front": "Bravo !",
+   "back": "ເກັ່ງແທ້! · Kèng thɛ̏ɛ!"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້ອຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "je",
+      "grande sœur ; toi (femme plus âgée)",
+      "nous",
+      "pouvoir, savoir faire"
+     ],
+     "answer": "je",
+     "reveal": "<i>Khɔ̂ɔy</i>"
+    },
+    {
+     "audio": [
+      "ເຈົ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "tu, vous",
+      "cadet(te) ; toi (plus jeune)",
+      "grande sœur ; toi (femme plus âgée)",
+      "il, elle"
+     ],
+     "answer": "tu, vous",
+     "reveal": "<i>Jâo</i>"
+    },
+    {
+     "audio": [
+      "ລາວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "il, elle",
+      "grande sœur ; toi (femme plus âgée)",
+      "tu, vous",
+      "cadet(te) ; toi (plus jeune)"
+     ],
+     "answer": "il, elle",
+     "reveal": "<i>Láaw</i>"
+    },
+    {
+     "audio": [
+      "ພວກເຮົາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "nous",
+      "il, elle",
+      "cadet(te) ; toi (plus jeune)",
+      "grande sœur ; toi (femme plus âgée)"
+     ],
+     "answer": "nous",
+     "reveal": "<i>Phûak-háo</i>"
+    },
+    {
+     "audio": [
+      "ເຮົາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "je, nous",
+      "petit frère",
+      "cadet(te) ; toi (plus jeune)",
+      "pouvoir, savoir faire"
+     ],
+     "answer": "je, nous",
+     "reveal": "<i>Háo</i>"
+    },
+    {
+     "audio": [
+      "ພວກເຈົ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "vous (pluriel)",
+      "je, nous",
+      "petit frère",
+      "il, elle"
+     ],
+     "answer": "vous (pluriel)",
+     "reveal": "<i>Phûak-jâo</i>"
+    },
+    {
+     "audio": [
+      "ພວກລາວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ils, elles",
+      "grand frère ; toi (homme plus âgé)",
+      "je",
+      "grande sœur ; toi (femme plus âgée)"
+     ],
+     "answer": "ils, elles",
+     "reveal": "<i>Phûak-láaw</i>"
+    },
+    {
+     "audio": [
+      "ເອື້ອຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "grande sœur ; toi (femme plus âgée)",
+      "nous",
+      "il, elle",
+      "je, nous"
+     ],
+     "answer": "grande sœur ; toi (femme plus âgée)",
+     "reveal": "<i>Ʉ̂ay</i>"
+    },
+    {
+     "audio": [
+      "ນ້ອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "cadet(te) ; toi (plus jeune)",
+      "ils, elles",
+      "je, nous",
+      "il, elle"
+     ],
+     "answer": "cadet(te) ; toi (plus jeune)",
+     "reveal": "<i>Nɔ̏ɔng</i>"
+    },
+    {
+     "audio": [
+      "ອ້າຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "grand frère ; toi (homme plus âgé)",
+      "je",
+      "il, elle",
+      "tu, vous"
+     ],
+     "answer": "grand frère ; toi (homme plus âgé)",
+     "reveal": "<i>Âay</i>"
+    },
+    {
+     "audio": [
+      "ນ້ອງຊາຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "petit frère",
+      "vous (pluriel)",
+      "nous",
+      "je, nous"
+     ],
+     "answer": "petit frère",
+     "reveal": "<i>Nɔ̏ɔng-sáay</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pouvoir, savoir faire",
+      "tu, vous",
+      "grande sœur ; toi (femme plus âgée)",
+      "petit frère"
+     ],
+     "answer": "pouvoir, savoir faire",
+     "reveal": "<i>Dâay</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຄລາຣາ ນີ້ແມ່ນນ້ອງຊາຍຂອງຂ້ອຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Clara, voici mon petit frère.",
+      "Mais moi, je parle anglais, hein !",
+      "Bravo !",
+      "Moi un peu. Kèo, non."
+     ],
+     "answer": "Clara, voici mon petit frère.",
+     "reveal": "<i>Clara, nȉi mɛ̄ɛn nɔ̏ɔng-sáay khɔ̌ɔng khɔ̂ɔy.</i>"
+    },
+    {
+     "audio": [
+      "ສະບາຍດີເອື້ອຍ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Salut grande sœur !",
+      "Moi un peu. Kèo, non.",
+      "Un peu. Et vous, vous parlez français ?",
+      "Mais moi, je parle anglais, hein !"
+     ],
+     "answer": "Salut grande sœur !",
+     "reveal": "<i>Sā-bǎay-dǐi ʉ̂ay!</i>"
+    },
+    {
+     "audio": [
+      "ສະບາຍດີນ້ອງ ນ້ອງຊື່ຫຍັງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Salut. Comment tu t'appelles ?",
+      "Un peu. Et vous, vous parlez français ?",
+      "Bravo !",
+      "Clara, voici mon petit frère."
+     ],
+     "answer": "Salut. Comment tu t'appelles ?",
+     "reveal": "<i>Sā-bǎay-dǐi nɔ̏ɔng. Nɔ̏ɔng sʉ̄ʉ nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຊື່ແກ້ວ ເອື້ອຍເວົ້າລາວໄດ້ບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je m'appelle Kèo. Tu parles lao ?",
+      "Salut grande sœur !",
+      "Salut. Comment tu t'appelles ?",
+      "Clara, voici mon petit frère."
+     ],
+     "answer": "Je m'appelle Kèo. Tu parles lao ?",
+     "reveal": "<i>Khɔ̂ɔy sʉ̄ʉ kɛ̂ɛw. Ʉ̂ay wȁo-láaw dâay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້ໜ້ອຍໜຶ່ງ ພວກເຈົ້າເວົ້າພາສາຝຣັ່ງໄດ້ບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Un peu. Et vous, vous parlez français ?",
+      "Salut. Comment tu t'appelles ?",
+      "Mais moi, je parle anglais, hein !",
+      "Bravo !"
+     ],
+     "answer": "Un peu. Et vous, vous parlez français ?",
+     "reveal": "<i>Dâay nɔ̂ɔy nʉ̀ng. Phûak-jâo wȁo pháa-sǎa-fa-làng dâay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍໄດ້ໜ້ອຍໜຶ່ງ ແກ້ວບໍ່ໄດ້"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Moi un peu. Kèo, non.",
+      "Un peu. Et vous, vous parlez français ?",
+      "Salut grande sœur !",
+      "Je m'appelle Kèo. Tu parles lao ?"
+     ],
+     "answer": "Moi un peu. Kèo, non.",
+     "reveal": "<i>Khɔ̂ɔy dâay nɔ̂ɔy nʉ̀ng. Kɛ̂ɛw bɔ̀ɔ dâay.</i>"
+    },
+    {
+     "audio": [
+      "ແຕ່ເຮົາເວົ້າພາສາອັງກິດໄດ້ເດີ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Mais moi, je parle anglais, hein !",
+      "Clara, voici mon petit frère.",
+      "Salut. Comment tu t'appelles ?",
+      "Moi un peu. Kèo, non."
+     ],
+     "answer": "Mais moi, je parle anglais, hein !",
+     "reveal": "<i>Tɛ̀ɛ háo wȁo pháa-sǎa-ǎng-kít dâay dɤ̌ɤ!</i>"
+    },
+    {
+     "audio": [
+      "ເກັ່ງແທ້!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Bravo !",
+      "Salut. Comment tu t'appelles ?",
+      "Je m'appelle Kèo. Tu parles lao ?",
+      "Moi un peu. Kèo, non."
+     ],
+     "answer": "Bravo !",
+     "reveal": "<i>Kèng thɛ̏ɛ!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ອ້າຍເວົ້າລາວໄດ້ບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tu parles lao ? (à un aîné, homme)",
+      "Il est lao.",
+      "Bravo !",
+      "Je parle un peu lao."
+     ],
+     "answer": "Tu parles lao ? (à un aîné, homme)",
+     "reveal": "<i>Âay wȁo-láaw dâay bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍເວົ້າລາວໄດ້ໜ້ອຍໜຶ່ງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je parle un peu lao.",
+      "Tu parles lao ? (à un aîné, homme)",
+      "Il est lao.",
+      "Bravo !"
+     ],
+     "answer": "Je parle un peu lao.",
+     "reveal": "<i>Khɔ̂ɔy wȁo-láaw dâay nɔ̂ɔy nʉ̀ng.</i>"
+    },
+    {
+     "audio": [
+      "ລາວແມ່ນຄົນລາວ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il est lao.",
+      "Nous habitons à Vientiane.",
+      "Bravo !",
+      "Tu parles lao ? (à un aîné, homme)"
+     ],
+     "answer": "Il est lao.",
+     "reveal": "<i>Láaw mɛ̄ɛn khón-láaw.</i>"
+    },
+    {
+     "audio": [
+      "ພວກເຮົາຢູ່ວຽງຈັນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Nous habitons à Vientiane.",
+      "Tu parles lao ? (à un aîné, homme)",
+      "Voici mon petit frère.",
+      "Il est lao."
+     ],
+     "answer": "Nous habitons à Vientiane.",
+     "reveal": "<i>Phûak-háo yùu wíang-jǎn.</i>"
+    },
+    {
+     "audio": [
+      "ນີ້ແມ່ນນ້ອງຊາຍຂອງຂ້ອຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Voici mon petit frère.",
+      "Il est lao.",
+      "Nous habitons à Vientiane.",
+      "Je parle un peu lao."
+     ],
+     "answer": "Voici mon petit frère.",
+     "reveal": "<i>Nȉi mɛ̄ɛn nɔ̏ɔng-sáay khɔ̌ɔng khɔ̂ɔy.</i>"
+    },
+    {
+     "audio": [
+      "ເກັ່ງແທ້!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Bravo !",
+      "Tu parles lao ? (à un aîné, homme)",
+      "Il est lao.",
+      "Nous habitons à Vientiane."
+     ],
+     "answer": "Bravo !",
+     "reveal": "<i>Kèng thɛ̏ɛ!</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຂ້ອຍ",
+   "rom": "Khɔ̂ɔy",
+   "fr": "je",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຈົ້າ",
+   "rom": "Jâo",
+   "fr": "tu, vous",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລາວ",
+   "rom": "Láaw",
+   "fr": "il, elle",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພວກເຮົາ",
+   "rom": "Phûak-háo",
+   "fr": "nous",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຮົາ",
+   "rom": "Háo",
+   "fr": "je, nous",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພວກເຈົ້າ",
+   "rom": "Phûak-jâo",
+   "fr": "vous (pluriel)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພວກລາວ",
+   "rom": "Phûak-láaw",
+   "fr": "ils, elles",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເອື້ອຍ",
+   "rom": "Ʉ̂ay",
+   "fr": "grande sœur ; toi (femme plus âgée)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນ້ອງ",
+   "rom": "Nɔ̏ɔng",
+   "fr": "cadet(te) ; toi (plus jeune)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອ້າຍ",
+   "rom": "Âay",
+   "fr": "grand frère ; toi (homme plus âgé)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນ້ອງຊາຍ",
+   "rom": "Nɔ̏ɔng-sáay",
+   "fr": "petit frère",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄດ້",
+   "rom": "Dâay",
+   "fr": "pouvoir, savoir faire",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອ້າຍເວົ້າລາວໄດ້ບໍ?",
+   "rom": "Âay wȁo-láaw dâay bɔ̌ɔ?",
+   "fr": "Tu parles lao ? (à un aîné, homme)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍເວົ້າລາວໄດ້ໜ້ອຍໜຶ່ງ",
+   "rom": "Khɔ̂ɔy wȁo-láaw dâay nɔ̂ɔy nʉ̀ng.",
+   "fr": "Je parle un peu lao.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລາວແມ່ນຄົນລາວ",
+   "rom": "Láaw mɛ̄ɛn khón-láaw.",
+   "fr": "Il est lao.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພວກເຮົາຢູ່ວຽງຈັນ",
+   "rom": "Phûak-háo yùu wíang-jǎn.",
+   "fr": "Nous habitons à Vientiane.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນີ້ແມ່ນນ້ອງຊາຍຂອງຂ້ອຍ",
+   "rom": "Nȉi mɛ̄ɛn nɔ̏ɔng-sáay khɔ̌ɔng khɔ̂ɔy.",
+   "fr": "Voici mon petit frère.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເກັ່ງແທ້!",
+   "rom": "Kèng thɛ̏ɛ!",
+   "fr": "Bravo !",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ອ້າຍ",
+    "ເວົ້າລາວ",
+    "ໄດ້",
+    "ບໍ"
+   ],
+   "rom": "Âay wȁo-láaw dâay bɔ̌ɔ?",
+   "fr": "Tu parles lao ? (à un aîné, homme)"
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ເວົ້າລາວ",
+    "ໄດ້",
+    "ໜ້ອຍ",
+    "ໜຶ່ງ"
+   ],
+   "rom": "Khɔ̂ɔy wȁo-láaw dâay nɔ̂ɔy nʉ̀ng.",
+   "fr": "Je parle un peu lao."
+  },
+  {
+   "tokens": [
+    "ລາວ",
+    "ແມ່ນ",
+    "ຄົນລາວ"
+   ],
+   "rom": "Láaw mɛ̄ɛn khón-láaw.",
+   "fr": "Il est lao."
+  },
+  {
+   "tokens": [
+    "ພວກເຮົາ",
+    "ຢູ່",
+    "ວຽງຈັນ"
+   ],
+   "rom": "Phûak-háo yùu wíang-jǎn.",
+   "fr": "Nous habitons à Vientiane."
+  },
+  {
+   "tokens": [
+    "ນີ້",
+    "ແມ່ນ",
+    "ນ້ອງຊາຍ",
+    "ຂອງ",
+    "ຂ້ອຍ"
+   ],
+   "rom": "Nȉi mɛ̄ɛn nɔ̏ɔng-sáay khɔ̌ɔng khɔ̂ɔy.",
+   "fr": "Voici mon petit frère."
+  },
+  {
+   "tokens": [
+    "ເກັ່ງ",
+    "ແທ້"
+   ],
+   "rom": "Kèng thɛ̏ɛ!",
+   "fr": "Bravo !"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຂ້ອຍ",
+   "rom": "Khɔ̂ɔy",
+   "fr": "je"
+  },
+  {
+   "lao": "ເຈົ້າ",
+   "rom": "Jâo",
+   "fr": "tu, vous"
+  },
+  {
+   "lao": "ລາວ",
+   "rom": "Láaw",
+   "fr": "il, elle"
+  },
+  {
+   "lao": "ພວກເຮົາ",
+   "rom": "Phûak-háo",
+   "fr": "nous"
+  },
+  {
+   "lao": "ເຮົາ",
+   "rom": "Háo",
+   "fr": "je, nous"
+  },
+  {
+   "lao": "ພວກເຈົ້າ",
+   "rom": "Phûak-jâo",
+   "fr": "vous (pluriel)"
+  },
+  {
+   "lao": "ພວກລາວ",
+   "rom": "Phûak-láaw",
+   "fr": "ils, elles"
+  },
+  {
+   "lao": "ເອື້ອຍ",
+   "rom": "Ʉ̂ay",
+   "fr": "grande sœur ; toi (femme plus âgée)"
+  },
+  {
+   "lao": "ນ້ອງ",
+   "rom": "Nɔ̏ɔng",
+   "fr": "cadet(te) ; toi (plus jeune)"
+  },
+  {
+   "lao": "ອ້າຍ",
+   "rom": "Âay",
+   "fr": "grand frère ; toi (homme plus âgé)"
+  },
+  {
+   "lao": "ນ້ອງຊາຍ",
+   "rom": "Nɔ̏ɔng-sáay",
+   "fr": "petit frère"
+  },
+  {
+   "lao": "ໄດ້",
+   "rom": "Dâay",
+   "fr": "pouvoir, savoir faire"
+  }
+ ],
+ "sounds": {
+  "ຢູ່": "yùu",
+  "ຄືກັນ": "Khʉ́ʉ-kǎn",
+  "ຄລາຣາ ນີ້ແມ່ນນ້ອງຊາຍຂອງຂ້ອຍ": "Clara, nȉi mɛ̄ɛn nɔ̏ɔng-sáay khɔ̌ɔng khɔ̂ɔy.",
+  "ສະບາຍດີເອື້ອຍ": "Sā-bǎay-dǐi ʉ̂ay!",
+  "ສະບາຍດີນ້ອງ ນ້ອງຊື່ຫຍັງ": "Sā-bǎay-dǐi nɔ̏ɔng. Nɔ̏ɔng sʉ̄ʉ nyǎng?",
+  "ຂ້ອຍຊື່ແກ້ວ ເອື້ອຍເວົ້າລາວໄດ້ບໍ": "Khɔ̂ɔy sʉ̄ʉ kɛ̂ɛw. Ʉ̂ay wȁo-láaw dâay bɔ̌ɔ?",
+  "ໄດ້ໜ້ອຍໜຶ່ງ ພວກເຈົ້າເວົ້າພາສາຝຣັ່ງໄດ້ບໍ": "Dâay nɔ̂ɔy nʉ̀ng. Phûak-jâo wȁo pháa-sǎa-fa-làng dâay bɔ̌ɔ?",
+  "ຂ້ອຍໄດ້ໜ້ອຍໜຶ່ງ ແກ້ວບໍ່ໄດ້": "Khɔ̂ɔy dâay nɔ̂ɔy nʉ̀ng. Kɛ̂ɛw bɔ̀ɔ dâay.",
+  "ແຕ່ເຮົາເວົ້າພາສາອັງກິດໄດ້ເດີ": "Tɛ̀ɛ háo wȁo pháa-sǎa-ǎng-kít dâay dɤ̌ɤ!",
+  "ເກັ່ງແທ້": "Kèng thɛ̏ɛ!",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ເຈົ້າ": "Jâo",
+  "ລາວ": "láaw",
+  "ພວກເຮົາ": "phûak-háo",
+  "ເຮົາ": "Háo",
+  "ພວກເຈົ້າ": "Phûak-jâo",
+  "ພວກລາວ": "Phûak-láaw",
+  "ເອື້ອຍ": "Ʉ̂ay",
+  "ນ້ອງ": "Nɔ̏ɔng",
+  "ອ້າຍ": "âay",
+  "ນ້ອງຊາຍ": "nɔ̏ɔng-sáay",
+  "ໄດ້": "dâay",
+  "ເອື້ອຍເວົ້າລາວໄດ້ບໍ": "Ʉ̂ay wȁo-láaw dâay bɔ̌ɔ?",
+  "ນ້ອງຊື່ຫຍັງ": "Nɔ̏ɔng sʉ̄ʉ nyǎng?",
+  "ລາວແມ່ນຄົນລາວ": "Láaw mɛ̄ɛn khón-láaw.",
+  "ພວກເຮົາຢູ່ວຽງຈັນ": "Phûak-háo yùu wíang-jǎn.",
+  "ອ້າຍເວົ້າລາວໄດ້ບໍ": "Âay wȁo-láaw dâay bɔ̌ɔ?",
+  "ຂ້ອຍເວົ້າລາວໄດ້ໜ້ອຍໜຶ່ງ": "Khɔ̂ɔy wȁo-láaw dâay nɔ̂ɔy nʉ̀ng.",
+  "ນີ້ແມ່ນນ້ອງຊາຍຂອງຂ້ອຍ": "Nȉi mɛ̄ɛn nɔ̏ɔng-sáay khɔ̌ɔng khɔ̂ɔy.",
+  "ເວົ້າລາວ": "wȁo-láaw",
+  "ບໍ": "bɔ̌ɔ",
+  "ໜ້ອຍ": "nɔ̂ɔy",
+  "ໜຶ່ງ": "nʉ̀ng",
+  "ແມ່ນ": "mɛ̄ɛn",
+  "ຄົນລາວ": "khón-láaw",
+  "ວຽງຈັນ": "wíang-jǎn",
+  "ນີ້": "nȉi",
+  "ຂອງ": "khɔ̌ɔng",
+  "ເກັ່ງ": "kèng",
+  "ແທ້": "thɛ̏ɛ"
+ },
+ "suivi": "LEÇON : 4 — Partie A (Fondations, A0) · ng, ny et les pronoms\nOBJECTIF : Parler de toi, de l'autre et d'un tiers en choisissant le bon pronom selon la personne.\nNOTION : pronoms et termes d'adresse\nVOCAB : Khɔ̂ɔy, Jâo, Láaw, Phûak-háo, Háo, Phûak-jâo, Phûak-láaw, Ʉ̂ay, Nɔ̏ɔng, Âay, Nɔ̏ɔng-sáay, Dâay\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 5 — Bilan sons et tons · Questions oui/non"
+}
