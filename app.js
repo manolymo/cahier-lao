@@ -168,13 +168,12 @@
   /* ================= LEÇONS ================= */
   RENDER.lecons = function (o) {
     const v = $("#v-lecons"); const id = o.id;
-    if (!id) {
+    if (!id && o.plan == null) {
       const written = new Map(LESSONS.map((l) => [l.num, l]));
       const row = (x) => {
         const l = written.get(x.num);
         if (l) return `<button class="lrow" data-id="${l.id}"><span class="lnum">${String(x.num).padStart(2, "0")}</span><span class="ltitle">${esc(l.title)}<small>${esc(x.task)}</small></span><span class="chip ${S.done[l.id] ? "done" : ""}">${S.done[l.id] ? "Faite" : "À faire"}</span></button>`;
-        return `<details class="lplan"><summary><span class="lnum">${String(x.num).padStart(2, "0")}</span><span class="ltitle">${esc(x.title)}<small>${esc(x.task)}</small></span><span class="chip">À venir</span></summary>
-          <dl><dt>Tâche finale</dt><dd>${esc(x.task)}</dd><dt>Notion de langue</dt><dd>${esc(x.notion)}</dd><dt>Vocabulaire / thème</dt><dd>${esc(x.vocab)}</dd></dl></details>`;
+        return `<button class="lrow lplan" data-plan="${x.num}"><span class="lnum">${String(x.num).padStart(2, "0")}</span><span class="ltitle">${esc(x.title)}<small>${esc(x.task)}</small></span><span class="chip">En rédaction</span></button>`;
       };
       const parts = PROGRAMME ? PROGRAMME.parts : [{ key: "", title: "Leçons", level: "", goal: "", lessons: LESSONS.map((l) => ({ num: l.num, title: l.title, task: l.phase || "" })) }];
       const nWritten = LESSONS.length, nAll = parts.reduce((a, p) => a + p.lessons.length, 0);
@@ -182,7 +181,30 @@
         <p class="lead" style="margin-bottom:0">${nWritten} leçon${nWritten > 1 ? "s" : ""} rédigée${nWritten > 1 ? "s" : ""} sur ${nAll}. Les autres affichent leur fiche (tâche, notion, vocabulaire) en attendant d'être écrites.</p></div>` +
         parts.map((p) => `<section class="part"><div class="part-head"><p class="eyebrow">Partie ${esc(p.key)} · ${esc(p.level)}</p><h3>${esc(p.title)}</h3>${p.goal ? `<p class="muted" style="margin:2px 0 0">${esc(p.goal)}</p>` : ""}</div>
           <div class="stack" style="gap:8px">${p.lessons.map(row).join("")}</div></section>`).join("") + `</div>`;
-      $$(".lrow", v).forEach((b) => b.addEventListener("click", () => { S.lastLesson = b.dataset.id; save(); RENDER.lecons({ id: b.dataset.id }); window.scrollTo(0, 0); }));
+      $$(".lrow[data-id]", v).forEach((b) => b.addEventListener("click", () => { S.lastLesson = b.dataset.id; save(); RENDER.lecons({ id: b.dataset.id }); window.scrollTo(0, 0); }));
+      $$(".lrow[data-plan]", v).forEach((b) => b.addEventListener("click", () => { RENDER.lecons({ plan: +b.dataset.plan }); window.scrollTo(0, 0); }));
+      return;
+    }
+    if (o.plan != null && PROGRAMME) {
+      let part = null, x = null;
+      PROGRAMME.parts.forEach((p) => p.lessons.forEach((y) => { if (y.num === o.plan) { part = p; x = y; } }));
+      if (!x) return RENDER.lecons({});
+      const all = PROGRAMME.parts.flatMap((p) => p.lessons); const i = all.findIndex((y) => y.num === x.num);
+      const nav = (y) => y ? (LESSONS.find((l) => l.num === y.num) ? `data-id="${LESSONS.find((l) => l.num === y.num).id}"` : `data-plan="${y.num}"`) : "";
+      const steps = ["Révision espacée", "Objectif", "Dialogue d'entrée", "Compréhension", "Vocabulaire et blocs", "Notion de langue", "Écoute", "Expression orale", "Expression écrite", "Tâche finale", "Cartes de révision", "Bloc de suivi"];
+      v.innerHTML = `<div class="panel">
+        <button class="btn ghost" id="back" style="padding-left:0">← Toutes les leçons</button>
+        <p class="eyebrow">Leçon ${x.num} · Partie ${esc(part.key)} · ${esc(part.title)} (${esc(part.level)})</p><h2>${esc(x.title)}</h2>
+        <p class="lead">${esc(x.task)}</p>
+        <p class="note warn">Cette leçon est en cours de rédaction. Voici sa fiche : elle te permet de vérifier sa place dans le parcours.</p>
+        <section class="sec"><h3><span class="n">01</span>Tâche finale</h3><p>${esc(x.task)}</p></section>
+        <section class="sec"><h3><span class="n">02</span>Notion de langue</h3><p>${esc(x.notion)}</p></section>
+        <section class="sec"><h3><span class="n">03</span>Vocabulaire et thème</h3><p class="${/[\u0E80-\u0EFF]/.test(x.vocab) ? "lo" : ""}" style="font-size:1.1rem">${esc(x.vocab)}</p></section>
+        <section class="sec"><h3><span class="n">04</span>Déroulé de la leçon</h3><ol>${steps.map((s) => `<li>${s}</li>`).join("")}</ol></section>
+        <div class="navrow" style="margin-top:22px"><button class="btn" ${nav(all[i - 1])} id="prevl" ${all[i - 1] ? "" : "disabled"}>← Leçon ${all[i - 1] ? all[i - 1].num : ""}</button><button class="btn" ${nav(all[i + 1])} id="nextl" ${all[i + 1] ? "" : "disabled"}>Leçon ${all[i + 1] ? all[i + 1].num : ""} →</button></div>
+      </div>`;
+      $("#back", v).addEventListener("click", () => RENDER.lecons({}));
+      ["#prevl", "#nextl"].forEach((sel) => { const b = $(sel, v); if (!b || b.disabled) return; b.addEventListener("click", () => { if (b.dataset.id) { S.lastLesson = b.dataset.id; save(); RENDER.lecons({ id: b.dataset.id }); } else RENDER.lecons({ plan: +b.dataset.plan }); window.scrollTo(0, 0); }); });
       return;
     }
     const l = lessonById(id); if (!l) return RENDER.lecons({});
@@ -203,6 +225,15 @@
       const t = l.suivi || ""; const sel = () => { const r = document.createRange(); r.selectNodeContents($("#suivi")); const s = getSelection(); s.removeAllRanges(); s.addRange(r); toast("Texte sélectionné"); };
       if (navigator.clipboard) navigator.clipboard.writeText(t).then(() => toast("Bloc copié"), sel); else sel();
     });
+    if (PROGRAMME) {
+      const all = PROGRAMME.parts.flatMap((p) => p.lessons); const i = all.findIndex((y) => y.num === l.num);
+      const nx = all[i + 1], pv = all[i - 1];
+      const bar = document.createElement("div"); bar.className = "navrow"; bar.style.marginTop = "18px";
+      const mk = (y, label) => { const b = document.createElement("button"); b.className = "btn"; b.textContent = label; if (!y) { b.disabled = true; return b; }
+        b.addEventListener("click", () => { const w = LESSONS.find((q) => q.num === y.num); if (w) { S.lastLesson = w.id; save(); RENDER.lecons({ id: w.id }); } else RENDER.lecons({ plan: y.num }); window.scrollTo(0, 0); }); return b; };
+      bar.append(mk(pv, pv ? "← Leçon " + pv.num : "←"), mk(nx, nx ? "Leçon " + nx.num + " →" : "→"));
+      $(".panel", v).appendChild(bar);
+    }
     $("#mark", v).addEventListener("click", () => { const was = S.done[l.id]; S.done[l.id] = !was; if (!was) addXP(20); save(); RENDER.lecons({ id }); });
   };
 

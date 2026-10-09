@@ -94,7 +94,7 @@ p { margin: .5em 0; }
 .ltitle { font-weight: 600; min-width: 0; } .ltitle small { display: block; font-weight: 400; color: var(--muted); font-size: .85rem; }
 .part { display: grid; gap: 10px; margin-top: 10px; }
 .part-head { padding: 6px 2px 2px; border-top: 2px solid var(--line); padding-top: 14px; }
-.lplan { background: var(--surface); border: 1px dashed var(--line); border-radius: var(--r); padding: 0; margin: 0; }
+.lrow.lplan { border-style: dashed; }
 .lplan summary { display: grid; grid-template-columns: 3rem 1fr auto; gap: 12px; align-items: center; padding: 12px 14px; cursor: pointer; list-style: none; color: var(--ink); font-weight: 400; }
 .lplan summary::-webkit-details-marker { display: none; }
 .lplan .lnum { color: var(--muted); }
