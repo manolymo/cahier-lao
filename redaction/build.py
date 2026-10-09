@@ -53,6 +53,9 @@ def rom(s):
             continue
         if t == "_":
             continue
+        if t == "ໆ" and words:
+            words.append(words[-1])
+            continue
         if t in LEX:
             words.append(LEX[t])
         elif t in PEOPLE:

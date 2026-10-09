@@ -1,0 +1,639 @@
+{
+ "num": 8,
+ "phase": "Partie B · Lire et écrire",
+ "title": "Consonnes de classe haute",
+ "objective": "Lire ຂ ສ ຖ ຜ ຝ ຫ et déchiffrer des étiquettes de boissons.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>s&#x27;il te plaît (adoucit) <small class=\"muted\">(leçon 7)</small></li><li>juste bien, parfait <small class=\"muted\">(leçon 5)</small></li><li>j&#x27;y vais (au revoir familier) <small class=\"muted\">(leçon 1)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ແດ່</span> <span class=\"rom\">Dɛ̀ɛ</span> · s&#x27;il te plaît (adoucit)</li><li><span class=\"lo\">ພໍດີ</span> <span class=\"rom\">Phɔ́ɔ-dǐi</span> · juste bien, parfait</li><li><span class=\"lo\">ໄປກ່ອນເດີ</span> <span class=\"rom\">Pǎy-kɔ̀ɔn dɤ̌ɤ</span> · j&#x27;y vais (au revoir familier)</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Lire ຂ ສ ຖ ຜ ຝ ຫ et déchiffrer des étiquettes de boissons.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Au café, Clara lit la carte des boissons.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ເອົາຫຍັງເອື້ອຍ?</span><span class=\"rom\">Ǎo nyǎng ʉ̂ay?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂໍກາເຟໜຶ່ງຈອກ</span><span class=\"rom\">Khɔ̌ɔ kǎa-féé nʉ̀ng jɔ̏ɔk.</span></div></div><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ຮ້ອນຫຼືເຢັນ?</span><span class=\"rom\">Hȍɔn lʉ̌ʉ yěn?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຢັນ ບໍ່ຫວານຫຼາຍເດີ</span><span class=\"rom\">Yěn. Bɔ̀ɔ wǎan lǎay dɤ̌ɤ.</span></div></div><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ໄດ້ເຈົ້າ</span><span class=\"rom\">Dâay jâo.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂອບໃຈ</span><span class=\"rom\">Khɔ̏ɔp-jǎy.</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>La vendeuse</b> — Qu&#x27;est-ce que tu prends ?<br><b>Clara</b> — Un café, s&#x27;il vous plaît.<br><b>La vendeuse</b> — Chaud ou glacé ?<br><b>Clara</b> — Glacé. Pas trop sucré, hein.<br><b>La vendeuse</b> — D&#x27;accord.<br><b>Clara</b> — Merci.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que commande Clara ?</li><li>Quelle question pose la vendeuse ?</li></ol><details><summary>Réponses</summary><ol><li>Un café glacé, pas trop sucré.</li><li>Chaud ou glacé ?</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຂໍ</td><td class=\"rom\">Khɔ̌ɔ</td><td>demander ; je voudrais</td><td>pour commander poliment</td></tr><tr><td class=\"lo\">ສາ</td><td class=\"rom\">Sǎa</td><td>particule (rare)</td><td>ສ + າ [À VÉRIFIER]</td></tr><tr><td class=\"lo\">ຖົງ</td><td class=\"rom\">Thǒng</td><td>sac</td><td>ຖ</td></tr><tr><td class=\"lo\">ຜັກ</td><td class=\"rom\">Phāk</td><td>légume</td><td>ຜ</td></tr><tr><td class=\"lo\">ຝົນ</td><td class=\"rom\">Fǒn</td><td>pluie</td><td>ຝ</td></tr><tr><td class=\"lo\">ຫ້າ</td><td class=\"rom\">Hâa</td><td>cinq</td><td>ຫ</td></tr><tr><td class=\"lo\">ຮ້ອນ</td><td class=\"rom\">Hȍɔn</td><td>chaud</td><td></td></tr><tr><td class=\"lo\">ເຢັນ</td><td class=\"rom\">Yěn</td><td>froid, frais</td><td></td></tr><tr><td class=\"lo\">ຫວານ</td><td class=\"rom\">Wǎan</td><td>sucré</td><td></td></tr><tr><td class=\"lo\">ຫຼື</td><td class=\"rom\">Lʉ̌ʉ</td><td>ou</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : la classe haute",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຂາ</span> <span class=\"rom\">Khǎa</span> = jambe, ton montant</li><li><span class=\"lo\">ຖົງ</span> <span class=\"rom\">Thǒng</span> = sac</li><li><span class=\"lo\">ຝົນ</span> <span class=\"rom\">Fǒn</span> = pluie</li><li><span class=\"lo\">ຫ້າ</span> <span class=\"rom\">Hâa</span> = cinq</li></ul><p><b>À toi de trouver :</b></p><ol><li>Compare ຂາ (classe haute) et ຄາ (classe basse) : même son, ton différent ?</li></ol><details><summary>La règle</summary><p>Les 6 consonnes de classe haute (ຂ ສ ຖ ຜ ຝ ຫ) donnent, sans marque et en syllabe vivante, le ton montant. Elles ont souvent une « jumelle » en classe basse avec le même son : ຂ/ຄ, ສ/ຊ, ຖ/ທ, ຜ/ພ, ຝ/ຟ, ຫ/ຮ.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> la différence de ton entre ຂາ et ຄາ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Un café, s&#x27;il vous plaît.</li><li>Chaud ou glacé ?</li><li>Pas trop sucré.</li><li>Glacé, s&#x27;il vous plaît.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂໍກາເຟໜຶ່ງຈອກ</span> <span class=\"rom\">Khɔ̌ɔ kǎa-féé nʉ̀ng jɔ̏ɔk.</span></li><li><span class=\"lo\">ຮ້ອນຫຼືເຢັນ?</span> <span class=\"rom\">Hȍɔn lʉ̌ʉ yěn?</span></li><li><span class=\"lo\">ບໍ່ຫວານຫຼາຍ</span> <span class=\"rom\">Bɔ̀ɔ wǎan lǎay.</span></li><li><span class=\"lo\">ຂໍເຢັນ</span> <span class=\"rom\">Khɔ̌ɔ yěn.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Recopie les 6 consonnes hautes.</li><li>Écris ta commande préférée au café en lao.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Commande une boisson en lao (dans un café lao ou en jeu de rôle avec un natif).</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>14 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l08-v01",
+   "front": "ຂໍ",
+   "back": "Khɔ̌ɔ · demander ; je voudrais"
+  },
+  {
+   "id": "l08-v02",
+   "front": "ສາ",
+   "back": "Sǎa · particule (rare)"
+  },
+  {
+   "id": "l08-v03",
+   "front": "ຖົງ",
+   "back": "Thǒng · sac"
+  },
+  {
+   "id": "l08-v04",
+   "front": "ຜັກ",
+   "back": "Phāk · légume"
+  },
+  {
+   "id": "l08-v05",
+   "front": "ຝົນ",
+   "back": "Fǒn · pluie"
+  },
+  {
+   "id": "l08-v06",
+   "front": "ຫ້າ",
+   "back": "Hâa · cinq"
+  },
+  {
+   "id": "l08-v07",
+   "front": "ຮ້ອນ",
+   "back": "Hȍɔn · chaud"
+  },
+  {
+   "id": "l08-v08",
+   "front": "ເຢັນ",
+   "back": "Yěn · froid, frais"
+  },
+  {
+   "id": "l08-v09",
+   "front": "ຫວານ",
+   "back": "Wǎan · sucré"
+  },
+  {
+   "id": "l08-v10",
+   "front": "ຫຼື",
+   "back": "Lʉ̌ʉ · ou"
+  },
+  {
+   "id": "l08-p01",
+   "front": "Un café, s'il vous plaît.",
+   "back": "ຂໍກາເຟໜຶ່ງຈອກ · Khɔ̌ɔ kǎa-féé nʉ̀ng jɔ̏ɔk."
+  },
+  {
+   "id": "l08-p02",
+   "front": "Chaud ou glacé ?",
+   "back": "ຮ້ອນຫຼືເຢັນ? · Hȍɔn lʉ̌ʉ yěn?"
+  },
+  {
+   "id": "l08-p03",
+   "front": "Pas trop sucré.",
+   "back": "ບໍ່ຫວານຫຼາຍ · Bɔ̀ɔ wǎan lǎay."
+  },
+  {
+   "id": "l08-p04",
+   "front": "Glacé, s'il vous plaît.",
+   "back": "ຂໍເຢັນ · Khɔ̌ɔ yěn."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຂໍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "demander ; je voudrais",
+      "sac",
+      "sucré",
+      "cinq"
+     ],
+     "answer": "demander ; je voudrais",
+     "reveal": "<i>Khɔ̌ɔ</i>"
+    },
+    {
+     "audio": [
+      "ສາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "particule (rare)",
+      "ou",
+      "chaud",
+      "légume"
+     ],
+     "answer": "particule (rare)",
+     "reveal": "<i>Sǎa</i>"
+    },
+    {
+     "audio": [
+      "ຖົງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "sac",
+      "cinq",
+      "particule (rare)",
+      "demander ; je voudrais"
+     ],
+     "answer": "sac",
+     "reveal": "<i>Thǒng</i>"
+    },
+    {
+     "audio": [
+      "ຜັກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "légume",
+      "ou",
+      "sac",
+      "chaud"
+     ],
+     "answer": "légume",
+     "reveal": "<i>Phāk</i>"
+    },
+    {
+     "audio": [
+      "ຝົນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pluie",
+      "légume",
+      "sac",
+      "sucré"
+     ],
+     "answer": "pluie",
+     "reveal": "<i>Fǒn</i>"
+    },
+    {
+     "audio": [
+      "ຫ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "cinq",
+      "sucré",
+      "froid, frais",
+      "demander ; je voudrais"
+     ],
+     "answer": "cinq",
+     "reveal": "<i>Hâa</i>"
+    },
+    {
+     "audio": [
+      "ຮ້ອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "chaud",
+      "légume",
+      "sac",
+      "cinq"
+     ],
+     "answer": "chaud",
+     "reveal": "<i>Hȍɔn</i>"
+    },
+    {
+     "audio": [
+      "ເຢັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "froid, frais",
+      "pluie",
+      "sucré",
+      "ou"
+     ],
+     "answer": "froid, frais",
+     "reveal": "<i>Yěn</i>"
+    },
+    {
+     "audio": [
+      "ຫວານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "sucré",
+      "légume",
+      "sac",
+      "chaud"
+     ],
+     "answer": "sucré",
+     "reveal": "<i>Wǎan</i>"
+    },
+    {
+     "audio": [
+      "ຫຼື"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ou",
+      "légume",
+      "cinq",
+      "sac"
+     ],
+     "answer": "ou",
+     "reveal": "<i>Lʉ̌ʉ</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເອົາຫຍັງເອື້ອຍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Qu'est-ce que tu prends ?",
+      "Chaud ou glacé ?",
+      "Glacé. Pas trop sucré, hein.",
+      "Un café, s'il vous plaît."
+     ],
+     "answer": "Qu'est-ce que tu prends ?",
+     "reveal": "<i>Ǎo nyǎng ʉ̂ay?</i>"
+    },
+    {
+     "audio": [
+      "ຂໍກາເຟໜຶ່ງຈອກ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Un café, s'il vous plaît.",
+      "Chaud ou glacé ?",
+      "D'accord.",
+      "Glacé. Pas trop sucré, hein."
+     ],
+     "answer": "Un café, s'il vous plaît.",
+     "reveal": "<i>Khɔ̌ɔ kǎa-féé nʉ̀ng jɔ̏ɔk.</i>"
+    },
+    {
+     "audio": [
+      "ຮ້ອນຫຼືເຢັນ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Chaud ou glacé ?",
+      "Glacé. Pas trop sucré, hein.",
+      "D'accord.",
+      "Qu'est-ce que tu prends ?"
+     ],
+     "answer": "Chaud ou glacé ?",
+     "reveal": "<i>Hȍɔn lʉ̌ʉ yěn?</i>"
+    },
+    {
+     "audio": [
+      "ເຢັນ ບໍ່ຫວານຫຼາຍເດີ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Glacé. Pas trop sucré, hein.",
+      "D'accord.",
+      "Merci.",
+      "Chaud ou glacé ?"
+     ],
+     "answer": "Glacé. Pas trop sucré, hein.",
+     "reveal": "<i>Yěn. Bɔ̀ɔ wǎan lǎay dɤ̌ɤ.</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້ເຈົ້າ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "D'accord.",
+      "Qu'est-ce que tu prends ?",
+      "Glacé. Pas trop sucré, hein.",
+      "Chaud ou glacé ?"
+     ],
+     "answer": "D'accord.",
+     "reveal": "<i>Dâay jâo.</i>"
+    },
+    {
+     "audio": [
+      "ຂອບໃຈ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Merci.",
+      "D'accord.",
+      "Qu'est-ce que tu prends ?",
+      "Glacé. Pas trop sucré, hein."
+     ],
+     "answer": "Merci.",
+     "reveal": "<i>Khɔ̏ɔp-jǎy.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂໍກາເຟໜຶ່ງຈອກ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Un café, s'il vous plaît.",
+      "Pas trop sucré.",
+      "Chaud ou glacé ?",
+      "Glacé, s'il vous plaît."
+     ],
+     "answer": "Un café, s'il vous plaît.",
+     "reveal": "<i>Khɔ̌ɔ kǎa-féé nʉ̀ng jɔ̏ɔk.</i>"
+    },
+    {
+     "audio": [
+      "ຮ້ອນຫຼືເຢັນ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Chaud ou glacé ?",
+      "Glacé, s'il vous plaît.",
+      "Pas trop sucré.",
+      "Un café, s'il vous plaît."
+     ],
+     "answer": "Chaud ou glacé ?",
+     "reveal": "<i>Hȍɔn lʉ̌ʉ yěn?</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ຫວານຫຼາຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Pas trop sucré.",
+      "Chaud ou glacé ?",
+      "Un café, s'il vous plaît.",
+      "Glacé, s'il vous plaît."
+     ],
+     "answer": "Pas trop sucré.",
+     "reveal": "<i>Bɔ̀ɔ wǎan lǎay.</i>"
+    },
+    {
+     "audio": [
+      "ຂໍເຢັນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Glacé, s'il vous plaît.",
+      "Chaud ou glacé ?",
+      "Un café, s'il vous plaît.",
+      "Pas trop sucré."
+     ],
+     "answer": "Glacé, s'il vous plaît.",
+     "reveal": "<i>Khɔ̌ɔ yěn.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຂໍ",
+   "rom": "Khɔ̌ɔ",
+   "fr": "demander ; je voudrais",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສາ",
+   "rom": "Sǎa",
+   "fr": "particule (rare)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຖົງ",
+   "rom": "Thǒng",
+   "fr": "sac",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຜັກ",
+   "rom": "Phāk",
+   "fr": "légume",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຝົນ",
+   "rom": "Fǒn",
+   "fr": "pluie",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫ້າ",
+   "rom": "Hâa",
+   "fr": "cinq",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຮ້ອນ",
+   "rom": "Hȍɔn",
+   "fr": "chaud",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຢັນ",
+   "rom": "Yěn",
+   "fr": "froid, frais",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫວານ",
+   "rom": "Wǎan",
+   "fr": "sucré",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫຼື",
+   "rom": "Lʉ̌ʉ",
+   "fr": "ou",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍກາເຟໜຶ່ງຈອກ",
+   "rom": "Khɔ̌ɔ kǎa-féé nʉ̀ng jɔ̏ɔk.",
+   "fr": "Un café, s'il vous plaît.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຮ້ອນຫຼືເຢັນ?",
+   "rom": "Hȍɔn lʉ̌ʉ yěn?",
+   "fr": "Chaud ou glacé ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່ຫວານຫຼາຍ",
+   "rom": "Bɔ̀ɔ wǎan lǎay.",
+   "fr": "Pas trop sucré.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍເຢັນ",
+   "rom": "Khɔ̌ɔ yěn.",
+   "fr": "Glacé, s'il vous plaît.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂໍ",
+    "ກາເຟ",
+    "ໜຶ່ງ",
+    "ຈອກ"
+   ],
+   "rom": "Khɔ̌ɔ kǎa-féé nʉ̀ng jɔ̏ɔk.",
+   "fr": "Un café, s'il vous plaît."
+  },
+  {
+   "tokens": [
+    "ຮ້ອນ",
+    "ຫຼື",
+    "ເຢັນ"
+   ],
+   "rom": "Hȍɔn lʉ̌ʉ yěn?",
+   "fr": "Chaud ou glacé ?"
+  },
+  {
+   "tokens": [
+    "ບໍ່",
+    "ຫວານ",
+    "ຫຼາຍ"
+   ],
+   "rom": "Bɔ̀ɔ wǎan lǎay.",
+   "fr": "Pas trop sucré."
+  },
+  {
+   "tokens": [
+    "ຂໍ",
+    "ເຢັນ"
+   ],
+   "rom": "Khɔ̌ɔ yěn.",
+   "fr": "Glacé, s'il vous plaît."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຂໍ",
+   "rom": "Khɔ̌ɔ",
+   "fr": "demander ; je voudrais"
+  },
+  {
+   "lao": "ສາ",
+   "rom": "Sǎa",
+   "fr": "particule (rare)"
+  },
+  {
+   "lao": "ຖົງ",
+   "rom": "Thǒng",
+   "fr": "sac"
+  },
+  {
+   "lao": "ຜັກ",
+   "rom": "Phāk",
+   "fr": "légume"
+  },
+  {
+   "lao": "ຝົນ",
+   "rom": "Fǒn",
+   "fr": "pluie"
+  },
+  {
+   "lao": "ຫ້າ",
+   "rom": "Hâa",
+   "fr": "cinq"
+  },
+  {
+   "lao": "ຮ້ອນ",
+   "rom": "Hȍɔn",
+   "fr": "chaud"
+  },
+  {
+   "lao": "ເຢັນ",
+   "rom": "Yěn",
+   "fr": "froid, frais"
+  },
+  {
+   "lao": "ຫວານ",
+   "rom": "Wǎan",
+   "fr": "sucré"
+  },
+  {
+   "lao": "ຫຼື",
+   "rom": "Lʉ̌ʉ",
+   "fr": "ou"
+  }
+ ],
+ "sounds": {
+  "ແດ່": "Dɛ̀ɛ",
+  "ພໍດີ": "Phɔ́ɔ-dǐi",
+  "ໄປກ່ອນເດີ": "Pǎy-kɔ̀ɔn dɤ̌ɤ",
+  "ເອົາຫຍັງເອື້ອຍ": "Ǎo nyǎng ʉ̂ay?",
+  "ຂໍກາເຟໜຶ່ງຈອກ": "Khɔ̌ɔ kǎa-féé nʉ̀ng jɔ̏ɔk.",
+  "ຮ້ອນຫຼືເຢັນ": "Hȍɔn lʉ̌ʉ yěn?",
+  "ເຢັນ ບໍ່ຫວານຫຼາຍເດີ": "Yěn. Bɔ̀ɔ wǎan lǎay dɤ̌ɤ.",
+  "ໄດ້ເຈົ້າ": "Dâay jâo.",
+  "ຂອບໃຈ": "Khɔ̏ɔp-jǎy.",
+  "ຂໍ": "khɔ̌ɔ",
+  "ສາ": "Sǎa",
+  "ຖົງ": "Thǒng",
+  "ຜັກ": "Phāk",
+  "ຝົນ": "Fǒn",
+  "ຫ້າ": "Hâa",
+  "ຮ້ອນ": "hȍɔn",
+  "ເຢັນ": "yěn",
+  "ຫວານ": "wǎan",
+  "ຫຼື": "lʉ̌ʉ",
+  "ຂາ": "Khǎa",
+  "ບໍ່ຫວານຫຼາຍ": "Bɔ̀ɔ wǎan lǎay.",
+  "ຂໍເຢັນ": "Khɔ̌ɔ yěn.",
+  "ກາເຟ": "kǎa-féé",
+  "ໜຶ່ງ": "nʉ̀ng",
+  "ຈອກ": "jɔ̏ɔk",
+  "ບໍ່": "bɔ̀ɔ",
+  "ຫຼາຍ": "lǎay"
+ },
+ "suivi": "LEÇON : 8 — Partie B (Lire et écrire, A0→A1) · Consonnes de classe haute\nOBJECTIF : Lire ຂ ສ ຖ ຜ ຝ ຫ et déchiffrer des étiquettes de boissons.\nNOTION : la classe haute\nVOCAB : Khɔ̌ɔ, Sǎa, Thǒng, Phāk, Fǒn, Hâa, Hȍɔn, Yěn, Wǎan, Lʉ̌ʉ\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 9 — Consonnes de classe basse (1)"
+}

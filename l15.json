@@ -1,0 +1,638 @@
+{
+ "num": 15,
+ "phase": "Partie B · Lire et écrire",
+ "title": "Le ຫ muet et les lettres jointes",
+ "objective": "Lire les mots où ຫ change la classe d'une consonne basse et parler de la famille.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>à quelle heure ? <small class=\"muted\">(leçon 14)</small></li><li>couleur <small class=\"muted\">(leçon 12)</small></li><li>particule (rare) <small class=\"muted\">(leçon 8)</small></li><li>au revoir (soutenu) <small class=\"muted\">(leçon 1)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຈັກໂມງ</span> <span class=\"rom\">Ják móong</span> · à quelle heure ?</li><li><span class=\"lo\">ສີ</span> <span class=\"rom\">Sǐi</span> · couleur</li><li><span class=\"lo\">ສາ</span> <span class=\"rom\">Sǎa</span> · particule (rare)</li><li><span class=\"lo\">ລາກ່ອນ</span> <span class=\"rom\">Láa-kɔ̀ɔn</span> · au revoir (soutenu)</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Lire les mots où ຫ change la classe d&#x27;une consonne basse et parler de la famille.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Mme Boua montre des photos de famille.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ນີ້ແມ່ນຫຼານຂອງຂ້ອຍ</span><span class=\"rom\">Nȉi mɛ̄ɛn lǎan khɔ̌ɔng khɔ̂ɔy.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໜ້າຮັກຫຼາຍ! ອາຍຸຈັກປີ?</span><span class=\"rom\">Nâa-hāk lǎay! Ǎa-nyū ják pǐi?</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ສອງປີ</span><span class=\"rom\">Sɔ̌ɔng pǐi.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແລ້ວນີ້ແມ່ນໃຜ?</span><span class=\"rom\">Lɛ̏ɛw nȉi mɛ̄ɛn phǎy?</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ນັ້ນແມ່ນຜົວຂອງຂ້ອຍຕອນໜຸ່ມ</span><span class=\"rom\">Nȁn mɛ̄ɛn phǔa khɔ̌ɔng khɔ̂ɔy tɔ̌ɔn nùm.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໂອ້ຍ ງາມແທ້!</span><span class=\"rom\">Ôoy, ngáam thɛ̏ɛ!</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Mme Boua</b> — Voici mon petit-enfant.<br><b>Clara</b> — Il est trop mignon ! Il a quel âge ?<br><b>Mme Boua</b> — Deux ans.<br><b>Clara</b> — Et lui, c&#x27;est qui ?<br><b>Mme Boua</b> — C&#x27;est mon mari quand il était jeune.<br><b>Clara</b> — Oh, il était beau !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Qui est sur la première photo ?</li><li>Et sur la deuxième ?</li></ol><details><summary>Réponses</summary><ol><li>Le petit-enfant de Mme Boua, 2 ans.</li><li>Son mari, jeune.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຫຼານ</td><td class=\"rom\">Lǎan</td><td>petit-enfant ; neveu, nièce</td><td>ຫຼ</td></tr><tr><td class=\"lo\">ໜ້າຮັກ</td><td class=\"rom\">Nâa-hāk</td><td>mignon</td><td>ໜ</td></tr><tr><td class=\"lo\">ອາຍຸ</td><td class=\"rom\">Ǎa-nyū</td><td>âge</td><td></td></tr><tr><td class=\"lo\">ຈັກປີ</td><td class=\"rom\">Ják pǐi</td><td>combien d&#x27;années ?</td><td></td></tr><tr><td class=\"lo\">ສອງ</td><td class=\"rom\">Sɔ̌ɔng</td><td>deux</td><td></td></tr><tr><td class=\"lo\">ຜົວ</td><td class=\"rom\">Phǔa</td><td>mari</td><td></td></tr><tr><td class=\"lo\">ເມຍ</td><td class=\"rom\">Mía</td><td>épouse</td><td></td></tr><tr><td class=\"lo\">ໜຸ່ມ</td><td class=\"rom\">Nùm</td><td>jeune</td><td>ໜ</td></tr><tr><td class=\"lo\">ໝາ</td><td class=\"rom\">Mǎa</td><td>chien</td><td>ໝ</td></tr><tr><td class=\"lo\">ຫຍັງ</td><td class=\"rom\">Nyǎng</td><td>quoi</td><td>ຫຍ</td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : ຫ qui change la classe",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ໝາ</span> <span class=\"rom\">Mǎa</span> = ຫ + ມ → classe haute</li><li><span class=\"lo\">ໜຸ່ມ</span> <span class=\"rom\">Nùm</span> = ຫ + ນ</li><li><span class=\"lo\">ຫຼານ</span> <span class=\"rom\">Lǎan</span> = ຫ + ລ</li><li><span class=\"lo\">ຫວານ</span> <span class=\"rom\">Wǎan</span> = ຫ + ວ</li></ul><p><b>À toi de trouver :</b></p><ol><li>ໝາ s&#x27;écrit avec ມ (classe basse). Pourquoi a-t-il le ton montant ?</li></ol><details><summary>La règle</summary><p>Placé devant une consonne basse sonore (ງ ຍ ນ ມ ລ ວ), un ຫ muet la fait passer en classe haute. ຫນ et ຫມ s'écrivent souvent en une seule lettre : ໜ et ໝ. ຫລ s'écrit souvent ຫຼ.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> le ton montant de ໝາ, ໜ້າ, ຫຼານ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Il est trop mignon !</li><li>Il a quel âge ?</li><li>Deux ans.</li><li>C&#x27;est qui ?</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ໜ້າຮັກຫຼາຍ!</span> <span class=\"rom\">Nâa-hāk lǎay!</span></li><li><span class=\"lo\">ອາຍຸຈັກປີ?</span> <span class=\"rom\">Ǎa-nyū ják pǐi?</span></li><li><span class=\"lo\">ສອງປີ</span> <span class=\"rom\">Sɔ̌ɔng pǐi.</span></li><li><span class=\"lo\">ແມ່ນໃຜ?</span> <span class=\"rom\">Mɛ̄ɛn phǎy?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Recopie ໜ ໝ ຫຼ ຫງ ຫຍ ຫວ dans un mot chacun.</li><li>Décris une photo de famille en 3 phrases.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Montre une photo de famille à un natif et présente 3 personnes.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>14 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l15-v01",
+   "front": "ຫຼານ",
+   "back": "Lǎan · petit-enfant ; neveu, nièce"
+  },
+  {
+   "id": "l15-v02",
+   "front": "ໜ້າຮັກ",
+   "back": "Nâa-hāk · mignon"
+  },
+  {
+   "id": "l15-v03",
+   "front": "ອາຍຸ",
+   "back": "Ǎa-nyū · âge"
+  },
+  {
+   "id": "l15-v04",
+   "front": "ຈັກປີ",
+   "back": "Ják pǐi · combien d'années ?"
+  },
+  {
+   "id": "l15-v05",
+   "front": "ສອງ",
+   "back": "Sɔ̌ɔng · deux"
+  },
+  {
+   "id": "l15-v06",
+   "front": "ຜົວ",
+   "back": "Phǔa · mari"
+  },
+  {
+   "id": "l15-v07",
+   "front": "ເມຍ",
+   "back": "Mía · épouse"
+  },
+  {
+   "id": "l15-v08",
+   "front": "ໜຸ່ມ",
+   "back": "Nùm · jeune"
+  },
+  {
+   "id": "l15-v09",
+   "front": "ໝາ",
+   "back": "Mǎa · chien"
+  },
+  {
+   "id": "l15-v10",
+   "front": "ຫຍັງ",
+   "back": "Nyǎng · quoi"
+  },
+  {
+   "id": "l15-p01",
+   "front": "Il est trop mignon !",
+   "back": "ໜ້າຮັກຫຼາຍ! · Nâa-hāk lǎay!"
+  },
+  {
+   "id": "l15-p02",
+   "front": "Il a quel âge ?",
+   "back": "ອາຍຸຈັກປີ? · Ǎa-nyū ják pǐi?"
+  },
+  {
+   "id": "l15-p03",
+   "front": "Deux ans.",
+   "back": "ສອງປີ · Sɔ̌ɔng pǐi."
+  },
+  {
+   "id": "l15-p04",
+   "front": "C'est qui ?",
+   "back": "ແມ່ນໃຜ? · Mɛ̄ɛn phǎy?"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຫຼານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "petit-enfant ; neveu, nièce",
+      "âge",
+      "jeune",
+      "mari"
+     ],
+     "answer": "petit-enfant ; neveu, nièce",
+     "reveal": "<i>Lǎan</i>"
+    },
+    {
+     "audio": [
+      "ໜ້າຮັກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mignon",
+      "combien d'années ?",
+      "petit-enfant ; neveu, nièce",
+      "jeune"
+     ],
+     "answer": "mignon",
+     "reveal": "<i>Nâa-hāk</i>"
+    },
+    {
+     "audio": [
+      "ອາຍຸ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "âge",
+      "épouse",
+      "quoi",
+      "combien d'années ?"
+     ],
+     "answer": "âge",
+     "reveal": "<i>Ǎa-nyū</i>"
+    },
+    {
+     "audio": [
+      "ຈັກປີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "combien d'années ?",
+      "deux",
+      "quoi",
+      "petit-enfant ; neveu, nièce"
+     ],
+     "answer": "combien d'années ?",
+     "reveal": "<i>Ják pǐi</i>"
+    },
+    {
+     "audio": [
+      "ສອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "deux",
+      "mignon",
+      "petit-enfant ; neveu, nièce",
+      "épouse"
+     ],
+     "answer": "deux",
+     "reveal": "<i>Sɔ̌ɔng</i>"
+    },
+    {
+     "audio": [
+      "ຜົວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mari",
+      "deux",
+      "épouse",
+      "jeune"
+     ],
+     "answer": "mari",
+     "reveal": "<i>Phǔa</i>"
+    },
+    {
+     "audio": [
+      "ເມຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "épouse",
+      "quoi",
+      "deux",
+      "jeune"
+     ],
+     "answer": "épouse",
+     "reveal": "<i>Mía</i>"
+    },
+    {
+     "audio": [
+      "ໜຸ່ມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "jeune",
+      "mari",
+      "chien",
+      "âge"
+     ],
+     "answer": "jeune",
+     "reveal": "<i>Nùm</i>"
+    },
+    {
+     "audio": [
+      "ໝາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "chien",
+      "petit-enfant ; neveu, nièce",
+      "mari",
+      "jeune"
+     ],
+     "answer": "chien",
+     "reveal": "<i>Mǎa</i>"
+    },
+    {
+     "audio": [
+      "ຫຍັງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "quoi",
+      "petit-enfant ; neveu, nièce",
+      "épouse",
+      "mignon"
+     ],
+     "answer": "quoi",
+     "reveal": "<i>Nyǎng</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ນີ້ແມ່ນຫຼານຂອງຂ້ອຍ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Voici mon petit-enfant.",
+      "C'est mon mari quand il était jeune.",
+      "Il est trop mignon ! Il a quel âge ?",
+      "Oh, il était beau !"
+     ],
+     "answer": "Voici mon petit-enfant.",
+     "reveal": "<i>Nȉi mɛ̄ɛn lǎan khɔ̌ɔng khɔ̂ɔy.</i>"
+    },
+    {
+     "audio": [
+      "ໜ້າຮັກຫຼາຍ! ອາຍຸຈັກປີ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Il est trop mignon ! Il a quel âge ?",
+      "Voici mon petit-enfant.",
+      "C'est mon mari quand il était jeune.",
+      "Oh, il était beau !"
+     ],
+     "answer": "Il est trop mignon ! Il a quel âge ?",
+     "reveal": "<i>Nâa-hāk lǎay! Ǎa-nyū ják pǐi?</i>"
+    },
+    {
+     "audio": [
+      "ສອງປີ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Deux ans.",
+      "C'est mon mari quand il était jeune.",
+      "Il est trop mignon ! Il a quel âge ?",
+      "Et lui, c'est qui ?"
+     ],
+     "answer": "Deux ans.",
+     "reveal": "<i>Sɔ̌ɔng pǐi.</i>"
+    },
+    {
+     "audio": [
+      "ແລ້ວນີ້ແມ່ນໃຜ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Et lui, c'est qui ?",
+      "Deux ans.",
+      "Oh, il était beau !",
+      "C'est mon mari quand il était jeune."
+     ],
+     "answer": "Et lui, c'est qui ?",
+     "reveal": "<i>Lɛ̏ɛw nȉi mɛ̄ɛn phǎy?</i>"
+    },
+    {
+     "audio": [
+      "ນັ້ນແມ່ນຜົວຂອງຂ້ອຍຕອນໜຸ່ມ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'est mon mari quand il était jeune.",
+      "Oh, il était beau !",
+      "Et lui, c'est qui ?",
+      "Deux ans."
+     ],
+     "answer": "C'est mon mari quand il était jeune.",
+     "reveal": "<i>Nȁn mɛ̄ɛn phǔa khɔ̌ɔng khɔ̂ɔy tɔ̌ɔn nùm.</i>"
+    },
+    {
+     "audio": [
+      "ໂອ້ຍ ງາມແທ້!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oh, il était beau !",
+      "Deux ans.",
+      "Il est trop mignon ! Il a quel âge ?",
+      "C'est mon mari quand il était jeune."
+     ],
+     "answer": "Oh, il était beau !",
+     "reveal": "<i>Ôoy, ngáam thɛ̏ɛ!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ໜ້າຮັກຫຼາຍ!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il est trop mignon !",
+      "Deux ans.",
+      "C'est qui ?",
+      "Il a quel âge ?"
+     ],
+     "answer": "Il est trop mignon !",
+     "reveal": "<i>Nâa-hāk lǎay!</i>"
+    },
+    {
+     "audio": [
+      "ອາຍຸຈັກປີ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il a quel âge ?",
+      "C'est qui ?",
+      "Il est trop mignon !",
+      "Deux ans."
+     ],
+     "answer": "Il a quel âge ?",
+     "reveal": "<i>Ǎa-nyū ják pǐi?</i>"
+    },
+    {
+     "audio": [
+      "ສອງປີ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Deux ans.",
+      "Il est trop mignon !",
+      "Il a quel âge ?",
+      "C'est qui ?"
+     ],
+     "answer": "Deux ans.",
+     "reveal": "<i>Sɔ̌ɔng pǐi.</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນໃຜ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est qui ?",
+      "Deux ans.",
+      "Il est trop mignon !",
+      "Il a quel âge ?"
+     ],
+     "answer": "C'est qui ?",
+     "reveal": "<i>Mɛ̄ɛn phǎy?</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຫຼານ",
+   "rom": "Lǎan",
+   "fr": "petit-enfant ; neveu, nièce",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໜ້າຮັກ",
+   "rom": "Nâa-hāk",
+   "fr": "mignon",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອາຍຸ",
+   "rom": "Ǎa-nyū",
+   "fr": "âge",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈັກປີ",
+   "rom": "Ják pǐi",
+   "fr": "combien d'années ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສອງ",
+   "rom": "Sɔ̌ɔng",
+   "fr": "deux",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຜົວ",
+   "rom": "Phǔa",
+   "fr": "mari",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເມຍ",
+   "rom": "Mía",
+   "fr": "épouse",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໜຸ່ມ",
+   "rom": "Nùm",
+   "fr": "jeune",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໝາ",
+   "rom": "Mǎa",
+   "fr": "chien",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫຍັງ",
+   "rom": "Nyǎng",
+   "fr": "quoi",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໜ້າຮັກຫຼາຍ!",
+   "rom": "Nâa-hāk lǎay!",
+   "fr": "Il est trop mignon !",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອາຍຸຈັກປີ?",
+   "rom": "Ǎa-nyū ják pǐi?",
+   "fr": "Il a quel âge ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສອງປີ",
+   "rom": "Sɔ̌ɔng pǐi.",
+   "fr": "Deux ans.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແມ່ນໃຜ?",
+   "rom": "Mɛ̄ɛn phǎy?",
+   "fr": "C'est qui ?",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ໜ້າຮັກ",
+    "ຫຼາຍ"
+   ],
+   "rom": "Nâa-hāk lǎay!",
+   "fr": "Il est trop mignon !"
+  },
+  {
+   "tokens": [
+    "ອາຍຸ",
+    "ຈັກ",
+    "ປີ"
+   ],
+   "rom": "Ǎa-nyū ják pǐi?",
+   "fr": "Il a quel âge ?"
+  },
+  {
+   "tokens": [
+    "ສອງ",
+    "ປີ"
+   ],
+   "rom": "Sɔ̌ɔng pǐi.",
+   "fr": "Deux ans."
+  },
+  {
+   "tokens": [
+    "ແມ່ນ",
+    "ໃຜ"
+   ],
+   "rom": "Mɛ̄ɛn phǎy?",
+   "fr": "C'est qui ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຫຼານ",
+   "rom": "Lǎan",
+   "fr": "petit-enfant ; neveu, nièce"
+  },
+  {
+   "lao": "ໜ້າຮັກ",
+   "rom": "Nâa-hāk",
+   "fr": "mignon"
+  },
+  {
+   "lao": "ອາຍຸ",
+   "rom": "Ǎa-nyū",
+   "fr": "âge"
+  },
+  {
+   "lao": "ຈັກປີ",
+   "rom": "Ják pǐi",
+   "fr": "combien d'années ?"
+  },
+  {
+   "lao": "ສອງ",
+   "rom": "Sɔ̌ɔng",
+   "fr": "deux"
+  },
+  {
+   "lao": "ຜົວ",
+   "rom": "Phǔa",
+   "fr": "mari"
+  },
+  {
+   "lao": "ເມຍ",
+   "rom": "Mía",
+   "fr": "épouse"
+  },
+  {
+   "lao": "ໜຸ່ມ",
+   "rom": "Nùm",
+   "fr": "jeune"
+  },
+  {
+   "lao": "ໝາ",
+   "rom": "Mǎa",
+   "fr": "chien"
+  },
+  {
+   "lao": "ຫຍັງ",
+   "rom": "Nyǎng",
+   "fr": "quoi"
+  }
+ ],
+ "sounds": {
+  "ຈັກໂມງ": "Ják móong",
+  "ສີ": "Sǐi",
+  "ສາ": "Sǎa",
+  "ລາກ່ອນ": "Láa-kɔ̀ɔn",
+  "ນີ້ແມ່ນຫຼານຂອງຂ້ອຍ": "Nȉi mɛ̄ɛn lǎan khɔ̌ɔng khɔ̂ɔy.",
+  "ໜ້າຮັກຫຼາຍ ອາຍຸຈັກປີ": "Nâa-hāk lǎay! Ǎa-nyū ják pǐi?",
+  "ສອງປີ": "Sɔ̌ɔng pǐi.",
+  "ແລ້ວນີ້ແມ່ນໃຜ": "Lɛ̏ɛw nȉi mɛ̄ɛn phǎy?",
+  "ນັ້ນແມ່ນຜົວຂອງຂ້ອຍຕອນໜຸ່ມ": "Nȁn mɛ̄ɛn phǔa khɔ̌ɔng khɔ̂ɔy tɔ̌ɔn nùm.",
+  "ໂອ້ຍ ງາມແທ້": "Ôoy, ngáam thɛ̏ɛ!",
+  "ຫຼານ": "Lǎan",
+  "ໜ້າຮັກ": "nâa-hāk",
+  "ອາຍຸ": "ǎa-nyū",
+  "ຈັກປີ": "Ják pǐi",
+  "ສອງ": "sɔ̌ɔng",
+  "ຜົວ": "Phǔa",
+  "ເມຍ": "Mía",
+  "ໜຸ່ມ": "Nùm",
+  "ໝາ": "Mǎa",
+  "ຫຍັງ": "Nyǎng",
+  "ຫວານ": "Wǎan",
+  "ໜ້າຮັກຫຼາຍ": "Nâa-hāk lǎay!",
+  "ອາຍຸຈັກປີ": "Ǎa-nyū ják pǐi?",
+  "ແມ່ນໃຜ": "Mɛ̄ɛn phǎy?",
+  "ຫຼາຍ": "lǎay",
+  "ຈັກ": "ják",
+  "ປີ": "pǐi",
+  "ແມ່ນ": "mɛ̄ɛn",
+  "ໃຜ": "phǎy"
+ },
+ "suivi": "LEÇON : 15 — Partie B (Lire et écrire, A0→A1) · Le ຫ muet et les lettres jointes\nOBJECTIF : Lire les mots où ຫ change la classe d'une consonne basse et parler de la famille.\nNOTION : ຫ qui change la classe\nVOCAB : Lǎan, Nâa-hāk, Ǎa-nyū, Ják pǐi, Sɔ̌ɔng, Phǔa, Mía, Nùm, Mǎa, Nyǎng\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 16 — Voyelles composées"
+}

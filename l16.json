@@ -1,0 +1,643 @@
+{
+ "num": 16,
+ "phase": "Partie B · Lire et écrire",
+ "title": "Voyelles composées",
+ "objective": "Lire les voyelles ເ-ຍ, ເ-ືອ, -ົວ et parler de fruits.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>jeune <small class=\"muted\">(leçon 15)</small></li><li>papa <small class=\"muted\">(leçon 13)</small></li><li>salade de papaye <small class=\"muted\">(leçon 9)</small></li><li>surnom <small class=\"muted\">(leçon 2)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ໜຸ່ມ</span> <span class=\"rom\">Nùm</span> · jeune</li><li><span class=\"lo\">ພໍ່</span> <span class=\"rom\">Phɔ̄ɔ</span> · papa</li><li><span class=\"lo\">ຕຳໝາກຫຸ່ງ</span> <span class=\"rom\">Tǎm-mȁak-hùng</span> · salade de papaye</li><li><span class=\"lo\">ຊື່ຫຼິ້ນ</span> <span class=\"rom\">Sʉ̄ʉ-lîn</span> · surnom</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Lire les voyelles ເ-ຍ, ເ-ືອ, -ົວ et parler de fruits.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Au marché, Clara achète des fruits.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ຊື້ຫຍັງເອື້ອຍ?</span><span class=\"rom\">Sȕu nyǎng ʉ̂ay?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໝາກມ່ວງກິໂລລະເທົ່າໃດ?</span><span class=\"rom\">Mȁak-mūang kī-lóo lā thāo-dǎy?</span></div></div><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ຊາວພັນກີບ</span><span class=\"rom\">Sáaw phán kȉip.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແລ້ວໝາກກ້ວຍເດ?</span><span class=\"rom\">Lɛ̏ɛw mȁak-kûay dě?</span></div></div><div class=\"line\"><span class=\"who\">ຄົນຂາຍ</span><div><span class=\"lo\">ສິບພັນ</span><span class=\"rom\">Sīp phán.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເອົາທັງສອງຢ່າງ</span><span class=\"rom\">Ǎo tháng sɔ̌ɔng yàang.</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>La vendeuse</b> — Qu&#x27;est-ce que tu achètes ?<br><b>Clara</b> — Combien le kilo de mangues ?<br><b>La vendeuse</b> — Vingt mille kips.<br><b>Clara</b> — Et les bananes ?<br><b>La vendeuse</b> — Dix mille.<br><b>Clara</b> — Je prends les deux.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Combien coûtent les mangues ?</li><li>Que prend Clara ?</li></ol><details><summary>Réponses</summary><ol><li>20 000 kips le kilo.</li><li>Les mangues et les bananes.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ໝາກໄມ້</td><td class=\"rom\">Mȁak-mȁy</td><td>fruit</td><td></td></tr><tr><td class=\"lo\">ໝາກມ່ວງ</td><td class=\"rom\">Mȁak-mūang</td><td>mangue</td><td></td></tr><tr><td class=\"lo\">ໝາກກ້ວຍ</td><td class=\"rom\">Mȁak-kûay</td><td>banane</td><td>-ົວ (ua)</td></tr><tr><td class=\"lo\">ໝາກພ້າວ</td><td class=\"rom\">Mȁak-phȁaw</td><td>noix de coco</td><td></td></tr><tr><td class=\"lo\">ກິໂລ</td><td class=\"rom\">Kī-lóo</td><td>kilo</td><td></td></tr><tr><td class=\"lo\">ເທົ່າໃດ</td><td class=\"rom\">Thāo-dǎy</td><td>combien ?</td><td></td></tr><tr><td class=\"lo\">ພັນ</td><td class=\"rom\">Phán</td><td>mille</td><td></td></tr><tr><td class=\"lo\">ກີບ</td><td class=\"rom\">Kȉip</td><td>kip (monnaie)</td><td></td></tr><tr><td class=\"lo\">ເມຍ</td><td class=\"rom\">Mía</td><td>épouse</td><td>ເ-ຍ (ia)</td></tr><tr><td class=\"lo\">ເຮືອ</td><td class=\"rom\">Hʉ́a</td><td>bateau</td><td>ເ-ືອ (ʉa)</td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les voyelles composées",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ເມຍ</span> <span class=\"rom\">Mía</span> = ia</li><li><span class=\"lo\">ເຮືອ</span> <span class=\"rom\">Hʉ́a</span> = ʉa</li><li><span class=\"lo\">ງົວ</span> <span class=\"rom\">Ngúa</span> = ua</li><li><span class=\"lo\">ໝາກກ້ວຍ</span> <span class=\"rom\">Mȁak-kûay</span> = ua devant une finale</li></ul><p><b>À toi de trouver :</b></p><ol><li>Comment s&#x27;écrit ua quand il y a une consonne finale ?</li></ol><details><summary>La règle</summary><p>Trois diphtongues : ເ-ຍ (ia), ເ-ືອ (ʉa), -ົວ (ua). Devant une consonne finale, -ົວ s'écrit -ວ- (ກ້ວຍ) et ເ-ຍ s'écrit -ຽ- (ຮຽນ).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> le glissement de la voyelle dans ເຮືອ et ງົວ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Combien le kilo ?</li><li>Vingt mille kips.</li><li>Je prends les deux.</li><li>Et les bananes ?</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ກິໂລລະເທົ່າໃດ?</span> <span class=\"rom\">Kī-lóo lā thāo-dǎy?</span></li><li><span class=\"lo\">ຊາວພັນກີບ</span> <span class=\"rom\">Sáaw phán kȉip.</span></li><li><span class=\"lo\">ເອົາທັງສອງຢ່າງ</span> <span class=\"rom\">Ǎo tháng sɔ̌ɔng yàang.</span></li><li><span class=\"lo\">ແລ້ວໝາກກ້ວຍເດ?</span> <span class=\"rom\">Lɛ̏ɛw mȁak-kûay dě?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris le nom de 5 fruits et souligne les diphtongues.</li><li>Écris ta liste de courses de fruits.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Achète des fruits en lao (au marché asiatique ou en jeu de rôle avec un natif).</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>14 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l16-v01",
+   "front": "ໝາກໄມ້",
+   "back": "Mȁak-mȁy · fruit"
+  },
+  {
+   "id": "l16-v02",
+   "front": "ໝາກມ່ວງ",
+   "back": "Mȁak-mūang · mangue"
+  },
+  {
+   "id": "l16-v03",
+   "front": "ໝາກກ້ວຍ",
+   "back": "Mȁak-kûay · banane"
+  },
+  {
+   "id": "l16-v04",
+   "front": "ໝາກພ້າວ",
+   "back": "Mȁak-phȁaw · noix de coco"
+  },
+  {
+   "id": "l16-v05",
+   "front": "ກິໂລ",
+   "back": "Kī-lóo · kilo"
+  },
+  {
+   "id": "l16-v06",
+   "front": "ເທົ່າໃດ",
+   "back": "Thāo-dǎy · combien ?"
+  },
+  {
+   "id": "l16-v07",
+   "front": "ພັນ",
+   "back": "Phán · mille"
+  },
+  {
+   "id": "l16-v08",
+   "front": "ກີບ",
+   "back": "Kȉip · kip (monnaie)"
+  },
+  {
+   "id": "l16-v09",
+   "front": "ເມຍ",
+   "back": "Mía · épouse"
+  },
+  {
+   "id": "l16-v10",
+   "front": "ເຮືອ",
+   "back": "Hʉ́a · bateau"
+  },
+  {
+   "id": "l16-p01",
+   "front": "Combien le kilo ?",
+   "back": "ກິໂລລະເທົ່າໃດ? · Kī-lóo lā thāo-dǎy?"
+  },
+  {
+   "id": "l16-p02",
+   "front": "Vingt mille kips.",
+   "back": "ຊາວພັນກີບ · Sáaw phán kȉip."
+  },
+  {
+   "id": "l16-p03",
+   "front": "Je prends les deux.",
+   "back": "ເອົາທັງສອງຢ່າງ · Ǎo tháng sɔ̌ɔng yàang."
+  },
+  {
+   "id": "l16-p04",
+   "front": "Et les bananes ?",
+   "back": "ແລ້ວໝາກກ້ວຍເດ? · Lɛ̏ɛw mȁak-kûay dě?"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ໝາກໄມ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "fruit",
+      "mangue",
+      "kilo",
+      "noix de coco"
+     ],
+     "answer": "fruit",
+     "reveal": "<i>Mȁak-mȁy</i>"
+    },
+    {
+     "audio": [
+      "ໝາກມ່ວງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mangue",
+      "banane",
+      "bateau",
+      "kilo"
+     ],
+     "answer": "mangue",
+     "reveal": "<i>Mȁak-mūang</i>"
+    },
+    {
+     "audio": [
+      "ໝາກກ້ວຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "banane",
+      "fruit",
+      "combien ?",
+      "kilo"
+     ],
+     "answer": "banane",
+     "reveal": "<i>Mȁak-kûay</i>"
+    },
+    {
+     "audio": [
+      "ໝາກພ້າວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "noix de coco",
+      "fruit",
+      "banane",
+      "combien ?"
+     ],
+     "answer": "noix de coco",
+     "reveal": "<i>Mȁak-phȁaw</i>"
+    },
+    {
+     "audio": [
+      "ກິໂລ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "kilo",
+      "fruit",
+      "combien ?",
+      "noix de coco"
+     ],
+     "answer": "kilo",
+     "reveal": "<i>Kī-lóo</i>"
+    },
+    {
+     "audio": [
+      "ເທົ່າໃດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "combien ?",
+      "bateau",
+      "mangue",
+      "banane"
+     ],
+     "answer": "combien ?",
+     "reveal": "<i>Thāo-dǎy</i>"
+    },
+    {
+     "audio": [
+      "ພັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mille",
+      "kilo",
+      "épouse",
+      "noix de coco"
+     ],
+     "answer": "mille",
+     "reveal": "<i>Phán</i>"
+    },
+    {
+     "audio": [
+      "ກີບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "kip (monnaie)",
+      "banane",
+      "mille",
+      "bateau"
+     ],
+     "answer": "kip (monnaie)",
+     "reveal": "<i>Kȉip</i>"
+    },
+    {
+     "audio": [
+      "ເມຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "épouse",
+      "kilo",
+      "fruit",
+      "kip (monnaie)"
+     ],
+     "answer": "épouse",
+     "reveal": "<i>Mía</i>"
+    },
+    {
+     "audio": [
+      "ເຮືອ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "bateau",
+      "mangue",
+      "banane",
+      "fruit"
+     ],
+     "answer": "bateau",
+     "reveal": "<i>Hʉ́a</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຊື້ຫຍັງເອື້ອຍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Qu'est-ce que tu achètes ?",
+      "Et les bananes ?",
+      "Combien le kilo de mangues ?",
+      "Dix mille."
+     ],
+     "answer": "Qu'est-ce que tu achètes ?",
+     "reveal": "<i>Sȕu nyǎng ʉ̂ay?</i>"
+    },
+    {
+     "audio": [
+      "ໝາກມ່ວງກິໂລລະເທົ່າໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Combien le kilo de mangues ?",
+      "Dix mille.",
+      "Et les bananes ?",
+      "Qu'est-ce que tu achètes ?"
+     ],
+     "answer": "Combien le kilo de mangues ?",
+     "reveal": "<i>Mȁak-mūang kī-lóo lā thāo-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ຊາວພັນກີບ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Vingt mille kips.",
+      "Je prends les deux.",
+      "Qu'est-ce que tu achètes ?",
+      "Et les bananes ?"
+     ],
+     "answer": "Vingt mille kips.",
+     "reveal": "<i>Sáaw phán kȉip.</i>"
+    },
+    {
+     "audio": [
+      "ແລ້ວໝາກກ້ວຍເດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Et les bananes ?",
+      "Dix mille.",
+      "Qu'est-ce que tu achètes ?",
+      "Je prends les deux."
+     ],
+     "answer": "Et les bananes ?",
+     "reveal": "<i>Lɛ̏ɛw mȁak-kûay dě?</i>"
+    },
+    {
+     "audio": [
+      "ສິບພັນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Dix mille.",
+      "Je prends les deux.",
+      "Qu'est-ce que tu achètes ?",
+      "Et les bananes ?"
+     ],
+     "answer": "Dix mille.",
+     "reveal": "<i>Sīp phán.</i>"
+    },
+    {
+     "audio": [
+      "ເອົາທັງສອງຢ່າງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je prends les deux.",
+      "Dix mille.",
+      "Qu'est-ce que tu achètes ?",
+      "Combien le kilo de mangues ?"
+     ],
+     "answer": "Je prends les deux.",
+     "reveal": "<i>Ǎo tháng sɔ̌ɔng yàang.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ກິໂລລະເທົ່າໃດ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Combien le kilo ?",
+      "Et les bananes ?",
+      "Vingt mille kips.",
+      "Je prends les deux."
+     ],
+     "answer": "Combien le kilo ?",
+     "reveal": "<i>Kī-lóo lā thāo-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ຊາວພັນກີບ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Vingt mille kips.",
+      "Et les bananes ?",
+      "Je prends les deux.",
+      "Combien le kilo ?"
+     ],
+     "answer": "Vingt mille kips.",
+     "reveal": "<i>Sáaw phán kȉip.</i>"
+    },
+    {
+     "audio": [
+      "ເອົາທັງສອງຢ່າງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je prends les deux.",
+      "Et les bananes ?",
+      "Vingt mille kips.",
+      "Combien le kilo ?"
+     ],
+     "answer": "Je prends les deux.",
+     "reveal": "<i>Ǎo tháng sɔ̌ɔng yàang.</i>"
+    },
+    {
+     "audio": [
+      "ແລ້ວໝາກກ້ວຍເດ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Et les bananes ?",
+      "Combien le kilo ?",
+      "Je prends les deux.",
+      "Vingt mille kips."
+     ],
+     "answer": "Et les bananes ?",
+     "reveal": "<i>Lɛ̏ɛw mȁak-kûay dě?</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ໝາກໄມ້",
+   "rom": "Mȁak-mȁy",
+   "fr": "fruit",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໝາກມ່ວງ",
+   "rom": "Mȁak-mūang",
+   "fr": "mangue",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໝາກກ້ວຍ",
+   "rom": "Mȁak-kûay",
+   "fr": "banane",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໝາກພ້າວ",
+   "rom": "Mȁak-phȁaw",
+   "fr": "noix de coco",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກິໂລ",
+   "rom": "Kī-lóo",
+   "fr": "kilo",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເທົ່າໃດ",
+   "rom": "Thāo-dǎy",
+   "fr": "combien ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພັນ",
+   "rom": "Phán",
+   "fr": "mille",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກີບ",
+   "rom": "Kȉip",
+   "fr": "kip (monnaie)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເມຍ",
+   "rom": "Mía",
+   "fr": "épouse",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຮືອ",
+   "rom": "Hʉ́a",
+   "fr": "bateau",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກິໂລລະເທົ່າໃດ?",
+   "rom": "Kī-lóo lā thāo-dǎy?",
+   "fr": "Combien le kilo ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊາວພັນກີບ",
+   "rom": "Sáaw phán kȉip.",
+   "fr": "Vingt mille kips.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເອົາທັງສອງຢ່າງ",
+   "rom": "Ǎo tháng sɔ̌ɔng yàang.",
+   "fr": "Je prends les deux.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແລ້ວໝາກກ້ວຍເດ?",
+   "rom": "Lɛ̏ɛw mȁak-kûay dě?",
+   "fr": "Et les bananes ?",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ກິໂລ",
+    "ລະ",
+    "ເທົ່າໃດ"
+   ],
+   "rom": "Kī-lóo lā thāo-dǎy?",
+   "fr": "Combien le kilo ?"
+  },
+  {
+   "tokens": [
+    "ຊາວ",
+    "ພັນ",
+    "ກີບ"
+   ],
+   "rom": "Sáaw phán kȉip.",
+   "fr": "Vingt mille kips."
+  },
+  {
+   "tokens": [
+    "ເອົາ",
+    "ທັງ",
+    "ສອງ",
+    "ຢ່າງ"
+   ],
+   "rom": "Ǎo tháng sɔ̌ɔng yàang.",
+   "fr": "Je prends les deux."
+  },
+  {
+   "tokens": [
+    "ແລ້ວ",
+    "ໝາກກ້ວຍ",
+    "ເດ"
+   ],
+   "rom": "Lɛ̏ɛw mȁak-kûay dě?",
+   "fr": "Et les bananes ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ໝາກໄມ້",
+   "rom": "Mȁak-mȁy",
+   "fr": "fruit"
+  },
+  {
+   "lao": "ໝາກມ່ວງ",
+   "rom": "Mȁak-mūang",
+   "fr": "mangue"
+  },
+  {
+   "lao": "ໝາກກ້ວຍ",
+   "rom": "Mȁak-kûay",
+   "fr": "banane"
+  },
+  {
+   "lao": "ໝາກພ້າວ",
+   "rom": "Mȁak-phȁaw",
+   "fr": "noix de coco"
+  },
+  {
+   "lao": "ກິໂລ",
+   "rom": "Kī-lóo",
+   "fr": "kilo"
+  },
+  {
+   "lao": "ເທົ່າໃດ",
+   "rom": "Thāo-dǎy",
+   "fr": "combien ?"
+  },
+  {
+   "lao": "ພັນ",
+   "rom": "Phán",
+   "fr": "mille"
+  },
+  {
+   "lao": "ກີບ",
+   "rom": "Kȉip",
+   "fr": "kip (monnaie)"
+  },
+  {
+   "lao": "ເມຍ",
+   "rom": "Mía",
+   "fr": "épouse"
+  },
+  {
+   "lao": "ເຮືອ",
+   "rom": "Hʉ́a",
+   "fr": "bateau"
+  }
+ ],
+ "sounds": {
+  "ໜຸ່ມ": "Nùm",
+  "ພໍ່": "Phɔ̄ɔ",
+  "ຕຳໝາກຫຸ່ງ": "Tǎm-mȁak-hùng",
+  "ຊື່ຫຼິ້ນ": "Sʉ̄ʉ-lîn",
+  "ຊື້ຫຍັງເອື້ອຍ": "Sȕu nyǎng ʉ̂ay?",
+  "ໝາກມ່ວງກິໂລລະເທົ່າໃດ": "Mȁak-mūang kī-lóo lā thāo-dǎy?",
+  "ຊາວພັນກີບ": "Sáaw phán kȉip.",
+  "ແລ້ວໝາກກ້ວຍເດ": "Lɛ̏ɛw mȁak-kûay dě?",
+  "ສິບພັນ": "Sīp phán.",
+  "ເອົາທັງສອງຢ່າງ": "Ǎo tháng sɔ̌ɔng yàang.",
+  "ໝາກໄມ້": "Mȁak-mȁy",
+  "ໝາກມ່ວງ": "Mȁak-mūang",
+  "ໝາກກ້ວຍ": "mȁak-kûay",
+  "ໝາກພ້າວ": "Mȁak-phȁaw",
+  "ກິໂລ": "kī-lóo",
+  "ເທົ່າໃດ": "thāo-dǎy",
+  "ພັນ": "phán",
+  "ກີບ": "kȉip",
+  "ເມຍ": "Mía",
+  "ເຮືອ": "Hʉ́a",
+  "ງົວ": "Ngúa",
+  "ກິໂລລະເທົ່າໃດ": "Kī-lóo lā thāo-dǎy?",
+  "ລະ": "lā",
+  "ຊາວ": "sáaw",
+  "ເອົາ": "ǎo",
+  "ທັງ": "tháng",
+  "ສອງ": "sɔ̌ɔng",
+  "ຢ່າງ": "yàang",
+  "ແລ້ວ": "lɛ̏ɛw",
+  "ເດ": "dě"
+ },
+ "suivi": "LEÇON : 16 — Partie B (Lire et écrire, A0→A1) · Voyelles composées\nOBJECTIF : Lire les voyelles ເ-ຍ, ເ-ືອ, -ົວ et parler de fruits.\nNOTION : les voyelles composées\nVOCAB : Mȁak-mȁy, Mȁak-mūang, Mȁak-kûay, Mȁak-phȁaw, Kī-lóo, Thāo-dǎy, Phán, Kȉip, Mía, Hʉ́a\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 17 — Voyelles spéciales et signes"
+}

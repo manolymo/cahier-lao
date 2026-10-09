@@ -1,0 +1,638 @@
+{
+ "num": 13,
+ "phase": "Partie B · Lire et écrire",
+ "title": "La marque ່",
+ "objective": "Lire les mots avec la marque ່ et des phrases du quotidien.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>blanc <small class=\"muted\">(leçon 12)</small></li><li>véhicule, voiture <small class=\"muted\">(leçon 10)</small></li><li>corbeau <small class=\"muted\">(leçon 6)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຂາວ</span> <span class=\"rom\">Khǎaw</span> · blanc</li><li><span class=\"lo\">ລົດ</span> <span class=\"rom\">Lōt</span> · véhicule, voiture</li><li><span class=\"lo\">ກາ</span> <span class=\"rom\">Kǎa</span> · corbeau</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Lire les mots avec la marque ່ et des phrases du quotidien.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Le matin chez Noy.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ແກ້ວ ຕື່ນແລ້ວບໍ?</span><span class=\"rom\">Kɛ̂ɛw, tʉ̀ʉn lɛ̏ɛw bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຕື່ນແລ້ວແມ່</span><span class=\"rom\">Tʉ̀ʉn lɛ̏ɛw mɛ̄ɛ.</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ອາບນ້ຳແລ້ວໄປໂຮງຮຽນ</span><span class=\"rom\">Ǎap-nȁam lɛ̏ɛw pǎy hóong-hían.</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຂ້ອຍຍັງເມື່ອຍຢູ່</span><span class=\"rom\">Khɔ̂ɔy nyáng mʉ̄ay yùu.</span></div></div><div class=\"line\"><span class=\"who\">ແມ່ບົວ</span><div><span class=\"lo\">ບໍ່ໄດ້! ໄປໄວໆ</span><span class=\"rom\">Bɔ̀ɔ dâay! Pǎy wáy wáy.</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ໂອເຄ ແມ່</span><span class=\"rom\">Ǒo-khéé, mɛ̄ɛ.</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Mme Boua</b> — Kèo, tu es réveillé ?<br><b>Kèo</b> — Oui, maman.<br><b>Mme Boua</b> — Douche-toi et va à l&#x27;école.<br><b>Kèo</b> — Je suis encore fatigué.<br><b>Mme Boua</b> — Pas question ! Vite.<br><b>Kèo</b> — D&#x27;accord, maman.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que demande Mme Boua ?</li><li>Comment se sent Kèo ?</li></ol><details><summary>Réponses</summary><ol><li>Si Kèo est réveillé, puis qu&#x27;il se douche et aille à l&#x27;école.</li><li>Fatigué.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຕື່ນ</td><td class=\"rom\">Tʉ̀ʉn</td><td>se réveiller</td><td>marque ່</td></tr><tr><td class=\"lo\">ອາບນ້ຳ</td><td class=\"rom\">Ǎap-nȁam</td><td>se doucher</td><td></td></tr><tr><td class=\"lo\">ໂຮງຮຽນ</td><td class=\"rom\">Hóong-hían</td><td>école</td><td></td></tr><tr><td class=\"lo\">ເມື່ອຍ</td><td class=\"rom\">Mʉ̄ay</td><td>fatigué</td><td>marque ່</td></tr><tr><td class=\"lo\">ແມ່</td><td class=\"rom\">Mɛ̄ɛ</td><td>maman</td><td>marque ່</td></tr><tr><td class=\"lo\">ພໍ່</td><td class=\"rom\">Phɔ̄ɔ</td><td>papa</td><td>marque ່</td></tr><tr><td class=\"lo\">ບໍ່</td><td class=\"rom\">Bɔ̀ɔ</td><td>ne… pas</td><td>marque ່</td></tr><tr><td class=\"lo\">ໄວ</td><td class=\"rom\">Wáy</td><td>vite</td><td></td></tr><tr><td class=\"lo\">ຍັງ ຢູ່</td><td class=\"rom\">Nyáng… yùu</td><td>encore (en cours)</td><td></td></tr><tr><td class=\"lo\">ກ່ອນ</td><td class=\"rom\">Kɔ̀ɔn</td><td>avant</td><td>marque ່</td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : l'effet de ່",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຂ່າ</span> <span class=\"rom\">Khàa</span> = classe haute + ່ → bas</li><li><span class=\"lo\">ກ່ອນ</span> <span class=\"rom\">Kɔ̀ɔn</span> = classe moyenne + ່ → bas</li><li><span class=\"lo\">ແມ່</span> <span class=\"rom\">Mɛ̄ɛ</span> = classe basse + ່ → moyen</li><li><span class=\"lo\">ພໍ່</span> <span class=\"rom\">Phɔ̄ɔ</span> = classe basse + ່ → moyen</li></ul><p><b>À toi de trouver :</b></p><ol><li>Le ton change-t-il de la même façon pour toutes les classes ?</li></ol><details><summary>La règle</summary><p>La marque ່ donne le ton bas (à) aux consonnes hautes et moyennes, et le ton moyen (ā) aux consonnes basses. [À VÉRIFIER avec un natif]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les mots avec ່ : ແມ່, ພໍ່, ບໍ່.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Tu es réveillé ?</li><li>Je suis fatigué.</li><li>Va à l&#x27;école.</li><li>Vite !</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຕື່ນແລ້ວບໍ?</span> <span class=\"rom\">Tʉ̀ʉn lɛ̏ɛw bɔ̌ɔ?</span></li><li><span class=\"lo\">ຂ້ອຍເມື່ອຍ</span> <span class=\"rom\">Khɔ̂ɔy mʉ̄ay.</span></li><li><span class=\"lo\">ໄປໂຮງຮຽນ</span> <span class=\"rom\">Pǎy hóong-hían.</span></li><li><span class=\"lo\">ໄວໆ!</span> <span class=\"rom\">Wáy wáy!</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Recopie 6 mots avec ່ et indique leur ton.</li><li>Écris ta routine du matin en 3 phrases.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Raconte ta routine du matin à un natif en 4 phrases.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>14 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l13-v01",
+   "front": "ຕື່ນ",
+   "back": "Tʉ̀ʉn · se réveiller"
+  },
+  {
+   "id": "l13-v02",
+   "front": "ອາບນ້ຳ",
+   "back": "Ǎap-nȁam · se doucher"
+  },
+  {
+   "id": "l13-v03",
+   "front": "ໂຮງຮຽນ",
+   "back": "Hóong-hían · école"
+  },
+  {
+   "id": "l13-v04",
+   "front": "ເມື່ອຍ",
+   "back": "Mʉ̄ay · fatigué"
+  },
+  {
+   "id": "l13-v05",
+   "front": "ແມ່",
+   "back": "Mɛ̄ɛ · maman"
+  },
+  {
+   "id": "l13-v06",
+   "front": "ພໍ່",
+   "back": "Phɔ̄ɔ · papa"
+  },
+  {
+   "id": "l13-v07",
+   "front": "ບໍ່",
+   "back": "Bɔ̀ɔ · ne… pas"
+  },
+  {
+   "id": "l13-v08",
+   "front": "ໄວ",
+   "back": "Wáy · vite"
+  },
+  {
+   "id": "l13-v09",
+   "front": "ຍັງ ຢູ່",
+   "back": "Nyáng… yùu · encore (en cours)"
+  },
+  {
+   "id": "l13-v10",
+   "front": "ກ່ອນ",
+   "back": "Kɔ̀ɔn · avant"
+  },
+  {
+   "id": "l13-p01",
+   "front": "Tu es réveillé ?",
+   "back": "ຕື່ນແລ້ວບໍ? · Tʉ̀ʉn lɛ̏ɛw bɔ̌ɔ?"
+  },
+  {
+   "id": "l13-p02",
+   "front": "Je suis fatigué.",
+   "back": "ຂ້ອຍເມື່ອຍ · Khɔ̂ɔy mʉ̄ay."
+  },
+  {
+   "id": "l13-p03",
+   "front": "Va à l'école.",
+   "back": "ໄປໂຮງຮຽນ · Pǎy hóong-hían."
+  },
+  {
+   "id": "l13-p04",
+   "front": "Vite !",
+   "back": "ໄວໆ! · Wáy wáy!"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຕື່ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "se réveiller",
+      "encore (en cours)",
+      "vite",
+      "ne… pas"
+     ],
+     "answer": "se réveiller",
+     "reveal": "<i>Tʉ̀ʉn</i>"
+    },
+    {
+     "audio": [
+      "ອາບນ້ຳ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "se doucher",
+      "fatigué",
+      "ne… pas",
+      "école"
+     ],
+     "answer": "se doucher",
+     "reveal": "<i>Ǎap-nȁam</i>"
+    },
+    {
+     "audio": [
+      "ໂຮງຮຽນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "école",
+      "papa",
+      "encore (en cours)",
+      "avant"
+     ],
+     "answer": "école",
+     "reveal": "<i>Hóong-hían</i>"
+    },
+    {
+     "audio": [
+      "ເມື່ອຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "fatigué",
+      "vite",
+      "ne… pas",
+      "papa"
+     ],
+     "answer": "fatigué",
+     "reveal": "<i>Mʉ̄ay</i>"
+    },
+    {
+     "audio": [
+      "ແມ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "maman",
+      "encore (en cours)",
+      "papa",
+      "école"
+     ],
+     "answer": "maman",
+     "reveal": "<i>Mɛ̄ɛ</i>"
+    },
+    {
+     "audio": [
+      "ພໍ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "papa",
+      "avant",
+      "se doucher",
+      "vite"
+     ],
+     "answer": "papa",
+     "reveal": "<i>Phɔ̄ɔ</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ne… pas",
+      "vite",
+      "se réveiller",
+      "papa"
+     ],
+     "answer": "ne… pas",
+     "reveal": "<i>Bɔ̀ɔ</i>"
+    },
+    {
+     "audio": [
+      "ໄວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "vite",
+      "école",
+      "maman",
+      "se doucher"
+     ],
+     "answer": "vite",
+     "reveal": "<i>Wáy</i>"
+    },
+    {
+     "audio": [
+      "ຍັງ ຢູ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "encore (en cours)",
+      "fatigué",
+      "se réveiller",
+      "ne… pas"
+     ],
+     "answer": "encore (en cours)",
+     "reveal": "<i>Nyáng… yùu</i>"
+    },
+    {
+     "audio": [
+      "ກ່ອນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "avant",
+      "ne… pas",
+      "vite",
+      "se réveiller"
+     ],
+     "answer": "avant",
+     "reveal": "<i>Kɔ̀ɔn</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ແກ້ວ ຕື່ນແລ້ວບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Kèo, tu es réveillé ?",
+      "Oui, maman.",
+      "Je suis encore fatigué.",
+      "Pas question ! Vite."
+     ],
+     "answer": "Kèo, tu es réveillé ?",
+     "reveal": "<i>Kɛ̂ɛw, tʉ̀ʉn lɛ̏ɛw bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຕື່ນແລ້ວແມ່"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oui, maman.",
+      "Pas question ! Vite.",
+      "Douche-toi et va à l'école.",
+      "Kèo, tu es réveillé ?"
+     ],
+     "answer": "Oui, maman.",
+     "reveal": "<i>Tʉ̀ʉn lɛ̏ɛw mɛ̄ɛ.</i>"
+    },
+    {
+     "audio": [
+      "ອາບນ້ຳແລ້ວໄປໂຮງຮຽນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Douche-toi et va à l'école.",
+      "D'accord, maman.",
+      "Pas question ! Vite.",
+      "Kèo, tu es réveillé ?"
+     ],
+     "answer": "Douche-toi et va à l'école.",
+     "reveal": "<i>Ǎap-nȁam lɛ̏ɛw pǎy hóong-hían.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຍັງເມື່ອຍຢູ່"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je suis encore fatigué.",
+      "Oui, maman.",
+      "Pas question ! Vite.",
+      "Kèo, tu es réveillé ?"
+     ],
+     "answer": "Je suis encore fatigué.",
+     "reveal": "<i>Khɔ̂ɔy nyáng mʉ̄ay yùu.</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ໄດ້! ໄປໄວໆ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Pas question ! Vite.",
+      "Je suis encore fatigué.",
+      "Oui, maman.",
+      "Kèo, tu es réveillé ?"
+     ],
+     "answer": "Pas question ! Vite.",
+     "reveal": "<i>Bɔ̀ɔ dâay! Pǎy wáy wáy.</i>"
+    },
+    {
+     "audio": [
+      "ໂອເຄ ແມ່"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "D'accord, maman.",
+      "Kèo, tu es réveillé ?",
+      "Douche-toi et va à l'école.",
+      "Oui, maman."
+     ],
+     "answer": "D'accord, maman.",
+     "reveal": "<i>Ǒo-khéé, mɛ̄ɛ.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຕື່ນແລ້ວບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tu es réveillé ?",
+      "Je suis fatigué.",
+      "Va à l'école.",
+      "Vite !"
+     ],
+     "answer": "Tu es réveillé ?",
+     "reveal": "<i>Tʉ̀ʉn lɛ̏ɛw bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍເມື່ອຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je suis fatigué.",
+      "Va à l'école.",
+      "Vite !",
+      "Tu es réveillé ?"
+     ],
+     "answer": "Je suis fatigué.",
+     "reveal": "<i>Khɔ̂ɔy mʉ̄ay.</i>"
+    },
+    {
+     "audio": [
+      "ໄປໂຮງຮຽນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Va à l'école.",
+      "Tu es réveillé ?",
+      "Vite !",
+      "Je suis fatigué."
+     ],
+     "answer": "Va à l'école.",
+     "reveal": "<i>Pǎy hóong-hían.</i>"
+    },
+    {
+     "audio": [
+      "ໄວໆ!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Vite !",
+      "Va à l'école.",
+      "Je suis fatigué.",
+      "Tu es réveillé ?"
+     ],
+     "answer": "Vite !",
+     "reveal": "<i>Wáy wáy!</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຕື່ນ",
+   "rom": "Tʉ̀ʉn",
+   "fr": "se réveiller",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອາບນ້ຳ",
+   "rom": "Ǎap-nȁam",
+   "fr": "se doucher",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂຮງຮຽນ",
+   "rom": "Hóong-hían",
+   "fr": "école",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເມື່ອຍ",
+   "rom": "Mʉ̄ay",
+   "fr": "fatigué",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແມ່",
+   "rom": "Mɛ̄ɛ",
+   "fr": "maman",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພໍ່",
+   "rom": "Phɔ̄ɔ",
+   "fr": "papa",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ບໍ່",
+   "rom": "Bɔ̀ɔ",
+   "fr": "ne… pas",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄວ",
+   "rom": "Wáy",
+   "fr": "vite",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຍັງ ຢູ່",
+   "rom": "Nyáng… yùu",
+   "fr": "encore (en cours)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກ່ອນ",
+   "rom": "Kɔ̀ɔn",
+   "fr": "avant",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕື່ນແລ້ວບໍ?",
+   "rom": "Tʉ̀ʉn lɛ̏ɛw bɔ̌ɔ?",
+   "fr": "Tu es réveillé ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍເມື່ອຍ",
+   "rom": "Khɔ̂ɔy mʉ̄ay.",
+   "fr": "Je suis fatigué.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄປໂຮງຮຽນ",
+   "rom": "Pǎy hóong-hían.",
+   "fr": "Va à l'école.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄວໆ!",
+   "rom": "Wáy wáy!",
+   "fr": "Vite !",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຕື່ນ",
+    "ແລ້ວ",
+    "ບໍ"
+   ],
+   "rom": "Tʉ̀ʉn lɛ̏ɛw bɔ̌ɔ?",
+   "fr": "Tu es réveillé ?"
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ເມື່ອຍ"
+   ],
+   "rom": "Khɔ̂ɔy mʉ̄ay.",
+   "fr": "Je suis fatigué."
+  },
+  {
+   "tokens": [
+    "ໄປ",
+    "ໂຮງຮຽນ"
+   ],
+   "rom": "Pǎy hóong-hían.",
+   "fr": "Va à l'école."
+  },
+  {
+   "tokens": [
+    "ໄວ",
+    "ໆ"
+   ],
+   "rom": "Wáy wáy!",
+   "fr": "Vite !"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຕື່ນ",
+   "rom": "Tʉ̀ʉn",
+   "fr": "se réveiller"
+  },
+  {
+   "lao": "ອາບນ້ຳ",
+   "rom": "Ǎap-nȁam",
+   "fr": "se doucher"
+  },
+  {
+   "lao": "ໂຮງຮຽນ",
+   "rom": "Hóong-hían",
+   "fr": "école"
+  },
+  {
+   "lao": "ເມື່ອຍ",
+   "rom": "Mʉ̄ay",
+   "fr": "fatigué"
+  },
+  {
+   "lao": "ແມ່",
+   "rom": "Mɛ̄ɛ",
+   "fr": "maman"
+  },
+  {
+   "lao": "ພໍ່",
+   "rom": "Phɔ̄ɔ",
+   "fr": "papa"
+  },
+  {
+   "lao": "ບໍ່",
+   "rom": "Bɔ̀ɔ",
+   "fr": "ne… pas"
+  },
+  {
+   "lao": "ໄວ",
+   "rom": "Wáy",
+   "fr": "vite"
+  },
+  {
+   "lao": "ຍັງ ຢູ່",
+   "rom": "Nyáng… yùu",
+   "fr": "encore (en cours)"
+  },
+  {
+   "lao": "ກ່ອນ",
+   "rom": "Kɔ̀ɔn",
+   "fr": "avant"
+  }
+ ],
+ "sounds": {
+  "ຂາວ": "Khǎaw",
+  "ລົດ": "Lōt",
+  "ກາ": "Kǎa",
+  "ແກ້ວ ຕື່ນແລ້ວບໍ": "Kɛ̂ɛw, tʉ̀ʉn lɛ̏ɛw bɔ̌ɔ?",
+  "ຕື່ນແລ້ວແມ່": "Tʉ̀ʉn lɛ̏ɛw mɛ̄ɛ.",
+  "ອາບນ້ຳແລ້ວໄປໂຮງຮຽນ": "Ǎap-nȁam lɛ̏ɛw pǎy hóong-hían.",
+  "ຂ້ອຍຍັງເມື່ອຍຢູ່": "Khɔ̂ɔy nyáng mʉ̄ay yùu.",
+  "ບໍ່ໄດ້ ໄປໄວໆ": "Bɔ̀ɔ dâay! Pǎy wáy wáy.",
+  "ໂອເຄ ແມ່": "Ǒo-khéé, mɛ̄ɛ.",
+  "ຕື່ນ": "tʉ̀ʉn",
+  "ອາບນ້ຳ": "Ǎap-nȁam",
+  "ໂຮງຮຽນ": "hóong-hían",
+  "ເມື່ອຍ": "mʉ̄ay",
+  "ແມ່": "Mɛ̄ɛ",
+  "ພໍ່": "Phɔ̄ɔ",
+  "ບໍ່": "Bɔ̀ɔ",
+  "ໄວ": "wáy",
+  "ຍັງ ຢູ່": "Nyáng… yùu",
+  "ກ່ອນ": "Kɔ̀ɔn",
+  "ຂ່າ": "Khàa",
+  "ຕື່ນແລ້ວບໍ": "Tʉ̀ʉn lɛ̏ɛw bɔ̌ɔ?",
+  "ຂ້ອຍເມື່ອຍ": "Khɔ̂ɔy mʉ̄ay.",
+  "ໄປໂຮງຮຽນ": "Pǎy hóong-hían.",
+  "ໄວໆ": "Wáy wáy!",
+  "ແລ້ວ": "lɛ̏ɛw",
+  "ບໍ": "bɔ̌ɔ",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ໄປ": "pǎy",
+  "ໆ": ""
+ },
+ "suivi": "LEÇON : 13 — Partie B (Lire et écrire, A0→A1) · La marque ່\nOBJECTIF : Lire les mots avec la marque ່ et des phrases du quotidien.\nNOTION : l'effet de ່\nVOCAB : Tʉ̀ʉn, Ǎap-nȁam, Hóong-hían, Mʉ̄ay, Mɛ̄ɛ, Phɔ̄ɔ, Bɔ̀ɔ, Wáy, Nyáng… yùu, Kɔ̀ɔn\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 14 — La marque ້"
+}

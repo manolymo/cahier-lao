@@ -1,0 +1,568 @@
+{
+ "num": 19,
+ "phase": "Partie B · Lire et écrire",
+ "title": "Taper en lao",
+ "objective": "Installer et utiliser un clavier lao, ponctuer, et écrire un SMS.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>porc <small class=\"muted\">(leçon 18)</small></li><li>fruit <small class=\"muted\">(leçon 16)</small></li><li>couleur <small class=\"muted\">(leçon 12)</small></li><li>pas encore ; encore <small class=\"muted\">(leçon 5)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ໝູ</span> <span class=\"rom\">Mǔu</span> · porc</li><li><span class=\"lo\">ໝາກໄມ້</span> <span class=\"rom\">Mȁak-mȁy</span> · fruit</li><li><span class=\"lo\">ສີ</span> <span class=\"rom\">Sǐi</span> · couleur</li><li><span class=\"lo\">ຍັງ</span> <span class=\"rom\">Nyáng</span> · pas encore ; encore</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Installer et utiliser un clavier lao, ponctuer, et écrire un SMS.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Kèo apprend à Clara à écrire des messages.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ເອື້ອຍມີແປ້ນພິມລາວບໍ?</span><span class=\"rom\">Ʉ̂ay míi pɛ̂ɛn-phím láaw bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ບໍ່ມີ ເຮັດແນວໃດ?</span><span class=\"rom\">Bɔ̀ɔ míi. Hēt nɛ́ɛw-dǎy?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ເຂົ້າໄປຕັ້ງຄ່າແລ້ວເພີ່ມພາສາລາວ</span><span class=\"rom\">Khâo pǎy tâng-khāa lɛ̏ɛw phɤ̄ɤm pháa-sǎa-láaw.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໄດ້ແລ້ວ! ສົ່ງຂໍ້ຄວາມໃຫ້ເຈົ້າເດີ</span><span class=\"rom\">Dâay lɛ̏ɛw! Sòng khɔ̂ɔ-khwáam hây jâo dɤ̌ɤ.</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ໄດ້ຮັບແລ້ວ ເກັ່ງ!</span><span class=\"rom\">Dâay-hāp lɛ̏ɛw. Kèng!</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Kèo</b> — Tu as un clavier lao ?<br><b>Clara</b> — Non. On fait comment ?<br><b>Kèo</b> — Va dans les réglages et ajoute le lao.<br><b>Clara</b> — Ça y est ! Je t&#x27;envoie un message.<br><b>Kèo</b> — Bien reçu. Bravo !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que doit faire Clara pour taper en lao ?</li></ol><details><summary>Réponses</summary><ol><li>Aller dans les réglages et ajouter le lao.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ແປ້ນພິມ</td><td class=\"rom\">Pɛ̂ɛn-phím</td><td>clavier</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ຕັ້ງຄ່າ</td><td class=\"rom\">Tâng-khāa</td><td>réglages</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ເພີ່ມ</td><td class=\"rom\">Phɤ̄ɤm</td><td>ajouter</td><td></td></tr><tr><td class=\"lo\">ສົ່ງ</td><td class=\"rom\">Sòng</td><td>envoyer</td><td></td></tr><tr><td class=\"lo\">ຂໍ້ຄວາມ</td><td class=\"rom\">Khɔ̂ɔ-khwáam</td><td>message</td><td></td></tr><tr><td class=\"lo\">ໄດ້ຮັບ</td><td class=\"rom\">Dâay-hāp</td><td>recevoir</td><td></td></tr><tr><td class=\"lo\">ແນວໃດ</td><td class=\"rom\">Nɛ́ɛw-dǎy</td><td>comment ?</td><td></td></tr><tr><td class=\"lo\">ໂທລະສັບ</td><td class=\"rom\">Thóo-lā-sāp</td><td>téléphone</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les espaces en lao",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ສະບາຍດີ ເຈົ້າສະບາຍດີບໍ?</span> <span class=\"rom\">Sā-bǎay-dǐi. Jâo sā-bǎay-dǐi bɔ̌ɔ?</span> = deux phrases : un espace entre elles</li><li><span class=\"lo\">ຂ້ອຍຊື່ຄລາຣາ</span> <span class=\"rom\">Khɔ̂ɔy sʉ̄ʉ Clara</span> = pas d&#x27;espace entre les mots</li></ul><p><b>À toi de trouver :</b></p><ol><li>Où mets-tu les espaces dans un SMS lao ?</li></ol><details><summary>La règle</summary><p>On n'écrit pas d'espace entre les mots, seulement entre les phrases ou les propositions. Le point est rare ; ? et ! s'utilisent comme en français. Sur clavier, les voyelles et marques se tapent après la consonne.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> relis tes SMS à voix haute pour vérifier.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Tu as un clavier lao ?</li><li>On fait comment ?</li><li>Je t&#x27;envoie un message.</li><li>Bien reçu.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ມີແປ້ນພິມລາວບໍ?</span> <span class=\"rom\">Míi pɛ̂ɛn-phím láaw bɔ̌ɔ?</span></li><li><span class=\"lo\">ເຮັດແນວໃດ?</span> <span class=\"rom\">Hēt nɛ́ɛw-dǎy?</span></li><li><span class=\"lo\">ສົ່ງຂໍ້ຄວາມໃຫ້ເຈົ້າ</span> <span class=\"rom\">Sòng khɔ̂ɔ-khwáam hây jâo.</span></li><li><span class=\"lo\">ໄດ້ຮັບແລ້ວ</span> <span class=\"rom\">Dâay-hāp lɛ̏ɛw.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Installe le clavier lao sur ton téléphone.</li><li>Écris 3 SMS en lao : un bonjour, une invitation, un merci.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Envoie 3 SMS en lao à un natif et demande-lui de corriger.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>12 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l19-v01",
+   "front": "ແປ້ນພິມ",
+   "back": "Pɛ̂ɛn-phím · clavier"
+  },
+  {
+   "id": "l19-v02",
+   "front": "ຕັ້ງຄ່າ",
+   "back": "Tâng-khāa · réglages"
+  },
+  {
+   "id": "l19-v03",
+   "front": "ເພີ່ມ",
+   "back": "Phɤ̄ɤm · ajouter"
+  },
+  {
+   "id": "l19-v04",
+   "front": "ສົ່ງ",
+   "back": "Sòng · envoyer"
+  },
+  {
+   "id": "l19-v05",
+   "front": "ຂໍ້ຄວາມ",
+   "back": "Khɔ̂ɔ-khwáam · message"
+  },
+  {
+   "id": "l19-v06",
+   "front": "ໄດ້ຮັບ",
+   "back": "Dâay-hāp · recevoir"
+  },
+  {
+   "id": "l19-v07",
+   "front": "ແນວໃດ",
+   "back": "Nɛ́ɛw-dǎy · comment ?"
+  },
+  {
+   "id": "l19-v08",
+   "front": "ໂທລະສັບ",
+   "back": "Thóo-lā-sāp · téléphone"
+  },
+  {
+   "id": "l19-p01",
+   "front": "Tu as un clavier lao ?",
+   "back": "ມີແປ້ນພິມລາວບໍ? · Míi pɛ̂ɛn-phím láaw bɔ̌ɔ?"
+  },
+  {
+   "id": "l19-p02",
+   "front": "On fait comment ?",
+   "back": "ເຮັດແນວໃດ? · Hēt nɛ́ɛw-dǎy?"
+  },
+  {
+   "id": "l19-p03",
+   "front": "Je t'envoie un message.",
+   "back": "ສົ່ງຂໍ້ຄວາມໃຫ້ເຈົ້າ · Sòng khɔ̂ɔ-khwáam hây jâo."
+  },
+  {
+   "id": "l19-p04",
+   "front": "Bien reçu.",
+   "back": "ໄດ້ຮັບແລ້ວ · Dâay-hāp lɛ̏ɛw."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ແປ້ນພິມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "clavier",
+      "ajouter",
+      "réglages",
+      "comment ?"
+     ],
+     "answer": "clavier",
+     "reveal": "<i>Pɛ̂ɛn-phím</i>"
+    },
+    {
+     "audio": [
+      "ຕັ້ງຄ່າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "réglages",
+      "message",
+      "ajouter",
+      "clavier"
+     ],
+     "answer": "réglages",
+     "reveal": "<i>Tâng-khāa</i>"
+    },
+    {
+     "audio": [
+      "ເພີ່ມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ajouter",
+      "clavier",
+      "comment ?",
+      "message"
+     ],
+     "answer": "ajouter",
+     "reveal": "<i>Phɤ̄ɤm</i>"
+    },
+    {
+     "audio": [
+      "ສົ່ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "envoyer",
+      "réglages",
+      "clavier",
+      "comment ?"
+     ],
+     "answer": "envoyer",
+     "reveal": "<i>Sòng</i>"
+    },
+    {
+     "audio": [
+      "ຂໍ້ຄວາມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "message",
+      "téléphone",
+      "ajouter",
+      "envoyer"
+     ],
+     "answer": "message",
+     "reveal": "<i>Khɔ̂ɔ-khwáam</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້ຮັບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "recevoir",
+      "téléphone",
+      "message",
+      "comment ?"
+     ],
+     "answer": "recevoir",
+     "reveal": "<i>Dâay-hāp</i>"
+    },
+    {
+     "audio": [
+      "ແນວໃດ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "comment ?",
+      "recevoir",
+      "ajouter",
+      "téléphone"
+     ],
+     "answer": "comment ?",
+     "reveal": "<i>Nɛ́ɛw-dǎy</i>"
+    },
+    {
+     "audio": [
+      "ໂທລະສັບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "téléphone",
+      "ajouter",
+      "réglages",
+      "clavier"
+     ],
+     "answer": "téléphone",
+     "reveal": "<i>Thóo-lā-sāp</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເອື້ອຍມີແປ້ນພິມລາວບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu as un clavier lao ?",
+      "Ça y est ! Je t'envoie un message.",
+      "Va dans les réglages et ajoute le lao.",
+      "Non. On fait comment ?"
+     ],
+     "answer": "Tu as un clavier lao ?",
+     "reveal": "<i>Ʉ̂ay míi pɛ̂ɛn-phím láaw bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ມີ ເຮັດແນວໃດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Non. On fait comment ?",
+      "Bien reçu. Bravo !",
+      "Ça y est ! Je t'envoie un message.",
+      "Va dans les réglages et ajoute le lao."
+     ],
+     "answer": "Non. On fait comment ?",
+     "reveal": "<i>Bɔ̀ɔ míi. Hēt nɛ́ɛw-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ເຂົ້າໄປຕັ້ງຄ່າແລ້ວເພີ່ມພາສາລາວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Va dans les réglages et ajoute le lao.",
+      "Ça y est ! Je t'envoie un message.",
+      "Bien reçu. Bravo !",
+      "Tu as un clavier lao ?"
+     ],
+     "answer": "Va dans les réglages et ajoute le lao.",
+     "reveal": "<i>Khâo pǎy tâng-khāa lɛ̏ɛw phɤ̄ɤm pháa-sǎa-láaw.</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້ແລ້ວ! ສົ່ງຂໍ້ຄວາມໃຫ້ເຈົ້າເດີ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Ça y est ! Je t'envoie un message.",
+      "Bien reçu. Bravo !",
+      "Non. On fait comment ?",
+      "Va dans les réglages et ajoute le lao."
+     ],
+     "answer": "Ça y est ! Je t'envoie un message.",
+     "reveal": "<i>Dâay lɛ̏ɛw! Sòng khɔ̂ɔ-khwáam hây jâo dɤ̌ɤ.</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້ຮັບແລ້ວ ເກັ່ງ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Bien reçu. Bravo !",
+      "Non. On fait comment ?",
+      "Va dans les réglages et ajoute le lao.",
+      "Ça y est ! Je t'envoie un message."
+     ],
+     "answer": "Bien reçu. Bravo !",
+     "reveal": "<i>Dâay-hāp lɛ̏ɛw. Kèng!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ມີແປ້ນພິມລາວບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tu as un clavier lao ?",
+      "Bien reçu.",
+      "Je t'envoie un message.",
+      "On fait comment ?"
+     ],
+     "answer": "Tu as un clavier lao ?",
+     "reveal": "<i>Míi pɛ̂ɛn-phím láaw bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ເຮັດແນວໃດ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "On fait comment ?",
+      "Bien reçu.",
+      "Tu as un clavier lao ?",
+      "Je t'envoie un message."
+     ],
+     "answer": "On fait comment ?",
+     "reveal": "<i>Hēt nɛ́ɛw-dǎy?</i>"
+    },
+    {
+     "audio": [
+      "ສົ່ງຂໍ້ຄວາມໃຫ້ເຈົ້າ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je t'envoie un message.",
+      "On fait comment ?",
+      "Tu as un clavier lao ?",
+      "Bien reçu."
+     ],
+     "answer": "Je t'envoie un message.",
+     "reveal": "<i>Sòng khɔ̂ɔ-khwáam hây jâo.</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້ຮັບແລ້ວ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Bien reçu.",
+      "Je t'envoie un message.",
+      "Tu as un clavier lao ?",
+      "On fait comment ?"
+     ],
+     "answer": "Bien reçu.",
+     "reveal": "<i>Dâay-hāp lɛ̏ɛw.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ແປ້ນພິມ",
+   "rom": "Pɛ̂ɛn-phím",
+   "fr": "clavier",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕັ້ງຄ່າ",
+   "rom": "Tâng-khāa",
+   "fr": "réglages",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເພີ່ມ",
+   "rom": "Phɤ̄ɤm",
+   "fr": "ajouter",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສົ່ງ",
+   "rom": "Sòng",
+   "fr": "envoyer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂໍ້ຄວາມ",
+   "rom": "Khɔ̂ɔ-khwáam",
+   "fr": "message",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄດ້ຮັບ",
+   "rom": "Dâay-hāp",
+   "fr": "recevoir",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແນວໃດ",
+   "rom": "Nɛ́ɛw-dǎy",
+   "fr": "comment ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂທລະສັບ",
+   "rom": "Thóo-lā-sāp",
+   "fr": "téléphone",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມີແປ້ນພິມລາວບໍ?",
+   "rom": "Míi pɛ̂ɛn-phím láaw bɔ̌ɔ?",
+   "fr": "Tu as un clavier lao ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຮັດແນວໃດ?",
+   "rom": "Hēt nɛ́ɛw-dǎy?",
+   "fr": "On fait comment ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສົ່ງຂໍ້ຄວາມໃຫ້ເຈົ້າ",
+   "rom": "Sòng khɔ̂ɔ-khwáam hây jâo.",
+   "fr": "Je t'envoie un message.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄດ້ຮັບແລ້ວ",
+   "rom": "Dâay-hāp lɛ̏ɛw.",
+   "fr": "Bien reçu.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ມີ",
+    "ແປ້ນພິມ",
+    "ລາວ",
+    "ບໍ"
+   ],
+   "rom": "Míi pɛ̂ɛn-phím láaw bɔ̌ɔ?",
+   "fr": "Tu as un clavier lao ?"
+  },
+  {
+   "tokens": [
+    "ເຮັດ",
+    "ແນວໃດ"
+   ],
+   "rom": "Hēt nɛ́ɛw-dǎy?",
+   "fr": "On fait comment ?"
+  },
+  {
+   "tokens": [
+    "ສົ່ງ",
+    "ຂໍ້ຄວາມ",
+    "ໃຫ້",
+    "ເຈົ້າ"
+   ],
+   "rom": "Sòng khɔ̂ɔ-khwáam hây jâo.",
+   "fr": "Je t'envoie un message."
+  },
+  {
+   "tokens": [
+    "ໄດ້ຮັບ",
+    "ແລ້ວ"
+   ],
+   "rom": "Dâay-hāp lɛ̏ɛw.",
+   "fr": "Bien reçu."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ແປ້ນພິມ",
+   "rom": "Pɛ̂ɛn-phím",
+   "fr": "clavier"
+  },
+  {
+   "lao": "ຕັ້ງຄ່າ",
+   "rom": "Tâng-khāa",
+   "fr": "réglages"
+  },
+  {
+   "lao": "ເພີ່ມ",
+   "rom": "Phɤ̄ɤm",
+   "fr": "ajouter"
+  },
+  {
+   "lao": "ສົ່ງ",
+   "rom": "Sòng",
+   "fr": "envoyer"
+  },
+  {
+   "lao": "ຂໍ້ຄວາມ",
+   "rom": "Khɔ̂ɔ-khwáam",
+   "fr": "message"
+  },
+  {
+   "lao": "ໄດ້ຮັບ",
+   "rom": "Dâay-hāp",
+   "fr": "recevoir"
+  },
+  {
+   "lao": "ແນວໃດ",
+   "rom": "Nɛ́ɛw-dǎy",
+   "fr": "comment ?"
+  },
+  {
+   "lao": "ໂທລະສັບ",
+   "rom": "Thóo-lā-sāp",
+   "fr": "téléphone"
+  }
+ ],
+ "sounds": {
+  "ໝູ": "Mǔu",
+  "ໝາກໄມ້": "Mȁak-mȁy",
+  "ສີ": "Sǐi",
+  "ຍັງ": "Nyáng",
+  "ເອື້ອຍມີແປ້ນພິມລາວບໍ": "Ʉ̂ay míi pɛ̂ɛn-phím láaw bɔ̌ɔ?",
+  "ບໍ່ມີ ເຮັດແນວໃດ": "Bɔ̀ɔ míi. Hēt nɛ́ɛw-dǎy?",
+  "ເຂົ້າໄປຕັ້ງຄ່າແລ້ວເພີ່ມພາສາລາວ": "Khâo pǎy tâng-khāa lɛ̏ɛw phɤ̄ɤm pháa-sǎa-láaw.",
+  "ໄດ້ແລ້ວ ສົ່ງຂໍ້ຄວາມໃຫ້ເຈົ້າເດີ": "Dâay lɛ̏ɛw! Sòng khɔ̂ɔ-khwáam hây jâo dɤ̌ɤ.",
+  "ໄດ້ຮັບແລ້ວ ເກັ່ງ": "Dâay-hāp lɛ̏ɛw. Kèng!",
+  "ແປ້ນພິມ": "pɛ̂ɛn-phím",
+  "ຕັ້ງຄ່າ": "Tâng-khāa",
+  "ເພີ່ມ": "Phɤ̄ɤm",
+  "ສົ່ງ": "sòng",
+  "ຂໍ້ຄວາມ": "khɔ̂ɔ-khwáam",
+  "ໄດ້ຮັບ": "dâay-hāp",
+  "ແນວໃດ": "nɛ́ɛw-dǎy",
+  "ໂທລະສັບ": "Thóo-lā-sāp",
+  "ສະບາຍດີ ເຈົ້າສະບາຍດີບໍ": "Sā-bǎay-dǐi. Jâo sā-bǎay-dǐi bɔ̌ɔ?",
+  "ຂ້ອຍຊື່ຄລາຣາ": "Khɔ̂ɔy sʉ̄ʉ Clara",
+  "ມີແປ້ນພິມລາວບໍ": "Míi pɛ̂ɛn-phím láaw bɔ̌ɔ?",
+  "ເຮັດແນວໃດ": "Hēt nɛ́ɛw-dǎy?",
+  "ສົ່ງຂໍ້ຄວາມໃຫ້ເຈົ້າ": "Sòng khɔ̂ɔ-khwáam hây jâo.",
+  "ໄດ້ຮັບແລ້ວ": "Dâay-hāp lɛ̏ɛw.",
+  "ມີ": "míi",
+  "ລາວ": "láaw",
+  "ບໍ": "bɔ̌ɔ",
+  "ເຮັດ": "hēt",
+  "ໃຫ້": "hây",
+  "ເຈົ້າ": "jâo",
+  "ແລ້ວ": "lɛ̏ɛw"
+ },
+ "suivi": "LEÇON : 19 — Partie B (Lire et écrire, A0→A1) · Taper en lao\nOBJECTIF : Installer et utiliser un clavier lao, ponctuer, et écrire un SMS.\nNOTION : les espaces en lao\nVOCAB : Pɛ̂ɛn-phím, Tâng-khāa, Phɤ̄ɤm, Sòng, Khɔ̂ɔ-khwáam, Dâay-hāp, Nɛ́ɛw-dǎy, Thóo-lā-sāp\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 20 — Bilan lecture et écriture"
+}

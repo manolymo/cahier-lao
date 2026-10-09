@@ -1,0 +1,633 @@
+{
+ "num": 12,
+ "phase": "Partie B · Lire et écrire",
+ "title": "Le ton sans marque",
+ "objective": "Déduire le ton d'un mot inconnu sans marque de ton, à partir de la classe et du type de syllabe.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>chien <small class=\"muted\">(leçon 11)</small></li><li>père <small class=\"muted\">(leçon 9)</small></li><li>bon (au goût) <small class=\"muted\">(leçon 5)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ໝາ</span> <span class=\"rom\">Mǎa</span> · chien</li><li><span class=\"lo\">ພໍ່</span> <span class=\"rom\">Phɔ̄ɔ</span> · père</li><li><span class=\"lo\">ແຊບ</span> <span class=\"rom\">Sɛ̂ɛp</span> · bon (au goût)</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Déduire le ton d&#x27;un mot inconnu sans marque de ton, à partir de la classe et du type de syllabe.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Noy teste Clara avec les couleurs.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ສີນີ້ແມ່ນສີຫຍັງ?</span><span class=\"rom\">Sǐi nȉi mɛ̄ɛn sǐi nyǎng?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສີແດງ</span><span class=\"rom\">Sǐi dɛ̌ɛng.</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຖືກແລ້ວ! ແລ້ວອັນນີ້ເດ?</span><span class=\"rom\">Thʉ̀ʉk lɛ̏ɛw! Lɛ̏ɛw ǎn nȉi dě?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສີຂຽວ</span><span class=\"rom\">Sǐi khǐaw.</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເຈົ້າມັກສີຫຍັງ?</span><span class=\"rom\">Jâo māk sǐi nyǎng?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍມັກສີຟ້າ</span><span class=\"rom\">Khɔ̂ɔy māk sǐi fȁa.</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — C&#x27;est quelle couleur, ça ?<br><b>Clara</b> — Rouge.<br><b>Noy</b> — Exact ! Et ça ?<br><b>Clara</b> — Vert.<br><b>Noy</b> — Tu aimes quelle couleur ?<br><b>Clara</b> — J&#x27;aime le bleu.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quelles couleurs Clara reconnaît-elle ?</li><li>Quelle est sa couleur préférée ?</li></ol><details><summary>Réponses</summary><ol><li>Rouge et vert.</li><li>Le bleu (ສີຟ້າ).</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ສີ</td><td class=\"rom\">Sǐi</td><td>couleur</td><td>se met devant la couleur</td></tr><tr><td class=\"lo\">ແດງ</td><td class=\"rom\">Dɛ̌ɛng</td><td>rouge</td><td></td></tr><tr><td class=\"lo\">ຂຽວ</td><td class=\"rom\">Khǐaw</td><td>vert</td><td></td></tr><tr><td class=\"lo\">ເຫຼືອງ</td><td class=\"rom\">Lʉ̌ang</td><td>jaune</td><td></td></tr><tr><td class=\"lo\">ຂາວ</td><td class=\"rom\">Khǎaw</td><td>blanc</td><td></td></tr><tr><td class=\"lo\">ດຳ</td><td class=\"rom\">Dǎm</td><td>noir</td><td></td></tr><tr><td class=\"lo\">ສີຟ້າ</td><td class=\"rom\">Sǐi-fȁa</td><td>bleu (ciel)</td><td></td></tr><tr><td class=\"lo\">ມັກ</td><td class=\"rom\">Māk</td><td>aimer</td><td></td></tr><tr><td class=\"lo\">ຖືກແລ້ວ</td><td class=\"rom\">Thʉ̀ʉk lɛ̏ɛw</td><td>c&#x27;est juste</td><td></td></tr><tr><td class=\"lo\">ອັນ</td><td class=\"rom\">Ǎn</td><td>classificateur des objets</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : le tableau des tons sans marque",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ດຳ</span> <span class=\"rom\">Dǎm</span> = classe moyenne, vivante → montant</li><li><span class=\"lo\">ຂາວ</span> <span class=\"rom\">Khǎaw</span> = classe haute, vivante → montant</li><li><span class=\"lo\">ແດງ</span> <span class=\"rom\">Dɛ̌ɛng</span> = classe moyenne, vivante → montant</li><li><span class=\"lo\">ມັກ</span> <span class=\"rom\">Māk</span> = classe basse, morte courte → moyen</li></ul><p><b>À toi de trouver :</b></p><ol><li>Avec le tableau, devine le ton de ງາມ et de ສີ.</li></ol><details><summary>La règle</summary><p>Sans marque : syllabe vivante → classe haute ou moyenne = montant (ǎ), classe basse = haut (á). Syllabe morte courte → haute = moyen (ā), moyenne = haut (á), basse = moyen (ā). Syllabe morte longue → haute ou moyenne = bas descendant (ȁ), basse = haut descendant (â). [Table à valider avec un natif]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> applique la règle à chaque couleur entendue, puis vérifie.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>C&#x27;est quelle couleur ?</li><li>C&#x27;est rouge.</li><li>J&#x27;aime le bleu.</li><li>C&#x27;est juste !</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ສີຫຍັງ?</span> <span class=\"rom\">Sǐi nyǎng?</span></li><li><span class=\"lo\">ສີແດງ</span> <span class=\"rom\">Sǐi dɛ̌ɛng.</span></li><li><span class=\"lo\">ຂ້ອຍມັກສີຟ້າ</span> <span class=\"rom\">Khɔ̂ɔy māk sǐi-fȁa.</span></li><li><span class=\"lo\">ຖືກແລ້ວ!</span> <span class=\"rom\">Thʉ̀ʉk lɛ̏ɛw!</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Pour 6 mots nouveaux du dictionnaire, devine le ton avec la règle, puis vérifie avec l&#x27;audio ou un natif.</li><li>Écris les 6 couleurs de la leçon.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Décris en lao la couleur de 5 objets autour de toi.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>14 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l12-v01",
+   "front": "ສີ",
+   "back": "Sǐi · couleur"
+  },
+  {
+   "id": "l12-v02",
+   "front": "ແດງ",
+   "back": "Dɛ̌ɛng · rouge"
+  },
+  {
+   "id": "l12-v03",
+   "front": "ຂຽວ",
+   "back": "Khǐaw · vert"
+  },
+  {
+   "id": "l12-v04",
+   "front": "ເຫຼືອງ",
+   "back": "Lʉ̌ang · jaune"
+  },
+  {
+   "id": "l12-v05",
+   "front": "ຂາວ",
+   "back": "Khǎaw · blanc"
+  },
+  {
+   "id": "l12-v06",
+   "front": "ດຳ",
+   "back": "Dǎm · noir"
+  },
+  {
+   "id": "l12-v07",
+   "front": "ສີຟ້າ",
+   "back": "Sǐi-fȁa · bleu (ciel)"
+  },
+  {
+   "id": "l12-v08",
+   "front": "ມັກ",
+   "back": "Māk · aimer"
+  },
+  {
+   "id": "l12-v09",
+   "front": "ຖືກແລ້ວ",
+   "back": "Thʉ̀ʉk lɛ̏ɛw · c'est juste"
+  },
+  {
+   "id": "l12-v10",
+   "front": "ອັນ",
+   "back": "Ǎn · classificateur des objets"
+  },
+  {
+   "id": "l12-p01",
+   "front": "C'est quelle couleur ?",
+   "back": "ສີຫຍັງ? · Sǐi nyǎng?"
+  },
+  {
+   "id": "l12-p02",
+   "front": "C'est rouge.",
+   "back": "ສີແດງ · Sǐi dɛ̌ɛng."
+  },
+  {
+   "id": "l12-p03",
+   "front": "J'aime le bleu.",
+   "back": "ຂ້ອຍມັກສີຟ້າ · Khɔ̂ɔy māk sǐi-fȁa."
+  },
+  {
+   "id": "l12-p04",
+   "front": "C'est juste !",
+   "back": "ຖືກແລ້ວ! · Thʉ̀ʉk lɛ̏ɛw!"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ສີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "couleur",
+      "vert",
+      "bleu (ciel)",
+      "classificateur des objets"
+     ],
+     "answer": "couleur",
+     "reveal": "<i>Sǐi</i>"
+    },
+    {
+     "audio": [
+      "ແດງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "rouge",
+      "vert",
+      "couleur",
+      "classificateur des objets"
+     ],
+     "answer": "rouge",
+     "reveal": "<i>Dɛ̌ɛng</i>"
+    },
+    {
+     "audio": [
+      "ຂຽວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "vert",
+      "jaune",
+      "classificateur des objets",
+      "c'est juste"
+     ],
+     "answer": "vert",
+     "reveal": "<i>Khǐaw</i>"
+    },
+    {
+     "audio": [
+      "ເຫຼືອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "jaune",
+      "aimer",
+      "rouge",
+      "couleur"
+     ],
+     "answer": "jaune",
+     "reveal": "<i>Lʉ̌ang</i>"
+    },
+    {
+     "audio": [
+      "ຂາວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "blanc",
+      "couleur",
+      "aimer",
+      "rouge"
+     ],
+     "answer": "blanc",
+     "reveal": "<i>Khǎaw</i>"
+    },
+    {
+     "audio": [
+      "ດຳ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "noir",
+      "blanc",
+      "rouge",
+      "classificateur des objets"
+     ],
+     "answer": "noir",
+     "reveal": "<i>Dǎm</i>"
+    },
+    {
+     "audio": [
+      "ສີຟ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "bleu (ciel)",
+      "classificateur des objets",
+      "vert",
+      "jaune"
+     ],
+     "answer": "bleu (ciel)",
+     "reveal": "<i>Sǐi-fȁa</i>"
+    },
+    {
+     "audio": [
+      "ມັກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "aimer",
+      "vert",
+      "classificateur des objets",
+      "blanc"
+     ],
+     "answer": "aimer",
+     "reveal": "<i>Māk</i>"
+    },
+    {
+     "audio": [
+      "ຖືກແລ້ວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "c'est juste",
+      "vert",
+      "aimer",
+      "bleu (ciel)"
+     ],
+     "answer": "c'est juste",
+     "reveal": "<i>Thʉ̀ʉk lɛ̏ɛw</i>"
+    },
+    {
+     "audio": [
+      "ອັນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "classificateur des objets",
+      "jaune",
+      "c'est juste",
+      "rouge"
+     ],
+     "answer": "classificateur des objets",
+     "reveal": "<i>Ǎn</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ສີນີ້ແມ່ນສີຫຍັງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'est quelle couleur, ça ?",
+      "Rouge.",
+      "Exact ! Et ça ?",
+      "J'aime le bleu."
+     ],
+     "answer": "C'est quelle couleur, ça ?",
+     "reveal": "<i>Sǐi nȉi mɛ̄ɛn sǐi nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ສີແດງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Rouge.",
+      "C'est quelle couleur, ça ?",
+      "Vert.",
+      "J'aime le bleu."
+     ],
+     "answer": "Rouge.",
+     "reveal": "<i>Sǐi dɛ̌ɛng.</i>"
+    },
+    {
+     "audio": [
+      "ຖືກແລ້ວ! ແລ້ວອັນນີ້ເດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Exact ! Et ça ?",
+      "J'aime le bleu.",
+      "Tu aimes quelle couleur ?",
+      "C'est quelle couleur, ça ?"
+     ],
+     "answer": "Exact ! Et ça ?",
+     "reveal": "<i>Thʉ̀ʉk lɛ̏ɛw! Lɛ̏ɛw ǎn nȉi dě?</i>"
+    },
+    {
+     "audio": [
+      "ສີຂຽວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Vert.",
+      "Tu aimes quelle couleur ?",
+      "Rouge.",
+      "Exact ! Et ça ?"
+     ],
+     "answer": "Vert.",
+     "reveal": "<i>Sǐi khǐaw.</i>"
+    },
+    {
+     "audio": [
+      "ເຈົ້າມັກສີຫຍັງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu aimes quelle couleur ?",
+      "Exact ! Et ça ?",
+      "Rouge.",
+      "C'est quelle couleur, ça ?"
+     ],
+     "answer": "Tu aimes quelle couleur ?",
+     "reveal": "<i>Jâo māk sǐi nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍມັກສີຟ້າ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "J'aime le bleu.",
+      "Vert.",
+      "Rouge.",
+      "Tu aimes quelle couleur ?"
+     ],
+     "answer": "J'aime le bleu.",
+     "reveal": "<i>Khɔ̂ɔy māk sǐi fȁa.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ສີຫຍັງ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est quelle couleur ?",
+      "J'aime le bleu.",
+      "C'est juste !",
+      "C'est rouge."
+     ],
+     "answer": "C'est quelle couleur ?",
+     "reveal": "<i>Sǐi nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ສີແດງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est rouge.",
+      "C'est juste !",
+      "J'aime le bleu.",
+      "C'est quelle couleur ?"
+     ],
+     "answer": "C'est rouge.",
+     "reveal": "<i>Sǐi dɛ̌ɛng.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍມັກສີຟ້າ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "J'aime le bleu.",
+      "C'est rouge.",
+      "C'est quelle couleur ?",
+      "C'est juste !"
+     ],
+     "answer": "J'aime le bleu.",
+     "reveal": "<i>Khɔ̂ɔy māk sǐi-fȁa.</i>"
+    },
+    {
+     "audio": [
+      "ຖືກແລ້ວ!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est juste !",
+      "J'aime le bleu.",
+      "C'est quelle couleur ?",
+      "C'est rouge."
+     ],
+     "answer": "C'est juste !",
+     "reveal": "<i>Thʉ̀ʉk lɛ̏ɛw!</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ສີ",
+   "rom": "Sǐi",
+   "fr": "couleur",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແດງ",
+   "rom": "Dɛ̌ɛng",
+   "fr": "rouge",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂຽວ",
+   "rom": "Khǐaw",
+   "fr": "vert",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຫຼືອງ",
+   "rom": "Lʉ̌ang",
+   "fr": "jaune",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂາວ",
+   "rom": "Khǎaw",
+   "fr": "blanc",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ດຳ",
+   "rom": "Dǎm",
+   "fr": "noir",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສີຟ້າ",
+   "rom": "Sǐi-fȁa",
+   "fr": "bleu (ciel)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມັກ",
+   "rom": "Māk",
+   "fr": "aimer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຖືກແລ້ວ",
+   "rom": "Thʉ̀ʉk lɛ̏ɛw",
+   "fr": "c'est juste",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອັນ",
+   "rom": "Ǎn",
+   "fr": "classificateur des objets",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສີຫຍັງ?",
+   "rom": "Sǐi nyǎng?",
+   "fr": "C'est quelle couleur ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສີແດງ",
+   "rom": "Sǐi dɛ̌ɛng.",
+   "fr": "C'est rouge.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍມັກສີຟ້າ",
+   "rom": "Khɔ̂ɔy māk sǐi-fȁa.",
+   "fr": "J'aime le bleu.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຖືກແລ້ວ!",
+   "rom": "Thʉ̀ʉk lɛ̏ɛw!",
+   "fr": "C'est juste !",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ສີ",
+    "ຫຍັງ"
+   ],
+   "rom": "Sǐi nyǎng?",
+   "fr": "C'est quelle couleur ?"
+  },
+  {
+   "tokens": [
+    "ສີ",
+    "ແດງ"
+   ],
+   "rom": "Sǐi dɛ̌ɛng.",
+   "fr": "C'est rouge."
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ມັກ",
+    "ສີຟ້າ"
+   ],
+   "rom": "Khɔ̂ɔy māk sǐi-fȁa.",
+   "fr": "J'aime le bleu."
+  },
+  {
+   "tokens": [
+    "ຖືກ",
+    "ແລ້ວ"
+   ],
+   "rom": "Thʉ̀ʉk lɛ̏ɛw!",
+   "fr": "C'est juste !"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ສີ",
+   "rom": "Sǐi",
+   "fr": "couleur"
+  },
+  {
+   "lao": "ແດງ",
+   "rom": "Dɛ̌ɛng",
+   "fr": "rouge"
+  },
+  {
+   "lao": "ຂຽວ",
+   "rom": "Khǐaw",
+   "fr": "vert"
+  },
+  {
+   "lao": "ເຫຼືອງ",
+   "rom": "Lʉ̌ang",
+   "fr": "jaune"
+  },
+  {
+   "lao": "ຂາວ",
+   "rom": "Khǎaw",
+   "fr": "blanc"
+  },
+  {
+   "lao": "ດຳ",
+   "rom": "Dǎm",
+   "fr": "noir"
+  },
+  {
+   "lao": "ສີຟ້າ",
+   "rom": "Sǐi-fȁa",
+   "fr": "bleu (ciel)"
+  },
+  {
+   "lao": "ມັກ",
+   "rom": "Māk",
+   "fr": "aimer"
+  },
+  {
+   "lao": "ຖືກແລ້ວ",
+   "rom": "Thʉ̀ʉk lɛ̏ɛw",
+   "fr": "c'est juste"
+  },
+  {
+   "lao": "ອັນ",
+   "rom": "Ǎn",
+   "fr": "classificateur des objets"
+  }
+ ],
+ "sounds": {
+  "ໝາ": "Mǎa",
+  "ພໍ່": "Phɔ̄ɔ",
+  "ແຊບ": "Sɛ̂ɛp",
+  "ສີນີ້ແມ່ນສີຫຍັງ": "Sǐi nȉi mɛ̄ɛn sǐi nyǎng?",
+  "ສີແດງ": "Sǐi dɛ̌ɛng.",
+  "ຖືກແລ້ວ ແລ້ວອັນນີ້ເດ": "Thʉ̀ʉk lɛ̏ɛw! Lɛ̏ɛw ǎn nȉi dě?",
+  "ສີຂຽວ": "Sǐi khǐaw.",
+  "ເຈົ້າມັກສີຫຍັງ": "Jâo māk sǐi nyǎng?",
+  "ຂ້ອຍມັກສີຟ້າ": "Khɔ̂ɔy māk sǐi-fȁa.",
+  "ສີ": "sǐi",
+  "ແດງ": "dɛ̌ɛng",
+  "ຂຽວ": "Khǐaw",
+  "ເຫຼືອງ": "Lʉ̌ang",
+  "ຂາວ": "Khǎaw",
+  "ດຳ": "Dǎm",
+  "ສີຟ້າ": "sǐi-fȁa",
+  "ມັກ": "māk",
+  "ຖືກແລ້ວ": "Thʉ̀ʉk lɛ̏ɛw!",
+  "ອັນ": "Ǎn",
+  "ສີຫຍັງ": "Sǐi nyǎng?",
+  "ຫຍັງ": "nyǎng",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ຖືກ": "thʉ̀ʉk",
+  "ແລ້ວ": "lɛ̏ɛw"
+ },
+ "suivi": "LEÇON : 12 — Partie B (Lire et écrire, A0→A1) · Le ton sans marque\nOBJECTIF : Déduire le ton d'un mot inconnu sans marque de ton, à partir de la classe et du type de syllabe.\nNOTION : le tableau des tons sans marque\nVOCAB : Sǐi, Dɛ̌ɛng, Khǐaw, Lʉ̌ang, Khǎaw, Dǎm, Sǐi-fȁa, Māk, Thʉ̀ʉk lɛ̏ɛw, Ǎn\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 13 — La marque ່"
+}

@@ -1,0 +1,645 @@
+{
+ "num": 14,
+ "phase": "Partie B · Lire et écrire",
+ "title": "La marque ້",
+ "objective": "Lire les mots avec ້ et les marques rares, et lire un court message.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>vite <small class=\"muted\">(leçon 13)</small></li><li>bœuf <small class=\"muted\">(leçon 11)</small></li><li>écrire <small class=\"muted\">(leçon 7)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ໄວ</span> <span class=\"rom\">Wáy</span> · vite</li><li><span class=\"lo\">ງົວ</span> <span class=\"rom\">Ngúa</span> · bœuf</li><li><span class=\"lo\">ຂຽນ</span> <span class=\"rom\">Khǐan</span> · écrire</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Lire les mots avec ້ et les marques rares, et lire un court message.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara reçoit un message de Noy.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຄລາຣາ ມື້ນີ້ຫວ່າງບໍ?</span><span class=\"rom\">Clara, mʉ̂ʉ-nȉi wàang bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຫວ່າງ ມີຫຍັງ?</span><span class=\"rom\">Wàang. Míi nyǎng?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ໄປກິນເຝີນຳກັນບໍ?</span><span class=\"rom\">Pǎy kǐn fɤ̌ɤ nám kǎn bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ດີໃຈຫຼາຍ! ຈັກໂມງ?</span><span class=\"rom\">Dǐi jǎy lǎay! Ják móong?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ສິບໂມງເຊົ້າ</span><span class=\"rom\">Sīp móong sȁo.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໄດ້ເລີຍ!</span><span class=\"rom\">Dâay lɤ́ɤy!</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Clara, tu es libre aujourd&#x27;hui ?<br><b>Clara</b> — Oui. Il y a quoi ?<br><b>Noy</b> — On va manger une soupe pho ensemble ?<br><b>Clara</b> — Avec plaisir ! À quelle heure ?<br><b>Noy</b> — À dix heures du matin.<br><b>Clara</b> — Parfait !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que propose Noy ?</li><li>À quelle heure ?</li></ol><details><summary>Réponses</summary><ol><li>D&#x27;aller manger une soupe pho ensemble.</li><li>Dix heures du matin.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຫວ່າງ</td><td class=\"rom\">Wàang</td><td>libre, disponible</td><td></td></tr><tr><td class=\"lo\">ເຝີ</td><td class=\"rom\">Fɤ̌ɤ</td><td>soupe pho</td><td></td></tr><tr><td class=\"lo\">ດີໃຈ</td><td class=\"rom\">Dǐi-jǎy</td><td>content</td><td></td></tr><tr><td class=\"lo\">ຈັກໂມງ</td><td class=\"rom\">Ják móong</td><td>à quelle heure ?</td><td></td></tr><tr><td class=\"lo\">ສິບ</td><td class=\"rom\">Sīp</td><td>dix</td><td></td></tr><tr><td class=\"lo\">ໂມງເຊົ້າ</td><td class=\"rom\">Móong-sȁo</td><td>heure du matin</td><td></td></tr><tr><td class=\"lo\">ແລ້ວ</td><td class=\"rom\">Lɛ̏ɛw</td><td>déjà ; puis</td><td>marque ້</td></tr><tr><td class=\"lo\">ເຂົ້າ</td><td class=\"rom\">Khâo</td><td>riz</td><td>marque ້</td></tr><tr><td class=\"lo\">ຫ້ອງ</td><td class=\"rom\">Hɔ̂ɔng</td><td>pièce, chambre</td><td>marque ້</td></tr><tr><td class=\"lo\">ນ້ຳ</td><td class=\"rom\">Nȁam</td><td>eau</td><td>marque ້</td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : l'effet de ້",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຂ້າ</span> <span class=\"rom\">Khâa</span> = classe haute + ້ → haut descendant</li><li><span class=\"lo\">ເຈົ້າ</span> <span class=\"rom\">Jâo</span> = classe moyenne + ້ → haut descendant</li><li><span class=\"lo\">ນ້ຳ</span> <span class=\"rom\">Nȁam</span> = classe basse + ້ → bas descendant</li><li><span class=\"lo\">ແລ້ວ</span> <span class=\"rom\">Lɛ̏ɛw</span> = classe basse + ້ → bas descendant</li></ul><p><b>À toi de trouver :</b></p><ol><li>Compare l&#x27;effet de ້ sur ຂ et sur ນ.</li></ol><details><summary>La règle</summary><p>La marque ້ donne le ton haut descendant (â) aux consonnes hautes et moyennes, et le ton bas descendant (ȁ) aux consonnes basses. Les marques ໊ et ໋ sont rares (mots empruntés, onomatopées). [À VÉRIFIER avec un natif]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les mots avec ້ : ນ້ຳ, ແລ້ວ, ເຈົ້າ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Tu es libre aujourd&#x27;hui ?</li><li>On va manger ensemble ?</li><li>À quelle heure ?</li><li>Parfait !</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ມື້ນີ້ຫວ່າງບໍ?</span> <span class=\"rom\">Mʉ̂ʉ-nȉi wàang bɔ̌ɔ?</span></li><li><span class=\"lo\">ໄປກິນນຳກັນບໍ?</span> <span class=\"rom\">Pǎy kǐn nám kǎn bɔ̌ɔ?</span></li><li><span class=\"lo\">ຈັກໂມງ?</span> <span class=\"rom\">Ják móong?</span></li><li><span class=\"lo\">ໄດ້ເລີຍ!</span> <span class=\"rom\">Dâay lɤ́ɤy!</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Lis le dialogue à voix haute et souligne tous les ້.</li><li>Écris un message de 3 phrases pour inviter quelqu&#x27;un à manger.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Envoie un vrai message en lao à un ami ou à un membre de ta famille pour l&#x27;inviter.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>14 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l14-v01",
+   "front": "ຫວ່າງ",
+   "back": "Wàang · libre, disponible"
+  },
+  {
+   "id": "l14-v02",
+   "front": "ເຝີ",
+   "back": "Fɤ̌ɤ · soupe pho"
+  },
+  {
+   "id": "l14-v03",
+   "front": "ດີໃຈ",
+   "back": "Dǐi-jǎy · content"
+  },
+  {
+   "id": "l14-v04",
+   "front": "ຈັກໂມງ",
+   "back": "Ják móong · à quelle heure ?"
+  },
+  {
+   "id": "l14-v05",
+   "front": "ສິບ",
+   "back": "Sīp · dix"
+  },
+  {
+   "id": "l14-v06",
+   "front": "ໂມງເຊົ້າ",
+   "back": "Móong-sȁo · heure du matin"
+  },
+  {
+   "id": "l14-v07",
+   "front": "ແລ້ວ",
+   "back": "Lɛ̏ɛw · déjà ; puis"
+  },
+  {
+   "id": "l14-v08",
+   "front": "ເຂົ້າ",
+   "back": "Khâo · riz"
+  },
+  {
+   "id": "l14-v09",
+   "front": "ຫ້ອງ",
+   "back": "Hɔ̂ɔng · pièce, chambre"
+  },
+  {
+   "id": "l14-v10",
+   "front": "ນ້ຳ",
+   "back": "Nȁam · eau"
+  },
+  {
+   "id": "l14-p01",
+   "front": "Tu es libre aujourd'hui ?",
+   "back": "ມື້ນີ້ຫວ່າງບໍ? · Mʉ̂ʉ-nȉi wàang bɔ̌ɔ?"
+  },
+  {
+   "id": "l14-p02",
+   "front": "On va manger ensemble ?",
+   "back": "ໄປກິນນຳກັນບໍ? · Pǎy kǐn nám kǎn bɔ̌ɔ?"
+  },
+  {
+   "id": "l14-p03",
+   "front": "À quelle heure ?",
+   "back": "ຈັກໂມງ? · Ják móong?"
+  },
+  {
+   "id": "l14-p04",
+   "front": "Parfait !",
+   "back": "ໄດ້ເລີຍ! · Dâay lɤ́ɤy!"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຫວ່າງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "libre, disponible",
+      "dix",
+      "heure du matin",
+      "pièce, chambre"
+     ],
+     "answer": "libre, disponible",
+     "reveal": "<i>Wàang</i>"
+    },
+    {
+     "audio": [
+      "ເຝີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "soupe pho",
+      "heure du matin",
+      "à quelle heure ?",
+      "dix"
+     ],
+     "answer": "soupe pho",
+     "reveal": "<i>Fɤ̌ɤ</i>"
+    },
+    {
+     "audio": [
+      "ດີໃຈ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "content",
+      "dix",
+      "libre, disponible",
+      "soupe pho"
+     ],
+     "answer": "content",
+     "reveal": "<i>Dǐi-jǎy</i>"
+    },
+    {
+     "audio": [
+      "ຈັກໂມງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "à quelle heure ?",
+      "riz",
+      "heure du matin",
+      "content"
+     ],
+     "answer": "à quelle heure ?",
+     "reveal": "<i>Ják móong</i>"
+    },
+    {
+     "audio": [
+      "ສິບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "dix",
+      "libre, disponible",
+      "content",
+      "riz"
+     ],
+     "answer": "dix",
+     "reveal": "<i>Sīp</i>"
+    },
+    {
+     "audio": [
+      "ໂມງເຊົ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "heure du matin",
+      "riz",
+      "dix",
+      "pièce, chambre"
+     ],
+     "answer": "heure du matin",
+     "reveal": "<i>Móong-sȁo</i>"
+    },
+    {
+     "audio": [
+      "ແລ້ວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "déjà ; puis",
+      "dix",
+      "heure du matin",
+      "à quelle heure ?"
+     ],
+     "answer": "déjà ; puis",
+     "reveal": "<i>Lɛ̏ɛw</i>"
+    },
+    {
+     "audio": [
+      "ເຂົ້າ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "riz",
+      "heure du matin",
+      "pièce, chambre",
+      "soupe pho"
+     ],
+     "answer": "riz",
+     "reveal": "<i>Khâo</i>"
+    },
+    {
+     "audio": [
+      "ຫ້ອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "pièce, chambre",
+      "eau",
+      "dix",
+      "content"
+     ],
+     "answer": "pièce, chambre",
+     "reveal": "<i>Hɔ̂ɔng</i>"
+    },
+    {
+     "audio": [
+      "ນ້ຳ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "eau",
+      "riz",
+      "libre, disponible",
+      "à quelle heure ?"
+     ],
+     "answer": "eau",
+     "reveal": "<i>Nȁam</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຄລາຣາ ມື້ນີ້ຫວ່າງບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Clara, tu es libre aujourd'hui ?",
+      "Oui. Il y a quoi ?",
+      "Avec plaisir ! À quelle heure ?",
+      "Parfait !"
+     ],
+     "answer": "Clara, tu es libre aujourd'hui ?",
+     "reveal": "<i>Clara, mʉ̂ʉ-nȉi wàang bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຫວ່າງ ມີຫຍັງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Oui. Il y a quoi ?",
+      "À dix heures du matin.",
+      "Clara, tu es libre aujourd'hui ?",
+      "Avec plaisir ! À quelle heure ?"
+     ],
+     "answer": "Oui. Il y a quoi ?",
+     "reveal": "<i>Wàang. Míi nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ໄປກິນເຝີນຳກັນບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "On va manger une soupe pho ensemble ?",
+      "Avec plaisir ! À quelle heure ?",
+      "À dix heures du matin.",
+      "Oui. Il y a quoi ?"
+     ],
+     "answer": "On va manger une soupe pho ensemble ?",
+     "reveal": "<i>Pǎy kǐn fɤ̌ɤ nám kǎn bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ດີໃຈຫຼາຍ! ຈັກໂມງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Avec plaisir ! À quelle heure ?",
+      "À dix heures du matin.",
+      "Clara, tu es libre aujourd'hui ?",
+      "Oui. Il y a quoi ?"
+     ],
+     "answer": "Avec plaisir ! À quelle heure ?",
+     "reveal": "<i>Dǐi jǎy lǎay! Ják móong?</i>"
+    },
+    {
+     "audio": [
+      "ສິບໂມງເຊົ້າ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "À dix heures du matin.",
+      "Oui. Il y a quoi ?",
+      "Parfait !",
+      "Clara, tu es libre aujourd'hui ?"
+     ],
+     "answer": "À dix heures du matin.",
+     "reveal": "<i>Sīp móong sȁo.</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້ເລີຍ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Parfait !",
+      "Clara, tu es libre aujourd'hui ?",
+      "On va manger une soupe pho ensemble ?",
+      "À dix heures du matin."
+     ],
+     "answer": "Parfait !",
+     "reveal": "<i>Dâay lɤ́ɤy!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ມື້ນີ້ຫວ່າງບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tu es libre aujourd'hui ?",
+      "On va manger ensemble ?",
+      "Parfait !",
+      "À quelle heure ?"
+     ],
+     "answer": "Tu es libre aujourd'hui ?",
+     "reveal": "<i>Mʉ̂ʉ-nȉi wàang bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ໄປກິນນຳກັນບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "On va manger ensemble ?",
+      "À quelle heure ?",
+      "Tu es libre aujourd'hui ?",
+      "Parfait !"
+     ],
+     "answer": "On va manger ensemble ?",
+     "reveal": "<i>Pǎy kǐn nám kǎn bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຈັກໂມງ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "À quelle heure ?",
+      "Parfait !",
+      "Tu es libre aujourd'hui ?",
+      "On va manger ensemble ?"
+     ],
+     "answer": "À quelle heure ?",
+     "reveal": "<i>Ják móong?</i>"
+    },
+    {
+     "audio": [
+      "ໄດ້ເລີຍ!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Parfait !",
+      "Tu es libre aujourd'hui ?",
+      "On va manger ensemble ?",
+      "À quelle heure ?"
+     ],
+     "answer": "Parfait !",
+     "reveal": "<i>Dâay lɤ́ɤy!</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຫວ່າງ",
+   "rom": "Wàang",
+   "fr": "libre, disponible",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຝີ",
+   "rom": "Fɤ̌ɤ",
+   "fr": "soupe pho",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ດີໃຈ",
+   "rom": "Dǐi-jǎy",
+   "fr": "content",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈັກໂມງ",
+   "rom": "Ják móong",
+   "fr": "à quelle heure ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສິບ",
+   "rom": "Sīp",
+   "fr": "dix",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂມງເຊົ້າ",
+   "rom": "Móong-sȁo",
+   "fr": "heure du matin",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແລ້ວ",
+   "rom": "Lɛ̏ɛw",
+   "fr": "déjà ; puis",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຂົ້າ",
+   "rom": "Khâo",
+   "fr": "riz",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫ້ອງ",
+   "rom": "Hɔ̂ɔng",
+   "fr": "pièce, chambre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນ້ຳ",
+   "rom": "Nȁam",
+   "fr": "eau",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ມື້ນີ້ຫວ່າງບໍ?",
+   "rom": "Mʉ̂ʉ-nȉi wàang bɔ̌ɔ?",
+   "fr": "Tu es libre aujourd'hui ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄປກິນນຳກັນບໍ?",
+   "rom": "Pǎy kǐn nám kǎn bɔ̌ɔ?",
+   "fr": "On va manger ensemble ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈັກໂມງ?",
+   "rom": "Ják móong?",
+   "fr": "À quelle heure ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄດ້ເລີຍ!",
+   "rom": "Dâay lɤ́ɤy!",
+   "fr": "Parfait !",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ມື້ນີ້",
+    "ຫວ່າງ",
+    "ບໍ"
+   ],
+   "rom": "Mʉ̂ʉ-nȉi wàang bɔ̌ɔ?",
+   "fr": "Tu es libre aujourd'hui ?"
+  },
+  {
+   "tokens": [
+    "ໄປ",
+    "ກິນ",
+    "ນຳ",
+    "ກັນ",
+    "ບໍ"
+   ],
+   "rom": "Pǎy kǐn nám kǎn bɔ̌ɔ?",
+   "fr": "On va manger ensemble ?"
+  },
+  {
+   "tokens": [
+    "ຈັກ",
+    "ໂມງ"
+   ],
+   "rom": "Ják móong?",
+   "fr": "À quelle heure ?"
+  },
+  {
+   "tokens": [
+    "ໄດ້",
+    "ເລີຍ"
+   ],
+   "rom": "Dâay lɤ́ɤy!",
+   "fr": "Parfait !"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຫວ່າງ",
+   "rom": "Wàang",
+   "fr": "libre, disponible"
+  },
+  {
+   "lao": "ເຝີ",
+   "rom": "Fɤ̌ɤ",
+   "fr": "soupe pho"
+  },
+  {
+   "lao": "ດີໃຈ",
+   "rom": "Dǐi-jǎy",
+   "fr": "content"
+  },
+  {
+   "lao": "ຈັກໂມງ",
+   "rom": "Ják móong",
+   "fr": "à quelle heure ?"
+  },
+  {
+   "lao": "ສິບ",
+   "rom": "Sīp",
+   "fr": "dix"
+  },
+  {
+   "lao": "ໂມງເຊົ້າ",
+   "rom": "Móong-sȁo",
+   "fr": "heure du matin"
+  },
+  {
+   "lao": "ແລ້ວ",
+   "rom": "Lɛ̏ɛw",
+   "fr": "déjà ; puis"
+  },
+  {
+   "lao": "ເຂົ້າ",
+   "rom": "Khâo",
+   "fr": "riz"
+  },
+  {
+   "lao": "ຫ້ອງ",
+   "rom": "Hɔ̂ɔng",
+   "fr": "pièce, chambre"
+  },
+  {
+   "lao": "ນ້ຳ",
+   "rom": "Nȁam",
+   "fr": "eau"
+  }
+ ],
+ "sounds": {
+  "ໄວ": "Wáy",
+  "ງົວ": "Ngúa",
+  "ຂຽນ": "Khǐan",
+  "ຄລາຣາ ມື້ນີ້ຫວ່າງບໍ": "Clara, mʉ̂ʉ-nȉi wàang bɔ̌ɔ?",
+  "ຫວ່າງ ມີຫຍັງ": "Wàang. Míi nyǎng?",
+  "ໄປກິນເຝີນຳກັນບໍ": "Pǎy kǐn fɤ̌ɤ nám kǎn bɔ̌ɔ?",
+  "ດີໃຈຫຼາຍ ຈັກໂມງ": "Dǐi jǎy lǎay! Ják móong?",
+  "ສິບໂມງເຊົ້າ": "Sīp móong sȁo.",
+  "ໄດ້ເລີຍ": "Dâay lɤ́ɤy!",
+  "ຫວ່າງ": "wàang",
+  "ເຝີ": "Fɤ̌ɤ",
+  "ດີໃຈ": "Dǐi-jǎy",
+  "ຈັກໂມງ": "Ják móong?",
+  "ສິບ": "Sīp",
+  "ໂມງເຊົ້າ": "Móong-sȁo",
+  "ແລ້ວ": "Lɛ̏ɛw",
+  "ເຂົ້າ": "Khâo",
+  "ຫ້ອງ": "Hɔ̂ɔng",
+  "ນ້ຳ": "Nȁam",
+  "ຂ້າ": "Khâa",
+  "ເຈົ້າ": "Jâo",
+  "ມື້ນີ້ຫວ່າງບໍ": "Mʉ̂ʉ-nȉi wàang bɔ̌ɔ?",
+  "ໄປກິນນຳກັນບໍ": "Pǎy kǐn nám kǎn bɔ̌ɔ?",
+  "ມື້ນີ້": "mʉ̂ʉ-nȉi",
+  "ບໍ": "bɔ̌ɔ",
+  "ໄປ": "pǎy",
+  "ກິນ": "kǐn",
+  "ນຳ": "nám",
+  "ກັນ": "kǎn",
+  "ຈັກ": "ják",
+  "ໂມງ": "móong",
+  "ໄດ້": "dâay",
+  "ເລີຍ": "lɤ́ɤy"
+ },
+ "suivi": "LEÇON : 14 — Partie B (Lire et écrire, A0→A1) · La marque ້\nOBJECTIF : Lire les mots avec ້ et les marques rares, et lire un court message.\nNOTION : l'effet de ້\nVOCAB : Wàang, Fɤ̌ɤ, Dǐi-jǎy, Ják móong, Sīp, Móong-sȁo, Lɛ̏ɛw, Khâo, Hɔ̂ɔng, Nȁam\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 15 — Le ຫ muet et les lettres jointes"
+}

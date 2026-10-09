@@ -1,0 +1,638 @@
+{
+ "num": 11,
+ "phase": "Partie B · Lire et écrire",
+ "title": "Syllabes vivantes et mortes",
+ "objective": "Reconnaître si une syllabe est vivante ou morte, pour pouvoir en déduire le ton.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>il y a ; avoir <small class=\"muted\">(leçon 10)</small></li><li>particule (rare) <small class=\"muted\">(leçon 8)</small></li><li>nous <small class=\"muted\">(leçon 4)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ມີ</span> <span class=\"rom\">Míi</span> · il y a ; avoir</li><li><span class=\"lo\">ສາ</span> <span class=\"rom\">Sǎa</span> · particule (rare)</li><li><span class=\"lo\">ພວກເຮົາ</span> <span class=\"rom\">Phûak-háo</span> · nous</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Reconnaître si une syllabe est vivante ou morte, pour pouvoir en déduire le ton.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara et Noy jouent à nommer des animaux.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ໂຕນີ້ແມ່ນຫຍັງ?</span><span class=\"rom\">Tǒo nȉi mɛ̄ɛn nyǎng?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແມ່ນນົກ</span><span class=\"rom\">Mɛ̄ɛn nōk.</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ແລ້ວໂຕນັ້ນເດ?</span><span class=\"rom\">Lɛ̏ɛw tǒo nȁn dě?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ແມ່ນໝາ ໝາຂອງໃຜ?</span><span class=\"rom\">Mɛ̄ɛn mǎa. Mǎa khɔ̌ɔng phǎy?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ໝາຂອງແກ້ວ</span><span class=\"rom\">Mǎa khɔ̌ɔng kɛ̂ɛw.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ງາມຫຼາຍ!</span><span class=\"rom\">Ngáam lǎay!</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — C&#x27;est quoi, cet animal ?<br><b>Clara</b> — C&#x27;est un oiseau.<br><b>Noy</b> — Et celui-là ?<br><b>Clara</b> — C&#x27;est un chien. À qui est ce chien ?<br><b>Noy</b> — C&#x27;est le chien de Kèo.<br><b>Clara</b> — Il est très beau !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quels animaux voient-elles ?</li><li>À qui est le chien ?</li></ol><details><summary>Réponses</summary><ol><li>Un oiseau et un chien.</li><li>À Kèo.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ນົກ</td><td class=\"rom\">Nōk</td><td>oiseau</td><td>syllabe morte (finale k)</td></tr><tr><td class=\"lo\">ໝາ</td><td class=\"rom\">Mǎa</td><td>chien</td><td>syllabe vivante</td></tr><tr><td class=\"lo\">ແມວ</td><td class=\"rom\">Mɛ́ɛw</td><td>chat</td><td>vivante (finale w)</td></tr><tr><td class=\"lo\">ງົວ</td><td class=\"rom\">Ngúa</td><td>bœuf</td><td></td></tr><tr><td class=\"lo\">ໄກ່</td><td class=\"rom\">Kày</td><td>poulet, poule</td><td></td></tr><tr><td class=\"lo\">ປາ</td><td class=\"rom\">Pǎa</td><td>poisson</td><td></td></tr><tr><td class=\"lo\">ຊ້າງ</td><td class=\"rom\">Sȁang</td><td>éléphant</td><td></td></tr><tr><td class=\"lo\">ໂຕ</td><td class=\"rom\">Tǒo</td><td>classificateur des animaux</td><td>ໂຕນີ້ = cet animal</td></tr><tr><td class=\"lo\">ໃຜ</td><td class=\"rom\">Phǎy</td><td>qui ?</td><td></td></tr><tr><td class=\"lo\">ງາມ</td><td class=\"rom\">Ngáam</td><td>beau</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : vivante ou morte ?",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ປາ</span> <span class=\"rom\">Pǎa</span> = vivante : voyelle longue, pas de finale</li><li><span class=\"lo\">ຈານ</span> <span class=\"rom\">Jǎan</span> = vivante : finale n</li><li><span class=\"lo\">ນົກ</span> <span class=\"rom\">Nōk</span> = morte : finale k</li><li><span class=\"lo\">ເດັກ</span> <span class=\"rom\">Dék</span> = morte : finale k</li></ul><p><b>À toi de trouver :</b></p><ol><li>Quelles finales rendent une syllabe « morte » ?</li><li>Une voyelle courte sans finale, c&#x27;est vivant ou mort ?</li></ol><details><summary>La règle</summary><p>Une syllabe est vivante si elle finit par une voyelle longue ou par une consonne sonore (m, n, ng, w, y). Elle est morte si elle finit par une voyelle courte ou par k, t, p. Ce type de syllabe, avec la classe de la consonne, donne le ton.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> l&#x27;arrêt net à la fin des syllabes mortes (ນົກ, ເດັກ).</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>C&#x27;est quoi, cet animal ?</li><li>C&#x27;est un oiseau.</li><li>À qui est ce chien ?</li><li>Il est très beau !</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ໂຕນີ້ແມ່ນຫຍັງ?</span> <span class=\"rom\">Tǒo nȉi mɛ̄ɛn nyǎng?</span></li><li><span class=\"lo\">ແມ່ນນົກ</span> <span class=\"rom\">Mɛ̄ɛn nōk.</span></li><li><span class=\"lo\">ໝາຂອງໃຜ?</span> <span class=\"rom\">Mǎa khɔ̌ɔng phǎy?</span></li><li><span class=\"lo\">ງາມຫຼາຍ!</span> <span class=\"rom\">Ngáam lǎay!</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Classe ces mots en vivants ou morts : ນົກ, ປາ, ແມວ, ເດັກ, ຈານ, ໄກ່.</li><li>Écris le nom de 5 animaux.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Nomme 8 animaux en lao devant un natif et demande-lui de corriger tes tons.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>14 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l11-v01",
+   "front": "ນົກ",
+   "back": "Nōk · oiseau"
+  },
+  {
+   "id": "l11-v02",
+   "front": "ໝາ",
+   "back": "Mǎa · chien"
+  },
+  {
+   "id": "l11-v03",
+   "front": "ແມວ",
+   "back": "Mɛ́ɛw · chat"
+  },
+  {
+   "id": "l11-v04",
+   "front": "ງົວ",
+   "back": "Ngúa · bœuf"
+  },
+  {
+   "id": "l11-v05",
+   "front": "ໄກ່",
+   "back": "Kày · poulet, poule"
+  },
+  {
+   "id": "l11-v06",
+   "front": "ປາ",
+   "back": "Pǎa · poisson"
+  },
+  {
+   "id": "l11-v07",
+   "front": "ຊ້າງ",
+   "back": "Sȁang · éléphant"
+  },
+  {
+   "id": "l11-v08",
+   "front": "ໂຕ",
+   "back": "Tǒo · classificateur des animaux"
+  },
+  {
+   "id": "l11-v09",
+   "front": "ໃຜ",
+   "back": "Phǎy · qui ?"
+  },
+  {
+   "id": "l11-v10",
+   "front": "ງາມ",
+   "back": "Ngáam · beau"
+  },
+  {
+   "id": "l11-p01",
+   "front": "C'est quoi, cet animal ?",
+   "back": "ໂຕນີ້ແມ່ນຫຍັງ? · Tǒo nȉi mɛ̄ɛn nyǎng?"
+  },
+  {
+   "id": "l11-p02",
+   "front": "C'est un oiseau.",
+   "back": "ແມ່ນນົກ · Mɛ̄ɛn nōk."
+  },
+  {
+   "id": "l11-p03",
+   "front": "À qui est ce chien ?",
+   "back": "ໝາຂອງໃຜ? · Mǎa khɔ̌ɔng phǎy?"
+  },
+  {
+   "id": "l11-p04",
+   "front": "Il est très beau !",
+   "back": "ງາມຫຼາຍ! · Ngáam lǎay!"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ນົກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "oiseau",
+      "chien",
+      "beau",
+      "qui ?"
+     ],
+     "answer": "oiseau",
+     "reveal": "<i>Nōk</i>"
+    },
+    {
+     "audio": [
+      "ໝາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "chien",
+      "classificateur des animaux",
+      "bœuf",
+      "qui ?"
+     ],
+     "answer": "chien",
+     "reveal": "<i>Mǎa</i>"
+    },
+    {
+     "audio": [
+      "ແມວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "chat",
+      "chien",
+      "classificateur des animaux",
+      "éléphant"
+     ],
+     "answer": "chat",
+     "reveal": "<i>Mɛ́ɛw</i>"
+    },
+    {
+     "audio": [
+      "ງົວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "bœuf",
+      "chat",
+      "éléphant",
+      "qui ?"
+     ],
+     "answer": "bœuf",
+     "reveal": "<i>Ngúa</i>"
+    },
+    {
+     "audio": [
+      "ໄກ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "poulet, poule",
+      "classificateur des animaux",
+      "chat",
+      "chien"
+     ],
+     "answer": "poulet, poule",
+     "reveal": "<i>Kày</i>"
+    },
+    {
+     "audio": [
+      "ປາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "poisson",
+      "oiseau",
+      "bœuf",
+      "chat"
+     ],
+     "answer": "poisson",
+     "reveal": "<i>Pǎa</i>"
+    },
+    {
+     "audio": [
+      "ຊ້າງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "éléphant",
+      "bœuf",
+      "chien",
+      "chat"
+     ],
+     "answer": "éléphant",
+     "reveal": "<i>Sȁang</i>"
+    },
+    {
+     "audio": [
+      "ໂຕ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "classificateur des animaux",
+      "chien",
+      "éléphant",
+      "poisson"
+     ],
+     "answer": "classificateur des animaux",
+     "reveal": "<i>Tǒo</i>"
+    },
+    {
+     "audio": [
+      "ໃຜ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "qui ?",
+      "beau",
+      "poisson",
+      "chat"
+     ],
+     "answer": "qui ?",
+     "reveal": "<i>Phǎy</i>"
+    },
+    {
+     "audio": [
+      "ງາມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "beau",
+      "chien",
+      "poulet, poule",
+      "bœuf"
+     ],
+     "answer": "beau",
+     "reveal": "<i>Ngáam</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ໂຕນີ້ແມ່ນຫຍັງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'est quoi, cet animal ?",
+      "C'est un chien. À qui est ce chien ?",
+      "C'est un oiseau.",
+      "Il est très beau !"
+     ],
+     "answer": "C'est quoi, cet animal ?",
+     "reveal": "<i>Tǒo nȉi mɛ̄ɛn nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນນົກ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'est un oiseau.",
+      "C'est le chien de Kèo.",
+      "Il est très beau !",
+      "Et celui-là ?"
+     ],
+     "answer": "C'est un oiseau.",
+     "reveal": "<i>Mɛ̄ɛn nōk.</i>"
+    },
+    {
+     "audio": [
+      "ແລ້ວໂຕນັ້ນເດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Et celui-là ?",
+      "C'est un oiseau.",
+      "C'est le chien de Kèo.",
+      "C'est un chien. À qui est ce chien ?"
+     ],
+     "answer": "Et celui-là ?",
+     "reveal": "<i>Lɛ̏ɛw tǒo nȁn dě?</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນໝາ ໝາຂອງໃຜ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'est un chien. À qui est ce chien ?",
+      "C'est un oiseau.",
+      "Et celui-là ?",
+      "Il est très beau !"
+     ],
+     "answer": "C'est un chien. À qui est ce chien ?",
+     "reveal": "<i>Mɛ̄ɛn mǎa. Mǎa khɔ̌ɔng phǎy?</i>"
+    },
+    {
+     "audio": [
+      "ໝາຂອງແກ້ວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'est le chien de Kèo.",
+      "Il est très beau !",
+      "C'est quoi, cet animal ?",
+      "C'est un chien. À qui est ce chien ?"
+     ],
+     "answer": "C'est le chien de Kèo.",
+     "reveal": "<i>Mǎa khɔ̌ɔng kɛ̂ɛw.</i>"
+    },
+    {
+     "audio": [
+      "ງາມຫຼາຍ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Il est très beau !",
+      "C'est un chien. À qui est ce chien ?",
+      "C'est le chien de Kèo.",
+      "C'est quoi, cet animal ?"
+     ],
+     "answer": "Il est très beau !",
+     "reveal": "<i>Ngáam lǎay!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ໂຕນີ້ແມ່ນຫຍັງ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est quoi, cet animal ?",
+      "C'est un oiseau.",
+      "À qui est ce chien ?",
+      "Il est très beau !"
+     ],
+     "answer": "C'est quoi, cet animal ?",
+     "reveal": "<i>Tǒo nȉi mɛ̄ɛn nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ແມ່ນນົກ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est un oiseau.",
+      "C'est quoi, cet animal ?",
+      "Il est très beau !",
+      "À qui est ce chien ?"
+     ],
+     "answer": "C'est un oiseau.",
+     "reveal": "<i>Mɛ̄ɛn nōk.</i>"
+    },
+    {
+     "audio": [
+      "ໝາຂອງໃຜ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "À qui est ce chien ?",
+      "C'est un oiseau.",
+      "C'est quoi, cet animal ?",
+      "Il est très beau !"
+     ],
+     "answer": "À qui est ce chien ?",
+     "reveal": "<i>Mǎa khɔ̌ɔng phǎy?</i>"
+    },
+    {
+     "audio": [
+      "ງາມຫຼາຍ!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il est très beau !",
+      "À qui est ce chien ?",
+      "C'est quoi, cet animal ?",
+      "C'est un oiseau."
+     ],
+     "answer": "Il est très beau !",
+     "reveal": "<i>Ngáam lǎay!</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ນົກ",
+   "rom": "Nōk",
+   "fr": "oiseau",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໝາ",
+   "rom": "Mǎa",
+   "fr": "chien",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແມວ",
+   "rom": "Mɛ́ɛw",
+   "fr": "chat",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ງົວ",
+   "rom": "Ngúa",
+   "fr": "bœuf",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄກ່",
+   "rom": "Kày",
+   "fr": "poulet, poule",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ປາ",
+   "rom": "Pǎa",
+   "fr": "poisson",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊ້າງ",
+   "rom": "Sȁang",
+   "fr": "éléphant",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂຕ",
+   "rom": "Tǒo",
+   "fr": "classificateur des animaux",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໃຜ",
+   "rom": "Phǎy",
+   "fr": "qui ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ງາມ",
+   "rom": "Ngáam",
+   "fr": "beau",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໂຕນີ້ແມ່ນຫຍັງ?",
+   "rom": "Tǒo nȉi mɛ̄ɛn nyǎng?",
+   "fr": "C'est quoi, cet animal ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແມ່ນນົກ",
+   "rom": "Mɛ̄ɛn nōk.",
+   "fr": "C'est un oiseau.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໝາຂອງໃຜ?",
+   "rom": "Mǎa khɔ̌ɔng phǎy?",
+   "fr": "À qui est ce chien ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ງາມຫຼາຍ!",
+   "rom": "Ngáam lǎay!",
+   "fr": "Il est très beau !",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ໂຕ",
+    "ນີ້",
+    "ແມ່ນ",
+    "ຫຍັງ"
+   ],
+   "rom": "Tǒo nȉi mɛ̄ɛn nyǎng?",
+   "fr": "C'est quoi, cet animal ?"
+  },
+  {
+   "tokens": [
+    "ແມ່ນ",
+    "ນົກ"
+   ],
+   "rom": "Mɛ̄ɛn nōk.",
+   "fr": "C'est un oiseau."
+  },
+  {
+   "tokens": [
+    "ໝາ",
+    "ຂອງ",
+    "ໃຜ"
+   ],
+   "rom": "Mǎa khɔ̌ɔng phǎy?",
+   "fr": "À qui est ce chien ?"
+  },
+  {
+   "tokens": [
+    "ງາມ",
+    "ຫຼາຍ"
+   ],
+   "rom": "Ngáam lǎay!",
+   "fr": "Il est très beau !"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ນົກ",
+   "rom": "Nōk",
+   "fr": "oiseau"
+  },
+  {
+   "lao": "ໝາ",
+   "rom": "Mǎa",
+   "fr": "chien"
+  },
+  {
+   "lao": "ແມວ",
+   "rom": "Mɛ́ɛw",
+   "fr": "chat"
+  },
+  {
+   "lao": "ງົວ",
+   "rom": "Ngúa",
+   "fr": "bœuf"
+  },
+  {
+   "lao": "ໄກ່",
+   "rom": "Kày",
+   "fr": "poulet, poule"
+  },
+  {
+   "lao": "ປາ",
+   "rom": "Pǎa",
+   "fr": "poisson"
+  },
+  {
+   "lao": "ຊ້າງ",
+   "rom": "Sȁang",
+   "fr": "éléphant"
+  },
+  {
+   "lao": "ໂຕ",
+   "rom": "Tǒo",
+   "fr": "classificateur des animaux"
+  },
+  {
+   "lao": "ໃຜ",
+   "rom": "Phǎy",
+   "fr": "qui ?"
+  },
+  {
+   "lao": "ງາມ",
+   "rom": "Ngáam",
+   "fr": "beau"
+  }
+ ],
+ "sounds": {
+  "ມີ": "Míi",
+  "ສາ": "Sǎa",
+  "ພວກເຮົາ": "Phûak-háo",
+  "ໂຕນີ້ແມ່ນຫຍັງ": "Tǒo nȉi mɛ̄ɛn nyǎng?",
+  "ແມ່ນນົກ": "Mɛ̄ɛn nōk.",
+  "ແລ້ວໂຕນັ້ນເດ": "Lɛ̏ɛw tǒo nȁn dě?",
+  "ແມ່ນໝາ ໝາຂອງໃຜ": "Mɛ̄ɛn mǎa. Mǎa khɔ̌ɔng phǎy?",
+  "ໝາຂອງແກ້ວ": "Mǎa khɔ̌ɔng kɛ̂ɛw.",
+  "ງາມຫຼາຍ": "Ngáam lǎay!",
+  "ນົກ": "nōk",
+  "ໝາ": "mǎa",
+  "ແມວ": "Mɛ́ɛw",
+  "ງົວ": "Ngúa",
+  "ໄກ່": "Kày",
+  "ປາ": "Pǎa",
+  "ຊ້າງ": "Sȁang",
+  "ໂຕ": "tǒo",
+  "ໃຜ": "phǎy",
+  "ງາມ": "ngáam",
+  "ຈານ": "Jǎan",
+  "ເດັກ": "Dék",
+  "ໝາຂອງໃຜ": "Mǎa khɔ̌ɔng phǎy?",
+  "ນີ້": "nȉi",
+  "ແມ່ນ": "mɛ̄ɛn",
+  "ຫຍັງ": "nyǎng",
+  "ຂອງ": "khɔ̌ɔng",
+  "ຫຼາຍ": "lǎay"
+ },
+ "suivi": "LEÇON : 11 — Partie B (Lire et écrire, A0→A1) · Syllabes vivantes et mortes\nOBJECTIF : Reconnaître si une syllabe est vivante ou morte, pour pouvoir en déduire le ton.\nNOTION : vivante ou morte ?\nVOCAB : Nōk, Mǎa, Mɛ́ɛw, Ngúa, Kày, Pǎa, Sȁang, Tǒo, Phǎy, Ngáam\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 12 — Le ton sans marque"
+}

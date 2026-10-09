@@ -1,0 +1,633 @@
+{
+ "num": 18,
+ "phase": "Partie B · Lire et écrire",
+ "title": "Les consonnes finales",
+ "objective": "Lire les 8 consonnes finales et écrire une liste de courses.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>très, beaucoup <small class=\"muted\">(leçon 17)</small></li><li>quoi <small class=\"muted\">(leçon 15)</small></li><li>beau <small class=\"muted\">(leçon 11)</small></li><li>ils, elles <small class=\"muted\">(leçon 4)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຫຼາຍໆ</span> <span class=\"rom\">Lǎay-lǎay</span> · très, beaucoup</li><li><span class=\"lo\">ຫຍັງ</span> <span class=\"rom\">Nyǎng</span> · quoi</li><li><span class=\"lo\">ງາມ</span> <span class=\"rom\">Ngáam</span> · beau</li><li><span class=\"lo\">ພວກລາວ</span> <span class=\"rom\">Phûak-láaw</span> · ils, elles</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Lire les 8 consonnes finales et écrire une liste de courses.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara prépare ses courses avec Noy.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຕ້ອງຊື້ຫຍັງແດ່?</span><span class=\"rom\">Tâɔng sȕu nyǎng dɛ̀ɛ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຂົ້າໜຽວ ໄຂ່ ຜັກ ແລະນົມ</span><span class=\"rom\">Khâo-nǐaw, khày, phāk, lɛ́ nóm.</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ຊີ້ນເດ?</span><span class=\"rom\">Sȋin dě?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຊີ້ນໝູໜຶ່ງກິໂລ</span><span class=\"rom\">Sȋin-mǔu nʉ̀ng kī-lóo.</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ໄປຕະຫຼາດນຳກັນບໍ?</span><span class=\"rom\">Pǎy tā-lȁat nám kǎn bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໄປ!</span><span class=\"rom\">Pǎy!</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — Il faut acheter quoi ?<br><b>Clara</b> — Du riz gluant, des œufs, des légumes et du lait.<br><b>Noy</b> — Et de la viande ?<br><b>Clara</b> — Un kilo de porc.<br><b>Noy</b> — On va au marché ensemble ?<br><b>Clara</b> — On y va !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que doit acheter Clara ?</li></ol><details><summary>Réponses</summary><ol><li>Riz gluant, œufs, légumes, lait, et un kilo de porc.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ຊື້</td><td class=\"rom\">Sȕu</td><td>acheter</td><td></td></tr><tr><td class=\"lo\">ໄຂ່</td><td class=\"rom\">Khày</td><td>œuf</td><td></td></tr><tr><td class=\"lo\">ຜັກ</td><td class=\"rom\">Phāk</td><td>légume</td><td>finale k</td></tr><tr><td class=\"lo\">ນົມ</td><td class=\"rom\">Nóm</td><td>lait</td><td>finale m</td></tr><tr><td class=\"lo\">ຊີ້ນ</td><td class=\"rom\">Sȋin</td><td>viande</td><td>finale n</td></tr><tr><td class=\"lo\">ໝູ</td><td class=\"rom\">Mǔu</td><td>porc</td><td></td></tr><tr><td class=\"lo\">ແລະ</td><td class=\"rom\">Lɛ́</td><td>et</td><td></td></tr><tr><td class=\"lo\">ກິໂລ</td><td class=\"rom\">Kī-lóo</td><td>kilo</td><td></td></tr><tr><td class=\"lo\">ເກືອ</td><td class=\"rom\">Kʉ̌a</td><td>sel</td><td></td></tr><tr><td class=\"lo\">ນ້ຳປາ</td><td class=\"rom\">Nȁam-pǎa</td><td>sauce de poisson</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les 8 finales",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຜັກ</span> <span class=\"rom\">Phāk</span> = -k (ກ)</li><li><span class=\"lo\">ເດັກ</span> <span class=\"rom\">Dék</span> = -k</li><li><span class=\"lo\">ຊີ້ນ</span> <span class=\"rom\">Sȋin</span> = -n (ນ)</li><li><span class=\"lo\">ນົມ</span> <span class=\"rom\">Nóm</span> = -m (ມ)</li><li><span class=\"lo\">ເມືອງ</span> <span class=\"rom\">Mʉ́ang</span> = -ng (ງ)</li></ul><p><b>À toi de trouver :</b></p><ol><li>Quelles finales sont « sourdes » (syllabe morte) ?</li></ol><details><summary>La règle</summary><p>Le lao n'a que 8 sons en fin de syllabe : -k (ກ), -ng (ງ), -t (ດ), -n (ນ), -p (ບ), -m (ມ), -y (ຍ), -w (ວ). -k, -t, -p ne sont pas relâchés : la bouche se ferme sans bruit.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les finales -k, -t, -p non relâchées.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Il faut acheter quoi ?</li><li>Un kilo de porc.</li><li>On va au marché ?</li><li>On y va !</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຕ້ອງຊື້ຫຍັງແດ່?</span> <span class=\"rom\">Tâɔng sȕu nyǎng dɛ̀ɛ?</span></li><li><span class=\"lo\">ຊີ້ນໝູໜຶ່ງກິໂລ</span> <span class=\"rom\">Sȋin-mǔu nʉ̀ng kī-lóo.</span></li><li><span class=\"lo\">ໄປຕະຫຼາດບໍ?</span> <span class=\"rom\">Pǎy tā-lȁat bɔ̌ɔ?</span></li><li><span class=\"lo\">ໄປ!</span> <span class=\"rom\">Pǎy!</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris ta vraie liste de courses de la semaine en lao.</li><li>Classe les mots selon leur finale.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Fais ta liste de courses en lao et lis-la à un natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>14 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l18-v01",
+   "front": "ຊື້",
+   "back": "Sȕu · acheter"
+  },
+  {
+   "id": "l18-v02",
+   "front": "ໄຂ່",
+   "back": "Khày · œuf"
+  },
+  {
+   "id": "l18-v03",
+   "front": "ຜັກ",
+   "back": "Phāk · légume"
+  },
+  {
+   "id": "l18-v04",
+   "front": "ນົມ",
+   "back": "Nóm · lait"
+  },
+  {
+   "id": "l18-v05",
+   "front": "ຊີ້ນ",
+   "back": "Sȋin · viande"
+  },
+  {
+   "id": "l18-v06",
+   "front": "ໝູ",
+   "back": "Mǔu · porc"
+  },
+  {
+   "id": "l18-v07",
+   "front": "ແລະ",
+   "back": "Lɛ́ · et"
+  },
+  {
+   "id": "l18-v08",
+   "front": "ກິໂລ",
+   "back": "Kī-lóo · kilo"
+  },
+  {
+   "id": "l18-v09",
+   "front": "ເກືອ",
+   "back": "Kʉ̌a · sel"
+  },
+  {
+   "id": "l18-v10",
+   "front": "ນ້ຳປາ",
+   "back": "Nȁam-pǎa · sauce de poisson"
+  },
+  {
+   "id": "l18-p01",
+   "front": "Il faut acheter quoi ?",
+   "back": "ຕ້ອງຊື້ຫຍັງແດ່? · Tâɔng sȕu nyǎng dɛ̀ɛ?"
+  },
+  {
+   "id": "l18-p02",
+   "front": "Un kilo de porc.",
+   "back": "ຊີ້ນໝູໜຶ່ງກິໂລ · Sȋin-mǔu nʉ̀ng kī-lóo."
+  },
+  {
+   "id": "l18-p03",
+   "front": "On va au marché ?",
+   "back": "ໄປຕະຫຼາດບໍ? · Pǎy tā-lȁat bɔ̌ɔ?"
+  },
+  {
+   "id": "l18-p04",
+   "front": "On y va !",
+   "back": "ໄປ! · Pǎy!"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ຊື້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "acheter",
+      "sel",
+      "kilo",
+      "sauce de poisson"
+     ],
+     "answer": "acheter",
+     "reveal": "<i>Sȕu</i>"
+    },
+    {
+     "audio": [
+      "ໄຂ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "œuf",
+      "acheter",
+      "sel",
+      "sauce de poisson"
+     ],
+     "answer": "œuf",
+     "reveal": "<i>Khày</i>"
+    },
+    {
+     "audio": [
+      "ຜັກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "légume",
+      "œuf",
+      "lait",
+      "porc"
+     ],
+     "answer": "légume",
+     "reveal": "<i>Phāk</i>"
+    },
+    {
+     "audio": [
+      "ນົມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "lait",
+      "œuf",
+      "sel",
+      "acheter"
+     ],
+     "answer": "lait",
+     "reveal": "<i>Nóm</i>"
+    },
+    {
+     "audio": [
+      "ຊີ້ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "viande",
+      "porc",
+      "kilo",
+      "lait"
+     ],
+     "answer": "viande",
+     "reveal": "<i>Sȋin</i>"
+    },
+    {
+     "audio": [
+      "ໝູ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "porc",
+      "sel",
+      "œuf",
+      "légume"
+     ],
+     "answer": "porc",
+     "reveal": "<i>Mǔu</i>"
+    },
+    {
+     "audio": [
+      "ແລະ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "et",
+      "viande",
+      "kilo",
+      "acheter"
+     ],
+     "answer": "et",
+     "reveal": "<i>Lɛ́</i>"
+    },
+    {
+     "audio": [
+      "ກິໂລ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "kilo",
+      "viande",
+      "œuf",
+      "lait"
+     ],
+     "answer": "kilo",
+     "reveal": "<i>Kī-lóo</i>"
+    },
+    {
+     "audio": [
+      "ເກືອ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "sel",
+      "sauce de poisson",
+      "légume",
+      "et"
+     ],
+     "answer": "sel",
+     "reveal": "<i>Kʉ̌a</i>"
+    },
+    {
+     "audio": [
+      "ນ້ຳປາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "sauce de poisson",
+      "lait",
+      "et",
+      "sel"
+     ],
+     "answer": "sauce de poisson",
+     "reveal": "<i>Nȁam-pǎa</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຕ້ອງຊື້ຫຍັງແດ່?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Il faut acheter quoi ?",
+      "Du riz gluant, des œufs, des légumes et du lait.",
+      "Et de la viande ?",
+      "On va au marché ensemble ?"
+     ],
+     "answer": "Il faut acheter quoi ?",
+     "reveal": "<i>Tâɔng sȕu nyǎng dɛ̀ɛ?</i>"
+    },
+    {
+     "audio": [
+      "ເຂົ້າໜຽວ ໄຂ່ ຜັກ ແລະນົມ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Du riz gluant, des œufs, des légumes et du lait.",
+      "On va au marché ensemble ?",
+      "On y va !",
+      "Il faut acheter quoi ?"
+     ],
+     "answer": "Du riz gluant, des œufs, des légumes et du lait.",
+     "reveal": "<i>Khâo-nǐaw, khày, phāk, lɛ́ nóm.</i>"
+    },
+    {
+     "audio": [
+      "ຊີ້ນເດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Et de la viande ?",
+      "On y va !",
+      "On va au marché ensemble ?",
+      "Il faut acheter quoi ?"
+     ],
+     "answer": "Et de la viande ?",
+     "reveal": "<i>Sȋin dě?</i>"
+    },
+    {
+     "audio": [
+      "ຊີ້ນໝູໜຶ່ງກິໂລ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Un kilo de porc.",
+      "Et de la viande ?",
+      "On y va !",
+      "Il faut acheter quoi ?"
+     ],
+     "answer": "Un kilo de porc.",
+     "reveal": "<i>Sȋin-mǔu nʉ̀ng kī-lóo.</i>"
+    },
+    {
+     "audio": [
+      "ໄປຕະຫຼາດນຳກັນບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "On va au marché ensemble ?",
+      "Un kilo de porc.",
+      "Et de la viande ?",
+      "Du riz gluant, des œufs, des légumes et du lait."
+     ],
+     "answer": "On va au marché ensemble ?",
+     "reveal": "<i>Pǎy tā-lȁat nám kǎn bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ໄປ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "On y va !",
+      "On va au marché ensemble ?",
+      "Un kilo de porc.",
+      "Il faut acheter quoi ?"
+     ],
+     "answer": "On y va !",
+     "reveal": "<i>Pǎy!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຕ້ອງຊື້ຫຍັງແດ່?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Il faut acheter quoi ?",
+      "On y va !",
+      "Un kilo de porc.",
+      "On va au marché ?"
+     ],
+     "answer": "Il faut acheter quoi ?",
+     "reveal": "<i>Tâɔng sȕu nyǎng dɛ̀ɛ?</i>"
+    },
+    {
+     "audio": [
+      "ຊີ້ນໝູໜຶ່ງກິໂລ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Un kilo de porc.",
+      "On y va !",
+      "Il faut acheter quoi ?",
+      "On va au marché ?"
+     ],
+     "answer": "Un kilo de porc.",
+     "reveal": "<i>Sȋin-mǔu nʉ̀ng kī-lóo.</i>"
+    },
+    {
+     "audio": [
+      "ໄປຕະຫຼາດບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "On va au marché ?",
+      "Un kilo de porc.",
+      "On y va !",
+      "Il faut acheter quoi ?"
+     ],
+     "answer": "On va au marché ?",
+     "reveal": "<i>Pǎy tā-lȁat bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ໄປ!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "On y va !",
+      "Il faut acheter quoi ?",
+      "Un kilo de porc.",
+      "On va au marché ?"
+     ],
+     "answer": "On y va !",
+     "reveal": "<i>Pǎy!</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ຊື້",
+   "rom": "Sȕu",
+   "fr": "acheter",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄຂ່",
+   "rom": "Khày",
+   "fr": "œuf",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຜັກ",
+   "rom": "Phāk",
+   "fr": "légume",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນົມ",
+   "rom": "Nóm",
+   "fr": "lait",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊີ້ນ",
+   "rom": "Sȋin",
+   "fr": "viande",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໝູ",
+   "rom": "Mǔu",
+   "fr": "porc",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແລະ",
+   "rom": "Lɛ́",
+   "fr": "et",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກິໂລ",
+   "rom": "Kī-lóo",
+   "fr": "kilo",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເກືອ",
+   "rom": "Kʉ̌a",
+   "fr": "sel",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນ້ຳປາ",
+   "rom": "Nȁam-pǎa",
+   "fr": "sauce de poisson",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕ້ອງຊື້ຫຍັງແດ່?",
+   "rom": "Tâɔng sȕu nyǎng dɛ̀ɛ?",
+   "fr": "Il faut acheter quoi ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊີ້ນໝູໜຶ່ງກິໂລ",
+   "rom": "Sȋin-mǔu nʉ̀ng kī-lóo.",
+   "fr": "Un kilo de porc.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄປຕະຫຼາດບໍ?",
+   "rom": "Pǎy tā-lȁat bɔ̌ɔ?",
+   "fr": "On va au marché ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄປ!",
+   "rom": "Pǎy!",
+   "fr": "On y va !",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຕ້ອງ",
+    "ຊື້",
+    "ຫຍັງ",
+    "ແດ່"
+   ],
+   "rom": "Tâɔng sȕu nyǎng dɛ̀ɛ?",
+   "fr": "Il faut acheter quoi ?"
+  },
+  {
+   "tokens": [
+    "ຊີ້ນໝູ",
+    "ໜຶ່ງ",
+    "ກິໂລ"
+   ],
+   "rom": "Sȋin-mǔu nʉ̀ng kī-lóo.",
+   "fr": "Un kilo de porc."
+  },
+  {
+   "tokens": [
+    "ໄປ",
+    "ຕະຫຼາດ",
+    "ບໍ"
+   ],
+   "rom": "Pǎy tā-lȁat bɔ̌ɔ?",
+   "fr": "On va au marché ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ຊື້",
+   "rom": "Sȕu",
+   "fr": "acheter"
+  },
+  {
+   "lao": "ໄຂ່",
+   "rom": "Khày",
+   "fr": "œuf"
+  },
+  {
+   "lao": "ຜັກ",
+   "rom": "Phāk",
+   "fr": "légume"
+  },
+  {
+   "lao": "ນົມ",
+   "rom": "Nóm",
+   "fr": "lait"
+  },
+  {
+   "lao": "ຊີ້ນ",
+   "rom": "Sȋin",
+   "fr": "viande"
+  },
+  {
+   "lao": "ໝູ",
+   "rom": "Mǔu",
+   "fr": "porc"
+  },
+  {
+   "lao": "ແລະ",
+   "rom": "Lɛ́",
+   "fr": "et"
+  },
+  {
+   "lao": "ກິໂລ",
+   "rom": "Kī-lóo",
+   "fr": "kilo"
+  },
+  {
+   "lao": "ເກືອ",
+   "rom": "Kʉ̌a",
+   "fr": "sel"
+  },
+  {
+   "lao": "ນ້ຳປາ",
+   "rom": "Nȁam-pǎa",
+   "fr": "sauce de poisson"
+  }
+ ],
+ "sounds": {
+  "ຫຼາຍໆ": "Lǎay-lǎay",
+  "ຫຍັງ": "nyǎng",
+  "ງາມ": "Ngáam",
+  "ພວກລາວ": "Phûak-láaw",
+  "ຕ້ອງຊື້ຫຍັງແດ່": "Tâɔng sȕu nyǎng dɛ̀ɛ?",
+  "ເຂົ້າໜຽວ ໄຂ່ ຜັກ ແລະນົມ": "Khâo-nǐaw, khày, phāk, lɛ́ nóm.",
+  "ຊີ້ນເດ": "Sȋin dě?",
+  "ຊີ້ນໝູໜຶ່ງກິໂລ": "Sȋin-mǔu nʉ̀ng kī-lóo.",
+  "ໄປຕະຫຼາດນຳກັນບໍ": "Pǎy tā-lȁat nám kǎn bɔ̌ɔ?",
+  "ໄປ": "pǎy",
+  "ຊື້": "sȕu",
+  "ໄຂ່": "Khày",
+  "ຜັກ": "Phāk",
+  "ນົມ": "Nóm",
+  "ຊີ້ນ": "Sȋin",
+  "ໝູ": "Mǔu",
+  "ແລະ": "Lɛ́",
+  "ກິໂລ": "kī-lóo",
+  "ເກືອ": "Kʉ̌a",
+  "ນ້ຳປາ": "Nȁam-pǎa",
+  "ເດັກ": "Dék",
+  "ເມືອງ": "Mʉ́ang",
+  "ໄປຕະຫຼາດບໍ": "Pǎy tā-lȁat bɔ̌ɔ?",
+  "ຕ້ອງ": "tâɔng",
+  "ແດ່": "dɛ̀ɛ",
+  "ຊີ້ນໝູ": "sȋin-mǔu",
+  "ໜຶ່ງ": "nʉ̀ng",
+  "ຕະຫຼາດ": "tā-lȁat",
+  "ບໍ": "bɔ̌ɔ"
+ },
+ "suivi": "LEÇON : 18 — Partie B (Lire et écrire, A0→A1) · Les consonnes finales\nOBJECTIF : Lire les 8 consonnes finales et écrire une liste de courses.\nNOTION : les 8 finales\nVOCAB : Sȕu, Khày, Phāk, Nóm, Sȋin, Mǔu, Lɛ́, Kī-lóo, Kʉ̌a, Nȁam-pǎa\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 19 — Taper en lao"
+}

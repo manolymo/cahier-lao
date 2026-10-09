@@ -1,0 +1,658 @@
+{
+ "num": 9,
+ "phase": "Partie B · Lire et écrire",
+ "title": "Consonnes de classe basse (1)",
+ "objective": "Lire ຄ ງ ຊ ຍ ທ ນ ພ et reconnaître des noms de plats.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>cinq <small class=\"muted\">(leçon 8)</small></li><li>armoire <small class=\"muted\">(leçon 6)</small></li><li>tu, vous <small class=\"muted\">(leçon 2)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຫ້າ</span> <span class=\"rom\">Hâa</span> · cinq</li><li><span class=\"lo\">ຕູ້</span> <span class=\"rom\">Tûu</span> · armoire</li><li><span class=\"lo\">ເຈົ້າ</span> <span class=\"rom\">Jâo</span> · tu, vous</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Lire ຄ ງ ຊ ຍ ທ ນ ພ et reconnaître des noms de plats.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Noy montre le menu d&#x27;un restaurant à Clara.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ມື້ນີ້ກິນຫຍັງດີ?</span><span class=\"rom\">Mʉ̂ʉ-nȉi kǐn nyǎng dǐi?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍຢາກກິນລາບ</span><span class=\"rom\">Khɔ̂ɔy yȁak kǐn lâap.</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ລາບຊີ້ນງົວຫຼືລາບໄກ່?</span><span class=\"rom\">Lâap sȋin-ngúa lʉ̌ʉ lâap kày?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ລາບໄກ່ ແລ້ວເຂົ້າໜຽວນຳ</span><span class=\"rom\">Lâap kày. Lɛ̏ɛw khâo-nǐaw nám.</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ດີ ຂ້ອຍເອົາຕຳໝາກຫຸ່ງ</span><span class=\"rom\">Dǐi. Khɔ̂ɔy ǎo tǎm-mȁak-hùng.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ເຜັດບໍ?</span><span class=\"rom\">Phēt bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ເຜັດຫຼາຍ!</span><span class=\"rom\">Phēt lǎay!</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — On mange quoi aujourd&#x27;hui ?<br><b>Clara</b> — J&#x27;ai envie de larb.<br><b>Noy</b> — Larb de bœuf ou de poulet ?<br><b>Clara</b> — Poulet. Et du riz gluant avec.<br><b>Noy</b> — OK. Moi, je prends une salade de papaye.<br><b>Clara</b> — C&#x27;est pimenté ?<br><b>Noy</b> — Très !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que choisit Clara ?</li><li>Et Noy ?</li></ol><details><summary>Réponses</summary><ol><li>Un larb de poulet avec du riz gluant.</li><li>Une salade de papaye, très pimentée.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ລາບ</td><td class=\"rom\">Lâap</td><td>larb (salade de viande hachée)</td><td>plat national</td></tr><tr><td class=\"lo\">ຊີ້ນງົວ</td><td class=\"rom\">Sȋin-ngúa</td><td>viande de bœuf</td><td></td></tr><tr><td class=\"lo\">ໄກ່</td><td class=\"rom\">Kày</td><td>poulet</td><td></td></tr><tr><td class=\"lo\">ຕຳໝາກຫຸ່ງ</td><td class=\"rom\">Tǎm-mȁak-hùng</td><td>salade de papaye</td><td></td></tr><tr><td class=\"lo\">ຢາກ</td><td class=\"rom\">Yȁak</td><td>avoir envie de, vouloir</td><td>+ verbe</td></tr><tr><td class=\"lo\">ເອົາ</td><td class=\"rom\">Ǎo</td><td>prendre</td><td>pour commander</td></tr><tr><td class=\"lo\">ຄົນ</td><td class=\"rom\">Khón</td><td>personne</td><td>ຄ</td></tr><tr><td class=\"lo\">ງົວ</td><td class=\"rom\">Ngúa</td><td>bœuf, vache</td><td>ງ</td></tr><tr><td class=\"lo\">ທາງ</td><td class=\"rom\">Tháang</td><td>chemin</td><td>ທ</td></tr><tr><td class=\"lo\">ພໍ່</td><td class=\"rom\">Phɔ̄ɔ</td><td>père</td><td>ພ</td></tr></table></div><p class=\"note\">Au Laos, on partage tous les plats au centre de la table et on mange le riz gluant avec les doigts.</p>"
+  },
+  {
+   "title": "Point de langue : la classe basse",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຄາ</span> <span class=\"rom\">Kháa</span> = coincé, ton haut</li><li><span class=\"lo\">ງາມ</span> <span class=\"rom\">Ngáam</span> = beau</li><li><span class=\"lo\">ນາ</span> <span class=\"rom\">Náa</span> = rizière</li><li><span class=\"lo\">ພູ</span> <span class=\"rom\">Phúu</span> = montagne</li></ul><p><b>À toi de trouver :</b></p><ol><li>Quel ton ont ces mots sans marque ?</li></ol><details><summary>La règle</summary><p>Les consonnes de classe basse (ຄ ງ ຊ ຍ ທ ນ ພ ຟ ມ ຣ ລ ວ ຮ) donnent, sans marque et en syllabe vivante, le ton haut (á). [À VÉRIFIER avec un natif]</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> les sons ng (ງ) et ny (ຍ) en début de mot.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>J&#x27;ai envie de larb.</li><li>Je prends une salade de papaye.</li><li>C&#x27;est pimenté ?</li><li>On mange quoi ?</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້ອຍຢາກກິນລາບ</span> <span class=\"rom\">Khɔ̂ɔy yȁak kǐn lâap.</span></li><li><span class=\"lo\">ຂ້ອຍເອົາຕຳໝາກຫຸ່ງ</span> <span class=\"rom\">Khɔ̂ɔy ǎo tǎm-mȁak-hùng.</span></li><li><span class=\"lo\">ເຜັດບໍ?</span> <span class=\"rom\">Phēt bɔ̌ɔ?</span></li><li><span class=\"lo\">ກິນຫຍັງດີ?</span> <span class=\"rom\">Kǐn nyǎng dǐi?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Recopie les 7 consonnes de la leçon.</li><li>Écris un mini-menu de 4 plats lao.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Lis à voix haute le menu d&#x27;un restaurant lao (photo ou vrai menu) et choisis ton plat.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>14 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l09-v01",
+   "front": "ລາບ",
+   "back": "Lâap · larb (salade de viande hachée)"
+  },
+  {
+   "id": "l09-v02",
+   "front": "ຊີ້ນງົວ",
+   "back": "Sȋin-ngúa · viande de bœuf"
+  },
+  {
+   "id": "l09-v03",
+   "front": "ໄກ່",
+   "back": "Kày · poulet"
+  },
+  {
+   "id": "l09-v04",
+   "front": "ຕຳໝາກຫຸ່ງ",
+   "back": "Tǎm-mȁak-hùng · salade de papaye"
+  },
+  {
+   "id": "l09-v05",
+   "front": "ຢາກ",
+   "back": "Yȁak · avoir envie de, vouloir"
+  },
+  {
+   "id": "l09-v06",
+   "front": "ເອົາ",
+   "back": "Ǎo · prendre"
+  },
+  {
+   "id": "l09-v07",
+   "front": "ຄົນ",
+   "back": "Khón · personne"
+  },
+  {
+   "id": "l09-v08",
+   "front": "ງົວ",
+   "back": "Ngúa · bœuf, vache"
+  },
+  {
+   "id": "l09-v09",
+   "front": "ທາງ",
+   "back": "Tháang · chemin"
+  },
+  {
+   "id": "l09-v10",
+   "front": "ພໍ່",
+   "back": "Phɔ̄ɔ · père"
+  },
+  {
+   "id": "l09-p01",
+   "front": "J'ai envie de larb.",
+   "back": "ຂ້ອຍຢາກກິນລາບ · Khɔ̂ɔy yȁak kǐn lâap."
+  },
+  {
+   "id": "l09-p02",
+   "front": "Je prends une salade de papaye.",
+   "back": "ຂ້ອຍເອົາຕຳໝາກຫຸ່ງ · Khɔ̂ɔy ǎo tǎm-mȁak-hùng."
+  },
+  {
+   "id": "l09-p03",
+   "front": "C'est pimenté ?",
+   "back": "ເຜັດບໍ? · Phēt bɔ̌ɔ?"
+  },
+  {
+   "id": "l09-p04",
+   "front": "On mange quoi ?",
+   "back": "ກິນຫຍັງດີ? · Kǐn nyǎng dǐi?"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ລາບ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "larb (salade de viande hachée)",
+      "viande de bœuf",
+      "bœuf, vache",
+      "poulet"
+     ],
+     "answer": "larb (salade de viande hachée)",
+     "reveal": "<i>Lâap</i>"
+    },
+    {
+     "audio": [
+      "ຊີ້ນງົວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "viande de bœuf",
+      "père",
+      "avoir envie de, vouloir",
+      "poulet"
+     ],
+     "answer": "viande de bœuf",
+     "reveal": "<i>Sȋin-ngúa</i>"
+    },
+    {
+     "audio": [
+      "ໄກ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "poulet",
+      "salade de papaye",
+      "viande de bœuf",
+      "bœuf, vache"
+     ],
+     "answer": "poulet",
+     "reveal": "<i>Kày</i>"
+    },
+    {
+     "audio": [
+      "ຕຳໝາກຫຸ່ງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "salade de papaye",
+      "personne",
+      "chemin",
+      "viande de bœuf"
+     ],
+     "answer": "salade de papaye",
+     "reveal": "<i>Tǎm-mȁak-hùng</i>"
+    },
+    {
+     "audio": [
+      "ຢາກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "avoir envie de, vouloir",
+      "père",
+      "poulet",
+      "viande de bœuf"
+     ],
+     "answer": "avoir envie de, vouloir",
+     "reveal": "<i>Yȁak</i>"
+    },
+    {
+     "audio": [
+      "ເອົາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "prendre",
+      "poulet",
+      "personne",
+      "viande de bœuf"
+     ],
+     "answer": "prendre",
+     "reveal": "<i>Ǎo</i>"
+    },
+    {
+     "audio": [
+      "ຄົນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "personne",
+      "viande de bœuf",
+      "poulet",
+      "bœuf, vache"
+     ],
+     "answer": "personne",
+     "reveal": "<i>Khón</i>"
+    },
+    {
+     "audio": [
+      "ງົວ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "bœuf, vache",
+      "père",
+      "chemin",
+      "poulet"
+     ],
+     "answer": "bœuf, vache",
+     "reveal": "<i>Ngúa</i>"
+    },
+    {
+     "audio": [
+      "ທາງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "chemin",
+      "prendre",
+      "viande de bœuf",
+      "père"
+     ],
+     "answer": "chemin",
+     "reveal": "<i>Tháang</i>"
+    },
+    {
+     "audio": [
+      "ພໍ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "père",
+      "salade de papaye",
+      "larb (salade de viande hachée)",
+      "viande de bœuf"
+     ],
+     "answer": "père",
+     "reveal": "<i>Phɔ̄ɔ</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ມື້ນີ້ກິນຫຍັງດີ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "On mange quoi aujourd'hui ?",
+      "C'est pimenté ?",
+      "Très !",
+      "Poulet. Et du riz gluant avec."
+     ],
+     "answer": "On mange quoi aujourd'hui ?",
+     "reveal": "<i>Mʉ̂ʉ-nȉi kǐn nyǎng dǐi?</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຢາກກິນລາບ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "J'ai envie de larb.",
+      "Poulet. Et du riz gluant avec.",
+      "C'est pimenté ?",
+      "Très !"
+     ],
+     "answer": "J'ai envie de larb.",
+     "reveal": "<i>Khɔ̂ɔy yȁak kǐn lâap.</i>"
+    },
+    {
+     "audio": [
+      "ລາບຊີ້ນງົວຫຼືລາບໄກ່?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Larb de bœuf ou de poulet ?",
+      "J'ai envie de larb.",
+      "Poulet. Et du riz gluant avec.",
+      "On mange quoi aujourd'hui ?"
+     ],
+     "answer": "Larb de bœuf ou de poulet ?",
+     "reveal": "<i>Lâap sȋin-ngúa lʉ̌ʉ lâap kày?</i>"
+    },
+    {
+     "audio": [
+      "ລາບໄກ່ ແລ້ວເຂົ້າໜຽວນຳ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Poulet. Et du riz gluant avec.",
+      "J'ai envie de larb.",
+      "OK. Moi, je prends une salade de papaye.",
+      "C'est pimenté ?"
+     ],
+     "answer": "Poulet. Et du riz gluant avec.",
+     "reveal": "<i>Lâap kày. Lɛ̏ɛw khâo-nǐaw nám.</i>"
+    },
+    {
+     "audio": [
+      "ດີ ຂ້ອຍເອົາຕຳໝາກຫຸ່ງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "OK. Moi, je prends une salade de papaye.",
+      "Très !",
+      "On mange quoi aujourd'hui ?",
+      "Larb de bœuf ou de poulet ?"
+     ],
+     "answer": "OK. Moi, je prends une salade de papaye.",
+     "reveal": "<i>Dǐi. Khɔ̂ɔy ǎo tǎm-mȁak-hùng.</i>"
+    },
+    {
+     "audio": [
+      "ເຜັດບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'est pimenté ?",
+      "Larb de bœuf ou de poulet ?",
+      "J'ai envie de larb.",
+      "OK. Moi, je prends une salade de papaye."
+     ],
+     "answer": "C'est pimenté ?",
+     "reveal": "<i>Phēt bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ເຜັດຫຼາຍ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Très !",
+      "C'est pimenté ?",
+      "OK. Moi, je prends une salade de papaye.",
+      "Poulet. Et du riz gluant avec."
+     ],
+     "answer": "Très !",
+     "reveal": "<i>Phēt lǎay!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້ອຍຢາກກິນລາບ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "J'ai envie de larb.",
+      "C'est pimenté ?",
+      "On mange quoi ?",
+      "Je prends une salade de papaye."
+     ],
+     "answer": "J'ai envie de larb.",
+     "reveal": "<i>Khɔ̂ɔy yȁak kǐn lâap.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍເອົາຕຳໝາກຫຸ່ງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je prends une salade de papaye.",
+      "C'est pimenté ?",
+      "J'ai envie de larb.",
+      "On mange quoi ?"
+     ],
+     "answer": "Je prends une salade de papaye.",
+     "reveal": "<i>Khɔ̂ɔy ǎo tǎm-mȁak-hùng.</i>"
+    },
+    {
+     "audio": [
+      "ເຜັດບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est pimenté ?",
+      "On mange quoi ?",
+      "J'ai envie de larb.",
+      "Je prends une salade de papaye."
+     ],
+     "answer": "C'est pimenté ?",
+     "reveal": "<i>Phēt bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ກິນຫຍັງດີ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "On mange quoi ?",
+      "J'ai envie de larb.",
+      "Je prends une salade de papaye.",
+      "C'est pimenté ?"
+     ],
+     "answer": "On mange quoi ?",
+     "reveal": "<i>Kǐn nyǎng dǐi?</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ລາບ",
+   "rom": "Lâap",
+   "fr": "larb (salade de viande hachée)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊີ້ນງົວ",
+   "rom": "Sȋin-ngúa",
+   "fr": "viande de bœuf",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄກ່",
+   "rom": "Kày",
+   "fr": "poulet",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕຳໝາກຫຸ່ງ",
+   "rom": "Tǎm-mȁak-hùng",
+   "fr": "salade de papaye",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຢາກ",
+   "rom": "Yȁak",
+   "fr": "avoir envie de, vouloir",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເອົາ",
+   "rom": "Ǎo",
+   "fr": "prendre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄົນ",
+   "rom": "Khón",
+   "fr": "personne",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ງົວ",
+   "rom": "Ngúa",
+   "fr": "bœuf, vache",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ທາງ",
+   "rom": "Tháang",
+   "fr": "chemin",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ພໍ່",
+   "rom": "Phɔ̄ɔ",
+   "fr": "père",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຢາກກິນລາບ",
+   "rom": "Khɔ̂ɔy yȁak kǐn lâap.",
+   "fr": "J'ai envie de larb.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍເອົາຕຳໝາກຫຸ່ງ",
+   "rom": "Khɔ̂ɔy ǎo tǎm-mȁak-hùng.",
+   "fr": "Je prends une salade de papaye.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເຜັດບໍ?",
+   "rom": "Phēt bɔ̌ɔ?",
+   "fr": "C'est pimenté ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກິນຫຍັງດີ?",
+   "rom": "Kǐn nyǎng dǐi?",
+   "fr": "On mange quoi ?",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຢາກ",
+    "ກິນ",
+    "ລາບ"
+   ],
+   "rom": "Khɔ̂ɔy yȁak kǐn lâap.",
+   "fr": "J'ai envie de larb."
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ເອົາ",
+    "ຕຳໝາກຫຸ່ງ"
+   ],
+   "rom": "Khɔ̂ɔy ǎo tǎm-mȁak-hùng.",
+   "fr": "Je prends une salade de papaye."
+  },
+  {
+   "tokens": [
+    "ເຜັດ",
+    "ບໍ"
+   ],
+   "rom": "Phēt bɔ̌ɔ?",
+   "fr": "C'est pimenté ?"
+  },
+  {
+   "tokens": [
+    "ກິນ",
+    "ຫຍັງ",
+    "ດີ"
+   ],
+   "rom": "Kǐn nyǎng dǐi?",
+   "fr": "On mange quoi ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ລາບ",
+   "rom": "Lâap",
+   "fr": "larb (salade de viande hachée)"
+  },
+  {
+   "lao": "ຊີ້ນງົວ",
+   "rom": "Sȋin-ngúa",
+   "fr": "viande de bœuf"
+  },
+  {
+   "lao": "ໄກ່",
+   "rom": "Kày",
+   "fr": "poulet"
+  },
+  {
+   "lao": "ຕຳໝາກຫຸ່ງ",
+   "rom": "Tǎm-mȁak-hùng",
+   "fr": "salade de papaye"
+  },
+  {
+   "lao": "ຢາກ",
+   "rom": "Yȁak",
+   "fr": "avoir envie de, vouloir"
+  },
+  {
+   "lao": "ເອົາ",
+   "rom": "Ǎo",
+   "fr": "prendre"
+  },
+  {
+   "lao": "ຄົນ",
+   "rom": "Khón",
+   "fr": "personne"
+  },
+  {
+   "lao": "ງົວ",
+   "rom": "Ngúa",
+   "fr": "bœuf, vache"
+  },
+  {
+   "lao": "ທາງ",
+   "rom": "Tháang",
+   "fr": "chemin"
+  },
+  {
+   "lao": "ພໍ່",
+   "rom": "Phɔ̄ɔ",
+   "fr": "père"
+  }
+ ],
+ "sounds": {
+  "ຫ້າ": "Hâa",
+  "ຕູ້": "Tûu",
+  "ເຈົ້າ": "Jâo",
+  "ມື້ນີ້ກິນຫຍັງດີ": "Mʉ̂ʉ-nȉi kǐn nyǎng dǐi?",
+  "ຂ້ອຍຢາກກິນລາບ": "Khɔ̂ɔy yȁak kǐn lâap.",
+  "ລາບຊີ້ນງົວຫຼືລາບໄກ່": "Lâap sȋin-ngúa lʉ̌ʉ lâap kày?",
+  "ລາບໄກ່ ແລ້ວເຂົ້າໜຽວນຳ": "Lâap kày. Lɛ̏ɛw khâo-nǐaw nám.",
+  "ດີ ຂ້ອຍເອົາຕຳໝາກຫຸ່ງ": "Dǐi. Khɔ̂ɔy ǎo tǎm-mȁak-hùng.",
+  "ເຜັດບໍ": "Phēt bɔ̌ɔ?",
+  "ເຜັດຫຼາຍ": "Phēt lǎay!",
+  "ລາບ": "lâap",
+  "ຊີ້ນງົວ": "Sȋin-ngúa",
+  "ໄກ່": "Kày",
+  "ຕຳໝາກຫຸ່ງ": "tǎm-mȁak-hùng",
+  "ຢາກ": "yȁak",
+  "ເອົາ": "ǎo",
+  "ຄົນ": "Khón",
+  "ງົວ": "Ngúa",
+  "ທາງ": "Tháang",
+  "ພໍ່": "Phɔ̄ɔ",
+  "ຄາ": "Kháa",
+  "ງາມ": "Ngáam",
+  "ນາ": "Náa",
+  "ພູ": "Phúu",
+  "ຂ້ອຍເອົາຕຳໝາກຫຸ່ງ": "Khɔ̂ɔy ǎo tǎm-mȁak-hùng.",
+  "ກິນຫຍັງດີ": "Kǐn nyǎng dǐi?",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ກິນ": "kǐn",
+  "ເຜັດ": "phēt",
+  "ບໍ": "bɔ̌ɔ",
+  "ຫຍັງ": "nyǎng",
+  "ດີ": "dǐi"
+ },
+ "suivi": "LEÇON : 9 — Partie B (Lire et écrire, A0→A1) · Consonnes de classe basse (1)\nOBJECTIF : Lire ຄ ງ ຊ ຍ ທ ນ ພ et reconnaître des noms de plats.\nNOTION : la classe basse\nVOCAB : Lâap, Sȋin-ngúa, Kày, Tǎm-mȁak-hùng, Yȁak, Ǎo, Khón, Ngúa, Tháang, Phɔ̄ɔ\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 10 — Consonnes de classe basse (2)"
+}

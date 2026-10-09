@@ -41,6 +41,111 @@
    "title": "Bilan sons et tons · Questions oui/non",
    "phase": "Fondations",
    "file": "l05.json"
+  },
+  {
+   "id": "l06",
+   "num": 6,
+   "title": "Consonnes de classe moyenne (1)",
+   "phase": "Lire et écrire",
+   "file": "l06.json"
+  },
+  {
+   "id": "l07",
+   "num": 7,
+   "title": "Consonnes de classe moyenne (2)",
+   "phase": "Lire et écrire",
+   "file": "l07.json"
+  },
+  {
+   "id": "l08",
+   "num": 8,
+   "title": "Consonnes de classe haute",
+   "phase": "Lire et écrire",
+   "file": "l08.json"
+  },
+  {
+   "id": "l09",
+   "num": 9,
+   "title": "Consonnes de classe basse (1)",
+   "phase": "Lire et écrire",
+   "file": "l09.json"
+  },
+  {
+   "id": "l10",
+   "num": 10,
+   "title": "Consonnes de classe basse (2)",
+   "phase": "Lire et écrire",
+   "file": "l10.json"
+  },
+  {
+   "id": "l11",
+   "num": 11,
+   "title": "Syllabes vivantes et mortes",
+   "phase": "Lire et écrire",
+   "file": "l11.json"
+  },
+  {
+   "id": "l12",
+   "num": 12,
+   "title": "Le ton sans marque",
+   "phase": "Lire et écrire",
+   "file": "l12.json"
+  },
+  {
+   "id": "l13",
+   "num": 13,
+   "title": "La marque ່",
+   "phase": "Lire et écrire",
+   "file": "l13.json"
+  },
+  {
+   "id": "l14",
+   "num": 14,
+   "title": "La marque ້",
+   "phase": "Lire et écrire",
+   "file": "l14.json"
+  },
+  {
+   "id": "l15",
+   "num": 15,
+   "title": "Le ຫ muet et les lettres jointes",
+   "phase": "Lire et écrire",
+   "file": "l15.json"
+  },
+  {
+   "id": "l16",
+   "num": 16,
+   "title": "Voyelles composées",
+   "phase": "Lire et écrire",
+   "file": "l16.json"
+  },
+  {
+   "id": "l17",
+   "num": 17,
+   "title": "Voyelles spéciales et signes",
+   "phase": "Lire et écrire",
+   "file": "l17.json"
+  },
+  {
+   "id": "l18",
+   "num": 18,
+   "title": "Les consonnes finales",
+   "phase": "Lire et écrire",
+   "file": "l18.json"
+  },
+  {
+   "id": "l19",
+   "num": 19,
+   "title": "Taper en lao",
+   "phase": "Lire et écrire",
+   "file": "l19.json"
+  },
+  {
+   "id": "l20",
+   "num": 20,
+   "title": "Bilan lecture et écriture",
+   "phase": "Lire et écrire",
+   "file": "l20.json"
   }
  ]
 }

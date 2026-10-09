@@ -1,0 +1,637 @@
+{
+ "num": 17,
+ "phase": "Partie B · Lire et écrire",
+ "title": "Voyelles spéciales et signes",
+ "objective": "Lire ໄ ໃ ເ-ົາ -ຳ, les signes ໆ et ຯ, et commander au restaurant.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>bateau <small class=\"muted\">(leçon 16)</small></li><li>soupe pho <small class=\"muted\">(leçon 14)</small></li><li>loin <small class=\"muted\">(leçon 10)</small></li><li>pays <small class=\"muted\">(leçon 3)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ເຮືອ</span> <span class=\"rom\">Hʉ́a</span> · bateau</li><li><span class=\"lo\">ເຝີ</span> <span class=\"rom\">Fɤ̌ɤ</span> · soupe pho</li><li><span class=\"lo\">ໄກ</span> <span class=\"rom\">Kǎy</span> · loin</li><li><span class=\"lo\">ປະເທດ</span> <span class=\"rom\">Pá-thêet</span> · pays</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Lire ໄ ໃ ເ-ົາ -ຳ, les signes ໆ et ຯ, et commander au restaurant.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Au restaurant avec la famille.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ກິນໃຫ້ອີ່ມເດີ!</span><span class=\"rom\">Kǐn hây ìim dɤ̌ɤ!</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ອາຫານແຊບຫຼາຍໆ</span><span class=\"rom\">Ǎa-hǎan sɛ̂ɛp lǎay-lǎay.</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ເອົານ້ຳເພີ່ມບໍ?</span><span class=\"rom\">Ǎo nȁam phɤ̄ɤm bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ບໍ່ເປັນຫຍັງ ອີ່ມແລ້ວ</span><span class=\"rom\">Bɔ̀ɔ pěn nyǎng, ìim lɛ̏ɛw.</span></div></div><div class=\"line\"><span class=\"who\">ພໍ່ສົມສັກ</span><div><span class=\"lo\">ນ້ອງ ໄລ່ເງິນແດ່!</span><span class=\"rom\">Nɔ̏ɔng, lāy-ngɤ́n dɛ̀ɛ!</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂອບໃຈຫຼາຍໆພໍ່</span><span class=\"rom\">Khɔ̏ɔp-jǎy lǎay-lǎay phɔ̄ɔ.</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>M. Somsak</b> — Mangez bien !<br><b>Clara</b> — La nourriture est vraiment bonne.<br><b>M. Somsak</b> — Tu veux plus d&#x27;eau ?<br><b>Clara</b> — Non merci, je suis rassasiée.<br><b>M. Somsak</b> — S&#x27;il vous plaît, l&#x27;addition !<br><b>Clara</b> — Merci beaucoup, monsieur.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que dit M. Somsak au début ?</li><li>Comment demande-t-il l&#x27;addition ?</li></ol><details><summary>Réponses</summary><ol><li>Mangez bien (jusqu&#x27;à être rassasiés).</li><li>ນ້ອງ, ໄລ່ເງິນແດ່ !</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ໃຫ້</td><td class=\"rom\">Hây</td><td>donner ; pour que</td><td>ໃ</td></tr><tr><td class=\"lo\">ໄປ</td><td class=\"rom\">Pǎy</td><td>aller</td><td>ໄ</td></tr><tr><td class=\"lo\">ເອົາ</td><td class=\"rom\">Ǎo</td><td>prendre</td><td>ເ-ົາ</td></tr><tr><td class=\"lo\">ນ້ຳ</td><td class=\"rom\">Nȁam</td><td>eau</td><td>-ຳ</td></tr><tr><td class=\"lo\">ອີ່ມ</td><td class=\"rom\">Ìim</td><td>rassasié</td><td></td></tr><tr><td class=\"lo\">ເພີ່ມ</td><td class=\"rom\">Phɤ̄ɤm</td><td>ajouter, plus</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ໄລ່ເງິນ</td><td class=\"rom\">Lāy-ngɤ́n</td><td>l&#x27;addition (payer)</td><td></td></tr><tr><td class=\"lo\">ນ້ອງ</td><td class=\"rom\">Nɔ̏ɔng</td><td>(appeler le serveur)</td><td>on l&#x27;appelle « petit frère/sœur »</td></tr><tr><td class=\"lo\">ຫຼາຍໆ</td><td class=\"rom\">Lǎay-lǎay</td><td>très, beaucoup</td><td>ໆ = répétition</td></tr><tr><td class=\"lo\">ຯລຯ</td><td class=\"rom\">Lɛ́-ʉ̀ʉn-ʉ̀ʉn</td><td>etc.</td><td>ຯ = abréviation</td></tr></table></div><p class=\"note\">Pour appeler le serveur, on dit ນ້ອງ (s'il est plus jeune) ou ເອື້ອຍ / ອ້າຍ (s'il est plus âgé), jamais un « monsieur » distant.</p>"
+  },
+  {
+   "title": "Point de langue : ໄ ໃ ເ-ົາ -ຳ et ໆ",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ໄປ</span> <span class=\"rom\">Pǎy</span> = ay</li><li><span class=\"lo\">ໃຫ້</span> <span class=\"rom\">Hây</span> = ay (même son)</li><li><span class=\"lo\">ເອົາ</span> <span class=\"rom\">Ǎo</span> = ao</li><li><span class=\"lo\">ນ້ຳ</span> <span class=\"rom\">Nȁam</span> = am</li><li><span class=\"lo\">ຫຼາຍໆ</span> <span class=\"rom\">Lǎay-lǎay</span> = lǎay-lǎay : le mot répété</li></ul><p><b>À toi de trouver :</b></p><ol><li>ໄ et ໃ ont-ils le même son ?</li></ol><details><summary>La règle</summary><p>ໄ et ໃ se prononcent tous deux « ay » : ໃ ne s'écrit que dans une vingtaine de mots à apprendre par cœur. ເ-ົາ = ao, -ຳ = am. ໆ répète le mot précédent ; ຯ abrège (ຯລຯ = etc.).</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> « ay » dans ໄປ et ໃຫ້ : même son.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>L&#x27;addition, s&#x27;il vous plaît !</li><li>Je suis rassasiée.</li><li>C&#x27;est vraiment bon.</li><li>Tu veux de l&#x27;eau ?</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ໄລ່ເງິນແດ່!</span> <span class=\"rom\">Lāy-ngɤ́n dɛ̀ɛ!</span></li><li><span class=\"lo\">ອີ່ມແລ້ວ</span> <span class=\"rom\">Ìim lɛ̏ɛw.</span></li><li><span class=\"lo\">ແຊບຫຼາຍໆ</span> <span class=\"rom\">Sɛ̂ɛp lǎay-lǎay.</span></li><li><span class=\"lo\">ເອົານ້ຳບໍ?</span> <span class=\"rom\">Ǎo nȁam bɔ̌ɔ?</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Recopie 5 mots avec ໃ.</li><li>Écris un mini-dialogue au restaurant de 4 répliques.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Joue avec un natif une scène complète au restaurant : commander, commenter, demander l&#x27;addition.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>14 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l17-v01",
+   "front": "ໃຫ້",
+   "back": "Hây · donner ; pour que"
+  },
+  {
+   "id": "l17-v02",
+   "front": "ໄປ",
+   "back": "Pǎy · aller"
+  },
+  {
+   "id": "l17-v03",
+   "front": "ເອົາ",
+   "back": "Ǎo · prendre"
+  },
+  {
+   "id": "l17-v04",
+   "front": "ນ້ຳ",
+   "back": "Nȁam · eau"
+  },
+  {
+   "id": "l17-v05",
+   "front": "ອີ່ມ",
+   "back": "Ìim · rassasié"
+  },
+  {
+   "id": "l17-v06",
+   "front": "ເພີ່ມ",
+   "back": "Phɤ̄ɤm · ajouter, plus"
+  },
+  {
+   "id": "l17-v07",
+   "front": "ໄລ່ເງິນ",
+   "back": "Lāy-ngɤ́n · l'addition (payer)"
+  },
+  {
+   "id": "l17-v08",
+   "front": "ນ້ອງ",
+   "back": "Nɔ̏ɔng · (appeler le serveur)"
+  },
+  {
+   "id": "l17-v09",
+   "front": "ຫຼາຍໆ",
+   "back": "Lǎay-lǎay · très, beaucoup"
+  },
+  {
+   "id": "l17-v10",
+   "front": "ຯລຯ",
+   "back": "Lɛ́-ʉ̀ʉn-ʉ̀ʉn · etc."
+  },
+  {
+   "id": "l17-p01",
+   "front": "L'addition, s'il vous plaît !",
+   "back": "ໄລ່ເງິນແດ່! · Lāy-ngɤ́n dɛ̀ɛ!"
+  },
+  {
+   "id": "l17-p02",
+   "front": "Je suis rassasiée.",
+   "back": "ອີ່ມແລ້ວ · Ìim lɛ̏ɛw."
+  },
+  {
+   "id": "l17-p03",
+   "front": "C'est vraiment bon.",
+   "back": "ແຊບຫຼາຍໆ · Sɛ̂ɛp lǎay-lǎay."
+  },
+  {
+   "id": "l17-p04",
+   "front": "Tu veux de l'eau ?",
+   "back": "ເອົານ້ຳບໍ? · Ǎo nȁam bɔ̌ɔ?"
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ໃຫ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "donner ; pour que",
+      "(appeler le serveur)",
+      "eau",
+      "aller"
+     ],
+     "answer": "donner ; pour que",
+     "reveal": "<i>Hây</i>"
+    },
+    {
+     "audio": [
+      "ໄປ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "aller",
+      "très, beaucoup",
+      "l'addition (payer)",
+      "prendre"
+     ],
+     "answer": "aller",
+     "reveal": "<i>Pǎy</i>"
+    },
+    {
+     "audio": [
+      "ເອົາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "prendre",
+      "l'addition (payer)",
+      "(appeler le serveur)",
+      "très, beaucoup"
+     ],
+     "answer": "prendre",
+     "reveal": "<i>Ǎo</i>"
+    },
+    {
+     "audio": [
+      "ນ້ຳ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "eau",
+      "très, beaucoup",
+      "prendre",
+      "aller"
+     ],
+     "answer": "eau",
+     "reveal": "<i>Nȁam</i>"
+    },
+    {
+     "audio": [
+      "ອີ່ມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "rassasié",
+      "ajouter, plus",
+      "l'addition (payer)",
+      "eau"
+     ],
+     "answer": "rassasié",
+     "reveal": "<i>Ìim</i>"
+    },
+    {
+     "audio": [
+      "ເພີ່ມ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ajouter, plus",
+      "très, beaucoup",
+      "l'addition (payer)",
+      "rassasié"
+     ],
+     "answer": "ajouter, plus",
+     "reveal": "<i>Phɤ̄ɤm</i>"
+    },
+    {
+     "audio": [
+      "ໄລ່ເງິນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "l'addition (payer)",
+      "aller",
+      "donner ; pour que",
+      "très, beaucoup"
+     ],
+     "answer": "l'addition (payer)",
+     "reveal": "<i>Lāy-ngɤ́n</i>"
+    },
+    {
+     "audio": [
+      "ນ້ອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "(appeler le serveur)",
+      "prendre",
+      "etc.",
+      "rassasié"
+     ],
+     "answer": "(appeler le serveur)",
+     "reveal": "<i>Nɔ̏ɔng</i>"
+    },
+    {
+     "audio": [
+      "ຫຼາຍໆ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "très, beaucoup",
+      "etc.",
+      "donner ; pour que",
+      "(appeler le serveur)"
+     ],
+     "answer": "très, beaucoup",
+     "reveal": "<i>Lǎay-lǎay</i>"
+    },
+    {
+     "audio": [
+      "ຯລຯ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "etc.",
+      "aller",
+      "(appeler le serveur)",
+      "rassasié"
+     ],
+     "answer": "etc.",
+     "reveal": "<i>Lɛ́-ʉ̀ʉn-ʉ̀ʉn</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ກິນໃຫ້ອີ່ມເດີ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Mangez bien !",
+      "Merci beaucoup, monsieur.",
+      "Tu veux plus d'eau ?",
+      "Non merci, je suis rassasiée."
+     ],
+     "answer": "Mangez bien !",
+     "reveal": "<i>Kǐn hây ìim dɤ̌ɤ!</i>"
+    },
+    {
+     "audio": [
+      "ອາຫານແຊບຫຼາຍໆ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "La nourriture est vraiment bonne.",
+      "Merci beaucoup, monsieur.",
+      "Tu veux plus d'eau ?",
+      "Non merci, je suis rassasiée."
+     ],
+     "answer": "La nourriture est vraiment bonne.",
+     "reveal": "<i>Ǎa-hǎan sɛ̂ɛp lǎay-lǎay.</i>"
+    },
+    {
+     "audio": [
+      "ເອົານ້ຳເພີ່ມບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu veux plus d'eau ?",
+      "Mangez bien !",
+      "Merci beaucoup, monsieur.",
+      "S'il vous plaît, l'addition !"
+     ],
+     "answer": "Tu veux plus d'eau ?",
+     "reveal": "<i>Ǎo nȁam phɤ̄ɤm bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ບໍ່ເປັນຫຍັງ ອີ່ມແລ້ວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Non merci, je suis rassasiée.",
+      "S'il vous plaît, l'addition !",
+      "Merci beaucoup, monsieur.",
+      "La nourriture est vraiment bonne."
+     ],
+     "answer": "Non merci, je suis rassasiée.",
+     "reveal": "<i>Bɔ̀ɔ pěn nyǎng, ìim lɛ̏ɛw.</i>"
+    },
+    {
+     "audio": [
+      "ນ້ອງ ໄລ່ເງິນແດ່!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "S'il vous plaît, l'addition !",
+      "Non merci, je suis rassasiée.",
+      "Merci beaucoup, monsieur.",
+      "Mangez bien !"
+     ],
+     "answer": "S'il vous plaît, l'addition !",
+     "reveal": "<i>Nɔ̏ɔng, lāy-ngɤ́n dɛ̀ɛ!</i>"
+    },
+    {
+     "audio": [
+      "ຂອບໃຈຫຼາຍໆພໍ່"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Merci beaucoup, monsieur.",
+      "Non merci, je suis rassasiée.",
+      "La nourriture est vraiment bonne.",
+      "Tu veux plus d'eau ?"
+     ],
+     "answer": "Merci beaucoup, monsieur.",
+     "reveal": "<i>Khɔ̏ɔp-jǎy lǎay-lǎay phɔ̄ɔ.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ໄລ່ເງິນແດ່!"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "L'addition, s'il vous plaît !",
+      "Je suis rassasiée.",
+      "C'est vraiment bon.",
+      "Tu veux de l'eau ?"
+     ],
+     "answer": "L'addition, s'il vous plaît !",
+     "reveal": "<i>Lāy-ngɤ́n dɛ̀ɛ!</i>"
+    },
+    {
+     "audio": [
+      "ອີ່ມແລ້ວ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je suis rassasiée.",
+      "C'est vraiment bon.",
+      "Tu veux de l'eau ?",
+      "L'addition, s'il vous plaît !"
+     ],
+     "answer": "Je suis rassasiée.",
+     "reveal": "<i>Ìim lɛ̏ɛw.</i>"
+    },
+    {
+     "audio": [
+      "ແຊບຫຼາຍໆ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est vraiment bon.",
+      "Tu veux de l'eau ?",
+      "L'addition, s'il vous plaît !",
+      "Je suis rassasiée."
+     ],
+     "answer": "C'est vraiment bon.",
+     "reveal": "<i>Sɛ̂ɛp lǎay-lǎay.</i>"
+    },
+    {
+     "audio": [
+      "ເອົານ້ຳບໍ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Tu veux de l'eau ?",
+      "Je suis rassasiée.",
+      "L'addition, s'il vous plaît !",
+      "C'est vraiment bon."
+     ],
+     "answer": "Tu veux de l'eau ?",
+     "reveal": "<i>Ǎo nȁam bɔ̌ɔ?</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ໃຫ້",
+   "rom": "Hây",
+   "fr": "donner ; pour que",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄປ",
+   "rom": "Pǎy",
+   "fr": "aller",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເອົາ",
+   "rom": "Ǎo",
+   "fr": "prendre",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນ້ຳ",
+   "rom": "Nȁam",
+   "fr": "eau",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອີ່ມ",
+   "rom": "Ìim",
+   "fr": "rassasié",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເພີ່ມ",
+   "rom": "Phɤ̄ɤm",
+   "fr": "ajouter, plus",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄລ່ເງິນ",
+   "rom": "Lāy-ngɤ́n",
+   "fr": "l'addition (payer)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນ້ອງ",
+   "rom": "Nɔ̏ɔng",
+   "fr": "(appeler le serveur)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຫຼາຍໆ",
+   "rom": "Lǎay-lǎay",
+   "fr": "très, beaucoup",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຯລຯ",
+   "rom": "Lɛ́-ʉ̀ʉn-ʉ̀ʉn",
+   "fr": "etc.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ໄລ່ເງິນແດ່!",
+   "rom": "Lāy-ngɤ́n dɛ̀ɛ!",
+   "fr": "L'addition, s'il vous plaît !",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອີ່ມແລ້ວ",
+   "rom": "Ìim lɛ̏ɛw.",
+   "fr": "Je suis rassasiée.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແຊບຫຼາຍໆ",
+   "rom": "Sɛ̂ɛp lǎay-lǎay.",
+   "fr": "C'est vraiment bon.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ເອົານ້ຳບໍ?",
+   "rom": "Ǎo nȁam bɔ̌ɔ?",
+   "fr": "Tu veux de l'eau ?",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ໄລ່ເງິນ",
+    "ແດ່"
+   ],
+   "rom": "Lāy-ngɤ́n dɛ̀ɛ!",
+   "fr": "L'addition, s'il vous plaît !"
+  },
+  {
+   "tokens": [
+    "ອີ່ມ",
+    "ແລ້ວ"
+   ],
+   "rom": "Ìim lɛ̏ɛw.",
+   "fr": "Je suis rassasiée."
+  },
+  {
+   "tokens": [
+    "ແຊບ",
+    "ຫຼາຍໆ"
+   ],
+   "rom": "Sɛ̂ɛp lǎay-lǎay.",
+   "fr": "C'est vraiment bon."
+  },
+  {
+   "tokens": [
+    "ເອົາ",
+    "ນ້ຳ",
+    "ບໍ"
+   ],
+   "rom": "Ǎo nȁam bɔ̌ɔ?",
+   "fr": "Tu veux de l'eau ?"
+  }
+ ],
+ "write": [
+  {
+   "lao": "ໃຫ້",
+   "rom": "Hây",
+   "fr": "donner ; pour que"
+  },
+  {
+   "lao": "ໄປ",
+   "rom": "Pǎy",
+   "fr": "aller"
+  },
+  {
+   "lao": "ເອົາ",
+   "rom": "Ǎo",
+   "fr": "prendre"
+  },
+  {
+   "lao": "ນ້ຳ",
+   "rom": "Nȁam",
+   "fr": "eau"
+  },
+  {
+   "lao": "ອີ່ມ",
+   "rom": "Ìim",
+   "fr": "rassasié"
+  },
+  {
+   "lao": "ເພີ່ມ",
+   "rom": "Phɤ̄ɤm",
+   "fr": "ajouter, plus"
+  },
+  {
+   "lao": "ໄລ່ເງິນ",
+   "rom": "Lāy-ngɤ́n",
+   "fr": "l'addition (payer)"
+  },
+  {
+   "lao": "ນ້ອງ",
+   "rom": "Nɔ̏ɔng",
+   "fr": "(appeler le serveur)"
+  },
+  {
+   "lao": "ຫຼາຍໆ",
+   "rom": "Lǎay-lǎay",
+   "fr": "très, beaucoup"
+  },
+  {
+   "lao": "ຯລຯ",
+   "rom": "Lɛ́-ʉ̀ʉn-ʉ̀ʉn",
+   "fr": "etc."
+  }
+ ],
+ "sounds": {
+  "ເຮືອ": "Hʉ́a",
+  "ເຝີ": "Fɤ̌ɤ",
+  "ໄກ": "Kǎy",
+  "ປະເທດ": "Pá-thêet",
+  "ກິນໃຫ້ອີ່ມເດີ": "Kǐn hây ìim dɤ̌ɤ!",
+  "ອາຫານແຊບຫຼາຍໆ": "Ǎa-hǎan sɛ̂ɛp lǎay-lǎay.",
+  "ເອົານ້ຳເພີ່ມບໍ": "Ǎo nȁam phɤ̄ɤm bɔ̌ɔ?",
+  "ບໍ່ເປັນຫຍັງ ອີ່ມແລ້ວ": "Bɔ̀ɔ pěn nyǎng, ìim lɛ̏ɛw.",
+  "ນ້ອງ ໄລ່ເງິນແດ່": "Nɔ̏ɔng, lāy-ngɤ́n dɛ̀ɛ!",
+  "ຂອບໃຈຫຼາຍໆພໍ່": "Khɔ̏ɔp-jǎy lǎay-lǎay phɔ̄ɔ.",
+  "ໃຫ້": "Hây",
+  "ໄປ": "Pǎy",
+  "ເອົາ": "ǎo",
+  "ນ້ຳ": "nȁam",
+  "ອີ່ມ": "ìim",
+  "ເພີ່ມ": "Phɤ̄ɤm",
+  "ໄລ່ເງິນ": "lāy-ngɤ́n",
+  "ນ້ອງ": "Nɔ̏ɔng",
+  "ຫຼາຍໆ": "lǎay-lǎay",
+  "ຯລຯ": "Lɛ́-ʉ̀ʉn-ʉ̀ʉn",
+  "ໄລ່ເງິນແດ່": "Lāy-ngɤ́n dɛ̀ɛ!",
+  "ອີ່ມແລ້ວ": "Ìim lɛ̏ɛw.",
+  "ແຊບຫຼາຍໆ": "Sɛ̂ɛp lǎay-lǎay.",
+  "ເອົານ້ຳບໍ": "Ǎo nȁam bɔ̌ɔ?",
+  "ແດ່": "dɛ̀ɛ",
+  "ແລ້ວ": "lɛ̏ɛw",
+  "ແຊບ": "sɛ̂ɛp",
+  "ບໍ": "bɔ̌ɔ"
+ },
+ "suivi": "LEÇON : 17 — Partie B (Lire et écrire, A0→A1) · Voyelles spéciales et signes\nOBJECTIF : Lire ໄ ໃ ເ-ົາ -ຳ, les signes ໆ et ຯ, et commander au restaurant.\nNOTION : ໄ ໃ ເ-ົາ -ຳ et ໆ\nVOCAB : Hây, Pǎy, Ǎo, Nȁam, Ìim, Phɤ̄ɤm, Lāy-ngɤ́n, Nɔ̏ɔng, Lǎay-lǎay, Lɛ́-ʉ̀ʉn-ʉ̀ʉn\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 18 — Les consonnes finales"
+}

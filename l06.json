@@ -1,0 +1,635 @@
+{
+ "num": 6,
+ "phase": "Partie B · Lire et écrire",
+ "title": "Consonnes de classe moyenne (1)",
+ "objective": "Lire et écrire tes 10 premiers mots avec ກ ຈ ດ ຕ et les voyelles າ ີ ູ.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>pas encore ; encore <small class=\"muted\">(leçon 5)</small></li><li>Français(e) <small class=\"muted\">(leçon 3)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ຍັງ</span> <span class=\"rom\">Nyáng</span> · pas encore ; encore</li><li><span class=\"lo\">ຄົນຝຣັ່ງ</span> <span class=\"rom\">Khón-fa-làng</span> · Français(e)</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Lire et écrire tes 10 premiers mots avec ກ ຈ ດ ຕ et les voyelles າ ີ ູ.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara range la maison avec Noy et lit les étiquettes.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ນີ້ແມ່ນຫຍັງ?</span><span class=\"rom\">Nȉi mɛ̄ɛn nyǎng?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ນີ້ແມ່ນຈານ</span><span class=\"rom\">Nȉi mɛ̄ɛn jǎan.</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ແລ້ວນັ້ນເດ?</span><span class=\"rom\">Lɛ̏ɛw nȁn dě?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ນັ້ນແມ່ນກາເຟ</span><span class=\"rom\">Nȁn mɛ̄ɛn kǎa-féé.</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ອ່ານໄດ້ເກັ່ງເນາະ!</span><span class=\"rom\">Àan dâay kèng nɔ̄!</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ດີແທ້! ຂ້ອຍອ່ານໄດ້ແລ້ວ</span><span class=\"rom\">Dǐi thɛ̏ɛ! Khɔ̂ɔy àan dâay lɛ̏ɛw.</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Noy</b> — C&#x27;est quoi, ça ?<br><b>Clara</b> — C&#x27;est une assiette.<br><b>Noy</b> — Et ça ?<br><b>Clara</b> — Ça, c&#x27;est du café.<br><b>Noy</b> — Tu lis bien, dis donc !<br><b>Clara</b> — Super ! Je sais lire maintenant.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Quels objets Clara reconnaît-elle ?</li><li>Que dit Noy ?</li></ol><details><summary>Réponses</summary><ol><li>Une assiette (ຈານ) et du café (ກາເຟ).</li><li>Que Clara lit bien.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ກາ</td><td class=\"rom\">Kǎa</td><td>corbeau</td><td>ກ + າ</td></tr><tr><td class=\"lo\">ຕາ</td><td class=\"rom\">Tǎa</td><td>œil ; grand-père maternel</td><td>ຕ + າ</td></tr><tr><td class=\"lo\">ດີ</td><td class=\"rom\">Dǐi</td><td>bien, bon</td><td>ດ + ີ</td></tr><tr><td class=\"lo\">ຈານ</td><td class=\"rom\">Jǎan</td><td>assiette</td><td>ຈ + າ + ນ</td></tr><tr><td class=\"lo\">ກາເຟ</td><td class=\"rom\">Kǎa-féé</td><td>café</td><td></td></tr><tr><td class=\"lo\">ຕູ້</td><td class=\"rom\">Tûu</td><td>armoire</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ດູ</td><td class=\"rom\">Dǔu</td><td>regarder (rare)</td><td>[À VÉRIFIER]</td></tr><tr><td class=\"lo\">ນີ້</td><td class=\"rom\">Nȉi</td><td>ceci</td><td></td></tr><tr><td class=\"lo\">ນັ້ນ</td><td class=\"rom\">Nȁn</td><td>cela</td><td></td></tr><tr><td class=\"lo\">ອ່ານ</td><td class=\"rom\">Àan</td><td>lire</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : les consonnes ກ ຈ ດ ຕ",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ກາ</span> <span class=\"rom\">Kǎa</span> = k + aa</li><li><span class=\"lo\">ຈານ</span> <span class=\"rom\">Jǎan</span> = j + aa + n</li><li><span class=\"lo\">ດີ</span> <span class=\"rom\">Dǐi</span> = d + ii</li><li><span class=\"lo\">ຕາ</span> <span class=\"rom\">Tǎa</span> = t + aa</li></ul><p><b>À toi de trouver :</b></p><ol><li>Où s&#x27;écrit la voyelle າ par rapport à la consonne ? Et ີ ?</li><li>Ces quatre consonnes sont toutes de classe moyenne : quel ton ont ກາ, ດີ, ຕາ ?</li></ol><details><summary>La règle</summary><p>La consonne est la base de la syllabe. La voyelle longue າ (aa) se met après, ີ (ii) au-dessus, ູ (uu) en dessous. ກ ຈ ດ ຕ sont de classe moyenne : sans marque et avec une voyelle longue, la syllabe a le ton montant (ǎ). On trace chaque lettre en commençant par la petite boucle.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> le son j (entre tch et dj) de ຈ et le d franc de ດ.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>C&#x27;est quoi, ça ?</li><li>C&#x27;est une assiette.</li><li>Ça, c&#x27;est du café.</li><li>Je sais lire.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ນີ້ແມ່ນຫຍັງ?</span> <span class=\"rom\">Nȉi mɛ̄ɛn nyǎng?</span></li><li><span class=\"lo\">ນີ້ແມ່ນຈານ</span> <span class=\"rom\">Nȉi mɛ̄ɛn jǎan.</span></li><li><span class=\"lo\">ນັ້ນແມ່ນກາເຟ</span> <span class=\"rom\">Nȁn mɛ̄ɛn kǎa-féé.</span></li><li><span class=\"lo\">ຂ້ອຍອ່ານໄດ້</span> <span class=\"rom\">Khɔ̂ɔy àan dâay.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Recopie 5 fois chaque lettre : ກ ຈ ດ ຕ, en commençant par la boucle.</li><li>Écris en lao : ຕາ, ດີ, ຈານ, ກາ, sans regarder.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Étiquette 5 objets de ta maison avec leur nom en lao.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>14 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l06-v01",
+   "front": "ກາ",
+   "back": "Kǎa · corbeau"
+  },
+  {
+   "id": "l06-v02",
+   "front": "ຕາ",
+   "back": "Tǎa · œil ; grand-père maternel"
+  },
+  {
+   "id": "l06-v03",
+   "front": "ດີ",
+   "back": "Dǐi · bien, bon"
+  },
+  {
+   "id": "l06-v04",
+   "front": "ຈານ",
+   "back": "Jǎan · assiette"
+  },
+  {
+   "id": "l06-v05",
+   "front": "ກາເຟ",
+   "back": "Kǎa-féé · café"
+  },
+  {
+   "id": "l06-v06",
+   "front": "ຕູ້",
+   "back": "Tûu · armoire"
+  },
+  {
+   "id": "l06-v07",
+   "front": "ດູ",
+   "back": "Dǔu · regarder (rare)"
+  },
+  {
+   "id": "l06-v08",
+   "front": "ນີ້",
+   "back": "Nȉi · ceci"
+  },
+  {
+   "id": "l06-v09",
+   "front": "ນັ້ນ",
+   "back": "Nȁn · cela"
+  },
+  {
+   "id": "l06-v10",
+   "front": "ອ່ານ",
+   "back": "Àan · lire"
+  },
+  {
+   "id": "l06-p01",
+   "front": "C'est quoi, ça ?",
+   "back": "ນີ້ແມ່ນຫຍັງ? · Nȉi mɛ̄ɛn nyǎng?"
+  },
+  {
+   "id": "l06-p02",
+   "front": "C'est une assiette.",
+   "back": "ນີ້ແມ່ນຈານ · Nȉi mɛ̄ɛn jǎan."
+  },
+  {
+   "id": "l06-p03",
+   "front": "Ça, c'est du café.",
+   "back": "ນັ້ນແມ່ນກາເຟ · Nȁn mɛ̄ɛn kǎa-féé."
+  },
+  {
+   "id": "l06-p04",
+   "front": "Je sais lire.",
+   "back": "ຂ້ອຍອ່ານໄດ້ · Khɔ̂ɔy àan dâay."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ກາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "corbeau",
+      "cela",
+      "regarder (rare)",
+      "bien, bon"
+     ],
+     "answer": "corbeau",
+     "reveal": "<i>Kǎa</i>"
+    },
+    {
+     "audio": [
+      "ຕາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "œil ; grand-père maternel",
+      "corbeau",
+      "armoire",
+      "ceci"
+     ],
+     "answer": "œil ; grand-père maternel",
+     "reveal": "<i>Tǎa</i>"
+    },
+    {
+     "audio": [
+      "ດີ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "bien, bon",
+      "corbeau",
+      "ceci",
+      "cela"
+     ],
+     "answer": "bien, bon",
+     "reveal": "<i>Dǐi</i>"
+    },
+    {
+     "audio": [
+      "ຈານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "assiette",
+      "ceci",
+      "café",
+      "corbeau"
+     ],
+     "answer": "assiette",
+     "reveal": "<i>Jǎan</i>"
+    },
+    {
+     "audio": [
+      "ກາເຟ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "café",
+      "assiette",
+      "bien, bon",
+      "œil ; grand-père maternel"
+     ],
+     "answer": "café",
+     "reveal": "<i>Kǎa-féé</i>"
+    },
+    {
+     "audio": [
+      "ຕູ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "armoire",
+      "lire",
+      "café",
+      "cela"
+     ],
+     "answer": "armoire",
+     "reveal": "<i>Tûu</i>"
+    },
+    {
+     "audio": [
+      "ດູ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "regarder (rare)",
+      "cela",
+      "œil ; grand-père maternel",
+      "corbeau"
+     ],
+     "answer": "regarder (rare)",
+     "reveal": "<i>Dǔu</i>"
+    },
+    {
+     "audio": [
+      "ນີ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "ceci",
+      "corbeau",
+      "assiette",
+      "lire"
+     ],
+     "answer": "ceci",
+     "reveal": "<i>Nȉi</i>"
+    },
+    {
+     "audio": [
+      "ນັ້ນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "cela",
+      "ceci",
+      "regarder (rare)",
+      "lire"
+     ],
+     "answer": "cela",
+     "reveal": "<i>Nȁn</i>"
+    },
+    {
+     "audio": [
+      "ອ່ານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "lire",
+      "regarder (rare)",
+      "œil ; grand-père maternel",
+      "cela"
+     ],
+     "answer": "lire",
+     "reveal": "<i>Àan</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ນີ້ແມ່ນຫຍັງ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'est quoi, ça ?",
+      "C'est une assiette.",
+      "Super ! Je sais lire maintenant.",
+      "Et ça ?"
+     ],
+     "answer": "C'est quoi, ça ?",
+     "reveal": "<i>Nȉi mɛ̄ɛn nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ນີ້ແມ່ນຈານ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "C'est une assiette.",
+      "Super ! Je sais lire maintenant.",
+      "Ça, c'est du café.",
+      "Et ça ?"
+     ],
+     "answer": "C'est une assiette.",
+     "reveal": "<i>Nȉi mɛ̄ɛn jǎan.</i>"
+    },
+    {
+     "audio": [
+      "ແລ້ວນັ້ນເດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Et ça ?",
+      "C'est une assiette.",
+      "C'est quoi, ça ?",
+      "Super ! Je sais lire maintenant."
+     ],
+     "answer": "Et ça ?",
+     "reveal": "<i>Lɛ̏ɛw nȁn dě?</i>"
+    },
+    {
+     "audio": [
+      "ນັ້ນແມ່ນກາເຟ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Ça, c'est du café.",
+      "Tu lis bien, dis donc !",
+      "C'est une assiette.",
+      "C'est quoi, ça ?"
+     ],
+     "answer": "Ça, c'est du café.",
+     "reveal": "<i>Nȁn mɛ̄ɛn kǎa-féé.</i>"
+    },
+    {
+     "audio": [
+      "ອ່ານໄດ້ເກັ່ງເນາະ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu lis bien, dis donc !",
+      "Et ça ?",
+      "C'est quoi, ça ?",
+      "Super ! Je sais lire maintenant."
+     ],
+     "answer": "Tu lis bien, dis donc !",
+     "reveal": "<i>Àan dâay kèng nɔ̄!</i>"
+    },
+    {
+     "audio": [
+      "ດີແທ້! ຂ້ອຍອ່ານໄດ້ແລ້ວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Super ! Je sais lire maintenant.",
+      "Et ça ?",
+      "C'est une assiette.",
+      "C'est quoi, ça ?"
+     ],
+     "answer": "Super ! Je sais lire maintenant.",
+     "reveal": "<i>Dǐi thɛ̏ɛ! Khɔ̂ɔy àan dâay lɛ̏ɛw.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ນີ້ແມ່ນຫຍັງ?"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est quoi, ça ?",
+      "Ça, c'est du café.",
+      "C'est une assiette.",
+      "Je sais lire."
+     ],
+     "answer": "C'est quoi, ça ?",
+     "reveal": "<i>Nȉi mɛ̄ɛn nyǎng?</i>"
+    },
+    {
+     "audio": [
+      "ນີ້ແມ່ນຈານ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est une assiette.",
+      "Ça, c'est du café.",
+      "Je sais lire.",
+      "C'est quoi, ça ?"
+     ],
+     "answer": "C'est une assiette.",
+     "reveal": "<i>Nȉi mɛ̄ɛn jǎan.</i>"
+    },
+    {
+     "audio": [
+      "ນັ້ນແມ່ນກາເຟ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Ça, c'est du café.",
+      "C'est une assiette.",
+      "C'est quoi, ça ?",
+      "Je sais lire."
+     ],
+     "answer": "Ça, c'est du café.",
+     "reveal": "<i>Nȁn mɛ̄ɛn kǎa-féé.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍອ່ານໄດ້"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je sais lire.",
+      "Ça, c'est du café.",
+      "C'est quoi, ça ?",
+      "C'est une assiette."
+     ],
+     "answer": "Je sais lire.",
+     "reveal": "<i>Khɔ̂ɔy àan dâay.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ກາ",
+   "rom": "Kǎa",
+   "fr": "corbeau",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕາ",
+   "rom": "Tǎa",
+   "fr": "œil ; grand-père maternel",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ດີ",
+   "rom": "Dǐi",
+   "fr": "bien, bon",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຈານ",
+   "rom": "Jǎan",
+   "fr": "assiette",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ກາເຟ",
+   "rom": "Kǎa-féé",
+   "fr": "café",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕູ້",
+   "rom": "Tûu",
+   "fr": "armoire",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ດູ",
+   "rom": "Dǔu",
+   "fr": "regarder (rare)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນີ້",
+   "rom": "Nȉi",
+   "fr": "ceci",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນັ້ນ",
+   "rom": "Nȁn",
+   "fr": "cela",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອ່ານ",
+   "rom": "Àan",
+   "fr": "lire",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນີ້ແມ່ນຫຍັງ?",
+   "rom": "Nȉi mɛ̄ɛn nyǎng?",
+   "fr": "C'est quoi, ça ?",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນີ້ແມ່ນຈານ",
+   "rom": "Nȉi mɛ̄ɛn jǎan.",
+   "fr": "C'est une assiette.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ນັ້ນແມ່ນກາເຟ",
+   "rom": "Nȁn mɛ̄ɛn kǎa-féé.",
+   "fr": "Ça, c'est du café.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍອ່ານໄດ້",
+   "rom": "Khɔ̂ɔy àan dâay.",
+   "fr": "Je sais lire.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ນີ້",
+    "ແມ່ນ",
+    "ຫຍັງ"
+   ],
+   "rom": "Nȉi mɛ̄ɛn nyǎng?",
+   "fr": "C'est quoi, ça ?"
+  },
+  {
+   "tokens": [
+    "ນີ້",
+    "ແມ່ນ",
+    "ຈານ"
+   ],
+   "rom": "Nȉi mɛ̄ɛn jǎan.",
+   "fr": "C'est une assiette."
+  },
+  {
+   "tokens": [
+    "ນັ້ນ",
+    "ແມ່ນ",
+    "ກາເຟ"
+   ],
+   "rom": "Nȁn mɛ̄ɛn kǎa-féé.",
+   "fr": "Ça, c'est du café."
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ອ່ານ",
+    "ໄດ້"
+   ],
+   "rom": "Khɔ̂ɔy àan dâay.",
+   "fr": "Je sais lire."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ກາ",
+   "rom": "Kǎa",
+   "fr": "corbeau"
+  },
+  {
+   "lao": "ຕາ",
+   "rom": "Tǎa",
+   "fr": "œil ; grand-père maternel"
+  },
+  {
+   "lao": "ດີ",
+   "rom": "Dǐi",
+   "fr": "bien, bon"
+  },
+  {
+   "lao": "ຈານ",
+   "rom": "Jǎan",
+   "fr": "assiette"
+  },
+  {
+   "lao": "ກາເຟ",
+   "rom": "Kǎa-féé",
+   "fr": "café"
+  },
+  {
+   "lao": "ຕູ້",
+   "rom": "Tûu",
+   "fr": "armoire"
+  },
+  {
+   "lao": "ດູ",
+   "rom": "Dǔu",
+   "fr": "regarder (rare)"
+  },
+  {
+   "lao": "ນີ້",
+   "rom": "Nȉi",
+   "fr": "ceci"
+  },
+  {
+   "lao": "ນັ້ນ",
+   "rom": "Nȁn",
+   "fr": "cela"
+  },
+  {
+   "lao": "ອ່ານ",
+   "rom": "Àan",
+   "fr": "lire"
+  }
+ ],
+ "sounds": {
+  "ຍັງ": "Nyáng",
+  "ຄົນຝຣັ່ງ": "Khón-fa-làng",
+  "ນີ້ແມ່ນຫຍັງ": "Nȉi mɛ̄ɛn nyǎng?",
+  "ນີ້ແມ່ນຈານ": "Nȉi mɛ̄ɛn jǎan.",
+  "ແລ້ວນັ້ນເດ": "Lɛ̏ɛw nȁn dě?",
+  "ນັ້ນແມ່ນກາເຟ": "Nȁn mɛ̄ɛn kǎa-féé.",
+  "ອ່ານໄດ້ເກັ່ງເນາະ": "Àan dâay kèng nɔ̄!",
+  "ດີແທ້ ຂ້ອຍອ່ານໄດ້ແລ້ວ": "Dǐi thɛ̏ɛ! Khɔ̂ɔy àan dâay lɛ̏ɛw.",
+  "ກາ": "Kǎa",
+  "ຕາ": "Tǎa",
+  "ດີ": "Dǐi",
+  "ຈານ": "jǎan",
+  "ກາເຟ": "kǎa-féé",
+  "ຕູ້": "Tûu",
+  "ດູ": "Dǔu",
+  "ນີ້": "nȉi",
+  "ນັ້ນ": "nȁn",
+  "ອ່ານ": "àan",
+  "ຂ້ອຍອ່ານໄດ້": "Khɔ̂ɔy àan dâay.",
+  "ແມ່ນ": "mɛ̄ɛn",
+  "ຫຍັງ": "nyǎng",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ໄດ້": "dâay"
+ },
+ "suivi": "LEÇON : 6 — Partie B (Lire et écrire, A0→A1) · Consonnes de classe moyenne (1)\nOBJECTIF : Lire et écrire tes 10 premiers mots avec ກ ຈ ດ ຕ et les voyelles າ ີ ູ.\nNOTION : les consonnes ກ ຈ ດ ຕ\nVOCAB : Kǎa, Tǎa, Dǐi, Jǎan, Kǎa-féé, Tûu, Dǔu, Nȉi, Nȁn, Àan\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 7 — Consonnes de classe moyenne (2)"
+}

@@ -1,0 +1,626 @@
+{
+ "num": 7,
+ "phase": "Partie B · Lire et écrire",
+ "title": "Consonnes de classe moyenne (2)",
+ "objective": "Lire ບ ປ ຢ ອ, utiliser ອ comme support de voyelle et écrire ton prénom en lao.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>corbeau <small class=\"muted\">(leçon 6)</small></li><li>pouvoir, savoir faire <small class=\"muted\">(leçon 4)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ກາ</span> <span class=\"rom\">Kǎa</span> · corbeau</li><li><span class=\"lo\">ໄດ້</span> <span class=\"rom\">Dâay</span> · pouvoir, savoir faire</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Lire ບ ປ ຢ ອ, utiliser ອ comme support de voyelle et écrire ton prénom en lao.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Kèo aide Clara à écrire son prénom.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ເອື້ອຍຂຽນຊື່ເປັນບໍ?</span><span class=\"rom\">Ʉ̂ay khǐan sʉ̄ʉ pěn bɔ̌ɔ?</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຍັງ ຊ່ວຍແດ່</span><span class=\"rom\">Nyáng. Sūay dɛ̀ɛ.</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ຄລາຣາຂຽນແບບນີ້</span><span class=\"rom\">Clara khǐan bɛ̏ɛp nȉi.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂອບໃຈ ແລ້ວຊື່ເຈົ້າເດ?</span><span class=\"rom\">Khɔ̏ɔp-jǎy. Lɛ̏ɛw sʉ̄ʉ jâo dě?</span></div></div><div class=\"line\"><span class=\"who\">ແກ້ວ</span><div><span class=\"lo\">ແກ້ວ ງ່າຍໆ</span><span class=\"rom\">Kɛ̂ɛw. Ngāay ngāay.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ໂອເຄ ຂ້ອຍຈະລອງ</span><span class=\"rom\">Ǒo-khéé, khɔ̂ɔy já lɔ́ɔng.</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Kèo</b> — Tu sais écrire ton prénom ?<br><b>Clara</b> — Pas encore. Aide-moi.<br><b>Kèo</b> — Clara, ça s&#x27;écrit comme ça.<br><b>Clara</b> — Merci. Et ton prénom ?<br><b>Kèo</b> — Kèo. Facile.<br><b>Clara</b> — OK, je vais essayer.</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que demande Clara ?</li><li>Comment Kèo trouve-t-il son prénom ?</li></ol><details><summary>Réponses</summary><ol><li>De l&#x27;aide pour écrire son prénom.</li><li>Facile.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ບ້ານ</td><td class=\"rom\">Bȁan</td><td>village ; maison</td><td>ບ + ້ + າ + ນ</td></tr><tr><td class=\"lo\">ປາ</td><td class=\"rom\">Pǎa</td><td>poisson</td><td>ປ + າ</td></tr><tr><td class=\"lo\">ຢາ</td><td class=\"rom\">Yǎa</td><td>médicament</td><td>ຢ + າ</td></tr><tr><td class=\"lo\">ອາ</td><td class=\"rom\">Ǎa</td><td>tante paternelle (cadette)</td><td>ອ porte la voyelle</td></tr><tr><td class=\"lo\">ຂຽນ</td><td class=\"rom\">Khǐan</td><td>écrire</td><td></td></tr><tr><td class=\"lo\">ຊ່ວຍ</td><td class=\"rom\">Sūay</td><td>aider</td><td></td></tr><tr><td class=\"lo\">ແດ່</td><td class=\"rom\">Dɛ̀ɛ</td><td>s&#x27;il te plaît (adoucit)</td><td>après le verbe</td></tr><tr><td class=\"lo\">ແບບນີ້</td><td class=\"rom\">Bɛ̏ɛp-nȉi</td><td>comme ça</td><td></td></tr><tr><td class=\"lo\">ງ່າຍ</td><td class=\"rom\">Ngāay</td><td>facile</td><td></td></tr><tr><td class=\"lo\">ລອງ</td><td class=\"rom\">Lɔ́ɔng</td><td>essayer</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : ອ, support de voyelle",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ອາ</span> <span class=\"rom\">Ǎa</span> = aa (voyelle seule)</li><li><span class=\"lo\">ອີ</span> <span class=\"rom\">Ǐi</span> = ii</li><li><span class=\"lo\">ອູ</span> <span class=\"rom\">Ǔu</span> = uu</li><li><span class=\"lo\">ປາ</span> <span class=\"rom\">Pǎa</span> = p + aa</li></ul><p><b>À toi de trouver :</b></p><ol><li>Pourquoi écrit-on ອ devant une voyelle seule ?</li><li>Quelle est la différence de son entre ບ et ປ ?</li></ol><details><summary>La règle</summary><p>Une voyelle ne s'écrit jamais seule : elle a besoin d'une consonne. Pour une syllabe qui commence par une voyelle, on utilise ອ, une consonne muette (un petit coup de glotte). ບ = b sonore, ປ = p sans souffle.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> la différence entre ບ (b) et ປ (p).</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Aide-moi, s&#x27;il te plaît.</li><li>Je vais essayer.</li><li>C&#x27;est facile.</li><li>Ça s&#x27;écrit comme ça.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຊ່ວຍແດ່</span> <span class=\"rom\">Sūay dɛ̀ɛ.</span></li><li><span class=\"lo\">ຂ້ອຍຈະລອງ</span> <span class=\"rom\">Khɔ̂ɔy já lɔ́ɔng.</span></li><li><span class=\"lo\">ງ່າຍ</span> <span class=\"rom\">Ngāay.</span></li><li><span class=\"lo\">ຂຽນແບບນີ້</span> <span class=\"rom\">Khǐan bɛ̏ɛp-nȉi.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Recopie ບ ປ ຢ ອ, 5 fois chacune.</li><li>Écris ton prénom en lao avec l&#x27;aide d&#x27;un natif, puis recopie-le 3 fois.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Écris ton prénom en lao et fais-le lire à un locuteur natif.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>14 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l07-v01",
+   "front": "ບ້ານ",
+   "back": "Bȁan · village ; maison"
+  },
+  {
+   "id": "l07-v02",
+   "front": "ປາ",
+   "back": "Pǎa · poisson"
+  },
+  {
+   "id": "l07-v03",
+   "front": "ຢາ",
+   "back": "Yǎa · médicament"
+  },
+  {
+   "id": "l07-v04",
+   "front": "ອາ",
+   "back": "Ǎa · tante paternelle (cadette)"
+  },
+  {
+   "id": "l07-v05",
+   "front": "ຂຽນ",
+   "back": "Khǐan · écrire"
+  },
+  {
+   "id": "l07-v06",
+   "front": "ຊ່ວຍ",
+   "back": "Sūay · aider"
+  },
+  {
+   "id": "l07-v07",
+   "front": "ແດ່",
+   "back": "Dɛ̀ɛ · s'il te plaît (adoucit)"
+  },
+  {
+   "id": "l07-v08",
+   "front": "ແບບນີ້",
+   "back": "Bɛ̏ɛp-nȉi · comme ça"
+  },
+  {
+   "id": "l07-v09",
+   "front": "ງ່າຍ",
+   "back": "Ngāay · facile"
+  },
+  {
+   "id": "l07-v10",
+   "front": "ລອງ",
+   "back": "Lɔ́ɔng · essayer"
+  },
+  {
+   "id": "l07-p01",
+   "front": "Aide-moi, s'il te plaît.",
+   "back": "ຊ່ວຍແດ່ · Sūay dɛ̀ɛ."
+  },
+  {
+   "id": "l07-p02",
+   "front": "Je vais essayer.",
+   "back": "ຂ້ອຍຈະລອງ · Khɔ̂ɔy já lɔ́ɔng."
+  },
+  {
+   "id": "l07-p03",
+   "front": "C'est facile.",
+   "back": "ງ່າຍ · Ngāay."
+  },
+  {
+   "id": "l07-p04",
+   "front": "Ça s'écrit comme ça.",
+   "back": "ຂຽນແບບນີ້ · Khǐan bɛ̏ɛp-nȉi."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ບ້ານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "village ; maison",
+      "poisson",
+      "aider",
+      "facile"
+     ],
+     "answer": "village ; maison",
+     "reveal": "<i>Bȁan</i>"
+    },
+    {
+     "audio": [
+      "ປາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "poisson",
+      "tante paternelle (cadette)",
+      "comme ça",
+      "essayer"
+     ],
+     "answer": "poisson",
+     "reveal": "<i>Pǎa</i>"
+    },
+    {
+     "audio": [
+      "ຢາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "médicament",
+      "s'il te plaît (adoucit)",
+      "poisson",
+      "essayer"
+     ],
+     "answer": "médicament",
+     "reveal": "<i>Yǎa</i>"
+    },
+    {
+     "audio": [
+      "ອາ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "tante paternelle (cadette)",
+      "médicament",
+      "aider",
+      "écrire"
+     ],
+     "answer": "tante paternelle (cadette)",
+     "reveal": "<i>Ǎa</i>"
+    },
+    {
+     "audio": [
+      "ຂຽນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "écrire",
+      "facile",
+      "tante paternelle (cadette)",
+      "comme ça"
+     ],
+     "answer": "écrire",
+     "reveal": "<i>Khǐan</i>"
+    },
+    {
+     "audio": [
+      "ຊ່ວຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "aider",
+      "comme ça",
+      "village ; maison",
+      "médicament"
+     ],
+     "answer": "aider",
+     "reveal": "<i>Sūay</i>"
+    },
+    {
+     "audio": [
+      "ແດ່"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "s'il te plaît (adoucit)",
+      "écrire",
+      "comme ça",
+      "médicament"
+     ],
+     "answer": "s'il te plaît (adoucit)",
+     "reveal": "<i>Dɛ̀ɛ</i>"
+    },
+    {
+     "audio": [
+      "ແບບນີ້"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "comme ça",
+      "poisson",
+      "tante paternelle (cadette)",
+      "essayer"
+     ],
+     "answer": "comme ça",
+     "reveal": "<i>Bɛ̏ɛp-nȉi</i>"
+    },
+    {
+     "audio": [
+      "ງ່າຍ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "facile",
+      "écrire",
+      "aider",
+      "village ; maison"
+     ],
+     "answer": "facile",
+     "reveal": "<i>Ngāay</i>"
+    },
+    {
+     "audio": [
+      "ລອງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "essayer",
+      "poisson",
+      "écrire",
+      "facile"
+     ],
+     "answer": "essayer",
+     "reveal": "<i>Lɔ́ɔng</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ເອື້ອຍຂຽນຊື່ເປັນບໍ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu sais écrire ton prénom ?",
+      "Clara, ça s'écrit comme ça.",
+      "Kèo. Facile.",
+      "Merci. Et ton prénom ?"
+     ],
+     "answer": "Tu sais écrire ton prénom ?",
+     "reveal": "<i>Ʉ̂ay khǐan sʉ̄ʉ pěn bɔ̌ɔ?</i>"
+    },
+    {
+     "audio": [
+      "ຍັງ ຊ່ວຍແດ່"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Pas encore. Aide-moi.",
+      "Tu sais écrire ton prénom ?",
+      "OK, je vais essayer.",
+      "Merci. Et ton prénom ?"
+     ],
+     "answer": "Pas encore. Aide-moi.",
+     "reveal": "<i>Nyáng. Sūay dɛ̀ɛ.</i>"
+    },
+    {
+     "audio": [
+      "ຄລາຣາຂຽນແບບນີ້"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Clara, ça s'écrit comme ça.",
+      "Pas encore. Aide-moi.",
+      "Merci. Et ton prénom ?",
+      "Kèo. Facile."
+     ],
+     "answer": "Clara, ça s'écrit comme ça.",
+     "reveal": "<i>Clara khǐan bɛ̏ɛp nȉi.</i>"
+    },
+    {
+     "audio": [
+      "ຂອບໃຈ ແລ້ວຊື່ເຈົ້າເດ?"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Merci. Et ton prénom ?",
+      "Tu sais écrire ton prénom ?",
+      "Clara, ça s'écrit comme ça.",
+      "Pas encore. Aide-moi."
+     ],
+     "answer": "Merci. Et ton prénom ?",
+     "reveal": "<i>Khɔ̏ɔp-jǎy. Lɛ̏ɛw sʉ̄ʉ jâo dě?</i>"
+    },
+    {
+     "audio": [
+      "ແກ້ວ ງ່າຍໆ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Kèo. Facile.",
+      "Tu sais écrire ton prénom ?",
+      "Clara, ça s'écrit comme ça.",
+      "OK, je vais essayer."
+     ],
+     "answer": "Kèo. Facile.",
+     "reveal": "<i>Kɛ̂ɛw. Ngāay ngāay.</i>"
+    },
+    {
+     "audio": [
+      "ໂອເຄ ຂ້ອຍຈະລອງ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "OK, je vais essayer.",
+      "Kèo. Facile.",
+      "Clara, ça s'écrit comme ça.",
+      "Pas encore. Aide-moi."
+     ],
+     "answer": "OK, je vais essayer.",
+     "reveal": "<i>Ǒo-khéé, khɔ̂ɔy já lɔ́ɔng.</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຊ່ວຍແດ່"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Aide-moi, s'il te plaît.",
+      "Je vais essayer.",
+      "Ça s'écrit comme ça.",
+      "C'est facile."
+     ],
+     "answer": "Aide-moi, s'il te plaît.",
+     "reveal": "<i>Sūay dɛ̀ɛ.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຈະລອງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je vais essayer.",
+      "Ça s'écrit comme ça.",
+      "C'est facile.",
+      "Aide-moi, s'il te plaît."
+     ],
+     "answer": "Je vais essayer.",
+     "reveal": "<i>Khɔ̂ɔy já lɔ́ɔng.</i>"
+    },
+    {
+     "audio": [
+      "ງ່າຍ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "C'est facile.",
+      "Ça s'écrit comme ça.",
+      "Je vais essayer.",
+      "Aide-moi, s'il te plaît."
+     ],
+     "answer": "C'est facile.",
+     "reveal": "<i>Ngāay.</i>"
+    },
+    {
+     "audio": [
+      "ຂຽນແບບນີ້"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Ça s'écrit comme ça.",
+      "C'est facile.",
+      "Aide-moi, s'il te plaît.",
+      "Je vais essayer."
+     ],
+     "answer": "Ça s'écrit comme ça.",
+     "reveal": "<i>Khǐan bɛ̏ɛp-nȉi.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ບ້ານ",
+   "rom": "Bȁan",
+   "fr": "village ; maison",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ປາ",
+   "rom": "Pǎa",
+   "fr": "poisson",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຢາ",
+   "rom": "Yǎa",
+   "fr": "médicament",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ອາ",
+   "rom": "Ǎa",
+   "fr": "tante paternelle (cadette)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂຽນ",
+   "rom": "Khǐan",
+   "fr": "écrire",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊ່ວຍ",
+   "rom": "Sūay",
+   "fr": "aider",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແດ່",
+   "rom": "Dɛ̀ɛ",
+   "fr": "s'il te plaît (adoucit)",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ແບບນີ້",
+   "rom": "Bɛ̏ɛp-nȉi",
+   "fr": "comme ça",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ງ່າຍ",
+   "rom": "Ngāay",
+   "fr": "facile",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ລອງ",
+   "rom": "Lɔ́ɔng",
+   "fr": "essayer",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຊ່ວຍແດ່",
+   "rom": "Sūay dɛ̀ɛ.",
+   "fr": "Aide-moi, s'il te plaît.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຈະລອງ",
+   "rom": "Khɔ̂ɔy já lɔ́ɔng.",
+   "fr": "Je vais essayer.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ງ່າຍ",
+   "rom": "Ngāay.",
+   "fr": "C'est facile.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂຽນແບບນີ້",
+   "rom": "Khǐan bɛ̏ɛp-nȉi.",
+   "fr": "Ça s'écrit comme ça.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຊ່ວຍ",
+    "ແດ່"
+   ],
+   "rom": "Sūay dɛ̀ɛ.",
+   "fr": "Aide-moi, s'il te plaît."
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຈະ",
+    "ລອງ"
+   ],
+   "rom": "Khɔ̂ɔy já lɔ́ɔng.",
+   "fr": "Je vais essayer."
+  },
+  {
+   "tokens": [
+    "ຂຽນ",
+    "ແບບນີ້"
+   ],
+   "rom": "Khǐan bɛ̏ɛp-nȉi.",
+   "fr": "Ça s'écrit comme ça."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ບ້ານ",
+   "rom": "Bȁan",
+   "fr": "village ; maison"
+  },
+  {
+   "lao": "ປາ",
+   "rom": "Pǎa",
+   "fr": "poisson"
+  },
+  {
+   "lao": "ຢາ",
+   "rom": "Yǎa",
+   "fr": "médicament"
+  },
+  {
+   "lao": "ອາ",
+   "rom": "Ǎa",
+   "fr": "tante paternelle (cadette)"
+  },
+  {
+   "lao": "ຂຽນ",
+   "rom": "Khǐan",
+   "fr": "écrire"
+  },
+  {
+   "lao": "ຊ່ວຍ",
+   "rom": "Sūay",
+   "fr": "aider"
+  },
+  {
+   "lao": "ແດ່",
+   "rom": "Dɛ̀ɛ",
+   "fr": "s'il te plaît (adoucit)"
+  },
+  {
+   "lao": "ແບບນີ້",
+   "rom": "Bɛ̏ɛp-nȉi",
+   "fr": "comme ça"
+  },
+  {
+   "lao": "ງ່າຍ",
+   "rom": "Ngāay",
+   "fr": "facile"
+  },
+  {
+   "lao": "ລອງ",
+   "rom": "Lɔ́ɔng",
+   "fr": "essayer"
+  }
+ ],
+ "sounds": {
+  "ກາ": "Kǎa",
+  "ໄດ້": "Dâay",
+  "ເອື້ອຍຂຽນຊື່ເປັນບໍ": "Ʉ̂ay khǐan sʉ̄ʉ pěn bɔ̌ɔ?",
+  "ຍັງ ຊ່ວຍແດ່": "Nyáng. Sūay dɛ̀ɛ.",
+  "ຄລາຣາຂຽນແບບນີ້": "Clara khǐan bɛ̏ɛp nȉi.",
+  "ຂອບໃຈ ແລ້ວຊື່ເຈົ້າເດ": "Khɔ̏ɔp-jǎy. Lɛ̏ɛw sʉ̄ʉ jâo dě?",
+  "ແກ້ວ ງ່າຍໆ": "Kɛ̂ɛw. Ngāay ngāay.",
+  "ໂອເຄ ຂ້ອຍຈະລອງ": "Ǒo-khéé, khɔ̂ɔy já lɔ́ɔng.",
+  "ບ້ານ": "Bȁan",
+  "ປາ": "Pǎa",
+  "ຢາ": "Yǎa",
+  "ອາ": "Ǎa",
+  "ຂຽນ": "khǐan",
+  "ຊ່ວຍ": "sūay",
+  "ແດ່": "dɛ̀ɛ",
+  "ແບບນີ້": "bɛ̏ɛp-nȉi",
+  "ງ່າຍ": "Ngāay.",
+  "ລອງ": "lɔ́ɔng",
+  "ອີ": "Ǐi",
+  "ອູ": "Ǔu",
+  "ຊ່ວຍແດ່": "Sūay dɛ̀ɛ.",
+  "ຂ້ອຍຈະລອງ": "Khɔ̂ɔy já lɔ́ɔng.",
+  "ຂຽນແບບນີ້": "Khǐan bɛ̏ɛp-nȉi.",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ຈະ": "já"
+ },
+ "suivi": "LEÇON : 7 — Partie B (Lire et écrire, A0→A1) · Consonnes de classe moyenne (2)\nOBJECTIF : Lire ບ ປ ຢ ອ, utiliser ອ comme support de voyelle et écrire ton prénom en lao.\nNOTION : ອ, support de voyelle\nVOCAB : Bȁan, Pǎa, Yǎa, Ǎa, Khǐan, Sūay, Dɛ̀ɛ, Bɛ̏ɛp-nȉi, Ngāay, Lɔ́ɔng\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 8 — Consonnes de classe haute"
+}

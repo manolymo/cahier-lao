@@ -1,0 +1,506 @@
+{
+ "num": 20,
+ "phase": "Partie B · Lire et écrire",
+ "title": "Bilan lecture et écriture",
+ "objective": "Lire un court texte à voix haute sans romanisation et en expliquer les tons.",
+ "draft": true,
+ "sections": [
+  {
+   "title": "Avant de commencer",
+   "html": "<p class=\"note warn\"><b>Brouillon.</b> Cette leçon est une première version complète, pas encore vérifiée par un natif. Les tons et les tournures marqués [À VÉRIFIER] sont à confirmer.</p>"
+  },
+  {
+   "title": "Révision espacée",
+   "html": "<p>Dis à voix haute, sans regarder la réponse :</p><ol><li>ajouter <small class=\"muted\">(leçon 19)</small></li><li>très, beaucoup <small class=\"muted\">(leçon 17)</small></li><li>vite <small class=\"muted\">(leçon 13)</small></li><li>ceci <small class=\"muted\">(leçon 6)</small></li></ol><details><summary>Réponses</summary><ol><li><span class=\"lo\">ເພີ່ມ</span> <span class=\"rom\">Phɤ̄ɤm</span> · ajouter</li><li><span class=\"lo\">ຫຼາຍໆ</span> <span class=\"rom\">Lǎay-lǎay</span> · très, beaucoup</li><li><span class=\"lo\">ໄວ</span> <span class=\"rom\">Wáy</span> · vite</li><li><span class=\"lo\">ນີ້</span> <span class=\"rom\">Nȉi</span> · ceci</li></ol></details>"
+  },
+  {
+   "title": "Objectif",
+   "html": "<p>Lire un court texte à voix haute sans romanisation et en expliquer les tons.</p>"
+  },
+  {
+   "title": "Dialogue",
+   "html": "<p class=\"muted\">Clara lit à voix haute la présentation qu&#x27;elle a écrite.</p><div class=\"dialogue\"><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ສະບາຍດີ ຂ້ອຍຊື່ຄລາຣາ</span><span class=\"rom\">Sā-bǎay-dǐi. Khɔ̂ɔy sʉ̄ʉ Clara.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍແມ່ນຄົນຝຣັ່ງ ມາແຕ່ປາຣີ</span><span class=\"rom\">Khɔ̂ɔy mɛ̄ɛn khón-fa-làng, máa-tɛ̀ɛ pǎa-líi.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຕອນນີ້ຂ້ອຍຢູ່ວຽງຈັນ</span><span class=\"rom\">Tɔ̌ɔn-nȉi khɔ̂ɔy yùu wíang-jǎn.</span></div></div><div class=\"line\"><span class=\"who\">ຄລາຣາ</span><div><span class=\"lo\">ຂ້ອຍມັກກິນລາບແລະເຂົ້າໜຽວ</span><span class=\"rom\">Khɔ̂ɔy māk kǐn lâap lɛ́ khâo-nǐaw.</span></div></div><div class=\"line\"><span class=\"who\">ນ້ອຍ</span><div><span class=\"lo\">ອ່ານໄດ້ດີຫຼາຍ!</span><span class=\"rom\">Àan dâay dǐi lǎay!</span></div></div></div><details><summary>Traduction (seulement après avoir cherché)</summary><p><b>Clara</b> — Bonjour. Je m&#x27;appelle Clara.<br><b>Clara</b> — Je suis française, je viens de Paris.<br><b>Clara</b> — Maintenant, j&#x27;habite à Vientiane.<br><b>Clara</b> — J&#x27;aime manger du larb et du riz gluant.<br><b>Noy</b> — Tu lis très bien !</p></details>"
+  },
+  {
+   "title": "Compréhension",
+   "html": "<ol><li>Que raconte Clara ?</li></ol><details><summary>Réponses</summary><ol><li>Son prénom, son origine, où elle habite et ce qu&#x27;elle aime manger.</li></ol></details>"
+  },
+  {
+   "title": "Vocabulaire et blocs",
+   "html": "<div class=\"tbl\"><table><tr><th>Lao</th><th>Romanisation</th><th>Sens</th><th>À retenir</th></tr><tr><td class=\"lo\">ອ່ານ</td><td class=\"rom\">Àan</td><td>lire</td><td></td></tr><tr><td class=\"lo\">ຂຽນ</td><td class=\"rom\">Khǐan</td><td>écrire</td><td></td></tr><tr><td class=\"lo\">ຕົວໜັງສື</td><td class=\"rom\">Tǔa-nǎng-sʉ̌ʉ</td><td>lettre, caractère</td><td></td></tr><tr><td class=\"lo\">ປະໂຫຍກ</td><td class=\"rom\">Pá-nyôok</td><td>phrase</td><td></td></tr><tr><td class=\"lo\">ຄຳ</td><td class=\"rom\">Khám</td><td>mot</td><td></td></tr><tr><td class=\"lo\">ສຽງ</td><td class=\"rom\">Sǐang</td><td>son ; ton</td><td></td></tr></table></div>"
+  },
+  {
+   "title": "Point de langue : révision : classe + syllabe + marque = ton",
+   "html": "<p>Observe ces exemples :</p><ul><li><span class=\"lo\">ຂ້ອຍ</span> <span class=\"rom\">Khɔ̂ɔy</span> = haute + ້ → haut descendant</li><li><span class=\"lo\">ຊື່</span> <span class=\"rom\">Sʉ̄ʉ</span> = basse + ່ → moyen</li><li><span class=\"lo\">ມັກ</span> <span class=\"rom\">Māk</span> = basse, morte courte → moyen</li><li><span class=\"lo\">ລາບ</span> <span class=\"rom\">Lâap</span> = basse, morte longue → haut descendant</li></ul><p><b>À toi de trouver :</b></p><ol><li>Explique le ton de chaque mot de la première phrase du dialogue.</li></ol><details><summary>La règle</summary><p>Pour trouver le ton : 1) la classe de la consonne (haute, moyenne, basse, ou haute grâce au ຫ muet) ; 2) le type de syllabe (vivante, morte courte, morte longue) ; 3) la marque (aucune, ່, ້). Le tableau complet est dans les leçons 12 à 14.</p></details>"
+  },
+  {
+   "title": "Écoute",
+   "html": "<p>Dans l'onglet <b>Écouter</b>, trois exercices sur cette leçon : le vocabulaire, le dialogue réplique par réplique, et les phrases du « Comment tu dirais ».</p><p class=\"note\"><b>Ce que tu écoutes :</b> écoute le texte, puis lis-le en même temps que la voix.</p>"
+  },
+  {
+   "title": "Expression orale",
+   "html": "<p><b>A. Comment tu dirais… ?</b> Construis la phrase sans regarder le corrigé.</p><ol><li>Je m&#x27;appelle Clara.</li><li>Je suis française.</li><li>J&#x27;habite à Vientiane.</li><li>J&#x27;aime le larb.</li></ol><details><summary>Corrigé</summary><ol><li><span class=\"lo\">ຂ້ອຍຊື່ຄລາຣາ</span> <span class=\"rom\">Khɔ̂ɔy sʉ̄ʉ Clara.</span></li><li><span class=\"lo\">ຂ້ອຍແມ່ນຄົນຝຣັ່ງ</span> <span class=\"rom\">Khɔ̂ɔy mɛ̄ɛn khón-fa-làng.</span></li><li><span class=\"lo\">ຂ້ອຍຢູ່ວຽງຈັນ</span> <span class=\"rom\">Khɔ̂ɔy yùu wíang-jǎn.</span></li><li><span class=\"lo\">ຂ້ອຍມັກລາບ</span> <span class=\"rom\">Khɔ̂ɔy māk lâap.</span></li></ol></details><p><b>B. Shadowing (5 min).</b> Dans l'onglet Parler, écoute chaque phrase et répète en même temps que la voix. Puis fais vérifier ta prononciation par la machine.</p>"
+  },
+  {
+   "title": "Expression écrite",
+   "html": "<ol><li>Écris ta propre présentation de 6 phrases en lao, sans romanisation.</li><li>Pour chaque mot, note son ton et explique pourquoi.</li></ol>"
+  },
+  {
+   "title": "Tâche finale",
+   "html": "<p>Lis ta présentation à voix haute à un natif, sans romanisation.</p>"
+  },
+  {
+   "title": "Cartes de révision",
+   "html": "<p>10 cartes ajoutées à l'onglet <b>Réviser</b> : le vocabulaire (lao → sens) et les phrases à produire (français → lao).</p>"
+  }
+ ],
+ "cards": [
+  {
+   "id": "l20-v01",
+   "front": "ອ່ານ",
+   "back": "Àan · lire"
+  },
+  {
+   "id": "l20-v02",
+   "front": "ຂຽນ",
+   "back": "Khǐan · écrire"
+  },
+  {
+   "id": "l20-v03",
+   "front": "ຕົວໜັງສື",
+   "back": "Tǔa-nǎng-sʉ̌ʉ · lettre, caractère"
+  },
+  {
+   "id": "l20-v04",
+   "front": "ປະໂຫຍກ",
+   "back": "Pá-nyôok · phrase"
+  },
+  {
+   "id": "l20-v05",
+   "front": "ຄຳ",
+   "back": "Khám · mot"
+  },
+  {
+   "id": "l20-v06",
+   "front": "ສຽງ",
+   "back": "Sǐang · son ; ton"
+  },
+  {
+   "id": "l20-p01",
+   "front": "Je m'appelle Clara.",
+   "back": "ຂ້ອຍຊື່ຄລາຣາ · Khɔ̂ɔy sʉ̄ʉ Clara."
+  },
+  {
+   "id": "l20-p02",
+   "front": "Je suis française.",
+   "back": "ຂ້ອຍແມ່ນຄົນຝຣັ່ງ · Khɔ̂ɔy mɛ̄ɛn khón-fa-làng."
+  },
+  {
+   "id": "l20-p03",
+   "front": "J'habite à Vientiane.",
+   "back": "ຂ້ອຍຢູ່ວຽງຈັນ · Khɔ̂ɔy yùu wíang-jǎn."
+  },
+  {
+   "id": "l20-p04",
+   "front": "J'aime le larb.",
+   "back": "ຂ້ອຍມັກລາບ · Khɔ̂ɔy māk lâap."
+  }
+ ],
+ "listening": [
+  {
+   "title": "Qu'est-ce que ça veut dire ?",
+   "subtitle": "Le vocabulaire, sans le voir",
+   "instructions": "Tu entends un mot ou un bloc de la leçon. Choisis son sens.",
+   "questions": [
+    {
+     "audio": [
+      "ອ່ານ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "lire",
+      "écrire",
+      "lettre, caractère",
+      "son ; ton"
+     ],
+     "answer": "lire",
+     "reveal": "<i>Àan</i>"
+    },
+    {
+     "audio": [
+      "ຂຽນ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "écrire",
+      "lire",
+      "mot",
+      "lettre, caractère"
+     ],
+     "answer": "écrire",
+     "reveal": "<i>Khǐan</i>"
+    },
+    {
+     "audio": [
+      "ຕົວໜັງສື"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "lettre, caractère",
+      "phrase",
+      "son ; ton",
+      "mot"
+     ],
+     "answer": "lettre, caractère",
+     "reveal": "<i>Tǔa-nǎng-sʉ̌ʉ</i>"
+    },
+    {
+     "audio": [
+      "ປະໂຫຍກ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "phrase",
+      "mot",
+      "son ; ton",
+      "écrire"
+     ],
+     "answer": "phrase",
+     "reveal": "<i>Pá-nyôok</i>"
+    },
+    {
+     "audio": [
+      "ຄຳ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "mot",
+      "son ; ton",
+      "phrase",
+      "écrire"
+     ],
+     "answer": "mot",
+     "reveal": "<i>Khám</i>"
+    },
+    {
+     "audio": [
+      "ສຽງ"
+     ],
+     "prompt": "Ça veut dire…",
+     "options": [
+      "son ; ton",
+      "lire",
+      "phrase",
+      "écrire"
+     ],
+     "answer": "son ; ton",
+     "reveal": "<i>Sǐang</i>"
+    }
+   ]
+  },
+  {
+   "title": "Le dialogue, à l'oreille",
+   "subtitle": "Réplique par réplique",
+   "shuffle": false,
+   "instructions": "Écoute chaque réplique du dialogue sans le texte et choisis sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ສະບາຍດີ ຂ້ອຍຊື່ຄລາຣາ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Bonjour. Je m'appelle Clara.",
+      "Maintenant, j'habite à Vientiane.",
+      "J'aime manger du larb et du riz gluant.",
+      "Tu lis très bien !"
+     ],
+     "answer": "Bonjour. Je m'appelle Clara.",
+     "reveal": "<i>Sā-bǎay-dǐi. Khɔ̂ɔy sʉ̄ʉ Clara.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍແມ່ນຄົນຝຣັ່ງ ມາແຕ່ປາຣີ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Je suis française, je viens de Paris.",
+      "Maintenant, j'habite à Vientiane.",
+      "Tu lis très bien !",
+      "J'aime manger du larb et du riz gluant."
+     ],
+     "answer": "Je suis française, je viens de Paris.",
+     "reveal": "<i>Khɔ̂ɔy mɛ̄ɛn khón-fa-làng, máa-tɛ̀ɛ pǎa-líi.</i>"
+    },
+    {
+     "audio": [
+      "ຕອນນີ້ຂ້ອຍຢູ່ວຽງຈັນ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Maintenant, j'habite à Vientiane.",
+      "Bonjour. Je m'appelle Clara.",
+      "Tu lis très bien !",
+      "J'aime manger du larb et du riz gluant."
+     ],
+     "answer": "Maintenant, j'habite à Vientiane.",
+     "reveal": "<i>Tɔ̌ɔn-nȉi khɔ̂ɔy yùu wíang-jǎn.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍມັກກິນລາບແລະເຂົ້າໜຽວ"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "J'aime manger du larb et du riz gluant.",
+      "Bonjour. Je m'appelle Clara.",
+      "Je suis française, je viens de Paris.",
+      "Maintenant, j'habite à Vientiane."
+     ],
+     "answer": "J'aime manger du larb et du riz gluant.",
+     "reveal": "<i>Khɔ̂ɔy māk kǐn lâap lɛ́ khâo-nǐaw.</i>"
+    },
+    {
+     "audio": [
+      "ອ່ານໄດ້ດີຫຼາຍ!"
+     ],
+     "prompt": "Cette réplique veut dire…",
+     "options": [
+      "Tu lis très bien !",
+      "Je suis française, je viens de Paris.",
+      "Maintenant, j'habite à Vientiane.",
+      "J'aime manger du larb et du riz gluant."
+     ],
+     "answer": "Tu lis très bien !",
+     "reveal": "<i>Àan dâay dǐi lǎay!</i>"
+    }
+   ]
+  },
+  {
+   "title": "Les phrases clés",
+   "subtitle": "Reconnaître les phrases à produire",
+   "instructions": "Écoute la phrase et retrouve sa traduction.",
+   "questions": [
+    {
+     "audio": [
+      "ຂ້ອຍຊື່ຄລາຣາ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je m'appelle Clara.",
+      "J'habite à Vientiane.",
+      "Je suis française.",
+      "J'aime le larb."
+     ],
+     "answer": "Je m'appelle Clara.",
+     "reveal": "<i>Khɔ̂ɔy sʉ̄ʉ Clara.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍແມ່ນຄົນຝຣັ່ງ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "Je suis française.",
+      "J'habite à Vientiane.",
+      "J'aime le larb.",
+      "Je m'appelle Clara."
+     ],
+     "answer": "Je suis française.",
+     "reveal": "<i>Khɔ̂ɔy mɛ̄ɛn khón-fa-làng.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍຢູ່ວຽງຈັນ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "J'habite à Vientiane.",
+      "Je m'appelle Clara.",
+      "J'aime le larb.",
+      "Je suis française."
+     ],
+     "answer": "J'habite à Vientiane.",
+     "reveal": "<i>Khɔ̂ɔy yùu wíang-jǎn.</i>"
+    },
+    {
+     "audio": [
+      "ຂ້ອຍມັກລາບ"
+     ],
+     "prompt": "Quelle phrase entends-tu ?",
+     "options": [
+      "J'aime le larb.",
+      "Je m'appelle Clara.",
+      "Je suis française.",
+      "J'habite à Vientiane."
+     ],
+     "answer": "J'aime le larb.",
+     "reveal": "<i>Khɔ̂ɔy māk lâap.</i>"
+    }
+   ]
+  }
+ ],
+ "speak": [
+  {
+   "lao": "ອ່ານ",
+   "rom": "Àan",
+   "fr": "lire",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂຽນ",
+   "rom": "Khǐan",
+   "fr": "écrire",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຕົວໜັງສື",
+   "rom": "Tǔa-nǎng-sʉ̌ʉ",
+   "fr": "lettre, caractère",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ປະໂຫຍກ",
+   "rom": "Pá-nyôok",
+   "fr": "phrase",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຄຳ",
+   "rom": "Khám",
+   "fr": "mot",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ສຽງ",
+   "rom": "Sǐang",
+   "fr": "son ; ton",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຊື່ຄລາຣາ",
+   "rom": "Khɔ̂ɔy sʉ̄ʉ Clara.",
+   "fr": "Je m'appelle Clara.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍແມ່ນຄົນຝຣັ່ງ",
+   "rom": "Khɔ̂ɔy mɛ̄ɛn khón-fa-làng.",
+   "fr": "Je suis française.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍຢູ່ວຽງຈັນ",
+   "rom": "Khɔ̂ɔy yùu wíang-jǎn.",
+   "fr": "J'habite à Vientiane.",
+   "kind": "phrase"
+  },
+  {
+   "lao": "ຂ້ອຍມັກລາບ",
+   "rom": "Khɔ̂ɔy māk lâap.",
+   "fr": "J'aime le larb.",
+   "kind": "phrase"
+  }
+ ],
+ "build": [
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຊື່",
+    "ຄລາຣາ"
+   ],
+   "rom": "Khɔ̂ɔy sʉ̄ʉ Clara.",
+   "fr": "Je m'appelle Clara."
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ແມ່ນ",
+    "ຄົນຝຣັ່ງ"
+   ],
+   "rom": "Khɔ̂ɔy mɛ̄ɛn khón-fa-làng.",
+   "fr": "Je suis française."
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ຢູ່",
+    "ວຽງຈັນ"
+   ],
+   "rom": "Khɔ̂ɔy yùu wíang-jǎn.",
+   "fr": "J'habite à Vientiane."
+  },
+  {
+   "tokens": [
+    "ຂ້ອຍ",
+    "ມັກ",
+    "ລາບ"
+   ],
+   "rom": "Khɔ̂ɔy māk lâap.",
+   "fr": "J'aime le larb."
+  }
+ ],
+ "write": [
+  {
+   "lao": "ອ່ານ",
+   "rom": "Àan",
+   "fr": "lire"
+  },
+  {
+   "lao": "ຂຽນ",
+   "rom": "Khǐan",
+   "fr": "écrire"
+  },
+  {
+   "lao": "ຕົວໜັງສື",
+   "rom": "Tǔa-nǎng-sʉ̌ʉ",
+   "fr": "lettre, caractère"
+  },
+  {
+   "lao": "ປະໂຫຍກ",
+   "rom": "Pá-nyôok",
+   "fr": "phrase"
+  },
+  {
+   "lao": "ຄຳ",
+   "rom": "Khám",
+   "fr": "mot"
+  },
+  {
+   "lao": "ສຽງ",
+   "rom": "Sǐang",
+   "fr": "son ; ton"
+  }
+ ],
+ "sounds": {
+  "ເພີ່ມ": "Phɤ̄ɤm",
+  "ຫຼາຍໆ": "Lǎay-lǎay",
+  "ໄວ": "Wáy",
+  "ນີ້": "Nȉi",
+  "ສະບາຍດີ ຂ້ອຍຊື່ຄລາຣາ": "Sā-bǎay-dǐi. Khɔ̂ɔy sʉ̄ʉ Clara.",
+  "ຂ້ອຍແມ່ນຄົນຝຣັ່ງ ມາແຕ່ປາຣີ": "Khɔ̂ɔy mɛ̄ɛn khón-fa-làng, máa-tɛ̀ɛ pǎa-líi.",
+  "ຕອນນີ້ຂ້ອຍຢູ່ວຽງຈັນ": "Tɔ̌ɔn-nȉi khɔ̂ɔy yùu wíang-jǎn.",
+  "ຂ້ອຍມັກກິນລາບແລະເຂົ້າໜຽວ": "Khɔ̂ɔy māk kǐn lâap lɛ́ khâo-nǐaw.",
+  "ອ່ານໄດ້ດີຫຼາຍ": "Àan dâay dǐi lǎay!",
+  "ອ່ານ": "Àan",
+  "ຂຽນ": "Khǐan",
+  "ຕົວໜັງສື": "Tǔa-nǎng-sʉ̌ʉ",
+  "ປະໂຫຍກ": "Pá-nyôok",
+  "ຄຳ": "Khám",
+  "ສຽງ": "Sǐang",
+  "ຂ້ອຍ": "khɔ̂ɔy",
+  "ຊື່": "sʉ̄ʉ",
+  "ມັກ": "māk",
+  "ລາບ": "lâap",
+  "ຂ້ອຍຊື່ຄລາຣາ": "Khɔ̂ɔy sʉ̄ʉ Clara.",
+  "ຂ້ອຍແມ່ນຄົນຝຣັ່ງ": "Khɔ̂ɔy mɛ̄ɛn khón-fa-làng.",
+  "ຂ້ອຍຢູ່ວຽງຈັນ": "Khɔ̂ɔy yùu wíang-jǎn.",
+  "ຂ້ອຍມັກລາບ": "Khɔ̂ɔy māk lâap.",
+  "ຄລາຣາ": "Clara",
+  "ແມ່ນ": "mɛ̄ɛn",
+  "ຄົນຝຣັ່ງ": "khón-fa-làng",
+  "ຢູ່": "yùu",
+  "ວຽງຈັນ": "wíang-jǎn"
+ },
+ "suivi": "LEÇON : 20 — Partie B (Lire et écrire, A0→A1) · Bilan lecture et écriture\nOBJECTIF : Lire un court texte à voix haute sans romanisation et en expliquer les tons.\nNOTION : révision : classe + syllabe + marque = ton\nVOCAB : Àan, Khǐan, Tǔa-nǎng-sʉ̌ʉ, Pá-nyôok, Khám, Sǐang\nERREURS RÉCURRENTES : (à remplir)\nPROCHAINE : Leçon 21 — Les nombres 0 à 100"
+}
